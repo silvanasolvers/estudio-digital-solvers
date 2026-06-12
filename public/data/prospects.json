@@ -200,6 +200,52 @@
         "Bot comercial para WhatsApp entrenado con tono Blubba: cercano, seguro y vendedor, sin sonar robot.",
         "Estructura de pauta + pixel + mapa de calor para medir producto visto, intención, conversación y siguiente acción."
       ]
+    },
+    {
+      "slug": "casa-piedra-san-rafael",
+      "company": "Casa Piedra San Rafael",
+      "sector": "hotel, glamping y hospedaje natural",
+      "city": "San Rafael, Antioquia",
+      "tone": "natural, premium y confiable",
+      "accent": "#8EA64B",
+      "secondary": "#F2D28B",
+      "status": "Instagram + WhatsApp, sin motor de reserva propio visible",
+      "leadProblem": "Casa Piedra ya tiene una promesa muy potente: naturaleza, descanso y experiencia en San Rafael. Pero si la reserva depende de Instagram, un wa.link y respuestas manuales, muchas personas pueden emocionarse con el lugar y perderse antes de confirmar fecha, cupo, tarifa, plan o forma de pago.",
+      "opportunity": "Crear una landing de reservas con habitaciones/glamping, experiencias, comida, ubicación, preguntas frecuentes, galería real y WhatsApp asistido convierte la atención turística en solicitudes ordenadas. La pauta deja de buscar solo seguidores y empieza a llenar fechas con intención medible.",
+      "proofLine": "Lectura preliminar basada en la captura enviada el 12 de junio de 2026, el perfil público @casapiedrasanrafael, su bio de reserva por wa.link/4l1ekf y búsquedas públicas donde aparece como hospedaje en San Rafael. Se valida con métricas y disponibilidad reales antes de pautar.",
+      "audience": "Parejas, familias y viajeros de Medellín/Antioquia que buscan naturaleza, río, descanso, glamping y escapadas de fin de semana.",
+      "adAngle": "Naturaleza como lujo + reserva fácil + experiencia en San Rafael",
+      "whatsappCta": "Quiero llenar más fechas con reservas directas",
+      "findings": [
+        "El perfil comunica una experiencia clara: hotel, glamping, hospedaje, naturaleza y reserva inmediata por WhatsApp.",
+        "Con 3.978 seguidores visibles en la captura, el reto no es solo crecer comunidad: es convertir visitas al perfil en reservas confirmadas.",
+        "Los destacados de hotel, food, reserva, experiencia y nosotros son buena base, pero deberían aterrizar en una ruta propia que responda dudas y mida intención."
+      ],
+      "siteIssues": [
+        "No se ve una landing o motor de reserva propio que organice habitaciones, glamping, tarifas, disponibilidad, alimentación, ubicación, horarios, políticas y experiencias.",
+        "La decisión turística necesita confianza visual y logística. Si la persona debe preguntar todo por WhatsApp, puede comparar con otro hotel que sí muestre precios, planes y condiciones desde el inicio.",
+        "La pauta enviada solo al perfil o al WhatsApp pierde data: no deja claro qué experiencia llamó la atención, qué fecha buscaban, cuántas personas eran o en qué punto abandonaron."
+      ],
+      "losses": [
+        "Un viajero puede guardar el perfil, mirar fotos y no reservar porque no encuentra rápido disponibilidad, precios, plan de pareja, plan familiar o cómo llegar.",
+        "Cada conversación manual sobre fechas, cupos, comida, mascotas, parqueadero, río, jacuzzi o pagos consume tiempo y puede quedarse sin seguimiento.",
+        "Sin pixel, landing y eventos de reserva, la pauta no aprende qué público trae huéspedes reales ni qué experiencia llena mejor los fines de semana."
+      ],
+      "heatmapData": [
+        "Interés por experiencia. Ver si las personas hacen clic en habitaciones, glamping, comida, río, ubicación, planes románticos o planes familiares.",
+        "Fricción de reserva. Detectar si abandonan antes de ver tarifas, disponibilidad, políticas, cómo llegar o botón de WhatsApp.",
+        "Data para ocupación. Usar clics y consultas para impulsar fechas flojas, paquetes específicos y remarketing a quienes casi reservaron."
+      ],
+      "campaigns": [
+        "Campaña de escapada natural para Medellín y Antioquia con creativos de río, descanso, glamping y experiencia de pareja/familia.",
+        "Campaña de reserva directa a landing con fechas, planes y WhatsApp asistido para filtrar cupos, número de personas y presupuesto.",
+        "Remarketing a visitantes que vieron planes o tocaron WhatsApp, con seguimiento por fecha disponible, paquete y recordatorio de reserva."
+      ],
+      "deliverables": [
+        "Landing de reservas Casa Piedra con galería, alojamientos, experiencias, comida, ubicación, políticas, FAQ y CTA a WhatsApp.",
+        "Bot comercial para WhatsApp entrenado para fechas, disponibilidad, tarifas, planes, pagos, cómo llegar y preguntas frecuentes.",
+        "Estructura de pauta + pixel + mapa de calor para medir interés por plan, fecha, experiencia, conversación y reserva."
+      ]
     }
   ]
 }
