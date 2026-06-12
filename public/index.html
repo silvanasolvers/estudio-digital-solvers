@@ -793,6 +793,61 @@
       font-weight: 700;
     }
 
+    .contact-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+      margin-top: 22px;
+    }
+
+    .contact-card {
+      min-height: 190px;
+      display: grid;
+      align-content: space-between;
+      gap: 18px;
+      padding: 18px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: rgba(255, 255, 255, 0.055);
+    }
+
+    .contact-card b {
+      display: block;
+      color: #fff;
+      font-size: 22px;
+      line-height: 1;
+    }
+
+    .contact-card span {
+      display: block;
+      margin-top: 6px;
+      color: var(--accent);
+      font-size: 12px;
+      font-weight: 950;
+      text-transform: uppercase;
+    }
+
+    .contact-card p {
+      margin: 0;
+      color: #c9cdc5;
+      font-size: 14px;
+      font-weight: 650;
+    }
+
+    .contact-card a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 40px;
+      padding: 0 12px;
+      border: 1px solid color-mix(in srgb, var(--accent) 60%, transparent);
+      border-radius: var(--radius);
+      color: #07100c;
+      background: var(--accent);
+      font-size: 13px;
+      font-weight: 950;
+    }
+
     .internal-panel {
       position: fixed;
       right: 18px;
@@ -895,6 +950,10 @@
       }
 
       .cards {
+        grid-template-columns: 1fr;
+      }
+
+      .contact-grid {
         grid-template-columns: 1fr;
       }
 
@@ -1176,6 +1235,24 @@
             <div class="cta-box" data-field="whatsappCta">Quiero activar mi presencia digital</div>
             <p class="fine">Este estudio es una lectura preliminar. Los resultados dependen de oferta, pauta, presupuesto, atención comercial y seguimiento.</p>
           </aside>
+        </div>
+        <div class="contact-grid" aria-label="Contactos Solvers">
+          <article class="contact-card">
+            <div>
+              <b>Valentina</b>
+              <span>Frente comercial y cliente</span>
+            </div>
+            <p>Acompaña la conversación inicial, entiende la necesidad del negocio, coordina el alcance y aterriza el siguiente paso con el equipo.</p>
+            <a href="https://wa.me/573113064578" target="_blank" rel="noopener">Hablar con Valentina</a>
+          </article>
+          <article class="contact-card">
+            <div>
+              <b>Valentin</b>
+              <span>Estrategia y arquitectura Solvers</span>
+            </div>
+            <p>Define la solución técnica, agente, medición, automatizaciones y la forma de convertir datos en un sistema real de ventas.</p>
+            <a href="https://wa.me/573216424600" target="_blank" rel="noopener">Hablar con Valentin</a>
+          </article>
         </div>
       </section>
     </main>
