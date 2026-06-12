@@ -54,4 +54,11 @@
 - [x] Rehacer Casa Candela para que no se sienta como plantilla genérica.
 - [x] Agregar tratamiento visual propio con imagen real, universo de marca y scroll más editorial.
 - [x] Verificar render local por DOM y `npm run check`.
-- [ ] Desplegar y verificar producción.
+- [x] Desplegar y verificar producción.
+
+## Review Casa Candela identidad visual
+
+- Se agregó `theme: "resort"` para Casa Candela con portada usando imagen real pública de villa, logo oficial, tipografía editorial y tratamiento cálido/hotelero.
+- Se agregó sección `Universo de marca` con galería real de Casa Candela y 4 pasos: deseo, elección, claridad y reserva.
+- Producción final: commit `de5aab8`, Dokploy deployment `5ExyyCzfHrh9-84g-vLW6` terminó `done`.
+- Verificación pública: `https://estudios-digitales.solversai.cloud/empresa/casa-candela?v=de5aab8` HTTP 200; tema `resort`, hero con `Casa-Candela-Villa-Deluxe`, logo cargado, 3 imágenes de galería, 4 pasos, 2 contactos, sin overflow horizontal en 393x852 y 1440x900, fuente mínima 12px.
