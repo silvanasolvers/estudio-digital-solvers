@@ -1,0 +1,13 @@
+{
+  "name": "estudio-digital-solvers",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Plantilla Solvers para micro-estudios digitales personalizados por empresa.",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node scripts/check.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

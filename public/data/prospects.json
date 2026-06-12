@@ -1,0 +1,113 @@
+{
+  "defaultSlug": "la-casa-del-sabor",
+  "prospects": [
+    {
+      "slug": "la-casa-del-sabor",
+      "company": "La Casa del Sabor",
+      "sector": "restaurante local",
+      "city": "Medellín",
+      "tone": "cercano y familiar",
+      "accent": "#00E5A0",
+      "secondary": "#FFCF5C",
+      "status": "Sin página web visible",
+      "leadProblem": "Hoy dependen de recomendaciones, ubicación y redes sociales, pero no tienen un centro digital propio para convertir búsquedas en reservas, domicilios o conversaciones.",
+      "opportunity": "Crear una página rápida, clara y conectada a WhatsApp permite que cada pauta, historia o búsqueda local termine en una acción medible.",
+      "proofLine": "Lectura preliminar basada en presencia digital visible. Se valida con datos reales antes de ejecutar pauta.",
+      "audience": "Personas cerca de la zona buscando almuerzo, cena, celebraciones o domicilios.",
+      "adAngle": "Antojo inmediato + prueba visual + WhatsApp directo",
+      "whatsappCta": "Quiero activar mi presencia digital",
+      "findings": [
+        "No hay una página propia que organice menú, ubicación, horarios y contacto.",
+        "Instagram puede inspirar, pero no reemplaza una ruta de conversion clara.",
+        "Sin pixel ni landing, la pauta pierde aprendizaje y remarketing."
+      ],
+      "losses": [
+        "Clientes comparan opciones y eligen al que les responde mas rapido.",
+        "La marca depende de plataformas prestadas y mensajes manuales.",
+        "Cada campana empieza desde cero porque no hay audiencia acumulada."
+      ],
+      "campaigns": [
+        "Campana de descubrimiento para personas cerca del restaurante.",
+        "Anuncio de plato estrella con boton directo a WhatsApp.",
+        "Remarketing a visitantes que vieron menu o ubicacion."
+      ],
+      "deliverables": [
+        "Landing de venta con menu, ubicacion, galeria y WhatsApp.",
+        "Configuracion de Meta Ads con mensajes por intencion.",
+        "Panel simple para leer conversaciones, fuente y proxima accion."
+      ]
+    },
+    {
+      "slug": "ferreteria-la-70",
+      "company": "Ferretería La 70",
+      "sector": "ferretería y materiales",
+      "city": "Bello",
+      "tone": "directo y confiable",
+      "accent": "#45A3FF",
+      "secondary": "#FF6A3D",
+      "status": "Presencia digital fragmentada",
+      "leadProblem": "El cliente necesita saber rápido si tienen el producto, cuánto cuesta y cómo pedirlo. Sin página, la venta se frena en preguntas repetidas.",
+      "opportunity": "Una web catálogo enfocada en WhatsApp convierte búsquedas de urgencia en conversaciones comerciales ordenadas.",
+      "proofLine": "Lectura preliminar basada en presencia digital visible. Se valida inventario, margen y cobertura antes de pautar.",
+      "audience": "Maestros, contratistas, administradores y hogares con necesidad inmediata.",
+      "adAngle": "Disponibilidad + solución rápida + asesor por WhatsApp",
+      "whatsappCta": "Quiero ver el plan para mi ferretería",
+      "findings": [
+        "No existe un catálogo básico que ayude a filtrar productos de alta rotación.",
+        "La pauta sin pagina manda trafico a conversaciones desordenadas.",
+        "La empresa podria capturar demanda local de alta intencion."
+      ],
+      "losses": [
+        "Ventas pequenas consumen tiempo porque todo se responde manualmente.",
+        "Competidores con catalogo parecen mas confiables aunque tengan el mismo producto.",
+        "No queda historial limpio de productos consultados por los clientes."
+      ],
+      "campaigns": [
+        "Campaña por categorías de alta demanda.",
+        "Anuncios de urgencia por zona con asesor en WhatsApp.",
+        "Remarketing a personas que consultaron una categoria."
+      ],
+      "deliverables": [
+        "Web catalogo con categorias, productos ancla y CTA.",
+        "Ruta de WhatsApp por tipo de necesidad.",
+        "Estructura inicial de pauta local y medicion."
+      ]
+    },
+    {
+      "slug": "alma-estetica",
+      "company": "Alma Estética",
+      "sector": "centro estético",
+      "city": "Envigado",
+      "tone": "premium y aspiracional",
+      "accent": "#F06292",
+      "secondary": "#00D4FF",
+      "status": "Sin embudo de reserva",
+      "leadProblem": "La atención se ve atractiva en redes, pero no hay una experiencia propia que explique tratamientos, resuelva objeciones y lleve a reserva.",
+      "opportunity": "Una landing por tratamiento permite educar, segmentar y activar pauta con mensajes distintos para cada intención.",
+      "proofLine": "Lectura preliminar basada en presencia digital visible. Se valida oferta, ticket y agenda antes de ejecutar pauta.",
+      "audience": "Mujeres y hombres interesados en verse mejor con confianza, claridad y agenda fácil.",
+      "adAngle": "Resultado deseado + confianza + reserva asistida",
+      "whatsappCta": "Quiero atraer pacientes mejor filtrados",
+      "findings": [
+        "La propuesta de valor no esta concentrada en una pagina clara.",
+        "Cada tratamiento necesita objeciones, beneficios y CTA propio.",
+        "Sin medición, es difícil saber qué anuncio trae reservas reales."
+      ],
+      "losses": [
+        "Prospectos curiosos ocupan el mismo espacio que prospectos listos para reservar.",
+        "La confianza depende demasiado de conversaciones uno a uno.",
+        "La pauta no aprende por tratamiento ni por nivel de intención."
+      ],
+      "campaigns": [
+        "Campaña por tratamiento con landing específica.",
+        "Anuncios de confianza: proceso, resultados, agenda.",
+        "Remarketing a visitantes que no reservaron."
+      ],
+      "deliverables": [
+        "Landing premium por servicio principal.",
+        "Mensajes de pauta por dolor, deseo y objecion.",
+        "Sistema de captura y seguimiento por WhatsApp."
+      ]
+    }
+  ]
+}
