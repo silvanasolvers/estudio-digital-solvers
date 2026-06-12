@@ -6,6 +6,9 @@
 - [x] Agregar datos demo y rutas por empresa.
 - [x] Verificar responsive y carga de datos.
 - [x] Dejar servidor local listo para revisión.
+- [ ] Analizar Tulia Boots y adaptar el micro-estudio a ecommerce con agente de ventas.
+- [ ] Agregar prospecto `tulia-boots` con hallazgos personalizados.
+- [ ] Verificar la ruta local y dejar lista la actualización para deploy.
 
 ## Review
 

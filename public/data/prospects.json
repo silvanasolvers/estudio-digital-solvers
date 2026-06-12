@@ -108,6 +108,42 @@
         "Mensajes de pauta por dolor, deseo y objecion.",
         "Sistema de captura y seguimiento por WhatsApp."
       ]
+    },
+    {
+      "slug": "tulia-boots",
+      "company": "Tulia Boots",
+      "sector": "marca colombiana de botas en cuero",
+      "city": "Medellín",
+      "tone": "premium, directo y aspiracional",
+      "accent": "#E7C58A",
+      "secondary": "#FFFFFF",
+      "status": "Ecommerce activo, sin agente comercial visible",
+      "leadProblem": "Tulia ya tiene marca, comunidad y tienda online. La fuga no está en verse pequeña: está en que cada pregunta sin respuesta rápida puede enfriar una intención real de compra, especialmente cuando el cliente viene desde Instagram y espera atención inmediata.",
+      "opportunity": "Conectar su Shopify, Instagram y WhatsApp a un agente Solvers personalizado permitiría responder tallas, disponibilidad, materiales, envíos, cambios, showroom y compras internacionales sin depender de que alguien esté disponible en ese momento.",
+      "proofLine": "Lectura preliminar basada en Instagram público, tuliaboots.com y la conversación pendiente desde el 26 de mayo hasta hoy, 12 de junio de 2026. Se valida con acceso a métricas reales antes de ejecutar.",
+      "audience": "Mujeres que aman botas de cuero, compradoras desde Instagram, visitantes del showroom y clientas fuera de Medellín.",
+      "adAngle": "Botas hechas en Colombia + asesoría inmediata + compra segura por WhatsApp",
+      "whatsappCta": "Quiero ver el agente para Tulia",
+      "findings": [
+        "Tienen un ecommerce activo en Shopify con catálogo amplio, WhatsApp y presencia fuerte en Instagram.",
+        "El punto débil visible no es la página: es la capa de atención, seguimiento y recuperación de conversaciones.",
+        "Si un mensaje comercial queda sin respuesta desde el 26 de mayo, una clienta con intención también puede quedarse esperando por talla, precio, envío o disponibilidad."
+      ],
+      "losses": [
+        "La comunidad de más de 31 mil seguidores puede generar demanda diaria, pero la intención se enfría si la respuesta llega tarde.",
+        "Un botón de WhatsApp ayuda, pero no clasifica intención, no recuerda conversaciones y no empuja el cierre de forma automática.",
+        "Sin agente, cada consulta repetida sobre tallas, materiales, envíos o cambios consume tiempo humano y deja ventas sin seguimiento."
+      ],
+      "campaigns": [
+        "Campaña de tráfico desde Instagram a productos estrella con asesor automático por WhatsApp.",
+        "Recuperación de conversaciones: quien pregunta y no compra recibe seguimiento útil, no spam.",
+        "Remarketing para visitantes de botas, sale y compras internacionales con mensajes distintos por intención."
+      ],
+      "deliverables": [
+        "Agente Solvers personalizado con tono Tulia: elegante, cercano y vendedor sin sonar robot.",
+        "Flujos para tallas, disponibilidad, materiales, envíos, cambios, showroom y compras internacionales.",
+        "Panel de oportunidades para saber qué producto preguntaron, qué tan caliente está el lead y qué acción sigue."
+      ]
     }
   ]
 }

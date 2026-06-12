@@ -930,8 +930,8 @@
             <p class="eyebrow">Micro-estudio personalizado</p>
             <h1>Estudio digital para <span data-field="company">tu empresa</span></h1>
             <p class="hero-copy">
-              El problema no es falta de clientes. Es que hoy muchos negocios están invisibles cuando el cliente ya está buscando, comparando y listo para escribir por WhatsApp.
-              <strong data-field="company">Tu empresa</strong> puede convertir esa intención en una ruta clara de venta.
+              El problema no siempre es falta de clientes. Es que muchos negocios pierden intención cuando la persona está mirando, comparando, preguntando y esperando respuesta.
+              <strong data-field="company">Tu empresa</strong> puede convertir esa atención en una ruta clara de venta.
             </p>
             <div class="hero-actions">
               <a class="button primary" href="#diagnostico">Ver diagnóstico</a>
@@ -960,7 +960,7 @@
                 </div>
                 <div class="signal-tile">
                   <b>Canal</b>
-                  <span>Web + WhatsApp</span>
+                  <span>Web + WhatsApp + agente</span>
                 </div>
                 <div class="signal-tile">
                   <b>Medición</b>
@@ -1022,8 +1022,8 @@
             <article class="row-card">
               <span>01</span>
               <div>
-                <h3>Crear el punto de conversión</h3>
-                <p>Una landing con mensaje, oferta, prueba visual, ubicación y WhatsApp. No un sitio decorativo: una herramienta de venta.</p>
+                <h3>Optimizar el punto de conversión</h3>
+                <p>Una web, tienda o landing con mensaje, oferta, prueba visual, WhatsApp y seguimiento. No una vitrina quieta: una herramienta de venta.</p>
               </div>
             </article>
             <article class="row-card">
@@ -1036,8 +1036,8 @@
             <article class="row-card">
               <span>03</span>
               <div>
-                <h3>Medir lo que sí importa</h3>
-                <p>Fuente del lead, tipo de consulta, intención y siguiente acción. Sin eso, la pauta se vuelve gasto.</p>
+                <h3>Medir y responder lo que sí importa</h3>
+                <p>Fuente del lead, producto consultado, intención, tiempo de respuesta y siguiente acción. Sin eso, la pauta se vuelve gasto.</p>
               </div>
             </article>
           </div>
@@ -1070,7 +1070,7 @@
             <p class="eyebrow">Siguiente movimiento</p>
             <h2>Montamos el sistema, no solo la pieza bonita</h2>
             <p>
-              La propuesta es darle a <strong data-field="company">la empresa</strong> una presencia que pueda recibir pauta, explicar bien la oferta y llevar al cliente a una conversación ordenada.
+              La propuesta es darle a <strong data-field="company">la empresa</strong> una presencia que pueda recibir pauta, explicar bien la oferta, responder mejor y llevar al cliente a una conversación ordenada.
             </p>
             <div class="offer-list" id="deliverableList"></div>
           </div>
@@ -1141,10 +1141,13 @@
           const card = document.createElement("article");
           card.className = "card";
           const label = labels[index] || String(index + 1).padStart(2, "0");
+          const parts = item.split(/(?<=\.)\s+/);
+          const title = parts[0] || item;
+          const body = parts.slice(1).join(" ").trim();
           card.innerHTML = `
             <span class="number">${label}</span>
-            <h3>${item.split(".")[0]}.</h3>
-            <p>${item.split(".").slice(1).join(".").trim() || item}</p>
+            <h3>${title}</h3>
+            ${body ? `<p>${body}</p>` : ""}
           `;
           root.appendChild(card);
         });
