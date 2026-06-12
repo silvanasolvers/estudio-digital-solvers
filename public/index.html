@@ -27,6 +27,7 @@
       --blue: #45a3ff;
       --brand-wash: rgba(0, 229, 160, 0.12);
       --brand-wash-2: rgba(69, 163, 255, 0.12);
+      --hero-image: none;
       --shadow: 0 28px 90px rgba(0, 0, 0, 0.42);
       --radius: 8px;
     }
@@ -247,6 +248,39 @@
       color: #fff;
     }
 
+    .client-mark {
+      display: none;
+      align-items: center;
+      gap: 14px;
+      margin-bottom: 18px;
+    }
+
+    .client-mark img {
+      width: 74px;
+      height: 74px;
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      border-radius: 999px;
+      object-fit: cover;
+      background: rgba(255, 255, 255, 0.08);
+      box-shadow: 0 18px 50px rgba(0, 0, 0, 0.24);
+    }
+
+    .client-mark span {
+      display: block;
+      color: color-mix(in srgb, var(--accent) 82%, white 18%);
+      font-size: 13px;
+      font-weight: 950;
+      text-transform: uppercase;
+    }
+
+    .client-mark b {
+      display: block;
+      margin-top: 3px;
+      color: #fff;
+      font-size: 18px;
+      line-height: 1.05;
+    }
+
     .hero-actions {
       display: flex;
       flex-wrap: wrap;
@@ -380,6 +414,106 @@
       line-height: 1.15;
     }
 
+    .brand-world {
+      display: none;
+      background:
+        linear-gradient(180deg, color-mix(in srgb, var(--paper) 88%, white 12%), var(--paper));
+      color: #15120e;
+      padding: 78px clamp(16px, 4vw, 54px);
+      scroll-margin-top: 88px;
+    }
+
+    .brand-world-layout {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(320px, 0.64fr);
+      gap: clamp(22px, 4vw, 54px);
+      align-items: center;
+    }
+
+    .brand-world-copy p {
+      max-width: 660px;
+      margin: 18px 0 0;
+      color: #5f574b;
+      font-size: 18px;
+      font-weight: 650;
+    }
+
+    .experience-path {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 10px;
+      margin-top: 30px;
+    }
+
+    .path-step {
+      min-height: 120px;
+      padding: 16px;
+      border: 1px solid rgba(49, 37, 21, 0.16);
+      border-radius: var(--radius);
+      background: var(--paper-card);
+      box-shadow: 0 18px 42px rgba(44, 35, 15, 0.08);
+    }
+
+    .path-step span {
+      display: block;
+      color: var(--accent);
+      font-size: 12px;
+      font-weight: 950;
+      text-transform: uppercase;
+    }
+
+    .path-step b {
+      display: block;
+      margin-top: 10px;
+      color: #19140e;
+      font-size: 18px;
+      line-height: 1.06;
+    }
+
+    .experience-collage {
+      display: grid;
+      grid-template-columns: 0.8fr 1fr;
+      grid-template-rows: 190px 190px;
+      gap: 12px;
+    }
+
+    .experience-frame {
+      position: relative;
+      min-height: 180px;
+      border-radius: var(--radius);
+      overflow: hidden;
+      box-shadow: 0 26px 60px rgba(49, 37, 21, 0.18);
+      background: #21170f;
+    }
+
+    .experience-frame:first-child {
+      grid-row: span 2;
+    }
+
+    .experience-frame img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      filter: saturate(0.9) contrast(1.03);
+    }
+
+    .experience-frame::after {
+      content: attr(data-label);
+      position: absolute;
+      left: 12px;
+      right: 12px;
+      bottom: 12px;
+      padding: 10px 12px;
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      border-radius: 8px;
+      background: rgba(20, 13, 7, 0.72);
+      color: #fff8ee;
+      font-size: 12px;
+      font-weight: 950;
+      text-transform: uppercase;
+      backdrop-filter: blur(12px);
+    }
+
     .story-scroll {
       background:
         linear-gradient(180deg, var(--brand-dark), color-mix(in srgb, var(--brand-dark) 86%, var(--accent) 14%));
@@ -470,6 +604,92 @@
       color: var(--ink);
       padding: 84px clamp(16px, 4vw, 54px);
       scroll-margin-top: 88px;
+    }
+
+    body[data-theme="resort"] {
+      background:
+        linear-gradient(180deg, var(--brand-dark) 0%, #21170f 38%, var(--paper) 38%, var(--paper) 100%);
+    }
+
+    body[data-theme="resort"] .topbar {
+      background: linear-gradient(180deg, rgba(22, 17, 12, 0.86), rgba(22, 17, 12, 0));
+    }
+
+    body[data-theme="resort"] .hero {
+      min-height: 96vh;
+      min-height: 96svh;
+      align-items: center;
+      background:
+        linear-gradient(90deg, rgba(22, 17, 12, 0.92) 0%, rgba(22, 17, 12, 0.64) 48%, rgba(22, 17, 12, 0.24) 100%),
+        linear-gradient(0deg, rgba(22, 17, 12, 0.94), rgba(22, 17, 12, 0.1) 58%, rgba(22, 17, 12, 0.34)),
+        var(--hero-image);
+      background-size: cover;
+      background-position: center;
+    }
+
+    body[data-theme="resort"] #growthCanvas {
+      opacity: 0.08;
+      mix-blend-mode: screen;
+    }
+
+    body[data-theme="resort"] .hero::before {
+      opacity: 0;
+    }
+
+    body[data-theme="resort"] h1 {
+      max-width: 770px;
+      font-family: Georgia, "Times New Roman", serif;
+      font-size: clamp(54px, 8vw, 112px);
+      font-weight: 500;
+      line-height: 0.9;
+      text-transform: none;
+    }
+
+    body[data-theme="resort"] h2 {
+      font-family: Georgia, "Times New Roman", serif;
+      font-weight: 500;
+      text-transform: none;
+    }
+
+    body[data-theme="resort"] .client-mark {
+      display: flex;
+    }
+
+    body[data-theme="resort"] .diagnosis-panel {
+      background:
+        linear-gradient(145deg, rgba(255, 248, 238, 0.18), rgba(255, 248, 238, 0.06)),
+        rgba(22, 17, 12, 0.74);
+    }
+
+    body[data-theme="resort"] .status-card,
+    body[data-theme="resort"] .next-step {
+      background: color-mix(in srgb, var(--accent) 16%, rgba(22, 17, 12, 0.82));
+    }
+
+    body[data-theme="resort"] .brand-world {
+      display: block;
+    }
+
+    body[data-theme="resort"] .story-scroll {
+      background:
+        linear-gradient(180deg, #21170f 0%, #34291c 48%, #17120c 100%);
+    }
+
+    body[data-theme="resort"] .story-sticky,
+    body[data-theme="resort"] .journey-card,
+    body[data-theme="resort"] .offer-copy {
+      background:
+        linear-gradient(145deg, rgba(255, 248, 238, 0.13), rgba(255, 248, 238, 0.04)),
+        rgba(255, 255, 255, 0.035);
+    }
+
+    body[data-theme="resort"] .impact-map {
+      background:
+        linear-gradient(rgba(49, 37, 21, 0.08) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(49, 37, 21, 0.08) 1px, transparent 1px),
+        radial-gradient(circle at 74% 28%, rgba(201, 155, 90, 0.5), transparent 18rem),
+        radial-gradient(circle at 24% 74%, rgba(184, 201, 143, 0.42), transparent 18rem);
+      background-size: 44px 44px, 44px 44px, auto, auto;
     }
 
     .section-light {
@@ -1064,6 +1284,7 @@
       .hero-grid,
       .section-kicker,
       .story-grid,
+      .brand-world-layout,
       .split,
       .heatmap-grid,
       .offer {
@@ -1081,6 +1302,10 @@
 
       .cards {
         grid-template-columns: 1fr;
+      }
+
+      .experience-path {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
       }
 
       .contact-grid {
@@ -1141,10 +1366,30 @@
 
       .signal-grid,
       .identity-strip,
+      .experience-path,
+      .experience-collage,
       .mock-body,
       .row-card,
       .journey-card {
         grid-template-columns: 1fr;
+      }
+
+      .experience-collage {
+        grid-template-rows: none;
+      }
+
+      .experience-frame:first-child {
+        grid-row: auto;
+      }
+
+      .client-mark img {
+        width: 58px;
+        height: 58px;
+      }
+
+      body[data-theme="resort"] .hero {
+        min-height: auto;
+        background-position: center top;
       }
 
       .journey-card {
@@ -1234,6 +1479,13 @@
         <canvas id="growthCanvas" aria-hidden="true"></canvas>
         <div class="hero-grid">
           <div>
+            <div class="client-mark" aria-label="Marca analizada">
+              <img data-image="logoImage" alt="">
+              <span>
+                <span>Lectura visual</span>
+                <b data-field="tone">Identidad propia</b>
+              </span>
+            </div>
             <p class="eyebrow">Micro-estudio personalizado</p>
             <h1>Estudio digital para <span data-field="company">tu empresa</span></h1>
             <p class="hero-copy">
@@ -1290,6 +1542,18 @@
               </div>
             </div>
           </aside>
+        </div>
+      </section>
+
+      <section class="brand-world" id="universo">
+        <div class="wrap brand-world-layout">
+          <div class="brand-world-copy">
+            <p class="eyebrow">Universo de marca</p>
+            <h2>Primero se vende la experiencia, después la reserva</h2>
+            <p data-field="experienceIntro">Cuando la marca ya tiene deseo visual, el mini-estudio debe mostrar cómo convertir esa emoción en una ruta concreta de decisión.</p>
+            <div class="experience-path" id="experiencePath"></div>
+          </div>
+          <div class="experience-collage" id="experienceCollage" aria-label="Referentes visuales de la empresa"></div>
         </div>
       </section>
 
@@ -1487,12 +1751,15 @@
       };
 
       const fields = document.querySelectorAll("[data-field]");
+      const imageNodes = document.querySelectorAll("[data-image]");
       const lossCards = document.querySelector("#lossCards");
       const findingCards = document.querySelector("#findingCards");
       const siteAuditCards = document.querySelector("#siteAuditCards");
       const heatmapCards = document.querySelector("#heatmapCards");
       const campaignCards = document.querySelector("#campaignCards");
       const journeySteps = document.querySelector("#journeySteps");
+      const experiencePath = document.querySelector("#experiencePath");
+      const experienceCollage = document.querySelector("#experienceCollage");
       const deliverableList = document.querySelector("#deliverableList");
       const editor = document.querySelector("#quickEditor");
       const internalPanel = document.querySelector("#internalPanel");
@@ -1511,7 +1778,8 @@
         brandPersonality: "Marca propia con presencia digital visible",
         visualCue: "Visual claro para convertir confianza",
         conversionFocus: "Convertir interés en conversación",
-        scrollIntro: "El estudio ordena el camino desde la primera impresión hasta la conversación comercial, para que el negocio entienda qué se mejora y por qué importa."
+        scrollIntro: "El estudio ordena el camino desde la primera impresión hasta la conversación comercial, para que el negocio entienda qué se mejora y por qué importa.",
+        experienceIntro: "Cuando la marca ya tiene deseo visual, el mini-estudio debe mostrar cómo convertir esa emoción en una ruta concreta de decisión."
       };
       const defaultJourney = [
         {
@@ -1545,6 +1813,20 @@
           node.textContent = prospect[key] || defaultFieldCopy[key] || "";
         });
 
+        imageNodes.forEach((node) => {
+          const key = node.dataset.image;
+          const url = prospect[key];
+          if (!url) {
+            node.hidden = true;
+            node.removeAttribute("src");
+            return;
+          }
+          node.hidden = false;
+          node.src = url;
+          node.alt = prospect.company || "";
+        });
+
+        document.body.dataset.theme = prospect.theme || "default";
         document.documentElement.style.setProperty("--accent", prospect.accent || "#00e5a0");
         document.documentElement.style.setProperty("--secondary", prospect.secondary || "#ffcf5c");
         document.documentElement.style.setProperty("--brand-dark", prospect.brandDark || "#050607");
@@ -1552,6 +1834,7 @@
         document.documentElement.style.setProperty("--paper-card", prospect.paperCard || "#fffaf0");
         document.documentElement.style.setProperty("--brand-wash", prospect.brandWash || "rgba(0, 229, 160, 0.12)");
         document.documentElement.style.setProperty("--brand-wash-2", prospect.brandWash2 || "rgba(69, 163, 255, 0.12)");
+        document.documentElement.style.setProperty("--hero-image", prospect.heroImage ? `url("${prospect.heroImage}")` : "none");
         document.title = `${prospect.company} | Estudio digital SolversAI`;
       }
 
@@ -1600,6 +1883,30 @@
         });
       }
 
+      function renderExperiencePath(items) {
+        experiencePath.innerHTML = "";
+        (items || []).forEach((item, index) => {
+          const card = document.createElement("article");
+          card.className = "path-step";
+          card.innerHTML = `
+            <span>${String(index + 1).padStart(2, "0")}</span>
+            <b>${item}</b>
+          `;
+          experiencePath.appendChild(card);
+        });
+      }
+
+      function renderExperienceCollage(items) {
+        experienceCollage.innerHTML = "";
+        (items || []).slice(0, 3).forEach((item) => {
+          const frame = document.createElement("figure");
+          frame.className = "experience-frame";
+          frame.dataset.label = item.label || "";
+          frame.innerHTML = `<img src="${item.src}" alt="${item.label || state.current.company || "Referencia visual"}" loading="lazy">`;
+          experienceCollage.appendChild(frame);
+        });
+      }
+
       function setEditor(prospect) {
         if (!editor) return;
         Array.from(editor.elements).forEach((element) => {
@@ -1616,6 +1923,8 @@
         renderCards(heatmapCards, state.current.heatmapData || defaultHeatmapData, ["D1", "D2", "D3"]);
         renderCards(campaignCards, state.current.campaigns || [], ["01", "02", "03"]);
         renderJourney(state.current.journey || defaultJourney);
+        renderExperiencePath(state.current.experiencePath || []);
+        renderExperienceCollage(state.current.galleryImages || []);
         renderDeliverables(state.current.deliverables || []);
         setEditor(state.current);
       }

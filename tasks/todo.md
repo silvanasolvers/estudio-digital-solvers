@@ -49,3 +49,9 @@
 - Verificación local: `npm run check` OK con 7 prospectos; Chromium móvil 393x852 y desktop 1440x900 sin overflow horizontal, mínimo de fuente 12px, título correcto y 2 contactos visibles.
 - Deploy: commit `0adbd97`, push a `main`, Dokploy app `estudios-digitales` deployment `EdEvBglEqDSwkByObT8NY` terminó `done`.
 - Producción: `https://estudios-digitales.solversai.cloud/empresa/janethy-fiestas` HTTP 200; `/data/prospects.json` contiene Janethy; Chromium público móvil/desktop confirmó título, dolor de tallas/disponibilidad/precio, sin overflow horizontal, mínimo 12px y 2 contactos visibles.
+
+## Casa Candela identidad visual
+- [x] Rehacer Casa Candela para que no se sienta como plantilla genérica.
+- [x] Agregar tratamiento visual propio con imagen real, universo de marca y scroll más editorial.
+- [x] Verificar render local por DOM y `npm run check`.
+- [ ] Desplegar y verificar producción.

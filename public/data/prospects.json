@@ -253,6 +253,9 @@
       "sector": "hotel boutique, spa y experiencias wellness",
       "city": "Sopetrán, Antioquia",
       "tone": "bohemio, cálido, premium y sensorial",
+      "theme": "resort",
+      "logoImage": "https://casacandela.co/wp-content/uploads/2025/09/cropped-Logo-Casa-Candela-02-scaled-1.png",
+      "heroImage": "https://casacandela.co/wp-content/uploads/2026/04/Casa-Candela-Villa-Deluxe.webp",
       "accent": "#C99B5A",
       "secondary": "#B8C98F",
       "brandDark": "#16110C",
@@ -271,6 +274,27 @@
       "adAngle": "Desconexión cerca de Medellín + experiencia por intención + reserva guiada",
       "whatsappCta": "Quiero convertir más seguidores en reservas y planes",
       "scrollIntro": "Para una marca como Casa Candela el scroll debe sentirse como una visita guiada: primero se entiende la experiencia, luego se elige el tipo de plan, después se resuelven dudas y finalmente se llega a reserva con contexto.",
+      "experienceIntro": "Casa Candela no se vende como un servicio frío: se vende como pausa, sol, agua, bienestar, villa, ritual y escapada. El estudio debe sentirse como esa visita guiada antes de pedir una reserva.",
+      "experiencePath": [
+        "Deseo: escapada, descanso o celebración cerca de Medellín",
+        "Elección: habitación, villa, día de spa, Ubari o restaurante",
+        "Claridad: tarifas, fecha, personas, políticas y ubicación",
+        "Reserva: WhatsApp llega con contexto y menos fricción"
+      ],
+      "galleryImages": [
+        {
+          "label": "Villa premium",
+          "src": "https://casacandela.co/wp-content/uploads/2026/04/Casa-Candela-Villa-Deluxe.webp"
+        },
+        {
+          "label": "Habitaciones",
+          "src": "https://casacandela.co/wp-content/uploads/2026/04/Casa-Candela-Habitacion-Deluxe.webp"
+        },
+        {
+          "label": "Día de sol y spa",
+          "src": "https://casacandela.co/wp-content/uploads/2025/07/DIA-DE-SOL.jpg"
+        }
+      ],
       "journey": [
         {
           "title": "La persona llega por deseo, no por urgencia",
