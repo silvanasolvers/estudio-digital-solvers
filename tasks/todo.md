@@ -67,4 +67,12 @@
 - [x] Reorganizar hero y microtextos para hablar de dolores de cabeza y solución.
 - [x] Cambiar etiquetas genéricas del panel por `Dolor 01`, `Dolor 02`, `Solución 01`, `Solución 02`.
 - [x] Reescribir recorrido, pérdidas, campañas y entregables con foco en reserva, WhatsApp filtrado y medición.
-- [ ] Desplegar y verificar producción.
+- [x] Desplegar y verificar producción.
+
+## Review Casa Candela contenido de valor
+
+- Se reescribió el hero para explicar el dolor específico: Casa Candela ya atrae deseo, pero la reserva se dispersa cuando la persona debe decidir entre habitaciones, villas, día de spa, Ubari, tarifas, fechas, políticas o cómo reservar.
+- Se reemplazaron microtextos genéricos por cuatro bloques concretos: `Dolor 01` interés disperso, `Dolor 02` WhatsApp sin filtro, `Solución 01` ruta por intención y `Solución 02` reserva asistida.
+- Se reforzaron pérdidas, recorrido, campañas y entregables con foco en dolores de cabeza y solución comercial.
+- Producción final: commit `16f835a`, Dokploy deployment `GQSOal0Iz0ZNhj2Ne3H8O` terminó `done`.
+- Verificación pública: `https://estudios-digitales.solversai.cloud/empresa/casa-candela?v=16f835a` sin overflow horizontal en móvil 393x852 y desktop 1440x900, fuente mínima 12px, 4 bloques dolor/solución, 3 imágenes de galería y 2 contactos visibles.
