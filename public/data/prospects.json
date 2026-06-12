@@ -129,10 +129,20 @@
         "El punto débil visible no es la página: es la capa de atención, seguimiento y recuperación de conversaciones.",
         "Si un mensaje comercial queda sin respuesta desde el 26 de mayo, una clienta con intención también puede quedarse esperando por talla, precio, envío o disponibilidad."
       ],
+      "siteIssues": [
+        "La prueba social esta partida. En la home aparecen testimonios de clientas felices, pero en productos visibles se repite 'No reviews' o 'Be the first to write a review', lo que baja confianza justo antes de comprar.",
+        "La experiencia de producto puede confundir. En una ficha se ven talla, guia, boton de carrito, disponibilidad de recogida fallida, aviso de agotado y notificacion en la misma ruta; ahi se pierde claridad para una compradora con duda.",
+        "WhatsApp existe, pero no actua como asesor. El link esta visible en menu y footer, pero no responde por contexto del producto, talla, envio, showroom o compra internacional ni recupera a quien abandona."
+      ],
       "losses": [
         "La comunidad de más de 31 mil seguidores puede generar demanda diaria, pero la intención se enfría si la respuesta llega tarde.",
         "Un botón de WhatsApp ayuda, pero no clasifica intención, no recuerda conversaciones y no empuja el cierre de forma automática.",
         "Sin agente, cada consulta repetida sobre tallas, materiales, envíos o cambios consume tiempo humano y deja ventas sin seguimiento."
+      ],
+      "heatmapData": [
+        "Clics por producto y talla. Saber que botas, colores y tallas generan mas interes aunque no terminen en compra.",
+        "Scroll y friccion. Ver si las clientas llegan a guia de tallas, reseñas, disponibilidad, cambios, envios o si abandonan antes.",
+        "Data accionable para vender. Con esos datos Tulia puede priorizar inventario, pauta, mensajes de WhatsApp y mejoras de pagina con evidencia real."
       ],
       "campaigns": [
         "Campaña de tráfico desde Instagram a productos estrella con asesor automático por WhatsApp.",
@@ -142,7 +152,7 @@
       "deliverables": [
         "Agente Solvers personalizado con tono Tulia: elegante, cercano y vendedor sin sonar robot.",
         "Flujos para tallas, disponibilidad, materiales, envíos, cambios, showroom y compras internacionales.",
-        "Panel de oportunidades para saber qué producto preguntaron, qué tan caliente está el lead y qué acción sigue."
+        "Mapa de calor + panel de oportunidades para saber que producto miraron, donde se frenaron, que preguntaron y que accion sigue."
       ]
     }
   ]

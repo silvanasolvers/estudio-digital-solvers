@@ -635,6 +635,73 @@
       font-weight: 650;
     }
 
+    .heatmap-grid {
+      display: grid;
+      grid-template-columns: minmax(300px, 0.72fr) minmax(0, 1fr);
+      gap: 18px;
+      align-items: stretch;
+    }
+
+    .heatmap-panel {
+      position: relative;
+      min-height: 430px;
+      border: 1px solid rgba(0, 0, 0, 0.12);
+      border-radius: var(--radius);
+      background:
+        radial-gradient(circle at 72% 26%, rgba(255, 79, 104, 0.55), transparent 7rem),
+        radial-gradient(circle at 43% 48%, color-mix(in srgb, var(--accent) 62%, transparent), transparent 8rem),
+        radial-gradient(circle at 56% 78%, rgba(69, 163, 255, 0.4), transparent 8rem),
+        linear-gradient(180deg, #111314, #050607);
+      color: #fff;
+      overflow: hidden;
+      box-shadow: 0 28px 70px rgba(44, 35, 15, 0.14);
+    }
+
+    .heatmap-grid .cards {
+      grid-template-columns: 1fr;
+    }
+
+    .heatmap-grid .card {
+      min-height: 150px;
+    }
+
+    .heatmap-panel::before {
+      content: "";
+      position: absolute;
+      inset: 18px;
+      border: 1px solid rgba(255, 255, 255, 0.14);
+      border-radius: var(--radius);
+      background:
+        linear-gradient(rgba(255, 255, 255, 0.08) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.08) 1px, transparent 1px);
+      background-size: 52px 52px;
+    }
+
+    .heatmap-copy {
+      position: relative;
+      z-index: 1;
+      display: grid;
+      align-content: end;
+      min-height: inherit;
+      padding: 30px;
+    }
+
+    .heatmap-copy strong {
+      display: block;
+      font-size: clamp(34px, 5vw, 58px);
+      line-height: 0.9;
+      font-family: "Archivo Black", Impact, sans-serif;
+      text-transform: uppercase;
+    }
+
+    .heatmap-copy p {
+      max-width: 430px;
+      margin: 16px 0 0;
+      color: #d4d8d2;
+      font-size: 17px;
+      font-weight: 700;
+    }
+
     .black-band {
       background: #050607;
       color: var(--ink);
@@ -818,6 +885,7 @@
       .hero-grid,
       .section-kicker,
       .split,
+      .heatmap-grid,
       .offer {
         grid-template-columns: 1fr;
       }
@@ -1054,6 +1122,34 @@
         </div>
       </section>
 
+      <section class="section-light" id="pagina">
+        <div class="wrap">
+          <div class="section-kicker">
+            <h2>Fallas visibles en la página</h2>
+            <p>Antes de venderles un agente, les mostramos dónde la tienda puede estar perdiendo confianza, clics y conversaciones de compra.</p>
+          </div>
+          <div class="cards" id="siteAuditCards"></div>
+        </div>
+      </section>
+
+      <section class="section-light" id="heatmap">
+        <div class="wrap heatmap-grid">
+          <div class="heatmap-panel" aria-label="Mapa de calor y datos de comportamiento">
+            <div class="heatmap-copy">
+              <strong>Mapa de calor</strong>
+              <p>Instalamos medición para ver clics, scroll, zonas ignoradas y productos que generan intención antes de comprar o escribir.</p>
+            </div>
+          </div>
+          <div>
+            <div class="section-kicker" style="display:block;margin-bottom:16px">
+              <h2>Data para vender mejor</h2>
+              <p style="margin-top:14px">El valor no es solo ver visitas. Es quedar con evidencia para mejorar la página, priorizar productos y entrenar al agente comercial.</p>
+            </div>
+            <div class="cards" id="heatmapCards"></div>
+          </div>
+        </div>
+      </section>
+
       <section class="section-light">
         <div class="wrap">
           <div class="section-kicker">
@@ -1111,11 +1207,23 @@
       const fields = document.querySelectorAll("[data-field]");
       const lossCards = document.querySelector("#lossCards");
       const findingCards = document.querySelector("#findingCards");
+      const siteAuditCards = document.querySelector("#siteAuditCards");
+      const heatmapCards = document.querySelector("#heatmapCards");
       const campaignCards = document.querySelector("#campaignCards");
       const deliverableList = document.querySelector("#deliverableList");
       const editor = document.querySelector("#quickEditor");
       const internalPanel = document.querySelector("#internalPanel");
       const demoSwitcher = document.querySelector("#demoSwitcher");
+      const defaultSiteIssues = [
+        "Ruta de conversión incompleta. La persona puede interesarse, pero no siempre encuentra un siguiente paso claro y medible.",
+        "Poca data de comportamiento. Sin mapa de calor ni eventos clave, no se sabe qué bloque ayuda a vender y cuál se ignora.",
+        "Seguimiento manual. Si el visitante no compra o no escribe en el momento, la oportunidad se enfría sin recuperación ordenada."
+      ];
+      const defaultHeatmapData = [
+        "Clics reales. Qué botones, productos y secciones reciben atención de clientes potenciales.",
+        "Scroll y abandono. Hasta dónde baja la persona antes de perder interés o salir de la página.",
+        "Oportunidades por intención. Qué producto o categoría debe activar pauta, WhatsApp o remarketing primero."
+      ];
 
       function slugFromPath() {
         const parts = window.location.pathname.split("/").filter(Boolean);
@@ -1175,6 +1283,8 @@
         fillText(state.current);
         renderCards(lossCards, state.current.losses || [], ["01", "02", "03"]);
         renderCards(findingCards, state.current.findings || [], ["A", "B", "C"]);
+        renderCards(siteAuditCards, state.current.siteIssues || defaultSiteIssues, ["01", "02", "03"]);
+        renderCards(heatmapCards, state.current.heatmapData || defaultHeatmapData, ["D1", "D2", "D3"]);
         renderCards(campaignCards, state.current.campaigns || [], ["01", "02", "03"]);
         renderDeliverables(state.current.deliverables || []);
         setEditor(state.current);
