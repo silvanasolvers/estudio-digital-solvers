@@ -13,6 +13,7 @@
 - [x] Verificar localmente el nuevo contenido antes de actualizar producción.
 - [x] Agregar contactos de Valentin y Valentina con roles dentro de Solvers.
 - [x] Verificar y desplegar la actualización de contactos.
+- [x] Revisar responsive y legibilidad en móvil, tablet y desktop.
 
 ## Review
 
@@ -23,3 +24,4 @@
 - Tulia Boots: se agregaron fallas visibles de página, medición con mapa de calor y entregable de panel de oportunidades. Verificación local: `npm run check` OK, `/data/prospects.json` expone `siteIssues`, `heatmapData` y el entregable de mapa de calor.
 - Se agregaron contactos de cierre: Valentina como frente comercial/cliente y Valentin como estrategia/arquitectura Solvers, ambos con enlace directo de WhatsApp.
 - Deploy de contactos verificado: `/empresa/tulia-boots` HTTP 200, HTML público contiene ambos contactos, OpenClaw browser móvil confirmó 2 `.contact-card`, links de WhatsApp y sin overflow horizontal.
+- Responsive/legibilidad final: se ajustó line-height móvil para títulos grandes y `scroll-margin-top` en secciones. Producción verificada con OpenClaw browser en 360x800, 390x844, 768x1024 y 1440x900: sin overflow horizontal, sin textos menores a 12px, botones legibles, 8 headings principales y 2 tarjetas de contacto visibles.
