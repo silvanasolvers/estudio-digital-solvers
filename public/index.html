@@ -968,18 +968,23 @@
     @media (max-width: 640px) {
       .topbar {
         align-items: flex-start;
+        padding: 12px 14px;
       }
 
       .brand img {
-        width: 42px;
-        height: 42px;
+        width: 38px;
+        height: 38px;
       }
 
       .brand strong {
-        font-size: 14px;
+        font-size: 13px;
       }
 
-      .top-actions .button:not(.primary) {
+      .brand span span {
+        display: none;
+      }
+
+      .top-actions {
         display: none;
       }
 
@@ -1031,17 +1036,40 @@
       }
 
       .impact-box {
-        min-height: 460px;
+        min-height: auto;
+        padding: 14px;
+      }
+
+      .impact-map,
+      .map-pin {
+        display: none;
       }
 
       .browser-mock {
-        left: 14px;
-        right: 14px;
-        bottom: 18px;
+        position: relative;
+        left: auto;
+        right: auto;
+        bottom: auto;
       }
 
       .mock-body {
         padding: 16px;
+      }
+
+      .mock-title {
+        font-size: 28px;
+        line-height: 1;
+      }
+
+      .mock-copy {
+        font-size: 14px;
+        line-height: 1.45;
+        font-weight: 650;
+      }
+
+      .phone-cta {
+        font-size: 11px;
+        line-height: 1.25;
       }
     }
   </style>

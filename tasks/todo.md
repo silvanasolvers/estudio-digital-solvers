@@ -14,6 +14,7 @@
 - [x] Agregar contactos de Valentin y Valentina con roles dentro de Solvers.
 - [x] Verificar y desplegar la actualización de contactos.
 - [x] Revisar responsive y legibilidad en móvil, tablet y desktop.
+- [x] Corregir bloque visual del plan en móvil para eliminar franja vacía y texto pesado dentro del mockup.
 
 ## Review
 
@@ -25,3 +26,4 @@
 - Se agregaron contactos de cierre: Valentina como frente comercial/cliente y Valentin como estrategia/arquitectura Solvers, ambos con enlace directo de WhatsApp.
 - Deploy de contactos verificado: `/empresa/tulia-boots` HTTP 200, HTML público contiene ambos contactos, OpenClaw browser móvil confirmó 2 `.contact-card`, links de WhatsApp y sin overflow horizontal.
 - Responsive/legibilidad final: se ajustó line-height móvil para títulos grandes y `scroll-margin-top` en secciones. Producción verificada con OpenClaw browser en 360x800, 390x844, 768x1024 y 1440x900: sin overflow horizontal, sin textos menores a 12px, botones legibles, 8 headings principales y 2 tarjetas de contacto visibles.
+- Fix de legibilidad móvil reportado por Valentina: en `max-width: 640px` se simplificó la barra superior, se eliminó el CTA fijo de header en móvil y el mockup de la sección de plan pasó a fluir por contenido, con copy a 14px/1.45 para evitar el bloque alto con franja vacía.
