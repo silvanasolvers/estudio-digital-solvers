@@ -248,6 +248,79 @@
       ]
     },
     {
+      "slug": "casa-candela",
+      "company": "Casa Candela",
+      "sector": "hotel boutique, spa y experiencias wellness",
+      "city": "Sopetrán, Antioquia",
+      "tone": "bohemio, cálido, premium y sensorial",
+      "accent": "#C99B5A",
+      "secondary": "#B8C98F",
+      "brandDark": "#16110C",
+      "paper": "#F2E8D8",
+      "paperCard": "#FFF8EE",
+      "brandWash": "rgba(201, 155, 90, 0.18)",
+      "brandWash2": "rgba(184, 201, 143, 0.16)",
+      "status": "Marca fuerte con web, Instagram masivo y ruta de reserva por intención dispersa",
+      "brandPersonality": "Bohemia premium, wellness y desconexión cerca de Medellín",
+      "visualCue": "Arena, sol, naturaleza, rituales, villas y experiencia sensorial",
+      "conversionFocus": "Separar hospedaje, día de spa, Ubari, tarifas y reservas",
+      "leadProblem": "Casa Candela ya tiene lo que muchas marcas sueñan: 341 mil seguidores visibles, web propia, hotel boutique, spa, restaurante, Ubari y una narrativa aspiracional muy fuerte. El dolor no es verse pequeños. El dolor aparece cuando tanta atención se reparte entre Instagram, Linktree, web, habitaciones, día de spa, yoga, rituales, tarifas y WhatsApp sin una ruta de conversión didáctica por tipo de plan.",
+      "opportunity": "Crear una experiencia digital por intención permite que cada persona aterrice en el camino correcto: escapada de pareja, habitación/villa, día de spa, Ubari, yoga, ritual, restaurante o plan de amigos. Con landing didáctica, pauta segmentada, mapa de calor y WhatsApp asistido, Casa Candela puede convertir mejor su comunidad en reservas, solicitudes calificadas y recompra.",
+      "proofLine": "Lectura preliminar basada en la captura enviada el 12 de junio de 2026, el perfil público @casacandela.co, su linktr.ee/CasaCandela y revisión de casacandela.co, donde comunican hotel boutique en Sopetrán, 19 habitaciones exclusivas, 9 villas de lujo, spa, restaurante, bar y pool deck. Se valida con métricas, ocupación y canales reales antes de ejecutar.",
+      "audience": "Parejas, grupos de amigos, viajeros de Medellín, amantes del wellness, usuarios de día de sol/spa y personas buscando escapadas premium cerca de la ciudad.",
+      "adAngle": "Desconexión cerca de Medellín + experiencia por intención + reserva guiada",
+      "whatsappCta": "Quiero convertir más seguidores en reservas y planes",
+      "scrollIntro": "Para una marca como Casa Candela el scroll debe sentirse como una visita guiada: primero se entiende la experiencia, luego se elige el tipo de plan, después se resuelven dudas y finalmente se llega a reserva con contexto.",
+      "journey": [
+        {
+          "title": "La persona llega por deseo, no por urgencia",
+          "body": "Ve un reel, una historia o una recomendación y piensa en descanso, sol, spa, pareja, amigas o desconexión. El primer bloque debe sostener esa emoción con identidad Casa Candela."
+        },
+        {
+          "title": "El scroll separa tipos de intención",
+          "body": "No todo visitante quiere hospedaje. Algunos quieren día de spa, Ubari, yoga, rituales, restaurante, tarifas o habitaciones. La ruta debe guiar sin obligar a preguntar todo por DM."
+        },
+        {
+          "title": "WhatsApp recibe una solicitud filtrada",
+          "body": "Antes de escribir, la persona ya eligió fecha tentativa, número de personas, tipo de plan, presupuesto y dudas clave. El equipo atiende mejor y cierra más rápido."
+        },
+        {
+          "title": "La data decide qué empujar",
+          "body": "El mapa de calor muestra si la demanda está en villas, spa, día de sol, tarifas, Ubari o rituales. Esa evidencia alimenta pauta, contenido y paquetes."
+        }
+      ],
+      "findings": [
+        "El perfil tiene una escala muy alta para un hotel local: 341 mil seguidores visibles en la captura y una identidad de experiencia premium muy reconocible.",
+        "La web sí existe y comunica bien el universo Casa Candela, pero la conversión puede mejorar si cada intención tiene un camino más corto y medible: hospedaje, villas, spa, Ubari, restaurante o rituales.",
+        "Los destacados de Experiencias, Planes, Habitaciones, Ubari y Tarifas muestran que la audiencia necesita ordenar información antes de decidir. Esa misma estructura debería vivir en una landing/flujo con medición."
+      ],
+      "siteIssues": [
+        "La atención está distribuida entre Instagram, Linktree, web, cuentas asociadas y WhatsApp. Cuando una marca tiene muchas experiencias, esa dispersión puede hacer que la persona pregunte de más o abandone antes de reservar.",
+        "El visitante turístico necesita comparar rápido: fecha, tipo de habitación, villas, día de spa, tarifas, restaurante, políticas, ubicación y plan ideal. Si el recorrido no separa esos caminos, el equipo termina filtrando manualmente.",
+        "Con una comunidad tan grande, enviar pauta o tráfico a rutas genéricas desperdicia aprendizaje. Casa Candela necesita saber qué intención mueve reservas reales: descanso, bienestar, pareja, amigas, spa, Ubari o lujo natural."
+      ],
+      "losses": [
+        "Una persona puede enamorarse del lugar, guardar el perfil y no reservar porque no encuentra en segundos el plan correcto, disponibilidad, tarifa o diferencia entre hospedaje, día de sol y spa.",
+        "El equipo comercial puede recibir conversaciones muy mezcladas: unos preguntan por habitación, otros por rituales, otros por Ubari, otros por tarifa de pareja. Eso baja velocidad y calidad de cierre.",
+        "Sin eventos claros por intención, la pauta no aprende qué experiencia llena ocupación, qué plan trae mejor ticket y qué público necesita remarketing antes de decidir."
+      ],
+      "heatmapData": [
+        "Clics por experiencia. Medir interés real en habitaciones, villas, spa, Ubari, restaurante, yoga, rituales, tarifas y ubicación.",
+        "Scroll por decisión. Detectar si la persona abandona antes de llegar a precios, disponibilidad, políticas, galería, ubicación o botón de reserva.",
+        "Data para ocupación y paquetes. Usar intención real para empujar fechas flojas, crear paquetes de pareja/amigas/wellness y recuperar visitantes que casi reservaron."
+      ],
+      "campaigns": [
+        "Campaña por intención: escapada de pareja, día de spa, Ubari con amigos, ritual wellness y villas premium, cada una con landing o bloque dedicado.",
+        "Campaña de reserva guiada para Medellín y Antioquia con filtros de fecha, número de personas, tipo de experiencia y WhatsApp asistido.",
+        "Remarketing a quienes vieron tarifas, habitaciones, spa o Ubari, con seguimiento distinto según plan consultado y fecha tentativa."
+      ],
+      "deliverables": [
+        "Mini experiencia Casa Candela con identidad visual propia, scroll didáctico, rutas por hospedaje, villas, spa, Ubari, restaurante, rituales, tarifas y ubicación.",
+        "Bot comercial para WhatsApp entrenado por intención: fecha, personas, tipo de plan, disponibilidad, tarifas, políticas, pagos, cómo llegar y upsell de experiencia.",
+        "Estructura de pauta + pixel + mapa de calor para medir plan visto, sección ignorada, intención por experiencia, conversación iniciada y reserva solicitada."
+      ]
+    },
+    {
       "slug": "janethy-fiestas",
       "company": "Janethy Fiestas",
       "sector": "vestidos de fiesta, alquiler y moda femenina",
