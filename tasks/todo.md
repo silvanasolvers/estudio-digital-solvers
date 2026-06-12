@@ -15,6 +15,10 @@
 - [x] Verificar y desplegar la actualización de contactos.
 - [x] Revisar responsive y legibilidad en móvil, tablet y desktop.
 - [x] Corregir bloque visual del plan en móvil para eliminar franja vacía y texto pesado dentro del mockup.
+- [x] Analizar Blubba Lencería desde Instagram/canales visibles.
+- [x] Agregar prospecto `blubba-lenceria` con enfoque web + pauta + bot.
+- [x] Verificar localmente contenido, responsive y legibilidad.
+- [ ] Desplegar y verificar producción.
 
 ## Review
 
@@ -27,3 +31,5 @@
 - Deploy de contactos verificado: `/empresa/tulia-boots` HTTP 200, HTML público contiene ambos contactos, OpenClaw browser móvil confirmó 2 `.contact-card`, links de WhatsApp y sin overflow horizontal.
 - Responsive/legibilidad final: se ajustó line-height móvil para títulos grandes y `scroll-margin-top` en secciones. Producción verificada con OpenClaw browser en 360x800, 390x844, 768x1024 y 1440x900: sin overflow horizontal, sin textos menores a 12px, botones legibles, 8 headings principales y 2 tarjetas de contacto visibles.
 - Fix de legibilidad móvil reportado por Valentina: en `max-width: 640px` se simplificó la barra superior, se eliminó el CTA fijo de header en móvil y el mockup de la sección de plan pasó a fluir por contenido, con copy a 14px/1.45 para evitar el bloque alto con franja vacía.
+- Blubba Lencería: se agregó prospecto `blubba-lenceria` con enfoque de Instagram + WhatsApp sin landing/ecommerce visible. El argumento comercial se centra en web/catálogo, pauta con medición, pixel, mapa de calor y bot comercial para convertir consultas en ventas, no solo en crecimiento de perfil.
+- Verificación local Blubba: `npm run check` OK con 5 prospectos; `/data/prospects.json` expone Blubba, estado detectado, CTA y referencia `wa.link/xi2ycp`; el enlace público de WhatsApp resuelve a Business Account Blubba con teléfono `+57 314 876 7758`.

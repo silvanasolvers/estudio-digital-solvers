@@ -154,6 +154,52 @@
         "Flujos para tallas, disponibilidad, materiales, envíos, cambios, showroom y compras internacionales.",
         "Mapa de calor + panel de oportunidades para saber que producto miraron, donde se frenaron, que preguntaron y que accion sigue."
       ]
+    },
+    {
+      "slug": "blubba-lenceria",
+      "company": "Blubba Lencería",
+      "sector": "tienda de lencería y ropa interior",
+      "city": "Medellín, Envigado y Venecia",
+      "tone": "cercano, femenino y seguro",
+      "accent": "#F25C9B",
+      "secondary": "#FFD166",
+      "status": "Instagram + WhatsApp, sin landing/ecommerce visible",
+      "leadProblem": "Blubba ya tiene producto visual, comunidad inicial y una promesa clara alrededor de seguridad. Pero si la venta depende solo de que alguien vea un reel, escriba por WhatsApp y reciba respuesta manual, cada interesada puede perderse antes de elegir talla, referencia, color o forma de pago.",
+      "opportunity": "Crear una landing o mini ecommerce con catálogo, guías de talla, beneficios, políticas, prueba social y WhatsApp asistido permite que la pauta no solo suba seguidores: lleva a compradoras reales a una ruta ordenada de decisión y cierre.",
+      "proofLine": "Lectura preliminar basada en la captura enviada el 12 de junio de 2026, búsqueda pública del perfil y revisión del enlace wa.link/xi2ycp, que lleva a WhatsApp Business de Blubba. Se valida con métricas reales antes de pautar.",
+      "audience": "Mujeres que buscan lencería, ropa interior, regalos, comodidad, seguridad y envíos en Colombia.",
+      "adAngle": "Lencería para sentirte segura + catálogo claro + asesoría inmediata por WhatsApp",
+      "whatsappCta": "Quiero impulsar Blubba con web, pauta y bot",
+      "findings": [
+        "El perfil muestra una marca activa, producto visual y envíos nacionales, pero el punto de venta visible sigue concentrado en Instagram y un link a WhatsApp.",
+        "Con menos de mil seguidores visibles en la captura, crecer el perfil ayuda, pero no garantiza ventas si no existe una ruta para ver catálogo, elegir referencia y resolver dudas sin fricción.",
+        "La oportunidad no es solo publicar más. Es convertir atención en sistema: landing, pauta, pixel, catálogo, WhatsApp y seguimiento."
+      ],
+      "siteIssues": [
+        "No hay landing o ecommerce visible para ordenar catálogo, tallas, colores, precios, envíos, cambios y preguntas frecuentes. Eso obliga a vender todo por conversación manual.",
+        "La pauta dirigida solo al perfil puede traer seguidores y reproducciones, pero deja poca data comercial: no se sabe qué producto miraron, qué talla interesó ni dónde se frenó la compra.",
+        "WhatsApp existe, pero sin bot comercial contextual puede convertirse en una bandeja de preguntas repetidas sobre catálogo, disponibilidad, pago, domicilio y envíos."
+      ],
+      "losses": [
+        "Una compradora interesada puede ver un reel, guardar la idea y no escribir nunca porque no encuentra rápido catálogo, precios o guía de tallas.",
+        "Cada conversación manual consume tiempo y puede dejar ventas sin seguimiento cuando preguntan por referencia, color, domicilio o pago.",
+        "Sin web ni pixel, la marca no construye audiencias propias para remarketing ni aprende qué productos convierten mejor."
+      ],
+      "heatmapData": [
+        "Interés por categoría. Ver qué productos reciben más clics: conjuntos, básicos, regalos, nueva colección o plan separado.",
+        "Fricción de compra. Detectar si la compradora abandona antes de ver tallas, precio, envíos, cambios o botón de WhatsApp.",
+        "Data para pauta. Usar clics y consultas reales para decidir qué creativos, productos y mensajes merecen más presupuesto."
+      ],
+      "campaigns": [
+        "Campaña de descubrimiento para mujeres en Medellín y Colombia con piezas por seguridad, regalo y nueva colección.",
+        "Campaña de conversión a landing/catálogo con botón de WhatsApp y asesoría por talla, color, referencia y envío.",
+        "Remarketing a visitantes que vieron productos o tocaron WhatsApp, con seguimiento automático y oferta por intención."
+      ],
+      "deliverables": [
+        "Landing o mini ecommerce Blubba con catálogo inicial, categorías, guía de tallas, envíos, pagos, cambios y prueba social.",
+        "Bot comercial para WhatsApp entrenado con tono Blubba: cercano, seguro y vendedor, sin sonar robot.",
+        "Estructura de pauta + pixel + mapa de calor para medir producto visto, intención, conversación y siguiente acción."
+      ]
     }
   ]
 }
