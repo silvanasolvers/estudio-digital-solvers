@@ -76,3 +76,16 @@
 - Se reforzaron pérdidas, recorrido, campañas y entregables con foco en dolores de cabeza y solución comercial.
 - Producción final: commit `16f835a`, Dokploy deployment `GQSOal0Iz0ZNhj2Ne3H8O` terminó `done`.
 - Verificación pública: `https://estudios-digitales.solversai.cloud/empresa/casa-candela?v=16f835a` sin overflow horizontal en móvil 393x852 y desktop 1440x900, fuente mínima 12px, 4 bloques dolor/solución, 3 imágenes de galería y 2 contactos visibles.
+
+## Casa Candela banner móvil
+- [x] Corregir hero móvil para que la imagen principal no se pierda detrás del texto.
+- [x] Mantener desktop full-bleed con imagen de fondo.
+- [x] Desplegar y verificar producción.
+
+## Review Casa Candela banner móvil
+
+- Se agregó una franja visual mobile dedicada (`mobile-hero-banner`) que usa la imagen principal de Casa Candela arriba del contenido del hero.
+- En móvil, el hero deja de depender de la imagen como fondo detrás del texto; la foto queda visible como banner de 214px antes del título.
+- En desktop, el banner mobile permanece oculto y la portada conserva la imagen full-bleed.
+- Producción final: commit `b18b003`, Dokploy deployment `Wkmi1BoeXbW1mT3m4jUpN` terminó `done`.
+- Verificación pública: `https://estudios-digitales.solversai.cloud/empresa/casa-candela?v=b18b003`; móvil 393x852 sin overflow, fuente mínima 12px, banner visible con imagen cargada; desktop 1440x900 sin overflow, hero full-bleed intacto.
