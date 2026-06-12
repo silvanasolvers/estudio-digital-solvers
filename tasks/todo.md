@@ -12,7 +12,7 @@
 - [x] Agregar auditoría de página y capa de mapa de calor para Tulia Boots.
 - [x] Verificar localmente el nuevo contenido antes de actualizar producción.
 - [x] Agregar contactos de Valentin y Valentina con roles dentro de Solvers.
-- [ ] Verificar y desplegar la actualización de contactos.
+- [x] Verificar y desplegar la actualización de contactos.
 
 ## Review
 
@@ -22,3 +22,4 @@
 - Tulia Boots: se verificó `https://tuliaboots.com`, presencia Shopify, WhatsApp visible y ausencia de agente conversacional visible; se desplegó `/empresa/tulia-boots` en Dokploy con HTTP 200 y DOM personalizado.
 - Tulia Boots: se agregaron fallas visibles de página, medición con mapa de calor y entregable de panel de oportunidades. Verificación local: `npm run check` OK, `/data/prospects.json` expone `siteIssues`, `heatmapData` y el entregable de mapa de calor.
 - Se agregaron contactos de cierre: Valentina como frente comercial/cliente y Valentin como estrategia/arquitectura Solvers, ambos con enlace directo de WhatsApp.
+- Deploy de contactos verificado: `/empresa/tulia-boots` HTTP 200, HTML público contiene ambos contactos, OpenClaw browser móvil confirmó 2 `.contact-card`, links de WhatsApp y sin overflow horizontal.
