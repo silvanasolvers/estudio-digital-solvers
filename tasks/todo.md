@@ -39,5 +39,13 @@
 - [x] Analizar dolores comerciales desde Instagram/canales visibles.
 - [x] Agregar prospecto `janethy-fiestas` a la plantilla.
 - [x] Verificar contenido local y responsive.
-- [ ] Commit/push y desplegar en Dokploy.
-- [ ] Verificar producción y enviar link a Valentina.
+- [x] Commit/push y desplegar en Dokploy.
+- [x] Verificar producción y enviar link a Valentina.
+
+## Review Janethy Fiestas
+
+- Se agregó `janethy-fiestas` con enfoque de vestidos de fiesta/alquiler: citas, tallas, disponibilidad, precio, alquiler/venta, ajustes, ubicación, separación y seguimiento por WhatsApp.
+- Datos usados: captura del 12 de junio de 2026 y búsquedas públicas de @janethyfiestas; perfil con 639 publicaciones, 30,5 mil seguidores, Cll 49 # 40-48, teléfono 218-25-92 y WhatsApp +57 301 287 8067.
+- Verificación local: `npm run check` OK con 7 prospectos; Chromium móvil 393x852 y desktop 1440x900 sin overflow horizontal, mínimo de fuente 12px, título correcto y 2 contactos visibles.
+- Deploy: commit `0adbd97`, push a `main`, Dokploy app `estudios-digitales` deployment `EdEvBglEqDSwkByObT8NY` terminó `done`.
+- Producción: `https://estudios-digitales.solversai.cloud/empresa/janethy-fiestas` HTTP 200; `/data/prospects.json` contiene Janethy; Chromium público móvil/desktop confirmó título, dolor de tallas/disponibilidad/precio, sin overflow horizontal, mínimo 12px y 2 contactos visibles.
