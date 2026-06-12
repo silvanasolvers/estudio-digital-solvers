@@ -246,6 +246,52 @@
         "Bot comercial para WhatsApp entrenado para fechas, disponibilidad, tarifas, planes, pagos, cómo llegar y preguntas frecuentes.",
         "Estructura de pauta + pixel + mapa de calor para medir interés por plan, fecha, experiencia, conversación y reserva."
       ]
+    },
+    {
+      "slug": "janethy-fiestas",
+      "company": "Janethy Fiestas",
+      "sector": "vestidos de fiesta, alquiler y moda femenina",
+      "city": "Medellín",
+      "tone": "glamoroso, asesor y confiable",
+      "accent": "#D8B36A",
+      "secondary": "#F7A7C8",
+      "status": "Instagram + WhatsApp + tienda física, sin catálogo/citas digital visible",
+      "leadProblem": "Janethy Fiestas ya tiene audiencia, vitrina visual y reconocimiento: 30,5 mil seguidores no son el problema. El dolor real aparece cuando una clienta ve un vestido para grado, boda o evento, pero debe preguntar manualmente por talla, disponibilidad, precio, alquiler, compra, cita, ajustes y ubicación antes de decidir.",
+      "opportunity": "Crear una ruta digital por ocasión, talla, color y urgencia permite convertir el interés de Instagram en citas y ventas mejor filtradas. Una landing/catálogo con WhatsApp asistido puede mostrar colecciones, resolver preguntas repetidas, separar citas y hacer seguimiento a clientas que están comparando vestidos.",
+      "proofLine": "Lectura preliminar basada en la captura enviada el 12 de junio de 2026, el perfil público @janethyfiestas, búsquedas públicas del perfil, su dirección Cll 49 # 40-48, teléfono 218-25-92 y WhatsApp +57 301 287 8067. Se valida con inventario, agenda y métricas reales antes de pautar.",
+      "audience": "Mujeres en Medellín y Antioquia buscando vestido para grado, boda, fiesta, gala, quince, evento empresarial o fotos especiales.",
+      "adAngle": "El vestido perfecto para tu evento + asesoría inmediata + cita en tienda",
+      "whatsappCta": "Quiero convertir más vestidos en citas y ventas",
+      "findings": [
+        "El perfil tiene una comunidad grande y producto altamente visual, ideal para generar deseo por reels, historias y publicaciones.",
+        "La bio comunica tienda física, horarios, teléfono y WhatsApp, pero no se ve una ruta propia para explorar vestidos por ocasión, talla, color, precio, disponibilidad o modalidad de alquiler/venta.",
+        "Los destacados ayudan a mostrar colecciones y tendencias, pero la decisión de una clienta necesita más orden: qué hay disponible, cómo separarlo, cuándo agendar cita y qué pasa si necesita ajustes."
+      ],
+      "siteIssues": [
+        "Sin catálogo/landing visible, cada interesada debe escribir para preguntas repetidas: talla, color, precio, alquiler, venta, disponibilidad, horarios, ubicación, forma de pago y tiempos de ajuste.",
+        "La pauta enviada solo al perfil puede traer más mensajes, pero no necesariamente mejores citas: no clasifica si la persona busca grado, boda, gala, quince, talla específica o compra urgente.",
+        "WhatsApp existe, pero sin bot comercial contextual puede volverse una fila de conversaciones manuales justo en temporadas fuertes de grados, bodas y eventos."
+      ],
+      "losses": [
+        "Una clienta puede enamorarse de un vestido en un reel y perderse si no encuentra rápido si está disponible en su talla, si se alquila o vende y cuánto cuesta separarlo.",
+        "El equipo puede gastar demasiado tiempo respondiendo lo mismo y dejar sin seguimiento a personas que sí estaban listas para agendar cita o apartar vestido.",
+        "Sin pixel, eventos y mapa de calor, Janethy no sabe qué colecciones generan más intención real: vestidos largos, verdes, dorados, graduación, gala, nueva colección o tendencias."
+      ],
+      "heatmapData": [
+        "Interés por ocasión y estilo. Medir clics en grado, boda, gala, quince, vestidos largos, colores, nueva colección y tendencias.",
+        "Fricción antes de la cita. Ver si las clientas abandonan antes de revisar tallas, disponibilidad, precio, alquiler/venta, dirección o botón de WhatsApp.",
+        "Data para temporada. Usar consultas reales para reforzar pauta en fechas de grados, bodas y eventos, priorizar inventario y recuperar clientas que preguntaron pero no agendaron."
+      ],
+      "campaigns": [
+        "Campaña por ocasión: grados, bodas, gala y eventos, llevando a una landing con vestidos destacados y CTA de cita por WhatsApp.",
+        "Campaña de intención alta para mujeres que interactúan con reels o guardan publicaciones, con asesoría automática por talla, fecha del evento y presupuesto.",
+        "Remarketing para quienes vieron vestidos o tocaron WhatsApp, con seguimiento por disponibilidad, cita, separación y nueva colección."
+      ],
+      "deliverables": [
+        "Landing/catálogo Janethy con colecciones por ocasión, tallas, colores, ubicación, horarios, políticas de alquiler/venta, ajustes, pagos y CTA a cita.",
+        "Bot comercial para WhatsApp entrenado para filtrar evento, fecha, talla, color, presupuesto, modalidad, urgencia y agendar visita en tienda.",
+        "Estructura de pauta + pixel + mapa de calor para medir vestido visto, intención, cita solicitada, conversación y venta/separación."
+      ]
     }
   ]
 }

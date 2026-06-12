@@ -35,3 +35,9 @@
 - Verificación local Blubba: `npm run check` OK con 5 prospectos; `/data/prospects.json` expone Blubba, estado detectado, CTA y referencia `wa.link/xi2ycp`; el enlace público de WhatsApp resuelve a Business Account Blubba con teléfono `+57 314 876 7758`.
 - Deploy Blubba: commits `ca76fdf` y `5cf6431`, Dokploy deployment `_gUzLBPOPFEw-rRwHp5vR` terminó `done`. URL pública `https://estudios-digitales.solversai.cloud/empresa/blubba-lenceria` HTTP 200; datos públicos contienen Blubba, estado detectado, CTA y referencia `wa.link/xi2ycp`.
 - Verificación responsive pública: OpenClaw browser en móvil 393x852 y desktop 1440x900 confirmó sin overflow horizontal, mínimo de fuente 12px, 2 tarjetas de contacto y título correcto `Estudio digital para Blubba Lencería`.
+## Janethy Fiestas mini-estudio
+- [x] Analizar dolores comerciales desde Instagram/canales visibles.
+- [x] Agregar prospecto `janethy-fiestas` a la plantilla.
+- [x] Verificar contenido local y responsive.
+- [ ] Commit/push y desplegar en Dokploy.
+- [ ] Verificar producción y enviar link a Valentina.
