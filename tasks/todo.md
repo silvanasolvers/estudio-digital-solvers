@@ -62,3 +62,9 @@
 - Se agregó sección `Universo de marca` con galería real de Casa Candela y 4 pasos: deseo, elección, claridad y reserva.
 - Producción final: commit `de5aab8`, Dokploy deployment `5ExyyCzfHrh9-84g-vLW6` terminó `done`.
 - Verificación pública: `https://estudios-digitales.solversai.cloud/empresa/casa-candela?v=de5aab8` HTTP 200; tema `resort`, hero con `Casa-Candela-Villa-Deluxe`, logo cargado, 3 imágenes de galería, 4 pasos, 2 contactos, sin overflow horizontal en 393x852 y 1440x900, fuente mínima 12px.
+
+## Casa Candela contenido de valor
+- [x] Reorganizar hero y microtextos para hablar de dolores de cabeza y solución.
+- [x] Cambiar etiquetas genéricas del panel por `Dolor 01`, `Dolor 02`, `Solución 01`, `Solución 02`.
+- [x] Reescribir recorrido, pérdidas, campañas y entregables con foco en reserva, WhatsApp filtrado y medición.
+- [ ] Desplegar y verificar producción.

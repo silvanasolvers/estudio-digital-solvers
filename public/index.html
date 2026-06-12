@@ -370,10 +370,20 @@
       background: rgba(255, 255, 255, 0.055);
     }
 
+    .signal-tile small {
+      display: block;
+      margin-bottom: 8px;
+      color: color-mix(in srgb, var(--accent) 82%, white 18%);
+      font-size: 11px;
+      font-weight: 950;
+      text-transform: uppercase;
+    }
+
     .signal-tile b {
       display: block;
       color: #fff;
       font-size: 16px;
+      line-height: 1.08;
     }
 
     .signal-tile span {
@@ -1489,9 +1499,8 @@
             </div>
             <p class="eyebrow">Micro-estudio personalizado</p>
             <h1>Estudio digital para <span data-field="company">tu empresa</span></h1>
-            <p class="hero-copy">
+            <p class="hero-copy" data-field="heroCopy">
               El problema no siempre es falta de clientes. Es que muchos negocios pierden intención cuando la persona está mirando, comparando, preguntando y esperando respuesta.
-              <strong data-field="company">Tu empresa</strong> puede convertir esa atención en una ruta clara de venta.
             </p>
             <div class="hero-actions">
               <a class="button primary" href="#diagnostico">Ver diagnóstico</a>
@@ -1501,43 +1510,26 @@
 
           <aside class="diagnosis-panel" aria-label="Estado digital preliminar">
             <div class="panel-head">
-              <span class="signal">Alerta comercial</span>
+              <span class="signal" data-field="alertLabel">Alerta comercial</span>
               <span data-field="city">Medellín</span>
             </div>
             <div class="panel-body">
               <div class="status-card">
-                <span>Estado detectado</span>
+                <span data-field="statusLabel">Estado detectado</span>
                 <strong data-field="status">Sin página web visible</strong>
               </div>
-              <div class="signal-grid">
-                <div class="signal-tile">
-                  <b>Demanda</b>
-                  <span data-field="audience">Clientes con intención local</span>
-                </div>
-                <div class="signal-tile">
-                  <b>Pauta</b>
-                  <span data-field="adAngle">Mensaje + acción directa</span>
-                </div>
-                <div class="signal-tile">
-                  <b>Canal</b>
-                  <span>Web + WhatsApp + agente</span>
-                </div>
-                <div class="signal-tile">
-                  <b>Medición</b>
-                  <span>Fuente, clic y conversación</span>
-                </div>
-              </div>
+              <div class="signal-grid" id="diagnosisTiles"></div>
               <div class="identity-strip" aria-label="Identidad de la empresa">
                 <div class="identity-pill">
-                  <small>Identidad</small>
+                  <small data-field="brandPersonalityLabel">Identidad</small>
                   <b data-field="brandPersonality">Marca propia con presencia digital visible</b>
                 </div>
                 <div class="identity-pill">
-                  <small>Estilo</small>
+                  <small data-field="visualCueLabel">Estilo</small>
                   <b data-field="visualCue">Visual claro para convertir confianza</b>
                 </div>
                 <div class="identity-pill">
-                  <small>Foco</small>
+                  <small data-field="conversionFocusLabel">Foco</small>
                   <b data-field="conversionFocus">Convertir interés en conversación</b>
                 </div>
               </div>
@@ -1753,6 +1745,7 @@
 
       const fields = document.querySelectorAll("[data-field]");
       const imageNodes = document.querySelectorAll("[data-image]");
+      const diagnosisTiles = document.querySelector("#diagnosisTiles");
       const lossCards = document.querySelector("#lossCards");
       const findingCards = document.querySelector("#findingCards");
       const siteAuditCards = document.querySelector("#siteAuditCards");
@@ -1776,12 +1769,40 @@
         "Oportunidades por intención. Qué producto o categoría debe activar pauta, WhatsApp o remarketing primero."
       ];
       const defaultFieldCopy = {
+        heroCopy: "El problema no siempre es falta de clientes. Es que muchos negocios pierden intención cuando la persona está mirando, comparando, preguntando y esperando respuesta.",
+        alertLabel: "Alerta comercial",
+        statusLabel: "Estado detectado",
+        brandPersonalityLabel: "Identidad",
         brandPersonality: "Marca propia con presencia digital visible",
+        visualCueLabel: "Estilo",
         visualCue: "Visual claro para convertir confianza",
+        conversionFocusLabel: "Foco",
         conversionFocus: "Convertir interés en conversación",
         scrollIntro: "El estudio ordena el camino desde la primera impresión hasta la conversación comercial, para que el negocio entienda qué se mejora y por qué importa.",
         experienceIntro: "Cuando la marca ya tiene deseo visual, el mini-estudio debe mostrar cómo convertir esa emoción en una ruta concreta de decisión."
       };
+      const defaultDiagnosisTiles = [
+        {
+          label: "Demanda",
+          title: "Interés activo",
+          body: "Clientes con intención local buscando claridad antes de escribir o comprar."
+        },
+        {
+          label: "Pauta",
+          title: "Mensaje + acción",
+          body: "Anuncios pensados para que la persona entienda rápido, confíe y escriba."
+        },
+        {
+          label: "Canal",
+          title: "Web + WhatsApp + agente",
+          body: "Un punto de conversión conectado al seguimiento comercial."
+        },
+        {
+          label: "Medición",
+          title: "Fuente, clic y conversación",
+          body: "Datos para saber qué canal y qué oferta generan intención real."
+        }
+      ];
       const defaultJourney = [
         {
           title: "La persona descubre la marca",
@@ -1884,6 +1905,20 @@
         });
       }
 
+      function renderDiagnosisTiles(items) {
+        diagnosisTiles.innerHTML = "";
+        (items || defaultDiagnosisTiles).forEach((item) => {
+          const tile = document.createElement("div");
+          tile.className = "signal-tile";
+          tile.innerHTML = `
+            <small>${item.label || "Señal"}</small>
+            <b>${item.title || ""}</b>
+            ${item.body ? `<span>${item.body}</span>` : ""}
+          `;
+          diagnosisTiles.appendChild(tile);
+        });
+      }
+
       function renderExperiencePath(items) {
         experiencePath.innerHTML = "";
         (items || []).forEach((item, index) => {
@@ -1923,6 +1958,7 @@
         renderCards(siteAuditCards, state.current.siteIssues || defaultSiteIssues, ["01", "02", "03"]);
         renderCards(heatmapCards, state.current.heatmapData || defaultHeatmapData, ["D1", "D2", "D3"]);
         renderCards(campaignCards, state.current.campaigns || [], ["01", "02", "03"]);
+        renderDiagnosisTiles(state.current.diagnosisTiles || defaultDiagnosisTiles);
         renderJourney(state.current.journey || defaultJourney);
         renderExperiencePath(state.current.experiencePath || []);
         renderExperienceCollage(state.current.galleryImages || []);

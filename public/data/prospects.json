@@ -263,23 +263,51 @@
       "paperCard": "#FFF8EE",
       "brandWash": "rgba(201, 155, 90, 0.18)",
       "brandWash2": "rgba(184, 201, 143, 0.16)",
-      "status": "Marca fuerte con web, Instagram masivo y ruta de reserva por intención dispersa",
-      "brandPersonality": "Bohemia premium, wellness y desconexión cerca de Medellín",
-      "visualCue": "Arena, sol, naturaleza, rituales, villas y experiencia sensorial",
-      "conversionFocus": "Separar hospedaje, día de spa, Ubari, tarifas y reservas",
-      "leadProblem": "Casa Candela ya tiene lo que muchas marcas sueñan: 341 mil seguidores visibles, web propia, hotel boutique, spa, restaurante, Ubari y una narrativa aspiracional muy fuerte. El dolor no es verse pequeños. El dolor aparece cuando tanta atención se reparte entre Instagram, Linktree, web, habitaciones, día de spa, yoga, rituales, tarifas y WhatsApp sin una ruta de conversión didáctica por tipo de plan.",
-      "opportunity": "Crear una experiencia digital por intención permite que cada persona aterrice en el camino correcto: escapada de pareja, habitación/villa, día de spa, Ubari, yoga, ritual, restaurante o plan de amigos. Con landing didáctica, pauta segmentada, mapa de calor y WhatsApp asistido, Casa Candela puede convertir mejor su comunidad en reservas, solicitudes calificadas y recompra.",
+      "heroCopy": "Casa Candela no tiene un problema de atracción: ya tiene marca, deseo y comunidad. El dolor está después del interés, cuando cada persona llega preguntando por algo distinto: habitaciones, villas, día de spa, Ubari, tarifas, fechas, políticas o cómo reservar.",
+      "alertLabel": "Dolores de cabeza",
+      "statusLabel": "Diagnóstico comercial",
+      "status": "Mucha atención, pero la reserva se dispersa entre demasiadas rutas",
+      "brandPersonalityLabel": "Dolor principal",
+      "brandPersonality": "La persona quiere el plan, pero no siempre sabe por dónde reservar",
+      "visualCueLabel": "Impacto",
+      "visualCue": "Más preguntas repetidas, más demora y más oportunidades que se enfrían",
+      "conversionFocusLabel": "Solución",
+      "conversionFocus": "Rutas por intención + WhatsApp filtrado + data para decidir pauta",
+      "leadProblem": "El dolor de Casa Candela no es falta de presencia: es exceso de intención sin una ruta única de decisión. Una persona puede llegar desde un reel, una historia, Linktree o la web y terminar comparando hospedaje, villas, spa, Ubari, restaurante, tarifas y políticas antes de escribir. Si ese camino no está ordenado, el equipo comercial recibe conversaciones mezcladas y la reserva se enfría.",
+      "opportunity": "La solución es convertir el interés en una experiencia guiada: primero elegir intención, luego resolver dudas clave y finalmente enviar a WhatsApp con fecha, número de personas, plan, presupuesto y preguntas ya filtradas. Así Casa Candela reduce fricción, mejora velocidad de respuesta, recupera interesados y sabe qué experiencia debe empujar con pauta.",
       "proofLine": "Lectura preliminar basada en la captura enviada el 12 de junio de 2026, el perfil público @casacandela.co, su linktr.ee/CasaCandela y revisión de casacandela.co, donde comunican hotel boutique en Sopetrán, 19 habitaciones exclusivas, 9 villas de lujo, spa, restaurante, bar y pool deck. Se valida con métricas, ocupación y canales reales antes de ejecutar.",
       "audience": "Parejas, grupos de amigos, viajeros de Medellín, amantes del wellness, usuarios de día de sol/spa y personas buscando escapadas premium cerca de la ciudad.",
-      "adAngle": "Desconexión cerca de Medellín + experiencia por intención + reserva guiada",
+      "adAngle": "Pauta por plan específico: escapada, villa, spa, Ubari o ritual, cada una con ruta de reserva propia",
       "whatsappCta": "Quiero convertir más seguidores en reservas y planes",
-      "scrollIntro": "Para una marca como Casa Candela el scroll debe sentirse como una visita guiada: primero se entiende la experiencia, luego se elige el tipo de plan, después se resuelven dudas y finalmente se llega a reserva con contexto.",
-      "experienceIntro": "Casa Candela no se vende como un servicio frío: se vende como pausa, sol, agua, bienestar, villa, ritual y escapada. El estudio debe sentirse como esa visita guiada antes de pedir una reserva.",
+      "scrollIntro": "El scroll debe ordenar la decisión como lo haría un buen asesor: qué plan quiere la persona, para qué fecha, cuántas personas van, cuánto necesita saber antes de pagar y qué mensaje debe recibir WhatsApp para cerrar más rápido.",
+      "experienceIntro": "Casa Candela se vende como pausa, sol, agua, bienestar, villa, ritual y escapada. El problema es que esa emoción necesita convertirse en decisión: elegir plan, entender condiciones y llegar a reserva sin tener que preguntar todo desde cero.",
+      "diagnosisTiles": [
+        {
+          "label": "Dolor 01",
+          "title": "Interés disperso",
+          "body": "Instagram, Linktree, web y WhatsApp compiten por la decisión. Si la persona no encuentra rápido su plan, guarda el perfil y se va."
+        },
+        {
+          "label": "Dolor 02",
+          "title": "WhatsApp sin filtro",
+          "body": "El equipo recibe preguntas mezcladas sobre fechas, tarifas, personas, habitaciones, spa, Ubari y políticas."
+        },
+        {
+          "label": "Solución 01",
+          "title": "Ruta por intención",
+          "body": "Separar hospedaje, villas, día de spa, rituales, restaurante, tarifas y ubicación antes de pedir la conversación."
+        },
+        {
+          "label": "Solución 02",
+          "title": "Reserva asistida",
+          "body": "El bot entrega al asesor fecha, plan, personas, presupuesto y dudas clave para cerrar con menos ida y vuelta."
+        }
+      ],
       "experiencePath": [
-        "Deseo: escapada, descanso o celebración cerca de Medellín",
-        "Elección: habitación, villa, día de spa, Ubari o restaurante",
-        "Claridad: tarifas, fecha, personas, políticas y ubicación",
-        "Reserva: WhatsApp llega con contexto y menos fricción"
+        "Deseo: la persona quiere descanso, celebración, spa o desconexión",
+        "Fricción: no sabe si entrar por habitación, villa, día de sol, Ubari o tarifa",
+        "Solución: la landing separa el camino y resuelve dudas antes del chat",
+        "Cierre: WhatsApp recibe una solicitud filtrada y lista para reservar"
       ],
       "galleryImages": [
         {
@@ -297,20 +325,20 @@
       ],
       "journey": [
         {
-          "title": "La persona llega por deseo, no por urgencia",
-          "body": "Ve un reel, una historia o una recomendación y piensa en descanso, sol, spa, pareja, amigas o desconexión. El primer bloque debe sostener esa emoción con identidad Casa Candela."
+          "title": "Dolor: la persona llega emocionada, pero todavía no sabe qué plan pedir",
+          "body": "Ve un reel, una historia o una recomendación y quiere descanso, pareja, amigas, sol o spa. Si el primer scroll no ordena esa intención, la emoción se queda en guardado, no en reserva."
         },
         {
-          "title": "El scroll separa tipos de intención",
-          "body": "No todo visitante quiere hospedaje. Algunos quieren día de spa, Ubari, yoga, rituales, restaurante, tarifas o habitaciones. La ruta debe guiar sin obligar a preguntar todo por DM."
+          "title": "Dolor: todas las preguntas llegan mezcladas al mismo WhatsApp",
+          "body": "No todo visitante quiere hospedaje. Algunos quieren día de spa, Ubari, yoga, rituales, restaurante, tarifas o habitaciones. Si no se filtra antes, el equipo repite respuestas y pierde velocidad."
         },
         {
-          "title": "WhatsApp recibe una solicitud filtrada",
-          "body": "Antes de escribir, la persona ya eligió fecha tentativa, número de personas, tipo de plan, presupuesto y dudas clave. El equipo atiende mejor y cierra más rápido."
+          "title": "Solución: la landing convierte deseo en una solicitud concreta",
+          "body": "Antes de escribir, la persona elige fecha tentativa, número de personas, tipo de plan, presupuesto y dudas clave. WhatsApp deja de ser un buzón de preguntas y pasa a ser un canal de cierre."
         },
         {
-          "title": "La data decide qué empujar",
-          "body": "El mapa de calor muestra si la demanda está en villas, spa, día de sol, tarifas, Ubari o rituales. Esa evidencia alimenta pauta, contenido y paquetes."
+          "title": "Solución: la data muestra qué experiencia mueve reservas",
+          "body": "El mapa de calor muestra si la demanda está en villas, spa, día de sol, tarifas, Ubari o rituales. Esa evidencia decide pauta, paquetes, remarketing y fechas a llenar."
         }
       ],
       "findings": [
@@ -324,9 +352,9 @@
         "Con una comunidad tan grande, enviar pauta o tráfico a rutas genéricas desperdicia aprendizaje. Casa Candela necesita saber qué intención mueve reservas reales: descanso, bienestar, pareja, amigas, spa, Ubari o lujo natural."
       ],
       "losses": [
-        "Una persona puede enamorarse del lugar, guardar el perfil y no reservar porque no encuentra en segundos el plan correcto, disponibilidad, tarifa o diferencia entre hospedaje, día de sol y spa.",
-        "El equipo comercial puede recibir conversaciones muy mezcladas: unos preguntan por habitación, otros por rituales, otros por Ubari, otros por tarifa de pareja. Eso baja velocidad y calidad de cierre.",
-        "Sin eventos claros por intención, la pauta no aprende qué experiencia llena ocupación, qué plan trae mejor ticket y qué público necesita remarketing antes de decidir."
+        "Dolor de cabeza 1: seguidores que aman la marca, pero no llegan listos para reservar. Se quedan mirando habitaciones, spa, villas o tarifas sin entender cuál es el mejor camino para su caso.",
+        "Dolor de cabeza 2: WhatsApp se llena de preguntas repetidas. Fecha, número de personas, precio, disponibilidad, políticas y diferencias entre planes llegan sin contexto y obligan al equipo a filtrar manualmente.",
+        "Dolor de cabeza 3: la pauta puede atraer gente, pero no enseña qué experiencia genera reserva real. Sin eventos por plan, Casa Candela no sabe si debe empujar villas, spa, Ubari, día de sol o rituales."
       ],
       "heatmapData": [
         "Clics por experiencia. Medir interés real en habitaciones, villas, spa, Ubari, restaurante, yoga, rituales, tarifas y ubicación.",
@@ -334,14 +362,14 @@
         "Data para ocupación y paquetes. Usar intención real para empujar fechas flojas, crear paquetes de pareja/amigas/wellness y recuperar visitantes que casi reservaron."
       ],
       "campaigns": [
-        "Campaña por intención: escapada de pareja, día de spa, Ubari con amigos, ritual wellness y villas premium, cada una con landing o bloque dedicado.",
-        "Campaña de reserva guiada para Medellín y Antioquia con filtros de fecha, número de personas, tipo de experiencia y WhatsApp asistido.",
-        "Remarketing a quienes vieron tarifas, habitaciones, spa o Ubari, con seguimiento distinto según plan consultado y fecha tentativa."
+        "Solución 1: campañas por intención. Escapada de pareja, día de spa, Ubari con amigos, ritual wellness y villas premium, cada una con bloque y mensaje propio.",
+        "Solución 2: reserva guiada. La persona filtra fecha, número de personas, tipo de experiencia y dudas antes de llegar al asesor.",
+        "Solución 3: remarketing inteligente. A quien vio tarifas, habitaciones, spa o Ubari se le responde con seguimiento distinto según el plan consultado."
       ],
       "deliverables": [
-        "Mini experiencia Casa Candela con identidad visual propia, scroll didáctico, rutas por hospedaje, villas, spa, Ubari, restaurante, rituales, tarifas y ubicación.",
-        "Bot comercial para WhatsApp entrenado por intención: fecha, personas, tipo de plan, disponibilidad, tarifas, políticas, pagos, cómo llegar y upsell de experiencia.",
-        "Estructura de pauta + pixel + mapa de calor para medir plan visto, sección ignorada, intención por experiencia, conversación iniciada y reserva solicitada."
+        "Landing/mini experiencia Casa Candela que ordena dolores reales: hospedaje, villas, spa, Ubari, restaurante, rituales, tarifas, políticas, ubicación y reserva.",
+        "Bot comercial para WhatsApp que filtra fecha, personas, tipo de plan, disponibilidad, presupuesto, políticas, pagos, cómo llegar y posibles upsells.",
+        "Pauta + pixel + mapa de calor para saber qué plan genera intención, dónde se frena la persona y qué conversación se convierte en reserva."
       ]
     },
     {
