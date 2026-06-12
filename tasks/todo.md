@@ -93,5 +93,12 @@
 ## Casa Candela bot 24/7
 - [x] Hacer visible dentro de la propuesta el bot de reservas 24/7.
 - [x] Reforzar el dolor de atención fuera de horario y preguntas repetidas.
-- [ ] Verificar contenido local y producción.
-- [ ] Desplegar actualización.
+- [x] Verificar contenido local y producción.
+- [x] Desplegar actualización.
+
+## Review Casa Candela bot 24/7
+
+- Se reforzó Casa Candela con el ángulo explícito de bot de reservas 24/7 sin humano conectado.
+- El cambio quedó visible en el foco de solución, tile de diagnóstico, recorrido de experiencia, bloque de solución, campañas y entregables.
+- Producción final: commit `9f72857`, Dokploy deployment `F6IaCIAU_Crf4IhF7oC7C` terminó `done`.
+- Verificación pública: `https://estudios-digitales.solversai.cloud/empresa/casa-candela?v=9f72857` HTTP 200; DOM público contiene `Bot 24/7 de reservas`, `bot de reservas 24/7`, `sin un humano conectado` y `Bot comercial 24/7`.
