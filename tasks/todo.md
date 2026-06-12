@@ -89,3 +89,9 @@
 - En desktop, el banner mobile permanece oculto y la portada conserva la imagen full-bleed.
 - Producción final: commit `b18b003`, Dokploy deployment `Wkmi1BoeXbW1mT3m4jUpN` terminó `done`.
 - Verificación pública: `https://estudios-digitales.solversai.cloud/empresa/casa-candela?v=b18b003`; móvil 393x852 sin overflow, fuente mínima 12px, banner visible con imagen cargada; desktop 1440x900 sin overflow, hero full-bleed intacto.
+
+## Casa Candela bot 24/7
+- [x] Hacer visible dentro de la propuesta el bot de reservas 24/7.
+- [x] Reforzar el dolor de atención fuera de horario y preguntas repetidas.
+- [ ] Verificar contenido local y producción.
+- [ ] Desplegar actualización.

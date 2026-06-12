@@ -272,9 +272,9 @@
       "visualCueLabel": "Impacto",
       "visualCue": "Más preguntas repetidas, más demora y más oportunidades que se enfrían",
       "conversionFocusLabel": "Solución",
-      "conversionFocus": "Rutas por intención + WhatsApp filtrado + data para decidir pauta",
-      "leadProblem": "El dolor de Casa Candela no es falta de presencia: es exceso de intención sin una ruta única de decisión. Una persona puede llegar desde un reel, una historia, Linktree o la web y terminar comparando hospedaje, villas, spa, Ubari, restaurante, tarifas y políticas antes de escribir. Si ese camino no está ordenado, el equipo comercial recibe conversaciones mezcladas y la reserva se enfría.",
-      "opportunity": "La solución es convertir el interés en una experiencia guiada: primero elegir intención, luego resolver dudas clave y finalmente enviar a WhatsApp con fecha, número de personas, plan, presupuesto y preguntas ya filtradas. Así Casa Candela reduce fricción, mejora velocidad de respuesta, recupera interesados y sabe qué experiencia debe empujar con pauta.",
+      "conversionFocus": "Bot de reservas 24/7 + rutas por intención + data para decidir pauta",
+      "leadProblem": "El dolor de Casa Candela no es falta de presencia: es exceso de intención sin una ruta única de decisión. Una persona puede llegar desde un reel, una historia, Linktree o la web y terminar comparando hospedaje, villas, spa, Ubari, restaurante, tarifas y políticas antes de escribir. Si ese camino no está ordenado, el equipo comercial recibe conversaciones mezcladas, responde tarde y la reserva se enfría.",
+      "opportunity": "La solución es convertir el interés en una experiencia guiada con bot de reservas 24/7: la persona elige intención, fecha, número de personas, plan y dudas clave, y el sistema responde al instante aunque no haya un humano conectado. WhatsApp recibe una solicitud lista para cerrar, Casa Candela reduce fricción y el equipo sabe qué experiencia debe empujar con pauta.",
       "proofLine": "Lectura preliminar basada en la captura enviada el 12 de junio de 2026, el perfil público @casacandela.co, su linktr.ee/CasaCandela y revisión de casacandela.co, donde comunican hotel boutique en Sopetrán, 19 habitaciones exclusivas, 9 villas de lujo, spa, restaurante, bar y pool deck. Se valida con métricas, ocupación y canales reales antes de ejecutar.",
       "audience": "Parejas, grupos de amigos, viajeros de Medellín, amantes del wellness, usuarios de día de sol/spa y personas buscando escapadas premium cerca de la ciudad.",
       "adAngle": "Pauta por plan específico: escapada, villa, spa, Ubari o ritual, cada una con ruta de reserva propia",
@@ -299,15 +299,15 @@
         },
         {
           "label": "Solución 02",
-          "title": "Reserva asistida",
-          "body": "El bot entrega al asesor fecha, plan, personas, presupuesto y dudas clave para cerrar con menos ida y vuelta."
+          "title": "Bot 24/7 de reservas",
+          "body": "Responde al instante, filtra fechas, personas, plan y dudas, y deja la reserva o el lead listo sin un humano conectado."
         }
       ],
       "experiencePath": [
         "Deseo: la persona quiere descanso, celebración, spa o desconexión",
         "Fricción: no sabe si entrar por habitación, villa, día de sol, Ubari o tarifa",
         "Solución: la landing separa el camino y resuelve dudas antes del chat",
-        "Cierre: WhatsApp recibe una solicitud filtrada y lista para reservar"
+        "Cierre: el bot 24/7 toma datos y deja la reserva lista, incluso fuera de horario"
       ],
       "galleryImages": [
         {
@@ -333,8 +333,8 @@
           "body": "No todo visitante quiere hospedaje. Algunos quieren día de spa, Ubari, yoga, rituales, restaurante, tarifas o habitaciones. Si no se filtra antes, el equipo repite respuestas y pierde velocidad."
         },
         {
-          "title": "Solución: la landing convierte deseo en una solicitud concreta",
-          "body": "Antes de escribir, la persona elige fecha tentativa, número de personas, tipo de plan, presupuesto y dudas clave. WhatsApp deja de ser un buzón de preguntas y pasa a ser un canal de cierre."
+          "title": "Solución: un bot 24/7 convierte deseo en reserva asistida",
+          "body": "Antes de llegar a un asesor, la persona puede elegir fecha tentativa, número de personas, tipo de plan, presupuesto y dudas clave. El bot responde al instante, incluso fuera de horario, y WhatsApp deja de ser un buzón de preguntas para convertirse en un canal de cierre."
         },
         {
           "title": "Solución: la data muestra qué experiencia mueve reservas",
@@ -353,7 +353,7 @@
       ],
       "losses": [
         "Dolor de cabeza 1: seguidores que aman la marca, pero no llegan listos para reservar. Se quedan mirando habitaciones, spa, villas o tarifas sin entender cuál es el mejor camino para su caso.",
-        "Dolor de cabeza 2: WhatsApp se llena de preguntas repetidas. Fecha, número de personas, precio, disponibilidad, políticas y diferencias entre planes llegan sin contexto y obligan al equipo a filtrar manualmente.",
+        "Dolor de cabeza 2: WhatsApp se llena de preguntas repetidas y fuera de horario. Fecha, número de personas, precio, disponibilidad, políticas y diferencias entre planes llegan sin contexto y obligan al equipo a filtrar manualmente.",
         "Dolor de cabeza 3: la pauta puede atraer gente, pero no enseña qué experiencia genera reserva real. Sin eventos por plan, Casa Candela no sabe si debe empujar villas, spa, Ubari, día de sol o rituales."
       ],
       "heatmapData": [
@@ -363,12 +363,12 @@
       ],
       "campaigns": [
         "Solución 1: campañas por intención. Escapada de pareja, día de spa, Ubari con amigos, ritual wellness y villas premium, cada una con bloque y mensaje propio.",
-        "Solución 2: reserva guiada. La persona filtra fecha, número de personas, tipo de experiencia y dudas antes de llegar al asesor.",
+        "Solución 2: bot de reservas 24/7. La persona filtra fecha, número de personas, tipo de experiencia, disponibilidad y dudas sin esperar a que haya un humano conectado.",
         "Solución 3: remarketing inteligente. A quien vio tarifas, habitaciones, spa o Ubari se le responde con seguimiento distinto según el plan consultado."
       ],
       "deliverables": [
         "Landing/mini experiencia Casa Candela que ordena dolores reales: hospedaje, villas, spa, Ubari, restaurante, rituales, tarifas, políticas, ubicación y reserva.",
-        "Bot comercial para WhatsApp que filtra fecha, personas, tipo de plan, disponibilidad, presupuesto, políticas, pagos, cómo llegar y posibles upsells.",
+        "Bot comercial 24/7 para WhatsApp que responde al instante, filtra fecha, personas, tipo de plan, disponibilidad, presupuesto, políticas, pagos, cómo llegar y posibles upsells sin necesitar un humano detrás.",
         "Pauta + pixel + mapa de calor para saber qué plan genera intención, dónde se frena la persona y qué conversación se convierte en reserva."
       ]
     },
