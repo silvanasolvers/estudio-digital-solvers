@@ -746,6 +746,115 @@
       ]
     },
     {
+      "slug": "boreal-boots",
+      "company": "Boreal Boots",
+      "sector": "fabricantes de calzado en cuero personalizado",
+      "city": "Medellín, Antioquia",
+      "tone": "artesanal, premium, directo y vendedor",
+      "theme": "maker",
+      "accent": "#D8A754",
+      "secondary": "#FFFFFF",
+      "brandDark": "#050505",
+      "paper": "#F1E8DA",
+      "paperCard": "#FFF8EC",
+      "brandWash": "rgba(216, 167, 84, 0.18)",
+      "brandWash2": "rgba(255, 255, 255, 0.09)",
+      "heroCopy": "Boreal Boots ya tiene una promesa muy clara: texanas, tenis y mocasines fabricados en cuero, con personalización. El dolor no es explicar que hacen zapatos; es convertir cada idea del cliente en una cotización rápida antes de que se enfríe.",
+      "alertLabel": "Oportunidad de venta",
+      "statusLabel": "Diagnóstico comercial",
+      "status": "Fabricantes con WhatsApp visible, pero sin ruta guiada para pedidos personalizados",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "100% cuero, fabricación propia y promesa de hacer realidad lo que el cliente imagina",
+      "visualCueLabel": "Dolor",
+      "visualCue": "Cada venta exige talla, horma, color, diseño, referencia, precio y tiempo de fabricación",
+      "conversionFocusLabel": "Solución",
+      "conversionFocus": "Agente cotizador + catálogo guiado + seguimiento por modelo y personalización",
+      "leadProblem": "En Boreal Boots la venta no es solo “quiero este par”. Muchas personas llegan con una idea: texanas, tenis, mocasines, cuero, color, talla, horma o personalización. Si todo eso entra por DM o WhatsApp sin filtro, el equipo termina preguntando lo mismo y algunas intenciones se pierden antes de cotizar.",
+      "opportunity": "La solución es una ruta de pedido hecha para fabricantes: elegir tipo de calzado, talla, color, cuero, personalización, ciudad de envío y urgencia. Un agente Solvers puede responder 24/7, pedir la información correcta, mostrar opciones y dejar cada conversación lista para cotización o cierre.",
+      "proofLine": "Lectura preliminar basada en la captura enviada el 13 de junio de 2026 y el perfil público @borealboots: 747 publicaciones, 16,2 mil seguidores visibles, bio con Texanas-Tenis-Mocasines, Somos Fabricantes, Personalizamos, 100% cuero, Medellín y enlace wa.link/yz72t1. Se valida con catálogo, precios y tiempos reales antes de ejecutar.",
+      "audience": "Personas que quieren botas texanas, tenis o mocasines en cuero, compradores de Medellín, regalos personalizados, clientes que buscan diseño propio y pedidos con envío.",
+      "adAngle": "Calzado 100% cuero hecho a tu medida + asesoría inmediata + cotización por WhatsApp",
+      "whatsappCta": "Quiero cotizar más pedidos personalizados",
+      "scrollIntro": "El recorrido debe sentirse como un taller digital: el cliente no solo mira zapatos, arma su idea. Tipo de calzado, talla, cuero, color, diseño y envío quedan claros antes de hablar con el equipo.",
+      "experienceIntro": "Boreal vende fabricación, cuero y personalización. Esa promesa necesita una ruta donde el cliente pueda pasar de inspiración a pedido concreto sin escribir diez mensajes sueltos.",
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "16,2 mil seguidores",
+          "body": "Hay comunidad suficiente para generar pedidos si la ruta convierte inspiración en cotización."
+        },
+        {
+          "label": "Dolor 01",
+          "title": "Pedido artesanal",
+          "body": "Cada cliente necesita talla, horma, color, cuero, diseño, precio y tiempo. No es una venta genérica."
+        },
+        {
+          "label": "Dolor 02",
+          "title": "WhatsApp sin filtro",
+          "body": "Si el chat recibe ideas incompletas, el equipo cotiza más lento y pierde conversaciones calientes."
+        },
+        {
+          "label": "Solución",
+          "title": "Cotizador 24/7",
+          "body": "Un agente recoge datos, recomienda opciones y deja el pedido listo para fabricar o cerrar."
+        }
+      ],
+      "experiencePath": [
+        "Deseo: el cliente ve una texana, tenis o mocasín y quiere hacerlo a su estilo",
+        "Fricción: debe explicar talla, cuero, color, referencia, personalización, envío y presupuesto",
+        "Solución: el flujo guía el pedido como si fuera un asesor de taller",
+        "Cierre: el agente entrega una solicitud completa para cotización y seguimiento"
+      ],
+      "journey": [
+        {
+          "title": "Dolor: la personalización vende, pero también demora la cotización",
+          "body": "Cuando el cliente quiere un par único, no basta con responder “sí tenemos”. Hay que entender modelo, talla, cuero, color, diseño, referencia y plazo."
+        },
+        {
+          "title": "Dolor: WhatsApp puede llenarse de ideas incompletas",
+          "body": "Si cada conversación empieza desde cero, el equipo pierde tiempo filtrando y la persona puede irse con otro fabricante que responda más rápido."
+        },
+        {
+          "title": "Solución: agente que toma el pedido como asesor de taller",
+          "body": "Pregunta lo necesario, muestra caminos por tipo de calzado, resuelve dudas y deja la cotización casi lista sin depender de un empleado extra."
+        },
+        {
+          "title": "Solución: data para saber qué diseños se piden más",
+          "body": "El mapa de calor muestra modelos, colores, tallas y personalizaciones con más intención para decidir pauta, inventario de cuero y contenido."
+        }
+      ],
+      "findings": [
+        "La bio ya comunica una propuesta concreta: texanas, tenis, mocasines, fabricación propia, personalización y 100% cuero.",
+        "El enlace principal visible lleva a WhatsApp. Eso ayuda al contacto, pero no organiza la información necesaria para cotizar un pedido personalizado.",
+        "La oportunidad es convertir el perfil en una máquina de pedidos: catálogo guiado, agente cotizador, seguimiento y data por modelo."
+      ],
+      "siteIssues": [
+        "No se ve una ruta propia para armar el pedido: tipo de calzado, talla, cuero, color, diseño, referencia, precio base, tiempo de fabricación y envío.",
+        "Una persona puede escribir con una idea muy buena, pero si no sabe qué datos mandar, la conversación se alarga y la compra pierde impulso.",
+        "Sin pixel, eventos y mapa de calor, Boreal no sabe qué modelos o personalizaciones generan más intención comercial desde Instagram."
+      ],
+      "losses": [
+        "Clientes que guardan un modelo o preguntan por personalizar, pero no avanzan porque cotizar requiere demasiados mensajes.",
+        "Tiempo del equipo respondiendo preguntas repetidas sobre tallas, cuero, colores, tiempos, envíos y precios iniciales.",
+        "Pauta o contenido que puede traer mensajes, pero no enseña qué diseño, talla o tipo de calzado tiene mayor probabilidad de compra."
+      ],
+      "heatmapData": [
+        "Clics por tipo de calzado. Saber si la demanda está en texanas, tenis, mocasines, botas para regalo o pedidos especiales.",
+        "Fricción del pedido. Ver dónde abandonan: talla, color, cuero, precio, tiempo de fabricación, envío o botón de WhatsApp.",
+        "Data para taller y pauta. Usar los pedidos incompletos para decidir qué modelos mostrar, qué cuero tener listo y qué anuncios escalar."
+      ],
+      "campaigns": [
+        "Campañas por producto: texanas personalizadas, tenis en cuero, mocasines premium y regalos hechos a medida.",
+        "Ruta de cotización desde Instagram con preguntas guiadas antes de llegar a WhatsApp.",
+        "Remarketing a quienes vieron modelos o empezaron a cotizar, con seguimiento por talla, color o diseño pendiente."
+      ],
+      "deliverables": [
+        "Landing/catálogo Boreal con flujo para elegir texanas, tenis o mocasines, talla, cuero, color, diseño, envío y urgencia.",
+        "Agente comercial 24/7 entrenado para cotizar pedidos personalizados, resolver dudas y dejar solicitudes listas para cierre.",
+        "Pauta + pixel + mapa de calor para medir qué modelo genera intención, dónde se frena el pedido y qué seguimiento necesita."
+      ]
+    },
+    {
       "slug": "janethy-fiestas",
       "company": "Janethy Fiestas",
       "sector": "vestidos de fiesta, alquiler y moda femenina",
