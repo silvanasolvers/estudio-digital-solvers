@@ -373,6 +373,131 @@
       ]
     },
     {
+      "slug": "pikanela",
+      "company": "Pikanela",
+      "sector": "marca colombiana de moda, playa y accesorios artesanales",
+      "city": "Medellín",
+      "tone": "tropical, artesanal, femenino y comercial",
+      "theme": "resort",
+      "logoImage": "https://pikanela.com/wp-content/uploads/2023/01/logo-black.png",
+      "heroImage": "https://pikanela.com/wp-content/uploads/2026/01/IMG_7155-scaled.jpg",
+      "accent": "#D59A73",
+      "secondary": "#67B7BC",
+      "brandDark": "#17120E",
+      "paper": "#F5E7D8",
+      "paperCard": "#FFF8EF",
+      "brandWash": "rgba(213, 154, 115, 0.18)",
+      "brandWash2": "rgba(103, 183, 188, 0.16)",
+      "heroCopy": "Pikanela ya tiene lo que muchas marcas sueñan: comunidad, estética, producto artesanal, ecommerce y alcance internacional. El dolor no es verse pequeña. El dolor es que 83,9 mil seguidores no necesariamente se convierten en ventas si la ruta entre Instagram, Linktree, web, carrito, WhatsApp, tallas, envíos y showroom no empuja el cierre.",
+      "alertLabel": "Oportunidad comercial",
+      "statusLabel": "Diagnóstico comercial",
+      "status": "Comunidad grande + ecommerce activo, pero conversión con fricción visible",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Marca artesanal colombiana con deseo visual y ventas internacionales",
+      "visualCueLabel": "Dolor",
+      "visualCue": "Mucha atención puede quedarse en likes, guardados y preguntas sin compra",
+      "conversionFocusLabel": "Solución",
+      "conversionFocus": "Agente comercial + data de producto + recuperación de carrito y WhatsApp",
+      "leadProblem": "Pikanela tiene 83,9 mil seguidores visibles, una web con categorías, productos, carrito, WhatsApp, cupón de primera compra, moneda COP/USD y una estética clara de playa/artesanía. Eso es una base fuerte. Pero cuando una marca ya atrae tanta atención, el problema cambia: cada persona que pregunta por talla, color, material, disponibilidad, envío mundial, showroom o cambios necesita una respuesta rápida y un seguimiento ordenado para que la intención no se quede en interacción.",
+      "opportunity": "La jugada es convertir la comunidad en sistema de ventas: landing/flujo por colección, agente comercial 24/7 para WhatsApp, recuperación de carrito, data de clics por producto/talla/color y campañas que no busquen solo seguidores sino compras, asesorías y visitas al showroom. Así Pikanela puede demostrar que su audiencia se refleja en ventas medibles.",
+      "proofLine": "Lectura preliminar basada en la captura enviada el 13 de junio de 2026, el perfil público @pikanela con 83,9 mil seguidores visibles, linktr.ee/pikanela28 y revisión de pikanela.com, donde aparecen ecommerce WooCommerce, categorías, productos, WhatsApp +57 301 254 5871, showroom/dirección en Medellín, cupón de primera compra, moneda COP/USD y pixel de Meta. Se valida con métricas reales antes de ejecutar.",
+      "audience": "Mujeres que compran moda de playa, sandalias, sombreros, vestidos, accesorios boho, clientas en Medellín, turistas, compradoras internacionales y seguidoras que descubren producto por Instagram.",
+      "adAngle": "Moda artesanal colombiana + asesoría inmediata + compra segura desde Instagram, web o WhatsApp",
+      "whatsappCta": "Quiero convertir seguidores en ventas medibles",
+      "scrollIntro": "El mini-estudio debe mostrarles que el verdadero activo no es solo la comunidad: es saber qué seguidora vio qué producto, qué talla o color pidió, dónde se frenó y qué mensaje necesita para comprar.",
+      "experienceIntro": "Pikanela vende verano, playa, artesanía colombiana y deseo visual. Esa emoción necesita bajar a una ruta concreta: elegir producto, resolver talla/material/envío, comprar online o hablar con una asesora sin perder el impulso.",
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "83,9 mil seguidores",
+          "body": "Tienen comunidad, deseo visual y contenido suficiente para generar intención todos los días."
+        },
+        {
+          "label": "Dolor 01",
+          "title": "Ventas no visibles",
+          "body": "Los seguidores no valen igual si no se mide qué publicaciones terminan en producto visto, WhatsApp, carrito y compra."
+        },
+        {
+          "label": "Dolor 02",
+          "title": "Asesoría manual",
+          "body": "Tallas, colores, materiales, envíos, cambios y showroom pueden quedar dependiendo de una respuesta humana."
+        },
+        {
+          "label": "Solución",
+          "title": "Agente + data",
+          "body": "Un bot comercial 24/7 y mapa de calor convierten preguntas repetidas en oportunidades de cierre y aprendizaje."
+        }
+      ],
+      "experiencePath": [
+        "Deseo: la seguidora ve un outfit, sandalia, sombrero o vestido y quiere comprarlo",
+        "Fricción: necesita talla, color, material, envío, precio, disponibilidad o asesoría",
+        "Solución: el flujo ordena producto, colección, dudas y CTA sin perder el impulso",
+        "Cierre: el agente 24/7 responde, recupera carrito y deja la compra o lead listo"
+      ],
+      "galleryImages": [
+        {
+          "label": "Colección Capri",
+          "src": "https://pikanela.com/wp-content/uploads/2026/01/IMG_7155-scaled.jpg"
+        },
+        {
+          "label": "Moda de playa",
+          "src": "https://pikanela.com/wp-content/uploads/2026/01/IMG_7424-scaled.jpg"
+        },
+        {
+          "label": "Producto artesanal",
+          "src": "https://pikanela.com/wp-content/uploads/2026/01/IMG_7431-scaled.jpg"
+        }
+      ],
+      "journey": [
+        {
+          "title": "Dolor: una comunidad grande no garantiza ventas proporcionales",
+          "body": "83,9 mil seguidores pueden verse muy potentes, pero si la marca no sabe qué contenido lleva a carrito, WhatsApp, producto visto o compra, el crecimiento se queda en vanidad y no en caja."
+        },
+        {
+          "title": "Dolor: Instagram inspira, pero la compra necesita resolver dudas rápido",
+          "body": "Moda, calzado y accesorios tienen preguntas repetidas: talla, horma, color, material, disponibilidad, envío nacional/internacional, cambios y recogida en showroom."
+        },
+        {
+          "title": "Solución: agente comercial 24/7 entrenado con catálogo y tono Pikanela",
+          "body": "El agente responde sin esperar un humano, recomienda productos por intención, filtra talla/color/envío, guía a la web o WhatsApp y recupera conversaciones que normalmente se enfrían."
+        },
+        {
+          "title": "Solución: data para que cada seguidor tenga valor comercial",
+          "body": "Mapa de calor, eventos y embudos muestran qué colección mueve más clics, dónde se cae el carrito, qué productos piden por WhatsApp y qué campañas deben recibir presupuesto."
+        }
+      ],
+      "findings": [
+        "El perfil tiene una comunidad grande: 83,9 mil seguidores visibles en la captura, 3.739 publicaciones y una estética clara de marca artesanal colombiana con envíos mundiales.",
+        "La web sí existe y funciona como ecommerce con categorías de calzado, sombreros, accesorios y ropa, además de carrito, cupón de primera compra, moneda COP/USD y WhatsApp.",
+        "La oportunidad no es crear presencia desde cero: es conectar Instagram, Linktree, ecommerce, WhatsApp, showroom y pauta para que la comunidad se convierta en ventas medibles."
+      ],
+      "siteIssues": [
+        "El Instagram manda al usuario por Linktree y luego a la web o WhatsApp. Cada paso extra puede bajar intención si la compradora venía desde un producto específico o una historia concreta.",
+        "La web tiene ecommerce y productos, pero la experiencia visible no muestra una capa de asesoría contextual por talla, color, material, disponibilidad, envío mundial, cambios o recogida en showroom.",
+        "Hay pixel de Meta y carrito, pero sin una lectura comercial clara de eventos, mapa de calor y conversaciones, la marca puede estar pautando o publicando sin saber qué seguidor se convierte en compra real."
+      ],
+      "losses": [
+        "Seguidores que aman el look, guardan publicaciones o preguntan por DM, pero no llegan a comprar porque la decisión se enfría entre Instagram, Linktree, web, carrito y WhatsApp.",
+        "Carritos o productos vistos que no se recuperan con un mensaje útil por talla, disponibilidad, descuento, envío o recomendación de producto complementario.",
+        "Horas del equipo respondiendo preguntas repetidas que un agente podría resolver al instante, mientras el equipo humano se enfoca en cierres, contenido y showroom."
+      ],
+      "heatmapData": [
+        "Clics por colección y producto. Saber si la demanda real está en sandalias, botas texanas, sombreros, vestidos, accesorios o colaboraciones.",
+        "Fricción de compra. Detectar abandono antes de talla, precio, carrito, moneda, envío, cambios, WhatsApp o cupón de primera compra.",
+        "Data para pauta e inventario. Usar productos vistos y conversaciones para decidir qué lanzar, qué reponer y qué creativos merecen presupuesto."
+      ],
+      "campaigns": [
+        "Campañas por colección con rutas separadas: Capri, sandalias, sombreros, accesorios, vestidos y piezas para viaje/playa.",
+        "Remarketing a visitantes que vieron productos, agregaron al carrito o tocaron WhatsApp, con mensaje distinto por producto e intención.",
+        "Campaña internacional con moneda USD, envío mundial y asesoría automática para resolver dudas antes de comprar desde fuera de Colombia."
+      ],
+      "deliverables": [
+        "Agente comercial 24/7 para WhatsApp entrenado con catálogo, tono Pikanela, tallas, colores, materiales, envíos, cambios, showroom, cupones y productos complementarios.",
+        "Embudo ecommerce + recuperación de carrito y conversaciones para convertir Instagram, Linktree y web en una ruta de compra medible.",
+        "Mapa de calor + eventos + panel comercial para saber qué seguidores compran, qué producto miraron, dónde se frenaron y qué seguimiento necesitan."
+      ]
+    },
+    {
       "slug": "janethy-fiestas",
       "company": "Janethy Fiestas",
       "sector": "vestidos de fiesta, alquiler y moda femenina",
