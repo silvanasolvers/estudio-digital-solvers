@@ -880,6 +880,142 @@
       ]
     },
     {
+      "slug": "boreal-reposteria",
+      "company": "Boreal Repostería",
+      "sector": "taller de repostería creativa y regalos comestibles",
+      "city": "Medellín",
+      "tone": "delicado, creativo, mágico y de regalo",
+      "theme": "maker",
+      "brandMode": "pastry",
+      "accent": "#F5B7C8",
+      "secondary": "#26A097",
+      "brandDark": "#171737",
+      "paper": "#FFF4EE",
+      "paperCard": "#FFFDF8",
+      "brandWash": "rgba(245, 183, 200, 0.22)",
+      "brandWash2": "rgba(38, 160, 151, 0.14)",
+      "logoImage": "/assets/boreal-reposteria-logo.jpg",
+      "heroImage": "/assets/boreal-reposteria-hero.jpg",
+      "heroCopy": "Boreal ya vende deseo: arte comestible, cajas ilustradas, tortas express y regalos que se sienten especiales. La oportunidad no es verse más bonita; es convertir cada antojo, cumpleaños o fecha especial en pedido guiado, pago y seguimiento automático.",
+      "alertLabel": "Oportunidad de ventas",
+      "statusLabel": "Diagnóstico comercial",
+      "status": "Comunidad grande + web en espera + ventas repartidas entre Instagram, WhatsApp y Rappi",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Arte comestible, magia visual, empaques coleccionables y productos pensados para regalar",
+      "visualCueLabel": "Dolor",
+      "visualCue": "La decisión depende de fecha, producto, ciudad, mensaje, disponibilidad, pago y envío",
+      "conversionFocusLabel": "Solución",
+      "conversionFocus": "Agente de pedidos + catálogo propio + recuperación por fechas especiales",
+      "loaderLabel": "Entrando al universo Boreal",
+      "loaderTitle": "Boreal Repostería",
+      "loaderSubtitle": "Leyendo productos bajo pedido, cajas, tortas express, envíos y momentos de regalo.",
+      "loaderCue1": "Arte comestible",
+      "loaderCue2": "Pedido guiado",
+      "heroStampTitle": "Arte comestible",
+      "heroStampSubtitle": "Pedido listo para regalar",
+      "brandWorldTitle": "La venta empieza cuando alguien quiere sorprender",
+      "scrollTitle": "Del antojo al pedido listo para producir",
+      "diagnosisTitle": "Dónde se enfría un pedido Boreal",
+      "leadProblem": "Boreal tiene 53,9 mil seguidores visibles, una marca reconocible y productos con mucho deseo visual. Pero el recorrido público queda partido: Instagram inspira, la web aparece en modo tienda muy pronto, WhatsApp recibe pedidos y Rappi muestra algunos productos. Esa mezcla puede vender, pero también hace que muchas intenciones no queden medidas ni recuperadas.",
+      "opportunity": "La ruta ideal para Boreal es un sistema propio de pedidos: escoger ocasión, producto, fecha, ciudad, mensaje, extras, envío y forma de pago antes de llegar a WhatsApp o al equipo. Un agente Solvers puede tomar la intención 24/7, resolver preguntas, recuperar abandonos y activar campañas por cumpleaños, amor, empresa, Navidad o lanzamientos de colección.",
+      "proofLine": "Lectura preliminar basada en la captura enviada el 13 de junio de 2026, el perfil público @borealreposteria, borealreposteria.com en modo 'NUESTRA TIENDA MUY PRONTO', Rappi Boreal Repostería - Guayabal con catálogo/precios visibles, y entrevista pública de El Espectador sobre el origen y propuesta de arte comestible. Se valida con métricas reales antes de ejecutar.",
+      "audience": "Personas que compran regalos, cumpleaños, tortas express, cajas surtidas, detalles empresariales, fechas especiales y envíos a ciudades principales.",
+      "adAngle": "Regalos comestibles con magia Boreal + pedido guiado + entrega clara por WhatsApp",
+      "whatsappCta": "Quiero convertir más antojos en pedidos",
+      "scrollIntro": "El recorrido debe sentirse como abrir una caja Boreal: la persona llega por una emoción y el sistema la guía hasta un pedido completo sin perder datos.",
+      "experienceIntro": "Boreal no vende solo brownies o tortas. Vende un gesto listo para entregar. Por eso la automatización debe ordenar ocasión, fecha, producto, mensaje y envío con la misma delicadeza de la marca.",
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "53,9 mil seguidores",
+          "body": "La comunidad ya existe; la oportunidad está en convertir deseo visual en pedidos propios y medibles."
+        },
+        {
+          "label": "Dolor 01",
+          "title": "Web en espera",
+          "body": "La página pública aparece como tienda muy pronto, así que la intención no aterriza en una compra propia clara."
+        },
+        {
+          "label": "Dolor 02",
+          "title": "Pedido con muchos datos",
+          "body": "Cada regalo necesita producto, fecha, ciudad, mensaje, pago, envío y confirmación."
+        },
+        {
+          "label": "Solución",
+          "title": "Agente de pedidos",
+          "body": "Un flujo 24/7 recoge la información, resuelve dudas y deja el pedido listo para producir o cerrar."
+        }
+      ],
+      "experiencePath": [
+        "Deseo: alguien ve una caja, torta o edición coleccionable y piensa en una persona o fecha especial",
+        "Fricción: debe preguntar disponibilidad, precio, fecha, cobertura, mensaje, pago y envío",
+        "Solución: el flujo arma el pedido como una asesoría de regalo, no como un formulario frío",
+        "Cierre: WhatsApp recibe contexto completo y el equipo solo confirma producción, pago o entrega"
+      ],
+      "galleryImages": [
+        {
+          "label": "Cajas Boreal",
+          "src": "/assets/boreal-reposteria-hero.jpg"
+        },
+        {
+          "label": "Arte comestible",
+          "src": "/assets/boreal-reposteria-hero.jpg"
+        },
+        {
+          "label": "Regalo listo",
+          "src": "/assets/boreal-reposteria-hero.jpg"
+        }
+      ],
+      "journey": [
+        {
+          "title": "Etapa 1: inspiración desde Instagram",
+          "body": "El contenido ya despierta deseo. La mejora es llevar cada publicación, historia o reel a una ruta por ocasión: cumpleaños, amor, empresa, Navidad, tortas express o cajas surtidas."
+        },
+        {
+          "title": "Etapa 2: catálogo propio y decisión",
+          "body": "La web debe dejar de ser una promesa y convertirse en catálogo ligero con productos, precios base, tiempos, cobertura, extras y preguntas frecuentes."
+        },
+        {
+          "title": "Etapa 3: pedido automático",
+          "body": "El agente pregunta fecha, ciudad, producto, dedicatoria, cantidad, pago y entrega. Así WhatsApp recibe una intención completa, no mensajes sueltos."
+        },
+        {
+          "title": "Etapa 4: recompra y temporadas",
+          "body": "Los datos permiten reactivar clientes por cumpleaños, Navidad, amor y amistad, regalos corporativos o nuevas colecciones ilustradas."
+        }
+      ],
+      "findings": [
+        "La bio comunica arte comestible, magia, productos bajo pedido, WhatsApp y envíos a ciudades principales: hay una propuesta emocional clara.",
+        "La web pública de Boreal aparece en modo 'NUESTRA TIENDA MUY PRONTO', lo que deja una brecha entre la comunidad de Instagram y una compra propia medible.",
+        "Rappi muestra catálogo, precios, dirección y categorías como cajas surtidas, brownies cumpleaños, ediciones coleccionables y complementarios; eso prueba demanda, pero no reemplaza un embudo propio."
+      ],
+      "siteIssues": [
+        "Sin tienda propia activa, la marca depende de Instagram, WhatsApp y terceros para convertir. Eso limita pixel, recuperación, data de producto y recompra.",
+        "Un regalo Boreal requiere más variables que una compra rápida: ocasión, fecha, ciudad, producto, mensaje, extras, cobertura, pago y hora de entrega.",
+        "Si WhatsApp recibe pedidos incompletos, el equipo debe preguntar lo mismo una y otra vez justo en temporadas de alta demanda."
+      ],
+      "losses": [
+        "Personas que guardan una caja o torta pero no avanzan porque no saben precio, fecha disponible, cobertura o cómo personalizar el regalo.",
+        "Ventas potenciales de fechas especiales que se pierden si el seguimiento depende solo de memoria humana y chats manuales.",
+        "Data valiosa que queda dispersa: qué edición gusta más, qué producto genera clics, qué ciudad pregunta, qué fecha se repite y qué pedido se abandona."
+      ],
+      "heatmapData": [
+        "Clics por producto y ocasión. Saber si la intención está en tortas express, cajas surtidas, brownies cumpleaños, ediciones coleccionables, jars, regalos corporativos o Navidad.",
+        "Fricción del pedido. Detectar abandono en fecha, ciudad, disponibilidad, mensaje personalizado, precio, pago, envío o botón de WhatsApp.",
+        "Data para pauta y producción. Usar productos vistos y conversaciones para planear inventario, contenido, campañas por temporada y recuperación automática."
+      ],
+      "campaigns": [
+        "Campañas por ocasión: cumpleaños, amor, agradecimiento, Navidad, empresas y lanzamientos de cajas ilustradas.",
+        "Remarketing a quienes vieron productos, tocaron WhatsApp o empezaron pedido, con recordatorio por fecha y producto pendiente.",
+        "Campañas de recompra a clientes por calendario: cumpleaños, aniversarios, fechas familiares y regalos corporativos."
+      ],
+      "deliverables": [
+        "Landing/catálogo Boreal con productos, ocasiones, precios desde, tiempos, cobertura, extras, mensaje personalizado y CTA a pedido.",
+        "Agente comercial 24/7 entrenado para tomar pedidos bajo encargo, resolver dudas, confirmar datos y pasar a WhatsApp con contexto completo.",
+        "Pixel + eventos + mapa de calor + panel comercial para medir producto visto, pedido iniciado, WhatsApp, abandono, recompra y temporada."
+      ]
+    },
+    {
       "slug": "janethy-fiestas",
       "company": "Janethy Fiestas",
       "sector": "vestidos de fiesta, alquiler y moda femenina",
