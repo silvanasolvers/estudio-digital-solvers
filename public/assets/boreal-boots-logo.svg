@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Boreal Boots">
+  <defs>
+    <linearGradient id="gold" x1="36" y1="28" x2="198" y2="216" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F1D18A"/>
+      <stop offset="0.48" stop-color="#D8A754"/>
+      <stop offset="1" stop-color="#8F6425"/>
+    </linearGradient>
+  </defs>
+  <rect width="240" height="240" rx="120" fill="#050505"/>
+  <circle cx="120" cy="120" r="100" fill="none" stroke="url(#gold)" stroke-width="5"/>
+  <circle cx="120" cy="120" r="86" fill="none" stroke="#2A1D0E" stroke-width="2" stroke-dasharray="7 10"/>
+  <path d="M62 137c25 2 37-8 50-30 10-17 22-28 43-27 20 2 31 17 28 34-3 22-25 37-52 42-29 6-56 2-69-19Z" fill="url(#gold)"/>
+  <path d="M70 133c20 0 31-8 42-27 7-12 16-20 31-21 10 0 19 3 25 10-18 1-30 8-41 24-12 18-30 25-57 14Z" fill="#050505" opacity=".42"/>
+  <path d="M88 95h63" stroke="url(#gold)" stroke-width="8" stroke-linecap="round"/>
+  <path d="M94 83h48" stroke="#F7E0A9" stroke-width="4" stroke-linecap="round"/>
+  <text x="120" y="177" text-anchor="middle" fill="#F6E6BC" font-family="Arial, Helvetica, sans-serif" font-size="24" font-weight="900" letter-spacing="4">BOREAL</text>
+  <text x="120" y="199" text-anchor="middle" fill="#D8A754" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="900" letter-spacing="5">BOOTS</text>
+</svg>

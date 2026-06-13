@@ -760,6 +760,8 @@
       "paperCard": "#FFF8EC",
       "brandWash": "rgba(216, 167, 84, 0.18)",
       "brandWash2": "rgba(255, 255, 255, 0.09)",
+      "logoImage": "/assets/boreal-boots-logo.svg",
+      "heroImage": "/assets/boreal-boots-hero.jpg",
       "heroCopy": "Boreal Boots ya tiene una promesa muy clara: texanas, tenis y mocasines fabricados en cuero, con personalización. El dolor no es explicar que hacen zapatos; es convertir cada idea del cliente en una cotización rápida antes de que se enfríe.",
       "alertLabel": "Oportunidad de venta",
       "statusLabel": "Diagnóstico comercial",
@@ -811,6 +813,20 @@
         "Fricción: debe explicar talla, cuero, color, referencia, personalización, envío y presupuesto",
         "Solución: el flujo guía el pedido como si fuera un asesor de taller",
         "Cierre: el agente entrega una solicitud completa para cotización y seguimiento"
+      ],
+      "galleryImages": [
+        {
+          "label": "Producto Boreal",
+          "src": "/assets/boreal-boots-hero.jpg"
+        },
+        {
+          "label": "100% cuero",
+          "src": "/assets/boreal-boots-hero.jpg"
+        },
+        {
+          "label": "Pedido personalizado",
+          "src": "/assets/boreal-boots-hero.jpg"
+        }
       ],
       "journey": [
         {
