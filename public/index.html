@@ -79,13 +79,29 @@
       place-items: center;
       padding: 24px;
       background:
+        linear-gradient(180deg, color-mix(in srgb, var(--brand-dark) 82%, transparent), color-mix(in srgb, var(--brand-dark) 96%, black 4%)),
+        var(--hero-image),
         radial-gradient(circle at 50% 38%, color-mix(in srgb, var(--accent) 20%, transparent), transparent 20rem),
         linear-gradient(180deg, #050607, color-mix(in srgb, var(--brand-dark) 92%, black 8%));
+      background-size: cover;
+      background-position: center;
       transition: opacity 360ms ease, visibility 360ms ease;
-      animation: loaderAutoExit 520ms ease 1150ms forwards;
+    }
+
+    .screen-loader::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      opacity: 0.22;
+      background:
+        linear-gradient(rgba(255, 255, 255, 0.1) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.08) 1px, transparent 1px);
+      background-size: 42px 42px;
+      mask-image: radial-gradient(circle at center, black, transparent 72%);
     }
 
     body.is-loaded .screen-loader {
+      display: none;
       opacity: 0;
       visibility: hidden;
       pointer-events: none;
@@ -100,6 +116,7 @@
     }
 
     .loader-card {
+      position: relative;
       width: min(420px, 100%);
       padding: 22px;
       border: 1px solid var(--line);
@@ -108,6 +125,39 @@
         linear-gradient(145deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.04)),
         rgba(10, 12, 13, 0.86);
       box-shadow: var(--shadow);
+      overflow: hidden;
+      opacity: 0;
+      transform: translateY(10px) scale(0.985);
+      transition: opacity 320ms ease, transform 320ms ease;
+    }
+
+    body.loader-ready .loader-card {
+      opacity: 1;
+      transform: translateY(0) scale(1);
+    }
+
+    .loader-card::after {
+      content: "";
+      position: absolute;
+      inset: auto 18px 16px;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, color-mix(in srgb, var(--accent) 72%, white 12%), transparent);
+      opacity: 0.65;
+    }
+
+    .loader-logo {
+      width: 58px;
+      height: 58px;
+      margin-bottom: 14px;
+      object-fit: contain;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 7px;
+      background: color-mix(in srgb, var(--paper-card) 92%, white 8%);
+    }
+
+    .loader-logo[hidden] {
+      display: none;
     }
 
     .loader-card span {
@@ -126,6 +176,33 @@
       font-size: clamp(28px, 8vw, 46px);
       line-height: 0.95;
       text-transform: uppercase;
+    }
+
+    .loader-card p {
+      margin: 12px 0 0;
+      color: color-mix(in srgb, var(--ink) 76%, var(--accent) 24%);
+      font-size: 14px;
+      font-weight: 750;
+    }
+
+    .loader-cues {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 8px;
+      margin-top: 16px;
+    }
+
+    .loader-cues b {
+      min-height: 48px;
+      display: flex;
+      align-items: center;
+      padding: 10px;
+      border: 1px solid color-mix(in srgb, var(--accent) 34%, rgba(255, 255, 255, 0.12));
+      border-radius: var(--radius);
+      color: #fff;
+      background: rgba(255, 255, 255, 0.055);
+      font-size: 12px;
+      line-height: 1.1;
     }
 
     .loader-bar {
@@ -906,6 +983,51 @@
         rgba(9, 8, 7, 0.76);
     }
 
+    body[data-brand-mode="leather"] .screen-loader {
+      background:
+        radial-gradient(circle at 72% 28%, rgba(216, 167, 84, 0.2), transparent 22rem),
+        repeating-linear-gradient(135deg, rgba(255, 255, 255, 0.05) 0 1px, transparent 1px 13px),
+        linear-gradient(180deg, #050505, #17110a 54%, #050505);
+    }
+
+    body[data-brand-mode="leather"] .screen-loader::before,
+    body[data-brand-mode="leather"] .hero::before {
+      opacity: 0.28;
+      background:
+        linear-gradient(90deg, transparent 0 31px, rgba(216, 167, 84, 0.18) 31px 33px, transparent 33px 64px),
+        repeating-linear-gradient(0deg, transparent 0 14px, rgba(255, 255, 255, 0.08) 14px 15px);
+      background-size: 64px 64px, 18px 18px;
+    }
+
+    body[data-brand-mode="leather"] .loader-card,
+    body[data-brand-mode="leather"] .diagnosis-panel {
+      border-color: rgba(216, 167, 84, 0.32);
+      background:
+        linear-gradient(145deg, rgba(216, 167, 84, 0.17), rgba(255, 255, 255, 0.035)),
+        linear-gradient(180deg, rgba(19, 13, 7, 0.92), rgba(7, 6, 5, 0.88));
+    }
+
+    body[data-brand-mode="leather"] .loader-card::before {
+      content: "";
+      position: absolute;
+      inset: 12px;
+      border: 1px dashed rgba(216, 167, 84, 0.34);
+      border-radius: 6px;
+      pointer-events: none;
+    }
+
+    body[data-brand-mode="leather"] .brand-world {
+      background:
+        radial-gradient(circle at 86% 10%, rgba(216, 167, 84, 0.16), transparent 18rem),
+        linear-gradient(180deg, var(--paper), #e8d8be);
+    }
+
+    body[data-brand-mode="leather"] .path-step,
+    body[data-brand-mode="leather"] .identity-pill {
+      border-style: dashed;
+      border-color: color-mix(in srgb, var(--accent) 38%, rgba(49, 37, 21, 0.14));
+    }
+
     .section-light {
       background: var(--paper);
       color: #111314;
@@ -1637,6 +1759,20 @@
         gap: 18px;
       }
 
+      body[data-brand-mode="leather"] h1 {
+        font-size: clamp(38px, 12vw, 50px);
+        line-height: 0.92;
+      }
+
+      body[data-brand-mode="leather"] .client-mark b {
+        font-size: 15px;
+      }
+
+      body[data-brand-mode="leather"] .hero-copy {
+        font-size: 16px;
+        line-height: 1.35;
+      }
+
       .hero-pulse {
         right: -84px;
         top: 110px;
@@ -1726,8 +1862,14 @@
 <body>
   <div class="screen-loader" id="screenLoader" aria-live="polite" aria-label="Preparando estudio personalizado">
     <div class="loader-card">
-      <span>Preparando diagnóstico</span>
-      <strong>Estudio a la medida</strong>
+      <img class="loader-logo" data-image="logoImage" alt="">
+      <span data-field="loaderLabel">Preparando diagnóstico</span>
+      <strong data-field="loaderTitle">Estudio a la medida</strong>
+      <p data-field="loaderSubtitle">Leyendo identidad, oferta y ruta comercial antes de mostrar el estudio.</p>
+      <div class="loader-cues" aria-hidden="true">
+        <b data-field="brandPersonality">Marca propia con presencia digital visible</b>
+        <b data-field="conversionFocus">Convertir interés en conversación</b>
+      </div>
       <div class="loader-bar" aria-hidden="true"><i></i></div>
     </div>
   </div>
@@ -1805,7 +1947,7 @@
         <div class="wrap brand-world-layout">
           <div class="brand-world-copy">
             <p class="eyebrow">Universo de marca</p>
-            <h2>Primero se vende la experiencia, después la reserva</h2>
+            <h2 data-field="brandWorldTitle">Primero se vende la experiencia, después la reserva</h2>
             <p data-field="experienceIntro">Cuando la marca ya tiene deseo visual, el mini-estudio debe mostrar cómo convertir esa emoción en una ruta concreta de decisión.</p>
             <div class="experience-path" id="experiencePath"></div>
           </div>
@@ -1817,7 +1959,7 @@
         <div class="wrap story-grid">
           <div class="story-sticky">
             <p class="eyebrow">Scroll didáctico</p>
-            <h2>El recorrido que debe quedar claro</h2>
+            <h2 data-field="scrollTitle">El recorrido que debe quedar claro</h2>
             <p data-field="scrollIntro">El estudio ordena el camino desde la primera impresión hasta la conversación comercial, para que el negocio entienda qué se mejora y por qué importa.</p>
           </div>
           <div class="journey-list" id="journeySteps"></div>
@@ -1827,7 +1969,7 @@
       <section class="section-dark" id="diagnostico">
         <div class="wrap">
           <div class="section-kicker">
-            <h2>Lo que se está perdiendo hoy</h2>
+            <h2 data-field="diagnosisTitle">Lo que se está perdiendo hoy</h2>
             <p data-field="leadProblem">Hoy el negocio depende de que el cliente lo encuentre de casualidad, sin un centro digital propio que convierta interés en conversación.</p>
           </div>
           <div class="cards" id="lossCards"></div>
@@ -2048,6 +2190,12 @@
         visualCue: "Visual claro para convertir confianza",
         conversionFocusLabel: "Foco",
         conversionFocus: "Convertir interés en conversación",
+        loaderLabel: "Preparando diagnóstico",
+        loaderTitle: "Estudio a la medida",
+        loaderSubtitle: "Leyendo identidad, oferta y ruta comercial antes de mostrar el estudio.",
+        brandWorldTitle: "Primero se vende la experiencia, después la reserva",
+        scrollTitle: "El recorrido que debe quedar claro",
+        diagnosisTitle: "Lo que se está perdiendo hoy",
         scrollIntro: "El estudio ordena el camino desde la primera impresión hasta la conversación comercial, para que el negocio entienda qué se mejora y por qué importa.",
         experienceIntro: "Cuando la marca ya tiene deseo visual, el mini-estudio debe mostrar cómo convertir esa emoción en una ruta concreta de decisión."
       };
@@ -2119,6 +2267,7 @@
         });
 
         document.body.dataset.theme = prospect.theme || "default";
+        document.body.dataset.brandMode = prospect.brandMode || prospect.theme || "standard";
         document.documentElement.style.setProperty("--accent", prospect.accent || "#00e5a0");
         document.documentElement.style.setProperty("--secondary", prospect.secondary || "#ffcf5c");
         document.documentElement.style.setProperty("--brand-dark", prospect.brandDark || "#050607");
@@ -2128,6 +2277,7 @@
         document.documentElement.style.setProperty("--brand-wash-2", prospect.brandWash2 || "rgba(69, 163, 255, 0.12)");
         document.documentElement.style.setProperty("--hero-image", prospect.heroImage ? `url("${prospect.heroImage}")` : "none");
         document.title = `${prospect.company} | Estudio digital SolversAI`;
+        document.body.classList.add("loader-ready");
       }
 
       function renderCards(root, items, labels) {
