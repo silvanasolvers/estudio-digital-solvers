@@ -995,21 +995,38 @@
 
     body[data-brand-mode="leather"] .screen-loader {
       background:
-        radial-gradient(circle at 72% 28%, rgba(216, 167, 84, 0.2), transparent 22rem),
-        repeating-linear-gradient(135deg, rgba(255, 255, 255, 0.05) 0 1px, transparent 1px 13px),
+        radial-gradient(circle at 50% 24%, rgba(216, 167, 84, 0.24), transparent 18rem),
+        radial-gradient(circle at 16% 78%, rgba(119, 68, 24, 0.38), transparent 20rem),
+        linear-gradient(180deg, rgba(5, 5, 5, 0.88), rgba(18, 11, 5, 0.94)),
+        var(--hero-image),
         linear-gradient(180deg, #050505, #17110a 54%, #050505);
+      background-size: cover;
+      background-position: center;
     }
 
     body[data-brand-mode="leather"] .screen-loader::before,
     body[data-brand-mode="leather"] .hero::before {
-      opacity: 0.28;
+      opacity: 0.22;
       background:
-        linear-gradient(90deg, transparent 0 31px, rgba(216, 167, 84, 0.18) 31px 33px, transparent 33px 64px),
-        repeating-linear-gradient(0deg, transparent 0 14px, rgba(255, 255, 255, 0.08) 14px 15px);
-      background-size: 64px 64px, 18px 18px;
+        radial-gradient(circle at center, rgba(216, 167, 84, 0.22), transparent 23rem),
+        repeating-linear-gradient(90deg, transparent 0 20px, rgba(216, 167, 84, 0.18) 20px 22px, transparent 22px 42px);
+      background-size: auto, 42px 100%;
     }
 
-    body[data-brand-mode="leather"] .loader-card,
+    body[data-brand-mode="leather"] .loader-card {
+      width: min(390px, 100%);
+      padding: 26px;
+      text-align: center;
+      border-color: rgba(216, 167, 84, 0.48);
+      border-radius: 999px 999px 18px 18px;
+      background:
+        linear-gradient(180deg, rgba(5, 5, 5, 0.96), rgba(15, 10, 5, 0.94)),
+        radial-gradient(circle at 50% 22%, rgba(216, 167, 84, 0.14), transparent 14rem);
+      box-shadow:
+        0 28px 90px rgba(0, 0, 0, 0.54),
+        inset 0 0 0 1px rgba(255, 231, 164, 0.08);
+    }
+
     body[data-brand-mode="leather"] .diagnosis-panel {
       border-color: rgba(216, 167, 84, 0.32);
       background:
@@ -1024,6 +1041,54 @@
       border: 1px dashed rgba(216, 167, 84, 0.34);
       border-radius: 6px;
       pointer-events: none;
+    }
+
+    body[data-brand-mode="leather"] .loader-logo {
+      width: 118px;
+      height: 118px;
+      margin: 2px auto 18px;
+      padding: 5px;
+      border-color: rgba(216, 167, 84, 0.72);
+      background: #050505;
+      box-shadow: 0 0 0 7px rgba(216, 167, 84, 0.1), 0 14px 34px rgba(0, 0, 0, 0.44);
+      object-fit: contain;
+    }
+
+    body[data-brand-mode="leather"] .loader-card span {
+      color: #d8a754;
+      letter-spacing: 0;
+    }
+
+    body[data-brand-mode="leather"] .loader-card strong {
+      color: #fff6df;
+      font-size: clamp(30px, 7vw, 42px);
+    }
+
+    body[data-brand-mode="leather"] .loader-card p {
+      max-width: 27ch;
+      margin-inline: auto;
+      color: rgba(255, 244, 220, 0.78);
+    }
+
+    body[data-brand-mode="leather"] .loader-cues b {
+      justify-content: center;
+      min-height: 40px;
+      border-color: rgba(216, 167, 84, 0.38);
+      border-radius: 999px;
+      background: rgba(216, 167, 84, 0.09);
+      color: #fff2d3;
+    }
+
+    body[data-brand-mode="leather"] .loader-bar {
+      height: 2px;
+      margin: 22px 18px 8px;
+      border-radius: 0;
+      background: repeating-linear-gradient(90deg, rgba(216, 167, 84, 0.24) 0 12px, transparent 12px 18px);
+    }
+
+    body[data-brand-mode="leather"] .loader-bar i {
+      background: linear-gradient(90deg, transparent, #d8a754, transparent);
+      box-shadow: none;
     }
 
     body[data-brand-mode="leather"] .brand-world {
@@ -1044,7 +1109,7 @@
     body[data-brand-mode="leather"] .client-mark img {
       background: #050505;
       padding: 3px;
-      object-fit: cover;
+      object-fit: contain;
     }
 
     body[data-brand-mode="leather"] h1 {
@@ -1917,8 +1982,8 @@
       <strong data-field="loaderTitle">Estudio a la medida</strong>
       <p data-field="loaderSubtitle">Leyendo identidad, oferta y ruta comercial antes de mostrar el estudio.</p>
       <div class="loader-cues" aria-hidden="true">
-        <b data-field="brandPersonality">Marca propia con presencia digital visible</b>
-        <b data-field="conversionFocus">Convertir interés en conversación</b>
+        <b data-field="loaderCue1">Marca propia</b>
+        <b data-field="loaderCue2">Ruta comercial</b>
       </div>
       <div class="loader-bar" aria-hidden="true"><i></i></div>
     </div>
@@ -2243,6 +2308,8 @@
         loaderLabel: "Preparando diagnóstico",
         loaderTitle: "Estudio a la medida",
         loaderSubtitle: "Leyendo identidad, oferta y ruta comercial antes de mostrar el estudio.",
+        loaderCue1: "Marca propia",
+        loaderCue2: "Ruta comercial",
         brandWorldTitle: "Primero se vende la experiencia, después la reserva",
         scrollTitle: "El recorrido que debe quedar claro",
         diagnosisTitle: "Lo que se está perdiendo hoy",
