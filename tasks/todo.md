@@ -107,11 +107,13 @@
 - [x] Analizar captura de Instagram y ruta digital pública.
 - [x] Agregar prospecto `tahiti-hotel` con enfoque hotelero premium.
 - [x] Verificar JSON, contenido local y render DOM móvil.
-- [ ] Commit/push y desplegar en Dokploy.
-- [ ] Verificar producción y enviar link a Valentina.
+- [x] Commit/push y desplegar en Dokploy.
+- [x] Verificar producción y enviar link a Valentina.
 
 ## Review Tahiti Hotel
 
 - Datos usados: captura enviada el 13 de junio de 2026 con `@tahitihotel`, 345 publicaciones, 76,9 mil seguidores, hotel boutique en Puente Iglesias, a 2h de Medellín y 1h del Eje Cafetero; revisión pública de `tahitihotel.co`, habitaciones, experiencias, planes, motor de reserva Cloudbeds, RNT 149361 y WhatsApp de recepción/experiencias.
 - Ángulo comercial: no falta web; el dolor es convertir comunidad, deseo visual, habitaciones, villas, planes, experiencias, Cloudbeds y WhatsApp en reservas directas más guiadas y medibles.
 - Verificación local: `npm run check` OK con 10 prospectos; `/data/prospects.json` contiene `tahiti-hotel`, 3 imágenes, 4 tiles de diagnóstico y estado personalizado; Chromium DOM móvil contiene título, 76,9 mil seguidores, Cloudbeds, RNT y bot de reservas 24/7.
+- Producción: commit `5dcbfce`, Dokploy deployment `5EEi9abGxvhjN4xrf8SIu` terminó `done`; `https://estudios-digitales.solversai.cloud/empresa/tahiti-hotel?v=5dcbfce` HTTP 200 y JSON público contiene Tahiti con estado y CTA correctos.
+- Verificación pública: Chromium DOM móvil confirmó 76,9 mil seguidores, Cloudbeds, RNT 149361 y `Bot de reservas 24/7`.
