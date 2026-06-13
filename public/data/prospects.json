@@ -373,6 +373,130 @@
       ]
     },
     {
+      "slug": "manantiales-del-campo",
+      "company": "Manantiales del Campo",
+      "sector": "hotel boutique de naturaleza, spa y celebraciones",
+      "city": "San Rafael / Guatapé, Antioquia",
+      "tone": "natural, premium, sereno y comercial",
+      "theme": "resort",
+      "heroImage": "https://caobahotels.nyc3.cdn.digitaloceanspaces.com/uploads/Manantiales_del_Campo_Boutique_Nature_Lodge_Gallery_1_899bd7628b.webp",
+      "accent": "#76A878",
+      "secondary": "#D8B46A",
+      "brandDark": "#10231F",
+      "paper": "#EEF0DF",
+      "paperCard": "#FFF9EA",
+      "brandWash": "rgba(118, 168, 120, 0.18)",
+      "brandWash2": "rgba(216, 180, 106, 0.17)",
+      "heroCopy": "Manantiales del Campo ya tiene algo muy difícil de construir: 183 mil seguidores visibles, una experiencia de naturaleza muy aspiracional, RNT, motor de reservas y una oferta amplia entre hospedaje, spa, celebraciones, eventos y comunidad. El reto no es llamar la atención; es lograr que cada persona que llega con ganas de escaparse termine en fecha consultada, plan elegido y reserva clara.",
+      "alertLabel": "Oportunidad comercial",
+      "statusLabel": "Diagnóstico comercial",
+      "status": "Comunidad masiva + motor de reservas, pero decisión repartida entre hospedaje, spa, eventos y consultas manuales",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Un refugio natural con deseo visual, agua, montaña, spa y experiencia boutique",
+      "visualCueLabel": "Dolor",
+      "visualCue": "La atención puede quedarse en guardados, preguntas y comparaciones sin fecha confirmada",
+      "conversionFocusLabel": "Solución",
+      "conversionFocus": "Bot de reservas 24/7 + rutas por plan + data para llenar fechas",
+      "leadProblem": "Manantiales del Campo no parte de cero: en la captura se ven 183 mil seguidores, 1.434 publicaciones, RNT 32620, ubicación a 30 minutos de Guatapé y un link directo a LobbyPMS. Además, la experiencia pública habla de suites, naturaleza, río, piscina, jacuzzi, spa, restaurante, eventos y celebraciones. Esa riqueza es una ventaja, pero también puede abrir fricción: cada visitante llega con una intención distinta y puede necesitar resolver fecha, tarifa, tipo de habitación, plan de pareja, familia, spa, celebración, comida, políticas o cómo llegar antes de reservar.",
+      "opportunity": "La oportunidad es convertir esa comunidad en reservas más guiadas y medibles. Un flujo Solvers puede separar intenciones desde el primer clic: hospedaje, escapada romántica, plan familiar, spa, celebración, evento o regalo. Luego un bot 24/7 responde dudas, filtra fecha y número de personas, conecta con LobbyPMS o WhatsApp y deja cada oportunidad lista para cierre. Con mapa de calor y eventos, el hotel sabe qué plan mueve ventas y qué fechas necesitan pauta.",
+      "proofLine": "Lectura preliminar basada en la captura enviada el 13 de junio de 2026, el perfil público @hotelmanantialesdelcampo con 183 mil seguidores visibles, RNT 32620, link a engine.lobbypms.com, y revisión de fuentes públicas donde aparecen Manantiales del Campo en San Rafael con piscina, spa, sauna, restaurante, jacuzzis, senderos, naturaleza, habitaciones/suites y oferta para descanso. Se valida con métricas, ocupación y canales reales antes de ejecutar.",
+      "audience": "Parejas, familias, grupos de amigos, personas de Medellín y Antioquia buscando descanso cerca de Guatapé, celebraciones, spa, naturaleza, río y escapadas de fin de semana.",
+      "adAngle": "Paraíso entre montañas + reserva guiada por fecha, plan y experiencia",
+      "whatsappCta": "Quiero convertir más seguidores en reservas",
+      "scrollIntro": "El mini-estudio debe mostrar que Manantiales no necesita verse más grande. Necesita que la atención que ya recibe se ordene por intención: quién quiere dormir, quién quiere spa, quién quiere celebrar, quién pregunta por eventos y quién ya está listo para reservar.",
+      "experienceIntro": "Manantiales vende naturaleza, agua, descanso, suites, jacuzzis, spa, restaurante y celebraciones. Esa emoción necesita convertirse en una ruta clara: elegir plan, confirmar fecha, resolver dudas clave y llegar al canal correcto sin perderse.",
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "183 mil seguidores",
+          "body": "La marca ya tiene escala, confianza visual y una comunidad capaz de generar intención turística todos los días."
+        },
+        {
+          "label": "Dolor 01",
+          "title": "Muchas intenciones",
+          "body": "Hospedaje, spa, celebraciones, eventos, familia, pareja y comunidad pueden mezclarse en un mismo camino de reserva."
+        },
+        {
+          "label": "Dolor 02",
+          "title": "Reserva con fricción",
+          "body": "Si la persona debe resolver fechas, tarifas, habitación, políticas, comida o cómo llegar manualmente, la intención se enfría."
+        },
+        {
+          "label": "Solución",
+          "title": "Reserva guiada 24/7",
+          "body": "Un bot ordena plan, fecha, personas, dudas y canal de cierre antes de entregar el lead al equipo o al motor de reserva."
+        }
+      ],
+      "experiencePath": [
+        "Deseo: la persona ve montaña, río, jacuzzi, spa o celebración y piensa en una escapada",
+        "Fricción: necesita saber fecha, tarifa, tipo de habitación, plan, disponibilidad, políticas o logística",
+        "Solución: la landing/flujo separa hospedaje, spa, eventos y celebraciones antes del chat o motor de reserva",
+        "Cierre: el bot 24/7 responde, recupera interesados y deja la reserva o conversación lista para cerrar"
+      ],
+      "galleryImages": [
+        {
+          "label": "Reserva natural",
+          "src": "https://caobahotels.nyc3.cdn.digitaloceanspaces.com/uploads/Manantiales_del_Campo_Boutique_Nature_Lodge_Gallery_1_899bd7628b.webp"
+        },
+        {
+          "label": "Agua y senderos",
+          "src": "https://caobahotels.nyc3.cdn.digitaloceanspaces.com/uploads/Manantiales_del_Campo_Boutique_Nature_Lodge_Gallery_2_ee0c0aafdf.webp"
+        },
+        {
+          "label": "Spa y descanso",
+          "src": "https://caobahotels.nyc3.cdn.digitaloceanspaces.com/uploads/Manantiales_del_Campo_Boutique_Nature_Lodge_Gallery_3_756992fb85.webp"
+        }
+      ],
+      "journey": [
+        {
+          "title": "Dolor: 183 mil seguidores pueden generar deseo, pero no siempre reservas proporcionales",
+          "body": "La comunidad puede ver reels, guardar fotos y preguntar por el lugar. El valor real aparece cuando esa atención se convierte en fechas, planes, personas, disponibilidad y pagos medibles."
+        },
+        {
+          "title": "Dolor: el huésped no siempre llega preguntando por lo mismo",
+          "body": "Una persona busca escapada romántica, otra plan familiar, otra spa, otra celebración y otra evento. Si todo entra por la misma ruta, el equipo debe filtrar manualmente y la respuesta pierde velocidad."
+        },
+        {
+          "title": "Solución: bot 24/7 que filtra la intención antes del equipo humano",
+          "body": "El bot puede preguntar fecha tentativa, número de personas, tipo de plan, presupuesto, dudas clave y si la persona quiere reservar, cotizar evento o hablar de spa. Así la conversación llega con contexto."
+        },
+        {
+          "title": "Solución: data para llenar fechas y vender mejor cada experiencia",
+          "body": "El mapa de calor muestra si la demanda está en suites, jacuzzi, spa, eventos, celebraciones, familia o pareja. Esa data decide pauta, remarketing y promociones para temporadas o días con menor ocupación."
+        }
+      ],
+      "findings": [
+        "El perfil muestra una escala muy alta para hotelería local: 183 mil seguidores visibles, 1.434 publicaciones, verificación, RNT 32620 y una promesa clara de paraíso entre montañas a 30 minutos de Guatapé.",
+        "Ya existe un motor de reservas visible por LobbyPMS, así que el dolor no es no tener reserva online; el dolor es guiar mejor la decisión antes de que la persona llegue al motor o al chat.",
+        "La oferta visible se abre en varias líneas comerciales: hotel boutique, spa, celebraciones, eventos y comunidad. Cada una necesita ruta, mensaje, seguimiento y medición propia."
+      ],
+      "siteIssues": [
+        "El link visible lleva directo a un motor de reservas. Eso es útil para quien ya decidió, pero puede dejar sin acompañamiento a quien todavía necesita entender planes, diferencias, políticas o cuál experiencia elegir.",
+        "La decisión turística tiene muchas preguntas repetidas: fechas, tarifas, habitaciones, jacuzzi, alimentación, spa, celebraciones, eventos, ubicación, mascotas, pagos y cómo llegar.",
+        "Con 183 mil seguidores, enviar tráfico genérico al perfil o al motor limita el aprendizaje. Manantiales necesita saber qué contenido y qué plan se convierten en reserva real, no solo en visitas."
+      ],
+      "losses": [
+        "Personas que se enamoran del lugar y lo guardan como próximo plan, pero no reservan porque no encuentran rápido fecha, tarifa, plan ideal o respuesta a una duda concreta.",
+        "Conversaciones que llegan frías o incompletas cuando el equipo debe preguntar desde cero cuántas personas son, qué fecha quieren, si es pareja, familia, spa, evento o celebración.",
+        "Fechas entre semana, temporadas bajas o cupos de spa/eventos que podrían llenarse mejor si la pauta y el remarketing respondieran a intención real."
+      ],
+      "heatmapData": [
+        "Clics por intención. Medir interés en hospedaje, spa, jacuzzi, celebraciones, eventos, familia, pareja, ubicación y reservas.",
+        "Fricción de reserva. Detectar si la persona abandona antes de ver tarifas, disponibilidad, políticas, motor LobbyPMS, WhatsApp o cómo llegar.",
+        "Data para ocupación. Usar intención real para empujar fechas flojas, paquetes de pareja/familia, spa, eventos y remarketing a quienes casi reservaron."
+      ],
+      "campaigns": [
+        "Campañas por intención: escapada romántica, familia, spa, celebración, evento o descanso entre montañas, cada una con ruta y CTA propio.",
+        "Bot de reservas 24/7 conectado al flujo comercial para filtrar fecha, personas, plan, presupuesto, dudas, disponibilidad y canal de cierre.",
+        "Remarketing a visitantes que vieron reservas, spa, eventos o tocaron WhatsApp/LobbyPMS, con seguimiento distinto según el interés."
+      ],
+      "deliverables": [
+        "Mini experiencia Manantiales que ordena hospedaje, suites, spa, celebraciones, eventos, ubicación, políticas, preguntas frecuentes, LobbyPMS y WhatsApp.",
+        "Bot comercial 24/7 para WhatsApp entrenado en fechas, disponibilidad, tarifas, tipos de plan, spa, celebraciones, eventos, pagos, políticas, cómo llegar y upsells.",
+        "Pauta + pixel + mapa de calor para medir qué publicación, plan o experiencia genera intención, dónde se frena la persona y qué seguimiento necesita."
+      ]
+    },
+    {
       "slug": "tahiti-hotel",
       "company": "Tahiti Hotel",
       "sector": "hotel boutique, villas privadas y experiencias en el Suroeste",

@@ -117,3 +117,16 @@
 - Verificación local: `npm run check` OK con 10 prospectos; `/data/prospects.json` contiene `tahiti-hotel`, 3 imágenes, 4 tiles de diagnóstico y estado personalizado; Chromium DOM móvil contiene título, 76,9 mil seguidores, Cloudbeds, RNT y bot de reservas 24/7.
 - Producción: commit `5dcbfce`, Dokploy deployment `5EEi9abGxvhjN4xrf8SIu` terminó `done`; `https://estudios-digitales.solversai.cloud/empresa/tahiti-hotel?v=5dcbfce` HTTP 200 y JSON público contiene Tahiti con estado y CTA correctos.
 - Verificación pública: Chromium DOM móvil confirmó 76,9 mil seguidores, Cloudbeds, RNT 149361 y `Bot de reservas 24/7`.
+
+## Manantiales del Campo mini-estudio
+- [x] Analizar captura de Instagram y fuentes públicas.
+- [x] Agregar prospecto `manantiales-del-campo` con enfoque hotelero/naturaleza.
+- [x] Verificar JSON, contenido local y render DOM móvil/desktop.
+- [ ] Commit/push y desplegar en Dokploy.
+- [ ] Verificar producción y enviar link a Valentina.
+
+## Review Manantiales del Campo
+
+- Datos usados: captura enviada el 13 de junio de 2026 con `@hotelmanantialesdelcampo`, 1.434 publicaciones, 183 mil seguidores, RNT 32620, ubicación a 30 minutos de Guatapé y link de reservas `engine.lobbypms.com`; revisión pública de Instagram, Hotels.com, Caoba Hotels y Preferred Card Club.
+- Ángulo comercial: no falta visibilidad ni motor de reserva; el dolor es convertir comunidad masiva, naturaleza, suites, spa, celebraciones, eventos y LobbyPMS en reservas directas más guiadas y medibles.
+- Verificación local: `npm run check` OK con 11 prospectos; `/data/prospects.json` contiene `manantiales-del-campo`, 3 imágenes, 4 tiles de diagnóstico y 4 pasos de recorrido; Chromium DOM móvil contiene título, 183 mil seguidores, LobbyPMS y bot/reserva guiada 24/7.
