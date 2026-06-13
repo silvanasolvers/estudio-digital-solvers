@@ -122,11 +122,13 @@
 - [x] Analizar captura de Instagram y fuentes públicas.
 - [x] Agregar prospecto `manantiales-del-campo` con enfoque hotelero/naturaleza.
 - [x] Verificar JSON, contenido local y render DOM móvil/desktop.
-- [ ] Commit/push y desplegar en Dokploy.
-- [ ] Verificar producción y enviar link a Valentina.
+- [x] Commit/push y desplegar en Dokploy.
+- [x] Verificar producción y enviar link a Valentina.
 
 ## Review Manantiales del Campo
 
 - Datos usados: captura enviada el 13 de junio de 2026 con `@hotelmanantialesdelcampo`, 1.434 publicaciones, 183 mil seguidores, RNT 32620, ubicación a 30 minutos de Guatapé y link de reservas `engine.lobbypms.com`; revisión pública de Instagram, Hotels.com, Caoba Hotels y Preferred Card Club.
 - Ángulo comercial: no falta visibilidad ni motor de reserva; el dolor es convertir comunidad masiva, naturaleza, suites, spa, celebraciones, eventos y LobbyPMS en reservas directas más guiadas y medibles.
 - Verificación local: `npm run check` OK con 11 prospectos; `/data/prospects.json` contiene `manantiales-del-campo`, 3 imágenes, 4 tiles de diagnóstico y 4 pasos de recorrido; Chromium DOM móvil contiene título, 183 mil seguidores, LobbyPMS y bot/reserva guiada 24/7.
+- Producción: commit `3d77c5e`, Dokploy deployment `dt4vSriqSh89e2wCaiLLD` terminó `done`; `https://estudios-digitales.solversai.cloud/empresa/manantiales-del-campo?v=3d77c5e` HTTP 200 y JSON público contiene Manantiales con estado, CTA e imágenes correctas.
+- Verificación pública: Chromium DOM confirmó Manantiales del Campo, 183 mil seguidores, LobbyPMS, `Reserva guiada 24/7` y `Bot de reservas 24/7`.
