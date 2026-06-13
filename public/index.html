@@ -1480,6 +1480,210 @@
       display: flex;
     }
 
+    body[data-theme="maker"][data-brand-mode="fashion"] {
+      background:
+        radial-gradient(circle at 16% 0%, rgba(234, 182, 166, 0.24), transparent 32rem),
+        radial-gradient(circle at 86% 14%, rgba(99, 132, 109, 0.2), transparent 31rem),
+        linear-gradient(180deg, var(--brand-dark) 0%, #251b1a 42%, var(--paper) 42%, var(--paper) 100%);
+    }
+
+    body[data-theme="maker"][data-brand-mode="fashion"] .hero {
+      min-height: 106vh;
+      background:
+        linear-gradient(100deg, rgba(37, 27, 26, 0.98) 0%, rgba(49, 37, 35, 0.88) 48%, rgba(234, 182, 166, 0.2) 100%),
+        radial-gradient(circle at 80% 22%, rgba(234, 182, 166, 0.34), transparent 24rem),
+        radial-gradient(circle at 14% 82%, rgba(99, 132, 109, 0.24), transparent 19rem),
+        var(--brand-dark);
+    }
+
+    body[data-brand-mode="fashion"] .leather-hero-scene {
+      display: block;
+      position: absolute;
+      top: clamp(150px, 20vh, 210px);
+      right: clamp(-70px, 5vw, 90px);
+      width: min(39vw, 540px);
+      height: min(58vh, 540px);
+      z-index: 0;
+      opacity: 0.92;
+      pointer-events: none;
+      transform: rotate(1.2deg) translateY(calc(var(--hero-pan) * -0.34)) scale(calc(1 + ((var(--hero-zoom) - 1) * 0.18)));
+      transform-origin: center;
+      transition: transform 120ms linear;
+    }
+
+    body[data-brand-mode="fashion"] .leather-hero-scene::before {
+      content: "";
+      position: absolute;
+      inset: 9% -5% -8% 18%;
+      border: 1px solid rgba(255, 238, 229, 0.34);
+      border-radius: 2px 42px 2px 42px;
+      background:
+        repeating-linear-gradient(90deg, rgba(255, 255, 255, 0.08) 0 2px, transparent 2px 20px),
+        linear-gradient(135deg, rgba(234, 182, 166, 0.28), rgba(99, 132, 109, 0.12));
+    }
+
+    body[data-brand-mode="fashion"] .leather-product-card {
+      position: absolute;
+      inset: 0;
+      border: 1px solid rgba(255, 238, 229, 0.5);
+      border-radius: 2px 44px 2px 44px;
+      overflow: hidden;
+      background:
+        linear-gradient(180deg, rgba(255, 244, 237, 0.04), rgba(37, 27, 26, 0.34)),
+        var(--hero-image);
+      background-size: cover;
+      background-position: center;
+      box-shadow:
+        0 34px 90px rgba(16, 11, 10, 0.5),
+        inset 0 0 0 1px rgba(255, 255, 255, 0.16);
+    }
+
+    body[data-brand-mode="fashion"] .leather-product-card::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(90deg, rgba(37, 27, 26, 0.46), transparent 40%, rgba(234, 182, 166, 0.12)),
+        radial-gradient(circle at 70% 24%, transparent 0 9rem, rgba(37, 27, 26, 0.24) 18rem);
+    }
+
+    body[data-brand-mode="fashion"] .leather-scene-logo {
+      position: absolute;
+      left: 22px;
+      top: 22px;
+      width: clamp(82px, 7vw, 112px);
+      aspect-ratio: 1;
+      border: 1px solid rgba(255, 238, 229, 0.72);
+      border-radius: 999px;
+      background: #f6d6cb;
+      padding: 4px;
+      object-fit: cover;
+      box-shadow:
+        0 0 0 10px rgba(234, 182, 166, 0.18),
+        0 18px 42px rgba(16, 11, 10, 0.34);
+    }
+
+    body[data-brand-mode="fashion"] .leather-stamp {
+      position: absolute;
+      left: clamp(18px, 3vw, 30px);
+      bottom: clamp(20px, 4vh, 42px);
+      width: min(242px, 76%);
+      padding: 14px 16px;
+      border-left: 2px solid var(--accent);
+      background: rgba(37, 27, 26, 0.8);
+      backdrop-filter: blur(12px);
+    }
+
+    body[data-brand-mode="fashion"] .leather-stamp b,
+    body[data-brand-mode="fashion"] .leather-stamp span {
+      display: block;
+      letter-spacing: 0;
+    }
+
+    body[data-brand-mode="fashion"] .leather-stamp b {
+      color: #fff6ef;
+      font-family: "Archivo Black", Impact, sans-serif;
+      font-size: clamp(19px, 2.2vw, 30px);
+      line-height: 0.95;
+    }
+
+    body[data-brand-mode="fashion"] .leather-stamp span {
+      margin-top: 6px;
+      color: #f6d6cb;
+      font-size: 12px;
+      font-weight: 950;
+      text-transform: uppercase;
+    }
+
+    body[data-brand-mode="fashion"] .leather-swatch-row {
+      position: absolute;
+      right: 16px;
+      bottom: 26%;
+      display: grid;
+      gap: 8px;
+    }
+
+    body[data-brand-mode="fashion"] .leather-swatch-row i {
+      width: 32px;
+      height: 32px;
+      border: 1px solid rgba(255, 238, 229, 0.66);
+      border-radius: 999px;
+      background: #eab6a6;
+      box-shadow: 0 12px 24px rgba(16, 11, 10, 0.28);
+    }
+
+    body[data-brand-mode="fashion"] .leather-swatch-row i:nth-child(2) {
+      background: #63846d;
+    }
+
+    body[data-brand-mode="fashion"] .leather-swatch-row i:nth-child(3) {
+      background: #ffffff;
+    }
+
+    body[data-theme="maker"][data-brand-mode="fashion"] .hero-grid {
+      width: min(1360px, 100%);
+      grid-template-columns: minmax(0, 0.92fr) minmax(420px, 0.56fr);
+      gap: clamp(36px, 5vw, 86px);
+      align-items: center;
+    }
+
+    body[data-brand-mode="fashion"] .screen-loader {
+      background:
+        linear-gradient(180deg, rgba(37, 27, 26, 0.84), rgba(37, 27, 26, 0.94)),
+        var(--hero-image),
+        linear-gradient(180deg, #251b1a, #412e2a);
+      background-size: cover;
+      background-position: center;
+    }
+
+    body[data-brand-mode="fashion"] .loader-card {
+      text-align: center;
+      border-color: rgba(234, 182, 166, 0.56);
+      border-radius: 2px 34px 2px 34px;
+      background:
+        linear-gradient(180deg, rgba(255, 246, 241, 0.98), rgba(246, 214, 203, 0.94));
+      color: #251b1a;
+      box-shadow: 0 28px 90px rgba(16, 11, 10, 0.46);
+    }
+
+    body[data-brand-mode="fashion"] .loader-logo {
+      margin-inline: auto;
+      background: #f6d6cb;
+      object-fit: cover;
+    }
+
+    body[data-brand-mode="fashion"] .loader-card span,
+    body[data-brand-mode="fashion"] .loader-card strong,
+    body[data-brand-mode="fashion"] .loader-card p {
+      color: #251b1a;
+    }
+
+    body[data-brand-mode="fashion"] .loader-cues b {
+      justify-content: center;
+      border-color: rgba(234, 182, 166, 0.48);
+      background: rgba(234, 182, 166, 0.2);
+      color: #251b1a;
+    }
+
+    body[data-brand-mode="fashion"] .diagnosis-panel {
+      position: relative;
+      z-index: 3;
+      border-color: rgba(255, 238, 229, 0.24);
+      background:
+        linear-gradient(145deg, rgba(234, 182, 166, 0.17), rgba(255, 255, 255, 0.05)),
+        rgba(37, 27, 26, 0.84);
+    }
+
+    body[data-brand-mode="fashion"] h1 {
+      max-width: 800px;
+      font-size: clamp(46px, 5.6vw, 82px);
+      line-height: 0.94;
+    }
+
+    body[data-brand-mode="fashion"] .client-mark {
+      display: flex;
+    }
+
     .section-light {
       background: var(--paper);
       color: #111314;
@@ -2125,6 +2329,24 @@
         align-items: start;
       }
 
+      body[data-brand-mode="fashion"] .leather-hero-scene {
+        position: relative;
+        top: auto;
+        right: auto;
+        width: min(620px, 100%);
+        height: clamp(330px, 42vw, 440px);
+        margin: 0 auto 30px;
+        opacity: 1;
+        transform: none;
+      }
+
+      body[data-theme="maker"][data-brand-mode="fashion"] .hero-grid {
+        width: min(820px, 100%);
+        grid-template-columns: 1fr;
+        gap: 28px;
+        align-items: start;
+      }
+
       body[data-brand-mode="leather"] .diagnosis-panel {
         justify-self: stretch;
         width: 100%;
@@ -2168,6 +2390,12 @@
       }
 
       body[data-theme="maker"][data-brand-mode="pastry"] .hero-grid {
+        width: 100%;
+        grid-template-columns: 1fr;
+        gap: 24px;
+      }
+
+      body[data-theme="maker"][data-brand-mode="fashion"] .hero-grid {
         width: 100%;
         grid-template-columns: 1fr;
         gap: 24px;
@@ -2356,6 +2584,46 @@
         bottom: 18px;
       }
 
+      body[data-theme="maker"][data-brand-mode="fashion"] .hero {
+        min-height: auto;
+        padding-top: 88px;
+        background:
+          radial-gradient(circle at 84% 18%, rgba(234, 182, 166, 0.22), transparent 18rem),
+          linear-gradient(180deg, rgba(37, 27, 26, 0.94), rgba(37, 27, 26, 0.98)),
+          var(--brand-dark);
+      }
+
+      body[data-brand-mode="fashion"] .leather-hero-scene {
+        position: relative;
+        top: auto;
+        right: auto;
+        width: 100%;
+        height: clamp(260px, 64vw, 390px);
+        margin: 0 0 24px;
+        transform: none;
+      }
+
+      body[data-brand-mode="fashion"] .leather-product-card {
+        border-radius: 2px 30px 2px 30px;
+      }
+
+      body[data-brand-mode="fashion"] .leather-scene-logo {
+        left: 14px;
+        top: 14px;
+        width: 76px;
+      }
+
+      body[data-brand-mode="fashion"] .leather-stamp {
+        left: 14px;
+        bottom: 14px;
+        width: min(230px, 76%);
+      }
+
+      body[data-brand-mode="fashion"] .leather-swatch-row {
+        right: 12px;
+        bottom: 18px;
+      }
+
       body[data-theme="maker"] .hero-grid {
         gap: 18px;
       }
@@ -2380,6 +2648,16 @@
       }
 
       body[data-brand-mode="pastry"] .hero-copy {
+        font-size: 16px;
+        line-height: 1.35;
+      }
+
+      body[data-brand-mode="fashion"] h1 {
+        font-size: clamp(38px, 12vw, 50px);
+        line-height: 0.96;
+      }
+
+      body[data-brand-mode="fashion"] .hero-copy {
         font-size: 16px;
         line-height: 1.35;
       }

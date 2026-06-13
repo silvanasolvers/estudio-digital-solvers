@@ -1016,6 +1016,142 @@
       ]
     },
     {
+      "slug": "la-casa-de-naty",
+      "company": "La Casa de Naty",
+      "sector": "marca de ropa, vestidos y diseños propios",
+      "city": "Marinilla, Antioquia",
+      "tone": "femenino, cercano, asesor y de boutique",
+      "theme": "maker",
+      "brandMode": "fashion",
+      "accent": "#EAB6A6",
+      "secondary": "#63846D",
+      "brandDark": "#251B1A",
+      "paper": "#F7ECE5",
+      "paperCard": "#FFF9F5",
+      "brandWash": "rgba(234, 182, 166, 0.22)",
+      "brandWash2": "rgba(99, 132, 109, 0.15)",
+      "logoImage": "/assets/la-casa-de-naty-logo.jpg",
+      "heroImage": "/assets/la-casa-de-naty-hero.jpg",
+      "heroCopy": "La Casa de Naty ya tiene una comunidad enorme y un producto que se compra por deseo, evento, talla, color y momento de vida. El reto no es verse bonita en Instagram: es que cada mujer que ve un vestido, conjunto o diseño propio encuentre rápido si le sirve, cómo pedirlo, cuánto tarda, qué talla necesita y cómo cerrar por WhatsApp sin enfriarse.",
+      "alertLabel": "Oportunidad de ventas",
+      "statusLabel": "Diagnóstico comercial",
+      "status": "Comunidad masiva + diseños propios + venta concentrada en Instagram, enlace y WhatsApp",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Boutique femenina con diseños propios, vestidos versátiles, asesoría cercana y envíos nacionales",
+      "visualCueLabel": "Dolor",
+      "visualCue": "La decisión depende de ocasión, talla, color, disponibilidad, medidas, envío, pago y seguimiento",
+      "conversionFocusLabel": "Solución",
+      "conversionFocus": "Catálogo inteligente + asesor 24/7 + recuperación de interesadas por prenda y ocasión",
+      "loaderLabel": "Entrando a La Casa de Naty",
+      "loaderTitle": "La Casa de Naty",
+      "loaderSubtitle": "Leyendo comunidad, vestidos, diseños propios, tallas, envíos nacionales y ruta de WhatsApp.",
+      "loaderCue1": "Diseños propios",
+      "loaderCue2": "Asesoría inmediata",
+      "heroStampTitle": "Diseños propios",
+      "heroStampSubtitle": "Pedidos y envíos nacionales",
+      "brandWorldTitle": "La venta empieza cuando una mujer se imagina usando la prenda",
+      "scrollTitle": "Del reel guardado al pedido con talla, color y seguimiento",
+      "diagnosisTitle": "Dónde se enfría una compra en La Casa de Naty",
+      "leadProblem": "La captura muestra una marca con 763 publicaciones, 101 mil seguidores, 7.192 seguidos, bio de ropa y vestidos con diseños propios, envíos nacionales, destacados de ubicación/contacto y enlace a WhatsApp. Esa comunidad es un activo enorme, pero también expone una fuga: si la compra depende de ver un post, escribir, esperar respuesta y resolver manualmente talla, color, medida, disponibilidad, precio, envío y pago, muchas intenciones se quedan en likes, guardados o mensajes sin cierre.",
+      "opportunity": "La jugada es convertir la vitrina de Instagram en un sistema comercial: catálogo o landing por ocasión, asesor automático 24/7, preguntas guiadas por prenda/talla/color/ciudad, recuperación de conversaciones, pixel, mapa de calor y campañas por intención. Así una seguidora que vio un vestido de novia civil, dama de honor, maternidad, verano, fiesta o conjunto casual entra a una ruta clara hasta WhatsApp con contexto completo.",
+      "proofLine": "Lectura preliminar basada en la captura enviada el 13 de junio de 2026, el perfil público @lacasadenaty, búsqueda pública de Instagram con 102K seguidores aproximados, publicaciones sobre vestidos, damas de honor, novia civil, enterizos y diseños versátiles, y resolución del enlace wa.link/suuftg a WhatsApp Business La Casa De Naty con teléfono +57 317 558 8572. Se valida con métricas reales, inventario y agenda antes de ejecutar.",
+      "audience": "Mujeres en Colombia que buscan vestidos, ropa femenina, looks para evento, novia civil, damas de honor, maternidad, conjuntos versátiles, asesoría de talla y envíos nacionales.",
+      "adAngle": "Diseños propios para verte especial + asesoría inmediata + pedido seguro por WhatsApp",
+      "whatsappCta": "Quiero convertir más seguidoras en pedidos",
+      "scrollIntro": "El estudio debe mostrarles que 101 mil seguidores pueden convertirse en caja solo si cada prenda vista deja datos: talla, color, ciudad, ocasión, urgencia y siguiente acción.",
+      "experienceIntro": "La Casa de Naty no vende solo ropa. Vende cómo una mujer quiere verse en un día importante. Por eso la automatización debe sentirse como asesoría de boutique: cálida, clara y rápida.",
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "101 mil seguidores",
+          "body": "La marca ya tiene atención, comunidad y producto visual suficiente para generar intención todos los días."
+        },
+        {
+          "label": "Dolor 01",
+          "title": "Catálogo no ordenado",
+          "body": "Instagram inspira, pero no filtra por ocasión, talla, color, disponibilidad, precio o ciudad de envío."
+        },
+        {
+          "label": "Dolor 02",
+          "title": "WhatsApp manual",
+          "body": "Cada interesada puede preguntar lo mismo y perder impulso si la respuesta no llega cuando está lista para comprar."
+        },
+        {
+          "label": "Solución",
+          "title": "Asesor 24/7",
+          "body": "Un flujo guiado recomienda, filtra tallas, recoge datos y deja el pedido listo para cerrar por WhatsApp."
+        }
+      ],
+      "experiencePath": [
+        "Deseo: la seguidora ve un vestido, conjunto o look y se imagina usándolo en una ocasión concreta",
+        "Fricción: necesita saber talla, color, disponibilidad, medidas, precio, envío, tiempos y forma de pago",
+        "Solución: el catálogo guiado ordena la búsqueda por ocasión, estilo, talla, ciudad y urgencia",
+        "Cierre: WhatsApp recibe una conversación con prenda, talla, color, datos de envío y siguiente acción"
+      ],
+      "galleryImages": [
+        {
+          "label": "Vitrina Instagram",
+          "src": "/assets/la-casa-de-naty-hero.jpg"
+        },
+        {
+          "label": "Diseños propios",
+          "src": "/assets/la-casa-de-naty-hero.jpg"
+        },
+        {
+          "label": "Looks por ocasión",
+          "src": "/assets/la-casa-de-naty-hero.jpg"
+        }
+      ],
+      "journey": [
+        {
+          "title": "Etapa 1: deseo desde Instagram",
+          "body": "La marca ya genera deseo visual con vestidos, looks blancos, maternidad, damas de honor, novia civil y outfits de ocasión. La mejora es que cada publicación lleve a una ruta por prenda y no solo a un mensaje genérico."
+        },
+        {
+          "title": "Etapa 2: decisión por ocasión, talla y disponibilidad",
+          "body": "Una compradora de moda necesita saber si la prenda sirve para su evento, si hay talla o si se puede adaptar, qué colores existen, cuánto tarda y si llega a su ciudad."
+        },
+        {
+          "title": "Etapa 3: asesoría automática sin perder el tono de boutique",
+          "body": "El asesor 24/7 pregunta ocasión, fecha, talla, color, medidas, ciudad y presupuesto. Recomienda opciones, resuelve dudas y pasa a WhatsApp con contexto listo."
+        },
+        {
+          "title": "Etapa 4: recompra y temporadas",
+          "body": "Con datos de cada consulta se pueden activar campañas para grados, bodas, amor y amistad, vacaciones, maternidad, diciembre, lanzamientos y clientas que preguntaron pero no compraron."
+        }
+      ],
+      "findings": [
+        "La captura muestra una comunidad muy fuerte: 101 mil seguidores, 763 publicaciones y una bio clara de ropa, vestidos, diseños propios y envíos nacionales.",
+        "El enlace visible lleva a WhatsApp Business de La Casa De Naty. Eso facilita el contacto, pero no reemplaza un catálogo propio con filtros, pixel, eventos y recuperación automática.",
+        "El feed visible mezcla momentos de vida y ocasión: maternidad, pareja, vestido blanco, looks verdes y contenido de boutique. Ese universo permite segmentar campañas por intención y no solo por seguidores."
+      ],
+      "siteIssues": [
+        "No se ve una tienda o catálogo propio desde la captura pública que organice prendas por ocasión, talla, color, precio, disponibilidad, tiempos de confección o envío.",
+        "Enviar tráfico solo al perfil o a WhatsApp deja poca data comercial: no se sabe qué prenda miraron, qué talla querían, en qué ciudad estaban o por qué abandonaron.",
+        "WhatsApp es útil, pero sin asesor contextual puede convertirse en una fila de preguntas repetidas sobre tallas, colores, medidas, envíos, pagos, cambios y disponibilidad."
+      ],
+      "losses": [
+        "Mujeres que guardan un vestido o preguntan por DM pueden perderse si no reciben rápido precio, talla disponible, colores, tiempos o cobertura de envío.",
+        "Una comunidad de 101 mil seguidores puede generar mucha intención, pero si no hay pixel, catálogo y seguimiento, la marca no sabe qué contenido termina en pedido real.",
+        "El equipo puede gastar horas respondiendo dudas repetidas, mientras conversaciones calientes quedan sin seguimiento después del primer mensaje."
+      ],
+      "heatmapData": [
+        "Clics por prenda y ocasión. Saber si la intención está en novia civil, damas de honor, maternidad, vestidos blancos, conjuntos, enterizos, fiesta o looks casuales.",
+        "Fricción de compra. Detectar abandono antes de talla, color, disponibilidad, precio, guía de medidas, envío nacional, cambios, pago o botón de WhatsApp.",
+        "Data para producción y pauta. Usar consultas reales para priorizar diseños, colores, tallas, reposiciones, creativos y campañas por temporada."
+      ],
+      "campaigns": [
+        "Campañas por ocasión: novia civil, damas de honor, grados, maternidad, fiesta, vacaciones y looks blancos, cada una con ruta y CTA propio.",
+        "Remarketing a mujeres que vieron prendas, tocaron WhatsApp o guardaron contenido, con seguimiento por talla, color, ciudad y fecha del evento.",
+        "Campañas de catálogo con asesoría automática para convertir contenido viral en pedido filtrado, no solo en más seguidores."
+      ],
+      "deliverables": [
+        "Landing/catálogo La Casa de Naty con prendas por ocasión, tallas, colores, guía de medidas, tiempos, envíos nacionales, políticas, pagos y CTA a WhatsApp.",
+        "Asesor comercial 24/7 entrenado con tono de boutique para recomendar diseños, filtrar talla/color/ocasión, resolver dudas y pasar pedidos listos al equipo.",
+        "Pixel + eventos + mapa de calor + panel comercial para medir prenda vista, pedido iniciado, WhatsApp, abandono, recompra y temporada."
+      ]
+    },
+    {
       "slug": "janethy-fiestas",
       "company": "Janethy Fiestas",
       "sector": "vestidos de fiesta, alquiler y moda femenina",

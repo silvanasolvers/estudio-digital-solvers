@@ -132,3 +132,11 @@
 - Verificación local: `npm run check` OK con 11 prospectos; `/data/prospects.json` contiene `manantiales-del-campo`, 3 imágenes, 4 tiles de diagnóstico y 4 pasos de recorrido; Chromium DOM móvil contiene título, 183 mil seguidores, LobbyPMS y bot/reserva guiada 24/7.
 - Producción: commit `3d77c5e`, Dokploy deployment `dt4vSriqSh89e2wCaiLLD` terminó `done`; `https://estudios-digitales.solversai.cloud/empresa/manantiales-del-campo?v=3d77c5e` HTTP 200 y JSON público contiene Manantiales con estado, CTA e imágenes correctas.
 - Verificación pública: Chromium DOM confirmó Manantiales del Campo, 183 mil seguidores, LobbyPMS, `Reserva guiada 24/7` y `Bot de reservas 24/7`.
+
+## La Casa de Naty mini-estudio
+- [x] Analizar captura de Instagram, WhatsApp y fuentes públicas.
+- [x] Crear assets de identidad desde la captura enviada.
+- [x] Agregar prospecto `la-casa-de-naty` con enfoque moda/diseños propios.
+- [ ] Verificar JSON, contenido local y render móvil/desktop.
+- [ ] Commit/push, desplegar en Dokploy y verificar producción.
+- [ ] Enviar link final a Valentina.
