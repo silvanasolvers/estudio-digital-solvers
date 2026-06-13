@@ -137,6 +137,16 @@
 - [x] Analizar captura de Instagram, WhatsApp y fuentes públicas.
 - [x] Crear assets de identidad desde la captura enviada.
 - [x] Agregar prospecto `la-casa-de-naty` con enfoque moda/diseños propios.
-- [ ] Verificar JSON, contenido local y render móvil/desktop.
-- [ ] Commit/push, desplegar en Dokploy y verificar producción.
-- [ ] Enviar link final a Valentina.
+- [x] Verificar JSON, contenido local y render móvil/desktop.
+- [x] Commit/push, desplegar en Dokploy y verificar producción.
+- [x] Enviar link final a Valentina.
+
+## Review La Casa de Naty
+
+- Datos usados: captura enviada el 13 de junio de 2026 con `@lacasadenaty`, 763 publicaciones, 101 mil seguidores, 7.192 seguidos, bio "Ropa y Vestidos | Diseños Propios", envíos nacionales y enlace `wa.link/suuftg`; búsqueda pública de Instagram con 102K seguidores aproximados y publicaciones sobre vestidos, damas de honor, novia civil, enterizos y diseños versátiles; `wa.link/suuftg` resuelve a WhatsApp Business La Casa De Naty con teléfono `+57 317 558 8572`.
+- Se crearon assets desde la captura: `public/assets/la-casa-de-naty-logo.jpg` y `public/assets/la-casa-de-naty-hero.jpg`.
+- Se agregó `brandMode: "fashion"` en `public/index.html` con tratamiento visual de atelier/moda, hero editorial, logo circular, sello de diseños propios y responsive específico.
+- Se agregó prospecto `la-casa-de-naty` a `public/data/prospects.json` con ángulo: comunidad masiva + diseños propios + venta concentrada en Instagram/enlace/WhatsApp; solución con catálogo inteligente, asesor 24/7, pixel, mapa de calor, recuperación y campañas por ocasión/talla/color.
+- Verificación local: `npm run check` OK con 14 prospectos; `/empresa/la-casa-de-naty` HTTP 200; `/data/prospects.json` contiene La Casa de Naty, teléfono, 4 tiles, 4 etapas y 3 imágenes.
+- Producción: commit `1aae2b8`, push a `main`, Dokploy deployment `yKUrbq-0gPxB4qssXfHQh` terminó `done`.
+- URL pública verificada: `https://estudios-digitales.solversai.cloud/empresa/la-casa-de-naty` HTTP 200; JSON público contiene La Casa de Naty; assets logo/hero HTTP 200; browser público móvil 393px sin overflow horizontal, fuente mínima 12px, 4 etapas y 2 contactos visibles.
