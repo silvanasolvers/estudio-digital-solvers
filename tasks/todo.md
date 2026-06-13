@@ -102,3 +102,16 @@
 - El cambio quedó visible en el foco de solución, tile de diagnóstico, recorrido de experiencia, bloque de solución, campañas y entregables.
 - Producción final: commit `9f72857`, Dokploy deployment `F6IaCIAU_Crf4IhF7oC7C` terminó `done`.
 - Verificación pública: `https://estudios-digitales.solversai.cloud/empresa/casa-candela?v=9f72857` HTTP 200; DOM público contiene `Bot 24/7 de reservas`, `bot de reservas 24/7`, `sin un humano conectado` y `Bot comercial 24/7`.
+
+## Tahiti Hotel mini-estudio
+- [x] Analizar captura de Instagram y ruta digital pública.
+- [x] Agregar prospecto `tahiti-hotel` con enfoque hotelero premium.
+- [x] Verificar JSON, contenido local y render DOM móvil.
+- [ ] Commit/push y desplegar en Dokploy.
+- [ ] Verificar producción y enviar link a Valentina.
+
+## Review Tahiti Hotel
+
+- Datos usados: captura enviada el 13 de junio de 2026 con `@tahitihotel`, 345 publicaciones, 76,9 mil seguidores, hotel boutique en Puente Iglesias, a 2h de Medellín y 1h del Eje Cafetero; revisión pública de `tahitihotel.co`, habitaciones, experiencias, planes, motor de reserva Cloudbeds, RNT 149361 y WhatsApp de recepción/experiencias.
+- Ángulo comercial: no falta web; el dolor es convertir comunidad, deseo visual, habitaciones, villas, planes, experiencias, Cloudbeds y WhatsApp en reservas directas más guiadas y medibles.
+- Verificación local: `npm run check` OK con 10 prospectos; `/data/prospects.json` contiene `tahiti-hotel`, 3 imágenes, 4 tiles de diagnóstico y estado personalizado; Chromium DOM móvil contiene título, 76,9 mil seguidores, Cloudbeds, RNT y bot de reservas 24/7.

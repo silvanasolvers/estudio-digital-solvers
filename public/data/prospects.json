@@ -373,6 +373,130 @@
       ]
     },
     {
+      "slug": "tahiti-hotel",
+      "company": "Tahiti Hotel",
+      "sector": "hotel boutique, villas privadas y experiencias en el Suroeste",
+      "city": "Puente Iglesias, Antioquia",
+      "tone": "natural, exclusivo, sereno y comercial",
+      "theme": "resort",
+      "heroImage": "https://h-img2.cloudbeds.com/uploads/304213/0p2a3670_gallery~~682e4c0a20192.jpg",
+      "accent": "#B99561",
+      "secondary": "#5F6F3B",
+      "brandDark": "#171910",
+      "paper": "#EEE6D7",
+      "paperCard": "#FFF8EC",
+      "brandWash": "rgba(185, 149, 97, 0.18)",
+      "brandWash2": "rgba(95, 111, 59, 0.16)",
+      "heroCopy": "Tahiti ya tiene una ventaja enorme: 76,9 mil seguidores visibles, estética aspiracional, web propia y motor de reserva. El dolor no es falta de presencia; es que una persona puede enamorarse del hotel y perderse entre Instagram, habitaciones, villas, planes, experiencias, Cloudbeds y dos WhatsApps distintos antes de dejar una reserva clara.",
+      "alertLabel": "Oportunidad comercial",
+      "statusLabel": "Diagnóstico comercial",
+      "status": "Comunidad grande + web + motor de reserva, pero decisión dispersa entre planes, experiencias y WhatsApp",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Hotel boutique con deseo visual, villas privadas y experiencias memorables",
+      "visualCueLabel": "Dolor",
+      "visualCue": "La atención puede quedarse en guardados, preguntas y comparación sin reserva",
+      "conversionFocusLabel": "Solución",
+      "conversionFocus": "Bot de reservas 24/7 + rutas por plan + data para llenar fechas",
+      "leadProblem": "Tahiti muestra una marca fuerte: hotel boutique en Puente Iglesias, 76,9 mil seguidores visibles, web con habitaciones, planes, experiencias, motor de reserva en Cloudbeds, servicios, RNT y WhatsApp de recepción y experiencias. Esa estructura es valiosa, pero también abre fricción: quien llega desde Instagram puede necesitar decidir entre Villa Superior, Grand Villa, habitación Deluxe, planes 3x2, descuentos, parapente, cabalgatas, masajes, helicóptero, políticas, fechas y disponibilidad antes de reservar.",
+      "opportunity": "La oportunidad es convertir esa atención premium en reservas mejor guiadas: una ruta de intención por tipo de huésped, fechas, número de personas, plan, experiencia y presupuesto, conectada a WhatsApp y al motor de reserva. Con un bot 24/7 y mapa de calor, Tahiti puede recuperar interesados, responder dudas fuera de horario y usar data real para empujar fechas flojas, paquetes y experiencias con mayor demanda.",
+      "proofLine": "Lectura preliminar basada en la captura enviada el 13 de junio de 2026, el perfil público @tahitihotel con 76,9 mil seguidores visibles y revisión de tahitihotel.co, donde aparecen habitaciones, experiencias, planes, motor de reserva Cloudbeds, RNT 149361, WhatsApp de recepción +57 324 300 8935 y WhatsApp de experiencias +57 300 216 1538. Se valida con métricas, ocupación y canales reales antes de ejecutar.",
+      "audience": "Parejas, grupos de amigos, viajeros de Medellín y del Eje Cafetero, huéspedes buscando villas privadas, escapadas premium, planes de descanso y experiencias de aventura o bienestar.",
+      "adAngle": "Hotel boutique cerca de Medellín + villa privada + reserva asistida por fecha, plan y experiencia",
+      "whatsappCta": "Quiero convertir más seguidores en reservas directas",
+      "scrollIntro": "El mini-estudio debe mostrar que el reto no es verse más aspiracional. El reto es que cada persona que llega por una foto o reel entienda rápido qué reservar, para qué fecha, con qué experiencia y por cuál canal cerrar.",
+      "experienceIntro": "Tahiti vende desconexión, naturaleza, villa privada, experiencias y escapada premium. Esa emoción necesita bajar a una ruta concreta: elegir habitación o villa, entender planes, consultar disponibilidad, sumar experiencia y confirmar por el canal correcto.",
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "76,9 mil seguidores",
+          "body": "Hay comunidad, deseo visual y contenido suficiente para generar intención turística todos los días."
+        },
+        {
+          "label": "Dolor 01",
+          "title": "Demasiadas rutas",
+          "body": "Instagram, web, Cloudbeds, planes, experiencias y dos WhatsApps pueden dividir la decisión antes de la reserva."
+        },
+        {
+          "label": "Dolor 02",
+          "title": "Preguntas repetidas",
+          "body": "Fechas, tarifas, villas, cupos, experiencias, mascotas, traslados, políticas y pagos pueden llegar sin filtro."
+        },
+        {
+          "label": "Solución",
+          "title": "Reserva guiada 24/7",
+          "body": "Un bot comercial ordena fecha, plan, personas, experiencia y duda clave antes de entregar el lead listo."
+        }
+      ],
+      "experiencePath": [
+        "Deseo: la persona ve una villa, piscina privada, paisaje o experiencia y quiere escaparse",
+        "Fricción: necesita fecha, tarifa, tipo de habitación, plan, experiencia, política o disponibilidad",
+        "Solución: la landing/flujo separa habitaciones, planes y experiencias antes de enviar a WhatsApp o Cloudbeds",
+        "Cierre: el bot 24/7 responde, recupera interesados y deja la reserva o conversación lista para cerrar"
+      ],
+      "galleryImages": [
+        {
+          "label": "Hotel boutique",
+          "src": "https://h-img2.cloudbeds.com/uploads/304213/0p2a3670_gallery~~682e4c0a20192.jpg"
+        },
+        {
+          "label": "Villas privadas",
+          "src": "https://h-img1.cloudbeds.com/uploads/304213/0p2a3517~~682e4c0a6078a.jpg"
+        },
+        {
+          "label": "Experiencia natural",
+          "src": "https://h-img3.cloudbeds.com/uploads/304213/0p2a9821~~682e4c1ae18ea.jpg"
+        }
+      ],
+      "journey": [
+        {
+          "title": "Dolor: una comunidad grande no siempre se convierte en ocupación proporcional",
+          "body": "76,9 mil seguidores pueden generar muchas visitas, guardados y mensajes, pero el valor real aparece cuando se sabe qué contenido termina en fecha consultada, habitación vista, WhatsApp, motor de reserva o pago."
+        },
+        {
+          "title": "Dolor: el huésped compara antes de escribir",
+          "body": "El viajero quiere saber rápido si le conviene Villa Superior, Grand Villa, habitación Deluxe, 3x2, plan con experiencia, masaje, cabalgata, parapente, políticas, traslado o disponibilidad."
+        },
+        {
+          "title": "Solución: bot 24/7 que filtra intención antes del equipo humano",
+          "body": "El bot puede preguntar fecha tentativa, número de personas, tipo de plan, presupuesto, experiencia deseada y dudas clave. Así WhatsApp recibe conversaciones listas para cerrar, no una lista de preguntas sueltas."
+        },
+        {
+          "title": "Solución: data para llenar fechas y vender experiencias",
+          "body": "El mapa de calor muestra si la demanda está en villas, planes 3x2, experiencias, masajes, parapente, cabalgatas o eventos. Esa data decide pauta, remarketing y promociones por ocupación."
+        }
+      ],
+      "findings": [
+        "El perfil tiene 76,9 mil seguidores visibles en la captura, 345 publicaciones y una promesa clara: hotel boutique en Puente Iglesias, a 2 horas de Medellín y 1 hora del Eje Cafetero.",
+        "La web sí existe y tiene estructura robusta: habitaciones, experiencias, ubicación, espacios, planes, eventos, Cloudbeds para reservar, servicios, RNT y contactos.",
+        "La oportunidad no es crear presencia desde cero: es unir Instagram, web, Cloudbeds, planes, experiencias y WhatsApp para que más atención termine en reservas directas y medibles."
+      ],
+      "siteIssues": [
+        "La decisión se reparte en varias rutas: Instagram inspira, la web muestra habitaciones/planes/experiencias, Cloudbeds maneja reserva y WhatsApp separa recepción y experiencias. Sin guía, el huésped puede no saber cuál camino tomar.",
+        "Las experiencias tienen precios, duración, disponibilidad y políticas distintas. Si la persona debe preguntar todo manualmente, el equipo termina resolviendo dudas que podrían filtrarse antes.",
+        "La pauta hacia Instagram o la web puede generar tráfico, pero sin eventos y mapa de calor por plan, habitación y experiencia, Tahiti no sabe qué pieza llena fechas ni qué paquete se queda en curiosidad."
+      ],
+      "losses": [
+        "Personas que se enamoran del lugar, guardan el perfil o visitan la web, pero no reservan porque no encuentran rápido fecha, tarifa, plan ideal, política o disponibilidad.",
+        "Conversaciones frías por WhatsApp cuando el equipo responde tarde o recibe preguntas mezcladas de hospedaje, experiencias, eventos, traslados, mascotas, pagos y políticas.",
+        "Fechas entre semana o temporadas bajas que podrían llenarse mejor si la pauta y el remarketing se activaran según intención real: villas, 3x2, parejas, grupos o aventura."
+      ],
+      "heatmapData": [
+        "Clics por plan y alojamiento. Saber si la demanda está en Villa Superior, Grand Villa, Deluxe, 3x2, 2 noches, parejas, grupos o eventos.",
+        "Fricción de reserva. Detectar si abandonan antes de ver tarifas, disponibilidad, políticas, Cloudbeds, WhatsApp, experiencias o ubicación.",
+        "Data para ocupación. Usar intención real para empujar fechas flojas, paquetes de domingo a jueves, experiencias premium y remarketing a quienes casi reservaron."
+      ],
+      "campaigns": [
+        "Campañas por intención: escapada en pareja, villa privada, plan 3x2, experiencia de aventura, masaje o grupo de amigos, cada una con ruta y CTA propio.",
+        "Bot de reservas 24/7 conectado al flujo comercial para filtrar fecha, personas, alojamiento, experiencia, presupuesto, política y canal de cierre.",
+        "Remarketing a visitantes que vieron habitaciones, planes, experiencias o tocaron WhatsApp/Cloudbeds, con seguimiento distinto según el interés."
+      ],
+      "deliverables": [
+        "Mini experiencia Tahiti que ordena habitaciones, villas, planes, experiencias, ubicación, políticas, preguntas frecuentes, Cloudbeds y WhatsApp sin hacer sentir al usuario perdido.",
+        "Bot comercial 24/7 para WhatsApp entrenado en fechas, disponibilidad, tarifas, tipos de villa, planes, experiencias, mascotas, traslados, pagos, políticas y upsells.",
+        "Pauta + pixel + mapa de calor para medir qué publicación, habitación, plan o experiencia genera intención, dónde se frena la persona y qué seguimiento necesita."
+      ]
+    },
+    {
       "slug": "pikanela",
       "company": "Pikanela",
       "sector": "marca colombiana de moda, playa y accesorios artesanales",
