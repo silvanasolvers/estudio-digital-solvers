@@ -363,7 +363,13 @@
       display: none;
     }
 
+    .leather-hero-scene {
+      display: none;
+    }
+
     .hero-grid {
+      position: relative;
+      z-index: 2;
       width: min(1240px, 100%);
       margin: 0 auto;
       display: grid;
@@ -945,13 +951,144 @@
     }
 
     body[data-theme="maker"][data-brand-mode="leather"] .hero {
+      min-height: 106vh;
       background:
-        linear-gradient(90deg, rgba(4, 4, 4, 0.97) 0%, rgba(4, 4, 4, 0.76) 43%, rgba(4, 4, 4, 0.32) 72%, rgba(4, 4, 4, 0.58) 100%),
-        linear-gradient(0deg, rgba(5, 5, 5, 0.95), rgba(5, 5, 5, 0.18) 46%, rgba(5, 5, 5, 0.42)),
-        var(--hero-image),
+        radial-gradient(circle at 74% 30%, rgba(216, 167, 84, 0.22), transparent 26rem),
+        radial-gradient(circle at 18% 82%, rgba(94, 48, 18, 0.42), transparent 22rem),
+        linear-gradient(105deg, rgba(4, 4, 4, 0.98) 0%, rgba(9, 7, 5, 0.94) 48%, rgba(30, 18, 8, 0.9) 100%),
         linear-gradient(135deg, #030303, #18130b 55%, #050505);
+    }
+
+    body[data-brand-mode="leather"] .leather-hero-scene {
+      display: block;
+      position: absolute;
+      top: clamp(94px, 14vh, 150px);
+      right: clamp(16px, 5vw, 86px);
+      width: min(46vw, 560px);
+      height: min(68vh, 620px);
+      z-index: 1;
+      pointer-events: none;
+      transform: translateY(calc(var(--hero-pan) * -0.55)) scale(calc(1 + ((var(--hero-zoom) - 1) * 0.34)));
+      transform-origin: center;
+      transition: transform 120ms linear;
+    }
+
+    body[data-brand-mode="leather"] .leather-hero-scene::before {
+      content: "";
+      position: absolute;
+      inset: 8% -8% -7% 18%;
+      border: 1px solid rgba(216, 167, 84, 0.18);
+      background:
+        repeating-linear-gradient(90deg, transparent 0 22px, rgba(216, 167, 84, 0.16) 22px 24px, transparent 24px 44px),
+        linear-gradient(180deg, rgba(216, 167, 84, 0.08), rgba(0, 0, 0, 0));
+      opacity: 0.62;
+    }
+
+    body[data-brand-mode="leather"] .leather-product-card {
+      position: absolute;
+      inset: 0;
+      border: 1px solid rgba(216, 167, 84, 0.34);
+      border-radius: 2px 42px 2px 42px;
+      overflow: hidden;
+      background:
+        linear-gradient(180deg, rgba(5, 5, 5, 0.03), rgba(5, 5, 5, 0.5)),
+        var(--hero-image);
       background-size: cover;
-      background-position: center right 18%;
+      background-position: center;
+      box-shadow:
+        0 36px 90px rgba(0, 0, 0, 0.56),
+        inset 0 0 0 1px rgba(255, 241, 196, 0.08);
+    }
+
+    body[data-brand-mode="leather"] .leather-product-card::before {
+      content: "";
+      position: absolute;
+      inset: 16px;
+      border: 1px dashed rgba(255, 224, 151, 0.34);
+      border-radius: 1px 32px 1px 32px;
+    }
+
+    body[data-brand-mode="leather"] .leather-product-card::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background:
+        linear-gradient(90deg, rgba(0, 0, 0, 0.5), transparent 34%, rgba(0, 0, 0, 0.32)),
+        radial-gradient(circle at 64% 30%, transparent 0 10rem, rgba(0, 0, 0, 0.34) 18rem);
+    }
+
+    body[data-brand-mode="leather"] .leather-scene-logo {
+      position: absolute;
+      left: -34px;
+      top: 34px;
+      width: clamp(82px, 9vw, 128px);
+      aspect-ratio: 1;
+      border: 1px solid rgba(216, 167, 84, 0.62);
+      border-radius: 999px;
+      background: #050505;
+      padding: 4px;
+      object-fit: contain;
+      box-shadow:
+        0 0 0 9px rgba(216, 167, 84, 0.08),
+        0 20px 48px rgba(0, 0, 0, 0.45);
+    }
+
+    body[data-brand-mode="leather"] .leather-stamp {
+      position: absolute;
+      left: clamp(18px, 4vw, 48px);
+      bottom: clamp(20px, 4vh, 44px);
+      width: min(270px, 78%);
+      padding: 14px 16px;
+      border-left: 2px solid #d8a754;
+      background:
+        linear-gradient(90deg, rgba(4, 4, 4, 0.86), rgba(4, 4, 4, 0.26));
+      backdrop-filter: blur(10px);
+    }
+
+    body[data-brand-mode="leather"] .leather-stamp b,
+    body[data-brand-mode="leather"] .leather-stamp span {
+      display: block;
+      letter-spacing: 0;
+    }
+
+    body[data-brand-mode="leather"] .leather-stamp b {
+      color: #fff6df;
+      font-family: "Archivo Black", Impact, sans-serif;
+      font-size: clamp(22px, 3.2vw, 42px);
+      line-height: 0.92;
+    }
+
+    body[data-brand-mode="leather"] .leather-stamp span {
+      margin-top: 6px;
+      color: #d8a754;
+      font-size: 12px;
+      font-weight: 950;
+      text-transform: uppercase;
+    }
+
+    body[data-brand-mode="leather"] .leather-swatch-row {
+      position: absolute;
+      right: -18px;
+      bottom: 26%;
+      display: grid;
+      gap: 8px;
+    }
+
+    body[data-brand-mode="leather"] .leather-swatch-row i {
+      width: 32px;
+      height: 32px;
+      border: 1px solid rgba(255, 239, 194, 0.36);
+      border-radius: 999px;
+      background: #2b1609;
+      box-shadow: 0 12px 26px rgba(0, 0, 0, 0.32);
+    }
+
+    body[data-brand-mode="leather"] .leather-swatch-row i:nth-child(2) {
+      background: #5b3519;
+    }
+
+    body[data-brand-mode="leather"] .leather-swatch-row i:nth-child(3) {
+      background: #0a0907;
     }
 
     body[data-theme="maker"] .hero::before {
@@ -1118,17 +1255,7 @@
     }
 
     body[data-brand-mode="leather"] .mobile-hero-banner {
-      display: block;
-      min-height: 220px;
-      margin: 0 0 24px;
-      border: 1px solid rgba(216, 167, 84, 0.28);
-      border-radius: var(--radius);
-      background-image:
-        linear-gradient(180deg, rgba(5, 5, 5, 0.03), rgba(5, 5, 5, 0.32)),
-        var(--hero-image);
-      background-size: cover;
-      background-position: center;
-      box-shadow: 0 22px 52px rgba(0, 0, 0, 0.34);
+      display: none;
     }
 
     body[data-brand-mode="leather"] .path-step,
@@ -1866,8 +1993,45 @@
 
       body[data-theme="maker"][data-brand-mode="leather"] .hero {
         background:
-          linear-gradient(180deg, rgba(5, 5, 5, 0.9), rgba(5, 5, 5, 0.98)),
+          radial-gradient(circle at 84% 18%, rgba(216, 167, 84, 0.18), transparent 18rem),
+          linear-gradient(180deg, rgba(5, 5, 5, 0.94), rgba(16, 10, 5, 0.98)),
           var(--brand-dark);
+      }
+
+      body[data-brand-mode="leather"] .leather-hero-scene {
+        position: relative;
+        top: auto;
+        right: auto;
+        width: 100%;
+        height: clamp(260px, 64vw, 390px);
+        margin: 0 0 24px;
+        transform: none;
+      }
+
+      body[data-brand-mode="leather"] .leather-hero-scene::before {
+        inset: 12% -3% -8% 22%;
+      }
+
+      body[data-brand-mode="leather"] .leather-product-card {
+        border-radius: 2px 30px 2px 30px;
+        background-position: center;
+      }
+
+      body[data-brand-mode="leather"] .leather-scene-logo {
+        left: 14px;
+        top: 14px;
+        width: 76px;
+      }
+
+      body[data-brand-mode="leather"] .leather-stamp {
+        left: 14px;
+        bottom: 14px;
+        width: min(230px, 76%);
+      }
+
+      body[data-brand-mode="leather"] .leather-swatch-row {
+        right: 12px;
+        bottom: 18px;
       }
 
       body[data-theme="maker"] .hero-grid {
@@ -2008,6 +2172,19 @@
         <canvas id="growthCanvas" aria-hidden="true"></canvas>
         <div class="hero-pulse" aria-hidden="true"></div>
         <div class="mobile-hero-banner" aria-label="Imagen principal de la experiencia"></div>
+        <div class="leather-hero-scene" aria-hidden="true">
+          <div class="leather-product-card"></div>
+          <img class="leather-scene-logo" data-image="logoImage" alt="">
+          <div class="leather-swatch-row">
+            <i></i>
+            <i></i>
+            <i></i>
+          </div>
+          <div class="leather-stamp">
+            <b>100% cuero</b>
+            <span>Pedido a medida</span>
+          </div>
+        </div>
         <div class="hero-grid">
           <div>
             <div class="client-mark" aria-label="Marca analizada">
@@ -2654,17 +2831,22 @@
 
       function finishLoader() {
         let progress = 0;
+        const isLeather = document.body.dataset.brandMode === "leather";
+        const stepBase = isLeather ? 5 : 18;
+        const stepRange = isLeather ? 7 : 18;
+        const stepDelay = isLeather ? 230 : 90;
+        const finalHold = isLeather ? 980 : 180;
         const step = () => {
-          progress = Math.min(progress + 18 + Math.random() * 18, 100);
+          progress = Math.min(progress + stepBase + Math.random() * stepRange, 100);
           rootStyle.setProperty("--loader-progress", `${progress}%`);
           if (progress < 100) {
-            window.setTimeout(step, 90);
+            window.setTimeout(step, stepDelay);
             return;
           }
           window.setTimeout(() => {
             document.body.classList.add("is-loaded");
             if (loader) loader.setAttribute("aria-hidden", "true");
-          }, 180);
+          }, finalHold);
         };
         step();
       }
