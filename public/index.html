@@ -2085,11 +2085,11 @@
       background:
         radial-gradient(circle at 12% 0%, rgba(228, 48, 48, 0.28), transparent 31rem),
         radial-gradient(circle at 86% 12%, rgba(255, 212, 71, 0.18), transparent 28rem),
-        linear-gradient(180deg, #050505 0%, #160707 42%, var(--paper) 42%, var(--paper) 100%);
+        linear-gradient(180deg, #050505 0%, #160707 34%, var(--paper) 34%, var(--paper) 100%);
     }
 
     body[data-theme="maker"][data-brand-mode="texuno"] .hero {
-      min-height: 360svh;
+      min-height: 230svh;
       padding-top: clamp(100px, 10vh, 126px);
       align-items: start;
       overflow: visible;
@@ -2371,7 +2371,7 @@
       grid-template-columns: minmax(0, 0.95fr) minmax(340px, 0.62fr);
       gap: clamp(24px, 3.5vw, 50px);
       align-items: start;
-      margin-top: clamp(1900px, 345svh, 2920px);
+      margin-top: clamp(520px, 82svh, 860px);
     }
 
     body[data-brand-mode="texuno"] .hero-grid h1 {
@@ -3687,7 +3687,7 @@
       }
 
       body[data-theme="maker"][data-brand-mode="texuno"] .hero {
-        min-height: 330svh;
+        min-height: 235svh;
         overflow: visible;
       }
 
@@ -3703,7 +3703,7 @@
         grid-template-columns: 1fr;
         gap: 28px;
         align-items: start;
-        margin-top: clamp(1560px, 330svh, 2580px);
+        margin-top: clamp(500px, 78svh, 760px);
       }
 
       body[data-brand-mode="mystic"] .leather-hero-scene {
@@ -3732,7 +3732,7 @@
 
     @media (min-width: 981px) and (max-width: 1180px) {
       body[data-theme="maker"][data-brand-mode="texuno"] .hero {
-        min-height: 360svh;
+        min-height: 235svh;
         overflow: visible;
       }
 
@@ -3747,7 +3747,7 @@
         width: min(1040px, 100%);
         grid-template-columns: minmax(0, 0.95fr) minmax(320px, 0.62fr);
         gap: 24px;
-        margin-top: clamp(1760px, 345svh, 2860px);
+        margin-top: clamp(500px, 78svh, 820px);
       }
     }
 
@@ -3804,7 +3804,7 @@
         width: 100%;
         grid-template-columns: 1fr;
         gap: 24px;
-        margin-top: clamp(1500px, 330svh, 2520px);
+        margin-top: clamp(440px, 76svh, 700px);
       }
 
       body[data-brand-mode="texuno"] .mobile-hero-banner {
@@ -4018,7 +4018,7 @@
       }
 
       body[data-theme="maker"][data-brand-mode="texuno"] .hero {
-        min-height: 340svh;
+        min-height: 225svh;
         padding-top: 88px;
         overflow: visible;
         background:
@@ -4030,9 +4030,13 @@
       body[data-brand-mode="texuno"] .mobile-hero-banner {
         grid-template-columns: 1fr;
         gap: 10px;
-        min-height: min(630px, calc(100svh - 98px));
+        min-height: min(570px, calc(100svh - 98px));
         margin-bottom: 22px;
         padding: 12px;
+      }
+
+      body[data-theme="maker"][data-brand-mode="texuno"] .hero-grid {
+        margin-top: clamp(390px, 70svh, 600px);
       }
 
       body[data-brand-mode="texuno"] .mobile-hero-banner::before,
@@ -5327,15 +5331,15 @@
 
         const isTexuno = document.body.dataset.brandMode === "texuno";
         const heroHeight = hero.offsetHeight || 1;
-        const heroRange = isTexuno ? window.innerHeight * 4 : Math.max(heroHeight * 0.78, 1);
+        const heroRange = isTexuno ? window.innerHeight * 1.9 : Math.max(heroHeight * 0.78, 1);
         const heroProgress = Math.min(Math.max(window.scrollY / Math.max(heroRange, 1), 0), 1);
         const surprise = heroProgress < 0.2 ? 0 : Math.pow((heroProgress - 0.2) / 0.8, 1.8);
-        const openStart = isTexuno ? 0.22 : 0.02;
-        const openSpan = isTexuno ? 0.34 : 0.38;
+        const openStart = isTexuno ? 0.08 : 0.02;
+        const openSpan = isTexuno ? 0.28 : 0.38;
         const openProgress = Math.min(Math.max((heroProgress - openStart) / openSpan, 0), 1);
         const gateOpacity = Math.max(1 - openProgress * 1.28, 0);
         const gridTop = isTexuno ? document.querySelector(".hero-grid")?.getBoundingClientRect().top || window.innerHeight : window.innerHeight;
-        const bannerExitByScroll = isTexuno ? Math.min(Math.max((heroProgress - 0.72) / 0.14, 0), 1) : 0;
+        const bannerExitByScroll = isTexuno ? Math.min(Math.max((heroProgress - 0.54) / 0.12, 0), 1) : 0;
         const bannerExitByGrid = isTexuno ? Math.min(Math.max(((window.innerHeight * 1.18) - gridTop) / (window.innerHeight * 0.3), 0), 1) : 0;
         const bannerExit = Math.max(bannerExitByScroll, bannerExitByGrid);
         rootStyle.setProperty("--hero-zoom", (1 + surprise * 0.22).toFixed(3));
