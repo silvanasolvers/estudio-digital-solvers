@@ -1350,7 +1350,7 @@
       "city": "Colombia",
       "tone": "comercial, masivo, directo y de alta rotación",
       "theme": "maker",
-      "brandMode": "fashion",
+      "brandMode": "texuno",
       "accent": "#E43030",
       "secondary": "#FFD447",
       "brandDark": "#070707",
@@ -1359,7 +1359,7 @@
       "brandWash": "rgba(228, 48, 48, 0.16)",
       "brandWash2": "rgba(255, 212, 71, 0.14)",
       "logoImage": "https://texunomultimarca.com/logo.png",
-      "heroImage": "https://texunomultimarca.com/og-image.png",
+      "heroImage": "",
       "heroCopy": "Texuno ya tiene lo que muchas marcas quieren: comunidad grande, ecommerce propio, precios agresivos, categorías claras y producto nuevo cada semana. El dolor no es visibilidad; es que tanta demanda puede volverse ruido si las preguntas por talla, color, disponibilidad, envío, cambios, mayoristas, carrito y WhatsApp no quedan guiadas, medidas y recuperadas.",
       "alertLabel": "Oportunidad de escala",
       "statusLabel": "Diagnóstico comercial",
@@ -1378,8 +1378,8 @@
       "heroStampTitle": "Moda semanal",
       "heroStampSubtitle": "Compra guiada",
       "bannerKicker": "Hook Solvers",
-      "bannerHook": "El problema no es vender barato; es no perder intención cuando el carrito duda",
-      "bannerSubhook": "Cada talla, color, oferta y pregunta por WhatsApp puede ser una venta o una fuga si no queda respondida y seguida.",
+      "bannerHook": "Cuando el carrito duda, la venta se enfría",
+      "bannerSubhook": "Cada talla, color, oferta y pregunta por WhatsApp debe abrir una ruta de compra, no otra conversación perdida.",
       "bannerBadge1": "152K seguidores",
       "bannerBadge2": "Ecommerce activo",
       "brandWorldTitle": "Texuno ya atrae demanda; ahora debe ordenarla para vender más",
@@ -1463,16 +1463,7 @@
         "Solución: el agente responde, sugiere alternativas y lleva de producto a carrito o conversación con contexto",
         "Cierre: Texuno recupera carritos, identifica prendas calientes y separa clienta retail de comprador mayorista"
       ],
-      "galleryImages": [
-        {
-          "src": "https://texunomultimarca.com/og-image.png",
-          "label": "Texuno ecommerce"
-        },
-        {
-          "src": "https://texunomultimarca.com/logo.png",
-          "label": "Identidad Texuno"
-        }
-      ],
+      "galleryImages": [],
       "journey": [
         {
           "title": "Etapa 1: descubrimiento desde Instagram",

@@ -30,6 +30,7 @@
       --hero-image: none;
       --hero-zoom: 1;
       --hero-pan: 0px;
+      --hero-open: 0;
       --story-progress: 0%;
       --story-scale: 0;
       --shadow: 0 28px 90px rgba(0, 0, 0, 0.42);
@@ -372,6 +373,10 @@
     }
 
     .leather-hero-scene {
+      display: none;
+    }
+
+    .solvers-open-system {
       display: none;
     }
 
@@ -2070,6 +2075,319 @@
       display: none;
     }
 
+    body[data-theme="maker"][data-brand-mode="texuno"] {
+      background:
+        radial-gradient(circle at 12% 0%, rgba(228, 48, 48, 0.28), transparent 31rem),
+        radial-gradient(circle at 86% 12%, rgba(255, 212, 71, 0.18), transparent 28rem),
+        linear-gradient(180deg, #050505 0%, #160707 42%, var(--paper) 42%, var(--paper) 100%);
+    }
+
+    body[data-theme="maker"][data-brand-mode="texuno"] .hero {
+      min-height: 118vh;
+      padding-top: clamp(100px, 10vh, 126px);
+      align-items: start;
+      background:
+        radial-gradient(circle at 18% 15%, rgba(228, 48, 48, 0.22), transparent 27rem),
+        radial-gradient(circle at 88% 22%, rgba(255, 212, 71, 0.16), transparent 24rem),
+        linear-gradient(180deg, #070707 0%, #100606 100%);
+    }
+
+    body[data-theme="maker"][data-brand-mode="texuno"] .hero::before {
+      opacity: 0.24;
+      background:
+        linear-gradient(rgba(255, 255, 255, 0.08) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.08) 1px, transparent 1px);
+      background-size: 54px 54px;
+      mask-image: radial-gradient(circle at 50% 28%, black, transparent 76%);
+    }
+
+    body[data-theme="maker"][data-brand-mode="texuno"] .hero-pulse {
+      right: 8vw;
+      top: 16%;
+      border-color: rgba(228, 48, 48, 0.36);
+      background:
+        radial-gradient(circle, rgba(255, 212, 71, 0.22) 0 10%, transparent 11%),
+        conic-gradient(from 20deg, transparent, rgba(228, 48, 48, 0.58), transparent 45%, rgba(255, 212, 71, 0.42), transparent 78%);
+      opacity: 0.42;
+    }
+
+    body[data-brand-mode="texuno"] .mobile-hero-banner {
+      display: grid;
+      grid-template-columns: minmax(300px, 0.88fr) minmax(360px, 1.12fr);
+      align-items: stretch;
+      gap: clamp(18px, 3vw, 40px);
+      position: relative;
+      z-index: 2;
+      width: min(1180px, 100%);
+      min-height: clamp(430px, 38vw, 560px);
+      margin: 0 auto clamp(30px, 4vw, 56px);
+      padding: clamp(22px, 3vw, 34px);
+      border: 1px solid rgba(255, 255, 255, 0.14);
+      border-radius: 8px;
+      overflow: hidden;
+      background:
+        radial-gradient(circle at 74% 24%, rgba(228, 48, 48, 0.32), transparent 22rem),
+        radial-gradient(circle at 24% 84%, rgba(255, 212, 71, 0.14), transparent 19rem),
+        linear-gradient(135deg, #070707 0%, #121416 52%, #240808 100%);
+      box-shadow:
+        0 34px 90px rgba(0, 0, 0, 0.54),
+        inset 0 0 0 1px rgba(255, 255, 255, 0.08);
+      isolation: isolate;
+    }
+
+    body[data-brand-mode="texuno"] .mobile-hero-banner::before,
+    body[data-brand-mode="texuno"] .mobile-hero-banner::after {
+      content: "";
+      position: absolute;
+      inset: 0 auto 0 0;
+      width: 51%;
+      z-index: 2;
+      border-right: 1px solid rgba(255, 255, 255, 0.1);
+      background:
+        linear-gradient(rgba(255, 255, 255, 0.06) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.05) 1px, transparent 1px),
+        linear-gradient(135deg, rgba(9, 10, 11, 0.98), rgba(38, 8, 8, 0.96));
+      background-size: 34px 34px, 34px 34px, auto;
+      transform: translateX(calc(var(--hero-open) * -78%)) rotateY(calc(var(--hero-open) * -10deg));
+      transform-origin: left center;
+      transition: transform 120ms linear;
+      pointer-events: none;
+    }
+
+    body[data-brand-mode="texuno"] .mobile-hero-banner::after {
+      inset: 0 0 0 auto;
+      border-right: 0;
+      border-left: 1px solid rgba(255, 255, 255, 0.1);
+      background:
+        radial-gradient(circle at 38% 50%, rgba(228, 48, 48, 0.2), transparent 14rem),
+        linear-gradient(rgba(255, 255, 255, 0.06) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255, 255, 255, 0.05) 1px, transparent 1px),
+        linear-gradient(225deg, rgba(9, 10, 11, 0.98), rgba(38, 8, 8, 0.96));
+      background-size: auto, 34px 34px, 34px 34px, auto;
+      transform: translateX(calc(var(--hero-open) * 78%)) rotateY(calc(var(--hero-open) * 10deg));
+      transform-origin: right center;
+    }
+
+    body[data-brand-mode="texuno"] .mobile-hero-banner > * {
+      position: relative;
+      z-index: 3;
+    }
+
+    body[data-brand-mode="texuno"] .mobile-hero-banner > .solvers-open-system {
+      z-index: 1;
+    }
+
+    body[data-brand-mode="texuno"] .banner-hook {
+      display: grid;
+      align-content: center;
+      gap: 16px;
+      min-height: 100%;
+      width: 100%;
+      padding: clamp(18px, 2.4vw, 28px);
+      border: 1px solid rgba(255, 255, 255, 0.16);
+      border-left: 4px solid #e43030;
+      border-radius: 8px;
+      background:
+        linear-gradient(180deg, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.035)),
+        rgba(7, 7, 7, 0.76);
+      box-shadow: 0 24px 70px rgba(0, 0, 0, 0.38);
+      backdrop-filter: blur(18px);
+      transform: translateY(calc((1 - var(--hero-open)) * 10px));
+      transition: transform 120ms linear;
+    }
+
+    body[data-brand-mode="texuno"] .banner-hook-brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    body[data-brand-mode="texuno"] .banner-hook-brand img {
+      width: 58px;
+      height: 58px;
+      border: 1px solid rgba(255, 255, 255, 0.26);
+      border-radius: 999px;
+      background: #fff;
+      object-fit: contain;
+      padding: 7px;
+    }
+
+    body[data-brand-mode="texuno"] .banner-hook-brand span,
+    body[data-brand-mode="texuno"] .banner-hook-brand b {
+      display: block;
+    }
+
+    body[data-brand-mode="texuno"] .banner-hook-brand span {
+      color: #ffd447;
+      font-size: 12px;
+      font-weight: 950;
+      text-transform: uppercase;
+    }
+
+    body[data-brand-mode="texuno"] .banner-hook-brand b {
+      margin-top: 3px;
+      color: #fff;
+      font-size: 18px;
+      line-height: 1;
+    }
+
+    body[data-brand-mode="texuno"] .banner-hook strong {
+      max-width: 12ch;
+      color: #fff;
+      font-family: "Archivo Black", Impact, sans-serif;
+      font-size: clamp(36px, 4.4vw, 62px);
+      line-height: 0.88;
+      text-transform: uppercase;
+    }
+
+    body[data-brand-mode="texuno"] .banner-hook p {
+      max-width: 430px;
+      margin: 0;
+      color: rgba(255, 255, 255, 0.78);
+      font-size: clamp(15px, 1.25vw, 18px);
+      font-weight: 750;
+      line-height: 1.35;
+    }
+
+    body[data-brand-mode="texuno"] .banner-proof {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    body[data-brand-mode="texuno"] .banner-proof span {
+      min-height: 34px;
+      display: inline-flex;
+      align-items: center;
+      border: 1px solid rgba(255, 212, 71, 0.36);
+      border-radius: 999px;
+      padding: 0 12px;
+      background: rgba(255, 212, 71, 0.12);
+      color: #fff4bd;
+      font-size: 12px;
+      font-weight: 950;
+      text-transform: uppercase;
+    }
+
+    body[data-brand-mode="texuno"] .solvers-open-system {
+      display: grid;
+      align-self: stretch;
+      grid-template-columns: 1fr 1fr;
+      grid-template-rows: 0.8fr 1fr;
+      gap: 14px;
+      min-height: 100%;
+      opacity: calc(0.5 + (var(--hero-open) * 0.5));
+      transform: scale(calc(0.96 + (var(--hero-open) * 0.04))) translateY(calc((1 - var(--hero-open)) * 18px));
+      transition: opacity 120ms linear, transform 120ms linear;
+    }
+
+    body[data-brand-mode="texuno"] .open-node {
+      position: relative;
+      min-height: 0;
+      padding: 16px;
+      border: 1px solid rgba(255, 255, 255, 0.13);
+      border-radius: 8px;
+      overflow: hidden;
+      background:
+        linear-gradient(145deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.04)),
+        rgba(255, 255, 255, 0.045);
+      box-shadow: 0 18px 48px rgba(0, 0, 0, 0.26);
+    }
+
+    body[data-brand-mode="texuno"] .open-node::before {
+      content: "";
+      position: absolute;
+      inset: auto 16px 16px;
+      height: 8px;
+      border-radius: 999px;
+      background: linear-gradient(90deg, #e43030, #ffd447);
+      transform: scaleX(calc(0.18 + (var(--hero-open) * 0.82)));
+      transform-origin: left;
+      opacity: 0.8;
+    }
+
+    body[data-brand-mode="texuno"] .open-node span {
+      display: block;
+      color: rgba(255, 255, 255, 0.56);
+      font-size: 12px;
+      font-weight: 950;
+      text-transform: uppercase;
+    }
+
+    body[data-brand-mode="texuno"] .open-node b {
+      display: block;
+      margin-top: 8px;
+      color: #fff;
+      font-size: clamp(18px, 2.1vw, 28px);
+      line-height: 0.98;
+      text-transform: uppercase;
+    }
+
+    body[data-brand-mode="texuno"] .open-node--wide {
+      grid-column: 1 / -1;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      align-items: center;
+      gap: 16px;
+      background:
+        radial-gradient(circle at 78% 24%, rgba(228, 48, 48, 0.26), transparent 16rem),
+        linear-gradient(145deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.035)),
+        rgba(255, 255, 255, 0.05);
+    }
+
+    body[data-brand-mode="texuno"] .open-node--wide strong {
+      width: clamp(92px, 10vw, 132px);
+      aspect-ratio: 1;
+      display: grid;
+      place-items: center;
+      border: 1px solid rgba(255, 212, 71, 0.36);
+      border-radius: 999px;
+      background:
+        radial-gradient(circle, rgba(255, 212, 71, 0.22), transparent 63%),
+        rgba(0, 0, 0, 0.28);
+      color: #ffd447;
+      font-family: "Archivo Black", Impact, sans-serif;
+      font-size: clamp(28px, 3vw, 42px);
+    }
+
+    body[data-theme="maker"][data-brand-mode="texuno"] .hero-grid {
+      width: min(1180px, 100%);
+      grid-template-columns: minmax(0, 0.95fr) minmax(340px, 0.62fr);
+      gap: clamp(24px, 3.5vw, 50px);
+      align-items: start;
+    }
+
+    body[data-brand-mode="texuno"] .desktop-hook-line {
+      display: none;
+    }
+
+    body[data-brand-mode="texuno"] .client-mark {
+      display: flex;
+    }
+
+    body[data-brand-mode="texuno"] .diagnosis-panel {
+      border-color: rgba(228, 48, 48, 0.24);
+      background:
+        linear-gradient(145deg, rgba(255, 255, 255, 0.11), rgba(255, 255, 255, 0.04)),
+        rgba(8, 8, 8, 0.82);
+    }
+
+    body[data-brand-mode="texuno"] .phone {
+      overflow: hidden;
+    }
+
+    body[data-brand-mode="texuno"] .phone-cta {
+      width: 100%;
+      white-space: normal;
+      overflow-wrap: anywhere;
+    }
+
+    body[data-brand-mode="texuno"] .screen-loader {
+      background:
+        radial-gradient(circle at 50% 36%, rgba(228, 48, 48, 0.24), transparent 20rem),
+        linear-gradient(180deg, rgba(7, 7, 7, 0.96), rgba(26, 6, 6, 0.98));
+    }
+
     body[data-theme="maker"][data-brand-mode="mystic"] {
       background:
         radial-gradient(circle at 14% 0%, rgba(202, 169, 94, 0.24), transparent 30rem),
@@ -3285,6 +3603,22 @@
         align-items: start;
       }
 
+      body[data-theme="maker"][data-brand-mode="texuno"] .hero {
+        min-height: auto;
+      }
+
+      body[data-brand-mode="texuno"] .mobile-hero-banner {
+        grid-template-columns: 1fr;
+        min-height: auto;
+      }
+
+      body[data-theme="maker"][data-brand-mode="texuno"] .hero-grid {
+        width: min(820px, 100%);
+        grid-template-columns: 1fr;
+        gap: 28px;
+        align-items: start;
+      }
+
       body[data-brand-mode="mystic"] .leather-hero-scene {
         position: relative;
         top: auto;
@@ -3353,6 +3687,12 @@
       }
 
       body[data-theme="maker"][data-brand-mode="fashion"] .hero-grid {
+        width: 100%;
+        grid-template-columns: 1fr;
+        gap: 24px;
+      }
+
+      body[data-theme="maker"][data-brand-mode="texuno"] .hero-grid {
         width: 100%;
         grid-template-columns: 1fr;
         gap: 24px;
@@ -3560,6 +3900,57 @@
           radial-gradient(circle at 84% 18%, rgba(234, 182, 166, 0.22), transparent 18rem),
           linear-gradient(180deg, rgba(37, 27, 26, 0.94), rgba(37, 27, 26, 0.98)),
           var(--brand-dark);
+      }
+
+      body[data-theme="maker"][data-brand-mode="texuno"] .hero {
+        min-height: auto;
+        padding-top: 88px;
+        background:
+          radial-gradient(circle at 84% 18%, rgba(228, 48, 48, 0.22), transparent 18rem),
+          linear-gradient(180deg, rgba(7, 7, 7, 0.96), rgba(30, 6, 6, 0.98)),
+          var(--brand-dark);
+      }
+
+      body[data-brand-mode="texuno"] .mobile-hero-banner {
+        grid-template-columns: 1fr;
+        gap: 16px;
+        min-height: auto;
+        margin-bottom: 22px;
+        padding: 16px;
+      }
+
+      body[data-brand-mode="texuno"] .mobile-hero-banner::before,
+      body[data-brand-mode="texuno"] .mobile-hero-banner::after {
+        width: 58%;
+        opacity: 0.82;
+      }
+
+      body[data-brand-mode="texuno"] .banner-hook {
+        min-height: 330px;
+        padding: 18px;
+      }
+
+      body[data-brand-mode="texuno"] .banner-hook strong {
+        max-width: 11ch;
+        font-size: clamp(38px, 11vw, 56px);
+      }
+
+      body[data-brand-mode="texuno"] .solvers-open-system {
+        grid-template-columns: 1fr;
+        grid-template-rows: none;
+        gap: 10px;
+      }
+
+      body[data-brand-mode="texuno"] .open-node {
+        min-height: 110px;
+      }
+
+      body[data-brand-mode="texuno"] .open-node--wide {
+        grid-template-columns: 1fr;
+      }
+
+      body[data-brand-mode="texuno"] .open-node--wide strong {
+        width: 86px;
       }
 
       body[data-brand-mode="fashion"] .leather-hero-scene {
@@ -3941,6 +4332,23 @@
             <div class="banner-proof" aria-label="Señales principales">
               <span data-field="bannerBadge1">Comunidad activa</span>
               <span data-field="bannerBadge2">Pedido guiado</span>
+            </div>
+          </div>
+          <div class="solvers-open-system" aria-hidden="true">
+            <div class="open-node">
+              <span>Catalogo</span>
+              <b>Talla color stock</b>
+            </div>
+            <div class="open-node">
+              <span>WhatsApp</span>
+              <b>Respuesta con contexto</b>
+            </div>
+            <div class="open-node open-node--wide">
+              <div>
+                <span>Solvers</span>
+                <b>Carrito recuperado + data accionable</b>
+              </div>
+              <strong>24/7</strong>
             </div>
           </div>
         </div>
@@ -4740,8 +5148,10 @@
         const heroHeight = hero.offsetHeight || 1;
         const heroProgress = Math.min(Math.max(window.scrollY / Math.max(heroHeight * 0.78, 1), 0), 1);
         const surprise = heroProgress < 0.2 ? 0 : Math.pow((heroProgress - 0.2) / 0.8, 1.8);
+        const openProgress = Math.min(Math.max((heroProgress - 0.02) / 0.38, 0), 1);
         rootStyle.setProperty("--hero-zoom", (1 + surprise * 0.22).toFixed(3));
         rootStyle.setProperty("--hero-pan", `${(surprise * -22).toFixed(1)}px`);
+        rootStyle.setProperty("--hero-open", openProgress.toFixed(3));
 
         const storyRect = storyScroll.getBoundingClientRect();
         const storyRange = Math.max(storyRect.height - window.innerHeight, 1);
