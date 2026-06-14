@@ -4039,6 +4039,18 @@
         margin-top: clamp(390px, 70svh, 600px);
       }
 
+      body[data-brand-mode="texuno"] .story-grid {
+        grid-template-columns: 1fr;
+      }
+
+      body[data-brand-mode="texuno"] .story-sticky,
+      body[data-brand-mode="texuno"] .story-sticky h2,
+      body[data-brand-mode="texuno"] .story-sticky p {
+        width: 100%;
+        max-width: 100%;
+        min-width: 0;
+      }
+
       body[data-brand-mode="texuno"] .mobile-hero-banner::before,
       body[data-brand-mode="texuno"] .mobile-hero-banner::after {
         width: 52%;
