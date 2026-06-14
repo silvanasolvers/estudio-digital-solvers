@@ -2083,7 +2083,7 @@
     }
 
     body[data-theme="maker"][data-brand-mode="texuno"] .hero {
-      min-height: 118vh;
+      min-height: 275vh;
       padding-top: clamp(100px, 10vh, 126px);
       align-items: start;
       background:
@@ -2116,10 +2116,11 @@
       grid-template-columns: minmax(300px, 0.88fr) minmax(360px, 1.12fr);
       align-items: stretch;
       gap: clamp(18px, 3vw, 40px);
-      position: relative;
+      position: sticky;
+      top: clamp(92px, 12vh, 118px);
       z-index: 2;
       width: min(1180px, 100%);
-      min-height: clamp(430px, 38vw, 560px);
+      min-height: min(clamp(430px, 38vw, 560px), calc(100svh - 146px));
       margin: 0 auto clamp(30px, 4vw, 56px);
       padding: clamp(22px, 3vw, 34px);
       border: 1px solid rgba(255, 255, 255, 0.14);
@@ -2355,6 +2356,7 @@
       grid-template-columns: minmax(0, 0.95fr) minmax(340px, 0.62fr);
       gap: clamp(24px, 3.5vw, 50px);
       align-items: start;
+      margin-top: clamp(260px, 86vh, 780px);
     }
 
     body[data-brand-mode="texuno"] .desktop-hook-line {
@@ -3644,6 +3646,27 @@
       body[data-brand-mode="leather"] .diagnosis-panel {
         justify-self: stretch;
         width: 100%;
+      }
+    }
+
+    @media (min-width: 981px) and (max-width: 1180px) {
+      body[data-theme="maker"][data-brand-mode="texuno"] .hero {
+        min-height: 275vh;
+        overflow: visible;
+      }
+
+      body[data-brand-mode="texuno"] .mobile-hero-banner {
+        position: sticky;
+        top: 96px;
+        grid-template-columns: minmax(280px, 0.88fr) minmax(320px, 1.12fr);
+        min-height: min(500px, calc(100svh - 132px));
+      }
+
+      body[data-theme="maker"][data-brand-mode="texuno"] .hero-grid {
+        width: min(1040px, 100%);
+        grid-template-columns: minmax(0, 0.95fr) minmax(320px, 0.62fr);
+        gap: 24px;
+        margin-top: clamp(240px, 86vh, 720px);
       }
     }
 
@@ -5221,7 +5244,7 @@
         const isTexuno = document.body.dataset.brandMode === "texuno";
         const openStart = isTexuno ? 0.12 : 0.02;
         const openSpan = isTexuno ? 0.62 : 0.38;
-        const openProgress = isTexuno && window.innerWidth <= 640
+        const openProgress = isTexuno && window.innerWidth <= 980
           ? 1
           : Math.min(Math.max((heroProgress - openStart) / openSpan, 0), 1);
         rootStyle.setProperty("--hero-zoom", (1 + surprise * 0.22).toFixed(3));
