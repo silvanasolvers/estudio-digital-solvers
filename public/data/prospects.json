@@ -1342,6 +1342,140 @@
         "Bot comercial para WhatsApp entrenado para filtrar evento, fecha, talla, color, presupuesto, modalidad, urgencia y agendar visita en tienda.",
         "Estructura de pauta + pixel + mapa de calor para medir vestido visto, intención, cita solicitada, conversación y venta/separación."
       ]
+    },
+    {
+      "slug": "el-cielo-santa-elena",
+      "company": "El Cielo Santa Elena",
+      "sector": "glamping, cabañas y escapadas románticas",
+      "city": "Santa Elena, Antioquia",
+      "tone": "natural, romántico, cálido y premium",
+      "theme": "resort",
+      "brandMode": "forest",
+      "accent": "#D9B36C",
+      "secondary": "#6AA8B8",
+      "brandDark": "#040705",
+      "paper": "#F1E7D8",
+      "paperCard": "#FFF9EF",
+      "brandWash": "rgba(217, 179, 108, 0.2)",
+      "brandWash2": "rgba(106, 168, 184, 0.16)",
+      "logoImage": "/assets/el-cielo-santa-elena-logo.svg",
+      "heroImage": "https://a0.muscache.com/im/pictures/hosting/Hosting-1510465911883109407/original/a34c3eb2-c3fa-4a45-a149-2191d4b244dd.jpeg?im_w=720",
+      "heroCopy": "El Cielo Santa Elena ya vende algo muy valioso: una cabaña en el bosque para escaparse, celebrar y desconectarse cerca de Medellín. El dolor no es falta de magia visual; es que la reserva puede perderse cuando el huésped necesita claridad sobre fechas, acceso, mascotas, jacuzzi, chimenea, desayuno, reglas, pago y acompañamiento antes de llegar.",
+      "alertLabel": "Oportunidad de reservas",
+      "statusLabel": "Diagnóstico comercial",
+      "status": "Instagram + WhatsApp + Airbnb, pero la decisión depende de resolver muchas dudas manuales",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Bosque, privacidad, plan romántico, cabaña acogedora, fogata y sensación de refugio cerca de Medellín",
+      "visualCueLabel": "Dolor",
+      "visualCue": "El huésped necesita confianza logística antes de pagar: cómo llegar, qué incluye, qué funciona y qué pasa si algo falla",
+      "conversionFocusLabel": "Solución",
+      "conversionFocus": "Landing de reservas + concierge 24/7 + guía de llegada + seguimiento por experiencia",
+      "bannerKicker": "Hook comercial",
+      "bannerHook": "La magia se pierde cuando el huésped llega con dudas",
+      "bannerSubhook": "Si la reserva, la llegada y los servicios no están claros, una escapada romántica se convierte en preguntas repetidas por WhatsApp.",
+      "bannerBadge1": "18,6 mil seguidores",
+      "bannerBadge2": "Cabaña + naturaleza",
+      "brandWorldTitle": "Primero se vende el refugio; después se cierra la reserva",
+      "scrollTitle": "Del reel de bosque a la reserva sin dudas",
+      "diagnosisTitle": "Dónde se enfría una reserva en El Cielo",
+      "leadProblem": "La captura enviada muestra una cuenta activa con 320 publicaciones, 18,6 mil seguidores, bio de renta de cabañas en Santa Elena, vereda Barro Blanco, reservas por WhatsApp 3044253532 y destacados como Momentos, Testimonios, La huerta, Cumpleaños y Pet Friendly. La marca ya tiene estética, comunidad y un producto fotogénico; el problema aparece cuando la persona quiere reservar y debe resolver manualmente fechas, capacidad, mascota, acceso, clima, servicios incluidos, desayuno, jacuzzi, chimenea, fogata, cocina, parqueadero y políticas.",
+      "opportunity": "La jugada es convertir el perfil en una experiencia de reserva guiada: landing premium con cabañas, planes, galería real, ubicación, preguntas frecuentes, políticas y un concierge por WhatsApp que responda 24/7. Así cada persona llega con contexto, el equipo recibe solicitudes completas y la pauta aprende qué mueve reservas: pareja, cumpleaños, familia, mascota, fogata, picnic o escapada de fin de semana.",
+      "proofLine": "Lectura preliminar basada en la captura enviada el 14 de junio de 2026, Instagram público @elcielosantaelena, Airbnb 'Cabaña acogedora, El Cielo Santa Elena' con 7 huéspedes, 2 habitaciones, mascotas, cocina, wifi y parqueadero, y reseñas públicas agregadas en Hoteles Beijing sobre fortalezas y fricciones de la experiencia. Se valida con ocupación, tarifas, disponibilidad y operación real antes de ejecutar.",
+      "audience": "Parejas, familias pequeñas, viajeros de Medellín, planes de cumpleaños, aniversarios, mascotas, escapadas de fin de semana y personas que buscan naturaleza sin irse tan lejos.",
+      "adAngle": "Cabaña romántica en el bosque + reserva clara + llegada guiada por WhatsApp",
+      "whatsappCta": "Quiero llenar más fechas con reservas claras",
+      "scrollIntro": "El estudio debe mostrar que una cabaña linda no solo necesita likes: necesita una ruta de confianza. La persona debe saber qué plan elegir, qué incluye, cómo llegar y qué esperar antes de escribir.",
+      "experienceIntro": "El Cielo vende silencio, madera, luz cálida y pausa. La automatización debe sentirse como concierge de montaña: amable, precisa y lista para resolver dudas antes de que el huésped se enfríe.",
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "18,6 mil seguidores",
+          "body": "Hay comunidad suficiente para activar reservas directas si cada visita al perfil aterriza en una ruta clara."
+        },
+        {
+          "label": "Dolor 01",
+          "title": "Reserva con muchas dudas",
+          "body": "Fecha, cupo, mascota, acceso, clima, jacuzzi, chimenea, cocina, desayuno y reglas llegan como preguntas sueltas."
+        },
+        {
+          "label": "Dolor 02",
+          "title": "Llegada sensible",
+          "body": "En hospedajes de bosque, la señalización, instrucciones y acompañamiento pesan tanto como la foto de la cabaña."
+        },
+        {
+          "label": "Solución",
+          "title": "Concierge 24/7",
+          "body": "Un agente filtra fecha, plan y dudas, guía la llegada y deja WhatsApp listo para confirmar reserva."
+        }
+      ],
+      "experiencePath": [
+        "Deseo: alguien ve una cabaña iluminada en el bosque y piensa en pareja, cumpleaños, familia o descanso",
+        "Fricción: necesita saber disponibilidad, tarifa, acceso, mascota, servicios, qué llevar y cómo pagar",
+        "Solución: la landing ordena planes, servicios, FAQ, ubicación y CTA por intención antes de abrir WhatsApp",
+        "Cierre: el concierge entrega una solicitud con fecha, número de personas, plan, dudas resueltas y siguiente acción"
+      ],
+      "galleryImages": [
+        {
+          "label": "Cabaña nocturna",
+          "src": "https://a0.muscache.com/im/pictures/hosting/Hosting-1510465911883109407/original/a34c3eb2-c3fa-4a45-a149-2191d4b244dd.jpeg?im_w=720"
+        },
+        {
+          "label": "Refugio en Santa Elena",
+          "src": "https://a0.muscache.com/im/pictures/hosting/Hosting-1510465911883109407/original/a34c3eb2-c3fa-4a45-a149-2191d4b244dd.jpeg?im_w=720"
+        },
+        {
+          "label": "Bosque y descanso",
+          "src": "https://a0.muscache.com/im/pictures/hosting/Hosting-1510465911883109407/original/a34c3eb2-c3fa-4a45-a149-2191d4b244dd.jpeg?im_w=720"
+        }
+      ],
+      "journey": [
+        {
+          "title": "Etapa 1: inspiración desde Instagram",
+          "body": "El feed muestra cabañas, senderos, luz cálida, momentos y testimonios. La mejora es que cada publicación lleve a una página que convierta deseo en consulta de fecha, no solo en un guardado."
+        },
+        {
+          "title": "Etapa 2: claridad antes de reservar",
+          "body": "El huésped necesita confirmar capacidad, mascotas, servicios, horarios, alimentación, parqueadero, clima, acceso y políticas sin esperar a que alguien responda manualmente."
+        },
+        {
+          "title": "Etapa 3: llegada guiada",
+          "body": "En una experiencia rural, la llegada es parte de la reputación. Instrucciones, mapa, check-in, recomendaciones y soporte deben sentirse tan cuidados como la decoración."
+        },
+        {
+          "title": "Etapa 4: post-estadía y reputación",
+          "body": "Después de la visita se puede pedir reseña, ofrecer recompra por fechas especiales y activar campañas a quienes casi reservaron o viajaron con mascota, pareja o familia."
+        }
+      ],
+      "findings": [
+        "La marca ya comunica un universo claro: cabañas en Santa Elena, reserva por WhatsApp, destacados de momentos, testimonios, cumpleaños, huerta y pet friendly.",
+        "Airbnb muestra una ruta adicional de reserva con capacidad para 7 huéspedes, 2 habitaciones, mascotas, cocina, wifi, zona de trabajo y parqueadero; eso amplía el público más allá de pareja.",
+        "Las reseñas públicas agregadas apuntan a un patrón comercial importante: el entorno y la privacidad gustan, pero la comunicación, la llegada, el mantenimiento y la claridad de lo incluido pueden afectar la percepción de valor."
+      ],
+      "siteIssues": [
+        "No se ve una web propia de reserva directa que concentre cabañas, disponibilidad, capacidad, servicios, políticas, ubicación, acceso, preguntas frecuentes y botón de WhatsApp contextual.",
+        "Instagram inspira, pero no reemplaza una página que resuelva dudas logísticas. En hospedaje rural, una duda sobre llegada, mascota, jacuzzi, desayuno o acceso puede frenar la reserva.",
+        "Depender de WhatsApp y plataformas externas limita medición: no queda claro qué plan interesó, qué fecha buscaban, qué duda frenó el cierre o qué campaña trajo huéspedes reales."
+      ],
+      "losses": [
+        "Personas que aman las fotos del bosque pueden guardar el perfil y no reservar porque no encuentran rápido disponibilidad, precio, capacidad o cómo llegar.",
+        "El equipo puede gastar horas respondiendo las mismas preguntas sobre servicios, mascotas, acceso, horarios, pagos, desayuno, jacuzzi, chimenea y reglas.",
+        "Una mala experiencia de llegada o información incompleta puede convertirse en reseña negativa, aunque el lugar sea bonito, porque el huésped siente que esperaba otra cosa."
+      ],
+      "heatmapData": [
+        "Clics por intención. Medir si la demanda está en pareja, cumpleaños, familia, mascota, fogata, picnic, jacuzzi, huerta o escapada de fin de semana.",
+        "Fricción de reserva. Detectar abandono antes de tarifas, disponibilidad, ubicación, políticas, servicios incluidos, instrucciones de llegada o botón de WhatsApp.",
+        "Data para ocupación. Usar consultas reales para llenar fechas flojas, crear paquetes románticos/pet friendly y recuperar personas que preguntaron pero no reservaron."
+      ],
+      "campaigns": [
+        "Campañas por plan: escapada romántica, cumpleaños, familia con mascota, noche de fogata y descanso de fin de semana cerca de Medellín.",
+        "Remarketing a quienes vieron fechas, tocaron WhatsApp o consultaron ubicación, con seguimiento por disponibilidad, clima, acceso y paquete pendiente.",
+        "Campañas de reputación y recompra: pedir reseñas después de la estadía, activar aniversarios y recordar fechas especiales a huéspedes anteriores."
+      ],
+      "deliverables": [
+        "Landing premium El Cielo con cabañas, planes, galería real, capacidad, mascotas, servicios, FAQ, políticas, ubicación, instrucciones de llegada y CTA a reserva.",
+        "Concierge de reservas 24/7 para WhatsApp entrenado en fechas, cupo, tarifas, mascotas, servicios, pagos, cómo llegar, check-in, recomendaciones y soporte básico.",
+        "Pauta + pixel + mapa de calor + panel comercial para medir plan visto, fecha consultada, WhatsApp, abandono, reserva, reseña y recompra."
+      ]
     }
   ]
 }

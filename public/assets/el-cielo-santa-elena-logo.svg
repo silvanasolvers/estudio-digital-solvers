@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="El Cielo Santa Elena">
+  <rect width="512" height="512" rx="256" fill="#050505"/>
+  <circle cx="256" cy="256" r="226" fill="none" stroke="#f8f1e6" stroke-width="16"/>
+  <circle cx="256" cy="256" r="198" fill="none" stroke="#b63a2b" stroke-width="8" stroke-dasharray="64 18"/>
+  <circle cx="256" cy="256" r="178" fill="none" stroke="#3f8fb5" stroke-width="5" stroke-dasharray="36 18"/>
+  <path d="M88 328 182 184l50 78 48-104 144 170z" fill="none" stroke="#f8f1e6" stroke-width="14" stroke-linejoin="round"/>
+  <path d="M160 328h192M206 328v-76l46-38 48 38v76M226 328v-56h52v56" fill="none" stroke="#f8f1e6" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M122 335c32-26 58-26 88 0 34-30 72-30 106 0 28-22 54-22 82 0" fill="none" stroke="#f8f1e6" stroke-width="10" stroke-linecap="round"/>
+  <g fill="#f8f1e6" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="256" y="114" font-size="31" font-weight="800" letter-spacing="2">EL CIELO</text>
+    <text x="256" y="406" font-size="27" font-weight="800" letter-spacing="2">SANTA ELENA</text>
+    <text x="256" y="444" font-size="22" font-weight="700" letter-spacing="4">HOSPEDAJE</text>
+  </g>
+</svg>

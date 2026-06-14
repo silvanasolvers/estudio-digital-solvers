@@ -869,6 +869,25 @@
       background-position: center;
     }
 
+    body[data-theme="resort"][data-brand-mode="forest"] .hero {
+      background:
+        linear-gradient(90deg, rgba(4, 7, 5, 0.94) 0%, rgba(9, 17, 11, 0.7) 48%, rgba(9, 17, 11, 0.18) 100%),
+        linear-gradient(0deg, rgba(4, 7, 5, 0.96), rgba(4, 7, 5, 0.08) 56%, rgba(4, 7, 5, 0.32)),
+        var(--hero-image);
+      background-position: center 42%;
+    }
+
+    body[data-brand-mode="forest"] .client-mark img {
+      object-fit: contain;
+      padding: 7px;
+      background: #050505;
+      border-radius: 999px;
+    }
+
+    body[data-brand-mode="forest"] .hero-copy {
+      max-width: 720px;
+    }
+
     body[data-theme="resort"] #growthCanvas {
       opacity: 0.08;
       mix-blend-mode: screen;
@@ -3216,6 +3235,85 @@
         background-size: cover;
         background-position: center 38%;
         box-shadow: 0 22px 52px rgba(0, 0, 0, 0.34);
+      }
+
+      body[data-theme="resort"][data-brand-mode="forest"] .mobile-hero-banner {
+        display: grid;
+        align-items: end;
+        overflow: hidden;
+        min-height: 260px;
+        background-image:
+          linear-gradient(180deg, rgba(4, 7, 5, 0.02), rgba(4, 7, 5, 0.82)),
+          var(--hero-image);
+      }
+
+      body[data-theme="resort"][data-brand-mode="forest"] .banner-hook {
+        display: grid;
+        gap: 10px;
+        padding: 18px;
+        color: #fffaf0;
+        text-shadow: 0 10px 28px rgba(0, 0, 0, 0.42);
+      }
+
+      body[data-theme="resort"][data-brand-mode="forest"] .banner-hook-brand {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+
+      body[data-theme="resort"][data-brand-mode="forest"] .banner-hook-brand img {
+        width: 46px;
+        height: 46px;
+        object-fit: contain;
+        padding: 5px;
+        border-radius: 999px;
+        background: #050505;
+      }
+
+      body[data-theme="resort"][data-brand-mode="forest"] .banner-hook-brand span,
+      body[data-theme="resort"][data-brand-mode="forest"] .banner-hook-brand b {
+        display: block;
+      }
+
+      body[data-theme="resort"][data-brand-mode="forest"] .banner-hook-brand span span {
+        color: var(--accent);
+        font-size: 10px;
+        font-weight: 900;
+        text-transform: uppercase;
+      }
+
+      body[data-theme="resort"][data-brand-mode="forest"] .banner-hook-brand b {
+        font-size: 14px;
+      }
+
+      body[data-theme="resort"][data-brand-mode="forest"] .banner-hook strong {
+        max-width: 290px;
+        font-family: Georgia, "Times New Roman", serif;
+        font-size: clamp(28px, 10vw, 42px);
+        line-height: 0.92;
+      }
+
+      body[data-theme="resort"][data-brand-mode="forest"] .banner-hook p {
+        max-width: 330px;
+        margin: 0;
+        font-size: 13px;
+        line-height: 1.35;
+        color: rgba(255, 250, 240, 0.86);
+      }
+
+      body[data-theme="resort"][data-brand-mode="forest"] .banner-proof {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+      }
+
+      body[data-theme="resort"][data-brand-mode="forest"] .banner-proof span {
+        padding: 7px 9px;
+        border: 1px solid rgba(255, 250, 240, 0.2);
+        border-radius: 999px;
+        background: rgba(0, 0, 0, 0.28);
+        font-size: 11px;
+        font-weight: 850;
       }
 
       .journey-card {
