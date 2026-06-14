@@ -6,7 +6,7 @@
 - [x] Reproducir el problema del scroll que no deja leer completo el hook.
 - [x] Ajustar banner para que el texto respire, se lea completo y la apertura sea progresiva.
 - [x] Verificar responsive movil/desktop sin overflow ni capas montadas.
-- [ ] Publicar en GitHub/Dokploy y validar produccion.
+- [x] Publicar en GitHub/Dokploy y validar produccion.
 - [ ] Enviar link actualizado a Valentina.
 
 ### Criterios
@@ -15,6 +15,16 @@
 - El banner debe sentirse Solvers, pero no bloquear el contenido ni apurar el scroll.
 - En movil, la composicion debe apilarse clara: hook primero, sistema despues.
 - Mantener el cambio aislado a `brandMode="texuno"`.
+
+### Revision
+
+- Se ajusto el banner Texuno para que en movil abra por defecto y no dependa del gesto de scroll para poder leer el hook.
+- Se compacto el hook, badges y tarjetas del sistema en 393px: banner publico queda dentro del primer pantallazo y sin overflow horizontal.
+- Se desacelero la apertura por scroll en desktop para que no se robe la lectura de inmediato.
+- Se agrego proteccion responsive al demo del bot: consola, mensajes y formulario ya no empujan ancho en movil.
+- Verificacion local: `npm run check` OK, Chrome/CDP movil 393x852 sin overflow y desktop sin solapes.
+- Produccion: commit `8092632` (`Fix Texuno hero readability`), Dokploy deployment `zfDPh96_zh_PAZ6HTyUDz` termino `done`.
+- URL publica verificada: `https://estudios-digitales.solversai.cloud/empresa/texuno-multimarca?v=8092632`; HTML contiene `openStart`, ajuste movil `min-height: 96px` y boton del bot responsive; JSON mantiene `brandMode: texuno`, `heroImage: ""` y hook correcto.
 
 ## Texuno Multimarca mini-estudio + bot
 
