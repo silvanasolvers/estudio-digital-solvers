@@ -363,6 +363,10 @@
       display: none;
     }
 
+    .banner-hook {
+      display: none;
+    }
+
     .leather-hero-scene {
       display: none;
     }
@@ -1706,19 +1710,121 @@
       position: relative;
       z-index: 2;
       width: min(1180px, 100%);
-      min-height: clamp(280px, 34vw, 440px);
+      min-height: clamp(360px, 38vw, 520px);
       margin: 0 auto clamp(30px, 4vw, 58px);
+      padding: clamp(18px, 3vw, 34px);
       border: 1px solid rgba(248, 239, 221, 0.28);
-      border-radius: 28px 28px 8px 28px;
+      border-radius: 34px 34px 8px 34px;
       overflow: hidden;
       background-image:
-        linear-gradient(180deg, rgba(28, 22, 22, 0.02), rgba(28, 22, 22, 0.2)),
+        linear-gradient(90deg, rgba(28, 22, 22, 0.9) 0%, rgba(28, 22, 22, 0.66) 34%, rgba(28, 22, 22, 0.08) 70%),
+        linear-gradient(180deg, rgba(28, 22, 22, 0.06), rgba(28, 22, 22, 0.28)),
         var(--hero-image);
       background-size: cover;
       background-position: center 42%;
       box-shadow:
         0 34px 90px rgba(16, 11, 10, 0.4),
         inset 0 0 0 1px rgba(255, 255, 255, 0.12);
+    }
+
+    body[data-brand-mode="mystic"] .mobile-hero-banner::after {
+      content: "";
+      position: absolute;
+      inset: 14px;
+      border: 1px solid rgba(248, 239, 221, 0.16);
+      border-radius: 26px 26px 4px 26px;
+      pointer-events: none;
+    }
+
+    body[data-brand-mode="mystic"] .banner-hook {
+      position: relative;
+      z-index: 2;
+      display: grid;
+      gap: 16px;
+      width: min(500px, 100%);
+      margin-top: auto;
+      padding: clamp(18px, 2.6vw, 28px);
+      border: 1px solid rgba(248, 239, 221, 0.28);
+      border-left: 3px solid var(--accent);
+      border-radius: 24px 24px 4px 24px;
+      background:
+        linear-gradient(145deg, rgba(255, 250, 240, 0.13), rgba(202, 169, 94, 0.08)),
+        rgba(28, 22, 22, 0.78);
+      box-shadow: 0 26px 70px rgba(16, 11, 10, 0.34);
+      backdrop-filter: blur(18px);
+    }
+
+    body[data-brand-mode="mystic"] .banner-hook-brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    body[data-brand-mode="mystic"] .banner-hook-brand img {
+      width: 58px;
+      height: 58px;
+      border: 1px solid rgba(248, 239, 221, 0.38);
+      border-radius: 999px;
+      background: #fffaf0;
+      object-fit: contain;
+      padding: 6px;
+    }
+
+    body[data-brand-mode="mystic"] .banner-hook-brand span,
+    body[data-brand-mode="mystic"] .banner-hook-brand b {
+      display: block;
+    }
+
+    body[data-brand-mode="mystic"] .banner-hook-brand span {
+      color: #f2dfb6;
+      font-size: 12px;
+      font-weight: 950;
+      text-transform: uppercase;
+    }
+
+    body[data-brand-mode="mystic"] .banner-hook-brand b {
+      margin-top: 3px;
+      color: #fffaf0;
+      font-size: 18px;
+      line-height: 1;
+    }
+
+    body[data-brand-mode="mystic"] .banner-hook strong {
+      max-width: 10ch;
+      color: #fffaf0;
+      font-family: "Archivo Black", Impact, sans-serif;
+      font-size: clamp(36px, 4.4vw, 68px);
+      line-height: 0.88;
+      text-transform: uppercase;
+    }
+
+    body[data-brand-mode="mystic"] .banner-hook p {
+      max-width: 440px;
+      margin: 0;
+      color: #eadfca;
+      font-size: clamp(15px, 1.35vw, 18px);
+      font-weight: 750;
+      line-height: 1.35;
+    }
+
+    body[data-brand-mode="mystic"] .banner-proof {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    body[data-brand-mode="mystic"] .banner-proof span {
+      min-height: 34px;
+      display: inline-flex;
+      align-items: center;
+      border: 1px solid rgba(202, 169, 94, 0.36);
+      border-radius: 999px;
+      padding: 0 12px;
+      background: rgba(202, 169, 94, 0.14);
+      color: #fff6df;
+      font-size: 12px;
+      font-weight: 950;
+      text-transform: uppercase;
     }
 
     body[data-brand-mode="mystic"] .leather-hero-scene {
@@ -3085,7 +3191,23 @@
       <section class="hero" aria-label="Portada del estudio">
         <canvas id="growthCanvas" aria-hidden="true"></canvas>
         <div class="hero-pulse" aria-hidden="true"></div>
-        <div class="mobile-hero-banner" aria-label="Imagen principal de la experiencia"></div>
+        <div class="mobile-hero-banner" aria-label="Imagen principal de la experiencia">
+          <div class="banner-hook">
+            <div class="banner-hook-brand">
+              <img data-image="logoImage" alt="">
+              <span>
+                <span data-field="bannerKicker">Hook comercial</span>
+                <b data-field="company">Tu empresa</b>
+              </span>
+            </div>
+            <strong data-field="bannerHook">La venta está en la intención</strong>
+            <p data-field="bannerSubhook">Cuando la persona pregunta, el sistema debe guiarla rápido hacia el pedido correcto.</p>
+            <div class="banner-proof" aria-label="Señales principales">
+              <span data-field="bannerBadge1">Comunidad activa</span>
+              <span data-field="bannerBadge2">Pedido guiado</span>
+            </div>
+          </div>
+        </div>
         <div class="leather-hero-scene" aria-hidden="true">
           <div class="leather-product-card"></div>
           <img class="leather-scene-logo" data-image="logoImage" alt="">
@@ -3403,6 +3525,11 @@
         loaderCue2: "Ruta comercial",
         heroStampTitle: "100% cuero",
         heroStampSubtitle: "Pedido a medida",
+        bannerKicker: "Hook comercial",
+        bannerHook: "La venta está en la intención",
+        bannerSubhook: "Cuando la persona pregunta, el sistema debe guiarla rápido hacia el pedido correcto.",
+        bannerBadge1: "Comunidad activa",
+        bannerBadge2: "Pedido guiado",
         brandWorldTitle: "Primero se vende la experiencia, después la reserva",
         scrollTitle: "El recorrido que debe quedar claro",
         diagnosisTitle: "Lo que se está perdiendo hoy",
