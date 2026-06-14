@@ -197,3 +197,8 @@
 - Verificación local: `npm run check` OK con 14 prospectos; `/empresa/la-casa-de-naty` HTTP 200; `/data/prospects.json` contiene La Casa de Naty, teléfono, 4 tiles, 4 etapas y 3 imágenes.
 - Producción: commit `1aae2b8`, push a `main`, Dokploy deployment `yKUrbq-0gPxB4qssXfHQh` terminó `done`.
 - URL pública verificada: `https://estudios-digitales.solversai.cloud/empresa/la-casa-de-naty` HTTP 200; JSON público contiene La Casa de Naty; assets logo/hero HTTP 200; browser público móvil 393px sin overflow horizontal, fuente mínima 12px, 4 etapas y 2 contactos visibles.
+
+## Texuno text clipping
+- [x] Reducir y acotar títulos Texuno para evitar cortes laterales en hero y scroll didáctico.
+- [x] Acortar el titular del scroll didáctico para que quepa sin perder intención comercial.
+- [x] Verificar localmente que no exista overflow horizontal en desktop y móvil antes de desplegar.
