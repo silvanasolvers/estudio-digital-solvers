@@ -645,6 +645,11 @@
       align-items: center;
     }
 
+    .brand-world-layout.no-collage {
+      grid-template-columns: minmax(0, 920px);
+      align-items: start;
+    }
+
     .brand-world-copy p {
       max-width: 660px;
       margin: 18px 0 0;
@@ -4005,6 +4010,7 @@
       const journeySteps = document.querySelector("#journeySteps");
       const experiencePath = document.querySelector("#experiencePath");
       const experienceCollage = document.querySelector("#experienceCollage");
+      const brandWorldLayout = document.querySelector(".brand-world-layout");
       const deliverableList = document.querySelector("#deliverableList");
       const editor = document.querySelector("#quickEditor");
       const internalPanel = document.querySelector("#internalPanel");
@@ -4222,7 +4228,20 @@
 
       function renderExperienceCollage(items) {
         experienceCollage.innerHTML = "";
-        (items || []).slice(0, 3).forEach((item) => {
+        const uniqueItems = [];
+        const seenSources = new Set();
+        (items || []).forEach((item) => {
+          if (!item?.src || seenSources.has(item.src)) return;
+          seenSources.add(item.src);
+          uniqueItems.push(item);
+        });
+
+        const shouldShowCollage = uniqueItems.length >= 2;
+        experienceCollage.hidden = !shouldShowCollage;
+        brandWorldLayout?.classList.toggle("no-collage", !shouldShowCollage);
+        if (!shouldShowCollage) return;
+
+        uniqueItems.slice(0, 3).forEach((item) => {
           const frame = document.createElement("figure");
           frame.className = "experience-frame";
           frame.dataset.label = item.label || "";

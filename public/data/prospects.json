@@ -1414,20 +1414,7 @@
         "Solución: la landing ordena planes, servicios, FAQ, ubicación y CTA por intención antes de abrir WhatsApp",
         "Cierre: el concierge entrega una solicitud con fecha, número de personas, plan, dudas resueltas y siguiente acción"
       ],
-      "galleryImages": [
-        {
-          "label": "Cabaña nocturna",
-          "src": "https://a0.muscache.com/im/pictures/hosting/Hosting-1510465911883109407/original/a34c3eb2-c3fa-4a45-a149-2191d4b244dd.jpeg?im_w=720"
-        },
-        {
-          "label": "Refugio en Santa Elena",
-          "src": "https://a0.muscache.com/im/pictures/hosting/Hosting-1510465911883109407/original/a34c3eb2-c3fa-4a45-a149-2191d4b244dd.jpeg?im_w=720"
-        },
-        {
-          "label": "Bosque y descanso",
-          "src": "https://a0.muscache.com/im/pictures/hosting/Hosting-1510465911883109407/original/a34c3eb2-c3fa-4a45-a149-2191d4b244dd.jpeg?im_w=720"
-        }
-      ],
+      "galleryImages": [],
       "journey": [
         {
           "title": "Etapa 1: inspiración desde Instagram",
