@@ -1723,6 +1723,174 @@
       ]
     },
     {
+      "slug": "satina-fashion",
+      "company": "Satina Fashion",
+      "sector": "moda femenina colombiana, vestidos, bodys y tendencia",
+      "city": "Medellín / Colombia",
+      "tone": "femenino, moderno, aspiracional y comercial",
+      "theme": "maker",
+      "brandMode": "texuno",
+      "accent": "#D79A9D",
+      "accentRgb": "215, 154, 157",
+      "secondary": "#F6D7A7",
+      "secondaryRgb": "246, 215, 167",
+      "brandDark": "#151011",
+      "paper": "#F7EFEC",
+      "paperCard": "#FFF9F6",
+      "brandWash": "rgba(215, 154, 157, 0.16)",
+      "brandWash2": "rgba(246, 215, 167, 0.16)",
+      "logoImage": "/assets/satina-fashion-logo.svg",
+      "heroImage": "",
+      "heroCopy": "Satina ya tiene una comunidad grande y una promesa clara: moda femenina colombiana, tendencia, vestidos, bodys, corsets, sets, tallas y envíos nacionales. El dolor no es que falte interés; es que una prenda que se antoja por Instagram puede perderse si la compradora debe preguntar por talla, color, precio, disponibilidad, envío o WhatsApp y no recibe una ruta rápida para comprar.",
+      "alertLabel": "Oportunidad de conversión",
+      "statusLabel": "Diagnóstico comercial",
+      "status": "Comunidad grande + compra por DM/WhatsApp, pero demasiada intención depende de respuesta manual",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Moda tendencia, vestidos para ocasión, bodys, corsets, tallas XS a XL y comunicación cercana para amantes de la moda",
+      "visualCueLabel": "Dolor",
+      "visualCue": "Cuando una prenda se vuelve deseo, la clienta necesita talla, color, precio, stock y envío sin esperar una conversación larga",
+      "conversionFocusLabel": "Solución",
+      "conversionFocus": "Asesora 24/7 + catálogo guiado + seguimiento por prenda, talla y ocasión",
+      "loaderLabel": "Analizando moda",
+      "loaderTitle": "Satina en modo venta",
+      "loaderSubtitle": "Leyendo comunidad, prendas, tallas, pedidos por DM/WhatsApp y fricciones antes de mostrar el diagnóstico.",
+      "loaderCue1": "Moda tendencia",
+      "loaderCue2": "Tallas + WhatsApp",
+      "heroStampTitle": "Satina",
+      "heroStampSubtitle": "Compra guiada",
+      "bannerKicker": "Hook Solvers",
+      "bannerHook": "Cuando el outfit gusta, la respuesta no puede llegar tarde",
+      "bannerSubhook": "Cada vestido, body o corset que una clienta guarda debería abrir una ruta clara por talla, color, precio, envío y WhatsApp.",
+      "bannerBadge1": "122K seguidores",
+      "bannerBadge2": "Moda colombiana",
+      "brandWorldTitle": "Satina ya genera deseo; ahora debe convertirlo en pedidos medibles",
+      "scrollTitle": "Del reel del vestido al pedido con talla y seguimiento",
+      "diagnosisTitle": "Dónde se enfría una compra en Satina",
+      "leadProblem": "El perfil público de Instagram muestra una marca colombiana con 121K-122K seguidores, más de 1.300 publicaciones, mensaje 'AMANTES DE LA MODA | SINCE 2020 | Marca colombiana | FASHION TENDENCIA' y publicaciones con prendas como vestidos, bodys, corsets, sets, tallas XS a XL, precios visibles y pedidos por DM o WhatsApp. Esa comunidad ya demuestra intención, pero si cada duda se resuelve manualmente, la compra se puede enfriar justo cuando la clienta está más cerca de decidir.",
+      "opportunity": "La jugada para Satina es convertir Instagram, DM y WhatsApp en una ruta comercial guiada: catálogo por ocasión, prenda, talla, color y disponibilidad; asesora 24/7 para responder preguntas frecuentes; recuperación de interesadas que guardan, preguntan o no terminan pedido; y data para saber qué vestidos, bodys, corsets, tallas y colores generan deseo real.",
+      "proofLine": "Lectura preliminar basada en Instagram público @satina_fashion consultado el 14 de junio de 2026 y snippets públicos visibles: tienda de ropa colombiana, 121K-122K seguidores, 13-15 seguidos, más de 1.300 publicaciones, 'AMANTES DE LA MODA | SINCE 2020 | Marca colombiana | FASHION TENDENCIA', prendas como vestidos, bodys, corsets, tallas XS a XL, precios visibles, envíos nacionales y pedidos por DM/WhatsApp. Se valida con catálogo, inventario, Meta, WhatsApp y ventas reales antes de ejecutar.",
+      "audience": "Mujeres en Colombia que compran moda por Instagram, buscan vestidos para salidas, cenas, eventos, vacaciones o looks diarios, y necesitan resolver rápido talla, color, disponibilidad, precio, envío y forma de pago.",
+      "adAngle": "Moda tendencia colombiana + asesoría inmediata por talla, color, ocasión y envío nacional",
+      "whatsappCta": "Quiero convertir más DMs en pedidos medibles",
+      "scrollIntro": "El estudio muestra que Satina no necesita solo publicar más prendas. Necesita que cada prenda con intención tenga una ruta: elegir talla, confirmar color, resolver envío, pasar a WhatsApp y hacer seguimiento si la clienta no compra.",
+      "experienceIntro": "Satina vende deseo rápido: una clienta ve un vestido, imagina el plan y quiere saber si le queda, cuánto vale y cómo pedirlo. La automatización debe sentirse como asesora de boutique: clara, femenina y rápida.",
+      "botTitle": "Bot Satina: asesora de moda lista para vender",
+      "botIntro": "Este demo muestra cómo una asesora puede responder dudas de tallas, colores, disponibilidad, precios, envíos, ocasiones y pedidos por WhatsApp, mientras captura intención para seguimiento.",
+      "botAgentName": "Asesora Satina demo",
+      "botAgentRole": "Tallas, vestidos, bodys, envíos y seguimiento",
+      "botDemoTitle": "Menos dudas antes del pedido",
+      "botDemoBody": "La compradora puede preguntar por una prenda, talla, color, precio, envío o look para una ocasión sin esperar a que el equipo responda manualmente cada caso.",
+      "botTrainingTitle": "Entrenada con ruta fashion",
+      "botTrainingBody": "Vestidos, bodys, corsets, sets, tallas XS a XL, precios, disponibilidad, colores, envíos nacionales, medios de pago, cambios y recuperación de interesadas.",
+      "botOpening": "Hola, soy la asesora demo de Satina. Pregúntame cómo responder dudas por talla, color, ocasión, envíos o cómo recuperar clientas que preguntan por una prenda y no terminan pedido.",
+      "botPrompts": [
+        "¿Cómo responde por talla y color?",
+        "¿Puede recomendar un look por ocasión?",
+        "¿Cómo ayuda a WhatsApp?",
+        "¿Qué pasa si no hay una talla?",
+        "¿Qué datos deja para pauta?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["talla", "tallas", "xs", "xl", "medida", "medidas", "color", "colores"],
+          "answer": "La asesora puede preguntar referencia o prenda vista, talla usual, color deseado y ciudad. Si la talla no está disponible, sugiere alternativa similar y registra qué talla/color faltó para inventario y pauta."
+        },
+        {
+          "keywords": ["ocasion", "ocasión", "evento", "cena", "salida", "vacaciones", "look"],
+          "answer": "Sí. El flujo puede recomendar por ocasión: cena, salida, evento, vacaciones o look diario. Así la clienta no solo pregunta precio: recibe guía para elegir y avanzar al pedido."
+        },
+        {
+          "keywords": ["whatsapp", "dm", "mensaje", "responder", "atencion", "atención"],
+          "answer": "WhatsApp y DM dejan de ser bandejas sueltas. La asesora clasifica intención, responde lo repetido, pide datos mínimos y pasa al equipo una conversación lista para cerrar."
+        },
+        {
+          "keywords": ["stock", "disponibilidad", "agotado", "agotada", "alternativa"],
+          "answer": "Si una prenda está agotada, el agente puede ofrecer colores, tallas o modelos parecidos. También guarda esa demanda para saber qué vale la pena reponer o volver a publicar."
+        },
+        {
+          "keywords": ["pauta", "meta", "instagram", "anuncio", "campaña", "campana", "datos"],
+          "answer": "La pauta mejora porque se mide qué prenda preguntaron, qué talla buscaban, qué color se agotó, qué reel generó DMs y qué clientas necesitan seguimiento para cerrar pedido."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "122K seguidores",
+          "body": "La comunidad ya existe. La oportunidad es convertir deseo de Instagram en pedidos rastreables, no solo en DMs."
+        },
+        {
+          "label": "Producto",
+          "title": "Tendencia y ocasión",
+          "body": "Vestidos, bodys, corsets y sets se compran por antojo, plan y fit. La decisión necesita velocidad."
+        },
+        {
+          "label": "Canal",
+          "title": "DM + WhatsApp",
+          "body": "Si la venta depende de responder manualmente talla, color, precio y envío, se pierden clientas calientes."
+        },
+        {
+          "label": "Solución",
+          "title": "Asesora 24/7",
+          "body": "Un bot guía prenda, talla, color, ocasión y envío, y deja data útil para campañas e inventario."
+        }
+      ],
+      "experiencePath": [
+        "Deseo: la clienta ve un vestido, body o corset y lo imagina para una salida, evento o viaje",
+        "Fricción: necesita talla, color, precio, disponibilidad, envío, pago y una respuesta rápida",
+        "Solución: la asesora guía la prenda, recomienda por ocasión y pasa a WhatsApp con contexto",
+        "Cierre: Satina recupera DMs sin compra, identifica prendas calientes y sabe qué tallas/colores faltan"
+      ],
+      "galleryImages": [],
+      "journey": [
+        {
+          "title": "Etapa 1: descubrimiento desde reels y publicaciones",
+          "body": "Satina ya genera deseo con prendas de tendencia. El riesgo es que el antojo se quede en guardado o comentario si no hay una ruta inmediata para pedir."
+        },
+        {
+          "title": "Etapa 2: decisión por talla, color y ocasión",
+          "body": "Moda femenina se decide con dudas muy concretas: cómo queda, qué talla pedir, qué color hay, cuánto cuesta, cuándo llega y si sirve para el plan que tiene la clienta."
+        },
+        {
+          "title": "Etapa 3: WhatsApp con contexto",
+          "body": "Cuando la clienta escribe, el equipo debería saber qué prenda vio, qué talla busca, qué color quiere y si está lista para pagar o necesita recomendación."
+        },
+        {
+          "title": "Etapa 4: recuperación e inventario inteligente",
+          "body": "Cada pregunta sin compra deja data: prenda con más deseo, talla agotada, color pedido, ciudad, objeción y campaña que merece seguimiento."
+        }
+      ],
+      "findings": [
+        "Satina ya tiene señales fuertes de marca: comunidad de más de 120K seguidores, lenguaje propio para amantes de la moda y continuidad desde 2020.",
+        "Las publicaciones públicas muestran prendas de compra impulsiva y de ocasión: vestidos, bodys, corsets, sets, tallas, precios y llamados a pedir por DM o WhatsApp.",
+        "El riesgo comercial aparece cuando una marca con alto volumen social no tiene una capa automática para ordenar preguntas repetidas, disponibilidad y seguimiento por prenda."
+      ],
+      "siteIssues": [
+        "Si la compra depende principalmente de DM/WhatsApp, cada clienta debe preguntar lo mismo: precio, talla, color, disponibilidad, envío, pago y cambios.",
+        "El perfil inspira, pero sin catálogo guiado por prenda/ocasión/talla, la clienta puede guardar el post y no volver cuando la respuesta tarda.",
+        "Sin eventos y mapa de calor, Satina puede ver likes o DMs, pero no necesariamente qué prenda, talla o color generó intención real de compra."
+      ],
+      "losses": [
+        "Clientas que aman una prenda pueden perder el impulso si no reciben rápido talla, color, precio y forma de comprar.",
+        "El equipo puede gastar demasiadas horas respondiendo preguntas repetidas sobre disponibilidad, medidas, envíos nacionales, cambios y pagos.",
+        "Prendas con alta intención pueden agotarse o pasar desapercibidas sin data clara de qué tallas, colores y ocasiones están pidiendo las compradoras."
+      ],
+      "heatmapData": [
+        "Interés por prenda, talla y color. Medir vestidos, bodys, corsets, sets, tallas XS a XL, colores, preguntas y clics a WhatsApp.",
+        "Fricción antes del pedido. Detectar abandono cuando la clienta no encuentra disponibilidad, precio, guía de talla, envío, pago o política de cambio.",
+        "Data para pauta e inventario. Usar demanda real para decidir qué reel repetir, qué talla reponer, qué color empujar y qué clientas recuperar."
+      ],
+      "campaigns": [
+        "Campañas por ocasión: vestidos para cenas, eventos, salidas, vacaciones y looks de fin de semana, cada una con asesoría por talla/color.",
+        "Recuperación de DMs: seguimiento a clientas que preguntaron por una prenda y no compraron, con alternativa de talla, color o modelo similar.",
+        "Pauta por prenda caliente: anuncios para vestidos, bodys o corsets con mayor intención, conectados a WhatsApp con referencia y talla prefiltrada."
+      ],
+      "deliverables": [
+        "Landing/catálogo Satina con prendas por ocasión, tallas, colores, precios, guía de fit, envíos nacionales, cambios, pagos y CTA a WhatsApp.",
+        "Asesora comercial 24/7 para responder talla, color, disponibilidad, precio, envío, cambios, recomendaciones por ocasión y seguimiento de interesadas.",
+        "Mapa de calor + eventos de Instagram/landing/WhatsApp para medir prenda vista, talla consultada, color pedido, DM, abandono y pedido recuperado."
+      ]
+    },
+    {
       "slug": "el-cielo-santa-elena",
       "company": "El Cielo Santa Elena",
       "sector": "glamping, cabañas y escapadas románticas",

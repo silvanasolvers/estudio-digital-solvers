@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-labelledby="title desc">
+  <title id="title">Satina Fashion</title>
+  <desc id="desc">Wordmark tipográfico de Satina Fashion para el mini-estudio digital.</desc>
+  <rect width="420" height="420" rx="210" fill="#fff7f4"/>
+  <circle cx="210" cy="210" r="188" fill="none" stroke="#d79a9d" stroke-width="10"/>
+  <circle cx="210" cy="210" r="154" fill="#151011"/>
+  <path d="M132 250c16 23 43 34 75 34 49 0 82-24 82-62 0-35-25-49-69-61-32-9-46-15-46-31 0-15 13-24 35-24 26 0 45 10 60 29l27-29c-20-25-48-38-87-38-44 0-75 24-75 61 0 35 26 51 70 63 32 8 45 15 45 31 0 16-15 25-42 25-26 0-47-10-62-29l-13 31Z" fill="#fff7f4"/>
+  <text x="210" y="334" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="42" font-weight="700" letter-spacing="5" fill="#151011">SATINA</text>
+  <text x="210" y="367" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="6" fill="#b46f75">FASHION</text>
+</svg>

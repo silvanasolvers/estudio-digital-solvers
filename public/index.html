@@ -2083,9 +2083,9 @@
     body[data-theme="maker"][data-brand-mode="texuno"] {
       overflow-x: clip;
       background:
-        radial-gradient(circle at 12% 0%, rgba(228, 48, 48, 0.28), transparent 31rem),
-        radial-gradient(circle at 86% 12%, rgba(255, 212, 71, 0.18), transparent 28rem),
-        linear-gradient(180deg, #050505 0%, #160707 34%, var(--paper) 34%, var(--paper) 100%);
+        radial-gradient(circle at 12% 0%, rgba(var(--accent-rgb), 0.28), transparent 31rem),
+        radial-gradient(circle at 86% 12%, rgba(var(--secondary-rgb), 0.18), transparent 28rem),
+        linear-gradient(180deg, #050505 0%, var(--brand-dark) 34%, var(--paper) 34%, var(--paper) 100%);
     }
 
     body[data-theme="maker"][data-brand-mode="texuno"] .hero {
@@ -2094,9 +2094,9 @@
       align-items: start;
       overflow: visible;
       background:
-        radial-gradient(circle at 18% 15%, rgba(228, 48, 48, 0.22), transparent 27rem),
-        radial-gradient(circle at 88% 22%, rgba(255, 212, 71, 0.16), transparent 24rem),
-        linear-gradient(180deg, #070707 0%, #100606 100%);
+        radial-gradient(circle at 18% 15%, rgba(var(--accent-rgb), 0.22), transparent 27rem),
+        radial-gradient(circle at 88% 22%, rgba(var(--secondary-rgb), 0.16), transparent 24rem),
+        linear-gradient(180deg, #070707 0%, var(--brand-dark) 100%);
     }
 
     body[data-theme="maker"][data-brand-mode="texuno"] .hero::before {
@@ -2111,10 +2111,10 @@
     body[data-theme="maker"][data-brand-mode="texuno"] .hero-pulse {
       right: 8vw;
       top: 16%;
-      border-color: rgba(228, 48, 48, 0.36);
+      border-color: rgba(var(--accent-rgb), 0.36);
       background:
-        radial-gradient(circle, rgba(255, 212, 71, 0.22) 0 10%, transparent 11%),
-        conic-gradient(from 20deg, transparent, rgba(228, 48, 48, 0.58), transparent 45%, rgba(255, 212, 71, 0.42), transparent 78%);
+        radial-gradient(circle, rgba(var(--secondary-rgb), 0.22) 0 10%, transparent 11%),
+        conic-gradient(from 20deg, transparent, rgba(var(--accent-rgb), 0.58), transparent 45%, rgba(var(--secondary-rgb), 0.42), transparent 78%);
       opacity: 0.42;
     }
 
@@ -2134,9 +2134,9 @@
       border-radius: 8px;
       overflow: hidden;
       background:
-        radial-gradient(circle at 74% 24%, rgba(228, 48, 48, 0.32), transparent 22rem),
-        radial-gradient(circle at 24% 84%, rgba(255, 212, 71, 0.14), transparent 19rem),
-        linear-gradient(135deg, #070707 0%, #121416 52%, #240808 100%);
+        radial-gradient(circle at 74% 24%, rgba(var(--accent-rgb), 0.32), transparent 22rem),
+        radial-gradient(circle at 24% 84%, rgba(var(--secondary-rgb), 0.14), transparent 19rem),
+        linear-gradient(135deg, #070707 0%, #121416 52%, var(--brand-dark) 100%);
       box-shadow:
         0 34px 90px rgba(0, 0, 0, 0.54),
         inset 0 0 0 1px rgba(255, 255, 255, 0.08);
@@ -2175,7 +2175,7 @@
       border-right: 0;
       border-left: 1px solid rgba(255, 255, 255, 0.1);
       background:
-        radial-gradient(circle at 38% 50%, rgba(228, 48, 48, 0.2), transparent 14rem),
+        radial-gradient(circle at 38% 50%, rgba(var(--accent-rgb), 0.2), transparent 14rem),
         linear-gradient(rgba(255, 255, 255, 0.06) 1px, transparent 1px),
         linear-gradient(90deg, rgba(255, 255, 255, 0.05) 1px, transparent 1px),
         linear-gradient(225deg, rgba(9, 10, 11, 0.98), rgba(38, 8, 8, 0.96));
@@ -2201,7 +2201,7 @@
       width: 100%;
       padding: clamp(18px, 2.4vw, 28px);
       border: 1px solid rgba(255, 255, 255, 0.16);
-      border-left: 4px solid #e43030;
+      border-left: 4px solid var(--accent);
       border-radius: 8px;
       background:
         linear-gradient(180deg, rgba(255, 255, 255, 0.08), rgba(255, 255, 255, 0.035)),
@@ -2234,7 +2234,7 @@
     }
 
     body[data-brand-mode="texuno"] .banner-hook-brand span {
-      color: #ffd447;
+      color: var(--secondary);
       font-size: 12px;
       font-weight: 950;
       text-transform: uppercase;
@@ -2275,10 +2275,10 @@
       min-height: 34px;
       display: inline-flex;
       align-items: center;
-      border: 1px solid rgba(255, 212, 71, 0.36);
+      border: 1px solid rgba(var(--secondary-rgb), 0.36);
       border-radius: 999px;
       padding: 0 12px;
-      background: rgba(255, 212, 71, 0.12);
+      background: rgba(var(--secondary-rgb), 0.12);
       color: #fff4bd;
       font-size: 12px;
       font-weight: 950;
@@ -2316,7 +2316,7 @@
       inset: auto 16px 16px;
       height: 8px;
       border-radius: 999px;
-      background: linear-gradient(90deg, #e43030, #ffd447);
+      background: linear-gradient(90deg, var(--accent), var(--secondary));
       transform: scaleX(calc(0.18 + (var(--hero-open) * 0.82)));
       transform-origin: left;
       opacity: 0.8;
@@ -2346,7 +2346,7 @@
       align-items: center;
       gap: 16px;
       background:
-        radial-gradient(circle at 78% 24%, rgba(228, 48, 48, 0.26), transparent 16rem),
+        radial-gradient(circle at 78% 24%, rgba(var(--accent-rgb), 0.26), transparent 16rem),
         linear-gradient(145deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.035)),
         rgba(255, 255, 255, 0.05);
     }
@@ -2356,12 +2356,12 @@
       aspect-ratio: 1;
       display: grid;
       place-items: center;
-      border: 1px solid rgba(255, 212, 71, 0.36);
+      border: 1px solid rgba(var(--secondary-rgb), 0.36);
       border-radius: 999px;
       background:
-        radial-gradient(circle, rgba(255, 212, 71, 0.22), transparent 63%),
+        radial-gradient(circle, rgba(var(--secondary-rgb), 0.22), transparent 63%),
         rgba(0, 0, 0, 0.28);
-      color: #ffd447;
+      color: var(--secondary);
       font-family: "Archivo Black", Impact, sans-serif;
       font-size: clamp(28px, 3vw, 42px);
     }
@@ -2411,7 +2411,7 @@
     }
 
     body[data-brand-mode="texuno"] .diagnosis-panel {
-      border-color: rgba(228, 48, 48, 0.24);
+      border-color: rgba(var(--accent-rgb), 0.24);
       background:
         linear-gradient(145deg, rgba(255, 255, 255, 0.11), rgba(255, 255, 255, 0.04)),
         rgba(8, 8, 8, 0.82);
@@ -2429,8 +2429,8 @@
 
     body[data-brand-mode="texuno"] .screen-loader {
       background:
-        radial-gradient(circle at 50% 36%, rgba(228, 48, 48, 0.24), transparent 20rem),
-        linear-gradient(180deg, rgba(7, 7, 7, 0.96), rgba(26, 6, 6, 0.98));
+        radial-gradient(circle at 50% 36%, rgba(var(--accent-rgb), 0.24), transparent 20rem),
+        linear-gradient(180deg, rgba(7, 7, 7, 0.96), var(--brand-dark));
     }
 
     body[data-brand-mode="texuno"] .brand-world {
@@ -4022,8 +4022,8 @@
         padding-top: 88px;
         overflow: visible;
         background:
-          radial-gradient(circle at 84% 18%, rgba(228, 48, 48, 0.22), transparent 18rem),
-          linear-gradient(180deg, rgba(7, 7, 7, 0.96), rgba(30, 6, 6, 0.98)),
+          radial-gradient(circle at 84% 18%, rgba(var(--accent-rgb), 0.22), transparent 18rem),
+          linear-gradient(180deg, rgba(7, 7, 7, 0.96), var(--brand-dark)),
           var(--brand-dark);
       }
 
@@ -5011,6 +5011,8 @@
         document.body.dataset.brandMode = prospect.brandMode || prospect.theme || "standard";
         document.documentElement.style.setProperty("--accent", prospect.accent || "#00e5a0");
         document.documentElement.style.setProperty("--secondary", prospect.secondary || "#ffcf5c");
+        document.documentElement.style.setProperty("--accent-rgb", prospect.accentRgb || "0, 229, 160");
+        document.documentElement.style.setProperty("--secondary-rgb", prospect.secondaryRgb || "255, 207, 92");
         document.documentElement.style.setProperty("--brand-dark", prospect.brandDark || "#050607");
         document.documentElement.style.setProperty("--paper", prospect.paper || "#f3f0e7");
         document.documentElement.style.setProperty("--paper-card", prospect.paperCard || "#fffaf0");
