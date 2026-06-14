@@ -5244,7 +5244,7 @@
         const surprise = heroProgress < 0.2 ? 0 : Math.pow((heroProgress - 0.2) / 0.8, 1.8);
         const isTexuno = document.body.dataset.brandMode === "texuno";
         const openStart = isTexuno ? 0.12 : 0.02;
-        const openSpan = isTexuno ? 0.62 : 0.38;
+        const openSpan = isTexuno ? 0.48 : 0.38;
         const openProgress = isTexuno && window.innerWidth <= 980
           ? 1
           : Math.min(Math.max((heroProgress - openStart) / openSpan, 0), 1);
