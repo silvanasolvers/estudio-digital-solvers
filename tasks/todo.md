@@ -6,8 +6,17 @@
 - [x] Agregar prospecto `texuno-multimarca` con diagnóstico profundo.
 - [x] Crear experiencia de bot demo dentro del mini-estudio para preguntas del cliente.
 - [x] Verificar JSON, contenido, responsive y bot localmente.
-- [ ] Commit/push, desplegar en Dokploy y verificar producción.
-- [ ] Enviar link limpio y mensaje sugerido a Valentina.
+- [x] Commit/push, desplegar en Dokploy y verificar producción.
+- [x] Enviar link limpio y mensaje sugerido a Valentina.
+
+## Review Texuno Multimarca
+
+- Datos usados: Instagram público `@texunomultimarca` con 152K seguidores, 723 publicaciones, 162 seguidos, bio de fabricantes, nuevas prendas todas las semanas y envíos nacionales; revisión pública de `texunomultimarca.com` con ecommerce, búsqueda, favoritos, bolsa, categorías, súper ofertas, top trends, envío gratis desde $200.000, pago seguro, devoluciones hasta 15 días y soporte por WhatsApp.
+- Se agregó `texuno-multimarca` a `public/data/prospects.json` con enfoque: ecommerce activo + comunidad grande + catálogo de alta rotación, pero fuga probable en talla, color, disponibilidad, envíos, cambios, mayoristas, carrito, favoritos, WhatsApp y seguimiento.
+- Se agregó sección global de bot demo en `public/index.html`, con prompts y respuestas por prospecto. Para Texuno responde sobre carritos, mayoristas, talla/color, WhatsApp, pauta/datos y envíos/cambios.
+- Verificación local: `npm run check` OK, HTTP 200, DOM contiene bot, prompts y respuestas; Chrome DevTools local probó pregunta "¿Sirve para mayoristas?" y respondió correctamente.
+- Producción final: commits `049dc7d` y `6305fae`, push a `main`, Dokploy deployment `VvCd6XlBB9wYGdSka6bjs` terminó `done`.
+- URL pública verificada: `https://estudios-digitales.solversai.cloud/empresa/texuno-multimarca` HTTP 200; JSON público contiene Texuno, 6 respuestas del bot y título `Bot Texuno: preguntas de compra respondidas al instante`; navegador público móvil confirmó sin overflow, bot presente y fuente mínima 12px.
 
 - [x] Definir modelo de landing reutilizable por empresa.
 - [x] Crear estructura de proyecto desplegable en Dokploy.
