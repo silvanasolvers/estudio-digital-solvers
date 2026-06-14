@@ -2010,6 +2010,220 @@
         "Concierge de reservas 24/7 para WhatsApp entrenado en fechas, cupo, tarifas, mascotas, servicios, pagos, cómo llegar, check-in, recomendaciones y soporte básico.",
         "Pauta + pixel + mapa de calor + panel comercial para medir plan visto, fecha consultada, WhatsApp, abandono, reserva, reseña y recompra."
       ]
+    },
+    {
+      "slug": "buru-nature-hotel",
+      "company": "Burú Nature Hotel",
+      "sector": "ecohotel de lujo, casas en árboles y experiencias amazónicas",
+      "city": "Leticia, Amazonas",
+      "tone": "natural, sensorial, premium, cultural y contemplativo",
+      "theme": "resort",
+      "brandMode": "forest",
+      "logoImage": "https://en.burunaturehotel.com/wp-content/uploads/2025/07/LOGO-BURU-EDITABLE_Logo-Buru-Nature-Hotel-Amazonas-498x288-Treehouse-Ecohab-Amazonas-en-la-selva-amazonica-–-Hospedaje-en-casas-en-los-arboles-en-Leticia-Colo-300x125.png",
+      "heroImage": "https://en.burunaturehotel.com/wp-content/uploads/2026/04/Buru-Nature-Hotel-Banner-Principal_Buru-Nature-Hotel-Escape-to-a-tranquil-treehouse-ecohab-Ordenador-1920x1080px-Banner-A1-scaled.jpg",
+      "accent": "#5F8F89",
+      "secondary": "#D8BE74",
+      "brandDark": "#112B28",
+      "paper": "#ECF0E6",
+      "paperCard": "#FBFFF7",
+      "brandWash": "rgba(95, 143, 137, 0.2)",
+      "brandWash2": "rgba(216, 190, 116, 0.16)",
+      "heroCopy": "Burú Nature Hotel ya tiene una propuesta muy potente: ecohabs elevados en el Amazonas, descanso entre árboles, cultura local, gastronomía de autor, Casa YOI, Umarí, testimonios y ubicación Km 12 vía Leticia-Tarapacá. El dolor no es falta de magia; es que una experiencia tan rica puede perder reservas si el viajero no entiende rápido qué ecohab elegir, qué incluye, cómo llegar, qué experiencia cultural tomar y por dónde cerrar.",
+      "alertLabel": "Oportunidad de reservas",
+      "statusLabel": "Diagnóstico comercial",
+      "status": "Experiencia amazónica premium, pero decisión sensible entre ecohabs, cultura, gastronomía, servicios y logística",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Treehouse ecohabs, diseño sostenible, lujo silencioso, naturaleza, cocina amazónica y conexión cultural",
+      "visualCueLabel": "Dolor",
+      "visualCue": "El huésped se enamora de la selva, pero antes de reservar necesita resolver fechas, traslado, ecohab, comidas, experiencias, idioma y confianza",
+      "conversionFocusLabel": "Solución",
+      "conversionFocus": "Concierge 24/7 + reserva guiada + mapa de intención por ecohab y experiencia",
+      "loaderLabel": "Preparando diagnóstico amazónico",
+      "loaderTitle": "Burú bajo lupa",
+      "loaderSubtitle": "Leyendo ecohabs, cultura, gastronomía, testimonios, ubicación y fricciones antes de mostrar el diagnóstico.",
+      "loaderCue1": "Ecohabs en árboles",
+      "loaderCue2": "Reserva guiada",
+      "bannerKicker": "Hook Solvers",
+      "bannerHook": "La selva enamora; la reserva necesita guía",
+      "bannerSubhook": "Burú no necesita verse más natural: necesita que cada viajero entienda rápido ecohab, fechas, traslado, comidas, cultura y siguiente paso antes de perder intención.",
+      "bannerBadge1": "7.831 seguidores",
+      "bannerBadge2": "Ecohabs + cultura",
+      "brandWorldTitle": "Burú ya vende desconexión; ahora debe convertirla en reservas con contexto",
+      "scrollTitle": "Del sueño de dormir en árboles a una reserva sin dudas",
+      "diagnosisTitle": "Dónde se puede enfriar una reserva amazónica",
+      "leadProblem": "La captura de Instagram muestra 7.831 seguidores, 127 publicaciones y una promesa clara: escape to a tranquil treehouse ecohab, naturaleza, cultura y descanso en el corazón del Amazonas, con ubicación Km 12 Leticia-Tarapacá y enlaces múltiples. El sitio oficial suma ecohabs elevados, Casa YOI, Umarí Restaurant, gastronomía de cuatro tiempos, traslados privados, jacuzzi natural, coctelería, experiencias indígenas, testimonios y contacto por teléfono/correo/WhatsApp. Esa riqueza vende mucho, pero también obliga a guiar al viajero antes de que compare otra opción en Leticia.",
+      "opportunity": "La oportunidad para Burú es crear una ruta de reserva asistida que funcione como concierge amazónico: preguntar fechas, número de personas, idioma, motivo del viaje, ecohab ideal, traslado desde aeropuerto, alimentación, experiencia cultural, restricciones de comida y urgencia. Así WhatsApp o reservas reciben contexto, el equipo responde menos repetido y la pauta aprende qué mueve más intención: ecohabs, Casa YOI, Umarí, cultura indígena, descanso, jacuzzi, parejas, familias o viajeros internacionales.",
+      "proofLine": "Lectura preliminar basada en captura enviada el 14 de junio de 2026, Instagram público @burunaturehotel y sitio oficial en.burunaturehotel.com / burunaturehotel.com: 7.831 seguidores visibles, 127 publicaciones, Km 12 Leticia-Tarapacá, ecohabs en árboles, Casa YOI, Umarí Restaurant, traslados privados, gastronomía de cuatro tiempos, jacuzzi natural, experiencias indígenas, testimonios, contacto +57 304 533 89 43 y correos de reservas/ventas. Se valida con ocupación, WhatsApp, motor de reserva y pauta reales antes de ejecutar.",
+      "audience": "Viajeros nacionales e internacionales que buscan Amazonas con comodidad, parejas, familias, amantes de naturaleza, turismo cultural, wellness, gastronomía, huéspedes que llegan por Instagram y personas que necesitan confianza logística antes de viajar a Leticia.",
+      "adAngle": "Amazonas premium con reserva guiada: ecohab, traslado, comida y experiencia cultural según intención de viaje",
+      "whatsappCta": "Quiero convertir más interés amazónico en reservas",
+      "scrollIntro": "El estudio ordena la decisión como lo haría un concierge: primero entiende por qué viaja la persona, luego recomienda ecohab, aclara logística, suma experiencia y entrega una conversación lista para cerrar.",
+      "experienceIntro": "Burú vende calma, altura, selva viva, gastronomía y cultura. La automatización debe sentirse como hospitalidad amazónica: cálida, bilingüe, clara y útil antes de que el huésped compre tiquetes.",
+      "botTitle": "Concierge Burú: reserva amazónica guiada al instante",
+      "botIntro": "Este demo muestra cómo un agente puede responder dudas de ecohabs, fechas, traslados, comidas, cultura, Casa YOI, Umarí, ubicación e idioma sin que el equipo repita todo manualmente.",
+      "botAgentName": "Concierge Burú demo",
+      "botAgentRole": "Ecohabs, traslados, gastronomía y experiencias",
+      "botDemoTitle": "Menos dudas antes de viajar",
+      "botDemoBody": "El viajero puede decir si busca descanso, cultura, gastronomía, pareja, familia o desconexión. El agente filtra fechas, idioma, transporte y experiencia antes de pasar a WhatsApp o reserva.",
+      "botTrainingTitle": "Entrenado con operación ecohotel",
+      "botTrainingBody": "Ecohabs, ubicación Leticia-Tarapacá, traslado privado, comidas gourmet, Umarí, Casa YOI, experiencias indígenas, jacuzzi natural, coctelería, políticas, idioma y contacto.",
+      "botOpening": "Hola, soy el concierge demo de Burú. Pregúntame cómo ordenar reservas de ecohabs, traslados, gastronomía, Casa YOI, experiencias culturales o WhatsApp sin perder intención de viaje.",
+      "botPrompts": [
+        "¿Cómo guía una reserva de ecohab?",
+        "¿Sirve para turistas extranjeros?",
+        "¿Cómo vende Casa YOI y Umarí?",
+        "¿Qué pasa con traslados y comidas?",
+        "¿Qué datos deja para pauta?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "ecohab",
+            "habitacion",
+            "habitación",
+            "treehouse",
+            "fecha",
+            "reserva"
+          ],
+          "answer": "El concierge pregunta fechas, número de huéspedes, idioma, tipo de viaje y expectativa: descanso, cultura, gastronomía o naturaleza. Luego recomienda la ruta correcta y pasa a WhatsApp o reservas con contexto."
+        },
+        {
+          "keywords": [
+            "extranjero",
+            "ingles",
+            "inglés",
+            "tourist",
+            "turista",
+            "idioma"
+          ],
+          "answer": "Sí. Puede responder en español o inglés, explicar ubicación, llegada desde aeropuerto, servicios, clima, recomendaciones de equipaje y siguiente paso. Para Amazonas, esa claridad reduce abandono antes del viaje."
+        },
+        {
+          "keywords": [
+            "casa yoi",
+            "yoi",
+            "umari",
+            "umarí",
+            "gastronomia",
+            "gastronomía",
+            "cultura"
+          ],
+          "answer": "El agente separa hospedaje de experiencias: Casa YOI, gastronomía en Umarí, encuentros culturales y momentos de bienestar. Así no se venden como extras sueltos, sino como motivos de reserva."
+        },
+        {
+          "keywords": [
+            "traslado",
+            "aeropuerto",
+            "comida",
+            "comidas",
+            "alimentacion",
+            "alimentación",
+            "llegar"
+          ],
+          "answer": "Puede resolver logística antes del chat humano: llegada a Leticia, traslado privado, horarios, comidas incluidas o adicionales, restricciones alimentarias y recomendaciones para la estadía."
+        },
+        {
+          "keywords": [
+            "datos",
+            "pauta",
+            "medir",
+            "analytics",
+            "campaña",
+            "campana"
+          ],
+          "answer": "Se mide qué atrae más intención: ecohabs, cultura, Umarí, Casa YOI, descanso, jacuzzi, parejas, familias o extranjeros. Esa data ayuda a pauta, remarketing y paquetes por temporada."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "Experiencia única",
+          "body": "Dormir entre árboles, cocina amazónica y cultura local dan una promesa mucho más fuerte que un hotel tradicional."
+        },
+        {
+          "label": "Dolor 01",
+          "title": "Logística sensible",
+          "body": "Amazonas exige confianza: llegada, traslado, comidas, clima, ubicación, idioma y qué llevar pueden frenar la reserva."
+        },
+        {
+          "label": "Dolor 02",
+          "title": "Muchos motivos de viaje",
+          "body": "Ecohabs, Casa YOI, Umarí, cultura, descanso, jacuzzi y naturaleza deben ordenarse según intención, no como links sueltos."
+        },
+        {
+          "label": "Solución",
+          "title": "Concierge 24/7",
+          "body": "Un agente guía fechas, ecohab, experiencia, traslado y comida antes de entregar el lead listo para cierre."
+        }
+      ],
+      "experiencePath": [
+        "Deseo: la persona ve un ecohab en árboles, gastronomía amazónica o una experiencia cultural y quiere desconectarse",
+        "Fricción: necesita fechas, traslado, comida, idioma, qué incluye, cuál experiencia elegir y cómo reservar",
+        "Solución: la landing separa ecohab, Casa YOI, Umarí, cultura y logística antes de enviar a WhatsApp",
+        "Cierre: el equipo recibe fecha, huéspedes, idioma, experiencia deseada, dudas resueltas y siguiente acción"
+      ],
+      "galleryImages": [
+        {
+          "label": "Ecohabs en árboles",
+          "src": "https://en.burunaturehotel.com/wp-content/uploads/2025/07/Buru-Hotel-Amazonas-Google-My-Business-Ecohabs-en-la-selva-amazonica-–-Hospedaje-en-casas-en-los-arboles-en-Leticia-Colombia-Amazon-rainforest-ecohabs-.jpg"
+        },
+        {
+          "label": "Selva y descanso",
+          "src": "https://en.burunaturehotel.com/wp-content/uploads/2025/07/A1-Seccion-No.-01-Buru-Hotel-Amazonas-Pais-del-realismo-magico.jpg"
+        },
+        {
+          "label": "Casa YOI y cultura",
+          "src": "https://en.burunaturehotel.com/wp-content/uploads/2025/07/A2-Seccion-No.-06-Casa-YOI-Viaje-ancestralguiado-porla-selva-viva-Buru-Hotel-Amazonas-Pais-del-realismo-magico.jpg"
+        }
+      ],
+      "journey": [
+        {
+          "title": "Etapa 1: inspiración desde Instagram",
+          "body": "Burú ya comunica lo difícil: una experiencia distinta en el Amazonas, con ecohabs elevados, naturaleza, cultura y calma. El primer reto es no dejar esa emoción en guardados."
+        },
+        {
+          "title": "Etapa 2: decisión antes del viaje",
+          "body": "El viajero necesita seguridad antes de comprar vuelos o escribir: ubicación exacta, traslado, fecha, ecohab, comidas, clima, idioma, qué llevar y qué experiencia vale la pena."
+        },
+        {
+          "title": "Etapa 3: concierge bilingüe y contextual",
+          "body": "Un agente puede resolver preguntas frecuentes en español o inglés, separar hospedaje de experiencias y pasar al equipo una solicitud con datos completos."
+        },
+        {
+          "title": "Etapa 4: data para paquetes y ocupación",
+          "body": "Con eventos y mapa de calor se ve qué mueve reservas: ecohab, gastronomía, cultura, jacuzzi, parejas, familia, extranjeros o escapada de desconexión."
+        }
+      ],
+      "findings": [
+        "La marca ya tiene una propuesta diferencial clara: ecohabs en árboles, lujo tranquilo, naturaleza amazónica, cultura y gastronomía de autor.",
+        "El sitio oficial muestra servicios que aumentan valor percibido: traslados privados, comidas gourmet de cuatro tiempos, coctelería, jacuzzi natural, Casa YOI, Umarí y experiencias indígenas.",
+        "La captura de Instagram muestra una comunidad en crecimiento y destacados bien alineados: testimonios, colaboraciones, gastronomía, ecohabs y cultura; eso da material perfecto para convertir interés en reserva guiada."
+      ],
+      "siteIssues": [
+        "La experiencia tiene muchos caminos valiosos: ecohabs, Casa YOI, Umarí, cultura, servicios, testimonios, contacto, WhatsApp y enlaces múltiples. Sin guía, el viajero puede no saber por dónde empezar.",
+        "Amazonas no se decide como una noche de hotel común. Antes de reservar aparecen dudas de traslado, ubicación, comidas, idioma, clima, equipaje, horarios y actividades.",
+        "Sin medición por intención, Burú puede recibir visitas y mensajes, pero no saber qué está generando más reservas: dormir en árboles, gastronomía, cultura, descanso, pareja o turismo internacional."
+      ],
+      "losses": [
+        "Viajeros que se enamoran del concepto pueden guardar el perfil y posponer porque no encuentran rápido fecha, ecohab ideal, logística o precio/plan claro.",
+        "El equipo puede repetir manualmente respuestas sobre aeropuerto, traslado, comidas, experiencias, idioma, ubicación, políticas y disponibilidad.",
+        "La pauta puede mostrar una experiencia preciosa, pero si no mide intención por ecohab/experiencia, se pierde aprendizaje para llenar fechas y vender paquetes."
+      ],
+      "heatmapData": [
+        "Clics por intención. Medir si la demanda entra por ecohabs, Casa YOI, Umarí, cultura indígena, gastronomía, jacuzzi, traslado o descanso.",
+        "Fricción de reserva. Detectar abandono antes de fecha, disponibilidad, ubicación, comidas, idioma, WhatsApp, políticas o elección de experiencia.",
+        "Data para ocupación. Usar consultas reales para activar campañas por temporada, parejas, familias, extranjeros, gastronomía o experiencias culturales."
+      ],
+      "campaigns": [
+        "Campañas por motivación: dormir entre árboles, escapada de desconexión, experiencia cultural, gastronomía amazónica, viaje en pareja o familia.",
+        "Remarketing a quienes vieron ecohabs, Casa YOI, Umarí, testimonios o tocaron WhatsApp, con seguimiento distinto según intención.",
+        "Campañas bilingües para turistas internacionales con ruta clara: Amazon treehouse ecohab, airport transfer, local cuisine, cultural experience and guided booking."
+      ],
+      "deliverables": [
+        "Landing/mini experiencia Burú que ordene ecohabs, Casa YOI, Umarí, servicios, ubicación, traslados, comidas, FAQ, testimonios y CTA a reserva/WhatsApp.",
+        "Concierge 24/7 para WhatsApp entrenado en fechas, huéspedes, idioma, ecohabs, traslados, comidas, experiencias, políticas, clima, equipaje y upsells.",
+        "Pauta + pixel + mapa de calor + panel comercial para medir intención, clic a WhatsApp, abandono, experiencia deseada, idioma y oportunidad de remarketing."
+      ]
     }
   ]
 }
