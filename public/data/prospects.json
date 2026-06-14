@@ -1514,6 +1514,215 @@
       ]
     },
     {
+      "slug": "sol-de-alba-cartagena",
+      "company": "Sol de Alba Cartagena",
+      "sector": "hotel boutique, villa de lujo y experiencias premium",
+      "city": "Cartagena, Bolívar",
+      "tone": "colonial, elegante, caribeño y premium",
+      "theme": "resort",
+      "brandMode": "forest",
+      "logoImage": "https://soldealbacartagena.com/wp-content/uploads/2023/05/logo-sol-de-alba.png",
+      "heroImage": "https://soldealbacartagena.com/wp-content/uploads/2023/05/home-sol-1-1.jpg",
+      "accent": "#C8A46A",
+      "secondary": "#6FA9A3",
+      "brandDark": "#17110C",
+      "paper": "#F2E6D6",
+      "paperCard": "#FFF8EF",
+      "brandWash": "rgba(200, 164, 106, 0.2)",
+      "brandWash2": "rgba(111, 169, 163, 0.16)",
+      "heroCopy": "Sol de Alba ya tiene una propuesta premium muy potente: mansión republicana renovada, 13 habitaciones de lujo, rooftop, piscina, jacuzzi, villa completa, ciudad amurallada y conexión con el universo Alba. El dolor no es falta de belleza; es que la reserva puede fragmentarse entre habitación, casa completa, experiencias, isla privada, Cloudbeds, WhatsApp y dudas de viaje antes de cerrar.",
+      "alertLabel": "Oportunidad de reservas",
+      "statusLabel": "Diagnóstico comercial",
+      "status": "Experiencia premium clara, pero decisión dispersa entre hotel, villa, experiencias y varios canales",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Lujo boutique, arquitectura colonial, rooftop, piscina, servicio personalizado y ubicación en el Centro Histórico",
+      "visualCueLabel": "Dolor",
+      "visualCue": "El huésped compara habitación, villa, fecha, tarifa, experiencia e isla antes de decidir por dónde reservar",
+      "conversionFocusLabel": "Solución",
+      "conversionFocus": "Concierge 24/7 + rutas por intención + medición de reserva directa",
+      "loaderLabel": "Preparando diagnóstico hotelero",
+      "loaderTitle": "Sol de Alba bajo lupa",
+      "loaderSubtitle": "Leyendo hotel boutique, villa completa, reservas, experiencias y fricciones antes de mostrar el diagnóstico.",
+      "loaderCue1": "Hotel boutique",
+      "loaderCue2": "Reserva guiada",
+      "bannerKicker": "Hook Solvers",
+      "bannerHook": "El lujo se enfría cuando la reserva no sabe por dónde entrar",
+      "bannerSubhook": "Sol de Alba no necesita verse más bonito: necesita que cada huésped entienda rápido si debe reservar habitación, villa completa, experiencia o hablar con concierge.",
+      "bannerBadge1": "Ciudad amurallada",
+      "bannerBadge2": "Hotel + villa + experiencias",
+      "brandWorldTitle": "Primero se vende el amanecer; después se guía la reserva",
+      "scrollTitle": "Del deseo de Cartagena a una reserva con contexto",
+      "diagnosisTitle": "Dónde se puede enfriar una reserva premium",
+      "leadProblem": "El sitio oficial comunica una mansión republicana renovada en 2022, 13 habitaciones de lujo, rooftop con bar, piscina turquesa, jacuzzi, tarifas visibles desde USD 275 hasta USD 330 por noche y reserva por Cloudbeds. También aparecen rutas separadas para hotel boutique, luxury villa rental, experiences, el grupo Alba, una isla privada y dos teléfonos distintos para habitaciones y casa completa. Esa riqueza de oferta es valiosa, pero también puede hacer que el viajero no sepa cuál camino tomar.",
+      "opportunity": "La jugada para Sol de Alba es convertir su universo premium en una ruta de decisión asistida: una landing/concierge que pregunte intención, fecha, número de huéspedes, tipo de viaje, idioma, presupuesto, habitación vs casa completa, experiencias deseadas y urgencia. Así WhatsApp o Cloudbeds reciben una solicitud con contexto, el equipo evita repetir información y la pauta aprende qué mueve más reservas: habitaciones, villa completa, bodas, wellness, isla privada, rooftop, pareja o grupos.",
+      "proofLine": "Lectura preliminar basada en Instagram público @soldealbacartagena, búsqueda pública consultada el 14 de junio de 2026 y revisión de soldealbacartagena.com / hotelsalbagroup.com: hotel boutique en la ciudad amurallada, 13 habitaciones, villa rental, Cloudbeds, rooftop, piscina, jacuzzi, tarifas visibles, teléfonos +57 311 4330493 y +57 3160274422, y oferta Alba de experiencias, wellness, bodas, eventos e isla privada. Se valida con ocupación, CRM, pauta, WhatsApp y motor de reserva reales antes de ejecutar.",
+      "audience": "Viajeros premium nacionales e internacionales, parejas, grupos, familias, bodas pequeñas, retiros, eventos corporativos, huéspedes que quieren centro histórico y clientes que comparan hotel boutique, villa completa e isla privada.",
+      "adAngle": "Cartagena premium con ruta clara: habitación, villa completa o experiencia Alba según intención de viaje",
+      "whatsappCta": "Quiero convertir más interés premium en reservas directas",
+      "scrollIntro": "El estudio ordena la decisión como lo haría un concierge: primero entiende el tipo de viaje, luego separa habitación, villa o experiencia, resuelve dudas y entrega una conversación lista para cerrar.",
+      "experienceIntro": "Sol de Alba vende amanecer caribeño, casa histórica, rooftop, piscina, servicio y pertenencia al universo Alba. La automatización debe sentirse como concierge boutique: elegante, rápida, bilingüe y con criterio comercial.",
+      "botTitle": "Concierge Sol de Alba: reserva guiada al instante",
+      "botIntro": "Este demo muestra cómo un agente puede responder dudas de habitaciones, casa completa, fechas, tarifas, experiencias, isla privada, eventos y WhatsApp sin que el equipo repita todo manualmente.",
+      "botAgentName": "Concierge Sol de Alba demo",
+      "botAgentRole": "Habitaciones, villa, experiencias y reserva directa",
+      "botDemoTitle": "Menos fricción antes de reservar",
+      "botDemoBody": "El huésped puede decir si viaja en pareja, familia, grupo, boda o retiro; el agente filtra fechas, idioma, presupuesto y ruta correcta antes de pasar a Cloudbeds o WhatsApp.",
+      "botTrainingTitle": "Entrenado con operación hotelera",
+      "botTrainingBody": "Habitaciones, villa completa, rooftop, piscina, jacuzzi, ubicación, tarifas, horarios de atención, Cloudbeds, WhatsApp, experiencias Alba, isla privada, bodas y eventos.",
+      "botOpening": "Hola, soy el concierge demo de Sol de Alba. Pregúntame cómo ordenar reservas de habitaciones, villa completa, experiencias, isla privada, bodas o WhatsApp sin perder intención premium.",
+      "botPrompts": [
+        "¿Cómo guía una reserva de habitación?",
+        "¿Qué pasa si quieren la villa completa?",
+        "¿Sirve para turistas extranjeros?",
+        "¿Cómo conecta con Cloudbeds y WhatsApp?",
+        "¿Qué datos deja para pauta?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "habitacion",
+            "habitación",
+            "room",
+            "junior",
+            "standard",
+            "tarifa"
+          ],
+          "answer": "El concierge puede filtrar fecha, número de huéspedes, tipo de habitación, idioma, presupuesto y dudas clave. Luego envía a Cloudbeds o WhatsApp con contexto, para que el equipo no empiece desde cero."
+        },
+        {
+          "keywords": [
+            "villa",
+            "casa",
+            "full house",
+            "grupo",
+            "familia"
+          ],
+          "answer": "Si la intención es casa completa, el flujo cambia: pregunta número de personas, fechas, motivo del viaje, servicios deseados y presupuesto. Así no se mezcla con reservas de habitación individual."
+        },
+        {
+          "keywords": [
+            "extranjero",
+            "ingles",
+            "inglés",
+            "tourist",
+            "turista",
+            "idioma"
+          ],
+          "answer": "El agente puede responder en español o inglés, explicar ubicación, check-in, experiencias, transporte, políticas y siguiente paso. Para un hotel boutique en Cartagena, esa velocidad reduce abandono internacional."
+        },
+        {
+          "keywords": [
+            "cloudbeds",
+            "whatsapp",
+            "motor",
+            "reserva"
+          ],
+          "answer": "La idea no es reemplazar Cloudbeds: es preparar mejor la intención antes del clic o antes del WhatsApp. El visitante llega con fecha, tipo de viaje, duda y ruta correcta."
+        },
+        {
+          "keywords": [
+            "datos",
+            "pauta",
+            "medir",
+            "analytics",
+            "campaña",
+            "campana"
+          ],
+          "answer": "Se puede medir qué atrae más intención: habitaciones, villa completa, rooftop, isla privada, bodas, wellness o eventos. Esa data ayuda a decidir creativos, presupuesto y remarketing."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "Oferta premium real",
+          "body": "Hotel boutique, villa completa, rooftop, piscina, jacuzzi y grupo Alba dan material comercial fuerte para vender directo."
+        },
+        {
+          "label": "Dolor 01",
+          "title": "Demasiados caminos",
+          "body": "Habitación, casa completa, experiencias, isla privada, bodas, eventos, Cloudbeds y WhatsApp pueden competir por la decisión."
+        },
+        {
+          "label": "Dolor 02",
+          "title": "Reserva sensible al tiempo",
+          "body": "El viajero premium compara rápido. Si no entiende tarifa, disponibilidad, ubicación o plan ideal, se va a otra opción."
+        },
+        {
+          "label": "Solución",
+          "title": "Concierge 24/7",
+          "body": "Un agente guía intención, fecha, huéspedes, idioma y dudas, y entrega una solicitud lista para cerrar."
+        }
+      ],
+      "experiencePath": [
+        "Deseo: la persona ve Cartagena, lujo colonial, rooftop, piscina o una casa completa para grupo",
+        "Fricción: no sabe si reservar habitación, villa, experiencia, isla privada, boda o evento",
+        "Solución: la landing separa caminos por intención y el concierge resuelve dudas antes del chat",
+        "Cierre: Cloudbeds o WhatsApp reciben fecha, huéspedes, tipo de viaje, idioma y siguiente acción"
+      ],
+      "galleryImages": [
+        {
+          "label": "Mansión boutique",
+          "src": "https://soldealbacartagena.com/wp-content/uploads/2023/05/home-sol-1-1.jpg"
+        },
+        {
+          "label": "Rooftop y piscina",
+          "src": "https://soldealbacartagena.com/wp-content/uploads/2023/05/gallery-home-1.jpg"
+        },
+        {
+          "label": "Habitación premium",
+          "src": "https://soldealbacartagena.com/wp-content/uploads/2023/04/suit-jr-principal-580x420.jpg"
+        }
+      ],
+      "journey": [
+        {
+          "title": "Etapa 1: inspiración desde Instagram y búsqueda",
+          "body": "El viajero ve una casa colonial, rooftop, piscina o la promesa del amanecer caribeño. Ese deseo debe aterrizar de inmediato en una ruta de reserva, no en varias pestañas abiertas."
+        },
+        {
+          "title": "Etapa 2: elección entre habitación, villa o experiencia",
+          "body": "Sol de Alba no vende una sola cosa. Vende habitaciones, casa completa, experiencias, grupo hotelero e incluso conexión con isla privada. Si la ruta no separa intención, WhatsApp recibe preguntas mezcladas."
+        },
+        {
+          "title": "Etapa 3: concierge bilingüe antes del cierre",
+          "body": "Un huésped internacional necesita respuestas rápidas sobre ubicación, tarifas, fechas, check-in, transporte, políticas, experiencias y diferencia entre propiedades. El agente puede resolver eso 24/7."
+        },
+        {
+          "title": "Etapa 4: data para llenar ocupación y vender upsells",
+          "body": "Con eventos y mapa de calor se ve qué mueve más demanda: rooftop, villa, habitación junior, bodas, wellness, isla privada o escapadas románticas. Esa data alimenta pauta y remarketing."
+        }
+      ],
+      "findings": [
+        "Sol de Alba ya tiene activos comerciales fuertes: sitio propio, motor Cloudbeds, logo claro, fotos profesionales, tarifas visibles, habitaciones y villa completa.",
+        "La oferta está conectada al ecosistema Alba, que comunica hoteles boutique, villa rentals, isla privada, wellness, bodas, eventos corporativos, experiencias y blog de viaje.",
+        "La prueba social pública del grupo Alba muestra muy buena percepción de ubicación, servicio, diseño y experiencia boutique; incluso las observaciones menores pueden convertirse en insumos para mejorar comunicación previa."
+      ],
+      "siteIssues": [
+        "La navegación puede ser demasiada para una persona que solo quiere reservar rápido: Home, Luxury villa rental, Boutique Hotel, habitaciones, Experiences, Contact, BOOK NOW, Hotels Alba Group y varios idiomas.",
+        "Hay dos teléfonos operativos visibles: habitaciones y casa completa. Eso es útil internamente, pero para el huésped puede crear duda si no sabe qué canal usar.",
+        "El motor de reserva resuelve disponibilidad, pero no necesariamente educa intención premium: diferencia entre habitación y villa, experiencias, isla privada, eventos, transporte, idioma o celebración."
+      ],
+      "losses": [
+        "Dolor de cabeza 1: viajeros con intención real pueden abandonar antes de reservar porque no entienden si su caso es habitación, villa completa, experiencia o evento.",
+        "Dolor de cabeza 2: WhatsApp puede recibir mensajes sin contexto: fechas incompletas, número de huéspedes, idioma, presupuesto, dudas de ubicación o solicitudes de grupo mezcladas.",
+        "Dolor de cabeza 3: la pauta puede mandar tráfico a una experiencia bonita, pero sin medición por intención no se sabe qué vende más: rooftop, habitación, villa, isla, bodas o wellness."
+      ],
+      "heatmapData": [
+        "Clics por intención. Medir si la demanda entra por habitaciones, villa completa, rooftop, piscina, experiencias, isla privada, bodas, wellness o eventos corporativos.",
+        "Fricción de reserva. Detectar abandono antes de disponibilidad, tarifas, ubicación, políticas, WhatsApp, Cloudbeds o diferencia entre propiedades del grupo.",
+        "Data para ocupación. Usar búsquedas reales para activar campañas por fechas bajas, paquetes románticos, grupos, bodas pequeñas, retiros y experiencias premium."
+      ],
+      "campaigns": [
+        "Campañas por intención: habitación boutique en ciudad amurallada, villa completa para grupos, escapada romántica, wedding stay, wellness retreat e isla privada.",
+        "Remarketing a quienes vieron tarifas, tocaron BOOK NOW, abrieron WhatsApp o exploraron experiencias, con mensajes distintos según habitación, villa o evento.",
+        "Campañas bilingües para turistas internacionales con promesa clara: Cartagena old city, boutique luxury, concierge, rooftop, piscina y reserva directa guiada."
+      ],
+      "deliverables": [
+        "Landing/mini experiencia Sol de Alba que separe hotel boutique, villa completa, experiencias, isla privada, bodas/eventos, ubicación, tarifas, FAQ y reserva directa.",
+        "Concierge 24/7 para WhatsApp entrenado en habitaciones, fechas, huéspedes, tarifas, idiomas, ubicación, políticas, experiencias, Cloudbeds, casa completa y upsells Alba.",
+        "Pauta + pixel + mapa de calor + panel comercial para medir intención, clic a Cloudbeds, WhatsApp, abandono, tipo de viaje, idioma y oportunidad de remarketing."
+      ]
+    },
+    {
       "slug": "el-cielo-santa-elena",
       "company": "El Cielo Santa Elena",
       "sector": "glamping, cabañas y escapadas románticas",
