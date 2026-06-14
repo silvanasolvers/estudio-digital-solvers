@@ -2136,7 +2136,14 @@
       box-shadow:
         0 34px 90px rgba(0, 0, 0, 0.54),
         inset 0 0 0 1px rgba(255, 255, 255, 0.08);
+      opacity: calc(1 - var(--hero-banner-exit, 0));
+      transform:
+        translateY(calc(var(--hero-banner-exit, 0) * -72px))
+        scale(calc(1 - (var(--hero-banner-exit, 0) * 0.025)));
+      transform-origin: center top;
       isolation: isolate;
+      pointer-events: none;
+      transition: opacity 140ms linear, transform 140ms linear;
     }
 
     body[data-brand-mode="texuno"] .mobile-hero-banner::before,
@@ -5257,10 +5264,12 @@
         const openSpan = isTexuno ? 0.34 : 0.38;
         const openProgress = Math.min(Math.max((heroProgress - openStart) / openSpan, 0), 1);
         const gateOpacity = Math.max(1 - openProgress * 1.28, 0);
+        const bannerExit = isTexuno ? Math.min(Math.max((heroProgress - 0.72) / 0.14, 0), 1) : 0;
         rootStyle.setProperty("--hero-zoom", (1 + surprise * 0.22).toFixed(3));
         rootStyle.setProperty("--hero-pan", `${(surprise * -22).toFixed(1)}px`);
         rootStyle.setProperty("--hero-open", openProgress.toFixed(3));
         rootStyle.setProperty("--hero-gate-opacity", gateOpacity.toFixed(3));
+        rootStyle.setProperty("--hero-banner-exit", bannerExit.toFixed(3));
 
         const storyRect = storyScroll.getBoundingClientRect();
         const storyRange = Math.max(storyRect.height - window.innerHeight, 1);

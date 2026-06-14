@@ -6,6 +6,7 @@
 - [x] Reproducir el problema del scroll que no deja leer completo el hook.
 - [x] Ajustar compuertas para que la apertura no corte textos.
 - [x] Mover el diagnostico hacia abajo para que no entre apenas termina la apertura.
+- [x] Agregar salida del banner antes de la entrada del diagnostico para evitar capas montadas.
 - [x] Verificar responsive movil/desktop sin overflow ni capas montadas.
 - [ ] Publicar en GitHub/Dokploy y validar produccion.
 - [ ] Enviar link actualizado a Valentina.
