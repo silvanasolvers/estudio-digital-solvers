@@ -1,5 +1,21 @@
 # Estudio Digital Solvers
 
+## Texuno ajuste banner responsive y lectura
+
+- [x] Verificar chat ID y permisos de Valentina.
+- [x] Reproducir el problema del scroll que no deja leer completo el hook.
+- [x] Ajustar banner para que el texto respire, se lea completo y la apertura sea progresiva.
+- [x] Verificar responsive movil/desktop sin overflow ni capas montadas.
+- [ ] Publicar en GitHub/Dokploy y validar produccion.
+- [ ] Enviar link actualizado a Valentina.
+
+### Criterios
+
+- El hook debe poder leerse completo antes de que el efecto visual se robe la atencion.
+- El banner debe sentirse Solvers, pero no bloquear el contenido ni apurar el scroll.
+- En movil, la composicion debe apilarse clara: hook primero, sistema despues.
+- Mantener el cambio aislado a `brandMode="texuno"`.
+
 ## Texuno Multimarca mini-estudio + bot
 
 - [x] Investigar señales públicas de Instagram, ecommerce y canales visibles.
