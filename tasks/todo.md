@@ -202,3 +202,8 @@
 - [x] Reducir y acotar títulos Texuno para evitar cortes laterales en hero y scroll didáctico.
 - [x] Acortar el titular del scroll didáctico para que quepa sin perder intención comercial.
 - [x] Verificar localmente que no exista overflow horizontal en desktop y móvil antes de desplegar.
+
+## Texuno plan section cleanup
+- [x] Retirar el mockup oscuro de la sección `La jugada` en Texuno porque se veía como un bloque vacío/cortado.
+- [x] Dejar la sección en una columna clara con estrategia y tarjetas legibles.
+- [x] Verificar localmente desktop y móvil sin overflow horizontal.
