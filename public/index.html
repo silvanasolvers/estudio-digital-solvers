@@ -2152,9 +2152,10 @@
         linear-gradient(90deg, rgba(255, 255, 255, 0.05) 1px, transparent 1px),
         linear-gradient(135deg, rgba(9, 10, 11, 0.98), rgba(38, 8, 8, 0.96));
       background-size: 34px 34px, 34px 34px, auto;
-      transform: translateX(calc(var(--hero-open) * -78%)) rotateY(calc(var(--hero-open) * -10deg));
+      opacity: var(--hero-gate-opacity, calc(1 - var(--hero-open)));
+      transform: translateX(calc(var(--hero-open) * -112%)) rotateY(calc(var(--hero-open) * -10deg));
       transform-origin: left center;
-      transition: transform 120ms linear;
+      transition: opacity 120ms linear, transform 120ms linear;
       pointer-events: none;
     }
 
@@ -2168,7 +2169,7 @@
         linear-gradient(90deg, rgba(255, 255, 255, 0.05) 1px, transparent 1px),
         linear-gradient(225deg, rgba(9, 10, 11, 0.98), rgba(38, 8, 8, 0.96));
       background-size: auto, 34px 34px, 34px 34px, auto;
-      transform: translateX(calc(var(--hero-open) * 78%)) rotateY(calc(var(--hero-open) * 10deg));
+      transform: translateX(calc(var(--hero-open) * 112%)) rotateY(calc(var(--hero-open) * 10deg));
       transform-origin: right center;
     }
 
@@ -2359,7 +2360,7 @@
       grid-template-columns: minmax(0, 0.95fr) minmax(340px, 0.62fr);
       gap: clamp(24px, 3.5vw, 50px);
       align-items: start;
-      margin-top: clamp(1480px, 270svh, 2360px);
+      margin-top: clamp(1900px, 345svh, 2920px);
     }
 
     body[data-brand-mode="texuno"] .desktop-hook-line {
@@ -3625,7 +3626,7 @@
         grid-template-columns: 1fr;
         gap: 28px;
         align-items: start;
-        margin-top: clamp(1120px, 255svh, 2000px);
+        margin-top: clamp(1560px, 330svh, 2580px);
       }
 
       body[data-brand-mode="mystic"] .leather-hero-scene {
@@ -3669,7 +3670,7 @@
         width: min(1040px, 100%);
         grid-template-columns: minmax(0, 0.95fr) minmax(320px, 0.62fr);
         gap: 24px;
-        margin-top: clamp(1320px, 270svh, 2240px);
+        margin-top: clamp(1760px, 345svh, 2860px);
       }
     }
 
@@ -3726,7 +3727,7 @@
         width: 100%;
         grid-template-columns: 1fr;
         gap: 24px;
-        margin-top: clamp(1080px, 255svh, 1960px);
+        margin-top: clamp(1500px, 330svh, 2520px);
       }
 
       body[data-brand-mode="texuno"] .mobile-hero-banner {
@@ -3951,33 +3952,33 @@
 
       body[data-brand-mode="texuno"] .mobile-hero-banner {
         grid-template-columns: 1fr;
-        gap: 12px;
+        gap: 10px;
         min-height: min(630px, calc(100svh - 98px));
         margin-bottom: 22px;
-        padding: 14px;
+        padding: 12px;
       }
 
       body[data-brand-mode="texuno"] .mobile-hero-banner::before,
       body[data-brand-mode="texuno"] .mobile-hero-banner::after {
         width: 52%;
-        opacity: 0.64;
+        opacity: calc(var(--hero-gate-opacity, 1) * 0.64);
       }
 
       body[data-brand-mode="texuno"] .banner-hook {
         min-height: auto;
-        gap: 12px;
-        padding: 16px;
+        gap: 10px;
+        padding: 14px;
       }
 
       body[data-brand-mode="texuno"] .banner-hook strong {
         max-width: 12ch;
-        font-size: clamp(31px, 9.3vw, 42px);
+        font-size: clamp(28px, 8.7vw, 38px);
         line-height: 0.96;
       }
 
       body[data-brand-mode="texuno"] .banner-hook p {
-        font-size: 14px;
-        line-height: 1.35;
+        font-size: 13px;
+        line-height: 1.32;
       }
 
       body[data-brand-mode="texuno"] .banner-hook-brand img {
@@ -3995,7 +3996,7 @@
       }
 
       body[data-brand-mode="texuno"] .solvers-open-system {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
         grid-template-rows: none;
         gap: 8px;
         opacity: 1;
@@ -4003,20 +4004,20 @@
       }
 
       body[data-brand-mode="texuno"] .open-node {
-        min-height: 82px;
-        padding: 13px;
+        min-height: 66px;
+        padding: 11px;
       }
 
       body[data-brand-mode="texuno"] .open-node b {
         margin-top: 5px;
-        font-size: 18px;
+        font-size: 15px;
         line-height: 1.02;
       }
 
       body[data-brand-mode="texuno"] .open-node--wide {
         grid-template-columns: minmax(0, 1fr) auto;
         gap: 10px;
-        min-height: 96px;
+        min-height: 78px;
         padding-bottom: 22px;
       }
 
@@ -5247,16 +5248,19 @@
         scrollTicking = false;
         if (prefersReducedMotion) return;
 
-        const heroHeight = hero.offsetHeight || 1;
-        const heroProgress = Math.min(Math.max(window.scrollY / Math.max(heroHeight * 0.78, 1), 0), 1);
-        const surprise = heroProgress < 0.2 ? 0 : Math.pow((heroProgress - 0.2) / 0.8, 1.8);
         const isTexuno = document.body.dataset.brandMode === "texuno";
+        const heroHeight = hero.offsetHeight || 1;
+        const heroRange = isTexuno ? window.innerHeight * 4 : Math.max(heroHeight * 0.78, 1);
+        const heroProgress = Math.min(Math.max(window.scrollY / Math.max(heroRange, 1), 0), 1);
+        const surprise = heroProgress < 0.2 ? 0 : Math.pow((heroProgress - 0.2) / 0.8, 1.8);
         const openStart = isTexuno ? 0.22 : 0.02;
         const openSpan = isTexuno ? 0.34 : 0.38;
         const openProgress = Math.min(Math.max((heroProgress - openStart) / openSpan, 0), 1);
+        const gateOpacity = Math.max(1 - openProgress * 1.28, 0);
         rootStyle.setProperty("--hero-zoom", (1 + surprise * 0.22).toFixed(3));
         rootStyle.setProperty("--hero-pan", `${(surprise * -22).toFixed(1)}px`);
         rootStyle.setProperty("--hero-open", openProgress.toFixed(3));
+        rootStyle.setProperty("--hero-gate-opacity", gateOpacity.toFixed(3));
 
         const storyRect = storyScroll.getBoundingClientRect();
         const storyRange = Math.max(storyRect.height - window.innerHeight, 1);

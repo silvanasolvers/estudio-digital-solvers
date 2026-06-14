@@ -4,9 +4,10 @@
 
 - [x] Verificar chat ID y permisos de Valentina.
 - [x] Reproducir el problema del scroll que no deja leer completo el hook.
-- [x] Ajustar banner para que el texto respire, se lea completo y la apertura sea progresiva.
+- [x] Ajustar compuertas para que la apertura no corte textos.
+- [x] Mover el diagnostico hacia abajo para que no entre apenas termina la apertura.
 - [x] Verificar responsive movil/desktop sin overflow ni capas montadas.
-- [x] Publicar en GitHub/Dokploy y validar produccion.
+- [ ] Publicar en GitHub/Dokploy y validar produccion.
 - [ ] Enviar link actualizado a Valentina.
 
 ### Criterios
