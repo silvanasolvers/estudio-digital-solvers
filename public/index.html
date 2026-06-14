@@ -1492,7 +1492,8 @@
     }
 
     body[data-theme="maker"][data-brand-mode="fashion"] .hero {
-      min-height: 106vh;
+      min-height: auto;
+      padding-top: clamp(104px, 11vh, 132px);
       background:
         linear-gradient(100deg, rgba(37, 27, 26, 0.98) 0%, rgba(49, 37, 35, 0.88) 48%, rgba(234, 182, 166, 0.2) 100%),
         radial-gradient(circle at 80% 22%, rgba(234, 182, 166, 0.34), transparent 24rem),
@@ -1500,8 +1501,129 @@
         var(--brand-dark);
     }
 
-    body[data-brand-mode="fashion"] .leather-hero-scene {
+    body[data-brand-mode="fashion"] .mobile-hero-banner {
       display: block;
+      position: relative;
+      z-index: 2;
+      width: min(1180px, 100%);
+      min-height: clamp(360px, 38vw, 520px);
+      margin: 0 auto clamp(30px, 4vw, 58px);
+      padding: clamp(18px, 3vw, 34px);
+      border: 1px solid rgba(255, 238, 229, 0.3);
+      border-radius: 8px 36px 8px 36px;
+      overflow: hidden;
+      background-image:
+        linear-gradient(90deg, rgba(37, 27, 26, 0.9) 0%, rgba(37, 27, 26, 0.64) 34%, rgba(37, 27, 26, 0.08) 70%),
+        linear-gradient(180deg, rgba(37, 27, 26, 0.04), rgba(37, 27, 26, 0.26)),
+        var(--hero-image);
+      background-size: cover;
+      background-position: center 38%;
+      box-shadow:
+        0 34px 90px rgba(16, 11, 10, 0.4),
+        inset 0 0 0 1px rgba(255, 255, 255, 0.12);
+    }
+
+    body[data-brand-mode="fashion"] .mobile-hero-banner::after {
+      content: "";
+      position: absolute;
+      inset: 14px;
+      border: 1px solid rgba(255, 238, 229, 0.17);
+      border-radius: 4px 28px 4px 28px;
+      pointer-events: none;
+    }
+
+    body[data-brand-mode="fashion"] .banner-hook {
+      position: relative;
+      z-index: 2;
+      display: grid;
+      gap: 16px;
+      width: min(500px, 100%);
+      padding: clamp(18px, 2.6vw, 28px);
+      border: 1px solid rgba(255, 238, 229, 0.3);
+      border-left: 3px solid var(--accent);
+      border-radius: 4px 26px 4px 26px;
+      background:
+        linear-gradient(145deg, rgba(255, 246, 241, 0.14), rgba(234, 182, 166, 0.1)),
+        rgba(37, 27, 26, 0.8);
+      box-shadow: 0 26px 70px rgba(16, 11, 10, 0.34);
+      backdrop-filter: blur(18px);
+    }
+
+    body[data-brand-mode="fashion"] .banner-hook-brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    body[data-brand-mode="fashion"] .banner-hook-brand img {
+      width: 58px;
+      height: 58px;
+      border: 1px solid rgba(255, 238, 229, 0.4);
+      border-radius: 999px;
+      background: #fff9f5;
+      object-fit: contain;
+      padding: 6px;
+    }
+
+    body[data-brand-mode="fashion"] .banner-hook-brand span,
+    body[data-brand-mode="fashion"] .banner-hook-brand b {
+      display: block;
+    }
+
+    body[data-brand-mode="fashion"] .banner-hook-brand span {
+      color: #f6d6cb;
+      font-size: 12px;
+      font-weight: 950;
+      text-transform: uppercase;
+    }
+
+    body[data-brand-mode="fashion"] .banner-hook-brand b {
+      margin-top: 3px;
+      color: #fff9f5;
+      font-size: 18px;
+      line-height: 1;
+    }
+
+    body[data-brand-mode="fashion"] .banner-hook strong {
+      max-width: 10ch;
+      color: #fff9f5;
+      font-family: "Archivo Black", Impact, sans-serif;
+      font-size: clamp(36px, 4.4vw, 68px);
+      line-height: 0.88;
+      text-transform: uppercase;
+    }
+
+    body[data-brand-mode="fashion"] .banner-hook p {
+      max-width: 440px;
+      margin: 0;
+      color: #f4e6de;
+      font-size: clamp(15px, 1.35vw, 18px);
+      font-weight: 750;
+      line-height: 1.35;
+    }
+
+    body[data-brand-mode="fashion"] .banner-proof {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    body[data-brand-mode="fashion"] .banner-proof span {
+      min-height: 34px;
+      display: inline-flex;
+      align-items: center;
+      border: 1px solid rgba(234, 182, 166, 0.42);
+      border-radius: 999px;
+      padding: 0 12px;
+      background: rgba(234, 182, 166, 0.14);
+      color: #fff6ef;
+      font-size: 12px;
+      font-weight: 950;
+      text-transform: uppercase;
+    }
+
+    body[data-brand-mode="fashion"] .leather-hero-scene {
+      display: none;
       position: absolute;
       top: clamp(150px, 20vh, 210px);
       right: clamp(-70px, 5vw, 90px);
@@ -1625,9 +1747,9 @@
     }
 
     body[data-theme="maker"][data-brand-mode="fashion"] .hero-grid {
-      width: min(1360px, 100%);
-      grid-template-columns: minmax(0, 0.92fr) minmax(420px, 0.56fr);
-      gap: clamp(36px, 5vw, 86px);
+      width: min(1180px, 100%);
+      grid-template-columns: minmax(0, 0.96fr) minmax(360px, 0.64fr);
+      gap: clamp(28px, 4vw, 58px);
       align-items: center;
     }
 
@@ -1686,6 +1808,10 @@
 
     body[data-brand-mode="fashion"] .client-mark {
       display: flex;
+    }
+
+    body[data-brand-mode="fashion"] .hero-pulse {
+      display: none;
     }
 
     body[data-theme="maker"][data-brand-mode="mystic"] {
