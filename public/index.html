@@ -2921,6 +2921,226 @@
       font-weight: 950;
     }
 
+    .bot-lab {
+      display: grid;
+      grid-template-columns: minmax(300px, 0.86fr) minmax(320px, 0.72fr);
+      gap: 22px;
+      align-items: stretch;
+    }
+
+    .bot-console {
+      display: grid;
+      grid-template-rows: auto 1fr auto;
+      min-height: 560px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background:
+        linear-gradient(160deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.035)),
+        rgba(255, 255, 255, 0.045);
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+
+    .bot-console-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 16px;
+      border-bottom: 1px solid var(--line);
+      background: rgba(255, 255, 255, 0.045);
+    }
+
+    .bot-agent {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      min-width: 0;
+    }
+
+    .bot-avatar {
+      width: 42px;
+      height: 42px;
+      display: grid;
+      place-items: center;
+      border: 1px solid color-mix(in srgb, var(--accent) 64%, rgba(255, 255, 255, 0.2));
+      border-radius: 50%;
+      background: var(--accent);
+      color: #08100c;
+      font-weight: 950;
+    }
+
+    .bot-agent b,
+    .bot-agent span {
+      display: block;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .bot-agent b {
+      color: #fff;
+      font-size: 15px;
+      line-height: 1.1;
+    }
+
+    .bot-agent span {
+      margin-top: 3px;
+      color: #bcc3bc;
+      font-size: 12px;
+      font-weight: 800;
+    }
+
+    .bot-status {
+      flex: 0 0 auto;
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      color: var(--accent);
+      font-size: 11px;
+      font-weight: 950;
+      text-transform: uppercase;
+    }
+
+    .bot-status::before {
+      content: "";
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--accent);
+      box-shadow: 0 0 16px color-mix(in srgb, var(--accent) 76%, transparent);
+    }
+
+    .bot-messages {
+      display: grid;
+      align-content: start;
+      gap: 10px;
+      min-height: 300px;
+      max-height: 430px;
+      padding: 18px;
+      overflow: auto;
+    }
+
+    .bot-message {
+      max-width: 86%;
+      padding: 12px 14px;
+      border-radius: 8px;
+      color: #111314;
+      background: #fffaf0;
+      font-size: 14px;
+      font-weight: 700;
+    }
+
+    .bot-message.user {
+      justify-self: end;
+      color: #07100c;
+      background: var(--accent);
+    }
+
+    .bot-message.bot {
+      justify-self: start;
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      color: #eef2ea;
+      background: rgba(255, 255, 255, 0.08);
+    }
+
+    .bot-message small {
+      display: block;
+      margin-bottom: 5px;
+      color: var(--accent);
+      font-size: 10px;
+      font-weight: 950;
+      text-transform: uppercase;
+    }
+
+    .bot-form {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 10px;
+      padding: 16px;
+      border-top: 1px solid var(--line);
+      background: rgba(0, 0, 0, 0.16);
+    }
+
+    .bot-form input {
+      width: 100%;
+      min-height: 46px;
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      border-radius: 8px;
+      padding: 0 13px;
+      color: #fff;
+      background: rgba(255, 255, 255, 0.07);
+      outline: none;
+    }
+
+    .bot-form input:focus {
+      border-color: color-mix(in srgb, var(--accent) 70%, white 10%);
+      box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 16%, transparent);
+    }
+
+    .bot-form button {
+      min-height: 46px;
+      border: 0;
+      border-radius: 8px;
+      padding: 0 16px;
+      color: #07100c;
+      background: var(--accent);
+      font-weight: 950;
+      cursor: pointer;
+    }
+
+    .bot-brief {
+      display: grid;
+      align-content: start;
+      gap: 14px;
+    }
+
+    .bot-brief-card {
+      min-height: 132px;
+      padding: 18px;
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background: rgba(255, 255, 255, 0.055);
+    }
+
+    .bot-brief-card span {
+      color: var(--accent);
+      font-size: 11px;
+      font-weight: 950;
+      text-transform: uppercase;
+    }
+
+    .bot-brief-card b {
+      display: block;
+      margin-top: 8px;
+      color: #fff;
+      font-size: 22px;
+      line-height: 1;
+    }
+
+    .bot-brief-card p {
+      margin: 10px 0 0;
+      color: #c9cdc5;
+      font-weight: 650;
+    }
+
+    .bot-prompts {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .bot-prompts button {
+      border: 1px solid color-mix(in srgb, var(--accent) 45%, rgba(255, 255, 255, 0.12));
+      border-radius: 999px;
+      padding: 9px 12px;
+      color: #fff;
+      background: rgba(255, 255, 255, 0.065);
+      font-size: 12px;
+      font-weight: 900;
+      cursor: pointer;
+    }
+
     .internal-panel {
       position: fixed;
       right: 18px;
@@ -3101,6 +3321,7 @@
       .brand-world-layout,
       .split,
       .heatmap-grid,
+      .bot-lab,
       .offer {
         grid-template-columns: 1fr;
       }
@@ -3923,6 +4144,47 @@
         </div>
       </section>
 
+      <section class="black-band" id="bot">
+        <div class="wrap">
+          <div class="section-kicker">
+            <h2 data-field="botTitle">Bot de preguntas listo para vender</h2>
+            <p data-field="botIntro">El mini-estudio no se queda en diagnóstico: muestra una primera capa conversacional para responder dudas, explicar la solución y capturar intención.</p>
+          </div>
+          <div class="bot-lab">
+            <div class="bot-console" aria-label="Demo del bot Solvers">
+              <div class="bot-console-head">
+                <div class="bot-agent">
+                  <div class="bot-avatar">S</div>
+                  <span>
+                    <b data-field="botAgentName">Asesor Solvers</b>
+                    <span data-field="botAgentRole">Responde sobre ventas, pauta y automatización</span>
+                  </span>
+                </div>
+                <span class="bot-status">Activo</span>
+              </div>
+              <div class="bot-messages" id="botMessages" aria-live="polite"></div>
+              <form class="bot-form" id="botForm">
+                <input id="botInput" type="text" autocomplete="off" placeholder="Pregúntale algo al estudio">
+                <button type="submit">Enviar</button>
+              </form>
+            </div>
+            <aside class="bot-brief">
+              <article class="bot-brief-card">
+                <span>Qué demuestra</span>
+                <b data-field="botDemoTitle">Respuesta inmediata</b>
+                <p data-field="botDemoBody">El cliente entiende cómo un agente podría responder preguntas repetidas, explicar la oferta y pasar a WhatsApp con contexto.</p>
+              </article>
+              <article class="bot-brief-card">
+                <span>Entrenamiento inicial</span>
+                <b data-field="botTrainingTitle">Preguntas reales del negocio</b>
+                <p data-field="botTrainingBody">Tallas, disponibilidad, envíos, cambios, pagos, catálogo, pedidos, mayoristas y recuperación de interesados.</p>
+              </article>
+              <div class="bot-prompts" id="botPrompts" aria-label="Preguntas sugeridas"></div>
+            </aside>
+          </div>
+        </div>
+      </section>
+
       <section class="section-light">
         <div class="wrap">
           <div class="section-kicker">
@@ -4012,6 +4274,10 @@
       const experienceCollage = document.querySelector("#experienceCollage");
       const brandWorldLayout = document.querySelector(".brand-world-layout");
       const deliverableList = document.querySelector("#deliverableList");
+      const botMessages = document.querySelector("#botMessages");
+      const botForm = document.querySelector("#botForm");
+      const botInput = document.querySelector("#botInput");
+      const botPrompts = document.querySelector("#botPrompts");
       const editor = document.querySelector("#quickEditor");
       const internalPanel = document.querySelector("#internalPanel");
       const demoSwitcher = document.querySelector("#demoSwitcher");
@@ -4054,8 +4320,34 @@
         scrollTitle: "El recorrido que debe quedar claro",
         diagnosisTitle: "Lo que se está perdiendo hoy",
         scrollIntro: "El estudio ordena el camino desde la primera impresión hasta la conversación comercial, para que el negocio entienda qué se mejora y por qué importa.",
-        experienceIntro: "Cuando la marca ya tiene deseo visual, el mini-estudio debe mostrar cómo convertir esa emoción en una ruta concreta de decisión."
+        experienceIntro: "Cuando la marca ya tiene deseo visual, el mini-estudio debe mostrar cómo convertir esa emoción en una ruta concreta de decisión.",
+        botTitle: "Bot de preguntas listo para vender",
+        botIntro: "El mini-estudio no se queda en diagnóstico: muestra una primera capa conversacional para responder dudas, explicar la solución y capturar intención.",
+        botAgentName: "Asesor Solvers",
+        botAgentRole: "Responde sobre ventas, pauta y automatización",
+        botDemoTitle: "Respuesta inmediata",
+        botDemoBody: "El cliente entiende cómo un agente podría responder preguntas repetidas, explicar la oferta y pasar a WhatsApp con contexto.",
+        botTrainingTitle: "Preguntas reales del negocio",
+        botTrainingBody: "Tallas, disponibilidad, envíos, cambios, pagos, catálogo, pedidos, mayoristas y recuperación de interesados."
       };
+      const defaultChatAnswers = [
+        {
+          keywords: ["precio", "cuanto", "cuánto", "valor", "costo"],
+          answer: "La inversión se define después de validar volumen de mensajes, canales, catálogo y nivel de integración. La primera etapa suele enfocarse en una versión útil: preguntas frecuentes, captura de intención y paso a WhatsApp con contexto."
+        },
+        {
+          keywords: ["whatsapp", "mensaje", "responder", "atencion", "atención"],
+          answer: "El agente funciona como primer filtro: entiende qué necesita la persona, responde dudas repetidas, pide datos clave y deja la conversación lista para cierre humano cuando hace falta."
+        },
+        {
+          keywords: ["pauta", "meta", "instagram", "campaña", "campana"],
+          answer: "La pauta debe llevar a una ruta medible, no solo a más DMs. Medimos clics, preguntas, productos de interés y conversaciones para saber qué anuncio trae intención real."
+        },
+        {
+          keywords: ["datos", "medir", "mapa", "calor", "analytics"],
+          answer: "El sistema puede mostrar qué secciones reciben clics, dónde se abandona, qué producto genera más preguntas y qué conversación merece seguimiento."
+        }
+      ];
       const defaultDiagnosisTiles = [
         {
           label: "Demanda",
@@ -4165,6 +4457,56 @@
         });
       }
 
+      function addBotMessage(type, body, label = "") {
+        if (!botMessages) return;
+        const message = document.createElement("div");
+        message.className = `bot-message ${type}`;
+        if (label) {
+          const small = document.createElement("small");
+          small.textContent = label;
+          message.appendChild(small);
+        }
+        const text = document.createElement("span");
+        text.textContent = body;
+        message.appendChild(text);
+        botMessages.appendChild(message);
+        botMessages.scrollTop = botMessages.scrollHeight;
+      }
+
+      function answerQuestion(question) {
+        const normalized = question.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+        const answers = state.current.chatAnswers || defaultChatAnswers;
+        const match = answers.find((item) => (item.keywords || []).some((keyword) => normalized.includes(keyword.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, ""))));
+        if (match) return match.answer;
+        const company = state.current.company || "la empresa";
+        return `Para ${company}, lo importante es convertir esa pregunta en dato comercial: qué producto o servicio interesa, qué objeción apareció y cuál es el siguiente paso. El agente responde la duda, captura contexto y deja la conversación lista para cierre o seguimiento.`;
+      }
+
+      function renderBot() {
+        if (!botMessages || !botPrompts) return;
+        botMessages.innerHTML = "";
+        const company = state.current.company || "tu empresa";
+        const opening = state.current.botOpening || `Hola, soy el bot demo de Solvers para ${company}. Pregúntame por atención, pauta, WhatsApp, datos o seguimiento.`;
+        addBotMessage("bot", opening, "Demo Solvers");
+
+        botPrompts.innerHTML = "";
+        const prompts = state.current.botPrompts || [
+          "¿Cómo responde WhatsApp?",
+          "¿Qué datos mide?",
+          "¿Cómo ayuda a vender?"
+        ];
+        prompts.slice(0, 6).forEach((prompt) => {
+          const button = document.createElement("button");
+          button.type = "button";
+          button.textContent = prompt;
+          button.addEventListener("click", () => {
+            addBotMessage("user", prompt);
+            window.setTimeout(() => addBotMessage("bot", answerQuestion(prompt), "Respuesta"), 180);
+          });
+          botPrompts.appendChild(button);
+        });
+      }
+
       function renderJourney(items) {
         journeySteps.innerHTML = "";
         items.forEach((item, index) => {
@@ -4270,6 +4612,7 @@
         renderExperiencePath(state.current.experiencePath || []);
         renderExperienceCollage(state.current.galleryImages || []);
         renderDeliverables(state.current.deliverables || []);
+        renderBot();
         setEditor(state.current);
         bindReveal();
       }
@@ -4296,6 +4639,18 @@
             if (element.name) next[element.name] = element.value;
           });
           paint(next);
+        });
+      }
+
+      function bindBot() {
+        if (!botForm || !botInput) return;
+        botForm.addEventListener("submit", (event) => {
+          event.preventDefault();
+          const question = botInput.value.trim();
+          if (!question) return;
+          botInput.value = "";
+          addBotMessage("user", question);
+          window.setTimeout(() => addBotMessage("bot", answerQuestion(question), "Respuesta"), 220);
         });
       }
 
@@ -4435,6 +4790,7 @@
         paint(prospect);
         loadSwitcher(state.data.prospects);
         bindEditor();
+        bindBot();
         bootCanvas();
         bindScrollMotion();
         finishLoader();

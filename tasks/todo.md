@@ -1,5 +1,14 @@
 # Estudio Digital Solvers
 
+## Texuno Multimarca mini-estudio + bot
+
+- [x] Investigar señales públicas de Instagram, ecommerce y canales visibles.
+- [x] Agregar prospecto `texuno-multimarca` con diagnóstico profundo.
+- [x] Crear experiencia de bot demo dentro del mini-estudio para preguntas del cliente.
+- [x] Verificar JSON, contenido, responsive y bot localmente.
+- [ ] Commit/push, desplegar en Dokploy y verificar producción.
+- [ ] Enviar link limpio y mensaje sugerido a Valentina.
+
 - [x] Definir modelo de landing reutilizable por empresa.
 - [x] Crear estructura de proyecto desplegable en Dokploy.
 - [x] Construir plantilla visual premium.

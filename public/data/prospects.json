@@ -1344,6 +1344,185 @@
       ]
     },
     {
+      "slug": "texuno-multimarca",
+      "company": "Texuno Multimarca",
+      "sector": "moda femenina, ecommerce y mayoristas",
+      "city": "Colombia",
+      "tone": "comercial, masivo, directo y de alta rotación",
+      "theme": "maker",
+      "brandMode": "fashion",
+      "accent": "#E43030",
+      "secondary": "#FFD447",
+      "brandDark": "#070707",
+      "paper": "#F4F1EA",
+      "paperCard": "#FFFDF7",
+      "brandWash": "rgba(228, 48, 48, 0.16)",
+      "brandWash2": "rgba(255, 212, 71, 0.14)",
+      "logoImage": "https://texunomultimarca.com/logo.png",
+      "heroImage": "https://texunomultimarca.com/og-image.png",
+      "heroCopy": "Texuno ya tiene lo que muchas marcas quieren: comunidad grande, ecommerce propio, precios agresivos, categorías claras y producto nuevo cada semana. El dolor no es visibilidad; es que tanta demanda puede volverse ruido si las preguntas por talla, color, disponibilidad, envío, cambios, mayoristas, carrito y WhatsApp no quedan guiadas, medidas y recuperadas.",
+      "alertLabel": "Oportunidad de escala",
+      "statusLabel": "Diagnóstico comercial",
+      "status": "Ecommerce activo + comunidad grande, pero demasiada intención puede quedarse sin seguimiento inteligente",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Moda femenina de alta rotación, precios bajos, descuentos, nuevas colecciones y compra nacional",
+      "visualCueLabel": "Dolor",
+      "visualCue": "Muchas referencias, tallas, colores, ofertas y canales crean dudas repetidas justo antes de comprar",
+      "conversionFocusLabel": "Solución",
+      "conversionFocus": "Asesor comercial 24/7 + recuperación de carrito/favoritos + data por producto, talla y color",
+      "loaderLabel": "Analizando ecommerce",
+      "loaderTitle": "Texuno en modo venta",
+      "loaderSubtitle": "Leyendo catálogo, comunidad, ofertas y fricciones antes de mostrar el diagnóstico.",
+      "loaderCue1": "Catálogo rotativo",
+      "loaderCue2": "Mayoristas + retail",
+      "heroStampTitle": "Moda semanal",
+      "heroStampSubtitle": "Compra guiada",
+      "bannerKicker": "Hook Solvers",
+      "bannerHook": "El problema no es vender barato; es no perder intención cuando el carrito duda",
+      "bannerSubhook": "Cada talla, color, oferta y pregunta por WhatsApp puede ser una venta o una fuga si no queda respondida y seguida.",
+      "bannerBadge1": "152K seguidores",
+      "bannerBadge2": "Ecommerce activo",
+      "brandWorldTitle": "Texuno ya atrae demanda; ahora debe ordenarla para vender más",
+      "scrollTitle": "Del reel al carrito sin perder a la compradora",
+      "diagnosisTitle": "Dónde se fuga intención en Texuno",
+      "leadProblem": "El perfil público de Instagram muestra una marca grande: 152K seguidores, 723 publicaciones, 162 seguidos, enfoque de ropa de mujer/mayoristas, fabricantes, nuevas prendas todas las semanas y envíos nacionales. La web propia suma carrito, favoritos, cuenta, búsqueda, categorías, súper ofertas, top trends, envío gratis desde $200.000, pago seguro, devoluciones hasta 15 días y soporte por WhatsApp. El reto ya no es existir digitalmente: es que cada visita encuentre rápido la prenda correcta, entienda talla/color/precio/envío, no abandone el carrito y reciba seguimiento sin saturar al equipo.",
+      "opportunity": "La jugada para Texuno es conectar ecommerce, Instagram y WhatsApp con un asesor comercial entrenado en catálogo, tallas, colores, disponibilidad, políticas, pedidos, mayoristas, envíos y cambios. Así la compradora no queda sola en la búsqueda, el equipo no responde lo mismo todo el día y la marca obtiene data accionable: qué producto miraron, qué talla faltó, qué pregunta frenó la compra y qué carrito merece recuperación.",
+      "proofLine": "Lectura preliminar basada en Instagram público @texunomultimarca consultado el 14 de junio de 2026, snippets públicos de reels/publicaciones, Facebook público de Tex-uno Multimarca y revisión de texunomultimarca.com. Se valida con Analytics, Meta, ecommerce, inventario y WhatsApp reales antes de ejecutar.",
+      "audience": "Compradoras de moda femenina en Colombia, clientas que buscan precios bajos, seguidoras de Instagram, visitantes del ecommerce, compradoras por WhatsApp y potenciales mayoristas.",
+      "adAngle": "Moda nueva cada semana + precios bajos + asesoría inmediata por talla, color y disponibilidad",
+      "whatsappCta": "Quiero convertir catálogo y WhatsApp en más ventas",
+      "scrollIntro": "El estudio muestra que Texuno no necesita otra vitrina genérica. Necesita una capa comercial encima del tráfico existente para que la compradora pase de mirar a comprar con menos dudas.",
+      "experienceIntro": "Texuno se mueve como retail de volumen: colecciones rápidas, ofertas, categorías, top trends y compra por impulso. La automatización debe sentirse como una asesora de tienda que guía sin estorbar.",
+      "botTitle": "Bot Texuno: preguntas de compra respondidas al instante",
+      "botIntro": "Este demo muestra cómo un agente puede responder dudas sobre tallas, colores, envíos, cambios, mayoristas, carritos y productos, mientras captura intención comercial para seguimiento.",
+      "botAgentName": "Asesora Texuno demo",
+      "botAgentRole": "Tallas, carrito, envíos, mayoristas y seguimiento",
+      "botDemoTitle": "Menos dudas antes de pagar",
+      "botDemoBody": "La compradora puede preguntar por disponibilidad, talla, color, envío, cambio o pedido mayorista sin esperar a que el equipo responda manualmente cada caso.",
+      "botTrainingTitle": "Entrenado con ruta retail",
+      "botTrainingBody": "Catálogo, ofertas, top trends, políticas, favoritos, carrito, WhatsApp, pago, devoluciones, mayoristas y recuperación de intención.",
+      "botOpening": "Hola, soy la asesora demo de Texuno. Pregúntame cómo reducir mensajes repetidos, recuperar carritos, atender mayoristas o medir qué prendas generan más intención.",
+      "botPrompts": [
+        "¿Cómo recupera carritos abandonados?",
+        "¿Sirve para mayoristas?",
+        "¿Qué pasa si preguntan por talla y color?",
+        "¿Cómo ayuda a WhatsApp?",
+        "¿Qué datos deja para pauta?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["carrito", "abandonado", "favoritos", "recupera", "recuperar", "bolsa"],
+          "answer": "Para Texuno, el agente puede detectar intención: prenda vista, talla elegida, color, oferta o favorito guardado. Si la compradora no paga, se activa seguimiento con contexto: disponibilidad, envío, cambio, oferta vigente y link directo al producto."
+        },
+        {
+          "keywords": ["mayorista", "mayoristas", "por mayor", "cantidad", "docena"],
+          "answer": "Sí. El flujo separa compra retail de compra mayorista. Pregunta ciudad, tipo de prenda, cantidades, presupuesto, frecuencia de compra y canal de venta; luego entrega el lead ordenado para cierre comercial."
+        },
+        {
+          "keywords": ["talla", "tallas", "color", "colores", "disponibilidad", "stock"],
+          "answer": "El bot puede guiar por referencia, talla, color y disponibilidad. Si algo no está disponible, puede sugerir alternativas similares y guardar qué tallas o colores se pidieron para alimentar inventario y pauta."
+        },
+        {
+          "keywords": ["whatsapp", "mensaje", "responder", "atencion", "atención", "soporte"],
+          "answer": "WhatsApp deja de ser solo bandeja de entrada. El agente responde preguntas frecuentes, clasifica intención, pide datos mínimos y pasa al equipo las conversaciones que sí requieren cierre humano."
+        },
+        {
+          "keywords": ["pauta", "meta", "instagram", "anuncio", "campaña", "campana", "datos"],
+          "answer": "La pauta mejora porque ya no medimos solo clics. Medimos qué prenda preguntaron, qué talla buscaban, qué objeción apareció, qué anuncio trajo carritos y qué producto conviene empujar de nuevo."
+        },
+        {
+          "keywords": ["envio", "envío", "devolucion", "devolución", "cambio", "pago"],
+          "answer": "El agente responde condiciones de envío, pagos, cambios y devoluciones según la política real de Texuno. Eso baja fricción antes del pago y evita que el equipo repita la misma información todo el día."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "152K seguidores",
+          "body": "La comunidad ya existe. El reto es convertir esa atención en sesiones, carritos, WhatsApp y compras recuperables."
+        },
+        {
+          "label": "Catálogo",
+          "title": "Alta rotación semanal",
+          "body": "Nuevas prendas y descuentos mueven deseo, pero también disparan dudas por talla, color, precio y stock."
+        },
+        {
+          "label": "Canales",
+          "title": "Ecommerce + WhatsApp",
+          "body": "Hay tienda propia y soporte visible; la oportunidad está en hacer que ambos canales compartan contexto."
+        },
+        {
+          "label": "Solución",
+          "title": "Asesora 24/7",
+          "body": "Un bot comercial guía compra, filtra mayoristas, recupera carritos y deja data útil para pauta e inventario."
+        }
+      ],
+      "experiencePath": [
+        "Deseo: la compradora ve un reel, una oferta o un top trend y entra a mirar rápido",
+        "Fricción: debe elegir talla, color, referencia, envío, pago, cambio o preguntar por WhatsApp",
+        "Solución: el agente responde, sugiere alternativas y lleva de producto a carrito o conversación con contexto",
+        "Cierre: Texuno recupera carritos, identifica prendas calientes y separa clienta retail de comprador mayorista"
+      ],
+      "galleryImages": [
+        {
+          "src": "https://texunomultimarca.com/og-image.png",
+          "label": "Texuno ecommerce"
+        },
+        {
+          "src": "https://texunomultimarca.com/logo.png",
+          "label": "Identidad Texuno"
+        }
+      ],
+      "journey": [
+        {
+          "title": "Etapa 1: descubrimiento desde Instagram",
+          "body": "La comunidad de 152K seguidores y los reels de producto pueden generar tráfico constante, pero cada clic debe aterrizar en una ruta que ayude a elegir y comprar."
+        },
+        {
+          "title": "Etapa 2: decisión dentro del ecommerce",
+          "body": "La web ya tiene categorías, búsqueda, favoritos, bolsa, ofertas y top trends. La mejora es reducir duda antes del pago: talla, color, envío, cambios, precio y disponibilidad."
+        },
+        {
+          "title": "Etapa 3: WhatsApp con contexto",
+          "body": "Cuando la compradora escribe, el equipo no debería empezar desde cero. El agente debe saber qué miró, qué quiere, qué objeción tiene y si es retail o mayorista."
+        },
+        {
+          "title": "Etapa 4: recuperación y aprendizaje",
+          "body": "Cada carrito, favorito, producto visto o pregunta sin compra alimenta remarketing, inventario, campañas por colección y seguimiento comercial."
+        }
+      ],
+      "findings": [
+        "Texuno ya opera con músculo digital real: Instagram grande, ecommerce propio, catálogo amplio, descuentos, top trends, cuenta, favoritos, carrito y compra nacional.",
+        "La promesa de valor es clara y masiva: moda femenina, precios bajos, nuevas colecciones cada semana, envíos a toda Colombia y soporte por WhatsApp.",
+        "El riesgo comercial aparece por volumen: cuando hay muchas referencias, descuentos, tallas, colores y compradores mayoristas, la atención manual puede volverse cuello de botella."
+      ],
+      "siteIssues": [
+        "La tienda muestra muchas opciones y ofertas; eso vende, pero también puede generar parálisis si la compradora no encuentra rápido qué talla, color o referencia le conviene.",
+        "El soporte por WhatsApp está visible, pero si no está conectado al producto visto, carrito, favorito o intención de mayorista, la conversación llega sin contexto y se vuelve repetitiva.",
+        "La ruta retail y la ruta mayorista parecen convivir en el mismo universo. Sin clasificación automática, un lead de alto volumen puede perderse entre preguntas comunes de compra individual."
+      ],
+      "losses": [
+        "Carritos y favoritos pueden quedarse sin seguimiento aunque la persona ya haya demostrado intención clara de compra.",
+        "El equipo puede gastar demasiado tiempo respondiendo dudas repetidas sobre talla, color, envío, pago, cambios, disponibilidad y promociones.",
+        "Sin mapa de calor y eventos bien definidos, Texuno puede saber cuánto vendió, pero no necesariamente qué parte del catálogo está generando deseo sin cierre."
+      ],
+      "heatmapData": [
+        "Interés por producto, talla y color. Medir qué referencias, colores y tallas reciben clics, favoritos, preguntas y carritos aunque no terminen en compra.",
+        "Fricción antes del pago. Detectar abandono en talla, color, envío gratis, cambios, medios de pago, WhatsApp, favoritos o bolsa.",
+        "Data para pauta e inventario. Usar intención real para decidir qué prendas empujar, qué tallas reponer, qué ofertas recuperar y qué mensajes usar por colección."
+      ],
+      "campaigns": [
+        "Campaña por colección/top trends: reels y anuncios llevan a productos con asesoría automática por talla, color, envío y alternativa si no hay stock.",
+        "Recuperación de carritos/favoritos: seguimiento por producto visto, oferta vigente, envío gratis desde $200.000, cambios y link directo a compra.",
+        "Ruta mayorista: anuncios y mensajes separados para compradores por volumen, con filtro de ciudad, categoría, cantidad, presupuesto y frecuencia."
+      ],
+      "deliverables": [
+        "Agente comercial Texuno conectado a ecommerce y WhatsApp para responder talla, color, disponibilidad, envío, pagos, cambios, ofertas, favoritos, bolsa y compras mayoristas.",
+        "Mapa de calor + eventos de ecommerce para leer producto visto, clic en talla/color, favoritos, carrito, WhatsApp, abandono y pregunta frecuente.",
+        "Flujos de recuperación para carritos, favoritos, consultas sin compra y leads mayoristas, con mensajes por colección, precio, ciudad e intención."
+      ]
+    },
+    {
       "slug": "el-cielo-santa-elena",
       "company": "El Cielo Santa Elena",
       "sector": "glamping, cabañas y escapadas románticas",
