@@ -1152,6 +1152,142 @@
       ]
     },
     {
+      "slug": "azul-cielo",
+      "company": "Azul Cielo",
+      "sector": "accesorios con sentido, amuletos y regalos personalizados",
+      "city": "Medellín",
+      "tone": "delicado, místico, cercano y emocional",
+      "theme": "maker",
+      "brandMode": "mystic",
+      "accent": "#CAA95E",
+      "secondary": "#708B70",
+      "brandDark": "#1C1616",
+      "paper": "#F8F1E6",
+      "paperCard": "#FFFBF4",
+      "brandWash": "rgba(202, 169, 94, 0.22)",
+      "brandWash2": "rgba(112, 139, 112, 0.16)",
+      "logoImage": "/assets/azul-cielo-logo.jpg",
+      "heroImage": "/assets/azul-cielo-hero.jpg",
+      "heroCopy": "Azul Cielo ya tiene una comunidad enorme y un producto que no se compra solo por verse bonito: se compra por protección, regalo, intención, fe, energía, recuerdo o detalle especial. El reto es convertir esa emoción en una ruta clara para elegir amuleto, medalla, color, cantidad, empaque, mensaje y envío sin que la conversación se enfríe en WhatsApp.",
+      "alertLabel": "Oportunidad de ventas",
+      "statusLabel": "Diagnóstico comercial",
+      "status": "Comunidad masiva + producto emocional + venta concentrada en Instagram y WhatsApp",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Accesorios con sentido, magia y significado; amuletos, detalles, regalos, personalización y pedidos empresariales",
+      "visualCueLabel": "Dolor",
+      "visualCue": "La decisión depende de intención, santo, color, significado, cantidad, empaque, disponibilidad y envío",
+      "conversionFocusLabel": "Solución",
+      "conversionFocus": "Catálogo por intención + asesor 24/7 + recuperación por regalo, amuleto y pedido empresarial",
+      "loaderLabel": "Entrando a Azul Cielo",
+      "loaderTitle": "Azul Cielo",
+      "loaderSubtitle": "Leyendo amuletos, medallas, regalos, clientes felices, pedidos empresariales y ruta de WhatsApp.",
+      "loaderCue1": "Amuletos con sentido",
+      "loaderCue2": "Pedidos guiados",
+      "heroStampTitle": "Magia y significado",
+      "heroStampSubtitle": "Accesorios listos para regalar",
+      "brandWorldTitle": "La venta empieza cuando alguien encuentra un símbolo que siente suyo",
+      "scrollTitle": "Del amuleto guardado al pedido con intención, empaque y envío",
+      "diagnosisTitle": "Dónde se enfría una compra en Azul Cielo",
+      "leadProblem": "La captura muestra una marca con 2.926 publicaciones, 113 mil seguidores, bio clara de accesorios con sentido llenos de magia y significado, WhatsApp 3113319741, envíos nacionales y destacados como Amuleto, Empresariales, Al x mayor, Cliente feliz y Personaliza. Esa comunidad ya existe; la fuga probable aparece cuando una persona quiere comprar un amuleto o regalo, pero debe preguntar manualmente por significado, santo, color, disponibilidad, precio, cantidad, empaque, personalización y envío.",
+      "opportunity": "La jugada es convertir el perfil en una experiencia comercial por intención: protección, fe, regalo para mamá, detalle empresarial, amuleto para carro, San Benito, Guadalupe, mayoristas y personalizados. Un catálogo/landing con asesor 24/7 puede guiar la elección, capturar datos, resolver dudas repetidas, pasar el pedido completo a WhatsApp y medir qué símbolos, colores y ocasiones generan ventas reales.",
+      "proofLine": "Lectura preliminar basada en la captura enviada el 13 de junio de 2026 y búsqueda pública del perfil @_azulcielo_, donde aparece la bio 'Accesorios con sentido llenos de magia y significado', contacto 3113319741 y envíos nacionales. Se valida con inventario, precios, capacidad de personalización y métricas reales antes de ejecutar pauta.",
+      "audience": "Mujeres en Colombia que compran accesorios con significado, regalos emocionales, amuletos de protección, medallas religiosas, detalles para mamá, compras al por mayor y pedidos empresariales.",
+      "adAngle": "Un accesorio con intención + asesoría inmediata + regalo listo por WhatsApp",
+      "whatsappCta": "Quiero convertir más amuletos en pedidos",
+      "scrollIntro": "El estudio debe mostrarles que 113 mil seguidores pueden convertirse en ventas si cada pieza vista deja datos: intención, santo, color, cantidad, ocasión, ciudad, empaque y siguiente acción.",
+      "experienceIntro": "Azul Cielo no vende accesorios genéricos. Vende símbolos personales: protección, cariño, fe, energía, recuerdo y detalle. Por eso la automatización debe sentirse como una guía cálida, no como un formulario frío.",
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "113 mil seguidores",
+          "body": "La marca ya tiene atención, producto visual y una comunidad grande para activar ventas por regalo, amuleto y significado."
+        },
+        {
+          "label": "Dolor 01",
+          "title": "Catálogo emocional",
+          "body": "Instagram muestra piezas, pero no ordena por intención, santo, color, ocasión, empaque, cantidad o tipo de cliente."
+        },
+        {
+          "label": "Dolor 02",
+          "title": "WhatsApp manual",
+          "body": "Cada persona puede preguntar lo mismo antes de comprar: precio, significado, disponibilidad, envío, personalización y pago."
+        },
+        {
+          "label": "Solución",
+          "title": "Asesor de intención",
+          "body": "Un flujo guiado recomienda piezas según motivo, recoge datos y deja el pedido listo para cerrar por WhatsApp."
+        }
+      ],
+      "experiencePath": [
+        "Deseo: la persona ve un amuleto, una medalla o un detalle para regalo y conecta con su significado",
+        "Fricción: necesita saber precio, disponibilidad, color, santo, material, empaque, envío y personalización",
+        "Solución: el catálogo guía por intención, ocasión, destinatario, cantidad, ciudad y urgencia",
+        "Cierre: WhatsApp recibe una conversación con producto, significado, cantidad, empaque, datos de envío y siguiente acción"
+      ],
+      "galleryImages": [
+        {
+          "label": "Amuletos",
+          "src": "/assets/azul-cielo-hero.jpg"
+        },
+        {
+          "label": "Medallas",
+          "src": "/assets/azul-cielo-hero.jpg"
+        },
+        {
+          "label": "Regalos con sentido",
+          "src": "/assets/azul-cielo-hero.jpg"
+        }
+      ],
+      "journey": [
+        {
+          "title": "Etapa 1: conexión desde Instagram",
+          "body": "El feed ya despierta deseo con amuletos, medallas, santos, empaques y mensajes de significado. La mejora es que cada publicación lleve a una ruta por intención y no solo a un mensaje genérico."
+        },
+        {
+          "title": "Etapa 2: elección por significado",
+          "body": "Un accesorio de Azul Cielo se decide por motivo: protección, regalo, mamá, carro, San Benito, Guadalupe, arcángel, color, energía o pedido empresarial."
+        },
+        {
+          "title": "Etapa 3: asesoría automática con tono cálido",
+          "body": "El asesor 24/7 pregunta intención, destinatario, cantidad, color, ciudad, presupuesto, fecha y empaque. Recomienda opciones y pasa a WhatsApp con contexto listo."
+        },
+        {
+          "title": "Etapa 4: recompra, mayoristas y empresas",
+          "body": "Con datos de cada consulta se pueden activar campañas para fechas especiales, clientes felices, pedidos al por mayor, regalos corporativos y personas que preguntaron pero no compraron."
+        }
+      ],
+      "findings": [
+        "La marca tiene una comunidad muy fuerte: 113 mil seguidores, 2.926 publicaciones y una bio con propuesta emocional clara: accesorios con sentido llenos de magia y significado.",
+        "El perfil ya empuja a WhatsApp y comunica envíos nacionales, pero no se ve una ruta propia que ordene amuletos, medallas, regalos, mayoristas, personalizados, significados y preguntas frecuentes.",
+        "Los destacados visibles muestran líneas comerciales importantes: Amuleto, Empresariales, Al x mayor, Cliente feliz y Personaliza. Esa estructura se puede convertir en embudo y campañas por intención."
+      ],
+      "siteIssues": [
+        "No se ve una landing o catálogo propio que organice productos por significado, santo, color, ocasión, precio, cantidad, empaque, personalización y envío.",
+        "Enviar todo a WhatsApp puede saturar al equipo con preguntas repetidas y pedidos incompletos, especialmente cuando hay regalos, mayoristas o empresas.",
+        "Sin pixel, eventos y mapa de calor, Azul Cielo no sabe qué amuletos generan más intención real, qué regalos se abandonan o qué pedidos empresariales deberían recuperarse."
+      ],
+      "losses": [
+        "Una persona puede guardar un amuleto y no comprar porque no encuentra rápido el significado, precio, disponibilidad, color, forma de entrega o empaque.",
+        "Pedidos de regalo pueden enfriarse si falta una guía rápida sobre destinatario, fecha, ciudad, mensaje, presentación y pago.",
+        "La línea empresarial y al por mayor puede perder oportunidades si no existe una ruta específica para cantidades, tiempos, personalización y contacto comercial."
+      ],
+      "heatmapData": [
+        "Clics por intención y símbolo. Saber si la demanda está en San Benito, Guadalupe, arcángeles, protección, mamá, carro, regalos, personalizados, mayoristas o empresas.",
+        "Fricción del pedido. Detectar abandono antes de precio, disponibilidad, color, cantidad, empaque, personalización, envío nacional o botón de WhatsApp.",
+        "Data para pauta y producción. Usar consultas reales para decidir qué amuletos producir, qué mensajes pautar, qué fechas activar y qué clientes recuperar."
+      ],
+      "campaigns": [
+        "Campañas por intención: protección, fe, regalo para mamá, detalles de agradecimiento, amuletos para carro, San Benito, Guadalupe y personalizados.",
+        "Campañas para pedidos empresariales y al por mayor con ruta específica de cantidad, tiempos, empaque, personalización y asesor comercial.",
+        "Remarketing a quienes vieron productos, tocaron WhatsApp o guardaron contenido, con seguimiento por amuleto, fecha, regalo y ciudad."
+      ],
+      "deliverables": [
+        "Landing/catálogo Azul Cielo con amuletos por intención, significados, medallas, regalos, personalizados, mayoristas, empresas, envíos, pagos y CTA a WhatsApp.",
+        "Asesor comercial 24/7 entrenado con tono cálido para recomendar piezas, filtrar intención/cantidad/ciudad/empaque y pasar pedidos completos al equipo.",
+        "Pixel + eventos + mapa de calor + panel comercial para medir amuleto visto, pedido iniciado, WhatsApp, abandono, pedido empresarial y recompra."
+      ]
+    },
+    {
       "slug": "janethy-fiestas",
       "company": "Janethy Fiestas",
       "sector": "vestidos de fiesta, alquiler y moda femenina",
