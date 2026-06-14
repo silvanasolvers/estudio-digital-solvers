@@ -2084,9 +2084,10 @@
     }
 
     body[data-theme="maker"][data-brand-mode="texuno"] .hero {
-      min-height: 275vh;
+      min-height: 360svh;
       padding-top: clamp(100px, 10vh, 126px);
       align-items: start;
+      overflow: visible;
       background:
         radial-gradient(circle at 18% 15%, rgba(228, 48, 48, 0.22), transparent 27rem),
         radial-gradient(circle at 88% 22%, rgba(255, 212, 71, 0.16), transparent 24rem),
@@ -2357,7 +2358,7 @@
       grid-template-columns: minmax(0, 0.95fr) minmax(340px, 0.62fr);
       gap: clamp(24px, 3.5vw, 50px);
       align-items: start;
-      margin-top: clamp(1180px, 220vh, 1900px);
+      margin-top: clamp(1480px, 270svh, 2360px);
     }
 
     body[data-brand-mode="texuno"] .desktop-hook-line {
@@ -3607,15 +3608,15 @@
       }
 
       body[data-theme="maker"][data-brand-mode="texuno"] .hero {
-        min-height: auto;
-        overflow: hidden;
+        min-height: 330svh;
+        overflow: visible;
       }
 
       body[data-brand-mode="texuno"] .mobile-hero-banner {
-        position: relative;
-        top: auto;
+        position: sticky;
+        top: 92px;
         grid-template-columns: 1fr;
-        min-height: auto;
+        min-height: min(610px, calc(100svh - 122px));
       }
 
       body[data-theme="maker"][data-brand-mode="texuno"] .hero-grid {
@@ -3623,7 +3624,7 @@
         grid-template-columns: 1fr;
         gap: 28px;
         align-items: start;
-        margin-top: 0;
+        margin-top: clamp(1120px, 255svh, 2000px);
       }
 
       body[data-brand-mode="mystic"] .leather-hero-scene {
@@ -3652,7 +3653,7 @@
 
     @media (min-width: 981px) and (max-width: 1180px) {
       body[data-theme="maker"][data-brand-mode="texuno"] .hero {
-        min-height: 275vh;
+        min-height: 360svh;
         overflow: visible;
       }
 
@@ -3667,7 +3668,7 @@
         width: min(1040px, 100%);
         grid-template-columns: minmax(0, 0.95fr) minmax(320px, 0.62fr);
         gap: 24px;
-        margin-top: clamp(1100px, 230vh, 1880px);
+        margin-top: clamp(1320px, 270svh, 2240px);
       }
     }
 
@@ -3724,12 +3725,12 @@
         width: 100%;
         grid-template-columns: 1fr;
         gap: 24px;
-        margin-top: 0;
+        margin-top: clamp(1080px, 255svh, 1960px);
       }
 
       body[data-brand-mode="texuno"] .mobile-hero-banner {
-        position: relative;
-        top: auto;
+        position: sticky;
+        top: 76px;
       }
 
       body[data-theme="maker"][data-brand-mode="mystic"] .hero-grid {
@@ -3938,8 +3939,9 @@
       }
 
       body[data-theme="maker"][data-brand-mode="texuno"] .hero {
-        min-height: auto;
+        min-height: 340svh;
         padding-top: 88px;
+        overflow: visible;
         background:
           radial-gradient(circle at 84% 18%, rgba(228, 48, 48, 0.22), transparent 18rem),
           linear-gradient(180deg, rgba(7, 7, 7, 0.96), rgba(30, 6, 6, 0.98)),
@@ -3949,7 +3951,7 @@
       body[data-brand-mode="texuno"] .mobile-hero-banner {
         grid-template-columns: 1fr;
         gap: 12px;
-        min-height: auto;
+        min-height: min(630px, calc(100svh - 98px));
         margin-bottom: 22px;
         padding: 14px;
       }
@@ -3988,7 +3990,7 @@
 
       body[data-brand-mode="texuno"] .banner-proof span {
         min-height: 30px;
-        font-size: 11px;
+        font-size: 12px;
       }
 
       body[data-brand-mode="texuno"] .solvers-open-system {
@@ -4041,7 +4043,7 @@
       }
 
       .bot-status {
-        font-size: 11px;
+        font-size: 12px;
       }
 
       .bot-form {
@@ -5248,11 +5250,9 @@
         const heroProgress = Math.min(Math.max(window.scrollY / Math.max(heroHeight * 0.78, 1), 0), 1);
         const surprise = heroProgress < 0.2 ? 0 : Math.pow((heroProgress - 0.2) / 0.8, 1.8);
         const isTexuno = document.body.dataset.brandMode === "texuno";
-        const openStart = isTexuno ? 0.12 : 0.02;
-        const openSpan = isTexuno ? 0.48 : 0.38;
-        const openProgress = isTexuno && window.innerWidth <= 980
-          ? 1
-          : Math.min(Math.max((heroProgress - openStart) / openSpan, 0), 1);
+        const openStart = isTexuno ? 0.22 : 0.02;
+        const openSpan = isTexuno ? 0.34 : 0.38;
+        const openProgress = Math.min(Math.max((heroProgress - openStart) / openSpan, 0), 1);
         rootStyle.setProperty("--hero-zoom", (1 + surprise * 0.22).toFixed(3));
         rootStyle.setProperty("--hero-pan", `${(surprise * -22).toFixed(1)}px`);
         rootStyle.setProperty("--hero-open", openProgress.toFixed(3));
