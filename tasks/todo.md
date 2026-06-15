@@ -1,5 +1,55 @@
 # Estudio Digital Solvers
 
+## Loft Concept Barranquilla mini-estudio
+
+- [x] Verificar chat ID y permisos de Valentina.
+- [x] Recuperar el prospecto 4 de la lista diaria: `@loft_conceptbq`.
+- [x] Investigar senales publicas de Instagram, web oficial y fuentes publicas.
+- [x] Descargar assets oficiales a rutas locales para evitar imagenes rotas.
+- [x] Agregar prospecto `loft-concept-barranquilla` con diagnostico personalizado y bot demo.
+- [x] Verificar local, DOM renderizado y assets.
+- [ ] Enviar link local a Valentina.
+- [ ] Publicar solo si Valentina confirma deploy.
+
+### Criterios
+
+- No inventar seguidores ni metricas de Instagram si no aparecen verificadas.
+- No inventar logo ni imagenes: usar solo assets oficiales de `loftconcept.com.co`.
+- El dolor debe centrarse en cotizaciones premium incompletas: espacio, medidas, estilo, presupuesto, fotos, cita, entrega y WhatsApp con contexto.
+
+### Revision
+
+- Datos usados: lista diaria del cron, Instagram/snippets publicos de `@loft_conceptbq`, web oficial `loftconcept.com.co`, Facebook y TodoServy.
+- Web verificada: catalogo/tienda, carrito de cotizacion, solicitud de cita, categorias sofas/sillas/poltronas/mesas/camas/consolas, sede principal Cra 62 #76-170 y showroom Cra 51b #79-118 Barranquilla.
+- Assets locales oficiales agregados: `/assets/loft-concept-logo.png`, `/assets/loft-concept-showroom.jpg`, `/assets/loft-concept-sofas.jpg`, `/assets/loft-concept-comedores.jpg`, `/assets/loft-concept-sillas.jpg`.
+- Verificacion local: `npm run check` OK con 24 prospectos; HTTP 200 en `/empresa/loft-concept-barranquilla`; JSON publico local contiene hook, bot, logo y hero; 5 assets Loft responden HTTP 200 con tipos correctos; Chromium `--dump-dom` confirma titulo, hook, logo, hero, collage y bot renderizados. Capturas no se guardaron por permisos del snap de Chromium y el navegador administrado bloquea `localhost`.
+
+## Maria Bonita Womenswear mini-estudio
+
+- [x] Verificar chat ID y permisos de Valentina.
+- [x] Investigar senales publicas de Instagram y ecommerce.
+- [x] Agregar prospecto `eres-maria-bonita` con diagnostico personalizado.
+- [x] Verificar contenido local, responsive y bot demo.
+- [x] Enviar captura a Valentina antes de publicar.
+- [x] Publicar con aprobacion de Valentina.
+
+### Criterios
+
+- No decir que les falta web: ya tienen ecommerce, carrito, wishlist, categorias, pagos y WhatsApp.
+- No inventar logo: usar solo isotipo/logo oficial verificado desde su web o dejar marca textual.
+- El dolor debe centrarse en talla, color, stock, mayoristas, carrito, envio y WhatsApp con contexto.
+
+### Revision
+
+- Datos usados: Instagram publico con 54K seguidores, 1.351 publicaciones, 50 seguidos, mas de 12 anos, fabricantes, Medellin Los Colores, WhatsApp 3104337572, web `eresmariabonita.com` y envios nacionales/internacionales.
+- Web verificada: WooCommerce con categorias, carrito, favoritos, filtros por color/precio, guia de tallas, mayoristas, WhatsApp, envios gratis desde COP $300.000 y direccion Calle 54 #77B-66.
+- Ajuste de marca: se uso logo horizontal oficial de su web porque el isotipo blanco oficial se perdia sobre fondo claro.
+- Verificacion local: `npm run check` OK con 23 prospectos; HTTP 200 en `/empresa/eres-maria-bonita`; CDP movil 393x852 y desktop 1440x900 sin overflow, logo cargado, hook visible, bot con 5 prompts y fuente minima 12px.
+- Publicacion: commit `807dc46` (`Add Maria Bonita digital study`) pusheado a `main`.
+- Produccion: `https://estudios-digitales.solversai.cloud/empresa/eres-maria-bonita` HTTP 200; JSON publico contiene el slug, hook, bot, logo oficial y badge `54K seguidores`; DOM renderizado contiene titulo, hook, bot y slug. Captura de produccion no se pudo guardar por permisos del snap de Chromium despues de dos intentos.
+- Correccion logo: Valentina reporto que en produccion salia imagen rota en el logo. Se bajo el PNG horizontal oficial desde la web de Maria Bonita a `/assets/maria-bonita-logo.png` y se cambio `logoImage` para servirlo desde nuestro dominio.
+- Correccion imagenes: Valentina reporto que las tarjetas visuales tambien salian rotas. Se bajaron las tres fotos oficiales a assets locales (`maria-bonita-talla-plus.jpg`, `maria-bonita-rotacion-prendas.jpg`, `maria-bonita-conjuntos-colores.jpg`) y se cambiaron `heroImage`/`galleryImages` para servirlas desde nuestro dominio.
+
 ## Casa Antonia ajuste bloque universo
 
 - [x] Verificar chat ID y permisos de Valentina.

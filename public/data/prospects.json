@@ -2880,6 +2880,229 @@
         "Flujos de recuperacion para carrito/favoritos/visitas a producto con mensajes por prenda, talla, color y ciudad.",
         "Pauta + pixel + mapa de calor + panel comercial para medir intencion por categoria, producto, talla, color, mayorista y conversacion."
       ]
+    },
+    {
+      "slug": "loft-concept-barranquilla",
+      "company": "Loft Concept Barranquilla",
+      "sector": "muebles de diseno, interiorismo 360 y cotizacion de espacios",
+      "city": "Barranquilla",
+      "tone": "premium, calido, visual y consultivo",
+      "theme": "maker",
+      "brandMode": "texuno",
+      "logoImage": "/assets/loft-concept-logo.png",
+      "heroImage": "/assets/loft-concept-showroom.jpg",
+      "accent": "#8B5E3C",
+      "accentRgb": "139, 94, 60",
+      "secondary": "#D8B98C",
+      "secondaryRgb": "216, 185, 140",
+      "brandDark": "#14100C",
+      "paper": "#F7EFE4",
+      "paperCard": "#FFF8EF",
+      "brandWash": "rgba(139, 94, 60, 0.22)",
+      "brandWash2": "rgba(216, 185, 140, 0.18)",
+      "heroCopy": "Loft Concept ya tiene una vitrina premium con sofas, sillas, poltronas, mesas, camas, consolas, carrito de cotizacion, tienda web, servicios de diseno de interiores 360 y dos showrooms en Barranquilla. El dolor no es falta de estilo; es que una cotizacion de alto valor puede llegar sin medidas, espacio, estilo, presupuesto, prioridad ni contexto para asesorar rapido.",
+      "alertLabel": "Oportunidad showroom",
+      "statusLabel": "Diagnostico comercial",
+      "status": "Marca con web, tienda, catalogo y showrooms activos, pero cada cotizacion necesita brief, medidas, estilo, espacio y presupuesto antes de llegar al asesor",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Muebles de diseno, piezas para sala/comedor/habitacion y servicio de interiorismo 360 con showrooms en Barranquilla",
+      "visualCueLabel": "Dolor",
+      "visualCue": "El cliente quiere renovar un espacio, pero pregunta por sofas, medidas, texturas, colores, entrega, precio y asesoria sin entregar un brief claro",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asesor 24/7 que convierte inspiracion en brief visual + cotizacion lista para WhatsApp",
+      "loaderLabel": "Preparando diagnostico interiorismo",
+      "loaderTitle": "Loft Concept bajo lupa",
+      "loaderSubtitle": "Leyendo catalogo, showrooms, servicios, cotizacion, productos y fricciones antes de mostrar el diagnostico.",
+      "loaderCue1": "Brief del espacio",
+      "loaderCue2": "Cotizacion filtrada",
+      "heroStampTitle": "Loft Concept",
+      "heroStampSubtitle": "Muebles + interiorismo",
+      "bannerKicker": "Hook Solvers",
+      "bannerHook": "El espacio enamora; la cotizacion llega incompleta",
+      "bannerSubhook": "Loft Concept vende piezas de alto valor y experiencias de diseno. El salto esta en transformar cada DM, clic o visita web en un brief claro: espacio, medidas, estilo, presupuesto, ciudad, urgencia y referencias antes de que el asesor responda.",
+      "bannerBadge1": "Web + showrooms",
+      "bannerBadge2": "Interiorismo 360",
+      "openNode1Label": "Espacio",
+      "openNode1Title": "Sala comedor habitacion",
+      "openNode2Label": "Brief",
+      "openNode2Title": "Medidas estilo presupuesto",
+      "openNode3Label": "Asesor",
+      "openNode3Title": "WhatsApp con contexto",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Convertir inspiracion de hogar en cotizacion guiada",
+      "scrollTitle": "Del mueble bonito al brief listo",
+      "diagnosisTitle": "Donde se enfria una cotizacion premium",
+      "leadProblem": "La busqueda publica muestra a @loft_conceptbq como Loft Concept | Muebles de diseno, con contenido de muebles, tapices, texturas, showrooms y diseno de interiores. Su web oficial loftconcept.com.co confirma ecommerce/catalogo con categorias como sofas, sillas pantry, poltronas, mesas de comedor, mesas de centro, auxiliares, consolas y camas; tambien muestra carrito/cotizacion, servicios, solicitud de cita, sede principal en Cra 62 #76-170 Barranquilla y showroom en Cra 51b #79-118 Barranquilla. Fuentes publicas como Facebook y TodoServy refuerzan que la marca diseña y personaliza espacios, construye mobiliario unico y tiene trayectoria en Barranquilla.",
+      "opportunity": "La oportunidad para Loft Concept es poner un asesor Solvers entre Instagram, web, showroom y WhatsApp: preguntar que espacio quiere intervenir, medidas, fotos, estilo, colores, materiales, presupuesto, ciudad, fecha objetivo y piezas de interes. Asi el equipo no recibe solo un 'precio?' o 'info', sino una cotizacion organizada que prioriza leads de alto valor.",
+      "proofLine": "Lectura preliminar basada en busqueda publica del 15 de junio de 2026 sobre Instagram @loft_conceptbq, web oficial loftconcept.com.co, snippets publicos de Instagram/Facebook y TodoServy: muebles de diseno en Barranquilla, interiorismo 360, catalogo web, carrito/cotizacion, categorias de sofas, sillas, poltronas, mesas, camas y consolas, sede principal Cra 62 #76-170 y showroom Cra 51b #79-118. Se valida con inventario, tiempos de entrega, politicas y pauta reales antes de ejecutar.",
+      "audience": "Personas que estan remodelando sala, comedor o habitacion; parejas comprando muebles para nuevo hogar; clientes de Barranquilla que visitan showroom; arquitectos/interioristas; y compradores que necesitan asesoria sobre medidas, telas, colores, materiales y tiempos.",
+      "adAngle": "Muebles premium en Barranquilla con asesoria inmediata para convertir inspiracion en cotizacion clara",
+      "whatsappCta": "Quiero cotizaciones con brief antes de WhatsApp",
+      "scrollIntro": "El estudio ordena la decision como lo haria un asesor de showroom: primero entiende espacio, estilo, medidas y presupuesto; despues recomienda ruta de producto o cita.",
+      "experienceIntro": "Loft Concept vende decisiones de hogar, no solo muebles sueltos. La automatizacion debe sentirse como un asesor de interiorismo: visual, tranquilo, preciso y capaz de separar curiosidad de una cotizacion realmente lista para cerrar.",
+      "botTitle": "Asesor Loft Concept: espacios, medidas y cotizaciones respondidas al instante",
+      "botIntro": "Este demo muestra como un asesor puede ordenar dudas sobre sofas, comedores, poltronas, camas, medidas, telas, colores, showrooms, citas y WhatsApp sin que el equipo repita el mismo filtro manual.",
+      "botAgentName": "Asesor Loft Concept demo",
+      "botAgentRole": "Muebles, interiorismo, medidas, citas y cotizacion",
+      "botDemoTitle": "Menos 'precio?' sin contexto",
+      "botDemoBody": "El cliente puede preguntar por un mueble o por transformar un espacio. El agente recoge medidas, fotos, estilo, presupuesto y urgencia antes de pasar a WhatsApp.",
+      "botTrainingTitle": "Entrenado con operacion showroom",
+      "botTrainingBody": "Categorias, productos, sedes, citas, estilos, materiales, medidas, tiempos, entrega, cotizacion, preguntas frecuentes y criterios para priorizar leads de alto valor.",
+      "botOpening": "Hola, soy el asesor demo de Loft Concept. Preguntame como ordenar dudas de sofas, comedores, medidas, texturas, citas o cotizaciones para que cada lead llegue con contexto.",
+      "botPrompts": [
+        "¿Como filtra una cotizacion?",
+        "¿Sirve para muebles a medida?",
+        "¿Como agenda visita al showroom?",
+        "¿Que hace con fotos del espacio?",
+        "¿Que datos deja para pauta?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cotizacion",
+            "cotizar",
+            "precio",
+            "presupuesto",
+            "valor",
+            "cuanto"
+          ],
+          "answer": "Primero pregunta espacio, pieza de interes, medidas aproximadas, ciudad, presupuesto y fecha objetivo. Luego envia a WhatsApp un resumen claro para que el asesor no empiece desde cero."
+        },
+        {
+          "keywords": [
+            "medida",
+            "medidas",
+            "personalizado",
+            "medida",
+            "a medida",
+            "fabricar"
+          ],
+          "answer": "Para muebles a medida pide ancho, alto, profundidad, fotos del espacio, estilo deseado y uso del mueble. Si faltan datos, agenda asesoría o visita al showroom antes de prometer precio final."
+        },
+        {
+          "keywords": [
+            "showroom",
+            "visita",
+            "cita",
+            "tienda",
+            "sede",
+            "direccion"
+          ],
+          "answer": "Puede separar visita a sede principal o showroom, preguntar que linea quiere ver y dejar nombre, telefono, horario preferido y objetivo de compra para que la visita no sea fria."
+        },
+        {
+          "keywords": [
+            "foto",
+            "fotos",
+            "espacio",
+            "sala",
+            "comedor",
+            "habitacion"
+          ],
+          "answer": "Con fotos del espacio, el agente arma un brief visual: ambiente, paleta, medidas pendientes, piezas actuales, problema del espacio y referencias. El asesor recibe contexto para recomendar mejor."
+        },
+        {
+          "keywords": [
+            "datos",
+            "pauta",
+            "analytics",
+            "campana",
+            "campaña",
+            "medir"
+          ],
+          "answer": "Se mide que dispara mas intencion: sofas, comedores, camas, poltronas, texturas, citas o proyectos completos. Esa data ayuda a pauta, inventario, mensajes y priorizacion comercial."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "Deseo visual",
+          "body": "La web, el catalogo y los showrooms ya construyen aspiracion alrededor del hogar."
+        },
+        {
+          "label": "Dolor 01",
+          "title": "Brief incompleto",
+          "body": "Una cotizacion premium necesita espacio, medidas, estilo, presupuesto, ciudad y fecha."
+        },
+        {
+          "label": "Dolor 02",
+          "title": "WhatsApp frio",
+          "body": "Si el mensaje llega como 'precio?' el asesor debe repetir preguntas antes de vender."
+        },
+        {
+          "label": "Solucion",
+          "title": "Asesor 24/7",
+          "body": "Un agente filtra intencion, arma brief y entrega conversaciones priorizadas al equipo."
+        }
+      ],
+      "experiencePath": [
+        "Inspiracion: la persona ve una sala, comedor, silla o textura y se imagina su espacio",
+        "Friccion: no sabe medidas, combinacion, precio, disponibilidad, entrega o si debe agendar cita",
+        "Solucion: el asesor digital recoge fotos, medidas, estilo, presupuesto, ciudad y pieza de interes",
+        "Cierre: WhatsApp recibe un brief con contexto y puede proponer producto, cita o proyecto completo"
+      ],
+      "galleryImages": [
+        {
+          "src": "/assets/loft-concept-sofas.jpg",
+          "label": "Sofas y salas"
+        },
+        {
+          "src": "/assets/loft-concept-comedores.jpg",
+          "label": "Comedores"
+        },
+        {
+          "src": "/assets/loft-concept-sillas.jpg",
+          "label": "Sillas y texturas"
+        }
+      ],
+      "journey": [
+        {
+          "title": "Etapa 1: inspiracion en Instagram o web",
+          "body": "El cliente ve ambientes, productos, texturas o un showroom y empieza a imaginar una transformacion para su casa."
+        },
+        {
+          "title": "Etapa 2: dudas antes de cotizar",
+          "body": "Aparecen preguntas de medidas, telas, colores, tiempo de entrega, presupuesto y si el espacio necesita asesoria completa."
+        },
+        {
+          "title": "Etapa 3: brief antes de WhatsApp",
+          "body": "Cuando el asesor recibe fotos, medidas, estilo, ciudad y presupuesto, la conversacion arranca mucho mas cerca de una propuesta real."
+        },
+        {
+          "title": "Etapa 4: data para producto y pauta",
+          "body": "Cada consulta revela que lineas, estilos, materiales y rangos de precio generan intencion, incluso si no compran el mismo dia."
+        }
+      ],
+      "findings": [
+        "Loft Concept no parte de cero: la web oficial muestra catalogo, carrito de cotizacion, servicios, solicitud de cita y dos puntos fisicos en Barranquilla.",
+        "El catalogo publico separa categorias utiles como sofas, sillas, poltronas, mesas, camas y consolas, lo que permite guiar al usuario segun espacio y necesidad.",
+        "La oportunidad no es solo generar mas mensajes; es mejorar la calidad de cada mensaje para que el equipo reciba leads con brief y prioridad comercial."
+      ],
+      "siteIssues": [
+        "La web tiene vitrina y cotizacion, pero un comprador de muebles necesita resolver medidas, materiales, colores, entrega y presupuesto antes de avanzar.",
+        "WhatsApp y showroom pueden recibir leads con intencion alta pero sin informacion minima para cotizar o asesorar de forma eficiente.",
+        "El cliente que busca una pieza puntual y el que quiere transformar un espacio completo requieren rutas distintas; mezclarlos reduce la precision comercial."
+      ],
+      "losses": [
+        "Un cliente puede enamorarse de un sofa y no avanzar porque no sabe si cabe, si combina o si esta dentro de presupuesto.",
+        "Las preguntas repetidas de medidas, telas, colores y entrega consumen tiempo de asesor y demoran respuestas a leads mas listos.",
+        "Sin tracking por espacio y producto, la pauta puede atraer curiosos visuales sin distinguir proyectos de alto valor."
+      ],
+      "heatmapData": [
+        "Interes por espacio: sala, comedor, habitacion, oficina o proyecto completo.",
+        "Friccion antes de cotizar: medidas, telas, colores, entrega, presupuesto, cita o fotos del espacio.",
+        "Data para pauta e inventario: categorias mas consultadas, estilos preferidos, rangos de presupuesto y objeciones frecuentes."
+      ],
+      "campaigns": [
+        "Campanas por espacio: renueva tu sala, comedor premium, habitacion completa o proyecto de interiorismo con brief instantaneo.",
+        "Remarketing a visitantes que vieron sofas, comedores, camas o tocaron cotizar, con preguntas guiadas por categoria.",
+        "Campanas para citas de showroom con filtro previo de objetivo, presupuesto, estilo y horario preferido."
+      ],
+      "deliverables": [
+        "Asesor Solvers personalizado para Loft Concept, conectado a preguntas de muebles, espacios, medidas, estilos, sedes, citas y cotizacion.",
+        "Formulario conversacional para transformar Instagram/web en brief visual antes de WhatsApp.",
+        "Pauta + pixel + mapa de calor + panel comercial para medir intencion por espacio, categoria, presupuesto y etapa de compra."
+      ]
     }
   ]
 }
