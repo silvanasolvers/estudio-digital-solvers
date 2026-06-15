@@ -1,5 +1,29 @@
 # Estudio Digital Solvers
 
+## Luna Romero Odontologia mini-estudio
+
+- [x] Verificar chat ID y permisos de Valentina.
+- [x] Recuperar el prospecto 8 de la lista diaria: `@od.lunaromero`.
+- [x] Investigar senales publicas de Instagram/snippets.
+- [x] Decidir no inventar logo ni usar imagenes fragiles de Instagram/CDN.
+- [x] Agregar prospecto `luna-romero-odontologia` con diagnostico personalizado y bot demo.
+- [x] Verificar local, DOM renderizado y assets.
+- [ ] Publicar directo segun instruccion de Valentina.
+- [ ] Validar produccion y enviar link final.
+
+### Criterios
+
+- No diagnosticar ni prometer resultados odontologicos por chat.
+- No inventar logo ni usar imagenes no oficiales; dejar identidad textual limpia si no hay asset oficial confiable.
+- El dolor debe centrarse en filtrar dudas de salud oral/estetica, fotos, expectativas, disponibilidad y WhatsApp antes de la valoracion odontologica.
+
+### Revision
+
+- Datos usados: busqueda publica de Instagram/snippets de `@od.lunaromero`.
+- Senales verificadas: DRA LUNA ROMERO | ODONTOLOGIA, odontologia general y estetica, Cucuta Colombia, WhatsApp 316 692 3440, diseno de sonrisa, carillas dentales, agregados en resina, promesa de sonrisa mas armonica/sana/natural, confianza y seguridad del paciente.
+- Assets: no se agregan logo ni galeria porque no se encontro fuente oficial estable fuera de Instagram; se evita publicar placeholder de marca.
+- Verificacion local: `npm run check` OK con 28 prospectos; HTTP 200 en `/empresa/luna-romero-odontologia`; Chromium `--dump-dom` confirma titulo, hook, marca textual, `no-collage` y bot renderizados.
+
 ## Medicina Estetica Medellin mini-estudio
 
 - [x] Verificar chat ID y permisos de Valentina.
