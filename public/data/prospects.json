@@ -2444,6 +2444,218 @@
         "Concierge 24/7 para WhatsApp entrenado en fechas, huéspedes, horarios, brunch, rooftop, spa, mascotas, parqueadero, check-in, WiFi, tarifas y disponibilidad.",
         "Pauta + pixel + mapa de calor + panel comercial para medir intención, clic a WhatsApp, abandono, servicio deseado, horarios calientes y oportunidad de remarketing."
       ]
+    },
+    {
+      "slug": "casa-antonia-cali",
+      "company": "Casa Antonia Cali",
+      "sector": "restaurante tematico salsero, terraza, eventos y cocina colombiana",
+      "city": "San Antonio, Cali",
+      "tone": "salsero, caleno, nocturno, cultural y celebratorio",
+      "theme": "maker",
+      "brandMode": "texuno",
+      "logoImage": "/assets/casa-antonia-cali-logo.svg",
+      "heroImage": "",
+      "accent": "#6E171B",
+      "accentRgb": "110, 23, 27",
+      "secondary": "#D9A441",
+      "secondaryRgb": "217, 164, 65",
+      "brandDark": "#12090A",
+      "paper": "#FFF2DF",
+      "paperCard": "#FFF9EF",
+      "brandWash": "rgba(110, 23, 27, 0.22)",
+      "brandWash2": "rgba(217, 164, 65, 0.18)",
+      "heroCopy": "Casa Antonia ya tiene algo dificil de copiar: salsa, terraza panoramica, San Antonio, cocina colombiana, eventos y un ambiente que se vende como experiencia caleña. El dolor no es falta de sabor; es que una persona puede llegar por cena, cumpleaños, turista, show, fecha especial o evento privado, pero si no entiende rapido horario, reserva, cupo, menu, vista, musica y WhatsApp, el antojo se enfria.",
+      "alertLabel": "Oportunidad de reservas",
+      "statusLabel": "Diagnostico comercial",
+      "status": "Mucho deseo por salsa, terraza y eventos, pero la reserva se puede frenar por dudas de fecha, cupo, menu, show y WhatsApp",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Restaurante tematico salsero en San Antonio, Cali, con terraza panoramica, jardines, eventos y experiencia cultural",
+      "visualCueLabel": "Dolor",
+      "visualCue": "La gente quiere el plan, pero antes de reservar pregunta horario, mesa, vista, show, menu, precios, celebraciones, parqueo y disponibilidad",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Concierge 24/7 + rutas por plan + reservas listas para WhatsApp",
+      "loaderLabel": "Preparando diagnostico salsero",
+      "loaderTitle": "Casa Antonia bajo lupa",
+      "loaderSubtitle": "Leyendo Instagram, reservas, terraza, salsa, eventos, menu y fricciones antes de mostrar el diagnostico.",
+      "loaderCue1": "Salsa y terraza",
+      "loaderCue2": "Reserva guiada",
+      "heroStampTitle": "Casa Antonia",
+      "heroStampSubtitle": "Salsa + reservas",
+      "bannerKicker": "Hook Solvers",
+      "bannerHook": "Quieren el plan, pero no reservan",
+      "bannerSubhook": "Casa Antonia ya despierta deseo con salsa, vista y gastronomia; el salto esta en guiar cada intencion antes de que quede como pregunta suelta por DM o WhatsApp.",
+      "bannerBadge1": "9.6K+ seguidores",
+      "bannerBadge2": "Terraza + salsa + eventos",
+      "openNode1Label": "Reserva",
+      "openNode1Title": "Fecha mesa show",
+      "openNode2Label": "WhatsApp",
+      "openNode2Title": "Lead con contexto",
+      "openNode3Label": "Evento",
+      "openNode3Title": "Cumpleanos grupos",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Casa Antonia no solo debe mostrar salsa; debe convertir cada motivo de salida en reserva",
+      "scrollTitle": "Del antojo salsero a una mesa confirmada",
+      "diagnosisTitle": "Donde se puede enfriar una reserva con tanta experiencia alrededor",
+      "leadProblem": "La busqueda publica muestra a @casaantoniacali como restaurante tematico salsero en Cali, con 685 publicaciones, 9.6K+ seguidores, 10 seguidos y una bio enfocada en terraza panoramica, jardines, eventos, Cra. 12 #2-44 en San Antonio, Cali, salsa, cultura y reservas. Directorios publicos como Restaurant Guru y Grubbio refuerzan la ubicacion, telefonos de reserva +57 311 520 3030 y +57 312 792 8626, cocina latina/colombiana, terraza, musica en vivo, cocteles, cenas, eventos, vista y opcion de reservas. Tambien aparecen fricciones reales de restaurante: horarios, espera, disponibilidad, experiencia segun dia, precio, menu, grupos y servicio.",
+      "opportunity": "La oportunidad para Casa Antonia es convertir su experiencia salsera en una ruta asistida: preguntar si la persona quiere cena, terraza, show, cumpleaños, turismo, cita romantica, grupo o evento privado; luego filtrar fecha, hora, numero de personas, zona deseada, ocasion, presupuesto, menu, restricciones y urgencia. Asi WhatsApp recibe solicitudes listas para confirmar mesa, el equipo responde menos repetido y la pauta aprende que mueve mas reservas.",
+      "proofLine": "Lectura preliminar basada en busqueda publica del 15 de junio de 2026 sobre Instagram @casaantoniacali, snippets publicos de Meta, Restaurant Guru, Grubbio, Tripadvisor y directorios de restaurantes: restaurante tematico salsero, 685 publicaciones, 9.6K+ seguidores, terraza panoramica, jardines, eventos, Cra. 12 #2-44 San Antonio Cali, reservas 311 520 3030 / 312 792 8626, cocina latina/colombiana, musica en vivo, cocteles, cena, vista, eventos y reseñas publicas. Se valida con agenda, menu, disponibilidad y pauta reales antes de ejecutar.",
+      "audience": "Caleños que buscan plan de salsa, turistas en San Antonio, parejas que quieren una terraza con vista, grupos de amigos, familias celebrando, cumpleanos, fechas especiales, empresas pequeñas y personas que quieren cena con musica en vivo.",
+      "adAngle": "Restaurante salsero en San Antonio con reserva guiada: terraza, cena, show o evento segun intencion real",
+      "whatsappCta": "Quiero convertir mas antojos en reservas",
+      "scrollIntro": "El estudio ordena el plan como lo haria un anfitrion: primero entiende si la persona quiere cena, salsa, terraza, cumpleaños o evento; despues resuelve dudas y entrega una conversacion lista para cerrar.",
+      "experienceIntro": "Casa Antonia vende una noche caleña: salsa, comida, vista, cultura y celebracion. La automatizacion debe sentirse como anfitrion de casa salsera: amable, rapido, claro y con criterio para separar una mesa de dos de un evento de treinta personas.",
+      "botTitle": "Anfitrion Casa Antonia: reservas y eventos respondidos al instante",
+      "botIntro": "Este demo muestra como un agente puede responder dudas de mesa, terraza, musica, menu, cumpleaños, eventos, horarios, ubicacion, parqueo y WhatsApp sin que el equipo repita todo manualmente.",
+      "botAgentName": "Anfitrion Casa Antonia demo",
+      "botAgentRole": "Mesas, terraza, salsa, eventos y WhatsApp",
+      "botDemoTitle": "Menos preguntas sueltas",
+      "botDemoBody": "La persona puede decir si quiere cena, terraza, show, cumpleaños, turista o evento. El agente filtra fecha, hora, personas y dudas antes de pasar a WhatsApp.",
+      "botTrainingTitle": "Entrenado con operacion salsera",
+      "botTrainingBody": "Horarios, reservas, terraza panoramica, jardines, eventos, musica en vivo, menu, cocteles, cumpleaños, grupos, ubicacion en San Antonio, parqueo, precios aproximados, WhatsApp y preguntas frecuentes.",
+      "botOpening": "Hola, soy el anfitrion demo de Casa Antonia. Preguntame como ordenar reservas de mesa, terraza, salsa, cumpleaños o eventos sin perder intencion de compra.",
+      "botPrompts": [
+        "¿Como guia una reserva de mesa?",
+        "¿Que pasa con terraza y musica en vivo?",
+        "¿Sirve para cumpleaños o eventos?",
+        "¿Como conecta con WhatsApp?",
+        "¿Que datos deja para pauta?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "mesa",
+            "reserva",
+            "fecha",
+            "hora",
+            "cenar",
+            "cena"
+          ],
+          "answer": "El anfitrion pregunta fecha, hora, numero de personas, ocasion, zona preferida y dudas clave. Luego pasa a WhatsApp una solicitud lista para confirmar disponibilidad y reserva."
+        },
+        {
+          "keywords": [
+            "terraza",
+            "vista",
+            "musica",
+            "música",
+            "salsa",
+            "show",
+            "vivo"
+          ],
+          "answer": "Separa el plan de terraza, musica en vivo o experiencia salsera. Filtra horario, cantidad de personas y expectativa del plan para no mezclar una cena tranquila con una noche de celebracion."
+        },
+        {
+          "keywords": [
+            "cumple",
+            "cumpleanos",
+            "cumpleaños",
+            "evento",
+            "grupo",
+            "matrimonio",
+            "empresa"
+          ],
+          "answer": "Para celebraciones pregunta tipo de evento, fecha, personas, presupuesto, comida, bebidas, decoracion y necesidades del grupo. Asi el equipo recibe un lead mucho mas avanzado."
+        },
+        {
+          "keywords": [
+            "whatsapp",
+            "telefono",
+            "teléfono",
+            "contacto",
+            "dm",
+            "instagram"
+          ],
+          "answer": "La idea no es reemplazar WhatsApp, sino que el mensaje llegue con contexto: fecha, hora, personas, plan, ocasion, zona deseada y duda principal. Eso acelera respuesta y cierre."
+        },
+        {
+          "keywords": [
+            "datos",
+            "pauta",
+            "medir",
+            "analytics",
+            "campana",
+            "campaña"
+          ],
+          "answer": "Se mide que intencion convierte mejor: terraza, salsa, cena, turistas, cumpleaños, grupos, eventos o cocteles. Esa data ayuda a pauta, remarketing y promociones por dia u horario."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "Experiencia vendible",
+          "body": "Salsa, terraza, vista, cocina colombiana y San Antonio dan varios motivos de visita en una sola marca."
+        },
+        {
+          "label": "Dolor 01",
+          "title": "Intencion dispersa",
+          "body": "No todos quieren lo mismo: algunos buscan mesa, otros terraza, show, cumpleaños, turismo o evento privado."
+        },
+        {
+          "label": "Dolor 02",
+          "title": "WhatsApp sin contexto",
+          "body": "Si cada mensaje entra igual, el equipo debe preguntar otra vez fecha, hora, personas, ocasion, disponibilidad y menu."
+        },
+        {
+          "label": "Solucion",
+          "title": "Anfitrion 24/7",
+          "body": "Un agente clasifica el plan, resuelve preguntas frecuentes y entrega el lead listo para cerrar por WhatsApp."
+        }
+      ],
+      "experiencePath": [
+        "Deseo: la persona ve salsa, terraza, vista, comida o un evento y se antoja del plan",
+        "Friccion: necesita fecha, hora, cupo, zona, show, menu, precios, parqueo o canal correcto",
+        "Solucion: la landing separa cena, terraza, salsa, cumpleaños y eventos antes de enviar a WhatsApp",
+        "Cierre: el equipo recibe plan deseado, fecha, personas, ocasion, dudas resueltas y siguiente accion"
+      ],
+      "galleryImages": [],
+      "journey": [
+        {
+          "title": "Etapa 1: descubrimiento desde Instagram",
+          "body": "El perfil ya comunica un concepto facil de vender: restaurante salsero, terraza panoramica, jardines, eventos y cultura caleña. El reto es que ese interes no se quede en guardados."
+        },
+        {
+          "title": "Etapa 2: clasificacion del plan",
+          "body": "La persona puede buscar cena de pareja, salida con amigos, turista en San Antonio, cumpleaños, musica en vivo o evento. Cada intencion necesita preguntas y CTA distintos."
+        },
+        {
+          "title": "Etapa 3: WhatsApp con contexto",
+          "body": "Cuando el equipo recibe fecha, hora, personas, ocasion, zona deseada y objecion principal, la conversacion empieza en cierre, no en preguntas repetidas."
+        },
+        {
+          "title": "Etapa 4: data para llenar horarios",
+          "body": "Con eventos se puede saber si vende mas terraza, salsa, cena, cumpleaños, turistas, grupos o cocteles, y empujar campañas por dias flojos o fechas especiales."
+        }
+      ],
+      "findings": [
+        "La marca ya tiene un concepto claro y recordable: restaurante tematico salsero en San Antonio, Cali, con terraza panoramica, jardines, eventos, salsa y cultura.",
+        "Los snippets publicos muestran rutas de reserva por telefono/WhatsApp y presencia en directorios, lo que confirma que la conversion visible depende mucho de pasar rapido de interes a conversacion.",
+        "Las reseñas y directorios refuerzan activos vendibles: vista, musica en vivo, cocteles, cocina latina/colombiana, cenas, eventos, grupos y ambiente turistico."
+      ],
+      "siteIssues": [
+        "La oferta tiene varias razones de visita en una misma marca: cena, terraza, salsa, show, eventos, cumpleaños, turistas y grupos. Sin filtro, el visitante puede no saber cual es el siguiente paso.",
+        "WhatsApp ayuda, pero no necesariamente clasifica la intencion antes de llegar al equipo. Un lead de mesa de dos y un evento de treinta pueden entrar con el mismo nivel de contexto.",
+        "Las dudas practicas aparecen antes de reservar: horario, disponibilidad, vista, menu, precios, parqueo, show, musica en vivo, tiempos de espera y condiciones para celebraciones."
+      ],
+      "losses": [
+        "Una pareja puede antojarse de la terraza y seguir comparando planes si no entiende rapido horario, disponibilidad y como reservar.",
+        "Un grupo interesado en cumpleaños o evento puede no escribir si no ve una ruta clara para cotizar sin repetir toda la informacion.",
+        "Sin medicion por intencion, Casa Antonia puede recibir mensajes, pero no saber que vende mas ni que campaña debe alimentar cena, salsa, terraza o eventos."
+      ],
+      "heatmapData": [
+        "Clics por intencion. Medir si la demanda entra por terraza, salsa, cena, cumpleaños, turistas, grupos, eventos o cocteles.",
+        "Friccion antes de WhatsApp. Detectar abandono en fecha, hora, cupo, menu, precio, parqueo, show, ubicacion o eleccion de zona.",
+        "Data para pauta. Usar consultas reales para campañas de fin de semana, dias flojos, cumpleaños, fechas especiales, turistas en Cali y noches de salsa."
+      ],
+      "campaigns": [
+        "Campañas por motivo: terraza panoramica en San Antonio, restaurante salsero en Cali, cena con musica en vivo, cumpleaños y eventos privados.",
+        "Remarketing a quienes vieron terraza, tocaron WhatsApp, abrieron eventos o preguntaron por show/menu, con mensaje distinto por intencion.",
+        "Campañas para turistas y caleños con promesa clara: vista, salsa, cocina colombiana, reserva directa guiada y plan listo para celebrar."
+      ],
+      "deliverables": [
+        "Landing/mini experiencia Casa Antonia que separe cena, terraza, salsa, eventos, cumpleaños, ubicacion, FAQ, menu, beneficios y CTA a WhatsApp/reserva.",
+        "Anfitrion 24/7 para WhatsApp entrenado en fechas, horarios, personas, terraza, musica, menu, eventos, cumpleaños, parqueo, precios aproximados y disponibilidad.",
+        "Pauta + pixel + mapa de calor + panel comercial para medir intencion, clic a WhatsApp, abandono, tipo de plan, horarios calientes y oportunidad de remarketing."
+      ]
     }
   ]
 }
