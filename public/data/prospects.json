@@ -3631,6 +3631,230 @@
         "Formulario conversacional para convertir Instagram, Linktree y web en pedido guiado antes del canal final.",
         "Pauta + pixel + mapa de calor + panel comercial para medir antojos por producto, sede, canal, hora y recompra."
       ]
+    },
+    {
+      "slug": "medicina-estetica-medellin",
+      "company": "Medicina Estetica Medellin",
+      "sector": "medicina estetica, antienvejecimiento consciente y valoracion medica personalizada",
+      "city": "Medellin, Cra 30 #8B-25 Cons. 605",
+      "tone": "medico, sereno, confiable, humano y premium",
+      "theme": "clinic",
+      "brandMode": "texuno",
+      "logoImage": "/assets/medicina-estetica-medellin-logo.png",
+      "heroImage": "/assets/medicina-estetica-medellin-hero.jpg",
+      "accent": "#6A7E7B",
+      "accentRgb": "106, 126, 123",
+      "secondary": "#D9C6B7",
+      "secondaryRgb": "217, 198, 183",
+      "brandDark": "#101515",
+      "paper": "#F5F1EE",
+      "paperCard": "#FFFFFF",
+      "brandWash": "rgba(106, 126, 123, 0.24)",
+      "brandWash2": "rgba(217, 198, 183, 0.20)",
+      "heroCopy": "Medicina Estetica Medellin ya tiene una propuesta clara: Dra. Adriana Munera, medicina antienvejecimiento consciente, valoracion medica personalizada, tratamientos faciales y corporales, WhatsApp directo y consultorio en Medellin. El reto no es vender un procedimiento como si fuera producto; es ordenar dudas, expectativas, seguridad, motivo de consulta y elegibilidad antes de agendar una valoracion medica.",
+      "alertLabel": "Oportunidad valoraciones",
+      "statusLabel": "Diagnostico comercial",
+      "status": "Marca medica con oferta amplia y sensible, donde cada lead necesita filtro responsable antes de pasar a valoracion o WhatsApp",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Enfoque medico, natural y consciente liderado por la Dra. Adriana Munera, con tratamientos personalizados y consultorio en Medellin",
+      "visualCueLabel": "Dolor",
+      "visualCue": "El paciente llega con dudas sobre botox, acido hialuronico, bioestimulacion, peso, alopecia o piel, pero sin contexto clinico ni expectativas claras",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asistente 24/7 que filtra motivo, procedimiento, dudas y datos basicos antes de agendar valoracion medica",
+      "loaderLabel": "Preparando diagnostico medico-comercial",
+      "loaderTitle": "Medicina Estetica Medellin bajo lupa",
+      "loaderSubtitle": "Leyendo web oficial, procedimientos, contacto, enfoque medico, FAQ, WhatsApp y fricciones antes de la valoracion.",
+      "loaderCue1": "Valoracion medica",
+      "loaderCue2": "Lead responsable",
+      "heroStampTitle": "Dra. Adriana Munera",
+      "heroStampSubtitle": "Medicina y antienvejecimiento",
+      "bannerKicker": "Hook Solvers",
+      "bannerHook": "Quieren verse mejor, pero llegan con dudas medicas",
+      "bannerSubhook": "En medicina estetica la conversion no puede depender de un \"precio?\" por WhatsApp. Cada persona necesita entender si requiere valoracion, que procedimiento aplica, que esperar, que riesgos preguntar y como agendar con criterio medico.",
+      "bannerBadge1": "+1000 pacientes",
+      "bannerBadge2": "WhatsApp 3104033514",
+      "openNode1Label": "Consulta",
+      "openNode1Title": "Motivo expectativas edad",
+      "openNode2Label": "Filtro",
+      "openNode2Title": "Procedimiento dudas seguridad",
+      "openNode3Label": "Valoracion",
+      "openNode3Title": "Agenda con contexto",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Convertir curiosidad estetica en valoracion responsable",
+      "scrollTitle": "De la duda al agendamiento con contexto",
+      "diagnosisTitle": "Donde se pierde una valoracion estetica",
+      "leadProblem": "La busqueda publica muestra a @medicinaesteticamedellin como clinica de procedimientos esteticos faciales y corporales en Medellin, especialistas en reduccion de peso y con +1000 pacientes satisfechos. Su web oficial presenta a la Dra. Adriana Munera con medicina antienvejecimiento consciente, valoracion medica personalizada, enfoque natural y regenerativo, tratamientos faciales/corporales y contacto por WhatsApp 3104033514. La pagina de contacto confirma direccion Cra 30 #8B-25, Cons. 605, Edificio San Esteban, y correo medicinaesteticamedellin@gmail.com.",
+      "opportunity": "La oportunidad para Medicina Estetica Medellin es poner un asistente Solvers antes de WhatsApp: preguntar motivo de consulta, edad/mayoria de edad, procedimiento de interes, zona a tratar, antecedentes basicos que deban revisar en valoracion, expectativas, urgencia, disponibilidad y dudas frecuentes. Asi el equipo recibe solicitudes mas claras sin reemplazar la valoracion medica ni prometer resultados.",
+      "proofLine": "Lectura preliminar basada en busqueda publica del 15 de junio de 2026 sobre Instagram @medicinaesteticamedellin, web oficial medicinaesteticamedellin.com, paginas Nosotros/Contacto y snippets publicos: Dra. Adriana Munera, medicina antienvejecimiento consciente, valoracion personalizada, WhatsApp 3104033514, direccion Cra 30 #8B-25 Cons. 605, tratamientos como acido hialuronico, Sculptra, Dermapen, hidrolipoclasia, PDRN, hilos, PRP, exosomas, toxina botulinica, reduccion de peso, alopecia, celulitis y sueroterapia. Se valida con agenda, protocolos, restricciones, precios y consentimiento medico antes de ejecutar.",
+      "audience": "Personas en Medellin que quieren rejuvenecimiento natural, mejorar piel, prevenir envejecimiento prematuro, tratar flacidez, celulitis, alopecia, peso o sudoracion; pacientes que comparan procedimientos y necesitan orientacion responsable antes de agendar una valoracion medica.",
+      "adAngle": "Valoracion medica personalizada para rejuvenecimiento natural, piel y antienvejecimiento consciente en Medellin",
+      "whatsappCta": "Quiero valoraciones mejor filtradas",
+      "scrollIntro": "El estudio ordena la ruta como lo haria una buena asesoria inicial: primero entiende la preocupacion de la persona, despues explica que la decision requiere valoracion medica y finalmente agenda con contexto.",
+      "experienceIntro": "En medicina estetica, vender rapido no es suficiente. La experiencia debe transmitir confianza, criterio medico, expectativas realistas y respeto por la seguridad del paciente.",
+      "botTitle": "Asistente Medicina Estetica Medellin: dudas filtradas antes de valoracion",
+      "botIntro": "Este demo muestra como un asistente puede responder preguntas frecuentes, clasificar interes, explicar que no reemplaza una valoracion medica y entregar al equipo leads mejor preparados.",
+      "botAgentName": "Asistente Medicina Estetica Medellin demo",
+      "botAgentRole": "Valoracion, procedimientos, dudas, seguridad y agenda",
+      "botDemoTitle": "Menos chats sin contexto",
+      "botDemoBody": "El paciente puede preguntar por toxina botulinica, bioestimulacion, piel, reduccion de peso o alopecia. El agente orienta y pide datos basicos antes de WhatsApp.",
+      "botTrainingTitle": "Entrenado con criterio medico-comercial",
+      "botTrainingBody": "Procedimientos, FAQ, mayoria de edad, valoracion medica, duracion aproximada, seguridad, expectativas, molestias, agenda, direccion y datos que el equipo necesita revisar.",
+      "botOpening": "Hola, soy el asistente demo de Medicina Estetica Medellin. Puedo orientarte sobre valoracion, procedimientos, dudas de seguridad, agenda y que informacion conviene llevar a tu cita. No reemplazo la valoracion medica.",
+      "botPrompts": [
+        "¿Como filtra una valoracion?",
+        "¿Puede hablar de botox?",
+        "¿Como maneja seguridad?",
+        "¿Sirve para reduccion de peso?",
+        "¿Que datos deja para pauta?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "valoracion",
+            "valoración",
+            "cita",
+            "agendar",
+            "agenda",
+            "consulta"
+          ],
+          "answer": "Primero pregunta motivo de consulta, edad, zona o procedimiento de interes, expectativas, si busca algo preventivo o correctivo, disponibilidad y canal de contacto. Luego aclara que la recomendacion final se define en valoracion medica."
+        },
+        {
+          "keywords": [
+            "botox",
+            "toxina",
+            "hialuronico",
+            "hialurónico",
+            "sculptra",
+            "bioestimulacion",
+            "bioestimulación"
+          ],
+          "answer": "Puede explicar de forma general que estos procedimientos requieren evaluacion individual, objetivos realistas y criterio medico. No promete resultados; invita a valoracion para definir indicacion, tecnica y plan."
+        },
+        {
+          "keywords": [
+            "seguro",
+            "seguridad",
+            "riesgo",
+            "dolor",
+            "efecto",
+            "secundario"
+          ],
+          "answer": "Responde con prudencia: los tratamientos deben realizarse tras valoracion medica, con protocolos y productos adecuados. Tambien recoge alergias, antecedentes relevantes y dudas para que el equipo las revise."
+        },
+        {
+          "keywords": [
+            "peso",
+            "reduccion",
+            "reducción",
+            "hidrolipoclasia",
+            "celulitis",
+            "corporal"
+          ],
+          "answer": "Clasifica si el interes es peso, grasa localizada, celulitis o moldeamiento corporal. Pide zona, objetivo, antecedentes y disponibilidad, y deja claro que el plan depende de valoracion medica."
+        },
+        {
+          "keywords": [
+            "datos",
+            "pauta",
+            "analytics",
+            "campana",
+            "campaña",
+            "medir"
+          ],
+          "answer": "Deja data sobre procedimientos mas consultados, objeciones frecuentes, dudas de seguridad, rango de edad, zona a tratar, urgencia y fuente de lead. Esa informacion ayuda a pauta y agenda."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "Criterio medico",
+          "body": "La propuesta se apoya en valoracion personalizada, seguridad y resultados naturales."
+        },
+        {
+          "label": "Dolor 01",
+          "title": "Dudas sensibles",
+          "body": "El paciente pregunta por precio o procedimiento sin explicar piel, objetivo, edad ni antecedentes."
+        },
+        {
+          "label": "Dolor 02",
+          "title": "Oferta amplia",
+          "body": "Muchos tratamientos requieren orientar sin saturar: facial, corporal, regenerativo, peso o alopecia."
+        },
+        {
+          "label": "Solucion",
+          "title": "Filtro responsable",
+          "body": "Un agente ordena la consulta y deriva a valoracion medica con contexto real."
+        }
+      ],
+      "experiencePath": [
+        "Deseo: la persona ve un resultado, una promocion o un procedimiento y quiere saber si aplica para ella",
+        "Friccion: pregunta solo precio, duracion o dolor sin contexto clinico ni expectativas claras",
+        "Solucion: el asistente recoge motivo, procedimiento, zona, dudas y disponibilidad sin reemplazar al medico",
+        "Cierre: el equipo recibe un lead mas serio y agenda valoracion con informacion util"
+      ],
+      "galleryImages": [
+        {
+          "src": "/assets/medicina-estetica-medellin-dra-adriana.jpg",
+          "label": "Dra. Adriana Munera"
+        },
+        {
+          "src": "/assets/medicina-estetica-medellin-valoracion.jpg",
+          "label": "Valoracion medica"
+        },
+        {
+          "src": "/assets/medicina-estetica-medellin-procedimiento.png",
+          "label": "Procedimientos faciales"
+        }
+      ],
+      "journey": [
+        {
+          "title": "Etapa 1: duda desde Instagram o web",
+          "body": "El paciente llega con interes por rejuvenecimiento, botox, piel, peso, alopecia o tratamiento corporal."
+        },
+        {
+          "title": "Etapa 2: orientacion responsable",
+          "body": "El asistente explica que cada caso requiere valoracion medica y recoge informacion basica para evitar chats incompletos."
+        },
+        {
+          "title": "Etapa 3: agenda con contexto",
+          "body": "WhatsApp recibe el motivo, procedimiento, zona, dudas y disponibilidad para responder mejor y agendar."
+        },
+        {
+          "title": "Etapa 4: pauta y seguimiento",
+          "body": "La clinica aprende que tratamientos generan intencion, que dudas frenan y que mensajes convierten en valoraciones reales."
+        }
+      ],
+      "findings": [
+        "Medicina Estetica Medellin tiene una propuesta medica clara: antienvejecimiento consciente, valoracion personalizada y tratamientos faciales/corporales.",
+        "La web ya educa sobre seguridad, resultados naturales, tratamientos regenerativos y preguntas frecuentes; eso se puede convertir en conversacion guiada.",
+        "El cuello de botella probable esta en WhatsApp: demasiadas dudas sensibles llegan sin contexto suficiente para agendar o priorizar."
+      ],
+      "siteIssues": [
+        "La oferta de procedimientos es amplia y puede abrumar a una persona que no sabe que necesita.",
+        "El CTA de agenda lleva a WhatsApp, pero antes de responder bien se necesita motivo, zona, expectativas, edad y disponibilidad.",
+        "En estetica medica, si el lead solo pregunta precio, se pierde la oportunidad de educar y llevarlo a una valoracion responsable."
+      ],
+      "losses": [
+        "Pacientes interesados pueden abandonar si no reciben una orientacion inicial clara sobre que procedimiento podria evaluar el medico.",
+        "El equipo puede repetir respuestas sobre seguridad, duracion, dolor, resultados y agenda durante todo el dia.",
+        "Sin clasificacion por procedimiento y duda, la pauta no aprende que objeciones frenan mas valoraciones."
+      ],
+      "heatmapData": [
+        "Intencion por procedimiento: toxina botulinica, acido hialuronico, bioestimulacion, PRP, exosomas, reduccion de peso, celulitis, alopecia o sueroterapia.",
+        "Friccion antes de agendar: precio, seguridad, dolor, duracion, edad, resultados, contraindicaciones, recuperacion y disponibilidad.",
+        "Data para pauta: procedimiento consultado, zona a tratar, fuente, objecion, urgencia, disponibilidad y conversion a valoracion."
+      ],
+      "campaigns": [
+        "Campanas educativas por duda: seguridad, resultados naturales, valoracion medica y expectativas realistas.",
+        "Campanas por procedimiento con filtro responsable antes de WhatsApp: botox, bioestimulacion, piel, peso, alopecia y tratamientos corporales.",
+        "Remarketing a quienes tocaron WhatsApp o visitaron procedimientos, invitando a completar motivo y agenda para valoracion."
+      ],
+      "deliverables": [
+        "Asistente Solvers personalizado para Medicina Estetica Medellin, entrenado en procedimientos, FAQ, agenda y reglas de comunicacion responsable.",
+        "Formulario conversacional para convertir Instagram/web en lead de valoracion con motivo, procedimiento, dudas y disponibilidad.",
+        "Pauta + pixel + mapa de calor + panel comercial para medir interes por procedimiento, objeciones y agendamientos reales."
+      ]
     }
   ]
 }

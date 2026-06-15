@@ -1,5 +1,29 @@
 # Estudio Digital Solvers
 
+## Medicina Estetica Medellin mini-estudio
+
+- [x] Verificar chat ID y permisos de Valentina.
+- [x] Recuperar el prospecto 7 de la lista diaria: `@medicinaesteticamedellin`.
+- [x] Investigar senales publicas de Instagram, web oficial, Nosotros y Contacto.
+- [x] Descargar assets oficiales a rutas locales para evitar imagenes rotas.
+- [x] Agregar prospecto `medicina-estetica-medellin` con diagnostico personalizado y bot demo.
+- [x] Verificar local, DOM renderizado y assets.
+- [ ] Publicar directo segun instruccion de Valentina.
+- [ ] Validar produccion y enviar link final.
+
+### Criterios
+
+- No prometer resultados medicos ni reemplazar valoracion medica.
+- Usar solo logo/fotos oficiales del sitio de Medicina Estetica Medellin.
+- El dolor debe centrarse en filtrar responsablemente dudas, motivo de consulta, procedimiento, seguridad, agenda y WhatsApp antes de la valoracion.
+
+### Revision
+
+- Datos usados: Instagram/snippets publicos de `@medicinaesteticamedellin`, web oficial `medicinaesteticamedellin.com`, paginas Nosotros y Contacto.
+- Senales verificadas: Dra. Adriana Munera, medicina antienvejecimiento consciente, valoracion medica personalizada, tratamientos faciales/corporales, WhatsApp 3104033514, correo `medicinaesteticamedellin@gmail.com`, direccion Cra 30 #8B-25 Cons. 605 Edificio San Esteban, procedimientos como acido hialuronico, Sculptra, Dermapen, hidrolipoclasia, PDRN, hilos, PRP, exosomas, toxina botulinica, reduccion de peso, alopecia, celulitis y sueroterapia.
+- Assets locales oficiales: `/assets/medicina-estetica-medellin-logo.png`, `/assets/medicina-estetica-medellin-hero.jpg`, `/assets/medicina-estetica-medellin-dra-adriana.jpg`, `/assets/medicina-estetica-medellin-valoracion.jpg`, `/assets/medicina-estetica-medellin-procedimiento.png`.
+- Verificacion local: `npm run check` OK con 27 prospectos; HTTP 200 en `/empresa/medicina-estetica-medellin`; los 5 assets responden HTTP 200 con tipos correctos; Chromium `--dump-dom` confirma titulo, hook, logo, collage y bot renderizados.
+
 ## MELT bakery & cafe mini-estudio
 
 - [x] Verificar chat ID y permisos de Valentina.
