@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" role="img" aria-labelledby="title desc">
+  <title id="title">La Martina Boutique Hotel</title>
+  <desc id="desc">Wordmark inspired by the La Martina Boutique Hotel profile.</desc>
+  <rect width="420" height="420" rx="210" fill="#FBFAF5"/>
+  <circle cx="210" cy="210" r="176" fill="none" stroke="#D9D1BF" stroke-width="4"/>
+  <circle cx="210" cy="210" r="154" fill="none" stroke="#183A43" stroke-width="1.5" opacity=".32"/>
+  <text x="116" y="190" fill="#183A43" font-family="Georgia, 'Times New Roman', serif" font-size="37" font-style="italic">La</text>
+  <text x="92" y="245" fill="#183A43" font-family="Georgia, 'Times New Roman', serif" font-size="74" font-weight="700">Martina</text>
+  <text x="141" y="284" fill="#6E807F" font-family="Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="4">BOUTIQUE HOTEL</text>
+  <path d="M105 264c28 23 74 32 120 25 42-6 70-23 91-49" fill="none" stroke="#9B855E" stroke-width="4" stroke-linecap="round" opacity=".72"/>
+</svg>

@@ -2235,6 +2235,215 @@
         "Concierge 24/7 para WhatsApp entrenado en fechas, huéspedes, idioma, ecohabs, traslados, comidas, experiencias, políticas, clima, equipaje y upsells.",
         "Pauta + pixel + mapa de calor + panel comercial para medir intención, clic a WhatsApp, abandono, experiencia deseada, idioma y oportunidad de remarketing."
       ]
+    },
+    {
+      "slug": "la-martina-boutique-hotel",
+      "company": "La Martina Boutique Hotel",
+      "sector": "hotel boutique, brunch, rooftop bar y spa urbano",
+      "city": "Manila, El Poblado, Medellín",
+      "tone": "boutique, urbano, cálido, elegante y práctico",
+      "theme": "maker",
+      "brandMode": "texuno",
+      "logoImage": "/assets/la-martina-boutique-hotel-logo.svg",
+      "heroImage": "https://lamartinaboutiquehotel.co/spotlight.jpeg",
+      "accent": "#183A43",
+      "accentRgb": "24, 58, 67",
+      "secondary": "#C6A66B",
+      "secondaryRgb": "198, 166, 107",
+      "brandDark": "#071719",
+      "paper": "#F2EFE6",
+      "paperCard": "#FFFCF5",
+      "brandWash": "rgba(24, 58, 67, 0.2)",
+      "brandWash2": "rgba(198, 166, 107, 0.18)",
+      "heroCopy": "La Martina Boutique Hotel ya tiene una mezcla atractiva para Medellín: ubicación en Manila, habitaciones boutique, brunch, rooftop/bar, spa, café/restobar, WiFi y una experiencia cercana para viajeros de ciudad. El dolor no es verse pequeña; es que una persona puede querer hospedaje, brunch, rooftop o masaje, pero no saber rápido qué reservar, por dónde escribir, qué incluye, si hay disponibilidad y cómo cerrar.",
+      "alertLabel": "Oportunidad de reservas",
+      "statusLabel": "Diagnóstico comercial",
+      "status": "Oferta boutique clara, pero intención repartida entre habitaciones, brunch, rooftop, spa, Linktree y WhatsApp",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Hotel boutique en Manila con descanso, café/restobar, brunch, rooftop, bar, spa y cercanía a la vida de El Poblado",
+      "visualCueLabel": "Dolor",
+      "visualCue": "El huésped se interesa, pero antes de cerrar necesita precio, fecha, habitación, desayuno, rooftop, spa, ubicación, parqueadero, mascotas y canal correcto",
+      "conversionFocusLabel": "Solución",
+      "conversionFocus": "Concierge 24/7 + rutas por intención + seguimiento de WhatsApp y reservas",
+      "loaderLabel": "Preparando diagnóstico boutique",
+      "loaderTitle": "La Martina bajo lupa",
+      "loaderSubtitle": "Leyendo Instagram, Linktree, WhatsApp, hotel, brunch, rooftop, spa y fricciones antes de mostrar el diagnóstico.",
+      "loaderCue1": "Hotel boutique",
+      "loaderCue2": "Reserva guiada",
+      "heroStampTitle": "La Martina",
+      "heroStampSubtitle": "Reserva guiada",
+      "bannerKicker": "Hook Solvers",
+      "bannerHook": "Se antojan, pero no reservan",
+      "bannerSubhook": "La Martina ya reúne hotel boutique, brunch, rooftop y spa; el salto está en guiar cada intención antes de que quede como mensaje suelto en Instagram o WhatsApp.",
+      "bannerBadge1": "2.011 seguidores",
+      "bannerBadge2": "Hotel + brunch + spa",
+      "openNode1Label": "Reserva",
+      "openNode1Title": "Fecha habitación plan",
+      "openNode2Label": "WhatsApp",
+      "openNode2Title": "Lead con contexto",
+      "openNode3Label": "Concierge",
+      "openNode3Title": "Hotel brunch spa",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "La Martina no solo debe mostrar el lugar; debe ordenar cada motivo de visita",
+      "scrollTitle": "Del antojo de Manila a una reserva sin vueltas",
+      "diagnosisTitle": "Dónde se puede enfriar una reserva boutique",
+      "leadProblem": "La captura de Instagram muestra 90 publicaciones, 2.011 seguidores, 728 seguidos y una bio que promete hospedaje en el corazón de Manila, brunch, rooftop & bar, spa, habitaciones boutique, cultura local y reservas vía Linktree. El Linktree público suma Instagram, WhatsApp +57 300 237 8318 y una web asociada. Fuentes públicas de viaje describen desayuno preparado al momento, café/restobar, WiFi, spa, jacuzzi/rooftop, cercanía a Parque del Poblado y Lleras, además de dudas típicas como parqueadero, mascotas, check-in, tamaño de habitación o qué servicio se reserva por cuál canal.",
+      "opportunity": "La oportunidad para La Martina es convertir su mezcla de hotel + brunch + rooftop + spa en una ruta asistida: preguntar si la persona quiere dormir, ir a brunch, reservar spa, celebrar algo, trabajar remoto o pasar por rooftop; luego filtrar fecha, número de personas, horario, habitación, disponibilidad, restricciones, parqueadero/transporte y urgencia. Así WhatsApp recibe solicitudes claras, el equipo responde menos repetido y la pauta aprende qué mueve más intención comercial.",
+      "proofLine": "Lectura preliminar basada en captura enviada el 15 de junio de 2026, Instagram público @lamartinaboutiquehotel, Linktree público con WhatsApp +57 300 237 8318 y sitio lamartinaboutiquehotel.co, además de fichas públicas de viaje como Expedia/Booking/Hotels.com y páginas de revisión: 90 publicaciones, 2.011 seguidores visibles, hotel en Manila/El Poblado, brunch, rooftop/bar, spa, habitaciones boutique, desayuno, WiFi, café/restobar, cercanía a Poblado/Lleras y servicios de reservas. Se valida con ocupación, agenda, WhatsApp, tarifas y pauta reales antes de ejecutar.",
+      "audience": "Viajeros que quieren una base cómoda en El Poblado, parejas de escapada, turistas que buscan Manila/Provenza, nómadas digitales, personas que quieren brunch o rooftop sin hospedarse y clientes interesados en spa o celebraciones pequeñas.",
+      "adAngle": "Hotel boutique en Manila con reserva guiada: habitación, brunch, rooftop o spa según intención real",
+      "whatsappCta": "Quiero convertir más interés de Instagram en reservas",
+      "scrollIntro": "El estudio ordena el deseo como lo haría un concierge: primero entiende si la persona quiere hospedaje, brunch, rooftop o spa; después resuelve dudas y entrega una conversación lista para cerrar.",
+      "experienceIntro": "La Martina vende cercanía de barrio, descanso urbano, café, rooftop y bienestar. La automatización debe sentirse como recepción boutique: rápida, amable, clara y con criterio para no mezclar todas las solicitudes en un solo chat.",
+      "botTitle": "Concierge La Martina: reservas y planes respondidos al instante",
+      "botIntro": "Este demo muestra cómo un agente puede responder dudas de habitaciones, brunch, rooftop, spa, horarios, ubicación, parqueadero, mascotas, check-in y WhatsApp sin que el equipo repita todo manualmente.",
+      "botAgentName": "Concierge La Martina demo",
+      "botAgentRole": "Habitaciones, brunch, rooftop, spa y WhatsApp",
+      "botDemoTitle": "Menos mensajes sueltos",
+      "botDemoBody": "La persona puede decir si quiere hospedarse, ir a brunch, reservar spa o celebrar algo. El agente filtra fecha, horario, número de personas y dudas antes de pasar a WhatsApp.",
+      "botTrainingTitle": "Entrenado con operación boutique",
+      "botTrainingBody": "Habitaciones, desayuno/brunch, café/restobar, rooftop/bar, spa, jacuzzi, WiFi, ubicación en Manila, mascotas, check-in, parqueadero, WhatsApp, disponibilidad y preguntas frecuentes.",
+      "botOpening": "Hola, soy el concierge demo de La Martina. Pregúntame cómo ordenar reservas de habitación, brunch, rooftop, spa o WhatsApp sin perder intención de compra.",
+      "botPrompts": [
+        "¿Cómo guía una reserva de habitación?",
+        "¿Qué pasa con brunch y rooftop?",
+        "¿Sirve para spa o celebraciones?",
+        "¿Cómo conecta con WhatsApp?",
+        "¿Qué datos deja para pauta?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "habitacion",
+            "habitación",
+            "hotel",
+            "hospedaje",
+            "fecha",
+            "check"
+          ],
+          "answer": "El concierge pregunta fechas, número de huéspedes, motivo del viaje, hora de llegada, tipo de habitación y dudas clave. Luego pasa a WhatsApp una solicitud lista para confirmar disponibilidad y tarifa."
+        },
+        {
+          "keywords": [
+            "brunch",
+            "rooftop",
+            "bar",
+            "resto",
+            "cafe",
+            "café"
+          ],
+          "answer": "Separa visitantes de hotel y visitantes de plan: brunch, café/restobar o rooftop. Filtra fecha, hora, número de personas y ocasión para no mezclar esas solicitudes con reservas de habitación."
+        },
+        {
+          "keywords": [
+            "spa",
+            "masaje",
+            "jacuzzi",
+            "celebracion",
+            "celebración",
+            "pareja"
+          ],
+          "answer": "Puede vender planes de bienestar o celebración preguntando si es pareja, cumpleaños, aniversario o descanso. Luego sugiere spa, rooftop o habitación según intención y disponibilidad."
+        },
+        {
+          "keywords": [
+            "whatsapp",
+            "linktree",
+            "link",
+            "reserva",
+            "canal"
+          ],
+          "answer": "La idea no es quitar WhatsApp, sino que el mensaje llegue con contexto: servicio deseado, fecha, horario, personas, duda principal y urgencia. Eso acelera respuesta y cierre."
+        },
+        {
+          "keywords": [
+            "datos",
+            "pauta",
+            "medir",
+            "analytics",
+            "campaña",
+            "campana"
+          ],
+          "answer": "Se mide qué intención convierte mejor: habitación, brunch, rooftop, spa, parejas, turistas, nómadas digitales o celebraciones. Esa data ayuda a pauta, remarketing y promociones por horario o temporada."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "Oferta mixta",
+          "body": "Hotel boutique, brunch, rooftop/bar, spa y ubicación en Manila dan varios motivos de compra en una sola marca."
+        },
+        {
+          "label": "Dolor 01",
+          "title": "Intención dispersa",
+          "body": "No todos llegan a dormir: algunos quieren brunch, rooftop, masaje, plan de pareja o información rápida de habitaciones."
+        },
+        {
+          "label": "Dolor 02",
+          "title": "WhatsApp sin contexto",
+          "body": "Si cada mensaje entra igual, el equipo debe preguntar de nuevo fecha, horario, personas, servicio, disponibilidad y dudas."
+        },
+        {
+          "label": "Solución",
+          "title": "Concierge 24/7",
+          "body": "Un agente clasifica intención, resuelve preguntas frecuentes y entrega el lead listo para cerrar por WhatsApp."
+        }
+      ],
+      "experiencePath": [
+        "Deseo: la persona ve hospedaje en Manila, brunch, rooftop, spa o habitaciones boutique y se antoja del plan",
+        "Fricción: necesita fecha, horario, disponibilidad, precio, mascotas, parqueadero, check-in, ubicación o canal correcto",
+        "Solución: la landing separa habitación, brunch, rooftop y spa antes de enviar a WhatsApp",
+        "Cierre: el equipo recibe servicio deseado, fecha, personas, dudas resueltas y siguiente acción"
+      ],
+      "galleryImages": [],
+      "journey": [
+        {
+          "title": "Etapa 1: descubrimiento desde Instagram",
+          "body": "El perfil ya muestra un concepto fácil de entender: hospedaje en Manila, brunch, rooftop, spa y habitaciones boutique. El reto es que ese interés no se quede en un guardado."
+        },
+        {
+          "title": "Etapa 2: clasificación de intención",
+          "body": "La persona puede estar buscando dormir, comer, ir al rooftop, reservar masaje, trabajar remoto o celebrar. Cada intención necesita preguntas y CTA distintos."
+        },
+        {
+          "title": "Etapa 3: WhatsApp con contexto",
+          "body": "Cuando el equipo recibe fecha, horario, personas, servicio deseado y objeción principal, la conversación empieza en cierre, no en preguntas repetidas."
+        },
+        {
+          "title": "Etapa 4: data para llenar horarios",
+          "body": "Con eventos se puede saber si vende más habitación, brunch, spa, rooftop, pareja, turismo o nómadas digitales, y empujar campañas por franjas y temporadas."
+        }
+      ],
+      "findings": [
+        "La captura muestra una propuesta compacta y comercial: hospedaje en el corazón de Manila, brunch, rooftop/bar, spa, habitaciones boutique, cultura local y reservas centralizadas en Linktree.",
+        "El Linktree público lleva a WhatsApp, Instagram y una web asociada, lo que confirma que la conversión visible depende mucho de pasar rápido de interés a conversación.",
+        "Las fichas públicas de viaje refuerzan activos útiles para vender: desayuno/brunch, café/restobar, WiFi, spa, jacuzzi/rooftop, cercanía a Parque del Poblado/Lleras y atención 24 horas."
+      ],
+      "siteIssues": [
+        "La oferta tiene varias líneas en una misma bio: hospedaje, brunch, rooftop, bar, spa, habitaciones y cultura local. Sin filtro, el visitante puede no saber cuál es el siguiente paso.",
+        "El link centraliza, pero no necesariamente clasifica intención antes de WhatsApp. Un lead de brunch y un lead de habitación pueden entrar con el mismo nivel de contexto.",
+        "Las dudas prácticas de hotel urbano aparecen antes de reservar: check-in, parqueadero, mascotas, WiFi, ubicación, ruido, tamaño de habitación, desayuno y disponibilidad."
+      ],
+      "losses": [
+        "Un viajero puede emocionarse con Manila y seguir comparando hoteles si no entiende rápido habitación, fecha, tarifa y beneficios.",
+        "Una persona interesada en brunch, rooftop o spa puede no escribir si no ve una ruta clara para reservar ese plan sin hospedarse.",
+        "Sin medición por intención, La Martina puede recibir mensajes, pero no saber qué vende más ni qué campaña debe alimentar habitaciones, brunch, spa o rooftop."
+      ],
+      "heatmapData": [
+        "Clics por intención. Medir si la demanda entra por habitación, brunch, rooftop, spa, pareja, nómada digital, turista o celebración.",
+        "Fricción antes de WhatsApp. Detectar abandono en fecha, disponibilidad, precio, ubicación, parqueadero, mascotas, check-in, WiFi o elección de servicio.",
+        "Data para pauta. Usar consultas reales para campañas por fin de semana, brunch, spa, rooftop, habitaciones, turistas en Medellín y escapadas de pareja."
+      ],
+      "campaigns": [
+        "Campañas por motivo: hotel boutique en Manila, brunch en El Poblado, rooftop/bar para plan urbano, spa para pareja y estadía corta para turistas.",
+        "Remarketing a quienes vieron habitaciones, tocaron WhatsApp, abrieron rooftop/spa o preguntaron por disponibilidad, con mensaje distinto por intención.",
+        "Campañas para turistas y nómadas digitales con promesa clara: ubicación caminable, WiFi, desayuno, café/restobar, atención y reserva directa guiada."
+      ],
+      "deliverables": [
+        "Landing/mini experiencia La Martina que separe habitaciones, brunch, rooftop, spa, ubicación, FAQ, fotos, beneficios y CTA a WhatsApp/reserva.",
+        "Concierge 24/7 para WhatsApp entrenado en fechas, huéspedes, horarios, brunch, rooftop, spa, mascotas, parqueadero, check-in, WiFi, tarifas y disponibilidad.",
+        "Pauta + pixel + mapa de calor + panel comercial para medir intención, clic a WhatsApp, abandono, servicio deseado, horarios calientes y oportunidad de remarketing."
+      ]
     }
   ]
 }
