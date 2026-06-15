@@ -1,5 +1,30 @@
 # Estudio Digital Solvers
 
+## Academia Expertia mini-estudio
+
+- [x] Verificar chat ID y permisos de Valentina.
+- [x] Recuperar el prospecto 10 de la lista diaria: `@academiaexpertia1`.
+- [x] Investigar senales publicas de Instagram, web oficial, tienda, campus, Facebook/snippets y registro publico.
+- [x] Confirmar que si tiene web activa y enfocar el estudio en mejoras de conversion.
+- [x] Descargar assets oficiales a rutas locales para evitar imagenes rotas.
+- [x] Agregar prospecto `academia-expertia` con diagnostico personalizado y bot demo.
+- [x] Verificar local, DOM renderizado y assets.
+- [ ] Publicar directo segun instruccion de Valentina.
+- [ ] Validar produccion y enviar link final.
+
+### Criterios
+
+- Como si tiene web, no ofrecer web desde cero; proponer mejorar puntos clave: tienda, fichas de curso, carrito, WhatsApp, campus, certificados, pagos, seguimiento y pauta.
+- No hacer promesas academicas/regulatorias propias; citar como senales publicas lo que dicen su web e Instagram.
+- Usar logo e imagenes oficiales de la web como assets locales.
+
+### Revision
+
+- Datos usados: Instagram/snippets publicos de `@academiaexpertia1`, web `academiaexpertia.com`, tienda WooCommerce, campus `academiaexpertia.net`, Facebook/snippets y Datacredito Empresas.
+- Senales verificadas: web activa con tienda, carrito, campus virtual, categorias salud, gestion en salud, SST, diplomados, farmacia y pedagogia; mas de 90 cursos oficiales en home; salud con mas de 120 cursos; formacion 100% virtual; telefonos 3105194848, 3153296439 y 3042532221; correo `info@academiaexpertia.com`; direccion Cra 78 B N 4-26 Bogota; Instagram/Facebook conectados; empresa Academia Expertia S.A.S. con NIT 901780059 y actividad de apoyo a la educacion segun Datacredito.
+- Assets locales oficiales: `/assets/academia-expertia-logo.png`, `/assets/academia-expertia-salud.jpg`, `/assets/academia-expertia-gerontologia.jpg`, `/assets/academia-expertia-ambulancia.jpg`, `/assets/academia-expertia-sst.jpg`.
+- Verificacion local: `npm run check` OK con 30 prospectos; HTTP 200 en `/empresa/academia-expertia`; los 5 assets responden HTTP 200 con tipos correctos; Chromium `--dump-dom` confirma titulo, hook, logo, collage y bot renderizados.
+
 ## Colombia House Inmobiliaria mini-estudio
 
 - [x] Verificar chat ID y permisos de Valentina.

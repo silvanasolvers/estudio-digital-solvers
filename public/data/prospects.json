@@ -4290,6 +4290,231 @@
         "Mejoras de conversion en fichas: CTA conversacional, resumen de lead, captura de presupuesto/zona y ruta para propietarios.",
         "Pauta + pixel + mapa de calor + panel comercial para medir inmuebles, zonas, categorias, asesores y leads reales."
       ]
+    },
+    {
+      "slug": "academia-expertia",
+      "company": "Academia Expertia",
+      "sector": "educacion virtual, cursos y diplomados en salud, SST y gestion",
+      "city": "Bogota, Colombia",
+      "tone": "academico, confiable, claro, practico y orientado a profesionales de salud",
+      "theme": "maker",
+      "brandMode": "texuno",
+      "logoImage": "/assets/academia-expertia-logo.png",
+      "heroImage": "/assets/academia-expertia-salud.jpg",
+      "accent": "#31A68D",
+      "accentRgb": "49, 166, 141",
+      "secondary": "#0ACEE4",
+      "secondaryRgb": "10, 206, 228",
+      "brandDark": "#061D23",
+      "paper": "#F1FAF7",
+      "paperCard": "#FFFFFF",
+      "brandWash": "rgba(49, 166, 141, 0.24)",
+      "brandWash2": "rgba(10, 206, 228, 0.20)",
+      "heroCopy": "Academia Expertia ya tiene web propia, tienda de cursos, carrito, campus virtual, categorias y canales de WhatsApp. El reto no es crear una pagina desde cero; es mejorar la conversion de esa web: que cada profesional encuentre rapido el curso correcto, entienda avales, horas, certificado, pago y acceso al campus antes de escribir o abandonar el carrito.",
+      "alertLabel": "Oportunidad educativa",
+      "statusLabel": "Diagnostico comercial",
+      "status": "Academia con web, tienda y campus activos, pero cada consulta necesita filtrar programa, perfil profesional, aval, certificado, pago, acceso y urgencia de inscripcion",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Web activa con tienda, campus virtual, WhatsApp, categorias de salud, SST, gestion en salud, farmacia, pedagogia y diplomados",
+      "visualCueLabel": "Dolor",
+      "visualCue": "El estudiante ve muchos cursos, pero puede no saber cual aplica, si el certificado le sirve, como pagar, cuando inicia o como entrar al campus",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asistente 24/7 que mejora la web actual y convierte visitas en inscripciones mejor filtradas",
+      "loaderLabel": "Preparando diagnostico academico",
+      "loaderTitle": "Academia Expertia bajo lupa",
+      "loaderSubtitle": "Leyendo web, tienda, campus, cursos, certificados, WhatsApp, carrito y fricciones antes de la inscripcion.",
+      "loaderCue1": "Curso correcto",
+      "loaderCue2": "Inscripcion guiada",
+      "heroStampTitle": "Academia Expertia",
+      "heroStampSubtitle": "Cursos virtuales en salud",
+      "bannerKicker": "Hook Solvers",
+      "bannerHook": "El curso interesa, pero la inscripcion se enfria",
+      "bannerSubhook": "Academia Expertia ya tiene web, tienda y campus. La mejora clave es convertir cada visita en una decision clara: curso o diplomado, perfil profesional, aval, certificado, horas, pago, acceso al campus y soporte por WhatsApp.",
+      "bannerBadge1": "Web activa",
+      "bannerBadge2": "Tienda + campus",
+      "openNode1Label": "Busqueda",
+      "openNode1Title": "Curso perfil certificado",
+      "openNode2Label": "Carrito",
+      "openNode2Title": "Pago acceso soporte",
+      "openNode3Label": "WhatsApp",
+      "openNode3Title": "Lead listo para inscribir",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Mejorar la web actual para convertir interes en matriculas",
+      "scrollTitle": "De mirar cursos a comprar con confianza",
+      "diagnosisTitle": "Donde se pierde una inscripcion virtual",
+      "leadProblem": "La busqueda publica muestra a @academiaexpertia1 como Academia Expertia en Bogota, con cursos y diplomados para profesionales de la salud, enfermeria, SST, urgencias y programas 100% virtuales. La web `academiaexpertia.com` presenta tienda, carrito, campus virtual en `academiaexpertia.net`, mas de 90 cursos oficiales, categorias de salud, gestion en salud, SST, diplomados, farmacia y pedagogia; tambien muestra telefonos 3105194848, 3153296439 y 3042532221, correo info@academiaexpertia.com y direccion Cra 78 B N 4-26 Bogota. Datacredito Empresas lista Academia Expertia S.A.S. con NIT 901780059, matricula activa, constituida el 11-12-2023 y actividad de apoyo a la educacion.",
+      "opportunity": "La oportunidad para Academia Expertia no es hacer una web basica, porque ya existe. Es mejorar puntos clave de conversion: buscador guiado por perfil profesional, ficha de curso con CTA conversacional, explicacion clara de aval/certificado/horas, rescate de carrito, soporte de pago, acceso al campus, seguimiento de estudiantes y panel que muestre que programas generan mas inscripciones reales.",
+      "proofLine": "Lectura preliminar basada en busqueda publica del 15 de junio de 2026 sobre Instagram @academiaexpertia1, web `academiaexpertia.com`, tienda, campus `academiaexpertia.net`, Facebook/snippets y Datacredito Empresas: cursos y diplomados virtuales en salud, SST, gestion, farmacia y pedagogia; telefonos 3105194848, 3153296439 y 3042532221; correo `info@academiaexpertia.com`; direccion Cra 78 B N 4-26 Bogota; NIT 901780059. Se valida con equipo academico, catalogo vigente, avales, politicas de certificado, pagos, soporte y conversion real antes de ejecutar.",
+      "audience": "Auxiliares, enfermeros, profesionales de salud, personal de SST, farmacia, gestion en salud y personas que necesitan actualizar certificaciones o diplomados virtuales sin perder tiempo preguntando por requisitos, vigencia, pago o acceso al campus.",
+      "adAngle": "Web educativa con tienda y campus activos, mejorada para guiar al estudiante hasta el curso correcto y reducir abandonos antes de pagar o escribir por WhatsApp",
+      "whatsappCta": "Quiero convertir mas visitas en inscripciones",
+      "scrollIntro": "El estudio convierte el catalogo en una conversacion: primero entiende el perfil del estudiante, despues recomienda ruta de curso o diplomado y finalmente entrega a WhatsApp o carrito una intencion lista para inscribir.",
+      "experienceIntro": "En educacion virtual, la confianza decide la compra. El estudiante necesita entender si el curso le sirve, cuanto dura, que certificado recibe, como paga y como entra al campus.",
+      "botTitle": "Asistente Academia Expertia: inscripciones filtradas antes de WhatsApp",
+      "botIntro": "Este demo muestra como un asistente puede mejorar la web actual, ordenar el catalogo, resolver dudas frecuentes y llevar cada visita al curso, carrito o asesor correcto.",
+      "botAgentName": "Asesor Academia Expertia demo",
+      "botAgentRole": "Cursos, diplomados, certificados, pagos y campus",
+      "botDemoTitle": "Menos dudas antes de pagar",
+      "botDemoBody": "El estudiante puede preguntar por un curso, certificado, pago o acceso. El agente recoge perfil, necesidad, programa de interes y urgencia antes de pasar a WhatsApp.",
+      "botTrainingTitle": "Entrenado con operacion educativa",
+      "botTrainingBody": "Categorias, cursos, diplomados, horas, certificados, avales segun la academia, pagos, carrito, campus virtual, soporte, reentrenamientos y seguimiento comercial.",
+      "botOpening": "Hola, soy el asesor demo de Academia Expertia. Puedo ayudarte a filtrar cursos, diplomados, certificados, pagos, acceso al campus, soporte o el programa que mejor encaja con tu perfil.",
+      "botPrompts": [
+        "¿Como filtra cursos?",
+        "¿Sirve para recuperar carrito?",
+        "¿Que mejora en la web?",
+        "¿Como responde sobre certificados?",
+        "¿Que datos deja para pauta?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "curso",
+            "diplomado",
+            "programa",
+            "perfil",
+            "salud",
+            "sst",
+            "farmacia"
+          ],
+          "answer": "Pregunta perfil profesional, area de interes, si necesita curso o diplomado, urgencia, horas/certificado esperado y si ya vio un programa. Con eso recomienda una ruta y evita que el usuario navegue perdido."
+        },
+        {
+          "keywords": [
+            "carrito",
+            "pagar",
+            "pago",
+            "compra",
+            "precio",
+            "abandonado"
+          ],
+          "answer": "Puede detectar dudas antes del pago: medio de pago, soporte, acceso al campus, certificado y pasos de compra. Si la persona no termina, deja seguimiento listo para WhatsApp o remarketing."
+        },
+        {
+          "keywords": [
+            "web",
+            "pagina",
+            "página",
+            "mejorar",
+            "tienda",
+            "catalogo",
+            "catálogo"
+          ],
+          "answer": "La web ya existe. La mejora es agregar buscador conversacional, CTA por ficha, resumen de dudas, rescate de carrito y medicion de que cursos generan consultas e inscripciones reales."
+        },
+        {
+          "keywords": [
+            "certificado",
+            "aval",
+            "minsalud",
+            "mineducacion",
+            "ministerio",
+            "horas"
+          ],
+          "answer": "El asistente no inventa avales: toma la informacion oficial de la academia, explica horas, certificado, condiciones y deriva a un asesor cuando una respuesta requiere validacion academica."
+        },
+        {
+          "keywords": [
+            "datos",
+            "pauta",
+            "analytics",
+            "campana",
+            "campaña",
+            "medir"
+          ],
+          "answer": "Deja data por curso consultado, perfil, objecion, fuente, carrito, pregunta frecuente y conversion. Eso ayuda a pauta, remarketing y priorizacion del catalogo."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "Web, tienda y campus",
+          "body": "Ya tienen presencia digital transaccional con carrito, campus virtual, categorias y canales de soporte."
+        },
+        {
+          "label": "Dolor 01",
+          "title": "Catalogo amplio",
+          "body": "Con muchos cursos, el estudiante puede no saber cual elegir o que certificado necesita."
+        },
+        {
+          "label": "Dolor 02",
+          "title": "Carrito con dudas",
+          "body": "Antes de pagar aparecen preguntas sobre aval, horas, acceso, soporte y certificado."
+        },
+        {
+          "label": "Solucion",
+          "title": "Web conversacional",
+          "body": "Un agente guia al curso correcto y deja cada inscripcion con contexto comercial."
+        }
+      ],
+      "experiencePath": [
+        "Busqueda: la persona entra desde Instagram, Google o la web y mira cursos por salud, SST, diplomados o gestion",
+        "Friccion: no sabe si el curso aplica, que certificado recibe, como paga, cuando empieza o como accede al campus",
+        "Solucion: el asistente pregunta lo minimo y mejora la ficha con CTA conversacional",
+        "Cierre: WhatsApp o carrito recibe un estudiante con programa, perfil, duda y urgencia claros"
+      ],
+      "galleryImages": [
+        {
+          "src": "/assets/academia-expertia-salud.jpg",
+          "label": "Cursos en salud"
+        },
+        {
+          "src": "/assets/academia-expertia-gerontologia.jpg",
+          "label": "Diplomados virtuales"
+        },
+        {
+          "src": "/assets/academia-expertia-ambulancia.jpg",
+          "label": "Capacitacion practica"
+        }
+      ],
+      "journey": [
+        {
+          "title": "Etapa 1: visita desde Instagram o Google",
+          "body": "El profesional llega con una necesidad de certificarse o actualizarse, pero no siempre sabe que programa comprar."
+        },
+        {
+          "title": "Etapa 2: filtro academico comercial",
+          "body": "El asistente pregunta perfil, area, curso/diplomado, urgencia, duda de aval/certificado y preferencia de pago."
+        },
+        {
+          "title": "Etapa 3: carrito o WhatsApp con resumen",
+          "body": "La persona recibe ruta clara al producto y el asesor recibe contexto para cerrar la inscripcion."
+        },
+        {
+          "title": "Etapa 4: seguimiento y pauta",
+          "body": "Cada consulta deja datos para remarketing, cursos destacados, abandono de carrito y soporte poscompra."
+        }
+      ],
+      "findings": [
+        "Academia Expertia ya cuenta con sitio web, tienda, carrito, campus virtual, categorias, WhatsApp y redes conectadas.",
+        "La mejora no es presencia basica, sino conversion: que cada ficha de curso resuelva dudas clave antes de pago o WhatsApp.",
+        "Hay rutas distintas que conviene separar: nuevos estudiantes, reentrenamientos, profesionales de salud, SST, farmacia, gestion y soporte de campus."
+      ],
+      "siteIssues": [
+        "El catalogo amplio puede generar indecision si no hay recomendacion guiada por perfil, area o requisito laboral.",
+        "Las fichas pueden recibir consultas sin capturar programa, objetivo, certificado esperado, urgencia o medio de pago.",
+        "La web puede medir mejor que cursos, categorias y objeciones generan compras, carritos abandonados y conversaciones de WhatsApp."
+      ],
+      "losses": [
+        "Un profesional puede abandonar si debe comparar muchos cursos sin una ruta clara.",
+        "Un carrito puede quedar incompleto por dudas de pago, certificado, acceso al campus o soporte.",
+        "Sin clasificar leads por curso y perfil, pauta y seguimiento aprenden menos sobre que programas venden mejor."
+      ],
+      "heatmapData": [
+        "Intencion por programa: salud, SST, gestion, farmacia, pedagogia, diplomado, reentrenamiento o curso corto.",
+        "Friccion antes de comprar: aval, certificado, horas, precio, pago, acceso al campus, soporte, fechas y vigencia.",
+        "Data para pauta: curso consultado, categoria, perfil profesional, objecion, fuente, abandono de carrito y conversion a compra."
+      ],
+      "campaigns": [
+        "Campanas por perfil: enfermeria, auxiliares, SST, farmacia y gestion con recomendacion de ruta academica inmediata.",
+        "Campanas de confianza: certificado, avales segun la academia, campus virtual, paso a paso de compra y soporte.",
+        "Remarketing a visitantes de fichas y carritos: recuperar personas que vieron un curso pero no terminaron inscripcion."
+      ],
+      "deliverables": [
+        "Asistente Solvers para Academia Expertia, conectado a la web actual para filtrar cursos, diplomados, certificados, pagos y campus virtual.",
+        "Mejoras de conversion en fichas: CTA conversacional, recomendador de programa, captura de perfil/urgencia y rescate de carrito.",
+        "Pauta + pixel + mapa de calor + panel comercial para medir cursos, categorias, objeciones, carritos e inscripciones reales."
+      ]
     }
   ]
 }
