@@ -2666,7 +2666,7 @@
       "theme": "maker",
       "brandMode": "texuno",
       "logoImage": "/assets/maria-bonita-logo.png",
-      "heroImage": "https://eresmariabonita.com/wp-content/uploads/2026/01/7720-P.jpg",
+      "heroImage": "/assets/maria-bonita-talla-plus.jpg",
       "accent": "#D94B75",
       "accentRgb": "217, 75, 117",
       "secondary": "#F1C36D",
@@ -2820,15 +2820,15 @@
       ],
       "galleryImages": [
         {
-          "src": "https://eresmariabonita.com/wp-content/uploads/2026/01/7720-P.jpg",
+          "src": "/assets/maria-bonita-talla-plus.jpg",
           "label": "Talla plus + comodidad"
         },
         {
-          "src": "https://eresmariabonita.com/wp-content/uploads/2023/12/6-Crop-Tops-Surtidos.jpg",
+          "src": "/assets/maria-bonita-rotacion-prendas.jpg",
           "label": "Rotacion de prendas"
         },
         {
-          "src": "https://eresmariabonita.com/wp-content/uploads/2023/12/6216-PLUS-1.jpg",
+          "src": "/assets/maria-bonita-conjuntos-colores.jpg",
           "label": "Conjuntos y colores"
         }
       ],
