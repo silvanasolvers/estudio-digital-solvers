@@ -1411,27 +1411,69 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["carrito", "abandonado", "favoritos", "recupera", "recuperar", "bolsa"],
+          "keywords": [
+            "carrito",
+            "abandonado",
+            "favoritos",
+            "recupera",
+            "recuperar",
+            "bolsa"
+          ],
           "answer": "Para Texuno, el agente puede detectar intención: prenda vista, talla elegida, color, oferta o favorito guardado. Si la compradora no paga, se activa seguimiento con contexto: disponibilidad, envío, cambio, oferta vigente y link directo al producto."
         },
         {
-          "keywords": ["mayorista", "mayoristas", "por mayor", "cantidad", "docena"],
+          "keywords": [
+            "mayorista",
+            "mayoristas",
+            "por mayor",
+            "cantidad",
+            "docena"
+          ],
           "answer": "Sí. El flujo separa compra retail de compra mayorista. Pregunta ciudad, tipo de prenda, cantidades, presupuesto, frecuencia de compra y canal de venta; luego entrega el lead ordenado para cierre comercial."
         },
         {
-          "keywords": ["talla", "tallas", "color", "colores", "disponibilidad", "stock"],
+          "keywords": [
+            "talla",
+            "tallas",
+            "color",
+            "colores",
+            "disponibilidad",
+            "stock"
+          ],
           "answer": "El bot puede guiar por referencia, talla, color y disponibilidad. Si algo no está disponible, puede sugerir alternativas similares y guardar qué tallas o colores se pidieron para alimentar inventario y pauta."
         },
         {
-          "keywords": ["whatsapp", "mensaje", "responder", "atencion", "atención", "soporte"],
+          "keywords": [
+            "whatsapp",
+            "mensaje",
+            "responder",
+            "atencion",
+            "atención",
+            "soporte"
+          ],
           "answer": "WhatsApp deja de ser solo bandeja de entrada. El agente responde preguntas frecuentes, clasifica intención, pide datos mínimos y pasa al equipo las conversaciones que sí requieren cierre humano."
         },
         {
-          "keywords": ["pauta", "meta", "instagram", "anuncio", "campaña", "campana", "datos"],
+          "keywords": [
+            "pauta",
+            "meta",
+            "instagram",
+            "anuncio",
+            "campaña",
+            "campana",
+            "datos"
+          ],
           "answer": "La pauta mejora porque ya no medimos solo clics. Medimos qué prenda preguntaron, qué talla buscaban, qué objeción apareció, qué anuncio trajo carritos y qué producto conviene empujar de nuevo."
         },
         {
-          "keywords": ["envio", "envío", "devolucion", "devolución", "cambio", "pago"],
+          "keywords": [
+            "envio",
+            "envío",
+            "devolucion",
+            "devolución",
+            "cambio",
+            "pago"
+          ],
           "answer": "El agente responde condiciones de envío, pagos, cambios y devoluciones según la política real de Texuno. Eso baja fricción antes del pago y evita que el equipo repita la misma información todo el día."
         }
       ],
@@ -1792,23 +1834,61 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["talla", "tallas", "xs", "xl", "medida", "medidas", "color", "colores"],
+          "keywords": [
+            "talla",
+            "tallas",
+            "xs",
+            "xl",
+            "medida",
+            "medidas",
+            "color",
+            "colores"
+          ],
           "answer": "La asesora puede preguntar referencia o prenda vista, talla usual, color deseado y ciudad. Si la talla no está disponible, sugiere alternativa similar y registra qué talla/color faltó para inventario y pauta."
         },
         {
-          "keywords": ["ocasion", "ocasión", "evento", "cena", "salida", "vacaciones", "look"],
+          "keywords": [
+            "ocasion",
+            "ocasión",
+            "evento",
+            "cena",
+            "salida",
+            "vacaciones",
+            "look"
+          ],
           "answer": "Sí. El flujo puede recomendar por ocasión: cena, salida, evento, vacaciones o look diario. Así la clienta no solo pregunta precio: recibe guía para elegir y avanzar al pedido."
         },
         {
-          "keywords": ["whatsapp", "dm", "mensaje", "responder", "atencion", "atención"],
+          "keywords": [
+            "whatsapp",
+            "dm",
+            "mensaje",
+            "responder",
+            "atencion",
+            "atención"
+          ],
           "answer": "WhatsApp y DM dejan de ser bandejas sueltas. La asesora clasifica intención, responde lo repetido, pide datos mínimos y pasa al equipo una conversación lista para cerrar."
         },
         {
-          "keywords": ["stock", "disponibilidad", "agotado", "agotada", "alternativa"],
+          "keywords": [
+            "stock",
+            "disponibilidad",
+            "agotado",
+            "agotada",
+            "alternativa"
+          ],
           "answer": "Si una prenda está agotada, el agente puede ofrecer colores, tallas o modelos parecidos. También guarda esa demanda para saber qué vale la pena reponer o volver a publicar."
         },
         {
-          "keywords": ["pauta", "meta", "instagram", "anuncio", "campaña", "campana", "datos"],
+          "keywords": [
+            "pauta",
+            "meta",
+            "instagram",
+            "anuncio",
+            "campaña",
+            "campana",
+            "datos"
+          ],
           "answer": "La pauta mejora porque se mide qué prenda preguntaron, qué talla buscaban, qué color se agotó, qué reel generó DMs y qué clientas necesitan seguimiento para cerrar pedido."
         }
       ],
@@ -3325,6 +3405,231 @@
         "Asistente Solvers personalizado para Adriana Castellanos, conectado a preguntas de fecha, porciones, tematica, sabores, entregas, anticipo y cupos.",
         "Formulario conversacional para convertir Instagram/Bio Site en brief de torta antes de WhatsApp.",
         "Pauta + pixel + mapa de calor + panel comercial para medir intencion por ocasion, porciones, presupuesto, zona y anticipacion."
+      ]
+    },
+    {
+      "slug": "somos-melt-cartagena",
+      "company": "MELT bakery & cafe",
+      "sector": "bakery cafe, antojos dulces, meltos, helados y domicilios en Cartagena",
+      "city": "Cartagena, Bocagrande y Caribe Plaza",
+      "tone": "antojadizo, joven, dulce, rapido y muy visual",
+      "theme": "restaurant",
+      "brandMode": "texuno",
+      "logoImage": "/assets/somos-melt-logo.png",
+      "heroImage": "/assets/somos-melt-melto-arequipe.jpg",
+      "accent": "#F47A1F",
+      "accentRgb": "244, 122, 31",
+      "secondary": "#F4D0A4",
+      "secondaryRgb": "244, 208, 164",
+      "brandDark": "#071A4A",
+      "paper": "#FFF5EA",
+      "paperCard": "#FFFDFC",
+      "brandWash": "rgba(244, 122, 31, 0.24)",
+      "brandWash2": "rgba(244, 208, 164, 0.20)",
+      "heroCopy": "MELT ya tiene una marca altamente antojable: bakery & cafe en Cartagena, web propia, menu visible, sedes en Bocagrande y Caribe Plaza, Rappi, WhatsApp por sede, programa de fidelidad y una comunidad grande que llega desde Instagram por productos virales. El cuello de botella no es crear deseo; es ordenar la intencion antes de que el cliente se pierda entre sede, producto, domicilio, fila, disponibilidad y canal de compra.",
+      "alertLabel": "Oportunidad antojos",
+      "statusLabel": "Diagnostico comercial",
+      "status": "Marca con alto deseo visual y trafico social, pero cada antojo necesita ruta clara: sede, producto, disponibilidad, domicilio, WhatsApp, Rappi o fidelidad",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Bakery & cafe en Cartagena con productos muy fotografiables, menu propio, dos sedes, Rappi, WhatsApp y comunidad de 92K seguidores",
+      "visualCueLabel": "Dolor",
+      "visualCue": "El cliente ve un melto viral y pregunta sin saber sede, horario, precio, domicilio, disponibilidad o si le conviene ir, pedir por Rappi o escribir a WhatsApp",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asistente 24/7 que convierte antojo en pedido guiado por sede, producto, canal y momento de consumo",
+      "loaderLabel": "Derritiendo el diagnostico",
+      "loaderTitle": "MELT bajo lupa",
+      "loaderSubtitle": "Leyendo web, menu, Linktree, sedes, Rappi, WhatsApp, Instagram y fricciones antes del antojo.",
+      "loaderCue1": "Sede y producto",
+      "loaderCue2": "Pedido guiado",
+      "heroStampTitle": "MELT Cartagena",
+      "heroStampSubtitle": "Bakery cafe + antojos",
+      "bannerKicker": "Hook Solvers",
+      "bannerHook": "El antojo se derrite si no sabe como pedir",
+      "bannerSubhook": "Melt ya dispara deseo con productos virales. La oportunidad esta en guiar al cliente en segundos: que sede le queda mejor, que producto quiere, si hay disponibilidad, si pide por Rappi, WhatsApp o va al local y como acumula fidelidad.",
+      "bannerBadge1": "92K seguidores",
+      "bannerBadge2": "Cartagena + Rappi",
+      "openNode1Label": "Antojo",
+      "openNode1Title": "Melto producto sede",
+      "openNode2Label": "Canal",
+      "openNode2Title": "Local Rappi WhatsApp",
+      "openNode3Label": "Fidelidad",
+      "openNode3Title": "QR recompra cupones",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Convertir cada antojo viral en pedido claro",
+      "scrollTitle": "Del post que provoca al pedido que llega",
+      "diagnosisTitle": "Donde se enfria un antojo de Melt",
+      "leadProblem": "La busqueda publica muestra a @somos.melt como MELT bakery & cafe en Cartagena con 92K seguidores, 3 seguidos y mas de 760 publicaciones; bio con \"Melt to be yours! Tus antojos favoritos\", Cartagena, abierto todos los dias y RNT 215489. Su web oficial confirma sedes en Centro Comercial Caribe Plaza y Bocagrande, menu publico, productos mas pedidos como Melto de Arequipe, Chocolate, Pistacho, Dubai, Galleta, Almendra, brownie de Milo, trenza de canela, tarta vasca, croissant, helado y programa de fidelidad por QR. Linktree agrega Rappi, WhatsApp por sede, ubicaciones y venta institucional Panetto.",
+      "opportunity": "La oportunidad para MELT es poner un asistente Solvers antes de WhatsApp/Rappi: preguntar si el cliente quiere ir a sede o pedir a domicilio, ubicar Bocagrande o Caribe Plaza, recomendar producto segun antojo dulce/salado/frio/cafe, explicar Rappi, menu, horarios, cupones de fidelidad y derivar al canal correcto. Asi Instagram deja de ser solo vitrinas virales y se vuelve flujo de pedido medible.",
+      "proofLine": "Lectura preliminar basada en busqueda publica del 15 de junio de 2026 sobre Instagram @somos.melt, web oficial somosmelt.com, Linktree y Rappi: bakery & cafe en Cartagena, 92K seguidores, sedes Bocagrande y Caribe Plaza, menu de meltos/antojos/helados, Rappi, WhatsApp por sede, programa de fidelidad QR y RNT 215489. Se valida con menu, inventario, horarios, politicas de domicilio, sedes y datos de venta reales antes de ejecutar.",
+      "audience": "Personas en Cartagena que buscan postre, cafe o antojo rapido; turistas en Bocagrande; visitantes de Caribe Plaza; clientes que vieron un producto viral en Instagram/TikTok; usuarios de Rappi; y compradores institucionales interesados en Panetto o pedidos de volumen.",
+      "adAngle": "Antojos Melt en Cartagena con pedido guiado por sede, producto, Rappi, WhatsApp y fidelidad",
+      "whatsappCta": "Quiero convertir antojos en pedidos guiados",
+      "scrollIntro": "El estudio traduce el impulso del cliente: primero entiende que se le antojo, despues recomienda producto, sede y canal, y finalmente lo lleva a comprar sin vueltas.",
+      "experienceIntro": "MELT no vende solo postres; vende el momento de antojo. La automatizacion debe sentirse igual de rapida, dulce y clara que pedir algo que viste en Instagram.",
+      "botTitle": "Asistente MELT: antojos respondidos al instante",
+      "botIntro": "Este demo muestra como un asistente puede resolver producto, sede, domicilio, Rappi, WhatsApp, fidelidad, menu y dudas frecuentes antes de que el cliente abandone el antojo.",
+      "botAgentName": "Asistente MELT demo",
+      "botAgentRole": "Meltos, sedes, Rappi, WhatsApp y fidelidad",
+      "botDemoTitle": "Menos antojos perdidos",
+      "botDemoBody": "El cliente puede preguntar por un producto viral, una sede, una entrega o una recomendacion. El agente responde y lo manda al canal correcto.",
+      "botTrainingTitle": "Entrenado con operacion bakery",
+      "botTrainingBody": "Menu, productos mas pedidos, sedes Bocagrande/Caribe Plaza, Rappi, WhatsApp por sede, horarios, fidelidad QR, cupones, rutas de contacto y preguntas frecuentes.",
+      "botOpening": "Hola, soy el asistente demo de MELT. Preguntame por meltos, sede mas cercana, Rappi, WhatsApp, menu, fidelidad o que pedir segun tu antojo.",
+      "botPrompts": [
+        "¿Como guia un pedido?",
+        "¿Que sede me conviene?",
+        "¿Sirve para Rappi y WhatsApp?",
+        "¿Como recomienda productos?",
+        "¿Que datos deja para pauta?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "pedido",
+            "pedir",
+            "comprar",
+            "antojo",
+            "menu",
+            "menú"
+          ],
+          "answer": "Primero pregunta si el cliente quiere ir al local o pedir a domicilio, que se le antoja dulce/salado/frio/cafe, cuantas personas son y en que zona esta. Luego recomienda producto y canal: sede, Rappi o WhatsApp."
+        },
+        {
+          "keywords": [
+            "sede",
+            "bocagrande",
+            "caribe",
+            "plaza",
+            "ubicacion",
+            "ubicación",
+            "direccion"
+          ],
+          "answer": "Ubica al cliente entre Bocagrande y Caribe Plaza. Si esta cerca o quiere experiencia en local, manda ubicacion; si busca rapidez o domicilio, lo deriva a Rappi o WhatsApp de la sede correcta."
+        },
+        {
+          "keywords": [
+            "rappi",
+            "whatsapp",
+            "domicilio",
+            "entrega",
+            "delivery"
+          ],
+          "answer": "Puede explicar que Melt tiene Rappi y WhatsApp por sede. El asistente evita mandar a todos al mismo canal y ayuda a elegir segun urgencia, ubicacion y tipo de pedido."
+        },
+        {
+          "keywords": [
+            "recomienda",
+            "recomendacion",
+            "pistacho",
+            "chocolate",
+            "arequipe",
+            "dubai",
+            "frio",
+            "cafe"
+          ],
+          "answer": "Hace preguntas simples: si quiere chocolate, pistacho, arequipe, algo frio, algo salado o cafe. Con eso sugiere meltos, tarta vasca, croissant, helado o productos de temporada sin saturar al cliente."
+        },
+        {
+          "keywords": [
+            "datos",
+            "pauta",
+            "analytics",
+            "campana",
+            "campaña",
+            "medir"
+          ],
+          "answer": "Deja data sobre productos mas preguntados, sede preferida, zonas de domicilio, antojos por hora, dudas de Rappi/WhatsApp y canjes de fidelidad. Esa data ayuda a pauta y a operacion."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "Deseo inmediato",
+          "body": "Los productos de Melt son muy visuales y provocan compra rapida desde Instagram."
+        },
+        {
+          "label": "Dolor 01",
+          "title": "Canales dispersos",
+          "body": "Web, Linktree, Rappi, WhatsApp y sedes compiten por la decision del cliente."
+        },
+        {
+          "label": "Dolor 02",
+          "title": "Sede incorrecta",
+          "body": "Si el cliente no sabe donde pedir o recoger, el antojo puede enfriarse."
+        },
+        {
+          "label": "Solucion",
+          "title": "Pedido guiado",
+          "body": "Un agente convierte el deseo en producto, sede y canal correcto en segundos."
+        }
+      ],
+      "experiencePath": [
+        "Deseo: la persona ve un melto, torta o producto viral en Instagram/TikTok y quiere probarlo ya",
+        "Friccion: no sabe si ir a Bocagrande, Caribe Plaza, pedir por Rappi o escribir a WhatsApp",
+        "Solucion: el asistente pregunta zona, antojo, canal y momento para recomendar la ruta correcta",
+        "Cierre: el cliente llega al menu, sede, Rappi o WhatsApp con menos dudas y mas intencion de compra"
+      ],
+      "galleryImages": [
+        {
+          "src": "/assets/somos-melt-bocagrande.jpg",
+          "label": "Sede Bocagrande"
+        },
+        {
+          "src": "/assets/somos-melt-melto-chocolate.jpg",
+          "label": "Melto favorito"
+        },
+        {
+          "src": "/assets/somos-melt-melto-pistacho.jpg",
+          "label": "Antojo pistacho"
+        }
+      ],
+      "journey": [
+        {
+          "title": "Etapa 1: contenido que provoca",
+          "body": "El cliente ve un producto en Instagram, TikTok o la web y decide que quiere probarlo."
+        },
+        {
+          "title": "Etapa 2: ruta de compra",
+          "body": "La decision real es sede, producto, disponibilidad, horario, Rappi, WhatsApp o visita al local."
+        },
+        {
+          "title": "Etapa 3: pedido sin vueltas",
+          "body": "Un asistente resume la necesidad y manda al canal correcto para que el impulso no se pierda."
+        },
+        {
+          "title": "Etapa 4: recompra medible",
+          "body": "La fidelidad QR, cupones y data de antojos permiten activar recompra y pauta por producto o sede."
+        }
+      ],
+      "findings": [
+        "MELT tiene una presencia digital activa: web, Instagram, Linktree, Rappi, WhatsApp por sede y programa de fidelidad.",
+        "La marca ya genera antojo con productos altamente visuales; el punto critico es convertir ese deseo en ruta de compra clara.",
+        "La oportunidad no es abrir otro canal, sino ordenar los canales existentes para que cada visita llegue a la sede, producto o domicilio correcto."
+      ],
+      "siteIssues": [
+        "El cliente puede entrar por Instagram, web, Linktree o Rappi y no saber cual es la mejor ruta para pedir en ese momento.",
+        "Las sedes y canales diferentes requieren una recomendacion rapida para evitar preguntas repetidas por WhatsApp.",
+        "El programa de fidelidad puede quedarse desconectado del momento de compra si no se explica antes de pagar o visitar."
+      ],
+      "losses": [
+        "Un antojo impulsivo se puede perder si el cliente no encuentra rapido el producto, sede o canal de pedido.",
+        "WhatsApp puede recibir preguntas repetidas sobre menu, ubicacion, Rappi, horarios y disponibilidad.",
+        "Sin data por producto/sede/hora, es mas dificil saber que pauta convierte en pedidos reales y recompra."
+      ],
+      "heatmapData": [
+        "Intencion por producto: melto de arequipe, chocolate, pistacho, Dubai, galleta, almendra, tarta vasca, croissant, helados o temporada.",
+        "Friccion antes de comprar: sede, domicilio, Rappi, disponibilidad, horario, precio, fila, cupon o WhatsApp correcto.",
+        "Data para pauta: productos mas preguntados, zonas, hora del antojo, sede preferida, canal elegido y recompra por fidelidad."
+      ],
+      "campaigns": [
+        "Campañas de producto viral: cada reel o post lleva a un asistente que recomienda sede y canal para comprar ese producto.",
+        "Campañas por sede: Bocagrande y Caribe Plaza con llamados distintos segun ubicacion, turismo, centro comercial o domicilio.",
+        "Campañas de recompra: QR de fidelidad, cupones y recordatorios por productos favoritos o temporadas."
+      ],
+      "deliverables": [
+        "Asistente Solvers personalizado para MELT, conectado a preguntas de menu, sedes, Rappi, WhatsApp, productos y fidelidad.",
+        "Formulario conversacional para convertir Instagram, Linktree y web en pedido guiado antes del canal final.",
+        "Pauta + pixel + mapa de calor + panel comercial para medir antojos por producto, sede, canal, hora y recompra."
       ]
     }
   ]
