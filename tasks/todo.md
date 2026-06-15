@@ -8,8 +8,8 @@
 - [x] Descargar assets oficiales a rutas locales para evitar imagenes rotas.
 - [x] Agregar prospecto `somos-melt-cartagena` con diagnostico personalizado y bot demo.
 - [x] Verificar local, DOM renderizado y assets.
-- [ ] Publicar directo segun instruccion de Valentina.
-- [ ] Validar produccion y enviar link final.
+- [x] Publicar directo segun instruccion de Valentina.
+- [x] Validar produccion y enviar link final.
 
 ### Criterios
 
@@ -23,6 +23,8 @@
 - Senales verificadas: MELT bakery & cafe en Cartagena, 92K seguidores, mas de 760 publicaciones, RNT 215489, "Melt to be yours! Tus antojos favoritos", sedes Bocagrande y Centro Comercial Caribe Plaza, menu publico, Rappi, WhatsApp por sede, programa de fidelidad QR y productos como meltos de arequipe/chocolate/pistacho/Dubai, tarta vasca, croissant, helado y temporada.
 - Assets locales oficiales: `/assets/somos-melt-logo.png`, `/assets/somos-melt-bocagrande.jpg`, `/assets/somos-melt-caribe-plaza.jpg`, `/assets/somos-melt-melto-arequipe.jpg`, `/assets/somos-melt-melto-chocolate.jpg`, `/assets/somos-melt-melto-pistacho.jpg`.
 - Verificacion local: `npm run check` OK con 26 prospectos; HTTP 200 en `/empresa/somos-melt-cartagena`; los 6 assets MELT responden HTTP 200 con tipos correctos; Chromium `--dump-dom` confirma titulo, hook, logo, collage y bot renderizados. El navegador administrado bloqueo `localhost`, asi que la revision visual completa se hara en produccion despues del deploy.
+- Publicacion: commit `439d0a0` (`Add Somos Melt digital study`) pusheado a `main`.
+- Produccion verificada: `https://estudios-digitales.solversai.cloud/empresa/somos-melt-cartagena` HTTP 200; JSON publico contiene slug, hook "El antojo se derrite si no sabe como pedir", bot "Asistente MELT demo", logo y 3 imagenes; los 6 assets responden HTTP 200 con tipos correctos; navegador publico desktop 1440x900 confirma sin overflow horizontal, H1/hook/bot sin corte, y galeria cargada con dimensiones reales.
 
 ## Adriana Castellanos Reposteria mini-estudio
 
