@@ -8,8 +8,8 @@
 - [x] Descargar assets oficiales a rutas locales para evitar imagenes rotas.
 - [x] Agregar prospecto `loft-concept-barranquilla` con diagnostico personalizado y bot demo.
 - [x] Verificar local, DOM renderizado y assets.
-- [ ] Enviar link local a Valentina.
-- [ ] Publicar solo si Valentina confirma deploy.
+- [x] Enviar link local a Valentina.
+- [x] Publicar solo si Valentina confirma deploy.
 
 ### Criterios
 
@@ -23,6 +23,8 @@
 - Web verificada: catalogo/tienda, carrito de cotizacion, solicitud de cita, categorias sofas/sillas/poltronas/mesas/camas/consolas, sede principal Cra 62 #76-170 y showroom Cra 51b #79-118 Barranquilla.
 - Assets locales oficiales agregados: `/assets/loft-concept-logo.png`, `/assets/loft-concept-showroom.jpg`, `/assets/loft-concept-sofas.jpg`, `/assets/loft-concept-comedores.jpg`, `/assets/loft-concept-sillas.jpg`.
 - Verificacion local: `npm run check` OK con 24 prospectos; HTTP 200 en `/empresa/loft-concept-barranquilla`; JSON publico local contiene hook, bot, logo y hero; 5 assets Loft responden HTTP 200 con tipos correctos; Chromium `--dump-dom` confirma titulo, hook, logo, hero, collage y bot renderizados. Capturas no se guardaron por permisos del snap de Chromium y el navegador administrado bloquea `localhost`.
+- Publicacion: Valentina aprobo con "dale". Commit `3a30214` (`Add Loft Concept digital study`) pusheado a `main`.
+- Produccion: `https://estudios-digitales.solversai.cloud/empresa/loft-concept-barranquilla` HTTP 200; JSON publico contiene slug, hook, bot, logo y 3 imagenes; los 5 assets Loft responden HTTP 200 con tipos correctos; navegador publico validado en desktop 1440x900 sin overflow horizontal, H1/hook sin corte, bot correcto y galeria cargada con dimensiones reales.
 
 ## Maria Bonita Womenswear mini-estudio
 
