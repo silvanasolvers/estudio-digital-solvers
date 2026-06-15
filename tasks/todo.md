@@ -9,8 +9,8 @@
 - [x] Descargar assets oficiales a rutas locales para evitar imagenes rotas.
 - [x] Agregar prospecto `academia-expertia` con diagnostico personalizado y bot demo.
 - [x] Verificar local, DOM renderizado y assets.
-- [ ] Publicar directo segun instruccion de Valentina.
-- [ ] Validar produccion y enviar link final.
+- [x] Publicar directo segun instruccion de Valentina.
+- [x] Validar produccion y enviar link final.
 
 ### Criterios
 
@@ -24,6 +24,8 @@
 - Senales verificadas: web activa con tienda, carrito, campus virtual, categorias salud, gestion en salud, SST, diplomados, farmacia y pedagogia; mas de 90 cursos oficiales en home; salud con mas de 120 cursos; formacion 100% virtual; telefonos 3105194848, 3153296439 y 3042532221; correo `info@academiaexpertia.com`; direccion Cra 78 B N 4-26 Bogota; Instagram/Facebook conectados; empresa Academia Expertia S.A.S. con NIT 901780059 y actividad de apoyo a la educacion segun Datacredito.
 - Assets locales oficiales: `/assets/academia-expertia-logo.png`, `/assets/academia-expertia-salud.jpg`, `/assets/academia-expertia-gerontologia.jpg`, `/assets/academia-expertia-ambulancia.jpg`, `/assets/academia-expertia-sst.jpg`.
 - Verificacion local: `npm run check` OK con 30 prospectos; HTTP 200 en `/empresa/academia-expertia`; los 5 assets responden HTTP 200 con tipos correctos; Chromium `--dump-dom` confirma titulo, hook, logo, collage y bot renderizados.
+- Publicacion: commit `8bbbe04` (`Add Academia Expertia digital study`) pusheado a `main`.
+- Produccion verificada: `https://estudios-digitales.solversai.cloud/empresa/academia-expertia` HTTP 200; JSON publico contiene slug, hook "El curso interesa, pero la inscripcion se enfria", bot "Asesor Academia Expertia demo", logo y 3 imagenes; los 5 assets responden HTTP 200 con tipos correctos; navegador publico desktop/movil confirma sin overflow horizontal, H1/hook/bot sin corte, logo cargado y galeria con dimensiones reales.
 
 ## Colombia House Inmobiliaria mini-estudio
 
