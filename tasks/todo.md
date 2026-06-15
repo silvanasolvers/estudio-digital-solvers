@@ -8,8 +8,8 @@
 - [x] Descargar assets oficiales a rutas locales y crear recortes derivados del cover oficial.
 - [x] Agregar prospecto `adriana-castellanos-reposteria` con diagnostico personalizado y bot demo.
 - [x] Verificar local, DOM renderizado y assets.
-- [ ] Publicar directo segun instruccion de Valentina.
-- [ ] Validar produccion y enviar link final.
+- [x] Publicar directo segun instruccion de Valentina.
+- [x] Validar produccion y enviar link final.
 
 ### Criterios
 
@@ -23,6 +23,8 @@
 - Senales verificadas: disenadora de pasteles modernos en buttercream, pedidos por WhatsApp, Colina Campestre Bogota-Colombia, cupos limitados por fecha, WhatsApp 3153813426 en Bio Site, Instagram/Facebook oficiales, cotizacion/agendamiento por WhatsApp, pedidos personalizados y entregas en Bogota segun publicaciones/snippets.
 - Assets locales oficiales: `/assets/adriana-castellanos-logo.png`, `/assets/adriana-castellanos-cover.png`; recortes derivados: `/assets/adriana-castellanos-brand-square.jpg`, `/assets/adriana-castellanos-floral-detail.jpg`, `/assets/adriana-castellanos-portrait.jpg`.
 - Verificacion local: `npm run check` OK con 25 prospectos; HTTP 200 en `/empresa/adriana-castellanos-reposteria`; 5 assets Adriana responden HTTP 200 con tipos correctos; Chromium `--dump-dom` confirma titulo, hook, logo, hero, collage y bot renderizados.
+- Publicacion: commit `b0af228` (`Add Adriana Castellanos digital study`) pusheado a `main`.
+- Produccion verificada: `https://estudios-digitales.solversai.cloud/empresa/adriana-castellanos-reposteria` HTTP 200; JSON publico contiene slug, hook "La torta enamora, pero el pedido llega incompleto", bot "Asistente Adriana Castellanos demo", logo y 3 imagenes; los 5 assets responden HTTP 200 con tipos correctos; navegador publico desktop 1440x900 confirma sin overflow horizontal, H1/hook sin corte, bot correcto y galeria cargada con dimensiones reales.
 
 ## Loft Concept Barranquilla mini-estudio
 
