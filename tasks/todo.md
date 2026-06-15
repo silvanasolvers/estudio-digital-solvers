@@ -1,5 +1,29 @@
 # Estudio Digital Solvers
 
+## Adriana Castellanos Reposteria mini-estudio
+
+- [x] Verificar chat ID y permisos de Valentina.
+- [x] Recuperar el prospecto 5 de la lista diaria: `@adrianacastellanosreposteria`.
+- [x] Investigar senales publicas de Instagram, Bio Site, Facebook y snippets.
+- [x] Descargar assets oficiales a rutas locales y crear recortes derivados del cover oficial.
+- [x] Agregar prospecto `adriana-castellanos-reposteria` con diagnostico personalizado y bot demo.
+- [x] Verificar local, DOM renderizado y assets.
+- [ ] Publicar directo segun instruccion de Valentina.
+- [ ] Validar produccion y enviar link final.
+
+### Criterios
+
+- No inventar seguidores ni metricas si no hay dato confiable actual.
+- Usar solo assets oficiales del Bio Site o recortes derivados de esos assets.
+- El dolor debe centrarse en cotizaciones de tortas personalizadas incompletas: fecha, porciones, tematica, referencia, sabor, presupuesto, entrega, cupos y anticipo.
+
+### Revision
+
+- Datos usados: Bio Site publico de Adriana Castellanos Reposteria, Instagram/snippets publicos, Facebook y Threads/snippets.
+- Senales verificadas: disenadora de pasteles modernos en buttercream, pedidos por WhatsApp, Colina Campestre Bogota-Colombia, cupos limitados por fecha, WhatsApp 3153813426 en Bio Site, Instagram/Facebook oficiales, cotizacion/agendamiento por WhatsApp, pedidos personalizados y entregas en Bogota segun publicaciones/snippets.
+- Assets locales oficiales: `/assets/adriana-castellanos-logo.png`, `/assets/adriana-castellanos-cover.png`; recortes derivados: `/assets/adriana-castellanos-brand-square.jpg`, `/assets/adriana-castellanos-floral-detail.jpg`, `/assets/adriana-castellanos-portrait.jpg`.
+- Verificacion local: `npm run check` OK con 25 prospectos; HTTP 200 en `/empresa/adriana-castellanos-reposteria`; 5 assets Adriana responden HTTP 200 con tipos correctos; Chromium `--dump-dom` confirma titulo, hook, logo, hero, collage y bot renderizados.
+
 ## Loft Concept Barranquilla mini-estudio
 
 - [x] Verificar chat ID y permisos de Valentina.

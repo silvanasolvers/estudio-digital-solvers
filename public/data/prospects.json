@@ -3103,6 +3103,229 @@
         "Formulario conversacional para transformar Instagram/web en brief visual antes de WhatsApp.",
         "Pauta + pixel + mapa de calor + panel comercial para medir intencion por espacio, categoria, presupuesto y etapa de compra."
       ]
+    },
+    {
+      "slug": "adriana-castellanos-reposteria",
+      "company": "Adriana Castellanos Reposteria",
+      "sector": "pasteles modernos en buttercream, tortas personalizadas y pedidos por WhatsApp",
+      "city": "Bogota, Colina Campestre",
+      "tone": "delicado, artesanal, elegante y cercano",
+      "theme": "maker",
+      "brandMode": "texuno",
+      "logoImage": "/assets/adriana-castellanos-logo.png",
+      "heroImage": "/assets/adriana-castellanos-cover.png",
+      "accent": "#B68A7A",
+      "accentRgb": "182, 138, 122",
+      "secondary": "#E8C9BE",
+      "secondaryRgb": "232, 201, 190",
+      "brandDark": "#17110F",
+      "paper": "#F8F0EB",
+      "paperCard": "#FFF9F5",
+      "brandWash": "rgba(182, 138, 122, 0.24)",
+      "brandWash2": "rgba(232, 201, 190, 0.20)",
+      "heroCopy": "Adriana Castellanos Reposteria ya tiene una marca delicada, reconocible y muy visual: pasteles modernos en buttercream, pedidos personalizados, WhatsApp directo, Bio Site y una identidad establecida desde 2014. El dolor no es falta de antojo; es que cada cotizacion necesita fecha, porciones, tematica, referencia, sabor, presupuesto, ciudad, entrega y anticipo antes de separar cupo.",
+      "alertLabel": "Oportunidad pedidos",
+      "statusLabel": "Diagnostico comercial",
+      "status": "Marca artesanal con alto deseo visual, pero cada pedido personalizado puede llegar incompleto y consumir tiempo antes de cotizar o agendar",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Pasteles modernos en buttercream, identidad delicada, pedidos por WhatsApp y trayectoria de marca desde 2014",
+      "visualCueLabel": "Dolor",
+      "visualCue": "El cliente quiere una torta inolvidable, pero pregunta sin fecha, porciones, tematica, referencia, presupuesto ni logistica de entrega",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asistente 24/7 que convierte inspiracion en brief de torta + cotizacion lista para WhatsApp",
+      "loaderLabel": "Preparando diagnostico dulce",
+      "loaderTitle": "Adriana Castellanos bajo lupa",
+      "loaderSubtitle": "Leyendo Bio Site, Instagram, WhatsApp, pedidos personalizados, cupos y fricciones antes de mostrar el diagnostico.",
+      "loaderCue1": "Fecha y porciones",
+      "loaderCue2": "Cotizacion asistida",
+      "heroStampTitle": "Adriana Castellanos",
+      "heroStampSubtitle": "Buttercream + pedidos",
+      "bannerKicker": "Hook Solvers",
+      "bannerHook": "La torta enamora, pero el pedido llega incompleto",
+      "bannerSubhook": "Cada pastel personalizado necesita contexto antes de cotizar: fecha, porciones, tematica, referencia, sabor, presupuesto, entrega y anticipo. Si WhatsApp recibe solo 'info', el equipo pierde tiempo justo cuando el cliente esta ilusionado.",
+      "bannerBadge1": "Est. 2014",
+      "bannerBadge2": "Pedidos por WhatsApp",
+      "openNode1Label": "Celebracion",
+      "openNode1Title": "Fecha porciones tematica",
+      "openNode2Label": "Brief",
+      "openNode2Title": "Referencia sabor presupuesto",
+      "openNode3Label": "WhatsApp",
+      "openNode3Title": "Cotizacion con contexto",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Convertir cada idea de pastel en pedido cotizable",
+      "scrollTitle": "Del antojo bonito al cupo separado",
+      "diagnosisTitle": "Donde se enfria un pedido personalizado",
+      "leadProblem": "La busqueda publica muestra a @adrianacastellanosreposteria como Adriana Castellanos Reposteria, diseñadora de pasteles modernos en buttercream, con pedidos por WhatsApp, ubicacion en Colina Campestre Bogota-Colombia y cupos limitados por fecha. Su Bio Site publico confirma Instagram y Facebook oficiales, WhatsApp directo al 3153813426 y el mensaje de que por ese medio se brinda toda la informacion necesaria para elaborar la cotizacion o agendar el pedido. Publicaciones/snippets publicos refuerzan pedidos personalizados, agendamiento con anticipacion, domicilios y entregas solo en Bogota, tortas para meses, comuniones, bautizos, celebraciones y tematicas.",
+      "opportunity": "La oportunidad para Adriana Castellanos Reposteria es poner un asistente Solvers antes de WhatsApp: preguntar fecha del evento, numero de porciones, tematica, texto, referencias, sabores, presupuesto, direccion/zona de entrega y urgencia. Asi el equipo recibe pedidos listos para cotizar y puede priorizar cupos reales sin repetir las mismas preguntas.",
+      "proofLine": "Lectura preliminar basada en busqueda publica del 15 de junio de 2026 sobre Instagram @adrianacastellanosreposteria, Bio Site publico, Facebook y snippets publicos: pasteles modernos en buttercream, pedidos por WhatsApp, Colina Campestre Bogota, WhatsApp 3153813426, cotizacion/agendamiento por Bio Site, cupos limitados por fecha, pedidos personalizados y entregas en Bogota. Se valida con lista de sabores, precios, capacidad, zonas de entrega, politicas de anticipo y agenda real antes de ejecutar.",
+      "audience": "Mamás y familias que celebran meses, cumpleaños, bautizos y primeras comuniones; parejas y anfitriones que quieren una torta especial; clientes en Bogota que necesitan agendar con anticipacion; y personas que llegan con referencias visuales desde Instagram o Pinterest.",
+      "adAngle": "Pasteles modernos en buttercream con cotizacion guiada por fecha, porciones, tematica y entrega en Bogota",
+      "whatsappCta": "Quiero pedidos con brief antes de WhatsApp",
+      "scrollIntro": "El estudio ordena el pedido como lo haria una asesora de reposteria: primero entiende fecha, ocasion, porciones y tematica; despues arma la cotizacion y separa el cupo correcto.",
+      "experienceIntro": "Adriana Castellanos vende celebraciones con detalle. La automatizacion debe sentirse igual de delicada que la marca: amable, visual y precisa para convertir una idea bonita en pedido realizable.",
+      "botTitle": "Asistente Adriana Castellanos: cotizaciones de tortas respondidas al instante",
+      "botIntro": "Este demo muestra como un asistente puede ordenar preguntas sobre fecha, porciones, tematica, sabores, presupuesto, entregas, anticipos y WhatsApp antes de que el equipo cotice manualmente.",
+      "botAgentName": "Asistente Adriana Castellanos demo",
+      "botAgentRole": "Tortas, fechas, porciones, tematicas y cotizacion",
+      "botDemoTitle": "Menos 'info' sin fecha",
+      "botDemoBody": "El cliente puede preguntar por una torta personalizada. El agente recoge fecha, porciones, tematica, referencia, zona y presupuesto antes de pasar a WhatsApp.",
+      "botTrainingTitle": "Entrenado con operacion repostera",
+      "botTrainingBody": "Tipos de celebracion, cupos por fecha, porciones, sabores, buttercream, referencias, mensajes, entregas en Bogota, anticipo, tiempos de agendamiento y preguntas frecuentes.",
+      "botOpening": "Hola, soy el asistente demo de Adriana Castellanos Reposteria. Preguntame como ordenar una cotizacion por fecha, porciones, tematica, referencia, entrega o anticipo.",
+      "botPrompts": [
+        "¿Como filtra una cotizacion?",
+        "¿Que pregunta para separar cupo?",
+        "¿Sirve para tortas tematicas?",
+        "¿Como maneja entregas en Bogota?",
+        "¿Que datos deja para pauta?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cotizacion",
+            "cotizar",
+            "precio",
+            "presupuesto",
+            "valor",
+            "cuanto"
+          ],
+          "answer": "Primero pregunta fecha del evento, numero de porciones, tematica, referencia visual, sabor deseado, presupuesto aproximado y zona de entrega. Con eso WhatsApp recibe un pedido listo para cotizar."
+        },
+        {
+          "keywords": [
+            "cupo",
+            "fecha",
+            "agenda",
+            "agendar",
+            "anticipacion",
+            "disponible"
+          ],
+          "answer": "Para separar cupo valida fecha, hora de entrega, tipo de celebracion y urgencia. Si la fecha esta cerca, marca el lead como prioridad y avisa que la disponibilidad debe confirmarse antes de prometer."
+        },
+        {
+          "keywords": [
+            "tematica",
+            "personalizada",
+            "referencia",
+            "foto",
+            "pinterest",
+            "diseño"
+          ],
+          "answer": "Pide referencias, colores, personaje o estilo, texto del pastel y nivel de detalle. Luego resume la idea para que la repostera pueda confirmar si es viable y que ajustes sugiere."
+        },
+        {
+          "keywords": [
+            "domicilio",
+            "entrega",
+            "bogota",
+            "direccion",
+            "recoger",
+            "zona"
+          ],
+          "answer": "Pregunta direccion o zona de Bogota, hora ideal, si requiere domicilio o recogida y condiciones de entrega. Asi la cotizacion incluye logistica y no se descubre al final."
+        },
+        {
+          "keywords": [
+            "datos",
+            "pauta",
+            "analytics",
+            "campana",
+            "campaña",
+            "medir"
+          ],
+          "answer": "Se mide que genera mas intencion: cumpleaños, meses, bautizos, comuniones, tortas florales, numero de porciones, zonas de entrega y rangos de presupuesto. Esa data mejora pauta y agenda."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "Marca delicada",
+          "body": "La identidad visual y el trabajo artesanal ya transmiten deseo y confianza."
+        },
+        {
+          "label": "Dolor 01",
+          "title": "Pedidos incompletos",
+          "body": "Sin fecha, porciones, tematica y referencia, una cotizacion toma demasiados mensajes."
+        },
+        {
+          "label": "Dolor 02",
+          "title": "Cupos por fecha",
+          "body": "Cuando la agenda es limitada, cada lead debe llegar filtrado para priorizar lo viable."
+        },
+        {
+          "label": "Solucion",
+          "title": "Asistente 24/7",
+          "body": "Un agente arma el brief y entrega a WhatsApp pedidos listos para cotizar o agendar."
+        }
+      ],
+      "experiencePath": [
+        "Deseo: la persona ve una torta en Instagram y quiere algo especial para su celebracion",
+        "Friccion: no define fecha, porciones, tematica, sabor, presupuesto, entrega o referencia",
+        "Solucion: el asistente recoge los datos clave y arma un brief delicado antes de WhatsApp",
+        "Cierre: el equipo recibe un pedido claro y puede cotizar, confirmar cupo y pedir anticipo"
+      ],
+      "galleryImages": [
+        {
+          "src": "/assets/adriana-castellanos-brand-square.jpg",
+          "label": "Marca repostera"
+        },
+        {
+          "src": "/assets/adriana-castellanos-floral-detail.jpg",
+          "label": "Detalle floral"
+        },
+        {
+          "src": "/assets/adriana-castellanos-portrait.jpg",
+          "label": "Oficio artesanal"
+        }
+      ],
+      "journey": [
+        {
+          "title": "Etapa 1: inspiracion desde Instagram",
+          "body": "El cliente guarda una torta, una referencia o una tematica y llega con ilusion, pero normalmente sin toda la informacion necesaria."
+        },
+        {
+          "title": "Etapa 2: datos para cotizar",
+          "body": "La cotizacion depende de fecha, porciones, diseño, sabor, texto, entrega, presupuesto y disponibilidad de agenda."
+        },
+        {
+          "title": "Etapa 3: WhatsApp con brief",
+          "body": "Cuando el equipo recibe un resumen ordenado, puede responder mas rapido, confirmar viabilidad y pedir anticipo sin tantas vueltas."
+        },
+        {
+          "title": "Etapa 4: agenda y pauta mas inteligente",
+          "body": "Cada consulta enseña que celebraciones, tamaños, zonas y presupuestos generan mejor intencion para ordenar cupos y campañas."
+        }
+      ],
+      "findings": [
+        "Adriana Castellanos Reposteria tiene una identidad visual clara y una promesa especifica: pasteles modernos en buttercream con pedidos por WhatsApp.",
+        "El Bio Site publico ya indica que WhatsApp es el canal para elaborar cotizaciones o agendar pedidos, asi que el cuello de botella esta en la calidad del mensaje que llega.",
+        "La oportunidad no es abrir mas canales, sino filtrar y ordenar cada solicitud para que el equipo reciba pedidos completos y priorizables."
+      ],
+      "siteIssues": [
+        "El Bio Site lleva directo a WhatsApp, pero antes de cotizar se necesitan datos que no siempre llegan en el primer mensaje.",
+        "Los cupos limitados por fecha hacen que un lead sin fecha clara pueda ocupar tiempo que deberia ir a pedidos viables.",
+        "Las tortas personalizadas dependen de referencias visuales y detalles finos; sin brief, la conversacion puede alargarse y enfriar el pedido."
+      ],
+      "losses": [
+        "Un cliente puede amar una torta y no avanzar porque no sabe cuantas porciones pedir o si la fecha esta disponible.",
+        "Cada pregunta repetida sobre fecha, entrega, tematica y presupuesto consume tiempo de produccion y respuesta.",
+        "Sin data por tipo de celebracion, es mas dificil saber que campañas traen pedidos rentables y con suficiente anticipacion."
+      ],
+      "heatmapData": [
+        "Intencion por celebracion: cumpleaños, meses, bautizos, comuniones, revelaciones, bodas o eventos pequeños.",
+        "Friccion antes de agendar: fecha, porciones, presupuesto, referencia, domicilio, anticipo o urgencia.",
+        "Data para pauta: diseños mas pedidos, rangos de porciones, zonas de Bogota, anticipacion promedio y objeciones frecuentes."
+      ],
+      "campaigns": [
+        "Campañas por ocasion: primer año, meses, bautizos, comuniones, cumpleaños florales y tortas personalizadas con brief instantaneo.",
+        "Remarketing a personas que tocaron WhatsApp o guardaron referencias, con preguntas guiadas para completar fecha y porciones.",
+        "Campañas de agenda anticipada para fechas de alta demanda, filtrando por cupo, entrega y presupuesto antes de WhatsApp."
+      ],
+      "deliverables": [
+        "Asistente Solvers personalizado para Adriana Castellanos, conectado a preguntas de fecha, porciones, tematica, sabores, entregas, anticipo y cupos.",
+        "Formulario conversacional para convertir Instagram/Bio Site en brief de torta antes de WhatsApp.",
+        "Pauta + pixel + mapa de calor + panel comercial para medir intencion por ocasion, porciones, presupuesto, zona y anticipacion."
+      ]
     }
   ]
 }
