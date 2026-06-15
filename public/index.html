@@ -3372,6 +3372,11 @@
       min-width: 0;
     }
 
+    .bot-agent > span {
+      flex: 1 1 auto;
+      min-width: 0;
+    }
+
     .bot-avatar {
       width: 42px;
       height: 42px;
@@ -3855,6 +3860,17 @@
     }
 
     @media (max-width: 640px) {
+      .bot-console-head {
+        align-items: flex-start;
+      }
+
+      .bot-agent b {
+        overflow: visible;
+        text-overflow: clip;
+        white-space: normal;
+        overflow-wrap: anywhere;
+      }
+
       .topbar {
         align-items: flex-start;
         padding: 12px 14px;

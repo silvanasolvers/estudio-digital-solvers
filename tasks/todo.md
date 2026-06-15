@@ -9,8 +9,8 @@
 - [x] Descargar assets oficiales a rutas locales para evitar imagenes rotas.
 - [x] Agregar prospecto `colombia-house-inmobiliaria` con diagnostico personalizado y bot demo.
 - [x] Verificar local, DOM renderizado y assets.
-- [ ] Publicar directo segun instruccion de Valentina.
-- [ ] Validar produccion y enviar link final.
+- [x] Publicar directo segun instruccion de Valentina.
+- [x] Validar produccion y enviar link final.
 
 ### Criterios
 
@@ -24,6 +24,8 @@
 - Senales verificadas: 1.6K+ seguidores, 45 publicaciones, agenda de asesoria al +573107485989 segun snippet de Instagram, web activa con ventas, alquileres, permutar, servicios, blog, agentes, categorias de inmuebles, ubicacion CRA 6 #25-16 Piso 2 Pereira, movil +573103740080, telefono +576063515128, email `colombiahousecomercial@gmail.com`, ciudades Pereira, Dosquebradas, Santa Rosa de Cabal, Viterbo y Armenia.
 - Assets locales oficiales: `/assets/colombia-house-logo.png`, `/assets/colombia-house-inmueble-1.jpg`, `/assets/colombia-house-inmueble-2.jpg`, `/assets/colombia-house-inmueble-3.jpg`.
 - Verificacion local: `npm run check` OK con 29 prospectos; HTTP 200 en `/empresa/colombia-house-inmobiliaria`; los 4 assets responden HTTP 200 con tipos correctos; Chromium `--dump-dom` confirma titulo, hook, logo, collage y bot renderizados.
+- Publicacion: commit `b2a5dcf` (`Add Colombia House digital study`) pusheado a `main`.
+- Produccion verificada: `https://estudios-digitales.solversai.cloud/empresa/colombia-house-inmobiliaria` HTTP 200; JSON publico contiene slug, hook "El inmueble interesa, pero el lead llega sin contexto", bot "Asesor Colombia House demo", logo y 3 imagenes; los 4 assets responden HTTP 200 con tipos correctos; navegador publico desktop/movil confirma sin overflow horizontal, logo y galeria cargados. Se ajusto el encabezado del bot para que nombres largos no se corten en movil.
 
 ## Luna Romero Odontologia mini-estudio
 
