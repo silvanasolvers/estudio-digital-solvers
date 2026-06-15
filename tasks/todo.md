@@ -1,5 +1,30 @@
 # Estudio Digital Solvers
 
+## Colombia House Inmobiliaria mini-estudio
+
+- [x] Verificar chat ID y permisos de Valentina.
+- [x] Recuperar el prospecto 9 de la lista diaria: `@colombiahouseinmobiliaria`.
+- [x] Investigar senales publicas de Instagram, web oficial, Facebook/snippets y catalogo.
+- [x] Confirmar que si tiene web activa y enfocar el estudio en mejoras de conversion.
+- [x] Descargar assets oficiales a rutas locales para evitar imagenes rotas.
+- [x] Agregar prospecto `colombia-house-inmobiliaria` con diagnostico personalizado y bot demo.
+- [x] Verificar local, DOM renderizado y assets.
+- [ ] Publicar directo segun instruccion de Valentina.
+- [ ] Validar produccion y enviar link final.
+
+### Criterios
+
+- Como si tiene web, no ofrecer web desde cero; proponer mejorar puntos clave: fichas, filtros, CTA conversacional, WhatsApp, propietarios, seguimiento y pauta.
+- No mezclar telefonos/dominios sin aclarar fuente; priorizar `colombiahouseinmobiliaria.com.co` por coincidir con Instagram oficial y schema RealEstateAgent.
+- Usar logo e inmuebles del catalogo publico como assets locales.
+
+### Revision
+
+- Datos usados: Instagram/snippets publicos de `@colombiahouseinmobiliaria`, web `colombiahouseinmobiliaria.com.co`, Facebook/snippets y catalogo publico.
+- Senales verificadas: 1.6K+ seguidores, 45 publicaciones, agenda de asesoria al +573107485989 segun snippet de Instagram, web activa con ventas, alquileres, permutar, servicios, blog, agentes, categorias de inmuebles, ubicacion CRA 6 #25-16 Piso 2 Pereira, movil +573103740080, telefono +576063515128, email `colombiahousecomercial@gmail.com`, ciudades Pereira, Dosquebradas, Santa Rosa de Cabal, Viterbo y Armenia.
+- Assets locales oficiales: `/assets/colombia-house-logo.png`, `/assets/colombia-house-inmueble-1.jpg`, `/assets/colombia-house-inmueble-2.jpg`, `/assets/colombia-house-inmueble-3.jpg`.
+- Verificacion local: `npm run check` OK con 29 prospectos; HTTP 200 en `/empresa/colombia-house-inmobiliaria`; los 4 assets responden HTTP 200 con tipos correctos; Chromium `--dump-dom` confirma titulo, hook, logo, collage y bot renderizados.
+
 ## Luna Romero Odontologia mini-estudio
 
 - [x] Verificar chat ID y permisos de Valentina.
