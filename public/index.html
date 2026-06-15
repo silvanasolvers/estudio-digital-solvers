@@ -2434,13 +2434,26 @@
     }
 
     body[data-brand-mode="texuno"] .brand-world {
-      padding-top: clamp(44px, 5vw, 62px);
+      position: relative;
+      z-index: 4;
+      padding-top: clamp(72px, 7vw, 118px);
       padding-bottom: clamp(44px, 5vw, 62px);
     }
 
     body[data-brand-mode="texuno"] .brand-world-layout.no-collage {
       display: block;
       width: min(1180px, 100%);
+    }
+
+    body[data-brand-mode="texuno"] .brand-world h2 {
+      max-width: 1180px;
+      font-size: clamp(40px, 3.3vw, 64px);
+      line-height: 1.02;
+    }
+
+    body[data-brand-mode="texuno"] .brand-world-copy p {
+      max-width: 760px;
+      line-height: 1.42;
     }
 
     body[data-brand-mode="texuno"] .experience-path {
@@ -4045,6 +4058,15 @@
 
       body[data-brand-mode="texuno"] .story-grid {
         grid-template-columns: 1fr;
+      }
+
+      body[data-brand-mode="texuno"] .brand-world {
+        padding-top: 72px;
+      }
+
+      body[data-brand-mode="texuno"] .brand-world h2 {
+        font-size: clamp(36px, 9vw, 44px);
+        line-height: 1.04;
       }
 
       body[data-brand-mode="texuno"] .story-sticky,

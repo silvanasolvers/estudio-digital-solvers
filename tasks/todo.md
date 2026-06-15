@@ -1,5 +1,27 @@
 # Estudio Digital Solvers
 
+## Casa Antonia ajuste bloque universo
+
+- [x] Verificar chat ID y permisos de Valentina.
+- [x] Identificar el bloque recortado en captura.
+- [x] Acortar el titulo del bloque universo para Casa Antonia.
+- [x] Dar mas aire al bloque claro en la plantilla Texuno.
+- [x] Verificar movil/desktop sin texto mordido.
+- [x] Publicar solo si Valentina confirma deploy.
+
+### Criterios
+
+- El bloque "Universo de marca" no debe arrancar con texto visualmente mordido.
+- El titulo debe leerse completo sin depender de una captura exacta del scroll.
+- El ajuste debe mantenerse aislado a Casa Antonia y respiracion general de Texuno.
+
+### Revision
+
+- Causa real: la capa oscura/sticky del hero Texuno quedaba por encima del bloque claro y mordia visualmente el H2.
+- Ajuste: `brand-world` en Texuno queda con `position: relative` y `z-index: 4`, mas aire superior y H2 menos alto en desktop.
+- Casa Antonia: titulo acortado a "Convertir cada motivo de salida en reserva" y parrafo mas directo.
+- Verificacion local: `npm run check` OK; CDP movil 393x852 y ancho 2048x457 sin overflow horizontal y con el H2 por encima de la capa oscura.
+
 ## Texuno ajuste banner responsive y lectura
 
 - [x] Verificar chat ID y permisos de Valentina.
