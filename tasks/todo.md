@@ -8,8 +8,8 @@
 - [x] Decidir no inventar logo ni usar imagenes fragiles de Instagram/CDN.
 - [x] Agregar prospecto `luna-romero-odontologia` con diagnostico personalizado y bot demo.
 - [x] Verificar local, DOM renderizado y assets.
-- [ ] Publicar directo segun instruccion de Valentina.
-- [ ] Validar produccion y enviar link final.
+- [x] Publicar directo segun instruccion de Valentina.
+- [x] Validar produccion y enviar link final.
 
 ### Criterios
 
@@ -23,6 +23,8 @@
 - Senales verificadas: DRA LUNA ROMERO | ODONTOLOGIA, odontologia general y estetica, Cucuta Colombia, WhatsApp 316 692 3440, diseno de sonrisa, carillas dentales, agregados en resina, promesa de sonrisa mas armonica/sana/natural, confianza y seguridad del paciente.
 - Assets: no se agregan logo ni galeria porque no se encontro fuente oficial estable fuera de Instagram; se evita publicar placeholder de marca.
 - Verificacion local: `npm run check` OK con 28 prospectos; HTTP 200 en `/empresa/luna-romero-odontologia`; Chromium `--dump-dom` confirma titulo, hook, marca textual, `no-collage` y bot renderizados.
+- Publicacion: commit `89c5e0b` (`Add Luna Romero Odontologia digital study`) pusheado a `main`.
+- Produccion verificada: `https://estudios-digitales.solversai.cloud/empresa/luna-romero-odontologia` HTTP 200; JSON publico contiene slug, hook "La sonrisa gusta, pero la duda frena la cita", bot "Asistente Luna Romero demo", `logoImage` vacio y galeria vacia; navegador publico movil/desktop confirma sin overflow horizontal, H1/hook/bot sin corte y `no-collage` activo sin collage visible.
 
 ## Medicina Estetica Medellin mini-estudio
 
