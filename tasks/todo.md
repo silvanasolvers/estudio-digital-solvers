@@ -8,8 +8,8 @@
 - [x] Descargar assets oficiales a rutas locales para evitar imagenes rotas.
 - [x] Agregar prospecto `medicina-estetica-medellin` con diagnostico personalizado y bot demo.
 - [x] Verificar local, DOM renderizado y assets.
-- [ ] Publicar directo segun instruccion de Valentina.
-- [ ] Validar produccion y enviar link final.
+- [x] Publicar directo segun instruccion de Valentina.
+- [x] Validar produccion y enviar link final.
 
 ### Criterios
 
@@ -23,6 +23,8 @@
 - Senales verificadas: Dra. Adriana Munera, medicina antienvejecimiento consciente, valoracion medica personalizada, tratamientos faciales/corporales, WhatsApp 3104033514, correo `medicinaesteticamedellin@gmail.com`, direccion Cra 30 #8B-25 Cons. 605 Edificio San Esteban, procedimientos como acido hialuronico, Sculptra, Dermapen, hidrolipoclasia, PDRN, hilos, PRP, exosomas, toxina botulinica, reduccion de peso, alopecia, celulitis y sueroterapia.
 - Assets locales oficiales: `/assets/medicina-estetica-medellin-logo.png`, `/assets/medicina-estetica-medellin-hero.jpg`, `/assets/medicina-estetica-medellin-dra-adriana.jpg`, `/assets/medicina-estetica-medellin-valoracion.jpg`, `/assets/medicina-estetica-medellin-procedimiento.png`.
 - Verificacion local: `npm run check` OK con 27 prospectos; HTTP 200 en `/empresa/medicina-estetica-medellin`; los 5 assets responden HTTP 200 con tipos correctos; Chromium `--dump-dom` confirma titulo, hook, logo, collage y bot renderizados.
+- Publicacion: commit `dff6b5b` (`Add Medicina Estetica Medellin digital study`) pusheado a `main`.
+- Produccion verificada: `https://estudios-digitales.solversai.cloud/empresa/medicina-estetica-medellin` HTTP 200; JSON publico contiene slug, hook "Quieren verse mejor, pero llegan con dudas medicas", bot "Asistente Medicina Estetica Medellin demo", logo y 3 imagenes; los 5 assets responden HTTP 200 con tipos correctos; navegador publico desktop 1440x900 confirma sin overflow horizontal, H1/hook/bot sin corte, y galeria cargada con dimensiones reales.
 
 ## MELT bakery & cafe mini-estudio
 
