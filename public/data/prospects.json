@@ -4515,6 +4515,1936 @@
         "Mejoras de conversion en fichas: CTA conversacional, recomendador de programa, captura de perfil/urgencia y rescate de carrito.",
         "Pauta + pixel + mapa de calor + panel comercial para medir cursos, categorias, objeciones, carritos e inscripciones reales."
       ]
+    },
+    {
+      "theme": "maker",
+      "brandMode": "standard",
+      "alertLabel": "Oportunidad Solvers",
+      "statusLabel": "Diagnostico comercial",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Web activa con agenda, tratamientos, financiacion y pagos en linea; la fuga esta en convertir visita en valoracion con contexto",
+      "visualCueLabel": "Dolor",
+      "visualCue": "El paciente quiere sonreir, pero se enfria antes de agendar",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asesor digital + medicion + seguimiento para convertir intencion en venta",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "PROMTA Clinica Odontologica",
+      "loaderSubtitle": "Leyendo senales publicas, web, Instagram, WhatsApp y puntos de fuga antes del diagnostico.",
+      "loaderCue1": "Web actual",
+      "loaderCue2": "Asesor 24/7",
+      "heroStampTitle": "PROMTA Clinica Odontologica",
+      "heroStampSubtitle": "clinica odontologica multiespecialidad",
+      "bannerKicker": "Hook comercial",
+      "bannerBadge1": "Web activa",
+      "bannerBadge2": "WhatsApp + seguimiento",
+      "openNode1Label": "Interes",
+      "openNode1Title": "Producto servicio duda",
+      "openNode2Label": "Friccion",
+      "openNode2Title": "Precio agenda talla fecha",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "Asesor + data + seguimiento",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Mejorar la web actual para convertir mas visitas en conversaciones utiles",
+      "scrollTitle": "Ruta de conversion recomendada",
+      "diagnosisTitle": "Donde se esta perdiendo la venta",
+      "whatsappCta": "Quiero ver como aplicaria en mi negocio",
+      "scrollIntro": "El estudio ordena la ruta desde la primera senal publica hasta el siguiente paso comercial: clic, pregunta, carrito, agenda, reserva o WhatsApp con contexto.",
+      "experienceIntro": "La oportunidad no es responder mas mensajes manualmente. Es convertir cada pregunta repetida en una ruta medible que ayude a cerrar y a mejorar pauta.",
+      "botAgentName": "Asesor PROMTA Clinica Odontologica demo",
+      "botAgentRole": "clinica odontologica multiespecialidad",
+      "botIntro": "Este demo muestra una primera capa conversacional especifica para el negocio: responde dudas frecuentes, captura intencion y deja el seguimiento listo.",
+      "botDemoTitle": "Conversacion con contexto",
+      "botDemoBody": "El asesor pregunta lo minimo necesario y evita que WhatsApp reciba mensajes frios sin producto, fecha, talla, tratamiento o presupuesto.",
+      "botTrainingTitle": "Entrenado con senales reales",
+      "botTrainingBody": "Se alimenta con web, catalogo, preguntas frecuentes, politicas, agenda, horarios, disponibilidad y tono de marca verificados por el negocio.",
+      "diagnosisTiles": [
+        {
+          "label": "Prioridad",
+          "title": "Estudio 1/10",
+          "body": "Ordenado por potencial comercial, claridad de oferta y oportunidad de conversion."
+        },
+        {
+          "label": "Canal",
+          "title": "Web + WhatsApp",
+          "body": "El foco cambia segun si existe web propia confiable o no."
+        },
+        {
+          "label": "Dolor",
+          "title": "Interes que se enfria",
+          "body": "Dudas repetidas aparecen antes de pagar, reservar, agendar o escribir."
+        },
+        {
+          "label": "Solucion",
+          "title": "Asesor + data",
+          "body": "Captura contexto, responde y deja seguimiento medible."
+        }
+      ],
+      "experiencePath": [
+        "Busqueda: la persona llega desde Instagram, Google, pauta o recomendacion a PROMTA Clinica Odontologica",
+        "Friccion: aparecen dudas de precio, disponibilidad, talla, fecha, agenda, envio, reserva o politica",
+        "Solucion: el asesor digital pregunta lo minimo y entrega una ruta clara",
+        "Cierre: WhatsApp, carrito, agenda o reserva recibe intencion con contexto y seguimiento"
+      ],
+      "journey": [
+        {
+          "title": "Etapa 1: visita con intencion",
+          "body": "La persona ya trae una necesidad; el sistema debe entenderla antes de pedirle que escriba."
+        },
+        {
+          "title": "Etapa 2: filtro comercial",
+          "body": "El asesor recoge datos clave y responde objeciones frecuentes sin inventar informacion no validada."
+        },
+        {
+          "title": "Etapa 3: accion clara",
+          "body": "La ruta termina en carrito, agenda, reserva o WhatsApp con resumen util para cierre humano."
+        },
+        {
+          "title": "Etapa 4: seguimiento",
+          "body": "Cada clic y pregunta alimenta remarketing, priorizacion de leads y mejora de pauta."
+        }
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "precio",
+            "valor",
+            "costo",
+            "cuanto",
+            "cuánto"
+          ],
+          "answer": "Para PROMTA Clinica Odontologica, el asesor no debe soltar un precio suelto: primero identifica tratamiento, sede, urgencia, ciudad y objecion. Despues entrega rango, ruta o paso a WhatsApp con contexto para cierre humano."
+        },
+        {
+          "keywords": [
+            "whatsapp",
+            "mensaje",
+            "asesor",
+            "atencion",
+            "atención"
+          ],
+          "answer": "Funciona como primer filtro 24/7: responde dudas repetidas, pide datos clave y entrega a WhatsApp una conversacion con resumen, no un lead frio sin contexto."
+        },
+        {
+          "keywords": [
+            "web",
+            "pagina",
+            "página",
+            "carrito",
+            "reserva",
+            "agenda"
+          ],
+          "answer": "La idea es mejorar la ruta actual: CTA por intencion, preguntas frecuentes, eventos de clic, recuperacion de abandono y seguimiento segun lo que la persona vio o pregunto."
+        },
+        {
+          "keywords": [
+            "pauta",
+            "instagram",
+            "meta",
+            "campaña",
+            "campana",
+            "datos"
+          ],
+          "answer": "La pauta deja de medir solo clics. Se mide tratamiento consultado, pregunta frecuente, boton tocado, abandono y conversacion iniciada para saber que anuncio trae oportunidades reales."
+        }
+      ],
+      "slug": "promta-clinica-odontologica",
+      "company": "PROMTA Clinica Odontologica",
+      "instagram": "@promta_clinica",
+      "sector": "clinica odontologica multiespecialidad",
+      "city": "Medellin y Rionegro, Colombia",
+      "tone": "clinico, confiable y comercialmente claro",
+      "accent": "#2E8CFF",
+      "secondary": "#71F2C2",
+      "accentRgb": "46, 140, 255",
+      "secondaryRgb": "113, 242, 194",
+      "brandDark": "#06121F",
+      "paper": "#EEF6FF",
+      "paperCard": "#FFFFFF",
+      "status": "Web activa con agenda, tratamientos, financiacion y pagos en linea; la fuga esta en convertir visita en valoracion con contexto",
+      "leadProblem": "PROMTA muestra una oferta amplia: ortodoncia, implantes, diseno de sonrisa, blanqueamiento, protesis, odontopediatria, urgencias y pacientes internacionales. Cuando hay tantos caminos, el paciente puede llegar con interes pero no saber que pedir, cuanto tarda, que sede elegir o como financiar antes de agendar.",
+      "opportunity": "Mejorar la web actual con un asesor digital que filtre tratamiento, sede, urgencia, presupuesto, financiacion y disponibilidad. Asi WhatsApp y agenda reciben pacientes mejor calificados, no mensajes sueltos de “precio” sin contexto.",
+      "proofLine": "Lectura publica del 20 de junio de 2026: web promta.com.co con tratamientos, agenda, financiacion, pagos en linea y contacto; Instagram @promta_clinica con sedes Medellin Centro, Poblado y Rionegro segun snippets publicos. Se valida con agenda real, protocolos clinicos y metricas antes de pauta.",
+      "audience": "Pacientes de Medellin, Rionegro y pacientes internacionales interesados en odontologia estetica, rehabilitacion, implantes, ortodoncia o urgencias.",
+      "adAngle": "Tratamiento correcto + sede correcta + valoracion guiada por WhatsApp",
+      "heroCopy": "PROMTA no necesita una web desde cero: necesita que cada visita entienda su tratamiento, sede, agenda y financiacion antes de escribir.",
+      "bannerHook": "El paciente quiere sonreir, pero se enfria antes de agendar",
+      "bannerSubhook": "Con muchas especialidades, la decision se vuelve lenta. Un asesor digital convierte dudas clinicas iniciales en valoraciones con contexto.",
+      "botTitle": "Asesor PROMTA demo: valoraciones mejor filtradas",
+      "botOpening": "Hola, soy el asesor demo de PROMTA. Puedo orientarte por tratamiento, sede, agenda, financiacion, pagos en linea o valoracion inicial.",
+      "botPrompts": [
+        "Quiero diseno de sonrisa",
+        "Necesito implantes",
+        "¿Como agenda mejor?",
+        "¿Sirve para pacientes internacionales?",
+        "¿Que datos deja para pauta?"
+      ],
+      "findings": [
+        "PROMTA tiene web activa, tratamientos organizados, agenda, financiacion, pagos en linea y canales sociales.",
+        "La amplitud de servicios puede crear indecision antes de pedir cita si no hay filtro conversacional.",
+        "La oportunidad esta en clasificar intencion clinica y comercial antes de pasar a asesor humano."
+      ],
+      "siteIssues": [
+        "Agenda sin contexto completo puede recibir pacientes que solo preguntan precio.",
+        "Tratamientos de alto valor necesitan explicar proceso, tiempos, sede, diagnostico y financiacion antes del CTA.",
+        "Pauta a Instagram o web aprende menos si no separa tratamiento, sede, objecion y urgencia."
+      ],
+      "losses": [
+        "Pacientes comparan varias clinicas y eligen la que responde mas claro y rapido.",
+        "El equipo comercial repite preguntas basicas sobre sede, agenda, valoracion y pagos.",
+        "Sin seguimiento automatico, consultas de alto ticket pueden enfriarse despues del primer mensaje."
+      ],
+      "heatmapData": [
+        "Clics por tratamiento: implantes, diseno, ortodoncia, blanqueamiento, urgencias o pacientes internacionales.",
+        "Friccion: personas que abandonan antes de agenda, financiacion, pagos o WhatsApp.",
+        "Datos para pauta: tratamiento consultado, sede preferida, objecion y siguiente accion."
+      ],
+      "campaigns": [
+        "Campana por tratamiento con landing o bloque especifico y asesor conversacional.",
+        "Remarketing a visitantes de implantes, diseno y ortodoncia que no agendaron.",
+        "Campana para pacientes internacionales con filtro de tiempos, viaje, valoracion virtual y WhatsApp."
+      ],
+      "deliverables": [
+        "Asesor Solvers conectado a web/WhatsApp para filtrar tratamiento, sede, urgencia y financiacion.",
+        "Mejoras de conversion en paginas de tratamiento: CTA contextual, FAQs y resumen para WhatsApp.",
+        "Panel de intencion para medir tratamiento visto, pregunta, fuente, abandono y valoracion agendada."
+      ]
+    },
+    {
+      "theme": "maker",
+      "brandMode": "standard",
+      "alertLabel": "Oportunidad Solvers",
+      "statusLabel": "Diagnostico comercial",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Web activa con glampings, casas, experiencias, FAQ, contacto y motor de consulta; la oportunidad es reducir abandono antes de reserva",
+      "visualCueLabel": "Dolor",
+      "visualCue": "La escapada se antoja, pero la reserva pide demasiadas respuestas",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asesor digital + medicion + seguimiento para convertir intencion en venta",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "NAQUA",
+      "loaderSubtitle": "Leyendo senales publicas, web, Instagram, WhatsApp y puntos de fuga antes del diagnostico.",
+      "loaderCue1": "Web actual",
+      "loaderCue2": "Asesor 24/7",
+      "heroStampTitle": "NAQUA",
+      "heroStampSubtitle": "hotel de casas campestres y cabanas glamping",
+      "bannerKicker": "Hook comercial",
+      "bannerBadge1": "Web activa",
+      "bannerBadge2": "WhatsApp + seguimiento",
+      "openNode1Label": "Interes",
+      "openNode1Title": "Producto servicio duda",
+      "openNode2Label": "Friccion",
+      "openNode2Title": "Precio agenda talla fecha",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "Asesor + data + seguimiento",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Mejorar la web actual para convertir mas visitas en conversaciones utiles",
+      "scrollTitle": "Ruta de conversion recomendada",
+      "diagnosisTitle": "Donde se esta perdiendo la venta",
+      "whatsappCta": "Quiero ver como aplicaria en mi negocio",
+      "scrollIntro": "El estudio ordena la ruta desde la primera senal publica hasta el siguiente paso comercial: clic, pregunta, carrito, agenda, reserva o WhatsApp con contexto.",
+      "experienceIntro": "La oportunidad no es responder mas mensajes manualmente. Es convertir cada pregunta repetida en una ruta medible que ayude a cerrar y a mejorar pauta.",
+      "botAgentName": "Asesor NAQUA demo",
+      "botAgentRole": "hotel de casas campestres y cabanas glamping",
+      "botIntro": "Este demo muestra una primera capa conversacional especifica para el negocio: responde dudas frecuentes, captura intencion y deja el seguimiento listo.",
+      "botDemoTitle": "Conversacion con contexto",
+      "botDemoBody": "El asesor pregunta lo minimo necesario y evita que WhatsApp reciba mensajes frios sin producto, fecha, talla, tratamiento o presupuesto.",
+      "botTrainingTitle": "Entrenado con senales reales",
+      "botTrainingBody": "Se alimenta con web, catalogo, preguntas frecuentes, politicas, agenda, horarios, disponibilidad y tono de marca verificados por el negocio.",
+      "diagnosisTiles": [
+        {
+          "label": "Prioridad",
+          "title": "Estudio 2/10",
+          "body": "Ordenado por potencial comercial, claridad de oferta y oportunidad de conversion."
+        },
+        {
+          "label": "Canal",
+          "title": "Web + WhatsApp",
+          "body": "El foco cambia segun si existe web propia confiable o no."
+        },
+        {
+          "label": "Dolor",
+          "title": "Interes que se enfria",
+          "body": "Dudas repetidas aparecen antes de pagar, reservar, agendar o escribir."
+        },
+        {
+          "label": "Solucion",
+          "title": "Asesor + data",
+          "body": "Captura contexto, responde y deja seguimiento medible."
+        }
+      ],
+      "experiencePath": [
+        "Busqueda: la persona llega desde Instagram, Google, pauta o recomendacion a NAQUA",
+        "Friccion: aparecen dudas de precio, disponibilidad, talla, fecha, agenda, envio, reserva o politica",
+        "Solucion: el asesor digital pregunta lo minimo y entrega una ruta clara",
+        "Cierre: WhatsApp, carrito, agenda o reserva recibe intencion con contexto y seguimiento"
+      ],
+      "journey": [
+        {
+          "title": "Etapa 1: visita con intencion",
+          "body": "La persona ya trae una necesidad; el sistema debe entenderla antes de pedirle que escriba."
+        },
+        {
+          "title": "Etapa 2: filtro comercial",
+          "body": "El asesor recoge datos clave y responde objeciones frecuentes sin inventar informacion no validada."
+        },
+        {
+          "title": "Etapa 3: accion clara",
+          "body": "La ruta termina en carrito, agenda, reserva o WhatsApp con resumen util para cierre humano."
+        },
+        {
+          "title": "Etapa 4: seguimiento",
+          "body": "Cada clic y pregunta alimenta remarketing, priorizacion de leads y mejora de pauta."
+        }
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "precio",
+            "valor",
+            "costo",
+            "cuanto",
+            "cuánto"
+          ],
+          "answer": "Para NAQUA, el asesor no debe soltar un precio suelto: primero identifica fecha, alojamiento, urgencia, ciudad y objecion. Despues entrega rango, ruta o paso a WhatsApp con contexto para cierre humano."
+        },
+        {
+          "keywords": [
+            "whatsapp",
+            "mensaje",
+            "asesor",
+            "atencion",
+            "atención"
+          ],
+          "answer": "Funciona como primer filtro 24/7: responde dudas repetidas, pide datos clave y entrega a WhatsApp una conversacion con resumen, no un lead frio sin contexto."
+        },
+        {
+          "keywords": [
+            "web",
+            "pagina",
+            "página",
+            "carrito",
+            "reserva",
+            "agenda"
+          ],
+          "answer": "La idea es mejorar la ruta actual: CTA por intencion, preguntas frecuentes, eventos de clic, recuperacion de abandono y seguimiento segun lo que la persona vio o pregunto."
+        },
+        {
+          "keywords": [
+            "pauta",
+            "instagram",
+            "meta",
+            "campaña",
+            "campana",
+            "datos"
+          ],
+          "answer": "La pauta deja de medir solo clics. Se mide alojamiento y fecha consultada, pregunta frecuente, boton tocado, abandono y conversacion iniciada para saber que anuncio trae oportunidades reales."
+        }
+      ],
+      "slug": "naqua-glamping-sisga",
+      "company": "NAQUA",
+      "instagram": "@naqua.co",
+      "sector": "hotel de casas campestres y cabanas glamping",
+      "city": "Embalse del Sisga, Cundinamarca",
+      "tone": "natural, premium y sereno",
+      "accent": "#6FA85B",
+      "secondary": "#D9B46B",
+      "accentRgb": "111, 168, 91",
+      "secondaryRgb": "217, 180, 107",
+      "brandDark": "#11170F",
+      "paper": "#F4F7EF",
+      "paperCard": "#FFFFFF",
+      "status": "Web activa con glampings, casas, experiencias, FAQ, contacto y motor de consulta; la oportunidad es reducir abandono antes de reserva",
+      "leadProblem": "NAQUA ya comunica una experiencia premium de descanso cerca de Bogota: glampings frente al embalse, casas, restaurantes, spa, actividades nauticas, senderismo y amenities. La friccion aparece cuando una pareja debe decidir fecha, cabana, adultos/ninos, reglas, servicios y precio antes de reservar.",
+      "opportunity": "Agregar un asesor de reservas que recomiende cabana o casa, explique amenities, valide fecha, numero de huespedes, ocasion y dudas frecuentes, y entregue una solicitud lista para confirmar.",
+      "proofLine": "Lectura publica del 20 de junio de 2026: naqua.co/glampings presenta Glamping by Naqua en el Embalse del Sisga, servicios como restaurante, spa, actividades nauticas, telefono +57 314 434 6940, correo info@naqua.co y RNT visible. Instagram @naqua.co aparece como hotel de casas campestres y cabanas glamping.",
+      "audience": "Parejas y familias de Bogota/Cundinamarca que buscan escapadas premium, naturaleza, jacuzzi, gastronomia y descanso de fin de semana.",
+      "adAngle": "Escapada premium + fecha clara + reserva asistida",
+      "heroCopy": "NAQUA ya inspira. El siguiente salto es que cada visita pueda escoger alojamiento, resolver dudas y avanzar a reserva sin esperar respuesta manual.",
+      "bannerHook": "La escapada se antoja, pero la reserva pide demasiadas respuestas",
+      "bannerSubhook": "Fecha, cabana, plan, servicios, reglas y precio deben resolverse rapido para no perder intencion.",
+      "botTitle": "Asesor NAQUA demo: reservas con contexto",
+      "botOpening": "Hola, soy el asesor demo de NAQUA. Puedo ayudarte a elegir glamping o casa, validar fecha, numero de personas, experiencia, restaurante, spa y siguiente paso de reserva.",
+      "botPrompts": [
+        "Busco plan en pareja",
+        "¿Que cabana elegir?",
+        "¿Tienen spa/restaurante?",
+        "¿Como recupera reservas?",
+        "¿Que mide la pauta?"
+      ],
+      "findings": [
+        "La web ya organiza glampings, casas, experiencias, FAQs y contacto.",
+        "La decision de reserva depende de disponibilidad, tipo de plan, servicios y reglas claras.",
+        "La pauta puede volverse mas rentable si cada clic llega a una ruta de reserva medible."
+      ],
+      "siteIssues": [
+        "Si la persona no entiende rapido que cabana le conviene, puede posponer la reserva.",
+        "WhatsApp sin resumen obliga a preguntar de nuevo fecha, personas, ocasion y presupuesto.",
+        "Sin eventos por alojamiento y fecha, la pauta no sabe que experiencia genero intencion real."
+      ],
+      "losses": [
+        "Fechas de fin de semana se pueden perder por respuesta tardia.",
+        "El equipo responde preguntas repetidas sobre servicios, ubicacion, check in, ninos, mascotas o restaurante.",
+        "Visitantes que comparan glampings no reciben seguimiento segun cabana vista."
+      ],
+      "heatmapData": [
+        "Interes por alojamiento: casas, glampings, cabanas y experiencias.",
+        "Friccion: abandono antes de fecha, precio, WhatsApp, FAQ o contacto.",
+        "Data para llenar fechas: origen, fecha consultada, tipo de plan y objecion."
+      ],
+      "campaigns": [
+        "Campana para parejas de Bogota con fecha flexible y reserva asistida.",
+        "Remarketing a visitantes que vieron glampings pero no contactaron.",
+        "Campanas por ocasion: aniversario, descanso, regalo, fin de semana y experiencias."
+      ],
+      "deliverables": [
+        "Asesor de reservas entrenado con alojamientos, servicios, reglas y FAQs verificadas por NAQUA.",
+        "Mejoras de conversion en web: CTAs por fecha/plan, preguntas frecuentes y WhatsApp con resumen.",
+        "Panel de reservas potenciales por alojamiento, fecha, fuente, objecion y siguiente accion."
+      ]
+    },
+    {
+      "theme": "maker",
+      "brandMode": "standard",
+      "alertLabel": "Oportunidad Solvers",
+      "statusLabel": "Diagnostico comercial",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Tienda online activa con marcas oficiales; la oportunidad es guiar talla, categoria y recuperacion de carrito",
+      "visualCueLabel": "Dolor",
+      "visualCue": "Mucho catalogo vende, pero tambien puede enfriar la compra",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asesor digital + medicion + seguimiento para convertir intencion en venta",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "LIKEME",
+      "loaderSubtitle": "Leyendo senales publicas, web, Instagram, WhatsApp y puntos de fuga antes del diagnostico.",
+      "loaderCue1": "Web actual",
+      "loaderCue2": "Asesor 24/7",
+      "heroStampTitle": "LIKEME",
+      "heroStampSubtitle": "ecommerce colombiano de moda",
+      "bannerKicker": "Hook comercial",
+      "bannerBadge1": "Web activa",
+      "bannerBadge2": "WhatsApp + seguimiento",
+      "openNode1Label": "Interes",
+      "openNode1Title": "Producto servicio duda",
+      "openNode2Label": "Friccion",
+      "openNode2Title": "Precio agenda talla fecha",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "Asesor + data + seguimiento",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Mejorar la web actual para convertir mas visitas en conversaciones utiles",
+      "scrollTitle": "Ruta de conversion recomendada",
+      "diagnosisTitle": "Donde se esta perdiendo la venta",
+      "whatsappCta": "Quiero ver como aplicaria en mi negocio",
+      "scrollIntro": "El estudio ordena la ruta desde la primera senal publica hasta el siguiente paso comercial: clic, pregunta, carrito, agenda, reserva o WhatsApp con contexto.",
+      "experienceIntro": "La oportunidad no es responder mas mensajes manualmente. Es convertir cada pregunta repetida en una ruta medible que ayude a cerrar y a mejorar pauta.",
+      "botAgentName": "Asesor LIKEME demo",
+      "botAgentRole": "ecommerce colombiano de moda",
+      "botIntro": "Este demo muestra una primera capa conversacional especifica para el negocio: responde dudas frecuentes, captura intencion y deja el seguimiento listo.",
+      "botDemoTitle": "Conversacion con contexto",
+      "botDemoBody": "El asesor pregunta lo minimo necesario y evita que WhatsApp reciba mensajes frios sin producto, fecha, talla, tratamiento o presupuesto.",
+      "botTrainingTitle": "Entrenado con senales reales",
+      "botTrainingBody": "Se alimenta con web, catalogo, preguntas frecuentes, politicas, agenda, horarios, disponibilidad y tono de marca verificados por el negocio.",
+      "diagnosisTiles": [
+        {
+          "label": "Prioridad",
+          "title": "Estudio 3/10",
+          "body": "Ordenado por potencial comercial, claridad de oferta y oportunidad de conversion."
+        },
+        {
+          "label": "Canal",
+          "title": "Web + WhatsApp",
+          "body": "El foco cambia segun si existe web propia confiable o no."
+        },
+        {
+          "label": "Dolor",
+          "title": "Interes que se enfria",
+          "body": "Dudas repetidas aparecen antes de pagar, reservar, agendar o escribir."
+        },
+        {
+          "label": "Solucion",
+          "title": "Asesor + data",
+          "body": "Captura contexto, responde y deja seguimiento medible."
+        }
+      ],
+      "experiencePath": [
+        "Busqueda: la persona llega desde Instagram, Google, pauta o recomendacion a LIKEME",
+        "Friccion: aparecen dudas de precio, disponibilidad, talla, fecha, agenda, envio, reserva o politica",
+        "Solucion: el asesor digital pregunta lo minimo y entrega una ruta clara",
+        "Cierre: WhatsApp, carrito, agenda o reserva recibe intencion con contexto y seguimiento"
+      ],
+      "journey": [
+        {
+          "title": "Etapa 1: visita con intencion",
+          "body": "La persona ya trae una necesidad; el sistema debe entenderla antes de pedirle que escriba."
+        },
+        {
+          "title": "Etapa 2: filtro comercial",
+          "body": "El asesor recoge datos clave y responde objeciones frecuentes sin inventar informacion no validada."
+        },
+        {
+          "title": "Etapa 3: accion clara",
+          "body": "La ruta termina en carrito, agenda, reserva o WhatsApp con resumen util para cierre humano."
+        },
+        {
+          "title": "Etapa 4: seguimiento",
+          "body": "Cada clic y pregunta alimenta remarketing, priorizacion de leads y mejora de pauta."
+        }
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "precio",
+            "valor",
+            "costo",
+            "cuanto",
+            "cuánto"
+          ],
+          "answer": "Para LIKEME, el asesor no debe soltar un precio suelto: primero identifica categoria, talla, urgencia, ciudad y objecion. Despues entrega rango, ruta o paso a WhatsApp con contexto para cierre humano."
+        },
+        {
+          "keywords": [
+            "whatsapp",
+            "mensaje",
+            "asesor",
+            "atencion",
+            "atención"
+          ],
+          "answer": "Funciona como primer filtro 24/7: responde dudas repetidas, pide datos clave y entrega a WhatsApp una conversacion con resumen, no un lead frio sin contexto."
+        },
+        {
+          "keywords": [
+            "web",
+            "pagina",
+            "página",
+            "carrito",
+            "reserva",
+            "agenda"
+          ],
+          "answer": "La idea es mejorar la ruta actual: CTA por intencion, preguntas frecuentes, eventos de clic, recuperacion de abandono y seguimiento segun lo que la persona vio o pregunto."
+        },
+        {
+          "keywords": [
+            "pauta",
+            "instagram",
+            "meta",
+            "campaña",
+            "campana",
+            "datos"
+          ],
+          "answer": "La pauta deja de medir solo clics. Se mide producto, marca y talla consultada, pregunta frecuente, boton tocado, abandono y conversacion iniciada para saber que anuncio trae oportunidades reales."
+        }
+      ],
+      "slug": "likeme-moda-online",
+      "company": "LIKEME",
+      "instagram": "@likeme.com.co",
+      "sector": "ecommerce colombiano de moda",
+      "city": "Colombia",
+      "tone": "urbano, masivo y practico",
+      "accent": "#FF4F7B",
+      "secondary": "#1ED7B5",
+      "accentRgb": "255, 79, 123",
+      "secondaryRgb": "30, 215, 181",
+      "brandDark": "#140911",
+      "paper": "#FFF1F5",
+      "paperCard": "#FFFFFF",
+      "status": "Tienda online activa con marcas oficiales; la oportunidad es guiar talla, categoria y recuperacion de carrito",
+      "leadProblem": "LIKEME agrupa moda online de Carmel, Pacifika, Loguin y Real Human. En un ecommerce con muchas referencias, la compradora puede llegar desde Instagram, mirar descuentos o colecciones y abandonar si no resuelve talla, fit, disponibilidad, envio, cambio o medio de pago.",
+      "opportunity": "Un asesor digital sobre la web puede recomendar categoria, talla, marca y look, resolver dudas frecuentes y recuperar carritos o visitas por producto.",
+      "proofLine": "Lectura publica del 20 de junio de 2026: likeme.com.co se presenta como tienda online oficial de Carmel, Pacifika, Loguin y Real Human; snippets de Instagram mencionan tienda online y WhatsApp 317 426 6793. Se valida con catalogo, politicas y analitica real antes de pauta.",
+      "audience": "Compradoras y compradores de moda en Colombia que buscan promociones, referencias por marca, tallas y compra online sencilla.",
+      "adAngle": "Look correcto + talla clara + carrito recuperado",
+      "heroCopy": "LIKEME ya tiene ecommerce. La mejora esta en convertir navegacion amplia en compras guiadas por talla, marca, disponibilidad y seguimiento.",
+      "bannerHook": "Mucho catalogo vende, pero tambien puede enfriar la compra",
+      "bannerSubhook": "Cuando la persona no sabe talla, fit o disponibilidad, el carrito queda esperando.",
+      "botTitle": "Asesor LIKEME demo: talla, marca y carrito",
+      "botOpening": "Hola, soy el asesor demo de LIKEME. Puedo ayudarte por marca, talla, categoria, envio, cambios, promociones o recuperacion de carrito.",
+      "botPrompts": [
+        "No se mi talla",
+        "Busco vestido en promo",
+        "¿Como recupera carrito?",
+        "¿Como ayuda a pauta?",
+        "¿Que pasa por WhatsApp?"
+      ],
+      "findings": [
+        "LIKEME tiene tienda online activa con varias marcas de moda.",
+        "La amplitud de catalogo exige guia por talla, ocasion, categoria y disponibilidad.",
+        "La pauta puede aprender por producto visto y objecion, no solo por clic."
+      ],
+      "siteIssues": [
+        "La persona puede navegar muchas referencias sin decidir cual comprar.",
+        "Dudas de talla, fit, envios o cambios aparecen justo antes del pago.",
+        "WhatsApp debe recibir el producto visto y la talla dudosa para cerrar mas rapido."
+      ],
+      "losses": [
+        "Carritos abandonados por dudas faciles de resolver.",
+        "Atencion humana ocupada en preguntas repetidas de talla y envio.",
+        "Campanas que empujan trafico sin recuperar compradores indecisos."
+      ],
+      "heatmapData": [
+        "Producto y categoria vistos por marca.",
+        "Abandono en talla, carrito, envio, pago o politicas.",
+        "Consultas por promocion, talla, cambio y disponibilidad."
+      ],
+      "campaigns": [
+        "Campanas por marca/categoria con asesor de talla.",
+        "Remarketing a carritos y visitantes de producto sin compra.",
+        "Campanas de promociones con WhatsApp contextual para dudas de fit y envio."
+      ],
+      "deliverables": [
+        "Asesor de moda entrenado en marcas, tallas, categorias, cambios y envios.",
+        "Eventos de ecommerce para talla, carrito, producto, WhatsApp y abandono.",
+        "Panel de oportunidades por marca, referencia, objecion y compra recuperada."
+      ]
+    },
+    {
+      "theme": "maker",
+      "brandMode": "standard",
+      "alertLabel": "Oportunidad Solvers",
+      "statusLabel": "Diagnostico comercial",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Web y tiendas fisicas visibles; la oportunidad es asesorar talla, fit y disponibilidad antes de comprar",
+      "visualCueLabel": "Dolor",
+      "visualCue": "La clienta quiere comprar, pero la duda de talla enfria todo",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asesor digital + medicion + seguimiento para convertir intencion en venta",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "elenA Plus",
+      "loaderSubtitle": "Leyendo senales publicas, web, Instagram, WhatsApp y puntos de fuga antes del diagnostico.",
+      "loaderCue1": "Web actual",
+      "loaderCue2": "Asesor 24/7",
+      "heroStampTitle": "elenA Plus",
+      "heroStampSubtitle": "moda plus size colombiana",
+      "bannerKicker": "Hook comercial",
+      "bannerBadge1": "Web activa",
+      "bannerBadge2": "WhatsApp + seguimiento",
+      "openNode1Label": "Interes",
+      "openNode1Title": "Producto servicio duda",
+      "openNode2Label": "Friccion",
+      "openNode2Title": "Precio agenda talla fecha",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "Asesor + data + seguimiento",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Mejorar la web actual para convertir mas visitas en conversaciones utiles",
+      "scrollTitle": "Ruta de conversion recomendada",
+      "diagnosisTitle": "Donde se esta perdiendo la venta",
+      "whatsappCta": "Quiero ver como aplicaria en mi negocio",
+      "scrollIntro": "El estudio ordena la ruta desde la primera senal publica hasta el siguiente paso comercial: clic, pregunta, carrito, agenda, reserva o WhatsApp con contexto.",
+      "experienceIntro": "La oportunidad no es responder mas mensajes manualmente. Es convertir cada pregunta repetida en una ruta medible que ayude a cerrar y a mejorar pauta.",
+      "botAgentName": "Asesor elenA Plus demo",
+      "botAgentRole": "moda plus size colombiana",
+      "botIntro": "Este demo muestra una primera capa conversacional especifica para el negocio: responde dudas frecuentes, captura intencion y deja el seguimiento listo.",
+      "botDemoTitle": "Conversacion con contexto",
+      "botDemoBody": "El asesor pregunta lo minimo necesario y evita que WhatsApp reciba mensajes frios sin producto, fecha, talla, tratamiento o presupuesto.",
+      "botTrainingTitle": "Entrenado con senales reales",
+      "botTrainingBody": "Se alimenta con web, catalogo, preguntas frecuentes, politicas, agenda, horarios, disponibilidad y tono de marca verificados por el negocio.",
+      "diagnosisTiles": [
+        {
+          "label": "Prioridad",
+          "title": "Estudio 4/10",
+          "body": "Ordenado por potencial comercial, claridad de oferta y oportunidad de conversion."
+        },
+        {
+          "label": "Canal",
+          "title": "Web + WhatsApp",
+          "body": "El foco cambia segun si existe web propia confiable o no."
+        },
+        {
+          "label": "Dolor",
+          "title": "Interes que se enfria",
+          "body": "Dudas repetidas aparecen antes de pagar, reservar, agendar o escribir."
+        },
+        {
+          "label": "Solucion",
+          "title": "Asesor + data",
+          "body": "Captura contexto, responde y deja seguimiento medible."
+        }
+      ],
+      "experiencePath": [
+        "Busqueda: la persona llega desde Instagram, Google, pauta o recomendacion a elenA Plus",
+        "Friccion: aparecen dudas de precio, disponibilidad, talla, fecha, agenda, envio, reserva o politica",
+        "Solucion: el asesor digital pregunta lo minimo y entrega una ruta clara",
+        "Cierre: WhatsApp, carrito, agenda o reserva recibe intencion con contexto y seguimiento"
+      ],
+      "journey": [
+        {
+          "title": "Etapa 1: visita con intencion",
+          "body": "La persona ya trae una necesidad; el sistema debe entenderla antes de pedirle que escriba."
+        },
+        {
+          "title": "Etapa 2: filtro comercial",
+          "body": "El asesor recoge datos clave y responde objeciones frecuentes sin inventar informacion no validada."
+        },
+        {
+          "title": "Etapa 3: accion clara",
+          "body": "La ruta termina en carrito, agenda, reserva o WhatsApp con resumen util para cierre humano."
+        },
+        {
+          "title": "Etapa 4: seguimiento",
+          "body": "Cada clic y pregunta alimenta remarketing, priorizacion de leads y mejora de pauta."
+        }
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "precio",
+            "valor",
+            "costo",
+            "cuanto",
+            "cuánto"
+          ],
+          "answer": "Para elenA Plus, el asesor no debe soltar un precio suelto: primero identifica talla, prenda, urgencia, ciudad y objecion. Despues entrega rango, ruta o paso a WhatsApp con contexto para cierre humano."
+        },
+        {
+          "keywords": [
+            "whatsapp",
+            "mensaje",
+            "asesor",
+            "atencion",
+            "atención"
+          ],
+          "answer": "Funciona como primer filtro 24/7: responde dudas repetidas, pide datos clave y entrega a WhatsApp una conversacion con resumen, no un lead frio sin contexto."
+        },
+        {
+          "keywords": [
+            "web",
+            "pagina",
+            "página",
+            "carrito",
+            "reserva",
+            "agenda"
+          ],
+          "answer": "La idea es mejorar la ruta actual: CTA por intencion, preguntas frecuentes, eventos de clic, recuperacion de abandono y seguimiento segun lo que la persona vio o pregunto."
+        },
+        {
+          "keywords": [
+            "pauta",
+            "instagram",
+            "meta",
+            "campaña",
+            "campana",
+            "datos"
+          ],
+          "answer": "La pauta deja de medir solo clics. Se mide prenda y talla consultada, pregunta frecuente, boton tocado, abandono y conversacion iniciada para saber que anuncio trae oportunidades reales."
+        }
+      ],
+      "slug": "elena-plus-clothing",
+      "company": "elenA Plus",
+      "instagram": "@elenaplusclothing",
+      "sector": "moda plus size colombiana",
+      "city": "Bogota y Medellin",
+      "tone": "cercano, seguro e inclusivo",
+      "accent": "#B957CE",
+      "secondary": "#FFB84D",
+      "accentRgb": "185, 87, 206",
+      "secondaryRgb": "255, 184, 77",
+      "brandDark": "#160B1F",
+      "paper": "#FAF1FF",
+      "paperCard": "#FFFFFF",
+      "status": "Web y tiendas fisicas visibles; la oportunidad es asesorar talla, fit y disponibilidad antes de comprar",
+      "leadProblem": "elenA vende ropa tallas grandes con web, WhatsApp y tiendas en Bogota y Medellin. En plus size, la compra se frena si la clienta no entiende fit, horma, medidas, disponibilidad, cambios o si esa prenda realmente le sirve para su cuerpo y ocasion.",
+      "opportunity": "Un asesor de talla y estilo puede acompañar la web actual, recomendar prendas, resolver medidas, separar tienda/web y llevar a WhatsApp una compradora lista para comprar.",
+      "proofLine": "Lectura publica del 20 de junio de 2026: Instagram @elenaplusclothing y snippets publicos muestran web elenaplus.com, lineas de WhatsApp para pagina web y tiendas en Bogota/Medellin. La web responde HTTP 200. Se valida catalogo, tallaje y politicas reales antes de pauta.",
+      "audience": "Mujeres plus size en Colombia que quieren verse bien, comprar con confianza y evitar devoluciones por talla o fit.",
+      "adAngle": "Ropa plus size linda + asesoria de talla + compra sin inseguridad",
+      "heroCopy": "elenA ya tiene web y tiendas. La oportunidad es convertir la confianza de marca en compras guiadas por talla, fit y ocasion.",
+      "bannerHook": "La clienta quiere comprar, pero la duda de talla enfria todo",
+      "bannerSubhook": "En moda plus size, un asesor que entienda fit puede cerrar mas que un boton generico de comprar.",
+      "botTitle": "Asesor elenA demo: talla y confianza antes del carrito",
+      "botOpening": "Hola, soy el asesor demo de elenA. Puedo ayudarte con talla, medidas, fit, disponibilidad, tienda, envio, cambios o recomendacion de prendas.",
+      "botPrompts": [
+        "No se mi talla",
+        "Busco jean plus",
+        "¿Como reduce devoluciones?",
+        "¿Web o tienda?",
+        "¿Que mide la pauta?"
+      ],
+      "findings": [
+        "elenA combina ecommerce, WhatsApp y tiendas fisicas en Bogota y Medellin.",
+        "La categoria plus size necesita confianza, guia de medidas y lenguaje cuidadoso.",
+        "La oportunidad es reducir dudas antes de carrito y mejorar seguimiento post clic."
+      ],
+      "siteIssues": [
+        "La guia de talla debe convertirse en conversacion, no solo tabla.",
+        "Disponibilidad por tienda o web puede generar preguntas repetidas.",
+        "La pauta debe separar interes por prenda, talla, ciudad y objecion."
+      ],
+      "losses": [
+        "Compradoras abandonan si no se sienten seguras con la talla.",
+        "Devoluciones o cambios aumentan cuando la asesoria previa es pobre.",
+        "Mensajes manuales consumen tiempo con preguntas sobre medidas y disponibilidad."
+      ],
+      "heatmapData": [
+        "Prendas mas vistas por talla, categoria y ciudad.",
+        "Friccion en guia de tallas, carrito, cambios y WhatsApp.",
+        "Objeciones frecuentes: fit, largo, horma, tela, devolucion o tienda."
+      ],
+      "campaigns": [
+        "Campana por confianza de talla y outfit completo.",
+        "Remarketing a visitantes de jeans, vestidos y basicos que no compraron.",
+        "Campanas por ciudad para visita a tienda con asesoria previa."
+      ],
+      "deliverables": [
+        "Asesor de talla/estilo entrenado con tablas, politicas, tiendas y lenguaje de marca.",
+        "Eventos de conversion para producto, talla, WhatsApp, carrito y ciudad.",
+        "Panel de oportunidades por prenda, talla, objecion, fuente y venta recuperable."
+      ]
+    },
+    {
+      "theme": "maker",
+      "brandMode": "standard",
+      "alertLabel": "Oportunidad Solvers",
+      "statusLabel": "Diagnostico comercial",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Web activa y entregas el mismo dia en Bogota; la oportunidad es convertir urgencia y ocasion en pedido guiado",
+      "visualCueLabel": "Dolor",
+      "visualCue": "Cuando el regalo es urgente, cada duda mata el pedido",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asesor digital + medicion + seguimiento para convertir intencion en venta",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "Fiori Market",
+      "loaderSubtitle": "Leyendo senales publicas, web, Instagram, WhatsApp y puntos de fuga antes del diagnostico.",
+      "loaderCue1": "Web actual",
+      "loaderCue2": "Asesor 24/7",
+      "heroStampTitle": "Fiori Market",
+      "heroStampSubtitle": "floristeria de autor y flores eternas",
+      "bannerKicker": "Hook comercial",
+      "bannerBadge1": "Web activa",
+      "bannerBadge2": "WhatsApp + seguimiento",
+      "openNode1Label": "Interes",
+      "openNode1Title": "Producto servicio duda",
+      "openNode2Label": "Friccion",
+      "openNode2Title": "Precio agenda talla fecha",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "Asesor + data + seguimiento",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Mejorar la web actual para convertir mas visitas en conversaciones utiles",
+      "scrollTitle": "Ruta de conversion recomendada",
+      "diagnosisTitle": "Donde se esta perdiendo la venta",
+      "whatsappCta": "Quiero ver como aplicaria en mi negocio",
+      "scrollIntro": "El estudio ordena la ruta desde la primera senal publica hasta el siguiente paso comercial: clic, pregunta, carrito, agenda, reserva o WhatsApp con contexto.",
+      "experienceIntro": "La oportunidad no es responder mas mensajes manualmente. Es convertir cada pregunta repetida en una ruta medible que ayude a cerrar y a mejorar pauta.",
+      "botAgentName": "Asesor Fiori Market demo",
+      "botAgentRole": "floristeria de autor y flores eternas",
+      "botIntro": "Este demo muestra una primera capa conversacional especifica para el negocio: responde dudas frecuentes, captura intencion y deja el seguimiento listo.",
+      "botDemoTitle": "Conversacion con contexto",
+      "botDemoBody": "El asesor pregunta lo minimo necesario y evita que WhatsApp reciba mensajes frios sin producto, fecha, talla, tratamiento o presupuesto.",
+      "botTrainingTitle": "Entrenado con senales reales",
+      "botTrainingBody": "Se alimenta con web, catalogo, preguntas frecuentes, politicas, agenda, horarios, disponibilidad y tono de marca verificados por el negocio.",
+      "diagnosisTiles": [
+        {
+          "label": "Prioridad",
+          "title": "Estudio 5/10",
+          "body": "Ordenado por potencial comercial, claridad de oferta y oportunidad de conversion."
+        },
+        {
+          "label": "Canal",
+          "title": "Web + WhatsApp",
+          "body": "El foco cambia segun si existe web propia confiable o no."
+        },
+        {
+          "label": "Dolor",
+          "title": "Interes que se enfria",
+          "body": "Dudas repetidas aparecen antes de pagar, reservar, agendar o escribir."
+        },
+        {
+          "label": "Solucion",
+          "title": "Asesor + data",
+          "body": "Captura contexto, responde y deja seguimiento medible."
+        }
+      ],
+      "experiencePath": [
+        "Busqueda: la persona llega desde Instagram, Google, pauta o recomendacion a Fiori Market",
+        "Friccion: aparecen dudas de precio, disponibilidad, talla, fecha, agenda, envio, reserva o politica",
+        "Solucion: el asesor digital pregunta lo minimo y entrega una ruta clara",
+        "Cierre: WhatsApp, carrito, agenda o reserva recibe intencion con contexto y seguimiento"
+      ],
+      "journey": [
+        {
+          "title": "Etapa 1: visita con intencion",
+          "body": "La persona ya trae una necesidad; el sistema debe entenderla antes de pedirle que escriba."
+        },
+        {
+          "title": "Etapa 2: filtro comercial",
+          "body": "El asesor recoge datos clave y responde objeciones frecuentes sin inventar informacion no validada."
+        },
+        {
+          "title": "Etapa 3: accion clara",
+          "body": "La ruta termina en carrito, agenda, reserva o WhatsApp con resumen util para cierre humano."
+        },
+        {
+          "title": "Etapa 4: seguimiento",
+          "body": "Cada clic y pregunta alimenta remarketing, priorizacion de leads y mejora de pauta."
+        }
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "precio",
+            "valor",
+            "costo",
+            "cuanto",
+            "cuánto"
+          ],
+          "answer": "Para Fiori Market, el asesor no debe soltar un precio suelto: primero identifica ocasion, presupuesto, urgencia, ciudad y objecion. Despues entrega rango, ruta o paso a WhatsApp con contexto para cierre humano."
+        },
+        {
+          "keywords": [
+            "whatsapp",
+            "mensaje",
+            "asesor",
+            "atencion",
+            "atención"
+          ],
+          "answer": "Funciona como primer filtro 24/7: responde dudas repetidas, pide datos clave y entrega a WhatsApp una conversacion con resumen, no un lead frio sin contexto."
+        },
+        {
+          "keywords": [
+            "web",
+            "pagina",
+            "página",
+            "carrito",
+            "reserva",
+            "agenda"
+          ],
+          "answer": "La idea es mejorar la ruta actual: CTA por intencion, preguntas frecuentes, eventos de clic, recuperacion de abandono y seguimiento segun lo que la persona vio o pregunto."
+        },
+        {
+          "keywords": [
+            "pauta",
+            "instagram",
+            "meta",
+            "campaña",
+            "campana",
+            "datos"
+          ],
+          "answer": "La pauta deja de medir solo clics. Se mide ocasion y arreglo consultado, pregunta frecuente, boton tocado, abandono y conversacion iniciada para saber que anuncio trae oportunidades reales."
+        }
+      ],
+      "slug": "fiori-market-bogota",
+      "company": "Fiori Market",
+      "instagram": "@fiorimarket.co",
+      "sector": "floristeria de autor y flores eternas",
+      "city": "Bogota, Colombia",
+      "tone": "emocional, elegante y oportuno",
+      "accent": "#F05A8A",
+      "secondary": "#77C86E",
+      "accentRgb": "240, 90, 138",
+      "secondaryRgb": "119, 200, 110",
+      "brandDark": "#180C12",
+      "paper": "#FFF3F7",
+      "paperCard": "#FFFFFF",
+      "status": "Web activa y entregas el mismo dia en Bogota; la oportunidad es convertir urgencia y ocasion en pedido guiado",
+      "leadProblem": "Fiori Market vende detalles florales con compra online, WhatsApp, entregas el mismo dia en Bogota y flores eternas. El cliente suele llegar con urgencia emocional: aniversario, disculpa, cumpleanos, regalo corporativo o sorpresa. Si no encuentra rapido el arreglo correcto, fecha, zona, dedicatoria y pago, compra en otra floristeria.",
+      "opportunity": "Un asesor de regalos puede preguntar ocasion, presupuesto, zona, hora, mensaje y estilo; recomendar arreglo y llevar al carrito o WhatsApp con todo listo.",
+      "proofLine": "Lectura publica del 20 de junio de 2026: Instagram @fiorimarket.co menciona FIORI, compra online, entregas el mismo dia en Bogota y web fiorimarket.com; el dominio responde HTTP 200. Snippets publicos muestran WhatsApp +57 3202206771.",
+      "audience": "Personas y empresas en Bogota que necesitan flores, regalos, flores eternas y entregas oportunas para ocasiones especiales.",
+      "adAngle": "Ocasion urgente + arreglo recomendado + compra/WhatsApp sin friccion",
+      "heroCopy": "Fiori ya tiene deseo visual y compra online. El salto esta en que cada ocasion encuentre el arreglo correcto antes de que el cliente compare.",
+      "bannerHook": "Cuando el regalo es urgente, cada duda mata el pedido",
+      "bannerSubhook": "Ocasion, presupuesto, zona y hora deben resolverse en minutos.",
+      "botTitle": "Asesor Fiori demo: regalos listos para cerrar",
+      "botOpening": "Hola, soy el asesor demo de Fiori. Puedo ayudarte por ocasion, presupuesto, zona de entrega, horario, dedicatoria, flores eternas o pedido corporativo.",
+      "botPrompts": [
+        "Necesito regalo hoy",
+        "Tengo presupuesto fijo",
+        "¿Sirve para empresas?",
+        "¿Como recupera carrito?",
+        "¿Que mide la pauta?"
+      ],
+      "findings": [
+        "Fiori comunica floristeria de autor, flores eternas, compra online y entregas en Bogota.",
+        "La compra depende de urgencia, ocasion, presupuesto, zona y disponibilidad.",
+        "Un asesor puede convertir inspiracion visual en pedido armado para carrito o WhatsApp."
+      ],
+      "siteIssues": [
+        "El cliente puede no saber que arreglo elegir para una ocasion concreta.",
+        "Pedido por WhatsApp sin datos completos obliga a preguntar zona, hora, mensaje y presupuesto.",
+        "Sin remarketing por ocasion, se pierde demanda recurrente de fechas especiales."
+      ],
+      "losses": [
+        "Compras urgentes se van con quien responde primero.",
+        "Regalos corporativos requieren cotizacion y seguimiento ordenado.",
+        "Visitantes que miran arreglos no siempre reciben recuperacion antes de la fecha."
+      ],
+      "heatmapData": [
+        "Interes por ocasion: cumpleanos, amor, condolencias, corporativo, flores eternas.",
+        "Friccion en zona, horario, carrito, dedicatoria y WhatsApp.",
+        "Data para temporadas: producto visto, fecha, presupuesto y conversion."
+      ],
+      "campaigns": [
+        "Campanas por ocasion con asesor de regalo inmediato.",
+        "Remarketing a visitantes de flores eternas y arreglos premium.",
+        "Campana B2B para regalos corporativos con captura de cantidad, fecha y presupuesto."
+      ],
+      "deliverables": [
+        "Asesor de regalos entrenado en ocasiones, zonas, horarios, dedicatorias y presupuesto.",
+        "Mejoras de conversion en web: recomendador por ocasion y WhatsApp con pedido prellenado.",
+        "Panel de pedidos potenciales por ocasion, fecha, fuente, presupuesto y abandono."
+      ]
+    },
+    {
+      "theme": "maker",
+      "brandMode": "standard",
+      "alertLabel": "Oportunidad Solvers",
+      "statusLabel": "Diagnostico comercial",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Web activa con categorias, productos, variantes, horarios y WhatsApp; la oportunidad es guiar pedidos por ocasion y fecha",
+      "visualCueLabel": "Dolor",
+      "visualCue": "La torta gusta, pero el pedido se frena en detalles",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asesor digital + medicion + seguimiento para convertir intencion en venta",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "Chocolatto Reposteria Fina",
+      "loaderSubtitle": "Leyendo senales publicas, web, Instagram, WhatsApp y puntos de fuga antes del diagnostico.",
+      "loaderCue1": "Web actual",
+      "loaderCue2": "Asesor 24/7",
+      "heroStampTitle": "Chocolatto Reposteria Fina",
+      "heroStampSubtitle": "reposteria fina y tortas",
+      "bannerKicker": "Hook comercial",
+      "bannerBadge1": "Web activa",
+      "bannerBadge2": "WhatsApp + seguimiento",
+      "openNode1Label": "Interes",
+      "openNode1Title": "Producto servicio duda",
+      "openNode2Label": "Friccion",
+      "openNode2Title": "Precio agenda talla fecha",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "Asesor + data + seguimiento",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Mejorar la web actual para convertir mas visitas en conversaciones utiles",
+      "scrollTitle": "Ruta de conversion recomendada",
+      "diagnosisTitle": "Donde se esta perdiendo la venta",
+      "whatsappCta": "Quiero ver como aplicaria en mi negocio",
+      "scrollIntro": "El estudio ordena la ruta desde la primera senal publica hasta el siguiente paso comercial: clic, pregunta, carrito, agenda, reserva o WhatsApp con contexto.",
+      "experienceIntro": "La oportunidad no es responder mas mensajes manualmente. Es convertir cada pregunta repetida en una ruta medible que ayude a cerrar y a mejorar pauta.",
+      "botAgentName": "Asesor Chocolatto Reposteria Fina demo",
+      "botAgentRole": "reposteria fina y tortas",
+      "botIntro": "Este demo muestra una primera capa conversacional especifica para el negocio: responde dudas frecuentes, captura intencion y deja el seguimiento listo.",
+      "botDemoTitle": "Conversacion con contexto",
+      "botDemoBody": "El asesor pregunta lo minimo necesario y evita que WhatsApp reciba mensajes frios sin producto, fecha, talla, tratamiento o presupuesto.",
+      "botTrainingTitle": "Entrenado con senales reales",
+      "botTrainingBody": "Se alimenta con web, catalogo, preguntas frecuentes, politicas, agenda, horarios, disponibilidad y tono de marca verificados por el negocio.",
+      "diagnosisTiles": [
+        {
+          "label": "Prioridad",
+          "title": "Estudio 6/10",
+          "body": "Ordenado por potencial comercial, claridad de oferta y oportunidad de conversion."
+        },
+        {
+          "label": "Canal",
+          "title": "Web + WhatsApp",
+          "body": "El foco cambia segun si existe web propia confiable o no."
+        },
+        {
+          "label": "Dolor",
+          "title": "Interes que se enfria",
+          "body": "Dudas repetidas aparecen antes de pagar, reservar, agendar o escribir."
+        },
+        {
+          "label": "Solucion",
+          "title": "Asesor + data",
+          "body": "Captura contexto, responde y deja seguimiento medible."
+        }
+      ],
+      "experiencePath": [
+        "Busqueda: la persona llega desde Instagram, Google, pauta o recomendacion a Chocolatto Reposteria Fina",
+        "Friccion: aparecen dudas de precio, disponibilidad, talla, fecha, agenda, envio, reserva o politica",
+        "Solucion: el asesor digital pregunta lo minimo y entrega una ruta clara",
+        "Cierre: WhatsApp, carrito, agenda o reserva recibe intencion con contexto y seguimiento"
+      ],
+      "journey": [
+        {
+          "title": "Etapa 1: visita con intencion",
+          "body": "La persona ya trae una necesidad; el sistema debe entenderla antes de pedirle que escriba."
+        },
+        {
+          "title": "Etapa 2: filtro comercial",
+          "body": "El asesor recoge datos clave y responde objeciones frecuentes sin inventar informacion no validada."
+        },
+        {
+          "title": "Etapa 3: accion clara",
+          "body": "La ruta termina en carrito, agenda, reserva o WhatsApp con resumen util para cierre humano."
+        },
+        {
+          "title": "Etapa 4: seguimiento",
+          "body": "Cada clic y pregunta alimenta remarketing, priorizacion de leads y mejora de pauta."
+        }
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "precio",
+            "valor",
+            "costo",
+            "cuanto",
+            "cuánto"
+          ],
+          "answer": "Para Chocolatto Reposteria Fina, el asesor no debe soltar un precio suelto: primero identifica ocasion, producto, urgencia, ciudad y objecion. Despues entrega rango, ruta o paso a WhatsApp con contexto para cierre humano."
+        },
+        {
+          "keywords": [
+            "whatsapp",
+            "mensaje",
+            "asesor",
+            "atencion",
+            "atención"
+          ],
+          "answer": "Funciona como primer filtro 24/7: responde dudas repetidas, pide datos clave y entrega a WhatsApp una conversacion con resumen, no un lead frio sin contexto."
+        },
+        {
+          "keywords": [
+            "web",
+            "pagina",
+            "página",
+            "carrito",
+            "reserva",
+            "agenda"
+          ],
+          "answer": "La idea es mejorar la ruta actual: CTA por intencion, preguntas frecuentes, eventos de clic, recuperacion de abandono y seguimiento segun lo que la persona vio o pregunto."
+        },
+        {
+          "keywords": [
+            "pauta",
+            "instagram",
+            "meta",
+            "campaña",
+            "campana",
+            "datos"
+          ],
+          "answer": "La pauta deja de medir solo clics. Se mide producto y fecha consultada, pregunta frecuente, boton tocado, abandono y conversacion iniciada para saber que anuncio trae oportunidades reales."
+        }
+      ],
+      "slug": "chocolatto-reposteria-fina",
+      "company": "Chocolatto Reposteria Fina",
+      "instagram": "@chocolatto_reposteria_fina",
+      "sector": "reposteria fina y tortas",
+      "city": "Medellin, Colombia",
+      "tone": "dulce, confiable y de antojo premium",
+      "accent": "#8B4A2F",
+      "secondary": "#F3C46B",
+      "accentRgb": "139, 74, 47",
+      "secondaryRgb": "243, 196, 107",
+      "brandDark": "#1B0F0A",
+      "paper": "#FFF7ED",
+      "paperCard": "#FFFFFF",
+      "status": "Web activa con categorias, productos, variantes, horarios y WhatsApp; la oportunidad es guiar pedidos por ocasion y fecha",
+      "leadProblem": "Chocolatto ya tiene ecommerce con tortas, regalos, postres, panaderia, variantes de producto, direccion, horarios y WhatsApp. La fuga aparece cuando el cliente no sabe que tamano elegir, si llega a tiempo, que sabor conviene, si hay domicilio o como programar una fecha especial.",
+      "opportunity": "Un asesor de pedidos puede preguntar ocasion, fecha, numero de personas, preferencia de sabor, zona y presupuesto para recomendar producto y llevar a carrito o WhatsApp con contexto.",
+      "proofLine": "Lectura publica del 20 de junio de 2026: chocolatto.co responde HTTP 200 y muestra categorias Tortas, Regalos, Postres, Otras Delicias/Panaderia, productos con variantes, direccion Cra 81A #50-36 Medellin, contacto 3146196008 y horarios de punto/WhatsApp. Instagram publico muestra @chocolatto_reposteria_fina.",
+      "audience": "Personas en Medellin que compran tortas, postres y regalos para cumpleanos, antojos, celebraciones y detalles.",
+      "adAngle": "Antojo o celebracion + producto correcto + pedido programado",
+      "heroCopy": "Chocolatto ya vende online. El reto es que cada antojo o celebracion encuentre producto, tamano y fecha sin una conversacion larga.",
+      "bannerHook": "La torta gusta, pero el pedido se frena en detalles",
+      "bannerSubhook": "Sabor, tamano, fecha, domicilio y ocasion deben quedar claros antes del carrito o WhatsApp.",
+      "botTitle": "Asesor Chocolatto demo: pedidos por ocasion",
+      "botOpening": "Hola, soy el asesor demo de Chocolatto. Puedo ayudarte a elegir torta, postre, regalo, tamano, fecha, domicilio, horario o pedido por WhatsApp.",
+      "botPrompts": [
+        "Necesito torta para cumple",
+        "¿Que tamano elijo?",
+        "¿Hay domicilio domingo?",
+        "¿Como recupera carritos?",
+        "¿Que mide la pauta?"
+      ],
+      "findings": [
+        "Chocolatto tiene ecommerce, categorias y horarios visibles.",
+        "Los productos con variantes necesitan guia para reducir dudas antes de compra.",
+        "La pauta puede optimizar por ocasion y producto, no solo por antojo visual."
+      ],
+      "siteIssues": [
+        "Variantes de torta y fecha pueden generar abandono si no hay recomendacion rapida.",
+        "Horarios y domicilio deben aparecer como respuesta contextual antes de pagar.",
+        "WhatsApp debe recibir producto, ocasion, fecha y zona para cerrar sin repetir preguntas."
+      ],
+      "losses": [
+        "Pedidos de celebracion se pierden si la respuesta llega tarde.",
+        "El equipo responde muchas dudas repetidas de tamano, fecha, entrega y sabor.",
+        "Visitantes de productos estrella no siempre reciben recordatorio antes de la ocasion."
+      ],
+      "heatmapData": [
+        "Producto consultado por ocasion, sabor y tamano.",
+        "Friccion en variantes, carrito, domicilio, horario y WhatsApp.",
+        "Temporadas y fechas que generan mas intencion de compra."
+      ],
+      "campaigns": [
+        "Campana de cumpleanos y celebraciones con asesor de tamano.",
+        "Remarketing a visitantes de tortas y regalos que no compraron.",
+        "Campana de antojo local por productos estrella y disponibilidad."
+      ],
+      "deliverables": [
+        "Asesor de pedidos entrenado con categorias, variantes, horarios, domicilio y WhatsApp.",
+        "Eventos para producto, variante, carrito, fecha, WhatsApp y abandono.",
+        "Panel de oportunidades por ocasion, producto, fecha, zona y seguimiento."
+      ]
+    },
+    {
+      "theme": "maker",
+      "brandMode": "standard",
+      "alertLabel": "Oportunidad Solvers",
+      "statusLabel": "Diagnostico comercial",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Web activa y WhatsApp visible; oportunidad de ordenar pedidos creativos por ocasion, sede y domicilio",
+      "visualCueLabel": "Dolor",
+      "visualCue": "La persona quiere torta, pero no sabe cual pedir",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asesor digital + medicion + seguimiento para convertir intencion en venta",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "Keiks Reposteria",
+      "loaderSubtitle": "Leyendo senales publicas, web, Instagram, WhatsApp y puntos de fuga antes del diagnostico.",
+      "loaderCue1": "Web actual",
+      "loaderCue2": "Asesor 24/7",
+      "heroStampTitle": "Keiks Reposteria",
+      "heroStampSubtitle": "reposteria creativa y tortas a domicilio",
+      "bannerKicker": "Hook comercial",
+      "bannerBadge1": "Web activa",
+      "bannerBadge2": "WhatsApp + seguimiento",
+      "openNode1Label": "Interes",
+      "openNode1Title": "Producto servicio duda",
+      "openNode2Label": "Friccion",
+      "openNode2Title": "Precio agenda talla fecha",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "Asesor + data + seguimiento",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Mejorar la web actual para convertir mas visitas en conversaciones utiles",
+      "scrollTitle": "Ruta de conversion recomendada",
+      "diagnosisTitle": "Donde se esta perdiendo la venta",
+      "whatsappCta": "Quiero ver como aplicaria en mi negocio",
+      "scrollIntro": "El estudio ordena la ruta desde la primera senal publica hasta el siguiente paso comercial: clic, pregunta, carrito, agenda, reserva o WhatsApp con contexto.",
+      "experienceIntro": "La oportunidad no es responder mas mensajes manualmente. Es convertir cada pregunta repetida en una ruta medible que ayude a cerrar y a mejorar pauta.",
+      "botAgentName": "Asesor Keiks Reposteria demo",
+      "botAgentRole": "reposteria creativa y tortas a domicilio",
+      "botIntro": "Este demo muestra una primera capa conversacional especifica para el negocio: responde dudas frecuentes, captura intencion y deja el seguimiento listo.",
+      "botDemoTitle": "Conversacion con contexto",
+      "botDemoBody": "El asesor pregunta lo minimo necesario y evita que WhatsApp reciba mensajes frios sin producto, fecha, talla, tratamiento o presupuesto.",
+      "botTrainingTitle": "Entrenado con senales reales",
+      "botTrainingBody": "Se alimenta con web, catalogo, preguntas frecuentes, politicas, agenda, horarios, disponibilidad y tono de marca verificados por el negocio.",
+      "diagnosisTiles": [
+        {
+          "label": "Prioridad",
+          "title": "Estudio 7/10",
+          "body": "Ordenado por potencial comercial, claridad de oferta y oportunidad de conversion."
+        },
+        {
+          "label": "Canal",
+          "title": "Web + WhatsApp",
+          "body": "El foco cambia segun si existe web propia confiable o no."
+        },
+        {
+          "label": "Dolor",
+          "title": "Interes que se enfria",
+          "body": "Dudas repetidas aparecen antes de pagar, reservar, agendar o escribir."
+        },
+        {
+          "label": "Solucion",
+          "title": "Asesor + data",
+          "body": "Captura contexto, responde y deja seguimiento medible."
+        }
+      ],
+      "experiencePath": [
+        "Busqueda: la persona llega desde Instagram, Google, pauta o recomendacion a Keiks Reposteria",
+        "Friccion: aparecen dudas de precio, disponibilidad, talla, fecha, agenda, envio, reserva o politica",
+        "Solucion: el asesor digital pregunta lo minimo y entrega una ruta clara",
+        "Cierre: WhatsApp, carrito, agenda o reserva recibe intencion con contexto y seguimiento"
+      ],
+      "journey": [
+        {
+          "title": "Etapa 1: visita con intencion",
+          "body": "La persona ya trae una necesidad; el sistema debe entenderla antes de pedirle que escriba."
+        },
+        {
+          "title": "Etapa 2: filtro comercial",
+          "body": "El asesor recoge datos clave y responde objeciones frecuentes sin inventar informacion no validada."
+        },
+        {
+          "title": "Etapa 3: accion clara",
+          "body": "La ruta termina en carrito, agenda, reserva o WhatsApp con resumen util para cierre humano."
+        },
+        {
+          "title": "Etapa 4: seguimiento",
+          "body": "Cada clic y pregunta alimenta remarketing, priorizacion de leads y mejora de pauta."
+        }
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "precio",
+            "valor",
+            "costo",
+            "cuanto",
+            "cuánto"
+          ],
+          "answer": "Para Keiks Reposteria, el asesor no debe soltar un precio suelto: primero identifica ocasion, fecha, urgencia, ciudad y objecion. Despues entrega rango, ruta o paso a WhatsApp con contexto para cierre humano."
+        },
+        {
+          "keywords": [
+            "whatsapp",
+            "mensaje",
+            "asesor",
+            "atencion",
+            "atención"
+          ],
+          "answer": "Funciona como primer filtro 24/7: responde dudas repetidas, pide datos clave y entrega a WhatsApp una conversacion con resumen, no un lead frio sin contexto."
+        },
+        {
+          "keywords": [
+            "web",
+            "pagina",
+            "página",
+            "carrito",
+            "reserva",
+            "agenda"
+          ],
+          "answer": "La idea es mejorar la ruta actual: CTA por intencion, preguntas frecuentes, eventos de clic, recuperacion de abandono y seguimiento segun lo que la persona vio o pregunto."
+        },
+        {
+          "keywords": [
+            "pauta",
+            "instagram",
+            "meta",
+            "campaña",
+            "campana",
+            "datos"
+          ],
+          "answer": "La pauta deja de medir solo clics. Se mide torta, sabor y fecha consultada, pregunta frecuente, boton tocado, abandono y conversacion iniciada para saber que anuncio trae oportunidades reales."
+        }
+      ],
+      "slug": "keiks-reposteria-medellin",
+      "company": "Keiks Reposteria",
+      "instagram": "@keiks_reposteria",
+      "sector": "reposteria creativa y tortas a domicilio",
+      "city": "Medellin, Colombia",
+      "tone": "divertido, rapido y antojador",
+      "accent": "#FF6B35",
+      "secondary": "#FFE066",
+      "accentRgb": "255, 107, 53",
+      "secondaryRgb": "255, 224, 102",
+      "brandDark": "#1E120B",
+      "paper": "#FFF4E8",
+      "paperCard": "#FFFFFF",
+      "status": "Web activa y WhatsApp visible; oportunidad de ordenar pedidos creativos por ocasion, sede y domicilio",
+      "leadProblem": "Keiks tiene tortas creativas, domicilios, puntos de venta, web y WhatsApp. Cuando una persona necesita una torta para hoy o una celebracion, puede frenarse por sabor, tamano, personalizacion, tiempo de preparacion, sede, domicilio o forma de pago.",
+      "opportunity": "Un asesor de tortas puede convertir la inspiracion de Instagram en pedido concreto: ocasion, personas, sabor, mensaje, fecha, zona y presupuesto.",
+      "proofLine": "Lectura publica del 20 de junio de 2026: keiksreposteria.co responde HTTP 200 y se presenta como reposteria en Medellin con tortas creativas a domicilio; snippets publicos de Instagram muestran WhatsApp 3012280877, pagina web y puntos de venta.",
+      "audience": "Personas en Medellin y Bello que compran tortas para cumpleanos, celebraciones, antojos y regalos personalizados.",
+      "adAngle": "Torta creativa + pedido guiado + domicilio o recogida",
+      "heroCopy": "Keiks ya provoca compra. El asesor digital convierte “quiero una torta” en pedido con fecha, sabor, tamano y entrega.",
+      "bannerHook": "La persona quiere torta, pero no sabe cual pedir",
+      "bannerSubhook": "Sabor, tamano, mensaje, fecha y domicilio deciden la venta.",
+      "botTitle": "Asesor Keiks demo: tortas listas para pedir",
+      "botOpening": "Hola, soy el asesor demo de Keiks. Puedo ayudarte con torta creativa, sabor, tamano, mensaje, fecha, domicilio, sede o pedido por WhatsApp.",
+      "botPrompts": [
+        "Necesito torta para hoy",
+        "Quiero personalizar",
+        "¿Que tamano compro?",
+        "¿Domicilio o sede?",
+        "¿Como mide pauta?"
+      ],
+      "findings": [
+        "Keiks tiene web, WhatsApp y puntos de venta visibles en snippets publicos.",
+        "La compra se define por ocasion, tiempo, personalizacion y entrega.",
+        "La oportunidad es usar Instagram para llevar a pedidos medibles, no solo antojos."
+      ],
+      "siteIssues": [
+        "Los pedidos personalizados requieren datos que no siempre llegan completos por WhatsApp.",
+        "La urgencia de fecha puede perderse si no se filtra disponibilidad rapido.",
+        "Sin eventos por producto/ocasion, la pauta no aprende que tortas venden mejor."
+      ],
+      "losses": [
+        "Clientes urgentes compran donde les confirman mas rapido.",
+        "Preguntas repetidas ocupan al equipo: tamano, sabor, disponibilidad, domicilio.",
+        "Interes de reels se enfria si no hay ruta directa a pedido."
+      ],
+      "heatmapData": [
+        "Tortas y sabores mas consultados por ocasion.",
+        "Friccion en personalizacion, fecha, sede, domicilio y WhatsApp.",
+        "Data de demanda para pauta por cumpleanos, antojo y celebracion."
+      ],
+      "campaigns": [
+        "Campana de cumpleanos con recomendador de tamano.",
+        "Campana de antojo por productos virales y domicilio local.",
+        "Remarketing a visitantes de tortas que no terminaron pedido."
+      ],
+      "deliverables": [
+        "Asesor de pedidos entrenado en sabores, tamanos, personalizacion, sedes, tiempos y domicilio.",
+        "Landing/ruta de conversion para pedidos desde Instagram con WhatsApp contextual.",
+        "Panel de productos, ocasiones, fechas, zonas y conversaciones pendientes."
+      ]
+    },
+    {
+      "theme": "maker",
+      "brandMode": "standard",
+      "alertLabel": "Oportunidad Solvers",
+      "statusLabel": "Diagnostico comercial",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Instagram + sitio web visible; oportunidad de convertir catalogo de flores en pedidos por ocasion y zona",
+      "visualCueLabel": "Dolor",
+      "visualCue": "El regalo emociona, pero el pedido se pierde en preguntas",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asesor digital + medicion + seguimiento para convertir intencion en venta",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "Floristeria Tuti",
+      "loaderSubtitle": "Leyendo senales publicas, web, Instagram, WhatsApp y puntos de fuga antes del diagnostico.",
+      "loaderCue1": "Web actual",
+      "loaderCue2": "Asesor 24/7",
+      "heroStampTitle": "Floristeria Tuti",
+      "heroStampSubtitle": "floristeria y boutique de regalos",
+      "bannerKicker": "Hook comercial",
+      "bannerBadge1": "Web activa",
+      "bannerBadge2": "WhatsApp + seguimiento",
+      "openNode1Label": "Interes",
+      "openNode1Title": "Producto servicio duda",
+      "openNode2Label": "Friccion",
+      "openNode2Title": "Precio agenda talla fecha",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "Asesor + data + seguimiento",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Mejorar la web actual para convertir mas visitas en conversaciones utiles",
+      "scrollTitle": "Ruta de conversion recomendada",
+      "diagnosisTitle": "Donde se esta perdiendo la venta",
+      "whatsappCta": "Quiero ver como aplicaria en mi negocio",
+      "scrollIntro": "El estudio ordena la ruta desde la primera senal publica hasta el siguiente paso comercial: clic, pregunta, carrito, agenda, reserva o WhatsApp con contexto.",
+      "experienceIntro": "La oportunidad no es responder mas mensajes manualmente. Es convertir cada pregunta repetida en una ruta medible que ayude a cerrar y a mejorar pauta.",
+      "botAgentName": "Asesor Floristeria Tuti demo",
+      "botAgentRole": "floristeria y boutique de regalos",
+      "botIntro": "Este demo muestra una primera capa conversacional especifica para el negocio: responde dudas frecuentes, captura intencion y deja el seguimiento listo.",
+      "botDemoTitle": "Conversacion con contexto",
+      "botDemoBody": "El asesor pregunta lo minimo necesario y evita que WhatsApp reciba mensajes frios sin producto, fecha, talla, tratamiento o presupuesto.",
+      "botTrainingTitle": "Entrenado con senales reales",
+      "botTrainingBody": "Se alimenta con web, catalogo, preguntas frecuentes, politicas, agenda, horarios, disponibilidad y tono de marca verificados por el negocio.",
+      "diagnosisTiles": [
+        {
+          "label": "Prioridad",
+          "title": "Estudio 8/10",
+          "body": "Ordenado por potencial comercial, claridad de oferta y oportunidad de conversion."
+        },
+        {
+          "label": "Canal",
+          "title": "Web + WhatsApp",
+          "body": "El foco cambia segun si existe web propia confiable o no."
+        },
+        {
+          "label": "Dolor",
+          "title": "Interes que se enfria",
+          "body": "Dudas repetidas aparecen antes de pagar, reservar, agendar o escribir."
+        },
+        {
+          "label": "Solucion",
+          "title": "Asesor + data",
+          "body": "Captura contexto, responde y deja seguimiento medible."
+        }
+      ],
+      "experiencePath": [
+        "Busqueda: la persona llega desde Instagram, Google, pauta o recomendacion a Floristeria Tuti",
+        "Friccion: aparecen dudas de precio, disponibilidad, talla, fecha, agenda, envio, reserva o politica",
+        "Solucion: el asesor digital pregunta lo minimo y entrega una ruta clara",
+        "Cierre: WhatsApp, carrito, agenda o reserva recibe intencion con contexto y seguimiento"
+      ],
+      "journey": [
+        {
+          "title": "Etapa 1: visita con intencion",
+          "body": "La persona ya trae una necesidad; el sistema debe entenderla antes de pedirle que escriba."
+        },
+        {
+          "title": "Etapa 2: filtro comercial",
+          "body": "El asesor recoge datos clave y responde objeciones frecuentes sin inventar informacion no validada."
+        },
+        {
+          "title": "Etapa 3: accion clara",
+          "body": "La ruta termina en carrito, agenda, reserva o WhatsApp con resumen util para cierre humano."
+        },
+        {
+          "title": "Etapa 4: seguimiento",
+          "body": "Cada clic y pregunta alimenta remarketing, priorizacion de leads y mejora de pauta."
+        }
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "precio",
+            "valor",
+            "costo",
+            "cuanto",
+            "cuánto"
+          ],
+          "answer": "Para Floristeria Tuti, el asesor no debe soltar un precio suelto: primero identifica ocasion, zona, urgencia, ciudad y objecion. Despues entrega rango, ruta o paso a WhatsApp con contexto para cierre humano."
+        },
+        {
+          "keywords": [
+            "whatsapp",
+            "mensaje",
+            "asesor",
+            "atencion",
+            "atención"
+          ],
+          "answer": "Funciona como primer filtro 24/7: responde dudas repetidas, pide datos clave y entrega a WhatsApp una conversacion con resumen, no un lead frio sin contexto."
+        },
+        {
+          "keywords": [
+            "web",
+            "pagina",
+            "página",
+            "carrito",
+            "reserva",
+            "agenda"
+          ],
+          "answer": "La idea es mejorar la ruta actual: CTA por intencion, preguntas frecuentes, eventos de clic, recuperacion de abandono y seguimiento segun lo que la persona vio o pregunto."
+        },
+        {
+          "keywords": [
+            "pauta",
+            "instagram",
+            "meta",
+            "campaña",
+            "campana",
+            "datos"
+          ],
+          "answer": "La pauta deja de medir solo clics. Se mide arreglo y fecha consultada, pregunta frecuente, boton tocado, abandono y conversacion iniciada para saber que anuncio trae oportunidades reales."
+        }
+      ],
+      "slug": "tuti-floristeria-bogota",
+      "company": "Floristeria Tuti",
+      "instagram": "@floristeriatuti",
+      "sector": "floristeria y boutique de regalos",
+      "city": "Bogota, Colombia",
+      "tone": "emocional, cercano y detallista",
+      "accent": "#E8446B",
+      "secondary": "#6BBF59",
+      "accentRgb": "232, 68, 107",
+      "secondaryRgb": "107, 191, 89",
+      "brandDark": "#170B0F",
+      "paper": "#FFF1F4",
+      "paperCard": "#FFFFFF",
+      "status": "Instagram + sitio web visible; oportunidad de convertir catalogo de flores en pedidos por ocasion y zona",
+      "leadProblem": "Tuti comunica arreglos florales personalizados, tienda web y WhatsApp en Bogota. En flores, el cliente suele comprar con prisa o emocion: necesita elegir estilo, presupuesto, direccion, dedicatoria y fecha sin demorarse.",
+      "opportunity": "Un asesor de regalos filtra ocasion, presupuesto, zona, fecha y mensaje; recomienda arreglo y pasa a WhatsApp o carrito con pedido armado.",
+      "proofLine": "Lectura publica del 20 de junio de 2026: Instagram @floristeriatuti aparece como floristeria en Bogota con WhatsApp 3108017983 y sitio web; snippets recientes mencionan tuti-boutique.com, flores eternas y pedidos por WhatsApp.",
+      "audience": "Personas en Bogota que compran arreglos florales, detalles, flores eternas y regalos personalizados.",
+      "adAngle": "Detalle emocional + recomendacion rapida + pedido por WhatsApp",
+      "heroCopy": "Tuti vende emociones. La oportunidad es que el cliente elija mas rapido el detalle correcto y no se quede comparando floristerias.",
+      "bannerHook": "El regalo emociona, pero el pedido se pierde en preguntas",
+      "bannerSubhook": "Ocasion, presupuesto, direccion, fecha y dedicatoria deben quedar resueltos desde el primer contacto.",
+      "botTitle": "Asesor Tuti demo: flores por ocasion",
+      "botOpening": "Hola, soy el asesor demo de Tuti. Puedo ayudarte a elegir arreglo por ocasion, presupuesto, zona, fecha, dedicatoria, flores eternas o pedido personalizado.",
+      "botPrompts": [
+        "Quiero enviar hoy",
+        "Tengo presupuesto fijo",
+        "¿Flores eternas?",
+        "¿Como pasa a WhatsApp?",
+        "¿Que datos mide?"
+      ],
+      "findings": [
+        "Tuti tiene presencia en Instagram, web y WhatsApp visibles publicamente.",
+        "La decision depende de ocasion, presupuesto, zona y fecha.",
+        "Una landing/asesor puede ordenar pedidos y preparar mejor cada conversacion."
+      ],
+      "siteIssues": [
+        "Si el catalogo no recomienda por ocasion, el cliente compara o pregunta de mas.",
+        "WhatsApp necesita llegar con zona, fecha, presupuesto y dedicatoria.",
+        "Fechas especiales requieren seguimiento y remarketing antes de la compra."
+      ],
+      "losses": [
+        "Pedidos urgentes se van con la floristeria que confirme primero.",
+        "Personalizaciones consumen tiempo si llegan sin brief.",
+        "Visitantes web/Instagram no siempre reciben recuperacion por fecha u ocasion."
+      ],
+      "heatmapData": [
+        "Arreglos consultados por ocasion y presupuesto.",
+        "Friccion en zona, fecha, dedicatoria, carrito y WhatsApp.",
+        "Demanda por temporadas y oportunidades B2B."
+      ],
+      "campaigns": [
+        "Campanas por ocasion: cumpleanos, amor, agradecimiento, condolencias y corporativo.",
+        "Remarketing a visitantes de arreglos que no escribieron.",
+        "Campana de pedidos de ultimo minuto con WhatsApp contextual."
+      ],
+      "deliverables": [
+        "Asesor de floristeria entrenado con ocasiones, presupuesto, zonas, fechas y dedicatorias.",
+        "Landing/catálogo con recomendador por ocasion y CTA de WhatsApp ordenado.",
+        "Panel de pedidos potenciales por fecha, ocasion, fuente y seguimiento."
+      ]
+    },
+    {
+      "theme": "maker",
+      "brandMode": "standard",
+      "alertLabel": "Oportunidad Solvers",
+      "statusLabel": "Diagnostico comercial",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Tienda virtual visible en redes, sin web propia confiable encontrada; oportunidad de landing clara + asesor de pedidos",
+      "visualCueLabel": "Dolor",
+      "visualCue": "El antojo aparece, pero la compra depende de demasiadas preguntas",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asesor digital + medicion + seguimiento para convertir intencion en venta",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "Casa Cheesecake",
+      "loaderSubtitle": "Leyendo senales publicas, web, Instagram, WhatsApp y puntos de fuga antes del diagnostico.",
+      "loaderCue1": "Landing clara",
+      "loaderCue2": "Asesor 24/7",
+      "heroStampTitle": "Casa Cheesecake",
+      "heroStampSubtitle": "reposteria virtual especializada en cheesecake",
+      "bannerKicker": "Hook comercial",
+      "bannerBadge1": "Sin web confiable",
+      "bannerBadge2": "WhatsApp + seguimiento",
+      "openNode1Label": "Interes",
+      "openNode1Title": "Producto servicio duda",
+      "openNode2Label": "Friccion",
+      "openNode2Title": "Precio agenda talla fecha",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "Asesor + data + seguimiento",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Crear una landing clara para que Instagram venda con menos friccion",
+      "scrollTitle": "Ruta de conversion recomendada",
+      "diagnosisTitle": "Donde se esta perdiendo la venta",
+      "whatsappCta": "Quiero ver como aplicaria en mi negocio",
+      "scrollIntro": "El estudio ordena la ruta desde la primera senal publica hasta el siguiente paso comercial: clic, pregunta, carrito, agenda, reserva o WhatsApp con contexto.",
+      "experienceIntro": "La oportunidad no es responder mas mensajes manualmente. Es convertir cada pregunta repetida en una ruta medible que ayude a cerrar y a mejorar pauta.",
+      "botAgentName": "Asesor Casa Cheesecake demo",
+      "botAgentRole": "reposteria virtual especializada en cheesecake",
+      "botIntro": "Este demo muestra una primera capa conversacional especifica para el negocio: responde dudas frecuentes, captura intencion y deja el seguimiento listo.",
+      "botDemoTitle": "Conversacion con contexto",
+      "botDemoBody": "El asesor pregunta lo minimo necesario y evita que WhatsApp reciba mensajes frios sin producto, fecha, talla, tratamiento o presupuesto.",
+      "botTrainingTitle": "Entrenado con senales reales",
+      "botTrainingBody": "Se alimenta con web, catalogo, preguntas frecuentes, politicas, agenda, horarios, disponibilidad y tono de marca verificados por el negocio.",
+      "diagnosisTiles": [
+        {
+          "label": "Prioridad",
+          "title": "Estudio 9/10",
+          "body": "Ordenado por potencial comercial, claridad de oferta y oportunidad de conversion."
+        },
+        {
+          "label": "Canal",
+          "title": "Landing + WhatsApp",
+          "body": "El foco cambia segun si existe web propia confiable o no."
+        },
+        {
+          "label": "Dolor",
+          "title": "Interes que se enfria",
+          "body": "Dudas repetidas aparecen antes de pagar, reservar, agendar o escribir."
+        },
+        {
+          "label": "Solucion",
+          "title": "Asesor + data",
+          "body": "Captura contexto, responde y deja seguimiento medible."
+        }
+      ],
+      "experiencePath": [
+        "Busqueda: la persona llega desde Instagram, Google, pauta o recomendacion a Casa Cheesecake",
+        "Friccion: aparecen dudas de precio, disponibilidad, talla, fecha, agenda, envio, reserva o politica",
+        "Solucion: el asesor digital pregunta lo minimo y entrega una ruta clara",
+        "Cierre: WhatsApp, carrito, agenda o reserva recibe intencion con contexto y seguimiento"
+      ],
+      "journey": [
+        {
+          "title": "Etapa 1: visita con intencion",
+          "body": "La persona ya trae una necesidad; el sistema debe entenderla antes de pedirle que escriba."
+        },
+        {
+          "title": "Etapa 2: filtro comercial",
+          "body": "El asesor recoge datos clave y responde objeciones frecuentes sin inventar informacion no validada."
+        },
+        {
+          "title": "Etapa 3: accion clara",
+          "body": "La ruta termina en carrito, agenda, reserva o WhatsApp con resumen util para cierre humano."
+        },
+        {
+          "title": "Etapa 4: seguimiento",
+          "body": "Cada clic y pregunta alimenta remarketing, priorizacion de leads y mejora de pauta."
+        }
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "precio",
+            "valor",
+            "costo",
+            "cuanto",
+            "cuánto"
+          ],
+          "answer": "Para Casa Cheesecake, el asesor no debe soltar un precio suelto: primero identifica sabor, fecha, urgencia, ciudad y objecion. Despues entrega rango, ruta o paso a WhatsApp con contexto para cierre humano."
+        },
+        {
+          "keywords": [
+            "whatsapp",
+            "mensaje",
+            "asesor",
+            "atencion",
+            "atención"
+          ],
+          "answer": "Funciona como primer filtro 24/7: responde dudas repetidas, pide datos clave y entrega a WhatsApp una conversacion con resumen, no un lead frio sin contexto."
+        },
+        {
+          "keywords": [
+            "web",
+            "pagina",
+            "página",
+            "carrito",
+            "reserva",
+            "agenda"
+          ],
+          "answer": "La idea es mejorar la ruta actual: CTA por intencion, preguntas frecuentes, eventos de clic, recuperacion de abandono y seguimiento segun lo que la persona vio o pregunto."
+        },
+        {
+          "keywords": [
+            "pauta",
+            "instagram",
+            "meta",
+            "campaña",
+            "campana",
+            "datos"
+          ],
+          "answer": "La pauta deja de medir solo clics. Se mide sabor y formato consultado, pregunta frecuente, boton tocado, abandono y conversacion iniciada para saber que anuncio trae oportunidades reales."
+        }
+      ],
+      "slug": "casa-cheesecake-medellin",
+      "company": "Casa Cheesecake",
+      "instagram": "@casacheesecake_",
+      "sector": "reposteria virtual especializada en cheesecake",
+      "city": "Medellin, Colombia",
+      "tone": "antojado, simple y casero-premium",
+      "accent": "#C9853A",
+      "secondary": "#F8DDA4",
+      "accentRgb": "201, 133, 58",
+      "secondaryRgb": "248, 221, 164",
+      "brandDark": "#20130A",
+      "paper": "#FFF7EA",
+      "paperCard": "#FFFFFF",
+      "status": "Tienda virtual visible en redes, sin web propia confiable encontrada; oportunidad de landing clara + asesor de pedidos",
+      "leadProblem": "Casa Cheesecake se mueve como tienda virtual con pedidos programados. El producto es visual y antojador, pero si el cliente solo encuentra Instagram/WhatsApp, debe preguntar sabores, tamanos, anticipacion, domicilio, pago y disponibilidad antes de decidir.",
+      "opportunity": "Crear una landing simple con sabores, tamanos, tiempos de pedido, domicilio, pagos, preguntas frecuentes y asesor de WhatsApp para convertir antojos en pedidos programados.",
+      "proofLine": "Lectura publica del 20 de junio de 2026: Instagram @casacheesecake_ muestra reposteria en Medellin; snippets publicos mencionan pedidos 3136848604, tienda virtual y pedidos con anticipacion. No se verifico web propia confiable, por eso el enfoque recomendado es landing + asesor digital.",
+      "audience": "Personas en Medellin que quieren cheesecakes, postres por porcion, tortas completas y pedidos para celebraciones o antojos.",
+      "adAngle": "Cheesecake antojador + sabores claros + pedido programado por WhatsApp",
+      "heroCopy": "Casa Cheesecake necesita un centro de venta propio: sabores, tamanos, tiempos y WhatsApp listos para convertir Instagram en pedidos.",
+      "bannerHook": "El antojo aparece, pero la compra depende de demasiadas preguntas",
+      "bannerSubhook": "Sin landing, cada cliente tiene que descubrir sabores, tiempos y domicilio por chat.",
+      "botTitle": "Asesor Casa Cheesecake demo: pedidos programados",
+      "botOpening": "Hola, soy el asesor demo de Casa Cheesecake. Puedo ayudarte con sabores, tamanos, porciones, anticipacion, domicilio, pago y pedido por WhatsApp.",
+      "botPrompts": [
+        "Quiero pedir para manana",
+        "¿Que sabores hay?",
+        "¿Torta o porcion?",
+        "¿Por que landing?",
+        "¿Como sigue clientes?"
+      ],
+      "findings": [
+        "La presencia publica visible se concentra en Instagram, Facebook y WhatsApp.",
+        "No se verifico una web propia estable para catalogo, preguntas frecuentes y conversion.",
+        "La oportunidad principal es landing de pedidos + asesor, no mejora de ecommerce existente."
+      ],
+      "siteIssues": [
+        "Sin pagina propia, sabores, tamanos, tiempos y condiciones quedan dispersos.",
+        "WhatsApp recibe preguntas repetidas que podrian resolverse antes.",
+        "La pauta sin landing pierde medicion de sabores, clics y abandono."
+      ],
+      "losses": [
+        "Antojos de alto impulso se enfrian si el cliente no ve sabores/precios rapido.",
+        "Pedidos de celebracion requieren anticipacion y datos completos.",
+        "La marca no acumula audiencias propias para remarketing."
+      ],
+      "heatmapData": [
+        "Sabores y formatos mas consultados.",
+        "Friccion en anticipacion, domicilio, pago y WhatsApp.",
+        "Fechas/ocasiones con mayor intencion de pedido."
+      ],
+      "campaigns": [
+        "Campana de antojo por sabores estrella con landing directa.",
+        "Campana de cumpleanos/celebraciones con pedido programado.",
+        "Remarketing a visitantes que vieron sabores y no escribieron."
+      ],
+      "deliverables": [
+        "Landing de pedidos con sabores, tamanos, tiempos, domicilio, pagos y FAQs.",
+        "Asesor de WhatsApp para recomendar formato, pedir fecha/zona y armar pedido.",
+        "Pixel + mapa de calor + panel de sabores, fechas y conversaciones pendientes."
+      ]
+    },
+    {
+      "theme": "maker",
+      "brandMode": "standard",
+      "alertLabel": "Oportunidad Solvers",
+      "statusLabel": "Diagnostico comercial",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Ecommerce activo y tiendas fisicas/aliadas; oportunidad de guiar regalo, talla y coleccion antes del carrito",
+      "visualCueLabel": "Dolor",
+      "visualCue": "La joya encanta, pero la duda de talla o regalo frena el carrito",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asesor digital + medicion + seguimiento para convertir intencion en venta",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "Pajarolimon",
+      "loaderSubtitle": "Leyendo senales publicas, web, Instagram, WhatsApp y puntos de fuga antes del diagnostico.",
+      "loaderCue1": "Web actual",
+      "loaderCue2": "Asesor 24/7",
+      "heroStampTitle": "Pajarolimon",
+      "heroStampSubtitle": "joyeria colombiana hecha a mano",
+      "bannerKicker": "Hook comercial",
+      "bannerBadge1": "Web activa",
+      "bannerBadge2": "WhatsApp + seguimiento",
+      "openNode1Label": "Interes",
+      "openNode1Title": "Producto servicio duda",
+      "openNode2Label": "Friccion",
+      "openNode2Title": "Precio agenda talla fecha",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "Asesor + data + seguimiento",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Mejorar la web actual para convertir mas visitas en conversaciones utiles",
+      "scrollTitle": "Ruta de conversion recomendada",
+      "diagnosisTitle": "Donde se esta perdiendo la venta",
+      "whatsappCta": "Quiero ver como aplicaria en mi negocio",
+      "scrollIntro": "El estudio ordena la ruta desde la primera senal publica hasta el siguiente paso comercial: clic, pregunta, carrito, agenda, reserva o WhatsApp con contexto.",
+      "experienceIntro": "La oportunidad no es responder mas mensajes manualmente. Es convertir cada pregunta repetida en una ruta medible que ayude a cerrar y a mejorar pauta.",
+      "botAgentName": "Asesor Pajarolimon demo",
+      "botAgentRole": "joyeria colombiana hecha a mano",
+      "botIntro": "Este demo muestra una primera capa conversacional especifica para el negocio: responde dudas frecuentes, captura intencion y deja el seguimiento listo.",
+      "botDemoTitle": "Conversacion con contexto",
+      "botDemoBody": "El asesor pregunta lo minimo necesario y evita que WhatsApp reciba mensajes frios sin producto, fecha, talla, tratamiento o presupuesto.",
+      "botTrainingTitle": "Entrenado con senales reales",
+      "botTrainingBody": "Se alimenta con web, catalogo, preguntas frecuentes, politicas, agenda, horarios, disponibilidad y tono de marca verificados por el negocio.",
+      "diagnosisTiles": [
+        {
+          "label": "Prioridad",
+          "title": "Estudio 10/10",
+          "body": "Ordenado por potencial comercial, claridad de oferta y oportunidad de conversion."
+        },
+        {
+          "label": "Canal",
+          "title": "Web + WhatsApp",
+          "body": "El foco cambia segun si existe web propia confiable o no."
+        },
+        {
+          "label": "Dolor",
+          "title": "Interes que se enfria",
+          "body": "Dudas repetidas aparecen antes de pagar, reservar, agendar o escribir."
+        },
+        {
+          "label": "Solucion",
+          "title": "Asesor + data",
+          "body": "Captura contexto, responde y deja seguimiento medible."
+        }
+      ],
+      "experiencePath": [
+        "Busqueda: la persona llega desde Instagram, Google, pauta o recomendacion a Pajarolimon",
+        "Friccion: aparecen dudas de precio, disponibilidad, talla, fecha, agenda, envio, reserva o politica",
+        "Solucion: el asesor digital pregunta lo minimo y entrega una ruta clara",
+        "Cierre: WhatsApp, carrito, agenda o reserva recibe intencion con contexto y seguimiento"
+      ],
+      "journey": [
+        {
+          "title": "Etapa 1: visita con intencion",
+          "body": "La persona ya trae una necesidad; el sistema debe entenderla antes de pedirle que escriba."
+        },
+        {
+          "title": "Etapa 2: filtro comercial",
+          "body": "El asesor recoge datos clave y responde objeciones frecuentes sin inventar informacion no validada."
+        },
+        {
+          "title": "Etapa 3: accion clara",
+          "body": "La ruta termina en carrito, agenda, reserva o WhatsApp con resumen util para cierre humano."
+        },
+        {
+          "title": "Etapa 4: seguimiento",
+          "body": "Cada clic y pregunta alimenta remarketing, priorizacion de leads y mejora de pauta."
+        }
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "precio",
+            "valor",
+            "costo",
+            "cuanto",
+            "cuánto"
+          ],
+          "answer": "Para Pajarolimon, el asesor no debe soltar un precio suelto: primero identifica pieza, talla, urgencia, ciudad y objecion. Despues entrega rango, ruta o paso a WhatsApp con contexto para cierre humano."
+        },
+        {
+          "keywords": [
+            "whatsapp",
+            "mensaje",
+            "asesor",
+            "atencion",
+            "atención"
+          ],
+          "answer": "Funciona como primer filtro 24/7: responde dudas repetidas, pide datos clave y entrega a WhatsApp una conversacion con resumen, no un lead frio sin contexto."
+        },
+        {
+          "keywords": [
+            "web",
+            "pagina",
+            "página",
+            "carrito",
+            "reserva",
+            "agenda"
+          ],
+          "answer": "La idea es mejorar la ruta actual: CTA por intencion, preguntas frecuentes, eventos de clic, recuperacion de abandono y seguimiento segun lo que la persona vio o pregunto."
+        },
+        {
+          "keywords": [
+            "pauta",
+            "instagram",
+            "meta",
+            "campaña",
+            "campana",
+            "datos"
+          ],
+          "answer": "La pauta deja de medir solo clics. Se mide pieza, coleccion y talla consultada, pregunta frecuente, boton tocado, abandono y conversacion iniciada para saber que anuncio trae oportunidades reales."
+        }
+      ],
+      "slug": "pajarolimon-joyeria",
+      "company": "Pajarolimon",
+      "instagram": "@pajarolimon",
+      "sector": "joyeria colombiana hecha a mano",
+      "city": "Medellin, Bogota y tiendas aliadas",
+      "tone": "delicado, artesanal y aspiracional",
+      "accent": "#D5A83F",
+      "secondary": "#7ED7C5",
+      "accentRgb": "213, 168, 63",
+      "secondaryRgb": "126, 215, 197",
+      "brandDark": "#16130A",
+      "paper": "#FFF8E8",
+      "paperCard": "#FFFFFF",
+      "status": "Ecommerce activo y tiendas fisicas/aliadas; oportunidad de guiar regalo, talla y coleccion antes del carrito",
+      "leadProblem": "Pajarolimon tiene ecommerce, joyeria hecha a mano, banos de oro, tiendas y distribucion en varias ciudades. En accesorios, el cliente puede enamorarse de una pieza pero frenarse por talla de anillo, material, cuidado, disponibilidad, regalo, envio o combinacion con otras piezas.",
+      "opportunity": "Un asesor de joyeria puede recomendar piezas por ocasion, presupuesto, estilo, talla y ciudad; ademas recuperar carritos y responder cuidados/envios antes de que la compra se enfrie.",
+      "proofLine": "Lectura publica del 20 de junio de 2026: pajarolimon.com se presenta como marca de joyeria colombiana hecha a mano con bano de oro de 25k; pagina de distribuidores lista tiendas en Medellin, Bogota y aliados, contacto sales@pajarolimon.com y telefonos. Instagram @pajarolimon aparece con compra online y envios.",
+      "audience": "Mujeres y compradores de regalo que buscan joyeria artesanal, accesorios, piezas delicadas y envios en Colombia o exterior.",
+      "adAngle": "Regalo o pieza personal + talla/cuidado claro + compra asistida",
+      "heroCopy": "Pajarolimon ya tiene marca y ecommerce. La mejora esta en convertir deseo visual en compra guiada por talla, estilo, regalo y disponibilidad.",
+      "bannerHook": "La joya encanta, pero la duda de talla o regalo frena el carrito",
+      "bannerSubhook": "Un asesor que entienda estilo, talla y ocasion puede cerrar donde un catalogo amplio deja dudas.",
+      "botTitle": "Asesor Pajarolimon demo: joyas por ocasion y talla",
+      "botOpening": "Hola, soy el asesor demo de Pajarolimon. Puedo ayudarte con regalos, talla de anillo, materiales, cuidado, tiendas, envios, colecciones o combinaciones.",
+      "botPrompts": [
+        "Busco regalo",
+        "No se talla de anillo",
+        "¿Como cuidar la joya?",
+        "¿Tienda o envio?",
+        "¿Como recupera carrito?"
+      ],
+      "findings": [
+        "Pajarolimon tiene ecommerce, Instagram activo y presencia fisica/aliada en varias ciudades.",
+        "La joyeria requiere resolver talla, material, cuidado, regalo y disponibilidad.",
+        "La pauta puede mejorar si separa deseo visual de objecion real antes de compra."
+      ],
+      "siteIssues": [
+        "Talla de anillo y cuidado pueden frenar la compra sin asesoramiento.",
+        "Regalos necesitan recomendaciones por ocasion, presupuesto y estilo.",
+        "Carritos de accesorios se pueden recuperar con mensajes segun pieza vista."
+      ],
+      "losses": [
+        "Compras de regalo se pierden si no hay respuesta rapida sobre entrega o empaque.",
+        "Dudas de talla llevan a abandono o cambio posterior.",
+        "La marca puede perder data de que colecciones generan intencion real."
+      ],
+      "heatmapData": [
+        "Piezas vistas por coleccion, categoria y ciudad.",
+        "Friccion en talla, cuidado, envio, regalo y carrito.",
+        "Data de regalos: ocasion, presupuesto y pieza consultada."
+      ],
+      "campaigns": [
+        "Campana de regalos con asesor por ocasion y presupuesto.",
+        "Remarketing a visitantes de anillos/collares que no compraron.",
+        "Campana de tiendas fisicas por ciudad con consulta previa."
+      ],
+      "deliverables": [
+        "Asesor de joyeria entrenado con tallas, materiales, cuidado, tiendas, envios y regalos.",
+        "Eventos de producto, talla, carrito, WhatsApp/contacto y abandono.",
+        "Panel por coleccion, objecion, ciudad, fuente y compra recuperable."
+      ]
     }
   ]
 }
