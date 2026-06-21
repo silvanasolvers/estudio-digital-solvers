@@ -6445,6 +6445,1838 @@
         "Eventos de producto, talla, carrito, WhatsApp/contacto y abandono.",
         "Panel por coleccion, objecion, ciudad, fuente y compra recuperable."
       ]
+    },
+    {
+      "slug": "cliniq-medellin",
+      "company": "Cliniq Medellin",
+      "instagram": "@cliniqmedellin",
+      "sector": "cirugia plastica, medicina estetica y odontologia estetica",
+      "city": "Medellin",
+      "tone": "premium, medico y confiable",
+      "theme": "clinic",
+      "brandMode": "standard",
+      "accent": "#75C7D9",
+      "secondary": "#E9C46A",
+      "accentRgb": "117, 199, 217",
+      "secondaryRgb": "233, 196, 106",
+      "brandDark": "#09151A",
+      "paper": "#F4FBFC",
+      "paperCard": "#FFFFFF",
+      "alertLabel": "Oportunidad Solvers",
+      "statusLabel": "Web activa",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Marca medica premium con web bilingue, WhatsApp, servicios de alto valor y paciente internacional",
+      "visualCueLabel": "Dolor",
+      "visualCue": "La confianza se construye antes de agendar",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asesor medico-comercial que filtra intencion, dudas y etapa del paciente",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "Cliniq Medellin",
+      "loaderSubtitle": "Leyendo web, Instagram, WhatsApp, servicios, paciente internacional y puntos de fuga.",
+      "loaderCue1": "Web actual",
+      "loaderCue2": "Agenda asistida",
+      "heroStampTitle": "Cliniq Medellin",
+      "heroStampSubtitle": "cirugia plastica y estetica premium",
+      "bannerKicker": "Hook comercial",
+      "bannerHook": "El paciente no agenda cuando todavia tiene dudas de seguridad",
+      "bannerSubhook": "Un asesor digital puede ordenar procedimiento, expectativa, tiempos, viaje, valoracion y WhatsApp antes de que la conversacion llegue fria.",
+      "bannerBadge1": "Web bilingue",
+      "bannerBadge2": "WhatsApp unico",
+      "openNode1Label": "Interes",
+      "openNode1Title": "Procedimiento o viaje",
+      "openNode2Label": "Friccion",
+      "openNode2Title": "Seguridad costo recuperacion",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "Filtro + agenda + seguimiento",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Mejorar la web actual para convertir visitas medicas en valoraciones con contexto",
+      "scrollTitle": "Ruta de conversion recomendada",
+      "diagnosisTitle": "Donde se puede enfriar una valoracion",
+      "status": "Web propia bilingue con servicios, WhatsApp, pagos, horarios y enfoque de paciente internacional",
+      "leadProblem": "Cliniq ya comunica cirugia plastica, medicina estetica, odontologia, tecnologia y paciente internacional. El dolor probable no es falta de presencia: es que cada interesado puede llegar con dudas clinicas, de seguridad, valoracion, recuperacion, viaje, precio y tiempos antes de atreverse a escribir por WhatsApp.",
+      "opportunity": "Agregar un asesor digital medico-comercial sobre la web actual permite clasificar procedimiento, etapa de decision, ciudad/pais, disponibilidad, objeciones y urgencia. WhatsApp recibe un resumen util y la pauta aprende que servicio trae pacientes reales, no solo clics.",
+      "proofLine": "Lectura publica del 21 de junio de 2026: cliniq.com.co muestra cirugia plastica, medicina estetica, odontologia, paciente internacional, WhatsApp +57 312 4732098, horarios, pagos y redes; Instagram publico @cliniqmedellin aparece como Cirugia Plastica, Medicina y Odontologia Estetica.",
+      "audience": "Pacientes locales e internacionales evaluando procedimientos esteticos de alto valor en Medellin.",
+      "adAngle": "Procedimiento de alto valor + dudas resueltas + valoracion con contexto",
+      "whatsappCta": "Quiero ver el flujo de valoracion asistida",
+      "heroCopy": "Cliniq tiene una web fuerte. La oportunidad esta en que cada clic de procedimiento termine en una valoracion mejor filtrada, con confianza y seguimiento.",
+      "scrollIntro": "El recorrido debe separar curiosidad, candidato real, paciente internacional y persona lista para valoracion.",
+      "experienceIntro": "En salud estetica, la rapidez sola no alcanza: el sistema debe dar claridad sin prometer resultados medicos y dejar la conversacion lista para el equipo.",
+      "botAgentName": "Asesor Cliniq demo",
+      "botAgentRole": "filtro comercial para valoraciones esteticas",
+      "botTitle": "Asesor Cliniq demo: valoracion con contexto",
+      "botIntro": "El demo responde dudas comerciales frecuentes, pide datos minimos y evita que WhatsApp reciba mensajes incompletos.",
+      "botDemoTitle": "Agenda mas ordenada",
+      "botDemoBody": "El asesor pregunta procedimiento, ciudad, etapa, fecha tentativa, dudas de seguridad y mejor canal antes de pasar a WhatsApp.",
+      "botTrainingTitle": "Entrenado con la web actual",
+      "botTrainingBody": "Servicios, horarios, WhatsApp, paciente internacional, pagos, equipo y preguntas frecuentes validadas por la clinica.",
+      "diagnosisTiles": [
+        {
+          "label": "Prioridad",
+          "title": "Estudio 1/10",
+          "body": "Alto ticket y alta friccion antes de agendar."
+        },
+        {
+          "label": "Canal",
+          "title": "Web + WhatsApp",
+          "body": "La web ya existe; el foco es conversion y seguimiento."
+        },
+        {
+          "label": "Dolor",
+          "title": "Dudas antes de valoracion",
+          "body": "Seguridad, tiempos, recuperacion, viaje y costo frenan."
+        },
+        {
+          "label": "Solucion",
+          "title": "Filtro medico-comercial",
+          "body": "Lead con contexto para cierre humano."
+        }
+      ],
+      "experiencePath": [
+        "Interes por procedimiento desde Instagram, Google o pauta",
+        "Duda de seguridad, recuperacion, viaje, disponibilidad o valoracion",
+        "Asesor digital clasifica intencion sin prometer resultados medicos",
+        "WhatsApp recibe resumen y siguiente paso de agenda"
+      ],
+      "journey": [
+        {
+          "title": "Visita con interes especifico",
+          "body": "La persona llega por cirugia, medicina estetica, odontologia o paciente internacional."
+        },
+        {
+          "title": "Filtro responsable",
+          "body": "El asesor aclara alcance comercial, pide datos minimos y evita diagnosticar."
+        },
+        {
+          "title": "Agenda con contexto",
+          "body": "El equipo recibe procedimiento, ciudad, etapa y objecion principal."
+        },
+        {
+          "title": "Seguimiento medible",
+          "body": "Se mide que servicio, anuncio o pagina genera valoraciones reales."
+        }
+      ],
+      "botPrompts": [
+        "Quiero cirugia plastica",
+        "Vengo del exterior",
+        "Tengo dudas de recuperacion",
+        "Quiero medicina estetica",
+        "¿Como agenda?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cirugia",
+            "procedimiento",
+            "lipo",
+            "abdominoplastia"
+          ],
+          "answer": "El asesor primero identifica procedimiento de interes, ciudad, etapa de decision y si la persona busca valoracion presencial o virtual. Luego pasa a WhatsApp con resumen para el equipo clinico."
+        },
+        {
+          "keywords": [
+            "exterior",
+            "internacional",
+            "viaje",
+            "turismo"
+          ],
+          "answer": "Para paciente internacional, el flujo debe preguntar pais, fecha tentativa, tiempo disponible, procedimiento de interes y dudas logisticas antes de pedir una valoracion."
+        },
+        {
+          "keywords": [
+            "recuperacion",
+            "seguridad",
+            "riesgo"
+          ],
+          "answer": "El bot no diagnostica ni promete resultados. Ordena dudas de seguridad, recuperacion y tecnologia para que el equipo medico responda con contexto."
+        },
+        {
+          "keywords": [
+            "agenda",
+            "whatsapp",
+            "cita",
+            "valoracion"
+          ],
+          "answer": "WhatsApp recibe un lead mas claro: servicio, etapa, ciudad, urgencia, disponibilidad y pregunta principal."
+        }
+      ],
+      "findings": [
+        "La web ya tiene servicios de alto valor, WhatsApp, pagos, horarios y enfoque internacional.",
+        "El paciente de estetica necesita confianza y claridad antes de agendar una valoracion.",
+        "La pauta puede separar interesados por procedimiento, ciudad, etapa y objecion real."
+      ],
+      "siteIssues": [
+        "Servicios complejos pueden dejar dudas antes del clic a WhatsApp.",
+        "El paciente internacional requiere ruta distinta: viaje, tiempos, recuperacion y valoracion remota.",
+        "Sin captura de contexto, WhatsApp recibe conversaciones frias y dificiles de priorizar."
+      ],
+      "losses": [
+        "Leads con alta intencion se enfrien mientras comparan clinicas.",
+        "El equipo comercial repite preguntas de procedimiento, ciudad, fecha y dudas basicas.",
+        "La pauta no distingue cual servicio genera valoraciones calificadas."
+      ],
+      "heatmapData": [
+        "Clics por procedimiento, medico, paciente internacional, WhatsApp y pagos.",
+        "Abandono antes de agenda, contacto o paginas de servicios.",
+        "Objeciones frecuentes por seguridad, recuperacion, precio, viaje y disponibilidad."
+      ],
+      "campaigns": [
+        "Campana por procedimiento con asesor de valoracion y WhatsApp contextual.",
+        "Remarketing a visitantes de cirugia/medicina estetica que no agendaron.",
+        "Campana para paciente internacional con filtro de pais, fecha y procedimiento."
+      ],
+      "deliverables": [
+        "Asesor digital de valoracion comercial entrenado con servicios, horarios, WhatsApp y tono medico responsable.",
+        "Eventos de servicio visto, clic a WhatsApp, agenda, paciente internacional y abandono.",
+        "Panel por procedimiento, fuente, etapa, objecion y oportunidad de seguimiento."
+      ]
+    },
+    {
+      "slug": "bohor-moda-colombiana",
+      "company": "BOHOR",
+      "instagram": "@bohor_",
+      "sector": "moda colombiana y ecommerce",
+      "city": "Bucaramanga y Barranquilla",
+      "tone": "aspiracional, femenino y editorial",
+      "theme": "fashion",
+      "brandMode": "standard",
+      "accent": "#D14D72",
+      "secondary": "#F4B860",
+      "accentRgb": "209, 77, 114",
+      "secondaryRgb": "244, 184, 96",
+      "brandDark": "#211017",
+      "paper": "#FFF7F5",
+      "paperCard": "#FFFFFF",
+      "alertLabel": "Oportunidad Solvers",
+      "statusLabel": "Ecommerce activo",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Comunidad grande, tienda online, envios nacionales/mundiales y puntos fisicos",
+      "visualCueLabel": "Dolor",
+      "visualCue": "La coleccion enamora, pero talla, stock y carrito pueden frenar",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asesor de compra + recuperacion de carrito + data por coleccion",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "BOHOR",
+      "loaderSubtitle": "Revisando ecommerce, Instagram, WhatsApp, tiendas y puntos de fuga.",
+      "loaderCue1": "Ecommerce",
+      "loaderCue2": "Carrito asistido",
+      "heroStampTitle": "BOHOR",
+      "heroStampSubtitle": "moda colombiana",
+      "bannerKicker": "Hook comercial",
+      "bannerHook": "Una comunidad grande no garantiza carrito cerrado",
+      "bannerSubhook": "Cuando una prenda gusta, la venta depende de talla, disponibilidad, envio, cambios y seguimiento.",
+      "bannerBadge1": "Shop online",
+      "bannerBadge2": "WhatsApp + tiendas",
+      "openNode1Label": "Deseo",
+      "openNode1Title": "Coleccion look prenda",
+      "openNode2Label": "Friccion",
+      "openNode2Title": "Talla stock envio",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "Asesor + carrito + data",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Mejorar la web actual para convertir comunidad en compras medibles",
+      "scrollTitle": "Ruta de compra recomendada",
+      "diagnosisTitle": "Donde se puede caer el carrito",
+      "status": "Ecommerce activo con categorias, envios nacionales, WhatsApp y tiendas en Bucaramanga/Barranquilla",
+      "leadProblem": "BOHOR tiene comunidad grande, shop online, envios y tiendas. El punto critico es convertir deseo visual en compra: talla, stock, combinacion de look, envio, cambios, moneda, ciudad y seguimiento del carrito pueden hacer que una persona guarde la prenda y no compre.",
+      "opportunity": "Un asesor de compra puede recomendar look por ocasion, filtrar talla/color, resolver envio/cambios, empujar carrito y pasar a WhatsApp o tienda fisica con contexto. La pauta deja de optimizar solo trafico y empieza a medir colecciones que venden.",
+      "proofLine": "Lectura publica del 21 de junio de 2026: bohor.com.co muestra categorias de vestidos, prendas superiores/inferiores, favoritos, tiendas en Bucaramanga y Barranquilla, envios nacionales, WhatsApp +57 301 295 1439 y +57 312 347 0381; Instagram @bohor_ aparece como Colombian brand, shop online, worldwide shipping.",
+      "audience": "Mujeres que compran moda colombiana online, looks de temporada, vestidos y prendas para ocasiones especiales.",
+      "adAngle": "Look colombiano + talla clara + compra asistida desde Instagram",
+      "whatsappCta": "Quiero ver el asesor de compra BOHOR",
+      "heroCopy": "BOHOR ya tiene deseo y trafico. La mejora esta en transformar coleccion vista en carrito, WhatsApp o visita a tienda con seguimiento.",
+      "scrollIntro": "La experiencia debe conectar Instagram, coleccion, talla, disponibilidad, carrito, WhatsApp y tienda fisica.",
+      "experienceIntro": "En moda, la emocion dura poco: si la persona no entiende talla, stock o envio, el carrito se enfria.",
+      "botAgentName": "Asesor BOHOR demo",
+      "botAgentRole": "asesoria de compra por look, talla y envio",
+      "botTitle": "Asesor BOHOR demo: look, talla y carrito",
+      "botIntro": "El demo muestra como responder preguntas repetidas de compra sin depender de un DM manual.",
+      "botDemoTitle": "Compra con menos friccion",
+      "botDemoBody": "El asesor identifica prenda, talla, ocasion, ciudad y preferencia para guiar a carrito, WhatsApp o tienda.",
+      "botTrainingTitle": "Entrenado con ecommerce",
+      "botTrainingBody": "Categorias, envios, tiendas, WhatsApp, politicas, tallas y colecciones validadas por la marca.",
+      "diagnosisTiles": [
+        {
+          "label": "Prioridad",
+          "title": "Estudio 2/10",
+          "body": "Comunidad grande y ecommerce con margen claro de conversion."
+        },
+        {
+          "label": "Canal",
+          "title": "Web + carrito",
+          "body": "El foco es carrito, WhatsApp, favoritos y tiendas."
+        },
+        {
+          "label": "Dolor",
+          "title": "Talla y stock",
+          "body": "La duda aparece antes de pagar."
+        },
+        {
+          "label": "Solucion",
+          "title": "Asesor de compra",
+          "body": "Guia por look, ocasion y seguimiento."
+        }
+      ],
+      "experiencePath": [
+        "Descubre una prenda desde reel, historia o pauta",
+        "Duda por talla, disponibilidad, envio, cambios o combinacion",
+        "Asesor recomienda look y resuelve objecion",
+        "Carrito, WhatsApp o tienda reciben intencion clara"
+      ],
+      "journey": [
+        {
+          "title": "Interes visual",
+          "body": "La persona llega atraida por coleccion o prenda especifica."
+        },
+        {
+          "title": "Filtro de compra",
+          "body": "Se pregunta talla, color, ocasion, ciudad y urgencia."
+        },
+        {
+          "title": "Cierre guiado",
+          "body": "Se empuja carrito o WhatsApp con la prenda y datos clave."
+        },
+        {
+          "title": "Recuperacion",
+          "body": "Se activa seguimiento segun coleccion vista o carrito abandonado."
+        }
+      ],
+      "botPrompts": [
+        "Busco un vestido",
+        "No se mi talla",
+        "¿Envian a mi ciudad?",
+        "Quiero tienda fisica",
+        "¿Recupera carrito?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "vestido",
+            "look",
+            "ocasion",
+            "ocasión"
+          ],
+          "answer": "El asesor pregunta ocasion, talla aproximada, ciudad y estilo. Con eso recomienda categoria o prenda y deja listo el paso a carrito o WhatsApp."
+        },
+        {
+          "keywords": [
+            "talla",
+            "color",
+            "stock",
+            "disponible"
+          ],
+          "answer": "La clave es resolver talla/color antes del abandono: el bot puede pedir medidas basicas, prenda vista y ciudad para orientar sin inventar stock no validado."
+        },
+        {
+          "keywords": [
+            "envio",
+            "envían",
+            "ciudad",
+            "cambios"
+          ],
+          "answer": "El flujo responde con politicas verificadas por BOHOR y, si falta informacion, pasa a WhatsApp con producto y ciudad."
+        },
+        {
+          "keywords": [
+            "carrito",
+            "favorito",
+            "pauta"
+          ],
+          "answer": "Cada favorito, producto visto y carrito abandonado alimenta remarketing por coleccion y mensaje."
+        }
+      ],
+      "findings": [
+        "BOHOR tiene ecommerce, comunidad alta, tiendas fisicas y WhatsApp visible.",
+        "La compra de moda necesita resolver talla, color, disponibilidad, envio y cambios rapido.",
+        "La pauta puede optimizar por producto consultado, carrito y conversacion, no solo clic."
+      ],
+      "siteIssues": [
+        "El usuario puede llegar desde una publicacion a una coleccion amplia y perder la prenda exacta.",
+        "Talla/color/envio pueden aparecer como duda antes de pagar.",
+        "WhatsApp sin contexto obliga a preguntar de nuevo que prenda vio la persona."
+      ],
+      "losses": [
+        "Carritos se pierden por dudas simples no respondidas a tiempo.",
+        "DMs y WhatsApp repiten preguntas de talla, envio, precio y stock.",
+        "No toda la comunidad se convierte en datos accionables por coleccion."
+      ],
+      "heatmapData": [
+        "Productos y colecciones con mas clics, favoritos y abandono.",
+        "Preguntas frecuentes por talla, color, envio y cambios.",
+        "Rutas desde Instagram hasta carrito, WhatsApp o tienda fisica."
+      ],
+      "campaigns": [
+        "Campana por coleccion con asesor de look y talla.",
+        "Remarketing a favoritos/carritos abandonados con mensaje por prenda.",
+        "Campana de tiendas fisicas por ciudad con disponibilidad consultada."
+      ],
+      "deliverables": [
+        "Asesor de compra entrenado con categorias, tallas, envios, tiendas, WhatsApp y politicas.",
+        "Eventos de producto visto, favorito, carrito, WhatsApp, tienda y abandono.",
+        "Panel por coleccion, prenda, talla, ciudad, fuente y recuperacion."
+      ]
+    },
+    {
+      "slug": "la-gracia-hotel-boutique",
+      "company": "La Gracia Hotel Boutique",
+      "instagram": "@lagracia_co",
+      "sector": "hotel boutique, spa y dia de sol",
+      "city": "San Jeronimo, Antioquia",
+      "tone": "tropical, premium y cercano",
+      "theme": "resort",
+      "brandMode": "standard",
+      "accent": "#31A66A",
+      "secondary": "#F0C96A",
+      "accentRgb": "49, 166, 106",
+      "secondaryRgb": "240, 201, 106",
+      "brandDark": "#102016",
+      "paper": "#F7FBF4",
+      "paperCard": "#FFFFFF",
+      "alertLabel": "Oportunidad Solvers",
+      "statusLabel": "Web activa",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Hotel boutique con alojamiento, dia de sol, spa, restaurante, eventos y reserva por WhatsApp",
+      "visualCueLabel": "Dolor",
+      "visualCue": "El plan enamora, pero la fecha y el cupo se pierden en WhatsApp",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Bot de reservas + filtro de plan + seguimiento por fecha",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "La Gracia",
+      "loaderSubtitle": "Revisando web, Instagram, WhatsApp, alojamiento, dia de sol y spa.",
+      "loaderCue1": "Reservas",
+      "loaderCue2": "Bot 24/7",
+      "heroStampTitle": "La Gracia",
+      "heroStampSubtitle": "hotel boutique y spa",
+      "bannerKicker": "Hook comercial",
+      "bannerHook": "El deseo de escapada se enfria cuando toca preguntar todo por WhatsApp",
+      "bannerSubhook": "Fecha, plan, personas, disponibilidad, politica y pago deben quedar claros antes de que el equipo responda.",
+      "bannerBadge1": "Reserva WhatsApp",
+      "bannerBadge2": "Hotel + spa",
+      "openNode1Label": "Interes",
+      "openNode1Title": "Hospedaje dia de sol spa",
+      "openNode2Label": "Friccion",
+      "openNode2Title": "Fecha cupo plan pago",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "Reserva filtrada + seguimiento",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Mejorar la web actual para convertir visitas en reservas filtradas",
+      "scrollTitle": "Ruta de reserva recomendada",
+      "diagnosisTitle": "Donde se puede perder una reserva",
+      "status": "Web propia con hotel boutique, dia de sol, spa, restaurante, eventos y WhatsApp de reservas",
+      "leadProblem": "La Gracia comunica una experiencia amplia: hospedaje, dia de sol, spa, restaurante y eventos. Esa variedad tambien crea friccion: cada persona puede preguntar fecha, cupo, numero de personas, plan, precio, politicas, ubicacion y pago por WhatsApp sin contexto.",
+      "opportunity": "Un bot de reservas puede separar intencion desde el primer clic, resolver dudas frecuentes, pedir fecha/personas/plan y entregar a WhatsApp una solicitud lista para cerrar. La pauta aprende que planes y fechas generan mas demanda.",
+      "proofLine": "Lectura publica del 21 de junio de 2026: lagracia.co muestra hotel boutique en San Jeronimo, dia de sol, spa El Origen, restaurante, eventos, ubicacion, WhatsApp +57 311 448 4140 y enlaces sociales; Instagram @lagracia_co aparece como La Gracia Hotel Boutique en San Jeronimo.",
+      "audience": "Parejas, grupos y familias de Medellin/Antioquia buscando escapada, dia de sol, spa o celebraciones.",
+      "adAngle": "Escapada tropical + fecha clara + reserva asistida",
+      "whatsappCta": "Quiero ver el bot de reservas La Gracia",
+      "heroCopy": "La Gracia ya inspira. La oportunidad esta en convertir esa inspiracion en fecha, plan y reserva con menos ida y vuelta manual.",
+      "scrollIntro": "El recorrido debe ordenar plan, fecha, personas, disponibilidad, politica y pago antes de pasar a WhatsApp.",
+      "experienceIntro": "En hoteleria, cada pregunta sin respuesta inmediata puede terminar en comparacion con otro alojamiento.",
+      "botAgentName": "Asesor La Gracia demo",
+      "botAgentRole": "reservas para hotel, dia de sol y spa",
+      "botTitle": "Asesor La Gracia demo: reserva por plan y fecha",
+      "botIntro": "El demo filtra hospedaje, dia de sol, spa, restaurante o evento antes de enviar a WhatsApp.",
+      "botDemoTitle": "WhatsApp con reserva lista",
+      "botDemoBody": "El asesor pregunta fecha, personas, plan y dudas clave para que el equipo cierre mas rapido.",
+      "botTrainingTitle": "Entrenado con servicios reales",
+      "botTrainingBody": "Alojamiento, dia de sol, spa, restaurante, eventos, ubicacion, WhatsApp y politicas verificadas por el hotel.",
+      "diagnosisTiles": [
+        {
+          "label": "Prioridad",
+          "title": "Estudio 3/10",
+          "body": "Alto potencial por planes multiples y reserva directa."
+        },
+        {
+          "label": "Canal",
+          "title": "Web + WhatsApp",
+          "body": "La web existe; se mejora conversion de reservas."
+        },
+        {
+          "label": "Dolor",
+          "title": "Fechas mezcladas",
+          "body": "Hospedaje, dia de sol y spa llegan al mismo canal."
+        },
+        {
+          "label": "Solucion",
+          "title": "Bot de reservas",
+          "body": "Filtro por plan, fecha y personas."
+        }
+      ],
+      "experiencePath": [
+        "Persona ve hotel, spa o dia de sol en Instagram/web",
+        "Debe decidir plan, fecha, cupo, personas y condiciones",
+        "Bot filtra intencion y responde dudas frecuentes",
+        "WhatsApp recibe solicitud lista para cierre"
+      ],
+      "journey": [
+        {
+          "title": "Plan elegido",
+          "body": "Separar hospedaje, dia de sol, spa, restaurante o evento."
+        },
+        {
+          "title": "Datos de reserva",
+          "body": "Fecha, numero de personas, celebracion y dudas clave."
+        },
+        {
+          "title": "Cierre humano",
+          "body": "WhatsApp recibe resumen para confirmar cupo y pago."
+        },
+        {
+          "title": "Remarketing",
+          "body": "Seguimiento por plan visto y fecha tentativa."
+        }
+      ],
+      "botPrompts": [
+        "Quiero dia de sol",
+        "Busco hospedaje",
+        "Plan de pareja",
+        "Tengo fecha tentativa",
+        "¿Como reserva?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "dia",
+            "sol",
+            "pasadia"
+          ],
+          "answer": "El asesor pregunta fecha, numero de personas y si buscan piscina, restaurante o spa antes de pasar a WhatsApp."
+        },
+        {
+          "keywords": [
+            "hospedaje",
+            "habitacion",
+            "noche"
+          ],
+          "answer": "Para hospedaje, filtra fecha, personas, tipo de habitacion y dudas de politicas o pago."
+        },
+        {
+          "keywords": [
+            "pareja",
+            "spa",
+            "romantico",
+            "romántico"
+          ],
+          "answer": "Se puede separar plan romantico/spa, pedir fecha y preferencias, y enviar un resumen listo para cotizar."
+        },
+        {
+          "keywords": [
+            "reserva",
+            "whatsapp",
+            "fecha"
+          ],
+          "answer": "WhatsApp recibe plan, fecha tentativa, personas, pregunta principal y nivel de urgencia."
+        }
+      ],
+      "findings": [
+        "La web muestra hotel boutique, dia de sol, spa, restaurante y eventos.",
+        "WhatsApp de reservas esta visible, pero puede recibir solicitudes mezcladas.",
+        "La pauta puede aprender por plan y fecha, no solo por clic al perfil."
+      ],
+      "siteIssues": [
+        "Multiples servicios pueden dispersar la decision si no hay filtro previo.",
+        "Fechas y cupos requieren respuesta rapida para no perder la reserva.",
+        "Sin seguimiento, quien consulta una fecha puede enfriarse si no decide al instante."
+      ],
+      "losses": [
+        "Reservas potenciales se pierden por demora o preguntas incompletas.",
+        "El equipo repite fecha, personas, plan y condiciones.",
+        "La pauta no sabe que plan mueve ingresos reales."
+      ],
+      "heatmapData": [
+        "Clics por alojamiento, dia de sol, spa, restaurante y eventos.",
+        "Abandono antes de WhatsApp o reserva.",
+        "Fechas tentativas y planes con mayor demanda."
+      ],
+      "campaigns": [
+        "Campana de escapada de pareja con bot de fecha y plan.",
+        "Campana de dia de sol para Medellin y alrededores.",
+        "Remarketing a visitantes de spa/eventos que no reservaron."
+      ],
+      "deliverables": [
+        "Bot de reservas entrenado con planes, fecha, personas, ubicacion, politicas y WhatsApp.",
+        "Eventos de plan visto, fecha consultada, WhatsApp y abandono.",
+        "Panel por plan, fecha, fuente, objecion y oportunidad de seguimiento."
+      ]
+    },
+    {
+      "slug": "massai-clinica-medellin",
+      "company": "Massai Clinica",
+      "instagram": "@massaiclinica",
+      "sector": "clinica estetica y turismo estetico",
+      "city": "Medellin",
+      "tone": "medico, aspiracional y cercano",
+      "theme": "clinic",
+      "brandMode": "standard",
+      "accent": "#9A7BFF",
+      "secondary": "#65D6AD",
+      "accentRgb": "154, 123, 255",
+      "secondaryRgb": "101, 214, 173",
+      "brandDark": "#15101F",
+      "paper": "#F8F6FF",
+      "paperCard": "#FFFFFF",
+      "alertLabel": "Oportunidad Solvers",
+      "statusLabel": "Web activa",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Clinica estetica con tratamientos destacados, WhatsApp y turismo estetico",
+      "visualCueLabel": "Dolor",
+      "visualCue": "La persona quiere cambio, pero necesita entender el tratamiento antes de agendar",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asesor de valoracion + agenda + seguimiento por tratamiento",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "Massai Clinica",
+      "loaderSubtitle": "Revisando web, Instagram, WhatsApp, tratamientos y turismo estetico.",
+      "loaderCue1": "Tratamientos",
+      "loaderCue2": "Valoracion",
+      "heroStampTitle": "Massai Clinica",
+      "heroStampSubtitle": "estetica en Medellin",
+      "bannerKicker": "Hook comercial",
+      "bannerHook": "El interes por un tratamiento se enfria si la valoracion no queda facil",
+      "bannerSubhook": "La web debe llevar de tratamiento visto a cita con contexto: objetivo, dudas, fecha y canal.",
+      "bannerBadge1": "WhatsApp",
+      "bannerBadge2": "Turismo estetico",
+      "openNode1Label": "Interes",
+      "openNode1Title": "Tratamiento o viaje",
+      "openNode2Label": "Friccion",
+      "openNode2Title": "Dudas cita precio",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "Valoracion + seguimiento",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Mejorar la web actual para convertir interes estetico en citas calificadas",
+      "scrollTitle": "Ruta de agenda recomendada",
+      "diagnosisTitle": "Donde se puede perder una cita",
+      "status": "Web con tratamientos destacados, contacto por WhatsApp y contenido de turismo estetico",
+      "leadProblem": "Massai tiene web y oferta clara de tratamientos esteticos, pero cada persona puede llegar con dudas sobre procedimiento, candidaturia, tiempos, costo, valoracion, agenda o turismo estetico. Si el clic termina en un WhatsApp sin contexto, el equipo debe reconstruir toda la intencion.",
+      "opportunity": "Un asesor digital puede filtrar tratamiento, objetivo, ciudad, fecha tentativa y dudas antes de pasar a WhatsApp. Esto mejora prioridad comercial y permite pauta por tratamiento con data real de agenda.",
+      "proofLine": "Lectura publica del 21 de junio de 2026: massaiclinica.com presenta clinica estetica en Medellin, tratamientos destacados, agenda de primera cita por WhatsApp y turismo estetico; Instagram publico aparece como @massaiclinica / @massai.clinica relacionado con Massai clinica estetica Medellin.",
+      "audience": "Personas en Medellin o visitantes que evaluan tratamientos esteticos y valoracion inicial.",
+      "adAngle": "Tratamiento estetico + dudas resueltas + cita de valoracion",
+      "whatsappCta": "Quiero ver el flujo de agenda Massai",
+      "heroCopy": "Massai ya recibe interes. La mejora es que cada consulta llegue con tratamiento, objetivo y disponibilidad claros.",
+      "scrollIntro": "El recorrido debe convertir pagina de tratamiento en cita con contexto y seguimiento.",
+      "experienceIntro": "En estetica, las dudas repetidas aparecen antes de la agenda; responderlas rapido ayuda a cerrar sin saturar al equipo.",
+      "botAgentName": "Asesor Massai demo",
+      "botAgentRole": "filtro para valoracion estetica",
+      "botTitle": "Asesor Massai demo: tratamiento a valoracion",
+      "botIntro": "El demo clasifica tratamiento, objetivo y fecha tentativa antes de enviar a WhatsApp.",
+      "botDemoTitle": "Citas mas calificadas",
+      "botDemoBody": "WhatsApp recibe la pregunta principal, el tratamiento y la disponibilidad de la persona.",
+      "botTrainingTitle": "Entrenado con web y servicios",
+      "botTrainingBody": "Tratamientos, turismo estetico, agenda, WhatsApp, horarios y FAQs validadas por la clinica.",
+      "diagnosisTiles": [
+        {
+          "label": "Prioridad",
+          "title": "Estudio 4/10",
+          "body": "Alto valor por agenda y turismo estetico."
+        },
+        {
+          "label": "Canal",
+          "title": "Web + WhatsApp",
+          "body": "La web existe; se mejora conversion a cita."
+        },
+        {
+          "label": "Dolor",
+          "title": "Dudas previas",
+          "body": "Tratamiento, precio, cita y resultado esperado."
+        },
+        {
+          "label": "Solucion",
+          "title": "Asesor de valoracion",
+          "body": "Filtra sin diagnosticar y pasa contexto."
+        }
+      ],
+      "experiencePath": [
+        "Interes por tratamiento desde Instagram o Google",
+        "Duda de procedimiento, valoracion, tiempo o costo",
+        "Asesor filtra objetivo y disponibilidad",
+        "WhatsApp recibe cita potencial con contexto"
+      ],
+      "journey": [
+        {
+          "title": "Tratamiento visto",
+          "body": "La persona llega por Botox, laser, depilacion u otro servicio."
+        },
+        {
+          "title": "Datos minimos",
+          "body": "Se pregunta objetivo, ciudad, fecha y duda principal."
+        },
+        {
+          "title": "Agenda asistida",
+          "body": "El equipo recibe resumen para confirmar valoracion."
+        },
+        {
+          "title": "Data por servicio",
+          "body": "Se mide que tratamiento genera mas citas calificadas."
+        }
+      ],
+      "botPrompts": [
+        "Quiero Botox",
+        "Busco depilacion laser",
+        "Vengo de otra ciudad",
+        "Quiero valoracion",
+        "¿Que datos mide?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "botox",
+            "laser",
+            "depilacion",
+            "tratamiento"
+          ],
+          "answer": "El asesor identifica tratamiento, objetivo y si la persona busca informacion o agenda. No diagnostica; prepara el paso a valoracion."
+        },
+        {
+          "keywords": [
+            "ciudad",
+            "turismo",
+            "viaje"
+          ],
+          "answer": "Para turismo estetico, pregunta ciudad de origen, fecha tentativa, dias disponibles y tratamiento de interes."
+        },
+        {
+          "keywords": [
+            "valoracion",
+            "cita",
+            "agenda"
+          ],
+          "answer": "El flujo envia a WhatsApp un resumen con tratamiento, disponibilidad, objetivo y pregunta principal."
+        },
+        {
+          "keywords": [
+            "datos",
+            "pauta",
+            "campaña"
+          ],
+          "answer": "Se mide tratamiento visto, clic de agenda, pregunta frecuente y seguimiento para saber que anuncio trae citas reales."
+        }
+      ],
+      "findings": [
+        "La web muestra tratamientos esteticos destacados y contacto por WhatsApp.",
+        "El turismo estetico requiere preguntas distintas a un paciente local.",
+        "El equipo puede recibir leads mejor priorizados si el bot filtra antes."
+      ],
+      "siteIssues": [
+        "El usuario puede revisar servicios pero no dejar datos suficientes para agenda.",
+        "WhatsApp manual recibe preguntas repetidas de tratamiento y valoracion.",
+        "La pauta puede necesitar eventos de agenda y objeciones por servicio."
+      ],
+      "losses": [
+        "Citas se pierden cuando la persona compara y no recibe claridad rapida.",
+        "El equipo invierte tiempo en clasificar consultas basicas.",
+        "No se sabe que servicio convierte mejor en valoracion."
+      ],
+      "heatmapData": [
+        "Tratamientos vistos, clics a WhatsApp y abandono.",
+        "Preguntas por costo, tiempo, recuperacion y agenda.",
+        "Fuentes que generan citas calificadas."
+      ],
+      "campaigns": [
+        "Campana por tratamiento con asesor de valoracion.",
+        "Campana de turismo estetico con filtro de ciudad y fechas.",
+        "Remarketing a visitantes que vieron servicios sin agendar."
+      ],
+      "deliverables": [
+        "Asesor digital entrenado con tratamientos, agenda, WhatsApp y tono responsable.",
+        "Eventos de servicio visto, clic a agenda, WhatsApp y abandono.",
+        "Panel por tratamiento, fuente, duda, ciudad y seguimiento."
+      ]
+    },
+    {
+      "slug": "clinica-benessere-bogota",
+      "company": "Clinica Benessere",
+      "instagram": "@benesseremedicinaestetica",
+      "sector": "clinica estetica facial, corporal y laser",
+      "city": "Bogota",
+      "tone": "profesional, cercano y aspiracional",
+      "theme": "clinic",
+      "brandMode": "standard",
+      "accent": "#C27BA0",
+      "secondary": "#6FC3DF",
+      "accentRgb": "194, 123, 160",
+      "secondaryRgb": "111, 195, 223",
+      "brandDark": "#20131B",
+      "paper": "#FFF7FB",
+      "paperCard": "#FFFFFF",
+      "alertLabel": "Oportunidad Solvers",
+      "statusLabel": "Web activa",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Clinica estetica en Bogota con mas de 10 anos, servicios faciales/corporales y WhatsApp",
+      "visualCueLabel": "Dolor",
+      "visualCue": "La persona quiere mejorar, pero necesita saber que tratamiento pedir",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asesor de tratamiento + valoracion + seguimiento",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "Clinica Benessere",
+      "loaderSubtitle": "Revisando web, Instagram, WhatsApp, tratamientos y agenda.",
+      "loaderCue1": "Agenda",
+      "loaderCue2": "Asesor 24/7",
+      "heroStampTitle": "Benessere",
+      "heroStampSubtitle": "clinica estetica Bogota",
+      "bannerKicker": "Hook comercial",
+      "bannerHook": "Muchos interesados no saben que tratamiento necesitan",
+      "bannerSubhook": "Antes de WhatsApp, el sistema puede traducir objetivo estetico en ruta de valoracion.",
+      "bannerBadge1": "Bogota",
+      "bannerBadge2": "WhatsApp",
+      "openNode1Label": "Objetivo",
+      "openNode1Title": "Piel cuerpo cabello",
+      "openNode2Label": "Friccion",
+      "openNode2Title": "Tratamiento precio cita",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "Filtro + agenda + data",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Mejorar la web actual para convertir visitas en valoraciones mas claras",
+      "scrollTitle": "Ruta de valoracion recomendada",
+      "diagnosisTitle": "Donde se puede enfriar una cita",
+      "status": "Web propia con tratamientos esteticos faciales, corporales, laser, agenda y WhatsApp",
+      "leadProblem": "Benessere comunica muchos servicios esteticos. Cuando hay tantas opciones, la persona puede querer mejorar acne, manchas, rejuvenecimiento, cuerpo o cabello, pero no saber que tratamiento pedir ni que datos enviar por WhatsApp.",
+      "opportunity": "Un asesor digital puede preguntar objetivo, zona, molestia principal, disponibilidad y nivel de urgencia; luego pasar a WhatsApp una conversacion organizada para valoracion. La pauta se puede optimizar por objetivo estetico, no solo por clic.",
+      "proofLine": "Lectura publica del 21 de junio de 2026: clinicabenessere.com.co se presenta como clinica estetica en Bogota con tratamientos laser, faciales, corporales, mas de 10 anos de experiencia, llamados a agenda y contacto por WhatsApp; Instagram publico @benesseremedicinaestetica aparece asociado a Clinica Benessere.",
+      "audience": "Personas en Bogota buscando tratamientos faciales, corporales, laser, acne, rejuvenecimiento o recuperacion capilar.",
+      "adAngle": "Objetivo estetico claro + valoracion rapida + WhatsApp con contexto",
+      "whatsappCta": "Quiero ver el asesor Benessere",
+      "heroCopy": "Benessere no necesita solo mas trafico: necesita convertir dudas de tratamiento en valoraciones listas para cerrar.",
+      "scrollIntro": "El flujo debe empezar por objetivo estetico, no por una lista fria de servicios.",
+      "experienceIntro": "Cuando el usuario no sabe que tratamiento necesita, un asesor puede orientar comercialmente y entregar contexto al equipo.",
+      "botAgentName": "Asesor Benessere demo",
+      "botAgentRole": "filtro de objetivo estetico",
+      "botTitle": "Asesor Benessere demo: objetivo a valoracion",
+      "botIntro": "El demo pregunta que quiere mejorar la persona y ordena la solicitud antes de WhatsApp.",
+      "botDemoTitle": "Menos preguntas repetidas",
+      "botDemoBody": "El equipo recibe objetivo, zona, disponibilidad y duda principal.",
+      "botTrainingTitle": "Entrenado con servicios reales",
+      "botTrainingBody": "Faciales, corporales, laser, cabello, agenda, WhatsApp y tono de la clinica.",
+      "diagnosisTiles": [
+        {
+          "label": "Prioridad",
+          "title": "Estudio 5/10",
+          "body": "Oferta amplia que necesita filtro comercial."
+        },
+        {
+          "label": "Canal",
+          "title": "Web + WhatsApp",
+          "body": "La web existe; se mejora claridad y agenda."
+        },
+        {
+          "label": "Dolor",
+          "title": "No se que pedir",
+          "body": "El usuario trae objetivo, no nombre tecnico."
+        },
+        {
+          "label": "Solucion",
+          "title": "Asesor por objetivo",
+          "body": "Convierte necesidad en valoracion."
+        }
+      ],
+      "experiencePath": [
+        "Persona llega por acne, manchas, cuerpo, laser o rejuvenecimiento",
+        "No sabe que servicio elegir o que preguntar",
+        "Asesor pregunta objetivo, zona y disponibilidad",
+        "WhatsApp recibe solicitud de valoracion con contexto"
+      ],
+      "journey": [
+        {
+          "title": "Objetivo estetico",
+          "body": "El sistema parte de lo que la persona quiere mejorar."
+        },
+        {
+          "title": "Filtro responsable",
+          "body": "No diagnostica; clasifica necesidad y dudas."
+        },
+        {
+          "title": "Agenda",
+          "body": "Pasa a WhatsApp con datos utiles para valoracion."
+        },
+        {
+          "title": "Seguimiento",
+          "body": "Recupera interesados que vieron servicios pero no agendaron."
+        }
+      ],
+      "botPrompts": [
+        "Tengo acne",
+        "Quiero laser",
+        "Busco rejuvenecimiento",
+        "Quiero cita",
+        "¿Como mejora pauta?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "acne",
+            "manchas",
+            "piel"
+          ],
+          "answer": "El asesor pregunta objetivo, zona y tiempo de molestia, sin diagnosticar. Luego sugiere agendar valoracion con el contexto listo."
+        },
+        {
+          "keywords": [
+            "laser",
+            "corporal",
+            "facial",
+            "cabello"
+          ],
+          "answer": "Filtra el tipo de interes y disponibilidad para que WhatsApp no empiece desde cero."
+        },
+        {
+          "keywords": [
+            "cita",
+            "agenda",
+            "valoracion"
+          ],
+          "answer": "El flujo entrega objetivo, zona, fecha tentativa y pregunta principal al equipo."
+        },
+        {
+          "keywords": [
+            "pauta",
+            "datos",
+            "campaña"
+          ],
+          "answer": "La pauta puede medirse por objetivo estetico: acne, laser, corporal, rejuvenecimiento o cabello, y no solo por clic."
+        }
+      ],
+      "findings": [
+        "La web tiene servicios faciales, corporales, laser y agenda por WhatsApp.",
+        "La variedad de tratamientos exige orientar por objetivo del paciente.",
+        "La pauta puede separar necesidades y seguimiento por servicio."
+      ],
+      "siteIssues": [
+        "Lista amplia de tratamientos puede confundir a quien no sabe el nombre tecnico.",
+        "WhatsApp recibe dudas repetidas de precio, cita y recomendacion.",
+        "Sin eventos por objetivo estetico, se pierde aprendizaje comercial."
+      ],
+      "losses": [
+        "Interesados comparan clinicas mientras esperan orientacion.",
+        "El equipo repite preguntas basicas antes de agendar.",
+        "La inversion en pauta no muestra que objetivo trae citas reales."
+      ],
+      "heatmapData": [
+        "Servicios y objetivos mas consultados.",
+        "Abandono antes de contacto o agenda.",
+        "Preguntas por precio, tratamiento, tiempo y disponibilidad."
+      ],
+      "campaigns": [
+        "Campana por objetivo estetico con asesor de valoracion.",
+        "Remarketing a visitantes de tratamientos sin cita.",
+        "Campana de WhatsApp con filtro previo por zona/objetivo."
+      ],
+      "deliverables": [
+        "Asesor digital por objetivo estetico entrenado con servicios, WhatsApp y agenda.",
+        "Eventos de objetivo, servicio visto, clic a contacto y abandono.",
+        "Panel por objetivo, tratamiento, fuente, duda y oportunidad."
+      ]
+    },
+    {
+      "slug": "derma-skin-care-medellin",
+      "company": "Derma Skin Care",
+      "instagram": "@dermaskincare_med",
+      "sector": "clinica estetica laser y dermatologia cosmetica",
+      "city": "Medellin",
+      "tone": "profesional, cercano y educativo",
+      "theme": "clinic",
+      "brandMode": "standard",
+      "accent": "#47B6B2",
+      "secondary": "#F2A65A",
+      "accentRgb": "71, 182, 178",
+      "secondaryRgb": "242, 166, 90",
+      "brandDark": "#0E1D1D",
+      "paper": "#F4FCFB",
+      "paperCard": "#FFFFFF",
+      "alertLabel": "Oportunidad Solvers",
+      "statusLabel": "Web activa",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Clinica estetica en Laureles con WhatsApp, servicios faciales, corporales y dermatologia cosmetica",
+      "visualCueLabel": "Dolor",
+      "visualCue": "El tratamiento puede gustar, pero la cita depende de resolver dudas rapido",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asesor de agenda + preguntas frecuentes + seguimiento por servicio",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "Derma Skin Care",
+      "loaderSubtitle": "Revisando web, Instagram, WhatsApp, tratamientos y agenda.",
+      "loaderCue1": "Servicios",
+      "loaderCue2": "Agenda",
+      "heroStampTitle": "Derma Skin Care",
+      "heroStampSubtitle": "estetica en Laureles",
+      "bannerKicker": "Hook comercial",
+      "bannerHook": "La piel no espera, pero WhatsApp manual si puede hacer esperar",
+      "bannerSubhook": "Cada consulta de manchas, acne, laser o Botox debe llegar con contexto y siguiente paso claro.",
+      "bannerBadge1": "Laureles",
+      "bannerBadge2": "Agenda WhatsApp",
+      "openNode1Label": "Interes",
+      "openNode1Title": "Piel laser Botox",
+      "openNode2Label": "Friccion",
+      "openNode2Title": "Duda cita precio",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "Filtro + agenda + data",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Mejorar la web actual para convertir busquedas en citas con contexto",
+      "scrollTitle": "Ruta de agenda recomendada",
+      "diagnosisTitle": "Donde se puede perder una cita",
+      "status": "Web propia con servicios esteticos, WhatsApp visible y agenda de cita en Laureles",
+      "leadProblem": "Derma Skin Care tiene web, WhatsApp y servicios claros, pero las consultas de estetica suelen llegar incompletas: que tratamiento necesito, cuanto vale, cuantas sesiones, cuando hay cita, que cuidados requiere y si aplica para mi caso.",
+      "opportunity": "Un asesor digital puede hacer el primer filtro comercial, responder FAQs validadas, pedir datos minimos y entregar a WhatsApp una solicitud de cita mas clara. Tambien permite medir que tratamientos generan demanda real.",
+      "proofLine": "Lectura publica del 21 de junio de 2026: dermaskincare.com.co muestra clinica estetica en Laureles Medellin, tratamientos de medicina estetica laser y dermatologia cosmetica, WhatsApp +57 302 264 8700 y agenda de cita; Instagram publico @dermaskincare_med aparece asociado a Derma Skin Care.",
+      "audience": "Personas en Medellin interesadas en cuidado de piel, tratamientos laser, Botox, limpieza facial y dermatologia cosmetica.",
+      "adAngle": "Piel mas clara + cita facil + WhatsApp con contexto",
+      "whatsappCta": "Quiero ver el asesor Derma",
+      "heroCopy": "Derma Skin Care ya tiene web y WhatsApp. La mejora es convertir cada busqueda de tratamiento en una cita mejor filtrada.",
+      "scrollIntro": "El recorrido debe pasar de duda de piel a cita con datos suficientes para el equipo.",
+      "experienceIntro": "Un asesor bien entrenado reduce preguntas repetidas y ayuda a medir que tratamientos mueven citas.",
+      "botAgentName": "Asesor Derma demo",
+      "botAgentRole": "agenda para estetica y piel",
+      "botTitle": "Asesor Derma demo: piel a cita",
+      "botIntro": "El demo filtra objetivo, tratamiento y disponibilidad antes de enviar a WhatsApp.",
+      "botDemoTitle": "WhatsApp con contexto",
+      "botDemoBody": "El equipo recibe objetivo, servicio, fecha tentativa y pregunta principal.",
+      "botTrainingTitle": "Entrenado con servicios reales",
+      "botTrainingBody": "Faciales, Botox, laser, limpieza, agenda, WhatsApp y preguntas frecuentes validadas.",
+      "diagnosisTiles": [
+        {
+          "label": "Prioridad",
+          "title": "Estudio 6/10",
+          "body": "Negocio local con servicios recurrentes y agenda."
+        },
+        {
+          "label": "Canal",
+          "title": "Web + WhatsApp",
+          "body": "La web existe; se mejora conversion de citas."
+        },
+        {
+          "label": "Dolor",
+          "title": "Consulta incompleta",
+          "body": "Tratamiento, sesiones, precio y disponibilidad."
+        },
+        {
+          "label": "Solucion",
+          "title": "Asesor de agenda",
+          "body": "Filtra y mide antes de WhatsApp."
+        }
+      ],
+      "experiencePath": [
+        "Persona busca tratamiento o llega desde Instagram",
+        "Tiene dudas de precio, sesiones, resultado o cita",
+        "Asesor pide objetivo y disponibilidad",
+        "WhatsApp recibe resumen para agendar"
+      ],
+      "journey": [
+        {
+          "title": "Duda de piel",
+          "body": "La persona parte de manchas, acne, arrugas, limpieza o laser."
+        },
+        {
+          "title": "Filtro inicial",
+          "body": "Se clasifica servicio sin diagnosticar."
+        },
+        {
+          "title": "Cita",
+          "body": "Se entrega contexto al equipo por WhatsApp."
+        },
+        {
+          "title": "Seguimiento",
+          "body": "Se recuperan interesados que no agendaron."
+        }
+      ],
+      "botPrompts": [
+        "Tengo manchas",
+        "Quiero Botox",
+        "Busco laser",
+        "Quiero cita",
+        "¿Que mide?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "manchas",
+            "acne",
+            "piel",
+            "limpieza"
+          ],
+          "answer": "El asesor pregunta objetivo, zona y si busca informacion o cita; no diagnostica y pasa a valoracion cuando corresponde."
+        },
+        {
+          "keywords": [
+            "botox",
+            "laser",
+            "facial"
+          ],
+          "answer": "Filtra servicio de interes, disponibilidad y duda principal para WhatsApp."
+        },
+        {
+          "keywords": [
+            "cita",
+            "agenda",
+            "whatsapp"
+          ],
+          "answer": "WhatsApp recibe nombre del servicio, objetivo, fecha tentativa y pregunta principal."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Se miden servicios vistos, clics a agenda, preguntas frecuentes y abandono por tratamiento."
+        }
+      ],
+      "findings": [
+        "La web muestra servicios esteticos y WhatsApp de agenda.",
+        "La ubicacion en Laureles permite campañas locales con alta intencion.",
+        "Las preguntas frecuentes pueden automatizarse sin reemplazar valoracion profesional."
+      ],
+      "siteIssues": [
+        "Servicios medicos/esteticos requieren filtro responsable antes de prometer informacion.",
+        "WhatsApp puede saturarse con preguntas repetidas.",
+        "Sin medicion por servicio, la pauta aprende poco de citas reales."
+      ],
+      "losses": [
+        "Interesados se van a otra clinica si no reciben claridad rapida.",
+        "El equipo dedica tiempo a clasificar consultas basicas.",
+        "Se pierde seguimiento de quienes vieron tratamiento pero no agendaron."
+      ],
+      "heatmapData": [
+        "Tratamientos vistos y clics a WhatsApp.",
+        "Preguntas por precio, sesiones, cita y cuidados.",
+        "Abandono por pagina de servicio o formulario/contacto."
+      ],
+      "campaigns": [
+        "Campana local por tratamiento con asesor de agenda.",
+        "Remarketing a visitantes de laser/Botox/faciales sin cita.",
+        "Campana educativa con CTA a valoracion filtrada."
+      ],
+      "deliverables": [
+        "Asesor de agenda entrenado con tratamientos, WhatsApp, horarios y tono responsable.",
+        "Eventos de servicio visto, clic a WhatsApp, agenda y abandono.",
+        "Panel por tratamiento, fuente, objecion y oportunidad de seguimiento."
+      ]
+    },
+    {
+      "slug": "dos-aguas-lodge",
+      "company": "Dos Aguas Lodge",
+      "instagram": "@dosaguaslodge",
+      "sector": "hotel sostenible y experiencias de viaje responsable",
+      "city": "Rincon del Mar, Sucre",
+      "tone": "consciente, natural y calido",
+      "theme": "resort",
+      "brandMode": "standard",
+      "accent": "#2E9D8F",
+      "secondary": "#F5C16C",
+      "accentRgb": "46, 157, 143",
+      "secondaryRgb": "245, 193, 108",
+      "brandDark": "#0C1D1A",
+      "paper": "#F5FBF8",
+      "paperCard": "#FFFFFF",
+      "alertLabel": "Oportunidad Solvers",
+      "statusLabel": "Web activa",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Hotel sostenible con reservas, experiencias, habitaciones, ubicacion y WhatsApp",
+      "visualCueLabel": "Dolor",
+      "visualCue": "El viaje responsable inspira, pero la logistica puede frenar la reserva",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asesor de reservas + experiencias + llegada a Rincon del Mar",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "Dos Aguas Lodge",
+      "loaderSubtitle": "Revisando web, Instagram, reservas, experiencias, ubicacion y WhatsApp.",
+      "loaderCue1": "Reservas",
+      "loaderCue2": "Experiencias",
+      "heroStampTitle": "Dos Aguas Lodge",
+      "heroStampSubtitle": "viaje responsable en Rincon del Mar",
+      "bannerKicker": "Hook comercial",
+      "bannerHook": "La reserva se enfria cuando llegar y elegir experiencia no queda claro",
+      "bannerSubhook": "Un asesor puede resolver fechas, habitacion, traslado, experiencias y dudas de viaje antes de WhatsApp.",
+      "bannerBadge1": "Reservas web",
+      "bannerBadge2": "WhatsApp",
+      "openNode1Label": "Interes",
+      "openNode1Title": "Habitacion experiencia",
+      "openNode2Label": "Friccion",
+      "openNode2Title": "Fecha llegada traslado",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "Reserva guiada + data",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Mejorar la web actual para convertir deseo de viaje en reservas guiadas",
+      "scrollTitle": "Ruta de reserva recomendada",
+      "diagnosisTitle": "Donde se puede perder una reserva",
+      "status": "Web propia con motor de reservas, habitaciones, experiencias, ubicacion, FAQ y WhatsApp",
+      "leadProblem": "Dos Aguas vende una experiencia especial en Rincon del Mar: descanso frente al mar, viaje responsable, gastronomia local y experiencias. El posible punto de fuga es logistico: fechas, habitacion, como llegar, traslado, experiencias, clima, politicas y reserva pueden exigir demasiadas preguntas antes de confirmar.",
+      "opportunity": "Un asesor digital puede guiar por fecha, tipo de viaje, habitacion, transporte y experiencias; luego pasar al motor de reservas o WhatsApp con contexto. La pauta aprende que contenido trae reservas, no solo inspiracion.",
+      "proofLine": "Lectura publica del 21 de junio de 2026: dosaguas.co/es muestra hotel sostenible en Rincon del Mar, experiencias, habitaciones, gastronomia local, como llegar, ubicacion, FAQ, WhatsApp, Instagram y enlace de reservas; Instagram publico @dosaguaslodge aparece como Dos Aguas Lodge en Rincon del Mar.",
+      "audience": "Viajeros nacionales e internacionales buscando descanso sostenible, playa, experiencias locales y reservas en Rincon del Mar.",
+      "adAngle": "Viaje responsable + logistica clara + reserva asistida",
+      "whatsappCta": "Quiero ver el asesor Dos Aguas",
+      "heroCopy": "Dos Aguas ya inspira viaje. La oportunidad esta en quitar friccion logistica para que mas visitantes reserven.",
+      "scrollIntro": "El recorrido debe ordenar fecha, habitacion, llegada y experiencias antes de enviar a reserva o WhatsApp.",
+      "experienceIntro": "En destinos remotos, responder como llegar y que hacer puede ser tan importante como mostrar habitaciones.",
+      "botAgentName": "Asesor Dos Aguas demo",
+      "botAgentRole": "reservas y experiencias en Rincon del Mar",
+      "botTitle": "Asesor Dos Aguas demo: reserva y viaje responsable",
+      "botIntro": "El demo filtra fecha, habitacion, traslado y experiencia para acelerar la reserva.",
+      "botDemoTitle": "Reserva con menos incertidumbre",
+      "botDemoBody": "El asesor contesta logistica basica y pasa al motor o WhatsApp con contexto.",
+      "botTrainingTitle": "Entrenado con web actual",
+      "botTrainingBody": "Habitaciones, experiencias, ubicacion, FAQ, reservas, WhatsApp y tono sostenible.",
+      "diagnosisTiles": [
+        {
+          "label": "Prioridad",
+          "title": "Estudio 7/10",
+          "body": "Buen fit por reservas, experiencias y logistica."
+        },
+        {
+          "label": "Canal",
+          "title": "Web + motor",
+          "body": "La web existe; se mejora decision y seguimiento."
+        },
+        {
+          "label": "Dolor",
+          "title": "Logistica de destino",
+          "body": "Como llegar, fechas, experiencias y condiciones."
+        },
+        {
+          "label": "Solucion",
+          "title": "Asesor de viaje",
+          "body": "Guia antes de reserva o WhatsApp."
+        }
+      ],
+      "experiencePath": [
+        "Persona descubre el lodge por Instagram, Google o recomendacion",
+        "Duda de fechas, habitacion, como llegar o experiencias",
+        "Asesor resuelve logistica y filtra tipo de viaje",
+        "Motor de reserva o WhatsApp recibe contexto"
+      ],
+      "journey": [
+        {
+          "title": "Inspiracion",
+          "body": "El usuario se conecta con playa, sostenibilidad y descanso."
+        },
+        {
+          "title": "Planificacion",
+          "body": "Se aclaran fechas, llegada, habitacion y experiencias."
+        },
+        {
+          "title": "Reserva",
+          "body": "Se dirige al motor o WhatsApp con datos claros."
+        },
+        {
+          "title": "Seguimiento",
+          "body": "Remarketing segun fecha, habitacion o experiencia vista."
+        }
+      ],
+      "botPrompts": [
+        "Como llegar",
+        "Quiero habitacion",
+        "Busco experiencias",
+        "Tengo fechas",
+        "¿Reserva por WhatsApp?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "llegar",
+            "traslado",
+            "cartagena",
+            "tolu",
+            "monteria"
+          ],
+          "answer": "El asesor explica rutas verificadas por el hotel y pregunta origen/fecha para orientar el siguiente paso sin inventar transporte."
+        },
+        {
+          "keywords": [
+            "habitacion",
+            "fecha",
+            "reserva"
+          ],
+          "answer": "Filtra fecha, personas y tipo de habitacion antes de enviar al motor de reserva o WhatsApp."
+        },
+        {
+          "keywords": [
+            "experiencia",
+            "gastronomia",
+            "actividad"
+          ],
+          "answer": "Pregunta intereses de viaje y recomienda revisar experiencias, dejando la solicitud lista para el equipo."
+        },
+        {
+          "keywords": [
+            "whatsapp",
+            "motor",
+            "pauta"
+          ],
+          "answer": "La idea es enviar a WhatsApp o motor con fecha, personas, habitacion/experiencia y duda principal."
+        }
+      ],
+      "findings": [
+        "La web tiene reservas, habitaciones, experiencias, ubicacion, FAQ y WhatsApp.",
+        "El destino requiere resolver logistica de llegada y actividades.",
+        "La pauta puede separar reservas de habitaciones, experiencias y consultas logisticas."
+      ],
+      "siteIssues": [
+        "La decision puede frenarse si como llegar o que reservar no queda claro rapido.",
+        "WhatsApp sin contexto recibe preguntas largas de logistica.",
+        "La inspiracion de Instagram puede no convertirse en fecha consultada."
+      ],
+      "losses": [
+        "Viajeros comparan destinos cuando la logistica parece compleja.",
+        "El equipo repite indicaciones de llegada, fechas y experiencias.",
+        "Se pierde data sobre que experiencias motivan reserva."
+      ],
+      "heatmapData": [
+        "Clics en habitaciones, experiencias, como llegar, FAQ, reservas y WhatsApp.",
+        "Abandono antes del motor de reservas.",
+        "Fechas, origen y tipo de viaje consultado."
+      ],
+      "campaigns": [
+        "Campana de escapada sostenible con asesor de fechas y llegada.",
+        "Remarketing a visitantes de habitaciones sin reserva.",
+        "Campana de experiencias locales con CTA a plan guiado."
+      ],
+      "deliverables": [
+        "Asesor de reservas entrenado con habitaciones, experiencias, FAQ, ubicacion y WhatsApp.",
+        "Eventos de habitacion vista, experiencia, como llegar, reserva y abandono.",
+        "Panel por fecha, origen, habitacion, experiencia y fuente."
+      ]
+    },
+    {
+      "slug": "varanasi-hotel-cartagena",
+      "company": "Varanasi Hotel Boutique",
+      "instagram": "@hotelvaranasi",
+      "sector": "hotel boutique cerca al aeropuerto",
+      "city": "Cartagena",
+      "tone": "practico, turistico y confiable",
+      "theme": "resort",
+      "brandMode": "standard",
+      "accent": "#2677B8",
+      "secondary": "#F0B75E",
+      "accentRgb": "38, 119, 184",
+      "secondaryRgb": "240, 183, 94",
+      "brandDark": "#0B1824",
+      "paper": "#F5FAFF",
+      "paperCard": "#FFFFFF",
+      "alertLabel": "Oportunidad Solvers",
+      "statusLabel": "Web activa",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Hotel boutique en Crespo con reserva online, restaurante, planes, ubicacion privilegiada y contacto directo",
+      "visualCueLabel": "Dolor",
+      "visualCue": "El viajero quiere rapidez, pero necesita saber si el hotel le sirve por ubicacion y plan",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asesor de reserva + ubicacion + plan romantico/restaurante",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "Varanasi Hotel",
+      "loaderSubtitle": "Revisando web, Instagram, reserva online, ubicacion y puntos de fuga.",
+      "loaderCue1": "Reserva online",
+      "loaderCue2": "Asesor 24/7",
+      "heroStampTitle": "Varanasi Hotel",
+      "heroStampSubtitle": "Cartagena cerca al aeropuerto",
+      "bannerKicker": "Hook comercial",
+      "bannerHook": "Estar cerca al aeropuerto es una ventaja, pero hay que convertirla en reserva directa",
+      "bannerSubhook": "El viajero necesita fecha, habitacion, traslado, plan y contacto claro antes de irse a una OTA.",
+      "bannerBadge1": "RoomCloud",
+      "bannerBadge2": "Cartagena",
+      "openNode1Label": "Interes",
+      "openNode1Title": "Noche plan ubicacion",
+      "openNode2Label": "Friccion",
+      "openNode2Title": "Fecha tarifa reserva",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "Reserva directa + seguimiento",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Mejorar la web actual para capturar reservas directas antes de que el usuario compare",
+      "scrollTitle": "Ruta de reserva recomendada",
+      "diagnosisTitle": "Donde se puede perder una reserva directa",
+      "status": "Web propia con Book Now, RoomCloud, planes, restaurante, ubicacion y contacto",
+      "leadProblem": "Varanasi tiene una ventaja concreta: ubicacion cerca del aeropuerto de Cartagena y reserva online. El riesgo es que el viajero compare rapido con OTAs si no entiende habitacion, tarifa, plan romantico, ubicacion, contacto o disponibilidad en pocos segundos.",
+      "opportunity": "Un asesor de reserva puede filtrar fecha, motivo del viaje, numero de personas, llegada al aeropuerto y dudas; luego enviar al motor o WhatsApp/email con contexto. Esto ayuda a aumentar reserva directa y remarketing por fechas consultadas.",
+      "proofLine": "Lectura publica del 21 de junio de 2026: hotelvaranasi.co muestra Book Now hacia RoomCloud, direccion Calle 70 No 5-69 Crespo Cartagena, telefono +57 310 839 9207, email reservas@hotelvaranasi.co, restaurante, plan romantico, ubicacion cerca del aeropuerto y redes; Instagram publico @hotelvaranasi aparece como Varanasi Hotel Boutique en Cartagena.",
+      "audience": "Viajeros de trabajo, parejas y turistas que buscan hotel boutique en Cartagena cerca del aeropuerto y playas.",
+      "adAngle": "Cartagena cerca al aeropuerto + reserva directa + dudas resueltas",
+      "whatsappCta": "Quiero ver el asesor Varanasi",
+      "heroCopy": "Varanasi ya tiene web y motor de reserva. La mejora esta en guiar al viajero para que reserve directo antes de comparar.",
+      "scrollIntro": "El recorrido debe conectar ubicacion, fecha, tipo de viaje y motor de reserva.",
+      "experienceIntro": "En hoteleria urbana, la claridad de ubicacion y disponibilidad puede decidir una reserva directa.",
+      "botAgentName": "Asesor Varanasi demo",
+      "botAgentRole": "reservas hotel boutique Cartagena",
+      "botTitle": "Asesor Varanasi demo: reserva directa",
+      "botIntro": "El demo filtra fecha, motivo de viaje y dudas de ubicacion antes de enviar a reserva.",
+      "botDemoTitle": "Menos fuga hacia OTAs",
+      "botDemoBody": "El asesor dirige al motor o contacto con fecha, personas y pregunta principal.",
+      "botTrainingTitle": "Entrenado con web actual",
+      "botTrainingBody": "Habitaciones, ubicacion, plan romantico, restaurante, telefono, email y motor RoomCloud.",
+      "diagnosisTiles": [
+        {
+          "label": "Prioridad",
+          "title": "Estudio 8/10",
+          "body": "Reserva directa con ventaja clara de ubicacion."
+        },
+        {
+          "label": "Canal",
+          "title": "Web + motor",
+          "body": "La web existe; se mejora conversion del Book Now."
+        },
+        {
+          "label": "Dolor",
+          "title": "Comparacion rapida",
+          "body": "El viajero compara con OTAs si no resuelve dudas."
+        },
+        {
+          "label": "Solucion",
+          "title": "Asesor de reserva",
+          "body": "Fecha, motivo y ubicacion antes del motor."
+        }
+      ],
+      "experiencePath": [
+        "Viajero busca hotel cerca al aeropuerto o plan en Cartagena",
+        "Duda de fecha, tarifa, ubicacion, restaurante o plan",
+        "Asesor filtra motivo de viaje y disponibilidad",
+        "Motor de reserva o contacto recibe datos claros"
+      ],
+      "journey": [
+        {
+          "title": "Busqueda rapida",
+          "body": "La persona compara ubicacion, precio y disponibilidad."
+        },
+        {
+          "title": "Filtro de viaje",
+          "body": "Se pregunta fecha, personas y motivo del viaje."
+        },
+        {
+          "title": "Reserva directa",
+          "body": "Se dirige a RoomCloud o contacto con contexto."
+        },
+        {
+          "title": "Seguimiento",
+          "body": "Se recupera quien consulto fecha pero no reservo."
+        }
+      ],
+      "botPrompts": [
+        "Estoy cerca al aeropuerto",
+        "Quiero plan romantico",
+        "Tengo fechas",
+        "Viaje de trabajo",
+        "¿Reserva directa?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "aeropuerto",
+            "ubicacion",
+            "crespo"
+          ],
+          "answer": "El asesor destaca la ubicacion verificada y pregunta hora de llegada, fecha y motivo de viaje para orientar la reserva."
+        },
+        {
+          "keywords": [
+            "romantico",
+            "pareja",
+            "plan"
+          ],
+          "answer": "Filtra fecha, numero de personas y tipo de plan antes de pasar a contacto o motor."
+        },
+        {
+          "keywords": [
+            "fecha",
+            "reserva",
+            "habitacion"
+          ],
+          "answer": "Pide fechas y personas para enviar al motor de reserva o al equipo con contexto."
+        },
+        {
+          "keywords": [
+            "directa",
+            "ota",
+            "booking"
+          ],
+          "answer": "La ruta busca que el usuario entienda rapido y reserve directo, midiendo abandonos antes del Book Now."
+        }
+      ],
+      "findings": [
+        "La web tiene reserva online, contacto, ubicacion y planes.",
+        "La cercania al aeropuerto es una ventaja comercial clara.",
+        "El usuario puede comparar con OTAs si la ruta directa no resuelve dudas."
+      ],
+      "siteIssues": [
+        "El Book Now puede recibir usuarios sin contexto de motivo o dudas.",
+        "Planes y restaurante pueden no quedar conectados a seguimiento comercial.",
+        "Sin eventos por fecha consultada, se pierde remarketing de reserva directa."
+      ],
+      "losses": [
+        "Reservas se fugan a intermediarios por comparacion rapida.",
+        "El equipo recibe consultas sin fecha o numero de personas.",
+        "No se sabe que motivo de viaje mueve mas reservas."
+      ],
+      "heatmapData": [
+        "Clics en Book Now, contacto, ubicacion, planes y restaurante.",
+        "Fechas consultadas y abandono antes del motor.",
+        "Motivo de viaje: trabajo, pareja, escala, turismo."
+      ],
+      "campaigns": [
+        "Campana hotel cerca al aeropuerto con reserva directa.",
+        "Campana plan romantico con asesor de fecha y disponibilidad.",
+        "Remarketing a visitantes que tocaron Book Now sin completar."
+      ],
+      "deliverables": [
+        "Asesor de reserva entrenado con ubicacion, planes, RoomCloud, telefono y email.",
+        "Eventos de fecha, Book Now, contacto, ubicacion y abandono.",
+        "Panel por fecha, motivo, fuente y oportunidad de reserva directa."
+      ]
+    },
+    {
+      "slug": "bioma-boutique-hotel-mompox",
+      "company": "Bioma Boutique Hotel",
+      "instagram": "@bioma_boutique_hotel",
+      "sector": "hotel boutique colonial",
+      "city": "Mompox, Bolivar",
+      "tone": "historico, tranquilo y elegante",
+      "theme": "resort",
+      "brandMode": "standard",
+      "accent": "#8F6B3D",
+      "secondary": "#69A88D",
+      "accentRgb": "143, 107, 61",
+      "secondaryRgb": "105, 168, 141",
+      "brandDark": "#1D1710",
+      "paper": "#FBF7EF",
+      "paperCard": "#FFFFFF",
+      "alertLabel": "Oportunidad Solvers",
+      "statusLabel": "Web activa",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Hotel colonial en el centro historico de Mompox con terraza, jacuzzi, piscina y experiencia patrimonial",
+      "visualCueLabel": "Dolor",
+      "visualCue": "Mompox enamora, pero la reserva necesita contexto de viaje y fechas",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asesor de reserva + viaje patrimonial + seguimiento",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "Bioma Boutique Hotel",
+      "loaderSubtitle": "Revisando web, Instagram, habitaciones, Mompox y puntos de fuga.",
+      "loaderCue1": "Mompox",
+      "loaderCue2": "Reservas",
+      "heroStampTitle": "Bioma",
+      "heroStampSubtitle": "hotel boutique Mompox",
+      "bannerKicker": "Hook comercial",
+      "bannerHook": "El encanto colonial necesita una ruta de reserva igual de clara",
+      "bannerSubhook": "Fecha, habitacion, transporte, jacuzzi, terraza y plan en Mompox deben quedar resueltos antes de perder al viajero.",
+      "bannerBadge1": "Centro historico",
+      "bannerBadge2": "Hotel colonial",
+      "openNode1Label": "Interes",
+      "openNode1Title": "Mompox descanso",
+      "openNode2Label": "Friccion",
+      "openNode2Title": "Fecha llegada reserva",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "Asesor + seguimiento",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Mejorar la web actual para convertir inspiracion patrimonial en reservas",
+      "scrollTitle": "Ruta de reserva recomendada",
+      "diagnosisTitle": "Donde se puede perder una reserva",
+      "status": "Web propia con posicionamiento de hotel boutique en el centro historico de Mompox",
+      "leadProblem": "Bioma tiene un producto atractivo: hotel colonial en el centro historico de Mompox, terraza, jacuzzi y descanso patrimonial. El punto de fuga probable esta en convertir inspiracion en reserva: fechas, disponibilidad, como llegar, actividades, clima, noches recomendadas y condiciones.",
+      "opportunity": "Un asesor de reservas puede resolver logistica de viaje a Mompox, pedir fechas/personas, explicar atributos del hotel y activar seguimiento si la persona no reserva. La pauta puede medir interes por escapada, cultura, descanso o pareja.",
+      "proofLine": "Lectura publica del 21 de junio de 2026: bioma.co/es/mompox describe Bioma Boutique Hotel en el centro historico de Mompox, habitaciones con aire acondicionado y wifi, terraza, jacuzzi y experiencia colonial; Instagram publico @bioma_boutique_hotel aparece como hotel colonial en el centro historico de Mompox.",
+      "audience": "Viajeros culturales, parejas y visitantes que buscan hotel boutique en Mompox.",
+      "adAngle": "Mompox colonial + fecha clara + reserva asistida",
+      "whatsappCta": "Quiero ver el asesor Bioma",
+      "heroCopy": "Bioma ya vende encanto. La mejora es que ese encanto llegue a fecha, habitacion y reserva con menos friccion.",
+      "scrollIntro": "El recorrido debe responder como viajar, que habitacion elegir y que hacer en Mompox.",
+      "experienceIntro": "En destinos patrimoniales, la reserva depende de confianza, logistica y claridad de experiencia.",
+      "botAgentName": "Asesor Bioma demo",
+      "botAgentRole": "reservas hotel boutique Mompox",
+      "botTitle": "Asesor Bioma demo: Mompox con fecha clara",
+      "botIntro": "El demo filtra fechas, personas, tipo de viaje y dudas logisticas antes de pasar a reserva.",
+      "botDemoTitle": "Reserva con contexto",
+      "botDemoBody": "El asesor pregunta fecha, personas, motivo del viaje y dudas de llegada.",
+      "botTrainingTitle": "Entrenado con web actual",
+      "botTrainingBody": "Ubicacion, atributos del hotel, habitaciones, terraza, jacuzzi, Mompox y preguntas frecuentes.",
+      "diagnosisTiles": [
+        {
+          "label": "Prioridad",
+          "title": "Estudio 9/10",
+          "body": "Buen fit por turismo boutique y logistica de destino."
+        },
+        {
+          "label": "Canal",
+          "title": "Web actual",
+          "body": "La web existe; se mejora conversion y seguimiento."
+        },
+        {
+          "label": "Dolor",
+          "title": "Inspiracion sin fecha",
+          "body": "El viajero guarda Mompox pero no reserva."
+        },
+        {
+          "label": "Solucion",
+          "title": "Asesor de viaje",
+          "body": "Convierte deseo en fecha y contexto."
+        }
+      ],
+      "experiencePath": [
+        "Persona descubre Bioma por Instagram, busqueda o recomendacion",
+        "Duda de fecha, habitacion, como llegar o que hacer en Mompox",
+        "Asesor filtra viaje y responde FAQs validadas",
+        "Reserva/contacto recibe intencion clara"
+      ],
+      "journey": [
+        {
+          "title": "Inspiracion patrimonial",
+          "body": "El usuario imagina Mompox y descanso colonial."
+        },
+        {
+          "title": "Logistica",
+          "body": "Se aclaran fechas, personas y como llegar."
+        },
+        {
+          "title": "Reserva",
+          "body": "Se entrega contexto para cotizar o confirmar."
+        },
+        {
+          "title": "Seguimiento",
+          "body": "Se recupera interes por escapada o fecha tentativa."
+        }
+      ],
+      "botPrompts": [
+        "Quiero ir a Mompox",
+        "Tengo fechas",
+        "Plan de pareja",
+        "Como llegar",
+        "¿Que mide?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "mompox",
+            "mompos",
+            "viaje"
+          ],
+          "answer": "El asesor pregunta fecha, noches y tipo de viaje para orientar la reserva sin inventar disponibilidad."
+        },
+        {
+          "keywords": [
+            "llegar",
+            "transporte",
+            "ruta"
+          ],
+          "answer": "Puede responder logistica validada por el hotel y pasar a contacto si falta detalle actualizado."
+        },
+        {
+          "keywords": [
+            "pareja",
+            "jacuzzi",
+            "terraza"
+          ],
+          "answer": "Filtra plan de pareja, fecha y preferencias para enviar una solicitud mas clara."
+        },
+        {
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
+          "answer": "Se mide interes por fecha, tipo de viaje, ubicacion y abandono antes de reserva/contacto."
+        }
+      ],
+      "findings": [
+        "La web comunica hotel boutique colonial en el centro historico de Mompox.",
+        "El destino requiere resolver logistica y actividades antes de reservar.",
+        "Instagram puede inspirar, pero se necesita ruta clara a fecha y contacto."
+      ],
+      "siteIssues": [
+        "La inspiracion de destino puede no traducirse en fecha consultada.",
+        "Dudas de como llegar o que hacer pueden frenar la reserva.",
+        "Sin seguimiento, guardados de Instagram no se convierten en oportunidades."
+      ],
+      "losses": [
+        "Viajeros posponen porque no resuelven logistica rapido.",
+        "El equipo recibe consultas sin fecha ni numero de personas.",
+        "La pauta no sabe si mueve escapadas de pareja, cultura o descanso."
+      ],
+      "heatmapData": [
+        "Clics en habitaciones, ubicacion, Mompox, contacto y reserva.",
+        "Fechas tentativas y dudas logisticas.",
+        "Tipo de viaje: pareja, cultura, descanso, familia."
+      ],
+      "campaigns": [
+        "Campana escapada a Mompox con asesor de fecha y llegada.",
+        "Remarketing a visitantes de habitaciones/contacto sin reserva.",
+        "Campana de pareja o patrimonio con CTA a reserva guiada."
+      ],
+      "deliverables": [
+        "Asesor de reserva entrenado con ubicacion, atributos del hotel, Mompox y FAQs.",
+        "Eventos de fecha, habitacion, contacto, ubicacion y abandono.",
+        "Panel por fecha, tipo de viaje, fuente y oportunidad."
+      ]
+    },
+    {
+      "slug": "hotel-colores-boutique-medellin",
+      "company": "Hotel Colores Boutique",
+      "instagram": "@hotelcoloresmedellin",
+      "sector": "hotel boutique urbano",
+      "city": "Medellin",
+      "tone": "urbano, practico y cercano",
+      "theme": "resort",
+      "brandMode": "standard",
+      "accent": "#4F8BD6",
+      "secondary": "#FFB84D",
+      "accentRgb": "79, 139, 214",
+      "secondaryRgb": "255, 184, 77",
+      "brandDark": "#101724",
+      "paper": "#F6FAFF",
+      "paperCard": "#FFFFFF",
+      "alertLabel": "Oportunidad Solvers",
+      "statusLabel": "Web activa",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Hotel boutique elegante y central con reserva directa por WhatsApp y habitaciones visibles",
+      "visualCueLabel": "Dolor",
+      "visualCue": "La habitacion se ve bien, pero la reserva depende de preguntar disponibilidad",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asesor de reserva directa + disponibilidad + seguimiento",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "Hotel Colores Boutique",
+      "loaderSubtitle": "Revisando web, Instagram, WhatsApp, habitaciones y puntos de fuga.",
+      "loaderCue1": "Reserva directa",
+      "loaderCue2": "WhatsApp",
+      "heroStampTitle": "Hotel Colores",
+      "heroStampSubtitle": "boutique en Medellin",
+      "bannerKicker": "Hook comercial",
+      "bannerHook": "Una visita a la web no vale si no termina en fecha consultada",
+      "bannerSubhook": "El usuario debe pasar de habitacion vista a reserva directa con fecha, personas y motivo claro.",
+      "bannerBadge1": "Reserva directa",
+      "bannerBadge2": "WhatsApp",
+      "openNode1Label": "Interes",
+      "openNode1Title": "Habitacion ubicacion",
+      "openNode2Label": "Friccion",
+      "openNode2Title": "Fecha cupo tarifa",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "Reserva + seguimiento",
+      "openNodeMetric": "24/7",
+      "brandWorldTitle": "Mejorar la web actual para convertir visitas en reservas directas por WhatsApp",
+      "scrollTitle": "Ruta de reserva recomendada",
+      "diagnosisTitle": "Donde se puede perder una reserva",
+      "status": "Web propia con habitaciones, reserva directa, WhatsApp y ubicacion en Medellin",
+      "leadProblem": "Hotel Colores Boutique comunica habitaciones, reserva directa y ubicacion central. El posible dolor es que el visitante mire habitaciones pero no deje fecha, numero de personas ni motivo de viaje; WhatsApp recibe un mensaje frio o el usuario compara en otra plataforma.",
+      "opportunity": "Un asesor de reservas puede preguntar fecha, personas, tipo de habitacion y motivo del viaje, resolver dudas basicas y pasar a WhatsApp con resumen. La pauta y el sitio pueden medir fechas consultadas y abandono antes de reserva.",
+      "proofLine": "Lectura publica del 21 de junio de 2026: hotelcoloresboutique.co muestra Hotel Boutique elegante y central, reserva directa por WhatsApp, habitaciones doble y multiple, ubicacion y secciones de habitaciones/nosotros/ubicanos; Instagram publico @hotelcoloresmedellin aparece como Hotel Colores Medellin.",
+      "audience": "Viajeros nacionales, familias, grupos y visitantes de Medellin buscando hotel urbano con reserva directa.",
+      "adAngle": "Hotel central + reserva directa + WhatsApp con fecha clara",
+      "whatsappCta": "Quiero ver el asesor Hotel Colores",
+      "heroCopy": "Hotel Colores ya tiene web y reserva directa. La mejora es capturar fecha y contexto antes de que el usuario se vaya a comparar.",
+      "scrollIntro": "El recorrido debe pedir fecha, personas y habitacion antes de WhatsApp.",
+      "experienceIntro": "En hoteles urbanos, la velocidad de disponibilidad y claridad de habitacion ayudan a cerrar directo.",
+      "botAgentName": "Asesor Hotel Colores demo",
+      "botAgentRole": "reservas directas por WhatsApp",
+      "botTitle": "Asesor Hotel Colores demo: fecha a reserva",
+      "botIntro": "El demo filtra fecha, personas, habitacion y motivo de viaje antes de WhatsApp.",
+      "botDemoTitle": "Reserva directa mas clara",
+      "botDemoBody": "WhatsApp recibe fecha tentativa, personas, habitacion y duda principal.",
+      "botTrainingTitle": "Entrenado con web actual",
+      "botTrainingBody": "Habitaciones, reserva directa, ubicacion, WhatsApp y preguntas frecuentes validadas.",
+      "diagnosisTiles": [
+        {
+          "label": "Prioridad",
+          "title": "Estudio 10/10",
+          "body": "Fit claro para reserva directa y WhatsApp."
+        },
+        {
+          "label": "Canal",
+          "title": "Web + WhatsApp",
+          "body": "La web existe; se mejora conversion de reserva."
+        },
+        {
+          "label": "Dolor",
+          "title": "Fecha sin capturar",
+          "body": "Visitas pueden irse sin consultar disponibilidad."
+        },
+        {
+          "label": "Solucion",
+          "title": "Asesor de reserva",
+          "body": "Pide datos minimos y activa seguimiento."
+        }
+      ],
+      "experiencePath": [
+        "Viajero entra por Instagram, busqueda o recomendacion",
+        "Mira habitaciones y necesita fecha, tarifa o cupo",
+        "Asesor pregunta fecha, personas y habitacion",
+        "WhatsApp recibe solicitud lista para confirmar"
+      ],
+      "journey": [
+        {
+          "title": "Habitacion vista",
+          "body": "La persona compara comodidad, capacidad y ubicacion."
+        },
+        {
+          "title": "Datos de reserva",
+          "body": "Se capturan fecha, personas y motivo del viaje."
+        },
+        {
+          "title": "Cierre por WhatsApp",
+          "body": "El equipo confirma disponibilidad con contexto."
+        },
+        {
+          "title": "Seguimiento",
+          "body": "Se recupera quien consulto pero no confirmo."
+        }
+      ],
+      "botPrompts": [
+        "Tengo fechas",
+        "Habitacion para grupo",
+        "Viajo por trabajo",
+        "Quiero reservar",
+        "¿Que mide?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "fecha",
+            "fechas",
+            "reserva"
+          ],
+          "answer": "El asesor pide fecha de entrada/salida, personas y tipo de habitacion antes de pasar a WhatsApp."
+        },
+        {
+          "keywords": [
+            "grupo",
+            "multiple",
+            "familia"
+          ],
+          "answer": "Para grupos, filtra numero de personas, camas necesarias y motivo del viaje."
+        },
+        {
+          "keywords": [
+            "trabajo",
+            "ubicacion",
+            "central"
+          ],
+          "answer": "Pregunta zona de interes y horarios para orientar la reserva sin prometer disponibilidad no validada."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Se mide habitacion vista, clic a WhatsApp, fechas consultadas y abandono para mejorar pauta y seguimiento."
+        }
+      ],
+      "findings": [
+        "La web muestra habitaciones y reserva directa por WhatsApp.",
+        "La ubicacion central es un argumento de conversion.",
+        "El usuario necesita disponibilidad y tarifa con rapidez."
+      ],
+      "siteIssues": [
+        "La reserva directa depende de que el usuario escriba con fecha completa.",
+        "WhatsApp puede recibir mensajes sin numero de personas ni habitacion.",
+        "Sin medicion de fechas consultadas, se pierde seguimiento."
+      ],
+      "losses": [
+        "Visitas comparan en OTAs o con otros hoteles.",
+        "El equipo pregunta de nuevo fechas, personas y habitacion.",
+        "No se sabe que habitacion o fuente genera mas reservas."
+      ],
+      "heatmapData": [
+        "Clics en habitaciones, reserva, ubicacion y WhatsApp.",
+        "Fechas consultadas y abandono antes de contacto.",
+        "Motivo de viaje y capacidad solicitada."
+      ],
+      "campaigns": [
+        "Campana reserva directa Medellin con asesor de fecha.",
+        "Remarketing a visitantes de habitaciones sin WhatsApp.",
+        "Campana para grupos/familias con habitacion multiple."
+      ],
+      "deliverables": [
+        "Asesor de reserva entrenado con habitaciones, ubicacion, WhatsApp y preguntas frecuentes.",
+        "Eventos de habitacion, fecha, reserva directa, WhatsApp y abandono.",
+        "Panel por fecha, habitacion, fuente, motivo y seguimiento."
+      ]
     }
   ]
 }
