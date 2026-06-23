@@ -9090,6 +9090,826 @@
         "Asesor digital para ocasion, presupuesto, entrega, mensaje y seguimiento.",
         "Panel por ocasion, zona, urgencia, fuente y estado."
       ]
+    },
+    {
+      "slug": "scarsa-colombia",
+      "company": "SCARSA",
+      "instagram": "@scarsacolombia",
+      "website": "https://scarsa.co/",
+      "sector": "moda femenina y ecommerce",
+      "city": "Cali",
+      "tone": "moderno, aspiracional y directo",
+      "theme": "maker",
+      "brandMode": "fashion",
+      "accent": "#D84773",
+      "secondary": "#F5D06F",
+      "status": "Instagram + ecommerce Shopify activo",
+      "leadProblem": "SCARSA ya tiene tienda online, sedes fisicas y compra por WhatsApp. La fuga probable no es falta de vitrina: es convertir trafico de Instagram en carrito, asesoría por talla y recompra con seguimiento medible.",
+      "opportunity": "Un asesor digital conectado a catalogo, tallas, sedes y estado de compra puede recuperar dudas antes del carrito y entregar a WhatsApp una conversacion con contexto.",
+      "proofLine": "Lectura publica del 23 de junio de 2026: Instagram lista @scarsacolombia en Cali con tiendas Norte/Sur y WhatsApp +57 313 322 1020; scarsa.co responde HTTP 200 y muestra categorias de ropa.",
+      "audience": "Mujeres que compran moda colombiana por Instagram, ecommerce y tiendas fisicas en Cali.",
+      "adAngle": "Colecciones limitadas + guia de talla + compra sin friccion",
+      "whatsappCta": "Quiero recuperar carritos y consultas de SCARSA",
+      "heroCopy": "Cuando una compradora pregunta por talla, sede o disponibilidad, la venta ya empezo. El sistema debe responder antes de que se enfrie.",
+      "brandWorldTitle": "De contenido aspiracional a compra con contexto",
+      "diagnosisTitle": "Donde se puede perder la intencion",
+      "botAgentName": "Asesora SCARSA demo",
+      "botAgentRole": "guia talla, prenda, sede y compra",
+      "botTitle": "Asesora de moda conectada a conversion",
+      "botIntro": "El demo clasifica prenda, talla, ciudad, sede, presupuesto y urgencia antes de mandar a carrito o WhatsApp.",
+      "botPrompts": [
+        "Busco vestido",
+        "No se mi talla",
+        "Quiero tienda en Cali",
+        "Tengo una duda de envio",
+        "¿Que mide?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["vestido", "blusa", "pantalon", "falda", "prenda"],
+          "answer": "El asesor pregunta ocasion, talla y color deseado para sugerir ruta de categoria sin inventar inventario."
+        },
+        {
+          "keywords": ["talla", "medidas", "horma"],
+          "answer": "Pide medidas basicas y entrega la consulta a WhatsApp con contexto para confirmar talla disponible."
+        },
+        {
+          "keywords": ["cali", "tienda", "sede", "recoger"],
+          "answer": "Identifica si la persona quiere comprar online o visitar sede, y guarda esa intencion para seguimiento."
+        },
+        {
+          "keywords": ["mide", "datos", "carrito", "pauta"],
+          "answer": "Mide prenda consultada, talla, ciudad, clic a carrito, clic a WhatsApp y abandono por categoria."
+        }
+      ],
+      "findings": [
+        "La marca tiene ecommerce activo y presencia de tiendas fisicas.",
+        "El comprador de moda necesita resolver talla, disponibilidad y cambios antes de pagar.",
+        "WhatsApp visible ayuda, pero sin contexto puede recibir preguntas repetidas."
+      ],
+      "siteIssues": [
+        "La pauta hacia producto debe diferenciar curiosas, compradoras por talla y clientas listas para pagar.",
+        "El ecommerce puede perder datos si la duda termina en WhatsApp sin asociarse a la prenda vista.",
+        "Las sedes fisicas son oportunidad para rutas de recogida y visita, pero necesitan seguimiento por intencion."
+      ],
+      "losses": [
+        "Carritos se enfrian cuando la talla no se confirma rapido.",
+        "El equipo repite respuestas sobre cambios, envios y sedes.",
+        "La pauta aprende menos si no conecta producto visto con conversacion."
+      ],
+      "heatmapData": [
+        "Clics por categoria, talla, color y boton de WhatsApp.",
+        "Abandono en ficha de producto, guia de tallas y carrito.",
+        "Comparacion entre compra online y visita a tienda."
+      ],
+      "campaigns": [
+        "Campana por colecciones y prendas ancla con asesor de talla.",
+        "Remarketing a visitantes de producto que no agregaron al carrito.",
+        "Recuperacion de WhatsApp para dudas de talla, cambio y envio."
+      ],
+      "deliverables": [
+        "Asesor digital para talla, disponibilidad, sedes, envios y cambios.",
+        "Eventos de conversion por producto, WhatsApp, carrito y compra.",
+        "Panel de oportunidades por prenda, talla, ciudad y fuente."
+      ]
+    },
+    {
+      "slug": "ambar-moda-medellin",
+      "company": "AMBAR MODA",
+      "instagram": "@ambarmoda",
+      "website": "https://ambarmoda.com.co/",
+      "sector": "marca de ropa femenina",
+      "city": "Medellin y Envigado",
+      "tone": "femenino, activo y comercial",
+      "theme": "maker",
+      "brandMode": "fashion",
+      "accent": "#F05A7A",
+      "secondary": "#F3C24D",
+      "status": "Ecommerce activo + tiendas Laureles y Envigado",
+      "leadProblem": "AMBAR mueve deseo desde Instagram, tienda online y puntos fisicos. Si la compradora llega con duda de talla, preorden, mayorista o disponibilidad, cada respuesta lenta puede convertirse en carrito abandonado.",
+      "opportunity": "Un asesor digital que entienda colecciones, tallas, tiendas, mayoristas y preordenes puede reducir friccion y ordenar la venta antes de WhatsApp.",
+      "proofLine": "Lectura publica del 23 de junio de 2026: ambarmoda.com.co responde HTTP 200, muestra categorias y carrito; la pagina de contacto publica ventas, mayoristas, tiendas Laureles/Envigado y horarios.",
+      "audience": "Mujeres que compran moda por Instagram, clientas de Medellin/Envigado y compradoras mayoristas.",
+      "adAngle": "Look listo + talla clara + compra o WhatsApp con contexto",
+      "whatsappCta": "Quiero convertir mas visitas de AMBAR",
+      "heroCopy": "La compradora no solo quiere ver ropa: quiere saber si le queda, si esta disponible y como comprar sin esperar.",
+      "brandWorldTitle": "Hacer que cada look tenga siguiente paso",
+      "diagnosisTitle": "Dudas que frenan el carrito",
+      "botAgentName": "Asesora AMBAR demo",
+      "botAgentRole": "filtra talla, tienda, mayorista y preorden",
+      "botTitle": "Asesor de compra para moda",
+      "botIntro": "El demo pregunta prenda, talla, ciudad, modalidad de compra y si la persona es cliente final o mayorista.",
+      "botPrompts": [
+        "Quiero un vestido",
+        "Compra mayorista",
+        "Tienda Laureles",
+        "Preorden",
+        "¿Que mide?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["vestido", "set", "falda", "pantalon", "look"],
+          "answer": "Pregunta ocasion, talla y rango de precio para llevar a categoria o WhatsApp con una consulta completa."
+        },
+        {
+          "keywords": ["mayorista", "por mayor", "tienda"],
+          "answer": "Separa cliente final de mayorista y captura ciudad, volumen estimado y categoria de interes."
+        },
+        {
+          "keywords": ["laureles", "envigado", "horario"],
+          "answer": "Direcciona a la tienda correcta y guarda si la intencion era visitar, recoger o comprar online."
+        },
+        {
+          "keywords": ["mide", "datos", "pauta"],
+          "answer": "Mide producto visto, talla consultada, tipo de cliente, clic a WhatsApp, carrito y compra."
+        }
+      ],
+      "findings": [
+        "La web tiene ecommerce, categorias, carrito y datos de contacto.",
+        "La marca combina venta retail, tiendas fisicas y venta mayorista.",
+        "Las preordenes y colaboraciones necesitan mensajes claros para no generar dudas repetidas."
+      ],
+      "siteIssues": [
+        "La intencion mayorista no deberia mezclarse con dudas de cliente final.",
+        "WhatsApp sin contexto obliga a preguntar talla, prenda y ciudad otra vez.",
+        "La pauta puede traer trafico, pero necesita eventos por categoria y por tipo de compradora."
+      ],
+      "losses": [
+        "Las dudas de talla y disponibilidad retrasan compras impulsadas por Instagram.",
+        "Mayoristas calientes pueden quedar como un mensaje mas en la bandeja.",
+        "La tienda fisica pierde oportunidad si no se mide quien queria visitar o recoger."
+      ],
+      "heatmapData": [
+        "Clics por coleccion, preorden, tienda, mayorista y WhatsApp.",
+        "Abandono en producto, guia de talla, carrito y contacto.",
+        "Rutas distintas para Laureles, Envigado, online y mayorista."
+      ],
+      "campaigns": [
+        "Anuncios por look/categoria con asesor de talla.",
+        "Campana separada para mayoristas con formulario conversacional.",
+        "Remarketing a carritos y visitantes de preorden."
+      ],
+      "deliverables": [
+        "Asesor AMBAR para talla, tienda, mayorista, preorden, cambios y envio.",
+        "Medicion de ecommerce + WhatsApp por producto y tipo de cliente.",
+        "Panel de oportunidades para retail, tiendas fisicas y mayoristas."
+      ]
+    },
+    {
+      "slug": "nouvo-odontologia-medellin",
+      "company": "NOUVO Odontologia",
+      "instagram": "@nouvo.odontologia",
+      "website": "https://nouvosmile.co/",
+      "sector": "odontologia estetica y especializada",
+      "city": "Medellin",
+      "tone": "clinico, premium y claro",
+      "theme": "maker",
+      "brandMode": "mystic",
+      "accent": "#7CC7C5",
+      "secondary": "#F0C987",
+      "status": "Web activa + Instagram + WhatsApp",
+      "leadProblem": "En odontologia estetica, el paciente compara confianza, precio aproximado, tiempos y financiacion antes de agendar. Si la web no captura esas dudas, WhatsApp recibe mensajes frios y sin contexto.",
+      "opportunity": "Un asesor digital puede precalificar tratamiento, urgencia, presupuesto, ubicacion y objeciones antes de enviar a agenda, reduciendo conversaciones improductivas.",
+      "proofLine": "Lectura publica del 23 de junio de 2026: nouvo.odontologia publica agenda por WhatsApp +57 324 208 8039; nouvosmile.co responde HTTP 200 y muestra ubicacion en El Poblado, Medellin.",
+      "audience": "Pacientes interesados en diseño de sonrisa, valoracion estetica y tratamientos especializados en Medellin.",
+      "adAngle": "Sonrisa con confianza + valoracion guiada + agenda con contexto",
+      "whatsappCta": "Quiero convertir mas valoraciones",
+      "heroCopy": "La cita se gana antes de la agenda: cuando el paciente entiende opciones, proceso y proximo paso sin esperar respuesta manual.",
+      "brandWorldTitle": "Convertir interes estetico en valoraciones mejor filtradas",
+      "diagnosisTitle": "Preguntas que frenan la agenda",
+      "botAgentName": "Asesor NOUVO demo",
+      "botAgentRole": "precalifica tratamiento y agenda",
+      "botTitle": "Asesor de valoracion odontologica",
+      "botIntro": "El demo pregunta tratamiento de interes, objetivo, tiempos, ciudad y nivel de decision antes de WhatsApp.",
+      "botPrompts": [
+        "Diseño de sonrisa",
+        "Carillas",
+        "Precio aproximado",
+        "Estoy en Medellin",
+        "¿Que mide?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["diseño", "sonrisa", "carillas", "resina", "ceramica"],
+          "answer": "El asesor identifica el tratamiento de interes y explica que la recomendacion final requiere valoracion profesional."
+        },
+        {
+          "keywords": ["precio", "cuanto", "financiacion", "costo"],
+          "answer": "No inventa precios: captura expectativa, objetivo y datos para que la clinica responda con contexto."
+        },
+        {
+          "keywords": ["medellin", "poblado", "agenda", "cita"],
+          "answer": "Confirma ubicacion, disponibilidad deseada y canal preferido para agendar valoracion."
+        },
+        {
+          "keywords": ["mide", "datos", "pauta"],
+          "answer": "Mide tratamiento, urgencia, objecion principal, fuente del lead y avance hacia agenda."
+        }
+      ],
+      "findings": [
+        "La web tiene presencia propia y canal de WhatsApp para agenda.",
+        "El servicio exige confianza y educacion antes de tomar decision.",
+        "La pauta puede traer leads curiosos si no se filtra intencion."
+      ],
+      "siteIssues": [
+        "La conversacion deberia llegar con tratamiento, expectativa y objecion.",
+        "Sin seguimiento, quien pregunta precio puede quedarse en comparacion.",
+        "La web debe convertir visitas en agenda, no solo informar."
+      ],
+      "losses": [
+        "Leads sin contexto consumen tiempo de recepcion.",
+        "Pacientes listos pueden enfriarse mientras comparan otra clinica.",
+        "La pauta pierde aprendizaje si no distingue tratamientos."
+      ],
+      "heatmapData": [
+        "Clics por tratamiento, agenda, WhatsApp y ubicacion.",
+        "Abandono antes de preguntas frecuentes o CTA.",
+        "Objeciones principales: precio, dolor, tiempo, confianza."
+      ],
+      "campaigns": [
+        "Campana por tratamiento con asesor de valoracion.",
+        "Remarketing a visitantes que vieron carillas o diseño de sonrisa.",
+        "Seguimiento a WhatsApp segun objecion y urgencia."
+      ],
+      "deliverables": [
+        "Asesor digital para tratamiento, objeciones, agenda y seguimiento.",
+        "Eventos por tratamiento, WhatsApp, agenda y fuente.",
+        "Panel de valoraciones por intencion, urgencia y estado."
+      ]
+    },
+    {
+      "slug": "liv-odontologia-medellin",
+      "company": "Odontologia Especializada Medellin LIV",
+      "instagram": "@odontologia_medellin",
+      "website": "https://odontologiamedellin.com/",
+      "sector": "clinica odontologica especializada",
+      "city": "Medellin",
+      "tone": "experto, confiable y educativo",
+      "theme": "maker",
+      "brandMode": "mystic",
+      "accent": "#4FB5D9",
+      "secondary": "#F4C95D",
+      "status": "Web activa + formulario + WhatsApp",
+      "leadProblem": "LIV comunica especialidades y contacto, pero el paciente que llega por implantes, protesis o estetica necesita orientacion rapida para entender ruta, urgencia y valoracion antes de escribir.",
+      "opportunity": "Un asesor digital puede separar casos por tratamiento, capturar sintomas o necesidad, explicar el siguiente paso y enviar a WhatsApp/formulario con informacion util.",
+      "proofLine": "Lectura publica del 23 de junio de 2026: odontologiamedellin.com responde HTTP 200 y su pagina de contacto publica WhatsApp 300 700 8281 y 311 881 1001; Instagram @odontologia_medellin enlaza la misma web.",
+      "audience": "Pacientes locales e internacionales que buscan implantes, rehabilitacion oral, estetica dental y tratamientos especializados.",
+      "adAngle": "Especialistas + caso filtrado + valoracion clara",
+      "whatsappCta": "Quiero mejorar la agenda de LIV",
+      "heroCopy": "Un lead odontologico no debe llegar como 'precio?'. Debe llegar con tratamiento, contexto y proximo paso.",
+      "brandWorldTitle": "Organizar la demanda por especialidad",
+      "diagnosisTitle": "De busqueda medica a agenda medible",
+      "botAgentName": "Asesor LIV demo",
+      "botAgentRole": "clasifica especialidad y valoracion",
+      "botTitle": "Asesor de ruta odontologica",
+      "botIntro": "El demo pregunta necesidad, tratamiento, urgencia y ciudad para orientar sin reemplazar diagnostico profesional.",
+      "botPrompts": [
+        "Necesito implantes",
+        "Tengo protesis",
+        "Diseño de sonrisa",
+        "Vivo fuera de Medellin",
+        "¿Que mide?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["implante", "implantes", "protesis", "rehabilitacion"],
+          "answer": "Clasifica la necesidad y recomienda agendar valoracion con especialistas, sin prometer diagnosticos por chat."
+        },
+        {
+          "keywords": ["fuera", "internacional", "viaje", "medellin"],
+          "answer": "Captura ciudad, fechas tentativas y tratamiento de interes para responder con una ruta ordenada."
+        },
+        {
+          "keywords": ["precio", "costo", "cuanto"],
+          "answer": "Evita inventar tarifas; recoge contexto clinico basico y objetivo para una respuesta comercial responsable."
+        },
+        {
+          "keywords": ["mide", "datos", "agenda"],
+          "answer": "Mide especialidad, urgencia, procedencia, objecion y avance a WhatsApp o formulario."
+        }
+      ],
+      "findings": [
+        "La web ya tiene contacto, formulario y WhatsApp.",
+        "El portafolio especializado requiere educacion por tratamiento.",
+        "Hay oportunidad de convertir trafico organico y pauta en citas mejor filtradas."
+      ],
+      "siteIssues": [
+        "El formulario y WhatsApp deben recibir contexto del tratamiento visto.",
+        "Pacientes de alto valor pueden necesitar seguimiento antes de viajar o agendar.",
+        "La pauta deberia medirse por especialidad, no solo por clic."
+      ],
+      "losses": [
+        "Recepcion puede perder tiempo clasificando leads desde cero.",
+        "Pacientes con implantes o rehabilitacion comparan varias clinicas.",
+        "Sin trazabilidad, no se sabe que especialidad genera citas reales."
+      ],
+      "heatmapData": [
+        "Clics por especialidad, contacto, WhatsApp y formulario.",
+        "Abandono antes de entender proceso o valoracion.",
+        "Procedencia de pacientes y tratamientos mas consultados."
+      ],
+      "campaigns": [
+        "Campana por especialidad con preguntas de precalificacion.",
+        "Remarketing a visitantes de implantes, protesis y estetica.",
+        "Seguimiento para pacientes fuera de Medellin."
+      ],
+      "deliverables": [
+        "Asesor digital por especialidad, urgencia, ciudad y objeciones.",
+        "Eventos de conversion por tratamiento, formulario y WhatsApp.",
+        "Panel de citas potenciales con etapa y proxima accion."
+      ]
+    },
+    {
+      "slug": "casa-de-alba-cartagena",
+      "company": "Casa de Alba Cartagena",
+      "instagram": "@casadealbacartagena",
+      "website": "https://hotelsalbagroup.com/",
+      "sector": "hotel boutique de lujo",
+      "city": "Cartagena",
+      "tone": "lujoso, calido y turistico",
+      "theme": "resort",
+      "brandMode": "forest",
+      "accent": "#CDA96B",
+      "secondary": "#7CC8D8",
+      "status": "Instagram + web de reservas activa",
+      "leadProblem": "Casa de Alba vende una experiencia premium en Cartagena. Si el visitante llega desde Instagram y no entiende rapido habitaciones, disponibilidad, planes, isla o reserva directa, puede terminar comparando en OTAs.",
+      "opportunity": "Un asesor digital para reservas puede capturar fechas, numero de huespedes, tipo de experiencia y dudas antes de pasar a WhatsApp o motor de reserva.",
+      "proofLine": "Lectura publica del 23 de junio de 2026: Instagram @casadealbacartagena publica Boutique Hotel in the Walled City y enlaza hotelsalbagroup.com; la web responde HTTP 200 y publica telefonos de reservas.",
+      "audience": "Parejas, viajeros de lujo y turistas que buscan hotel boutique en el centro historico de Cartagena.",
+      "adAngle": "Experiencia boutique + reserva directa + asesoria inmediata",
+      "whatsappCta": "Quiero aumentar reservas directas",
+      "heroCopy": "En hoteleria premium, una duda de fecha, habitacion o experiencia puede decidir si la reserva queda directa o se va a un intermediario.",
+      "brandWorldTitle": "Convertir inspiracion de viaje en reserva directa",
+      "diagnosisTitle": "Fugas entre deseo y reserva",
+      "botAgentName": "Concierge Casa de Alba demo",
+      "botAgentRole": "guia fechas, habitaciones y experiencia",
+      "botTitle": "Concierge digital de reservas",
+      "botIntro": "El demo pregunta fechas, huespedes, motivo del viaje y tipo de experiencia antes de enviar a reserva.",
+      "botPrompts": [
+        "Quiero reservar",
+        "Voy en pareja",
+        "Casa completa",
+        "Islas del Rosario",
+        "¿Que mide?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["reservar", "fecha", "habitacion", "disponible"],
+          "answer": "Captura fechas, numero de huespedes y tipo de habitacion para entregar una solicitud lista al equipo."
+        },
+        {
+          "keywords": ["pareja", "aniversario", "romantico", "familia"],
+          "answer": "Clasifica motivo del viaje para sugerir una ruta de experiencia y seguimiento personalizado."
+        },
+        {
+          "keywords": ["isla", "rosario", "casa completa", "full house"],
+          "answer": "Separa reserva por habitacion, casa completa o experiencia complementaria sin inventar disponibilidad."
+        },
+        {
+          "keywords": ["mide", "datos", "reserva"],
+          "answer": "Mide fechas buscadas, tipo de reserva, fuente, clic a WhatsApp y abandono antes de confirmar."
+        }
+      ],
+      "findings": [
+        "La marca tiene Instagram, web y canales de reserva visibles.",
+        "El viajero premium compara experiencia, disponibilidad y confianza.",
+        "La oportunidad es aumentar reserva directa y no solo trafico."
+      ],
+      "siteIssues": [
+        "Las consultas de fechas deben llegar con huespedes y motivo de viaje.",
+        "La experiencia de isla/casa completa necesita segmentacion clara.",
+        "Sin seguimiento, visitantes inspirados por Instagram pueden volver a OTAs."
+      ],
+      "losses": [
+        "Reservas potenciales se pierden en comparacion de plataformas.",
+        "El equipo repite preguntas de fechas, huespedes y plan.",
+        "La pauta de turismo aprende poco si solo mide clics."
+      ],
+      "heatmapData": [
+        "Clics por habitaciones, casa completa, experiencias y WhatsApp.",
+        "Fechas buscadas y puntos de abandono en reserva.",
+        "Segmentos: pareja, familia, evento, internacional."
+      ],
+      "campaigns": [
+        "Campana de reserva directa para parejas y viajeros premium.",
+        "Remarketing a visitantes que vieron habitaciones sin reservar.",
+        "Seguimiento por fechas tentativas y motivo del viaje."
+      ],
+      "deliverables": [
+        "Concierge digital para fechas, huespedes, experiencia y WhatsApp.",
+        "Eventos de reserva directa, WhatsApp y abandono.",
+        "Panel de demanda por fecha, segmento, canal y proxima accion."
+      ]
+    },
+    {
+      "slug": "el-ojo-glamping",
+      "company": "El Ojo Glamping",
+      "instagram": "@elojoglamping_oficial",
+      "website": "https://elojoglamping.com/",
+      "sector": "glamping y turismo natural",
+      "city": "Colombia",
+      "tone": "natural, confiable y emocional",
+      "theme": "resort",
+      "brandMode": "forest",
+      "accent": "#86A65A",
+      "secondary": "#E5B95F",
+      "status": "Instagram + web + WhatsApp oficial",
+      "leadProblem": "En glamping, la emocion aparece rapido, pero la reserva depende de fechas, cabana, politicas, clima, ubicacion y pago seguro. Si todo queda en mensajes sueltos, se enfria la escapada.",
+      "opportunity": "Una ruta de reserva asistida puede filtrar fecha, numero de personas, ocasion, presupuesto y dudas, reduciendo friccion y cuidando la confianza frente a canales falsos.",
+      "proofLine": "Lectura publica del 23 de junio de 2026: Instagram @elojoglamping_oficial publica canales oficiales de reserva, WhatsApp +57 310 5912272 y pagina web; elojoglamping.com responde HTTP 200.",
+      "audience": "Parejas y grupos que buscan escapadas, naturaleza, descanso y experiencias especiales.",
+      "adAngle": "Escapada segura + disponibilidad guiada + reserva por canal oficial",
+      "whatsappCta": "Quiero convertir mas reservas directas",
+      "heroCopy": "La reserva se gana cuando la persona sabe fecha, plan, seguridad del canal y siguiente paso sin esperar.",
+      "brandWorldTitle": "De antojo de escapada a reserva ordenada",
+      "diagnosisTitle": "Preguntas que frenan la escapada",
+      "botAgentName": "Asesor El Ojo demo",
+      "botAgentRole": "filtra fecha, plan y reserva segura",
+      "botTitle": "Asesor de reserva glamping",
+      "botIntro": "El demo pregunta fecha, personas, ocasion, tipo de plan y dudas de pago antes de WhatsApp.",
+      "botPrompts": [
+        "Quiero reservar",
+        "Aniversario",
+        "Plan con amigos",
+        "Canal seguro",
+        "¿Que mide?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["reservar", "fecha", "disponible", "cupos"],
+          "answer": "Pide fecha tentativa, numero de personas y noches para entregar una solicitud completa."
+        },
+        {
+          "keywords": ["aniversario", "cumple", "romantico", "pareja"],
+          "answer": "Clasifica la ocasion para que el equipo proponga una experiencia acorde sin inventar paquetes."
+        },
+        {
+          "keywords": ["seguro", "estafa", "canal", "pago"],
+          "answer": "Refuerza que la reserva debe hacerse por canales oficiales verificados por la marca."
+        },
+        {
+          "keywords": ["mide", "datos", "pauta"],
+          "answer": "Mide fecha, personas, ocasion, canal, WhatsApp y abandono antes de reservar."
+        }
+      ],
+      "findings": [
+        "La marca enfatiza canales oficiales, clave en turismo con riesgo de estafas.",
+        "La reserva requiere fechas, personas, plan y pago seguro.",
+        "Instagram inspira, pero la conversion depende de disponibilidad y confianza."
+      ],
+      "siteIssues": [
+        "El WhatsApp debe recibir una solicitud con fecha y numero de personas.",
+        "La comunicacion de canales seguros puede convertirse en ventaja comercial.",
+        "Sin remarketing por fecha/ocasion, la escapada queda en deseo."
+      ],
+      "losses": [
+        "Parejas interesadas comparan otros glampings mientras esperan respuesta.",
+        "El equipo repite preguntas de fecha, personas y plan.",
+        "La pauta no distingue escapada romantica, grupo o regalo."
+      ],
+      "heatmapData": [
+        "Clics por fecha, cabana, experiencias, politicas y WhatsApp.",
+        "Abandono antes de pago o confirmacion de canal.",
+        "Intencion por pareja, grupo, aniversario o descanso."
+      ],
+      "campaigns": [
+        "Campana de escapadas romanticas con asesor de fecha.",
+        "Remarketing a visitantes que revisaron planes sin reservar.",
+        "Anuncios de canal oficial y reserva segura."
+      ],
+      "deliverables": [
+        "Asesor de reservas para fecha, personas, ocasion, dudas y WhatsApp.",
+        "Eventos de disponibilidad, WhatsApp, reserva y abandono.",
+        "Panel de demanda por fecha, plan, fuente y estado."
+      ]
+    },
+    {
+      "slug": "decasa-muebles",
+      "company": "D E C A S A Muebles y decoracion",
+      "instagram": "@muebles_decasa",
+      "website": "https://decasa.com.co/",
+      "sector": "muebles personalizados y decoracion",
+      "city": "Pereira y Armenia",
+      "tone": "hogar, asesor y visual",
+      "theme": "maker",
+      "brandMode": "texuno",
+      "accent": "#9B6A43",
+      "secondary": "#8DB3A4",
+      "status": "Instagram + ecommerce activo",
+      "leadProblem": "Comprar muebles personalizados exige medidas, estilo, material, ciudad, tiempos y presupuesto. Si la persona solo ve inspiración y escribe 'precio?', la venta arranca incompleta.",
+      "opportunity": "Un asesor digital puede convertir cada consulta en brief: espacio, medidas, estilo, producto, ciudad y rango de presupuesto antes de WhatsApp.",
+      "proofLine": "Lectura publica del 23 de junio de 2026: Instagram @muebles_decasa publica muebles personalizados, envios nacionales Pereira/Armenia y compra online; decasa.com.co responde HTTP 200.",
+      "audience": "Hogares, parejas y compradores que quieren sofas, comedores, alcobas o muebles a medida.",
+      "adAngle": "Mueble a medida + brief guiado + cotizacion con contexto",
+      "whatsappCta": "Quiero cotizaciones mejor filtradas",
+      "heroCopy": "Una venta de muebles no deberia empezar con diez preguntas manuales. El brief puede llegar listo.",
+      "brandWorldTitle": "Convertir inspiracion del hogar en cotizacion accionable",
+      "diagnosisTitle": "Fugas antes de cotizar",
+      "botAgentName": "Asesor DECASA demo",
+      "botAgentRole": "arma brief de mueble y espacio",
+      "botTitle": "Asesor de cotizacion para muebles",
+      "botIntro": "El demo pregunta producto, medidas, ciudad, estilo, presupuesto y urgencia antes de WhatsApp.",
+      "botPrompts": [
+        "Quiero un sofa",
+        "Tengo medidas",
+        "Comedor a medida",
+        "Envio a otra ciudad",
+        "¿Que mide?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["sofa", "comedor", "alcoba", "mueble", "silla"],
+          "answer": "Identifica el producto y pide medidas, espacio, estilo y ciudad para una cotizacion clara."
+        },
+        {
+          "keywords": ["medidas", "a medida", "personalizado"],
+          "answer": "Convierte la consulta en brief: ancho, alto, fondo, referencia visual y prioridad."
+        },
+        {
+          "keywords": ["envio", "ciudad", "pereira", "armenia"],
+          "answer": "Captura ciudad y modalidad para que el equipo confirme cobertura y condiciones vigentes."
+        },
+        {
+          "keywords": ["mide", "datos", "cotizacion"],
+          "answer": "Mide producto, medidas entregadas, ciudad, presupuesto, WhatsApp y estado de cotizacion."
+        }
+      ],
+      "findings": [
+        "La marca vende muebles personalizados con compra online.",
+        "El proceso requiere informacion tecnica antes de cotizar.",
+        "La pauta visual necesita convertir inspiracion en brief."
+      ],
+      "siteIssues": [
+        "WhatsApp sin brief obliga al equipo a pedir medidas una por una.",
+        "La web puede medir producto visto pero perder contexto si la conversacion sale del sitio.",
+        "Los envios nacionales necesitan aclarar ciudad y condiciones temprano."
+      ],
+      "losses": [
+        "Cotizaciones incompletas tardan mas y se enfrian.",
+        "Clientes comparan con marcas que responden con ruta mas clara.",
+        "La pauta puede traer likes de decoracion sin solicitudes reales."
+      ],
+      "heatmapData": [
+        "Clics por producto, medidas, personalizacion, envio y WhatsApp.",
+        "Abandono antes de cotizar o enviar referencia.",
+        "Ciudades y categorias con mayor intencion."
+      ],
+      "campaigns": [
+        "Campana por categoria: sofas, comedores y alcobas.",
+        "Anuncios de mueble a medida con brief conversacional.",
+        "Remarketing a visitantes que vieron producto sin cotizar."
+      ],
+      "deliverables": [
+        "Asesor digital para brief, medidas, ciudad, presupuesto y seguimiento.",
+        "Eventos por categoria, cotizacion, WhatsApp y fuente.",
+        "Panel de oportunidades por producto, ciudad y etapa."
+      ]
+    },
+    {
+      "slug": "willy-jhons-joyeria",
+      "company": "Willy Jhons",
+      "instagram": "@willyjhonscolombia",
+      "website": "https://willyjhons.co/",
+      "sector": "joyeria en plata y accesorios",
+      "city": "Colombia",
+      "tone": "comercial, brillante y confiable",
+      "theme": "maker",
+      "brandMode": "mystic",
+      "accent": "#B8B8C8",
+      "secondary": "#D7B45B",
+      "status": "Instagram + ecommerce Shopify activo",
+      "leadProblem": "La joyeria mezcla compra impulsiva, regalo, mayoristas y preguntas de material. Si la persona no confirma referencia, color, garantia, envio o precio mayorista, puede abandonar antes de pagar.",
+      "opportunity": "Un asesor digital puede guiar regalo, referencia, material, tienda, compra mayorista y envio, dejando cada lead listo para carrito o WhatsApp.",
+      "proofLine": "Lectura publica del 23 de junio de 2026: Instagram @willyjhonscolombia publica compra por WhatsApp +57 310 531 7796 y web willyjhons.co; willyjhons.co responde HTTP 200.",
+      "audience": "Compradores de accesorios, regalos y emprendedores que buscan surtir joyeria.",
+      "adAngle": "Joyeria para regalo o negocio + asesoria rapida + compra segura",
+      "whatsappCta": "Quiero ordenar ventas y mayoristas",
+      "heroCopy": "Una joya se compra por gusto, regalo o negocio; el asesor debe entender cual intencion hay antes de mandar al mismo WhatsApp.",
+      "brandWorldTitle": "Separar regalo, compra personal y mayorista",
+      "diagnosisTitle": "Dudas que frenan accesorios",
+      "botAgentName": "Asesor Willy Jhons demo",
+      "botAgentRole": "filtra regalo, referencia y mayorista",
+      "botTitle": "Asesor de joyeria y accesorios",
+      "botIntro": "El demo pregunta ocasion, material, presupuesto, ciudad y si la compra es personal o mayorista.",
+      "botPrompts": [
+        "Busco regalo",
+        "Compra mayorista",
+        "Plata 925",
+        "Envio nacional",
+        "¿Que mide?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["regalo", "cumple", "amor", "detalle"],
+          "answer": "Clasifica ocasion, presupuesto y estilo para orientar sin inventar disponibilidad."
+        },
+        {
+          "keywords": ["mayorista", "emprendedor", "negocio", "surtir"],
+          "answer": "Separa intencion mayorista y captura ciudad, volumen y linea de interes."
+        },
+        {
+          "keywords": ["plata", "material", "garantia", "calidad"],
+          "answer": "Responde con enfoque de confianza y lleva a confirmacion oficial de material y garantia vigente."
+        },
+        {
+          "keywords": ["mide", "datos", "pauta"],
+          "answer": "Mide ocasion, referencia, tipo de comprador, ciudad, WhatsApp y compra."
+        }
+      ],
+      "findings": [
+        "La marca tiene ecommerce activo y WhatsApp publicado.",
+        "El negocio mezcla consumidor final y emprendedores.",
+        "La confianza en material, envio y garantia es clave antes de pagar."
+      ],
+      "siteIssues": [
+        "Mayoristas necesitan una ruta distinta a la compra personal.",
+        "WhatsApp debe recibir referencia, presupuesto y ciudad.",
+        "La pauta deberia separar regalo, tendencia y surtido para negocio."
+      ],
+      "losses": [
+        "Consultas de regalo se pierden si no hay recomendacion rapida.",
+        "Prospectos mayoristas pueden quedar sin seguimiento comercial.",
+        "La web y WhatsApp pueden medir por separado si no se conectan."
+      ],
+      "heatmapData": [
+        "Clics por categoria, material, regalo, mayorista y WhatsApp.",
+        "Abandono antes de carrito o consulta de garantia.",
+        "Intencion por ciudad, presupuesto y tipo de comprador."
+      ],
+      "campaigns": [
+        "Campana de regalos por ocasion con asesor de recomendacion.",
+        "Campana para emprendedores/mayoristas con formulario conversacional.",
+        "Remarketing a visitantes de producto sin compra."
+      ],
+      "deliverables": [
+        "Asesor para regalo, material, mayorista, envio, garantia y seguimiento.",
+        "Eventos por producto, tipo de comprador, carrito y WhatsApp.",
+        "Panel de ventas potenciales por ocasion, referencia y etapa."
+      ]
+    },
+    {
+      "slug": "mis-flores-bogota",
+      "company": "Mis Flores Bogota",
+      "instagram": "@misfloresbogota",
+      "website": "https://www.misfloresbogota.com/",
+      "sector": "floristeria y flores a domicilio",
+      "city": "Bogota",
+      "tone": "emocional, urgente y confiable",
+      "theme": "maker",
+      "brandMode": "mystic",
+      "accent": "#E76F96",
+      "secondary": "#95C46A",
+      "status": "Instagram + web activa + WhatsApp",
+      "leadProblem": "Las flores se compran con emocion y tiempo limitado. Si la persona no encuentra rapido ocasion, precio, entrega, mensaje o pago internacional, puede pedir en otra floristeria.",
+      "opportunity": "Un asesor digital de pedido floral puede guiar ocasion, presupuesto, zona, fecha, mensaje y metodo de pago antes de WhatsApp.",
+      "proofLine": "Lectura publica del 23 de junio de 2026: Instagram @misfloresbogota publica WhatsApp 3133526958, web misfloresbogota.com y pagos internacionales; la web responde HTTP 200.",
+      "audience": "Personas en Bogota y compradores internacionales que envian flores por amor, cumpleanos, condolencias o fechas especiales.",
+      "adAngle": "Flores con ocasion + entrega segura + pedido guiado",
+      "whatsappCta": "Quiero vender mas pedidos florales",
+      "heroCopy": "Un pedido floral incompleto puede perderse por una sola duda: zona, hora, mensaje o forma de pago.",
+      "brandWorldTitle": "Hacer que cada detalle llegue listo para cotizar",
+      "diagnosisTitle": "Donde se enfria el pedido",
+      "botAgentName": "Asesor Mis Flores demo",
+      "botAgentRole": "guia ocasion, entrega y pago",
+      "botTitle": "Asesor de pedido floral",
+      "botIntro": "El demo pregunta ocasion, presupuesto, zona, fecha, mensaje y pago antes de WhatsApp.",
+      "botPrompts": [
+        "Flores para hoy",
+        "Pago internacional",
+        "Ramo de cumpleanos",
+        "Mensaje personalizado",
+        "¿Que mide?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["hoy", "urgente", "entrega", "domicilio"],
+          "answer": "Pide zona, franja y ocasion para que el equipo confirme disponibilidad y entrega vigente."
+        },
+        {
+          "keywords": ["internacional", "pago", "tarjeta"],
+          "answer": "Identifica comprador fuera de Colombia y pasa la consulta a canales oficiales sin inventar metodos."
+        },
+        {
+          "keywords": ["cumple", "amor", "condolencia", "mensaje"],
+          "answer": "Clasifica ocasion y recoge texto de tarjeta, presupuesto y fecha."
+        },
+        {
+          "keywords": ["mide", "datos", "pauta"],
+          "answer": "Mide ocasion, zona, presupuesto, pago, urgencia, WhatsApp y abandono."
+        }
+      ],
+      "findings": [
+        "La marca tiene web, Instagram, WhatsApp y pagos internacionales visibles.",
+        "El pedido floral depende de ocasion, fecha, zona y mensaje.",
+        "La urgencia hace que la respuesta inmediata sea parte de la venta."
+      ],
+      "siteIssues": [
+        "La web debe llevar a un pedido completo, no solo a inspiracion.",
+        "WhatsApp deberia recibir zona, presupuesto y fecha desde el primer mensaje.",
+        "Compradores internacionales requieren confianza y seguimiento claro."
+      ],
+      "losses": [
+        "Pedidos de ultimo minuto se van con quien confirme primero.",
+        "El equipo repite preguntas de zona, mensaje y presupuesto.",
+        "La pauta de fechas especiales pierde data si no mide ocasion."
+      ],
+      "heatmapData": [
+        "Clics por ocasion, presupuesto, pago internacional y WhatsApp.",
+        "Zonas, fechas y franjas mas solicitadas.",
+        "Abandono antes de confirmar entrega o pago."
+      ],
+      "campaigns": [
+        "Campana de flores para hoy con pedido guiado.",
+        "Anuncios por ocasion: cumpleanos, amor, condolencias y fechas especiales.",
+        "Remarketing a visitantes que eligieron ocasion sin pedir."
+      ],
+      "deliverables": [
+        "Asesor para ocasion, presupuesto, zona, mensaje, pago y seguimiento.",
+        "Eventos por pedido, WhatsApp, pago y abandono.",
+        "Panel de demanda por ocasion, zona, fecha y estado."
+      ]
+    },
+    {
+      "slug": "el-cafetin-medellin",
+      "company": "Cafetin",
+      "instagram": "@el.cafetin",
+      "website": "https://www.elcafetin.co/",
+      "sector": "panaderia, cafe y domicilios",
+      "city": "Medellin",
+      "tone": "antojado, local y eficiente",
+      "theme": "maker",
+      "brandMode": "pastry",
+      "accent": "#D88A3D",
+      "secondary": "#F4D06F",
+      "status": "Instagram + web activa + domicilios",
+      "leadProblem": "Cafetin tiene producto de antojo y sedes visibles. La fuga aparece cuando la persona quiere domicilio, sede, disponibilidad o pedido especifico y debe saltar entre web, WhatsApp, telefono o apps.",
+      "opportunity": "Un asesor digital puede tomar pedido por tipo de producto, sede, direccion, hora y canal, reduciendo preguntas repetidas y midiendo que antojos generan venta.",
+      "proofLine": "Lectura publica del 23 de junio de 2026: Instagram @el.cafetin publica sedes en Medellin y contenido reciente; resultados publicos mencionan pedidos por telefono, WhatsApp, Rappi y web; elcafetin.co responde HTTP 200.",
+      "audience": "Personas en Medellin que compran panaderia, cafe, desayunos, pandebonos, tortas y domicilios.",
+      "adAngle": "Antojo local + pedido rapido + sede o domicilio claro",
+      "whatsappCta": "Quiero convertir mas antojos en pedidos",
+      "heroCopy": "El antojo dura poco. Si el cliente no sabe sede, domicilio o disponibilidad rapido, el pedido se enfria.",
+      "brandWorldTitle": "Convertir contenido de antojo en pedido medible",
+      "diagnosisTitle": "Fugas antes del domicilio",
+      "botAgentName": "Asesor Cafetin demo",
+      "botAgentRole": "guia pedido, sede y domicilio",
+      "botTitle": "Asesor de pedido rapido",
+      "botIntro": "El demo pregunta producto, sede, direccion, hora y canal antes de enviar a pedido.",
+      "botPrompts": [
+        "Quiero pandebono",
+        "Pedido a domicilio",
+        "Sede mas cercana",
+        "Torta para hoy",
+        "¿Que mide?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["pandebono", "pan", "cafe", "torta", "desayuno"],
+          "answer": "Identifica producto de interes y pide sede o direccion para orientar el pedido sin inventar disponibilidad."
+        },
+        {
+          "keywords": ["domicilio", "direccion", "rappi", "pedido"],
+          "answer": "Captura zona, producto y horario para derivar al canal correcto con contexto."
+        },
+        {
+          "keywords": ["sede", "palmas", "bolivar", "medellin"],
+          "answer": "Pregunta ubicacion aproximada y objetivo: comer en sede, recoger o pedir domicilio."
+        },
+        {
+          "keywords": ["mide", "datos", "pauta"],
+          "answer": "Mide producto, sede, canal de pedido, horario, WhatsApp y abandono."
+        }
+      ],
+      "findings": [
+        "La marca publica producto de alta antojo y sedes en Medellin.",
+        "El pedido puede pasar por web, WhatsApp, telefono o app externa.",
+        "La venta depende de resolver rapido sede, disponibilidad y domicilio."
+      ],
+      "siteIssues": [
+        "La ruta de pedido debe ser clara para sede, recogida y domicilio.",
+        "WhatsApp debe recibir producto y zona desde el primer mensaje.",
+        "La pauta de antojo necesita medir producto que genera pedido, no solo views."
+      ],
+      "losses": [
+        "El cliente hambriento compra donde le respondan mas rapido.",
+        "El equipo repite preguntas de sede, producto y direccion.",
+        "Sin medicion, no se sabe que producto de Instagram genera pedidos reales."
+      ],
+      "heatmapData": [
+        "Clics por producto, sede, domicilio, WhatsApp y app externa.",
+        "Horarios con mayor intencion de pedido.",
+        "Abandono antes de elegir canal o confirmar direccion."
+      ],
+      "campaigns": [
+        "Campana de antojo por producto estrella y horario.",
+        "Anuncios por zona/sede con pedido guiado.",
+        "Remarketing a visitantes que vieron productos sin pedir."
+      ],
+      "deliverables": [
+        "Asesor de pedido para producto, sede, domicilio, horario y seguimiento.",
+        "Eventos por producto, sede, canal, WhatsApp y pedido.",
+        "Panel de demanda por antojo, zona, horario y estado."
+      ]
     }
   ]
 }
