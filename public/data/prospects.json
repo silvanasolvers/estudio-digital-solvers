@@ -9910,6 +9910,1017 @@
         "Eventos por producto, sede, canal, WhatsApp y pedido.",
         "Panel de demanda por antojo, zona, horario y estado."
       ]
+    },
+    {
+      "slug": "islaverde-hotel",
+      "company": "IslaVerde Hotel",
+      "instagram": "@islaverde_hotel",
+      "website": "https://islaverdehotel.co/",
+      "sector": "hotel de parejas con islas privadas",
+      "city": "La Mesa, Cundinamarca",
+      "tone": "romantico, premium y directo",
+      "theme": "resort",
+      "brandMode": "forest",
+      "accent": "#42B883",
+      "secondary": "#F7D56B",
+      "status": "Instagram + web activa + WhatsApp de reservas",
+      "leadProblem": "IslaVerde vende una experiencia de alto deseo, pero la reserva se puede enfriar si la pareja no entiende rapido disponibilidad, isla, precio, forma de pago y condiciones antes de escribir por WhatsApp.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor digital que guie tipo de isla, fecha, ocasion, presupuesto y dudas de reserva, y deje cada conversacion lista para cerrar.",
+      "proofLine": "Lectura publica del 24 de junio de 2026: Instagram @islaverde_hotel muestra reservas por WhatsApp +57 320 927 8849 y web islaverdehotel.co; la web responde HTTP 200 y comunica hotel para parejas a 2 horas de Bogota.",
+      "audience": "Parejas de Bogota y Cundinamarca que buscan escapadas romanticas, celebraciones privadas y experiencias de descanso.",
+      "adAngle": "Isla privada para pareja + disponibilidad clara + reserva asistida",
+      "whatsappCta": "Quiero convertir mas reservas directas",
+      "heroCopy": "Una escapada romantica se decide con emocion, pero se cierra con claridad: fecha, isla, precio, plan y pago.",
+      "brandWorldTitle": "Convertir deseo de escapada en reserva confirmada",
+      "diagnosisTitle": "Fugas antes de reservar",
+      "botAgentName": "Asesor IslaVerde demo",
+      "botAgentRole": "guia fechas, isla y ocasion",
+      "botTitle": "Asesor de reservas romanticas",
+      "botIntro": "El demo pregunta fecha, ocasion, tipo de experiencia, presupuesto y dudas antes de enviar a WhatsApp.",
+      "botPrompts": [
+        "Quiero una isla privada",
+        "Aniversario",
+        "Disponibilidad",
+        "Como reservo",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "isla",
+            "privada",
+            "pareja",
+            "plan"
+          ],
+          "answer": "Identifica si buscan descanso, celebracion o sorpresa, y pide fecha tentativa para orientar la reserva sin inventar disponibilidad."
+        },
+        {
+          "keywords": [
+            "aniversario",
+            "cumple",
+            "romantico",
+            "sorpresa"
+          ],
+          "answer": "Captura ocasion, preferencias y extras deseados para que el equipo responda con contexto comercial."
+        },
+        {
+          "keywords": [
+            "disponibilidad",
+            "fecha",
+            "reserva",
+            "pago"
+          ],
+          "answer": "Pide fecha, numero de personas y canal de contacto, y deriva a WhatsApp con la solicitud ordenada."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide isla consultada, fecha, ocasion, WhatsApp, abandono y fuente de pauta."
+        }
+      ],
+      "findings": [
+        "La marca tiene Instagram activo, web propia y WhatsApp de reservas visible.",
+        "La promesa es de alto valor: islas privadas para parejas cerca de Bogota.",
+        "La decision depende de disponibilidad, confianza, condiciones y rapidez de respuesta."
+      ],
+      "siteIssues": [
+        "La web debe empujar al visitante a consultar fecha y plan sin perder el impulso emocional.",
+        "WhatsApp deberia llegar con isla, fecha, ocasion y dudas principales desde el primer mensaje.",
+        "La pauta romantica necesita medir reservas iniciadas, no solo visitas o reproducciones."
+      ],
+      "losses": [
+        "Una pareja motivada puede comparar hoteles y reservar donde le confirmen primero.",
+        "Preguntas repetidas sobre fecha, precio y condiciones consumen tiempo del equipo.",
+        "Sin seguimiento, consultas de aniversario o regalo pueden quedarse sin cierre."
+      ],
+      "heatmapData": [
+        "Clics por isla, fecha, disponibilidad, galeria, WhatsApp y reserva.",
+        "Abandono antes de condiciones, precio o boton de contacto.",
+        "Ocasion y fecha mas consultadas para priorizar pauta y seguimiento."
+      ],
+      "campaigns": [
+        "Campana para aniversarios y escapadas de fin de semana.",
+        "Anuncios por experiencia: privacidad, playa, piscina y celebracion.",
+        "Remarketing a visitantes que revisaron disponibilidad sin escribir."
+      ],
+      "deliverables": [
+        "Asesor digital para fecha, isla, ocasion, condiciones y seguimiento.",
+        "Eventos de reserva iniciada, WhatsApp, galeria y abandono.",
+        "Panel de demanda por fecha, ocasion, isla y fuente."
+      ]
+    },
+    {
+      "slug": "hotel-alma-boyaca",
+      "company": "Hotel Alma",
+      "instagram": "@hotelalma.co",
+      "website": "https://www.hotelalma.co/",
+      "sector": "hotel boutique y restaurante de huerta",
+      "city": "Tinjaca, Boyaca",
+      "tone": "calmado, natural y premium",
+      "theme": "resort",
+      "brandMode": "forest",
+      "accent": "#88A05A",
+      "secondary": "#E6C98B",
+      "status": "Instagram + web activa + canales de reserva",
+      "leadProblem": "Hotel Alma comunica descanso, montanas y cocina de huerta, pero la reserva puede frenarse si el visitante no resuelve rapido habitaciones, planes, restaurante, ubicacion y disponibilidad.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor que entienda tipo de viaje, fechas, numero de huespedes, experiencia gastronomica y dudas de llegada antes de WhatsApp o correo.",
+      "proofLine": "Lectura publica del 24 de junio de 2026: Instagram @hotelalma.co describe hotel en Boyaca cerca de Villa de Leyva; hotelalma.co responde HTTP 200 y publica ubicacion en Tinjaca, correo y telefono de reservas.",
+      "audience": "Parejas, familias y viajeros que buscan desconexion, naturaleza, Villa de Leyva, Raquira y experiencias gastronomicas.",
+      "adAngle": "Descanso en Boyaca + cocina de huerta + reserva guiada",
+      "whatsappCta": "Quiero llenar mas fechas con reservas directas",
+      "heroCopy": "La calma atrae; la reserva se cierra cuando fechas, habitacion, ruta y experiencia quedan claras.",
+      "brandWorldTitle": "Convertir inspiracion de viaje en solicitud completa",
+      "diagnosisTitle": "Friccion antes de la reserva",
+      "botAgentName": "Asesor Hotel Alma demo",
+      "botAgentRole": "guia fechas, plan y llegada",
+      "botTitle": "Asesor de estadia boutique",
+      "botIntro": "El demo pregunta fechas, huespedes, plan de viaje, restaurante y dudas de ubicacion antes de contacto.",
+      "botPrompts": [
+        "Fin de semana",
+        "Habitaciones",
+        "Vita Restaurant",
+        "Como llegar",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "fecha",
+            "fin",
+            "semana",
+            "reserva"
+          ],
+          "answer": "Pide fechas, numero de personas y tipo de habitacion para enviar la solicitud con contexto."
+        },
+        {
+          "keywords": [
+            "restaurante",
+            "vita",
+            "comida",
+            "huerta"
+          ],
+          "answer": "Separa interes gastronomico de alojamiento y pregunta si la visita incluye reserva de mesa o estadia."
+        },
+        {
+          "keywords": [
+            "llegar",
+            "villa",
+            "leyva",
+            "raquira",
+            "ubicacion"
+          ],
+          "answer": "Responde con orientacion general y deriva a canales oficiales para detalles de ruta actualizados."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide fechas, tipo de plan, habitacion, restaurante, WhatsApp/correo y abandono."
+        }
+      ],
+      "findings": [
+        "La marca tiene web propia, Instagram y datos de reserva publicados.",
+        "El destino combina alojamiento, naturaleza y restaurante.",
+        "La venta necesita capturar fecha, plan y tipo de experiencia desde el inicio."
+      ],
+      "siteIssues": [
+        "La web debe reducir pasos entre inspiracion y solicitud de fecha.",
+        "El contacto debe llegar con numero de personas, fechas y motivo de viaje.",
+        "Las campanas deben separar descanso, gastronomia y escapadas desde Bogota/Boyaca."
+      ],
+      "losses": [
+        "El viajero compara alojamientos y abandona si no entiende disponibilidad rapido.",
+        "El equipo responde preguntas repetidas sobre ubicacion, horarios y planes.",
+        "Sin seguimiento, consultas de fechas especiales se enfrian."
+      ],
+      "heatmapData": [
+        "Clics por habitacion, restaurante, ubicacion, reserva y WhatsApp/correo.",
+        "Fechas y tipos de plan mas consultados.",
+        "Abandono antes de enviar solicitud de reserva."
+      ],
+      "campaigns": [
+        "Campana de escapada boutique cerca de Villa de Leyva.",
+        "Anuncios de cocina de huerta + estadia.",
+        "Remarketing a visitantes que revisaron habitaciones sin consultar."
+      ],
+      "deliverables": [
+        "Asesor para fechas, huespedes, restaurante, llegada y seguimiento.",
+        "Eventos por habitacion, reserva, restaurante y fuente.",
+        "Panel de oportunidades por fecha, plan y canal."
+      ]
+    },
+    {
+      "slug": "atardeceres-del-cafe-manizales",
+      "company": "Atardeceres del Cafe",
+      "instagram": "@atardeceresdelcafe",
+      "website": "https://www.atardeceresdelcafe.com/",
+      "sector": "hotel boutique y glamping",
+      "city": "Manizales, Caldas",
+      "tone": "natural, romantico y confiable",
+      "theme": "resort",
+      "brandMode": "forest",
+      "accent": "#C2843B",
+      "secondary": "#79A65A",
+      "status": "Instagram + web activa + WhatsApp",
+      "leadProblem": "Atardeceres del Cafe vende una experiencia visual fuerte, pero la reserva puede quedarse en admiracion si el visitante no decide rapido entre glamping, fechas, precio, ubicacion y condiciones.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor digital que filtre fechas, tipo de alojamiento, ocasion, numero de personas y preguntas frecuentes antes de WhatsApp.",
+      "proofLine": "Lectura publica del 24 de junio de 2026: Instagram @atardeceresdelcafe ubica el hotel en Bajo Tablazo, Manizales; atardeceresdelcafe.com responde HTTP 200 y comunica glamping-hotel a 15 minutos de Manizales.",
+      "audience": "Parejas y viajeros del Eje Cafetero que buscan descanso, paisaje, cafe, jacuzzi y escapadas romanticas.",
+      "adAngle": "Atardecer cafetero + glamping boutique + reserva asistida",
+      "whatsappCta": "Quiero convertir mas visitas en reservas",
+      "heroCopy": "Una vista enamora, pero la reserva se gana cuando fechas, alojamiento y condiciones quedan claras.",
+      "brandWorldTitle": "Convertir paisaje en reserva directa",
+      "diagnosisTitle": "Fugas entre inspiracion y WhatsApp",
+      "botAgentName": "Asesor Atardeceres demo",
+      "botAgentRole": "guia glamping, fechas y ocasion",
+      "botTitle": "Asesor de experiencia cafetera",
+      "botIntro": "El demo pregunta fecha, tipo de glamping, ocasion, numero de personas y dudas de llegada.",
+      "botPrompts": [
+        "Glamping boutique",
+        "Aniversario",
+        "Disponibilidad",
+        "Ubicacion",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "glamping",
+            "habitacion",
+            "jacuzzi",
+            "boutique"
+          ],
+          "answer": "Identifica alojamiento de interes y pide fecha tentativa para que el equipo confirme opciones vigentes."
+        },
+        {
+          "keywords": [
+            "aniversario",
+            "romantico",
+            "cumple",
+            "sorpresa"
+          ],
+          "answer": "Captura ocasion y preferencias para llevar una conversacion mas vendedora a WhatsApp."
+        },
+        {
+          "keywords": [
+            "ubicacion",
+            "manizales",
+            "llegar",
+            "tablazo"
+          ],
+          "answer": "Orienta sobre la zona publicada y deriva a canales oficiales para ruta y condiciones actualizadas."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide alojamiento, fecha, ocasion, WhatsApp, abandono y fuente."
+        }
+      ],
+      "findings": [
+        "La marca tiene perfil, web y WhatsApp visibles.",
+        "La oferta combina naturaleza, cafe, descanso y alojamiento boutique.",
+        "La decision depende de fecha, tipo de experiencia y confianza en la reserva."
+      ],
+      "siteIssues": [
+        "La web debe llevar a consultar disponibilidad sin perder la emocion del contenido.",
+        "WhatsApp debe recibir fecha, personas y alojamiento desde el primer mensaje.",
+        "La pauta necesita diferenciar escapada romantica, regalo y descanso familiar."
+      ],
+      "losses": [
+        "Visitantes inspirados pueden guardar el post y no consultar nunca.",
+        "El equipo repite preguntas de fecha, personas y tipo de alojamiento.",
+        "Sin remarketing, quienes comparan glampings no reciben seguimiento."
+      ],
+      "heatmapData": [
+        "Clics por glamping, fechas, ubicacion, galeria y WhatsApp.",
+        "Motivos de viaje mas consultados.",
+        "Abandono antes de disponibilidad o contacto."
+      ],
+      "campaigns": [
+        "Campana de escapada romantica en el Eje Cafetero.",
+        "Anuncios por experiencia: jacuzzi, vista y cafe.",
+        "Remarketing a visitantes que vieron alojamiento sin reservar."
+      ],
+      "deliverables": [
+        "Asesor para fechas, glamping, ocasion, ubicacion y seguimiento.",
+        "Eventos por reserva, WhatsApp, galeria y abandono.",
+        "Panel de demanda por fecha, alojamiento y fuente."
+      ]
+    },
+    {
+      "slug": "saira-muebles-bogota",
+      "company": "Saira Muebles",
+      "instagram": "@sairamuebles",
+      "website": "https://mueblessaira.com/",
+      "sector": "muebles para el hogar",
+      "city": "Bogota",
+      "tone": "comercial, asesor y familiar",
+      "theme": "maker",
+      "brandMode": "texuno",
+      "accent": "#9A6B44",
+      "secondary": "#F0B84A",
+      "status": "Instagram + ecommerce activo + showrooms",
+      "leadProblem": "Saira ya tiene ecommerce, fabricacion propia y showrooms, pero una compra de muebles se frena si la persona no resuelve medidas, entrega, financiacion, garantia, color y disponibilidad antes de decidir.",
+      "opportunity": "Mejorar la conversion de la web actual conectando producto visto, ciudad, medidas, forma de pago y dudas a un asesor digital que deje cada WhatsApp listo para cierre.",
+      "proofLine": "Lectura publica del 24 de junio de 2026: Instagram @sairamuebles muestra fabricante directo en Bogota y telefono 323 221 2542; mueblessaira.com responde HTTP 200 y publica showrooms, categorias, pagos y condiciones.",
+      "audience": "Familias y compradores de Bogota que buscan salas, comedores, camas, poltronas y combos para el hogar.",
+      "adAngle": "Mueble fabricado en Bogota + asesoria por espacio + cierre por WhatsApp",
+      "whatsappCta": "Quiero vender mas muebles con contexto",
+      "heroCopy": "Un sofa no se vende solo con una foto: necesita medidas, entrega, pago, garantia y seguimiento.",
+      "brandWorldTitle": "Convertir catalogo en cotizaciones listas",
+      "diagnosisTitle": "Fugas antes del cierre",
+      "botAgentName": "Asesor Saira demo",
+      "botAgentRole": "guia producto, medida y pago",
+      "botTitle": "Asesor de muebles para hogar",
+      "botIntro": "El demo pregunta producto, medidas, ciudad, forma de pago y urgencia antes de WhatsApp.",
+      "botPrompts": [
+        "Quiero una sala",
+        "Medidas del espacio",
+        "Financiacion",
+        "Garantia",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sala",
+            "sofa",
+            "comedor",
+            "cama",
+            "poltrona"
+          ],
+          "answer": "Identifica categoria y pide medidas, color, ciudad y fecha ideal de entrega."
+        },
+        {
+          "keywords": [
+            "financiacion",
+            "pago",
+            "addi",
+            "credito",
+            "cuotas"
+          ],
+          "answer": "Clasifica interes de pago y deriva a condiciones oficiales sin prometer aprobaciones."
+        },
+        {
+          "keywords": [
+            "garantia",
+            "devolucion",
+            "entrega",
+            "envio"
+          ],
+          "answer": "Recoge producto y ciudad para que el equipo confirme condiciones vigentes con contexto."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide categoria, producto, medidas, forma de pago, WhatsApp y carrito."
+        }
+      ],
+      "findings": [
+        "La marca tiene ecommerce activo, Instagram, telefono y showrooms visibles.",
+        "La compra requiere informacion tecnica y confianza postventa.",
+        "La pauta de producto debe separar curiosos de compradores con espacio definido."
+      ],
+      "siteIssues": [
+        "WhatsApp deberia recibir producto visto, medidas y forma de pago.",
+        "La web puede recuperar carritos y visitantes por categoria con mensajes distintos.",
+        "Las condiciones comerciales deben aparecer en la ruta de decision sin abrumar."
+      ],
+      "losses": [
+        "Cotizaciones incompletas se demoran y el cliente compara con otra tienda.",
+        "El equipo repite preguntas sobre medidas, entrega y financiacion.",
+        "Sin seguimiento, visitantes de combos y ofertas se pierden."
+      ],
+      "heatmapData": [
+        "Clics por categoria, producto, financiacion, garantia y WhatsApp.",
+        "Abandono antes de carrito, condiciones o contacto.",
+        "Categorias con mayor intencion por campana."
+      ],
+      "campaigns": [
+        "Campana por categoria: salas, comedores y combos.",
+        "Anuncios de fabricacion propia + entrega en Bogota.",
+        "Remarketing a visitantes que vieron producto sin cotizar."
+      ],
+      "deliverables": [
+        "Asesor para producto, medidas, ciudad, pago, entrega y seguimiento.",
+        "Eventos por categoria, carrito, WhatsApp y fuente.",
+        "Panel de oportunidades por producto, presupuesto y estado."
+      ]
+    },
+    {
+      "slug": "macizo-colombia",
+      "company": "Macizo Colombia",
+      "instagram": "@macizocolombia",
+      "website": "https://www.macizocolombia.com/",
+      "sector": "muebles modernos a medida",
+      "city": "Bogota",
+      "tone": "solido, tecnico y confiable",
+      "theme": "maker",
+      "brandMode": "texuno",
+      "accent": "#7B5434",
+      "secondary": "#D8A45A",
+      "status": "Instagram + web activa + WhatsApp",
+      "leadProblem": "Macizo vende diseno, fabricacion e instalacion; esa venta pierde fuerza si la consulta llega sin medidas, espacio, material, referencia, ciudad y presupuesto.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor digital que arme brief de proyecto antes de WhatsApp y separe hogar, oficina, remodelacion o mueble puntual.",
+      "proofLine": "Lectura publica del 24 de junio de 2026: Instagram @macizocolombia publica muebles modernos personalizados, PBX, WhatsApp 322 211 9698 y web macizocolombia.com; la web responde HTTP 200.",
+      "audience": "Hogares, arquitectos, oficinas y compradores que necesitan muebles en madera o proyectos a medida.",
+      "adAngle": "Mueble a medida + brief guiado + cotizacion profesional",
+      "whatsappCta": "Quiero cotizaciones con brief completo",
+      "heroCopy": "Cuando el proyecto llega sin medidas ni referencia, la venta arranca tarde.",
+      "brandWorldTitle": "Convertir inspiracion en brief tecnico",
+      "diagnosisTitle": "Fugas antes de cotizar",
+      "botAgentName": "Asesor Macizo demo",
+      "botAgentRole": "arma brief de proyecto",
+      "botTitle": "Asesor de muebles a medida",
+      "botIntro": "El demo pregunta espacio, medidas, material, ciudad, referencia y presupuesto antes de WhatsApp.",
+      "botPrompts": [
+        "Proyecto a medida",
+        "Tengo medidas",
+        "Mueble oficina",
+        "Instalacion",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "medida",
+            "proyecto",
+            "mueble",
+            "madera"
+          ],
+          "answer": "Convierte la consulta en brief: tipo de mueble, medidas, referencia, material y ciudad."
+        },
+        {
+          "keywords": [
+            "oficina",
+            "empresa",
+            "remodelacion",
+            "instalacion"
+          ],
+          "answer": "Separa proyecto corporativo de hogar y pide alcance, tiempos y ubicacion."
+        },
+        {
+          "keywords": [
+            "precio",
+            "cotizar",
+            "presupuesto"
+          ],
+          "answer": "Pide rango y detalles tecnicos para evitar una cotizacion incompleta."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide categoria, medidas entregadas, presupuesto, ciudad, WhatsApp y estado de cotizacion."
+        }
+      ],
+      "findings": [
+        "La marca comunica fabricacion personalizada y canales de contacto claros.",
+        "El proceso necesita brief antes de precio.",
+        "La pauta visual debe capturar datos tecnicos, no solo likes de inspiracion."
+      ],
+      "siteIssues": [
+        "WhatsApp debe recibir medidas y referencia para reducir friccion.",
+        "La web puede separar proyectos de hogar, oficina e instalacion.",
+        "El seguimiento debe recordar cotizaciones abiertas por tipo de proyecto."
+      ],
+      "losses": [
+        "Leads sin medidas consumen tiempo y se enfrian.",
+        "Clientes comparan con marcas que responden con una ruta mas estructurada.",
+        "La pauta puede generar consultas de precio sin informacion para cerrar."
+      ],
+      "heatmapData": [
+        "Clics por categoria, medidas, proyectos, WhatsApp y formulario.",
+        "Abandono antes de enviar referencia o cotizar.",
+        "Tipos de proyecto con mayor intencion."
+      ],
+      "campaigns": [
+        "Campana de muebles a medida por espacio.",
+        "Anuncios para oficinas y proyectos corporativos.",
+        "Remarketing a visitantes que vieron categoria sin cotizar."
+      ],
+      "deliverables": [
+        "Asesor para brief, medidas, referencias, ciudad, presupuesto y seguimiento.",
+        "Eventos por categoria, cotizacion, WhatsApp y fuente.",
+        "Panel de proyectos por tipo, estado y prioridad."
+      ]
+    },
+    {
+      "slug": "galeria-murano-medellin",
+      "company": "Galeria Murano",
+      "instagram": "@muranogaleria",
+      "website": "https://www.galeriamurano.com/",
+      "sector": "mobiliario para hogar y proyectos",
+      "city": "Medellin / Envigado",
+      "tone": "diseño, calido y asesor",
+      "theme": "maker",
+      "brandMode": "texuno",
+      "accent": "#A06B4F",
+      "secondary": "#B7A27A",
+      "status": "Instagram + web activa + asesoria por WhatsApp",
+      "leadProblem": "Galeria Murano vende piezas con diseño y proyectos, pero una consulta de mobiliario se pierde si llega como inspiracion suelta sin espacio, medidas, uso, ciudad y presupuesto.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor que transforme cada visita en brief de espacio y priorice hogar, proyecto institucional o pieza puntual.",
+      "proofLine": "Lectura publica del 24 de junio de 2026: Instagram @muranogaleria comunica mobiliario para hogar/proyectos y tienda; publicaciones publicas mencionan asesoria WhatsApp 315 320 1536 y web galeriamurano.com, que responde HTTP 200.",
+      "audience": "Personas renovando hogar, interioristas y compradores de mobiliario para proyectos en Medellin y otras ciudades.",
+      "adAngle": "Mobiliario con diseño + asesoria de espacio + cotizacion guiada",
+      "whatsappCta": "Quiero convertir inspiracion en cotizaciones",
+      "heroCopy": "La inspiracion vende cuando se convierte en una decision: espacio, pieza, medidas y presupuesto.",
+      "brandWorldTitle": "Llevar cada visita a una asesoria con contexto",
+      "diagnosisTitle": "Fugas antes de asesorar",
+      "botAgentName": "Asesor Murano demo",
+      "botAgentRole": "guia espacio y proyecto",
+      "botTitle": "Asesor de mobiliario y diseño",
+      "botIntro": "El demo pregunta espacio, pieza, uso, medidas, ciudad y presupuesto antes de WhatsApp.",
+      "botPrompts": [
+        "Quiero renovar sala",
+        "Proyecto institucional",
+        "Tengo una referencia",
+        "Envio",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sala",
+            "comedor",
+            "mueble",
+            "pieza",
+            "espacio"
+          ],
+          "answer": "Identifica espacio, estilo, medidas y pieza de interes para preparar una asesoria real."
+        },
+        {
+          "keywords": [
+            "proyecto",
+            "institucional",
+            "empresa",
+            "interiorista"
+          ],
+          "answer": "Separa proyecto de hogar y pide alcance, ciudad, tiempos y responsable de compra."
+        },
+        {
+          "keywords": [
+            "envio",
+            "ciudad",
+            "tienda",
+            "asesoria"
+          ],
+          "answer": "Captura ciudad y modalidad de compra para que el equipo confirme condiciones oficiales."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide espacio, categoria, ciudad, presupuesto, WhatsApp y estado de asesoria."
+        }
+      ],
+      "findings": [
+        "La marca tiene Instagram, web y asesoria por WhatsApp visibles.",
+        "La oferta combina mobiliario de hogar y proyectos.",
+        "La venta necesita entender espacio y uso antes de cotizar."
+      ],
+      "siteIssues": [
+        "La web debe capturar contexto antes de sacar al usuario a WhatsApp.",
+        "Los proyectos institucionales requieren ruta distinta a compra personal.",
+        "La pauta debe medir espacios y categorias, no solo trafico."
+      ],
+      "losses": [
+        "Consultas inspiracionales pueden quedar sin datos para cerrar.",
+        "El equipo repite preguntas de medida, ciudad y estilo.",
+        "Proyectos de mayor valor pueden mezclarse con consultas pequenas."
+      ],
+      "heatmapData": [
+        "Clics por espacio, categoria, proyecto, tienda y WhatsApp.",
+        "Abandono antes de asesoria o envio de referencia.",
+        "Tipos de proyecto con mayor valor potencial."
+      ],
+      "campaigns": [
+        "Campana por espacios del hogar.",
+        "Anuncios para proyectos institucionales/interiorismo.",
+        "Remarketing a visitantes que vieron piezas sin pedir asesoria."
+      ],
+      "deliverables": [
+        "Asesor para espacio, medidas, proyecto, ciudad, presupuesto y seguimiento.",
+        "Eventos por categoria, asesoria, WhatsApp y fuente.",
+        "Panel de oportunidades por espacio, tipo de cliente y estado."
+      ]
+    },
+    {
+      "slug": "harvi-decoraciones",
+      "company": "Harvi Decoraciones",
+      "instagram": "@harvidecoraciones",
+      "website": "https://www.harvi.com/",
+      "sector": "muebles y decoracion",
+      "city": "Barranquilla",
+      "tone": "hogar, comercial y cercano",
+      "theme": "maker",
+      "brandMode": "texuno",
+      "accent": "#7E8F69",
+      "secondary": "#E3B454",
+      "status": "Instagram + web activa + sedes y WhatsApp",
+      "leadProblem": "Harvi tiene producto, sedes y web, pero la compra puede frenarse si la persona no conecta referencia, medidas, sede, entrega, garantia y presupuesto antes de hablar con ventas.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor digital que clasifique sala, comedor, accesorios o proyecto, y mande a WhatsApp con contexto de compra.",
+      "proofLine": "Lectura publica del 24 de junio de 2026: Instagram @harvidecoraciones publica web harvi.com, telefono, WhatsApp +57 322 687 9521 y sedes en Barranquilla; harvi.com responde HTTP 200.",
+      "audience": "Hogares de Barranquilla y la Costa que buscan salas, comedores, reclinables, accesorios y decoracion.",
+      "adAngle": "Renueva tu espacio + sede cercana + asesoria inmediata",
+      "whatsappCta": "Quiero convertir mas visitas en ventas",
+      "heroCopy": "Una sala nueva se decide mejor cuando referencia, medidas, entrega y presupuesto llegan ordenados.",
+      "brandWorldTitle": "Convertir visitas y reels en ventas medibles",
+      "diagnosisTitle": "Fugas entre catalogo y WhatsApp",
+      "botAgentName": "Asesor Harvi demo",
+      "botAgentRole": "guia producto, sede y entrega",
+      "botTitle": "Asesor de muebles y decoracion",
+      "botIntro": "El demo pregunta categoria, medidas, sede, entrega, presupuesto y prioridad de compra.",
+      "botPrompts": [
+        "Sala reclinable",
+        "Visitar sede",
+        "Entrega en Barranquilla",
+        "Accesorios",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sala",
+            "comedor",
+            "reclinable",
+            "mueble"
+          ],
+          "answer": "Identifica producto y pide medidas, estilo, sede preferida y rango de presupuesto."
+        },
+        {
+          "keywords": [
+            "sede",
+            "barranquilla",
+            "outlet",
+            "visitar"
+          ],
+          "answer": "Captura ubicacion e interes para orientar visita sin inventar disponibilidad."
+        },
+        {
+          "keywords": [
+            "entrega",
+            "envio",
+            "garantia",
+            "precio"
+          ],
+          "answer": "Pide producto y ciudad para que el equipo confirme condiciones vigentes con contexto."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide categoria, sede, producto, WhatsApp, visita a tienda y abandono."
+        }
+      ],
+      "findings": [
+        "La marca tiene Instagram, web, sedes y WhatsApp publicados.",
+        "El negocio depende de producto visible y asesoria de compra.",
+        "La pauta debe conectar inspiracion con visita, cotizacion o WhatsApp."
+      ],
+      "siteIssues": [
+        "WhatsApp deberia recibir producto, sede y presupuesto.",
+        "La web puede segmentar visitantes por categoria y urgencia.",
+        "Las sedes deben convertirse en una accion medible desde pauta."
+      ],
+      "losses": [
+        "Clientes comparan muebles y compran donde reciben guia mas rapida.",
+        "El equipo repite preguntas de referencia, sede y entrega.",
+        "Sin seguimiento, visitantes de ofertas no vuelven a consultar."
+      ],
+      "heatmapData": [
+        "Clics por categoria, sede, WhatsApp, oferta y garantia.",
+        "Abandono antes de consulta o visita.",
+        "Categorias con mayor intencion por fuente."
+      ],
+      "campaigns": [
+        "Campana por categorias estrella y sedes.",
+        "Anuncios de renovacion de hogar con asesoria guiada.",
+        "Remarketing a visitantes de producto sin WhatsApp."
+      ],
+      "deliverables": [
+        "Asesor para producto, medidas, sede, entrega, presupuesto y seguimiento.",
+        "Eventos por categoria, sede, WhatsApp y fuente.",
+        "Panel de ventas potenciales por producto y estado."
+      ]
+    },
+    {
+      "slug": "builes-bakery-medellin",
+      "company": "Builes Bakery",
+      "instagram": "@builesbakery",
+      "sector": "reposteria creativa y tortas personalizadas",
+      "city": "Medellin",
+      "tone": "creativo, urbano y antojado",
+      "theme": "maker",
+      "brandMode": "pastry",
+      "accent": "#F38BA8",
+      "secondary": "#F6C85F",
+      "status": "Instagram + WhatsApp, sin web propia confiable verificada",
+      "leadProblem": "Builes Bakery tiene comunidad y producto visual fuerte, pero si el pedido vive solo en Instagram y WhatsApp, cada cliente debe preguntar fecha, tamano, sabor, diseno, entrega y precio manualmente.",
+      "opportunity": "Crear una landing clara con catalogo de estilos, proceso de pedido, tiempos, preguntas frecuentes y asesor digital para tortas personalizadas antes de WhatsApp.",
+      "proofLine": "Lectura publica del 24 de junio de 2026: Instagram @builesbakery muestra House of cool things, Medellin, pedidos por WhatsApp 323 453 0888 y perfiles relacionados @buileslab/@builesgelato; no se verifico web propia confiable.",
+      "audience": "Personas en Medellin que compran tortas creativas para cumpleanos, celebraciones, regalos y eventos.",
+      "adAngle": "Torta unica + cotizacion guiada + pedido por WhatsApp con contexto",
+      "whatsappCta": "Quiero ordenar pedidos personalizados",
+      "heroCopy": "Una torta personalizada no se cotiza con un solo mensaje: necesita fecha, personas, diseno, sabor y entrega.",
+      "brandWorldTitle": "Convertir reels de tortas en pedidos completos",
+      "diagnosisTitle": "Fugas antes de cotizar",
+      "botAgentName": "Asesor Builes demo",
+      "botAgentRole": "guia diseno, fecha y pedido",
+      "botTitle": "Asesor de tortas personalizadas",
+      "botIntro": "El demo pregunta fecha, porciones, idea visual, sabor, entrega y presupuesto antes de WhatsApp.",
+      "botPrompts": [
+        "Torta para cumpleanos",
+        "Tengo una referencia",
+        "Pedido urgente",
+        "Sabores",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cumple",
+            "torta",
+            "cake",
+            "celebracion"
+          ],
+          "answer": "Pide fecha, numero de personas, estilo y presupuesto para armar una cotizacion util."
+        },
+        {
+          "keywords": [
+            "referencia",
+            "diseno",
+            "foto",
+            "personalizada"
+          ],
+          "answer": "Solicita referencia visual y prioridad: estetica, sabor, tamano o fecha."
+        },
+        {
+          "keywords": [
+            "urgente",
+            "hoy",
+            "manana",
+            "entrega"
+          ],
+          "answer": "Identifica urgencia y deriva al equipo para validar capacidad sin prometer disponibilidad."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide fecha, tipo de torta, porciones, WhatsApp, presupuesto y estado del pedido."
+        }
+      ],
+      "findings": [
+        "La marca tiene Instagram activo, WhatsApp de pedidos y comunidad visible.",
+        "El producto requiere cotizacion personalizada antes de cerrar.",
+        "Sin landing, Instagram inspira pero no ordena el proceso de compra."
+      ],
+      "siteIssues": [
+        "Hace falta una pagina propia que explique como pedir, tiempos y datos necesarios.",
+        "WhatsApp debe recibir fecha, porciones, diseno y presupuesto desde el primer mensaje.",
+        "La pauta de tortas debe medir solicitudes completas, no solo guardados."
+      ],
+      "losses": [
+        "Pedidos con poca informacion consumen tiempo y se enfrian.",
+        "Clientes urgentes buscan otra pasteleria si no entienden disponibilidad rapido.",
+        "Ideas guardadas en Instagram no siempre se convierten en pedido."
+      ],
+      "heatmapData": [
+        "Clics por estilo, porciones, sabores, fechas y WhatsApp.",
+        "Abandono antes de enviar referencia o confirmar fecha.",
+        "Tipos de celebracion con mayor valor."
+      ],
+      "campaigns": [
+        "Campana de tortas para cumpleanos y fechas especiales.",
+        "Anuncios por estilos visuales con cotizador guiado.",
+        "Remarketing a visitantes que eligieron estilo sin pedir."
+      ],
+      "deliverables": [
+        "Landing de pedidos con estilos, proceso, tiempos, FAQ y WhatsApp.",
+        "Asesor para fecha, porciones, diseno, sabor, entrega y seguimiento.",
+        "Panel de pedidos por fecha, tipo, presupuesto y estado."
+      ]
+    },
+    {
+      "slug": "felipan-bogota",
+      "company": "Felipan Bogota",
+      "instagram": "@felipanbogota",
+      "website": "https://www.felipan.com/",
+      "sector": "panaderia, pasteleria y pedidos online",
+      "city": "Bogota",
+      "tone": "tradicional, rapido y familiar",
+      "theme": "maker",
+      "brandMode": "pastry",
+      "accent": "#D9903D",
+      "secondary": "#F2D06B",
+      "status": "Instagram + web activa + WhatsApp",
+      "leadProblem": "Felipan tiene sedes, pedidos online y WhatsApp, pero la venta se enfria si el cliente no encuentra rapido producto, sede, horario, domicilio o disponibilidad para hoy.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor de pedido que guie producto, sede, hora, direccion y canal antes de WhatsApp o compra online.",
+      "proofLine": "Lectura publica del 24 de junio de 2026: Instagram @felipanbogota publica pedidos en felipan.com, WhatsApp 319 217 9525 y sedes Marly/Prado con horarios; felipan.com responde HTTP 200.",
+      "audience": "Personas en Bogota que compran panaderia, pasteleria, desayunos, tortas y pedidos para llevar o domicilio.",
+      "adAngle": "Producto fresco + sede clara + pedido rapido",
+      "whatsappCta": "Quiero convertir mas antojos en pedidos",
+      "heroCopy": "El antojo no espera: si sede, horario y pedido no estan claros, el cliente compra en otro lado.",
+      "brandWorldTitle": "Convertir busquedas y reels en pedidos medibles",
+      "diagnosisTitle": "Fugas antes del pedido",
+      "botAgentName": "Asesor Felipan demo",
+      "botAgentRole": "guia producto, sede y domicilio",
+      "botTitle": "Asesor de pedido rapido",
+      "botIntro": "El demo pregunta producto, sede, horario, direccion y urgencia antes de derivar al canal correcto.",
+      "botPrompts": [
+        "Torta para hoy",
+        "Sede Marly",
+        "Pedido a domicilio",
+        "Horario",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "torta",
+            "pan",
+            "pastel",
+            "desayuno"
+          ],
+          "answer": "Identifica producto y pide sede o direccion para orientar el pedido sin inventar disponibilidad."
+        },
+        {
+          "keywords": [
+            "sede",
+            "marly",
+            "prado",
+            "horario"
+          ],
+          "answer": "Captura sede de interes y momento de compra para derivar a la ruta adecuada."
+        },
+        {
+          "keywords": [
+            "domicilio",
+            "pedido",
+            "whatsapp",
+            "online"
+          ],
+          "answer": "Pide producto, zona y hora para que WhatsApp o la web reciban contexto."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide producto, sede, horario, WhatsApp, pedido online y abandono."
+        }
+      ],
+      "findings": [
+        "La marca tiene Instagram, web, WhatsApp y sedes publicadas.",
+        "El pedido depende de producto, sede, horario y disponibilidad.",
+        "La pauta debe convertir antojo en pedido, no solo trafico al perfil."
+      ],
+      "siteIssues": [
+        "La ruta entre Instagram, web y WhatsApp debe mantener el producto consultado.",
+        "WhatsApp deberia recibir sede, producto y hora desde el primer mensaje.",
+        "Las campanas pueden segmentarse por sede y horario de mayor demanda."
+      ],
+      "losses": [
+        "Clientes de antojo compran donde el pedido sea mas facil.",
+        "El equipo repite preguntas sobre sede, horario y producto.",
+        "Sin seguimiento, visitas a producto no se convierten en recompra."
+      ],
+      "heatmapData": [
+        "Clics por producto, sede, horario, domicilio y WhatsApp.",
+        "Abandono antes de elegir canal de pedido.",
+        "Productos y franjas con mayor intencion."
+      ],
+      "campaigns": [
+        "Campana de productos de antojo por horario.",
+        "Anuncios por sede y zona de domicilio.",
+        "Remarketing a visitantes que vieron tortas o panaderia sin pedir."
+      ],
+      "deliverables": [
+        "Asesor para producto, sede, horario, domicilio y seguimiento.",
+        "Eventos por producto, sede, pedido online, WhatsApp y fuente.",
+        "Panel de demanda por antojo, zona y franja."
+      ]
+    },
+    {
+      "slug": "ty-postre-el-retiro",
+      "company": "T& Postre",
+      "instagram": "@typostre_",
+      "sector": "reposteria artesanal y cafe",
+      "city": "El Retiro, Antioquia",
+      "tone": "artesanal, calmo y cercano",
+      "theme": "maker",
+      "brandMode": "pastry",
+      "accent": "#B8755C",
+      "secondary": "#F2C46D",
+      "status": "Instagram + punto fisico + WhatsApp, sin web propia confiable verificada",
+      "leadProblem": "T& Postre tiene producto artesanal y punto fisico, pero si todo depende de Instagram y WhatsApp, pedidos, reservas empresariales y visitantes llegan sin contexto de fecha, cantidad, sede o tipo de postre.",
+      "opportunity": "Crear una landing clara con carta base, ubicacion, pedidos, experiencias empresariales y asesor digital para ordenar solicitudes antes de WhatsApp.",
+      "proofLine": "Lectura publica del 24 de junio de 2026: Instagram @typostre_ describe reposteria artesanal en El Retiro, La Fe Mall local 37; publicaciones publicas muestran pedidos por WhatsApp 316 795 3533. No se verifico web propia confiable.",
+      "audience": "Personas en El Retiro/Oriente antioqueno que buscan postres, cafe, regalos, pedidos y pausas artesanales.",
+      "adAngle": "Postre artesanal + pedido claro + visita al local",
+      "whatsappCta": "Quiero ordenar pedidos y visitas",
+      "heroCopy": "Un postre se antoja rapido, pero el pedido necesita fecha, cantidad, producto y entrega claros.",
+      "brandWorldTitle": "Convertir antojo y visita en pedido organizado",
+      "diagnosisTitle": "Fugas antes de pedir",
+      "botAgentName": "Asesor T& Postre demo",
+      "botAgentRole": "guia pedidos, visita y eventos",
+      "botTitle": "Asesor de reposteria artesanal",
+      "botIntro": "El demo pregunta producto, fecha, cantidad, entrega, visita al local o solicitud empresarial.",
+      "botPrompts": [
+        "Postre para hoy",
+        "Pedido empresarial",
+        "Visitar el local",
+        "Milhojas",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "postre",
+            "milhoja",
+            "torta",
+            "cafe"
+          ],
+          "answer": "Identifica producto y pregunta si es para consumir en local, recoger o pedir por WhatsApp."
+        },
+        {
+          "keywords": [
+            "empresa",
+            "equipo",
+            "evento",
+            "cantidad"
+          ],
+          "answer": "Separa pedido empresarial y captura fecha, cantidad, direccion y responsable."
+        },
+        {
+          "keywords": [
+            "local",
+            "retiro",
+            "mall",
+            "visitar"
+          ],
+          "answer": "Orienta hacia la ubicacion publicada y pregunta momento de visita o pedido."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide producto, fecha, cantidad, tipo de pedido, WhatsApp y visita."
+        }
+      ],
+      "findings": [
+        "La marca tiene Instagram, punto fisico y WhatsApp de pedidos visibles.",
+        "La oferta mezcla consumo en local, regalos y pedidos.",
+        "Sin landing, las preguntas se repiten y la pauta queda sin data propia."
+      ],
+      "siteIssues": [
+        "Hace falta una pagina propia con carta base, ubicacion, pedidos y FAQ.",
+        "WhatsApp debe recibir producto, fecha y cantidad desde el primer mensaje.",
+        "Los pedidos empresariales necesitan una ruta distinta a un antojo individual."
+      ],
+      "losses": [
+        "Interesados guardan el reel y no completan pedido.",
+        "El equipo repite preguntas sobre fecha, cantidad y disponibilidad.",
+        "Sin pixel ni landing, no hay remarketing a visitantes del Oriente antioqueno."
+      ],
+      "heatmapData": [
+        "Clics por producto, ubicacion, pedido empresarial y WhatsApp.",
+        "Abandono antes de fecha o cantidad.",
+        "Productos con mayor intencion por temporada."
+      ],
+      "campaigns": [
+        "Campana local para postres y cafe en El Retiro.",
+        "Anuncios de pedidos empresariales con formulario conversacional.",
+        "Remarketing a visitantes que vieron carta sin escribir."
+      ],
+      "deliverables": [
+        "Landing con carta base, ubicacion, pedidos, FAQ y WhatsApp.",
+        "Asesor para producto, fecha, cantidad, entrega y seguimiento.",
+        "Panel de demanda por producto, tipo de pedido y estado."
+      ]
     }
   ]
 }
