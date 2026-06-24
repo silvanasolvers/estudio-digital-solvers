@@ -3335,6 +3335,175 @@
       font-weight: 950;
     }
 
+    .conversion-hub {
+      display: grid;
+      grid-template-columns: minmax(0, 0.76fr) minmax(320px, 0.64fr);
+      gap: 18px;
+      align-items: stretch;
+      margin-top: 28px;
+    }
+
+    .services-panel,
+    .lead-panel {
+      padding: clamp(20px, 3vw, 28px);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      background:
+        linear-gradient(145deg, rgba(255, 255, 255, 0.12), rgba(255, 255, 255, 0.04)),
+        rgba(255, 255, 255, 0.05);
+    }
+
+    .services-panel span,
+    .lead-panel span {
+      display: block;
+      color: var(--accent);
+      font-size: 12px;
+      font-weight: 950;
+      text-transform: uppercase;
+    }
+
+    .services-panel h3,
+    .lead-panel h3 {
+      margin: 10px 0 0;
+      color: #fff;
+      font-size: clamp(26px, 4vw, 42px);
+      line-height: 1;
+    }
+
+    .services-panel p,
+    .lead-panel p {
+      margin: 14px 0 0;
+      color: #c9cdc5;
+      font-weight: 650;
+    }
+
+    .services-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 22px;
+    }
+
+    .service-button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 44px;
+      padding: 0 14px;
+      border: 1px solid color-mix(in srgb, var(--accent) 58%, transparent);
+      border-radius: var(--radius);
+      color: #07100c;
+      background: var(--accent);
+      font-size: 13px;
+      font-weight: 950;
+    }
+
+    .service-button.secondary {
+      color: #fff;
+      background: rgba(255, 255, 255, 0.07);
+    }
+
+    .lead-form {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+      margin-top: 18px;
+    }
+
+    .lead-form label {
+      display: grid;
+      gap: 6px;
+      color: #cbd0c8;
+      font-size: 12px;
+      font-weight: 900;
+      text-transform: uppercase;
+    }
+
+    .lead-form label.full,
+    .lead-form .lead-check,
+    .lead-form .lead-actions,
+    .lead-status {
+      grid-column: 1 / -1;
+    }
+
+    .lead-form input,
+    .lead-form select,
+    .lead-form textarea {
+      width: 100%;
+      min-height: 44px;
+      border: 1px solid rgba(255, 255, 255, 0.16);
+      border-radius: 8px;
+      padding: 0 12px;
+      color: #fff;
+      background: rgba(255, 255, 255, 0.07);
+      outline: none;
+    }
+
+    .lead-form textarea {
+      min-height: 92px;
+      padding-top: 11px;
+      resize: vertical;
+    }
+
+    .lead-form input:focus,
+    .lead-form select:focus,
+    .lead-form textarea:focus {
+      border-color: color-mix(in srgb, var(--accent) 70%, white 10%);
+      box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 16%, transparent);
+    }
+
+    .lead-check {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      color: #fff;
+      font-size: 13px;
+      font-weight: 750;
+    }
+
+    .lead-check input {
+      width: 18px;
+      min-width: 18px;
+      height: 18px;
+      min-height: 18px;
+      margin-top: 2px;
+      accent-color: var(--accent);
+    }
+
+    .lead-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+
+    .lead-actions button,
+    .lead-actions a {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 44px;
+      border: 1px solid color-mix(in srgb, var(--accent) 58%, transparent);
+      border-radius: var(--radius);
+      padding: 0 14px;
+      color: #07100c;
+      background: var(--accent);
+      font-size: 13px;
+      font-weight: 950;
+      cursor: pointer;
+    }
+
+    .lead-actions a {
+      color: #fff;
+      background: rgba(255, 255, 255, 0.07);
+    }
+
+    .lead-status {
+      min-height: 20px;
+      color: #cbd0c8;
+      font-size: 13px;
+      font-weight: 750;
+    }
+
     .bot-lab {
       display: grid;
       grid-template-columns: minmax(300px, 0.86fr) minmax(320px, 0.72fr);
@@ -3782,6 +3951,7 @@
       .split,
       .heatmap-grid,
       .bot-lab,
+      .conversion-hub,
       .offer {
         grid-template-columns: 1fr;
       }
@@ -4189,6 +4359,14 @@
 
       .bot-form button {
         width: 100%;
+      }
+
+      .lead-form {
+        grid-template-columns: 1fr;
+      }
+
+      .lead-actions {
+        display: grid;
       }
 
       body[data-brand-mode="fashion"] .leather-hero-scene {
@@ -4858,6 +5036,62 @@
             <p class="fine">Este estudio es una lectura preliminar. Los resultados dependen de oferta, pauta, presupuesto, atención comercial y seguimiento.</p>
           </aside>
         </div>
+        <div class="conversion-hub" id="contacto-solvers">
+          <article class="services-panel">
+            <span>SolversAI</span>
+            <h3>Ve todos nuestros servicios antes de decidir</h3>
+            <p>
+              El mini-estudio muestra una oportunidad puntual. En la web de Solvers pueden ver el portafolio completo: agentes, automatizaciones, webs, sistemas, pauta, medición y operación con IA.
+            </p>
+            <div class="services-actions">
+              <a class="service-button" href="https://solversai.com" target="_blank" rel="noopener">Ver servicios Solvers</a>
+              <a class="service-button secondary" href="#lead-form">Dejar mis datos</a>
+            </div>
+          </article>
+          <article class="lead-panel">
+            <span>Datos de contacto</span>
+            <h3>Agenda una reunión virtual</h3>
+            <p>Deja los datos básicos y el interés principal. El equipo recibe el contexto del estudio para responder con una propuesta más clara.</p>
+            <form class="lead-form" id="lead-form">
+              <label>Nombre
+                <input name="contactName" autocomplete="name" required>
+              </label>
+              <label>Empresa
+                <input name="businessName" autocomplete="organization" required>
+              </label>
+              <label>WhatsApp
+                <input name="phone" autocomplete="tel" inputmode="tel" required>
+              </label>
+              <label>Correo
+                <input name="email" autocomplete="email" inputmode="email">
+              </label>
+              <label class="full">Qué quieren mejorar
+                <select name="interest">
+                  <option value="Asesor digital / WhatsApp">Asesor digital / WhatsApp</option>
+                  <option value="Web o landing de conversión">Web o landing de conversión</option>
+                  <option value="Pauta y seguimiento comercial">Pauta y seguimiento comercial</option>
+                  <option value="Automatización o sistema interno">Automatización o sistema interno</option>
+                  <option value="No estoy seguro todavía">No estoy seguro todavía</option>
+                </select>
+              </label>
+              <label class="lead-check">
+                <input type="checkbox" name="wantsMeeting" checked>
+                <span>Quiero agendar una reunión virtual para revisar este estudio.</span>
+              </label>
+              <label class="full">Horario ideal
+                <input name="preferredTime" placeholder="Ej: mañana 10 a.m. o tarde después de 3 p.m.">
+              </label>
+              <label class="full">Mensaje
+                <textarea name="message" placeholder="Cuéntanos qué les interesa resolver primero."></textarea>
+              </label>
+              <div class="lead-actions">
+                <button type="submit">Enviar datos</button>
+                <a id="meetingLink" href="https://wa.me/573113064578" target="_blank" rel="noopener">Agendar por WhatsApp</a>
+              </div>
+              <p class="lead-status" id="leadStatus" aria-live="polite"></p>
+            </form>
+          </article>
+        </div>
         <div class="contact-grid" aria-label="Contactos Solvers">
           <article class="contact-card">
             <div>
@@ -4924,6 +5158,9 @@
       const botForm = document.querySelector("#botForm");
       const botInput = document.querySelector("#botInput");
       const botPrompts = document.querySelector("#botPrompts");
+      const leadForm = document.querySelector("#lead-form");
+      const meetingLink = document.querySelector("#meetingLink");
+      const leadStatus = document.querySelector("#leadStatus");
       const editor = document.querySelector("#quickEditor");
       const internalPanel = document.querySelector("#internalPanel");
       const demoSwitcher = document.querySelector("#demoSwitcher");
@@ -5112,6 +5349,77 @@
         });
       }
 
+      function leadFormData() {
+        const formData = new FormData(leadForm);
+        return {
+          prospectSlug: state.current?.slug || slugFromPath() || "",
+          prospectCompany: state.current?.company || "",
+          contactName: String(formData.get("contactName") || "").trim(),
+          businessName: String(formData.get("businessName") || "").trim(),
+          phone: String(formData.get("phone") || "").trim(),
+          email: String(formData.get("email") || "").trim(),
+          interest: String(formData.get("interest") || "").trim(),
+          wantsMeeting: formData.get("wantsMeeting") === "on",
+          preferredTime: String(formData.get("preferredTime") || "").trim(),
+          message: String(formData.get("message") || "").trim(),
+          sourceUrl: window.location.href
+        };
+      }
+
+      function buildMeetingHref(data = {}) {
+        const company = data.businessName || state.current?.company || "mi empresa";
+        const study = state.current?.company || data.prospectCompany || "este mini-estudio";
+        const lines = [
+          `Hola Valentina, vi el mini-estudio de ${study} y quiero revisar servicios de Solvers.`,
+          `Empresa: ${company}`,
+          data.contactName ? `Nombre: ${data.contactName}` : "",
+          data.phone ? `WhatsApp: ${data.phone}` : "",
+          data.email ? `Correo: ${data.email}` : "",
+          data.interest ? `Interés: ${data.interest}` : "",
+          data.preferredTime ? `Horario ideal: ${data.preferredTime}` : "",
+          data.message ? `Mensaje: ${data.message}` : "",
+          `Link del estudio: ${window.location.href.split("?")[0]}`
+        ].filter(Boolean);
+        return `https://wa.me/573113064578?text=${encodeURIComponent(lines.join("\n"))}`;
+      }
+
+      function updateMeetingLink() {
+        if (!leadForm || !meetingLink) return;
+        meetingLink.href = buildMeetingHref(leadFormData());
+      }
+
+      function bindLeadForm() {
+        if (!leadForm) return;
+        updateMeetingLink();
+        leadForm.addEventListener("input", updateMeetingLink);
+        leadForm.addEventListener("change", updateMeetingLink);
+        leadForm.addEventListener("submit", async (event) => {
+          event.preventDefault();
+          const data = leadFormData();
+          updateMeetingLink();
+          if (!data.contactName || !data.businessName || !data.phone) {
+            if (leadStatus) leadStatus.textContent = "Completa nombre, empresa y WhatsApp para enviar.";
+            return;
+          }
+          if (leadStatus) leadStatus.textContent = "Enviando datos...";
+          try {
+            const response = await fetch("/api/study-leads", {
+              method: "POST",
+              headers: { "content-type": "application/json" },
+              body: JSON.stringify(data)
+            });
+            if (!response.ok) throw new Error("lead_save_failed");
+            if (leadStatus) leadStatus.textContent = "Datos recibidos. Si quieres reunión virtual, continúa por WhatsApp para coordinar hora.";
+          } catch (error) {
+            console.warn("Lead fallback to WhatsApp:", error);
+            if (leadStatus) leadStatus.textContent = "No se pudo guardar automáticamente. Puedes enviarlo por WhatsApp con el botón de agenda.";
+          }
+          if (data.wantsMeeting) {
+            window.open(buildMeetingHref(data), "_blank", "noopener");
+          }
+        });
+      }
+
       function addBotMessage(type, body, label = "") {
         if (!botMessages) return;
         const message = document.createElement("div");
@@ -5180,7 +5488,7 @@
       }
 
       function bindReveal() {
-        const nodes = document.querySelectorAll(".card, .journey-card, .path-step, .check-item, .row-card");
+        const nodes = document.querySelectorAll(".card, .journey-card, .path-step, .check-item, .row-card, .services-panel, .lead-panel");
         if (revealObserver) revealObserver.disconnect();
         if (prefersReducedMotion) {
           nodes.forEach((node) => node.classList.add("is-visible"));
@@ -5269,6 +5577,7 @@
         renderDeliverables(state.current.deliverables || []);
         renderBot();
         setEditor(state.current);
+        updateMeetingLink();
         bindReveal();
       }
 
@@ -5459,6 +5768,7 @@
         loadSwitcher(state.data.prospects);
         bindEditor();
         bindBot();
+        bindLeadForm();
         bootCanvas();
         bindScrollMotion();
         finishLoader();
