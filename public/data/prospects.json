@@ -14221,6 +14221,982 @@
         "Asesor digital para rubro, cantidad, estilo, tiempos y seguimiento.",
         "Panel de oportunidades por rubro, cantidad, fuente y estado."
       ]
+    },
+    {
+      "slug": "armonia-dental-dra-alexandra-david",
+      "company": "Armonia Dental by Dra. Alexandra David",
+      "instagram": "@armoniadental_col",
+      "sector": "implantologia estrategica y rehabilitacion oral",
+      "city": "Bogota y Cartagena",
+      "tone": "experto, premium y tranquilizador",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#52D4F7",
+      "secondary": "#F3C76A",
+      "status": "Instagram + YouTube + contacto por WhatsApp; no se verifico web propia confiable",
+      "leadProblem": "Armonia Dental comunica casos complejos de implantologia estrategica, rehabilitacion oral y pacientes que viajan a Colombia. El interes es de alto valor, pero se puede enfriar si la persona no entiende requisitos, tiempos, ciudad, disponibilidad y primer paso antes de escribir.",
+      "opportunity": "Crear una landing de valoracion internacional y local con asesor digital para filtrar caso, ciudad de origen, fechas tentativas, urgencia y canal de agenda.",
+      "proofLine": "Lectura publica del 28 de junio de 2026: Instagram @armoniadental_col y @dra_alexandradavid muestran contacto +573142899806, Bogota/Cartagena, implantologia estrategica, rehabilitacion oral y mensajes para pacientes que viajan a recuperar su sonrisa.",
+      "audience": "Pacientes locales e internacionales con perdida dental, casos complejos, implantes o rehabilitacion oral que necesitan confianza y agenda clara.",
+      "adAngle": "Recuperar sonrisa + caso filtrado + viaje/agenda sin friccion",
+      "whatsappCta": "Quiero filtrar pacientes de alto valor",
+      "heroCopy": "Cuando una persona evalua implantes o rehabilitacion, necesita claridad antes de escribir: caso, tiempos, ciudad, viaje, confianza y siguiente paso.",
+      "brandWorldTitle": "De caso complejo a valoracion guiada",
+      "diagnosisTitle": "Fugas en pacientes de alto valor",
+      "botAgentName": "Asesor Armonia demo",
+      "botAgentRole": "filtra caso dental, ciudad, viaje y agenda",
+      "botTitle": "Asesor para implantologia y rehabilitacion",
+      "botIntro": "El demo convierte una duda sensible en una solicitud de valoracion con contexto util para el equipo.",
+      "botPrompts": [
+        "Implantes",
+        "Viajo a Colombia",
+        "Tengo poco hueso",
+        "Agenda valoracion",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "implante",
+            "implantes",
+            "rehabilitacion"
+          ],
+          "answer": "Pregunta dientes faltantes, antecedentes, ciudad, urgencia y si tiene examenes o fotos para orientar la valoracion."
+        },
+        {
+          "keywords": [
+            "viajo",
+            "viaje",
+            "internacional",
+            "colombia"
+          ],
+          "answer": "Captura pais, fechas tentativas, ciudad de atencion preferida y disponibilidad para llamada de orientacion."
+        },
+        {
+          "keywords": [
+            "hueso",
+            "complejo",
+            "72"
+          ],
+          "answer": "Aclara que cada caso requiere valoracion profesional y organiza los datos necesarios para que la clinica responda con criterio."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide tipo de caso, pais/ciudad, urgencia, WhatsApp, llamada solicitada y pacientes pendientes de valoracion."
+        }
+      ],
+      "findings": [
+        "La comunicacion publica apunta a tratamientos de alta confianza y alto valor.",
+        "El paciente necesita educacion y orientacion antes de pedir precio o agenda.",
+        "No se verifico una pagina propia central que ordene casos, tiempos, viaje y valoracion."
+      ],
+      "siteIssues": [
+        "Sin landing propia, Instagram y WhatsApp cargan con toda la explicacion del caso.",
+        "La conversacion puede empezar incompleta: pais, fecha, antecedentes, fotos y objetivo no llegan ordenados.",
+        "La pauta necesita distinguir curiosidad general de pacientes listos para llamada o viaje."
+      ],
+      "losses": [
+        "Un paciente internacional puede posponer la decision si no ve una ruta clara para viajar y valorar.",
+        "El equipo repite preguntas sensibles antes de saber si el caso esta calificado.",
+        "Sin data propia, es dificil saber que contenido trae pacientes con mayor probabilidad de agenda."
+      ],
+      "heatmapData": [
+        "Clics por implantes, rehabilitacion, viaje, casos y WhatsApp.",
+        "Abandono antes de dejar ciudad, fecha o telefono.",
+        "Origen de pacientes que piden llamada o valoracion."
+      ],
+      "campaigns": [
+        "Campana para pacientes con perdida dental y casos complejos.",
+        "Anuncios para pacientes que viajan a Colombia con ruta de valoracion.",
+        "Remarketing a visitantes que leyeron tratamiento pero no agendaron."
+      ],
+      "deliverables": [
+        "Landing de valoracion con casos, proceso, viaje, FAQ y agenda.",
+        "Asesor digital para tipo de caso, ciudad, fechas, examenes y seguimiento.",
+        "Panel de leads por tratamiento, origen, urgencia, fuente y estado."
+      ]
+    },
+    {
+      "slug": "cr-dental-studio-medellin",
+      "company": "CR Dental Studio",
+      "instagram": "@crdentalstudio",
+      "sector": "odontologia estetica y diseño de sonrisa",
+      "city": "Medellin",
+      "tone": "premium, estetico y cercano",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#4ED8C7",
+      "secondary": "#F7D67A",
+      "status": "Web propia activa + Instagram + formulario de cotizacion",
+      "leadProblem": "CR Dental Studio ya tiene web con tratamientos, cotizacion y contenido visual. La fuga probable no esta en falta de presencia, sino en convertir visitantes de tratamientos en valoraciones calificadas con seguimiento por caso.",
+      "opportunity": "Mejorar la web actual con eventos por tratamiento, asesor digital y seguimiento para quienes miran diseño de sonrisa, lentes ceramicos o armonizacion sin cotizar.",
+      "proofLine": "Lectura publica del 28 de junio de 2026: crdentalstudio.com presenta lentes ceramicos, diseño de sonrisa, armonizacion, recorte de encia, formulario 'Cotiza aqui' y seccion de Instagram; resultados publicos de Instagram muestran WhatsApp y casos recientes.",
+      "audience": "Pacientes locales y viajeros interesados en diseño de sonrisa, lentes ceramicos, armonizacion o valoracion estetica.",
+      "adAngle": "Sonrisa premium + cotizacion guiada + seguimiento por tratamiento",
+      "whatsappCta": "Quiero convertir mejor la web dental",
+      "heroCopy": "Una web dental bonita vende mas cuando cada tratamiento lleva a una pregunta clara, una cotizacion completa y una agenda con seguimiento.",
+      "brandWorldTitle": "De visita web a valoracion calificada",
+      "diagnosisTitle": "Fugas en una web dental activa",
+      "botAgentName": "Asesor CR Dental demo",
+      "botAgentRole": "orienta tratamiento, cotizacion y agenda",
+      "botTitle": "Asesor para tratamientos esteticos",
+      "botIntro": "El demo responde dudas de tratamiento y deja la solicitud lista para cotizacion o valoracion.",
+      "botPrompts": [
+        "Diseño sonrisa",
+        "Lentes ceramicos",
+        "Cotizar",
+        "Viajo a Medellin",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "diseño",
+            "diseno",
+            "sonrisa"
+          ],
+          "answer": "Pregunta objetivo, estado actual, si busca resina o ceramica y horario para valoracion."
+        },
+        {
+          "keywords": [
+            "lentes",
+            "ceramico",
+            "ceramicos",
+            "carillas"
+          ],
+          "answer": "Explica que requiere diagnostico y captura fotos opcionales, expectativas y presupuesto estimado."
+        },
+        {
+          "keywords": [
+            "cotizar",
+            "cotizacion",
+            "precio"
+          ],
+          "answer": "Guia al formulario con nombre, ciudad, telefono, procedimiento de interes y detalle del caso."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "web"
+          ],
+          "answer": "Mide tratamiento visto, clic en cotizar, WhatsApp, abandono del formulario y valoraciones agendadas."
+        }
+      ],
+      "findings": [
+        "La web ya organiza tratamientos y tiene llamados a cotizar.",
+        "El contenido visual ayuda a generar deseo, pero la decision sigue requiriendo respuesta rapida.",
+        "Hay oportunidad de medir cada tratamiento como fuente de agenda, no solo visitas generales."
+      ],
+      "siteIssues": [
+        "El formulario puede captar datos, pero necesita seguimiento automatico si la persona no completa todo.",
+        "WhatsApp debe recibir el tratamiento exacto que la persona reviso.",
+        "La pauta debe separar diseño de sonrisa, lentes ceramicos, armonizacion y pacientes viajeros."
+      ],
+      "losses": [
+        "Visitantes comparan tratamientos y pueden salir sin pedir valoracion.",
+        "Cotizaciones incompletas obligan al equipo a pedir contexto desde cero.",
+        "Sin eventos por tratamiento, el presupuesto de pauta aprende con poca precision."
+      ],
+      "heatmapData": [
+        "Clics por tratamiento, cotizar, Instagram, contacto y WhatsApp.",
+        "Abandono por bloque del formulario.",
+        "Tratamientos que generan mas valoraciones reales."
+      ],
+      "campaigns": [
+        "Campana por tratamiento con ruta a pagina y asesor digital.",
+        "Remarketing a visitantes que vieron antes/despues o cotizacion sin enviar.",
+        "Anuncios para viajeros con formulario corto y WhatsApp contextual."
+      ],
+      "deliverables": [
+        "Optimización de conversion sobre la web actual con eventos y CTAs por tratamiento.",
+        "Asesor digital para tratamiento, expectativa, ciudad, fotos opcionales y agenda.",
+        "Panel de conversion por pagina, tratamiento, fuente, WhatsApp y estado."
+      ]
+    },
+    {
+      "slug": "carolina-herrera-odontologa-medellin",
+      "company": "Carolina Herrera Odontologa",
+      "instagram": "@carolinaherreraodontologa_",
+      "sector": "estetica dental y rehabilitacion oral",
+      "city": "Medellin",
+      "tone": "premium, humano y experto",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#D6B25E",
+      "secondary": "#7EE0D6",
+      "status": "Instagram + web propia visible en resultados publicos",
+      "leadProblem": "Carolina Herrera comunica estetica dental, carillas, implantes y rehabilitacion oral. En tratamientos de confianza, la fuga ocurre cuando la persona ve un caso pero no entiende que debe enviar, cuanto tarda o como pasar a valoracion.",
+      "opportunity": "Usar la web actual como punto de conversion con asesor digital por tratamiento, captura de caso y agenda por WhatsApp con contexto.",
+      "proofLine": "Lectura publica del 28 de junio de 2026: resultados de Instagram mencionan @carolinaherreraodontologa_, Medellin, telefono 3153449401 y www.carolinaherreraodontologa.com; YouTube describe estetica dental, diseños de sonrisa y rehabilitacion oral.",
+      "audience": "Pacientes de Medellin y visitantes que buscan carillas, diseño de sonrisa, implantes o rehabilitacion oral personalizada.",
+      "adAngle": "Caso dental claro + confianza visual + valoracion guiada",
+      "whatsappCta": "Quiero agendar pacientes mejor filtrados",
+      "heroCopy": "El antes/despues despierta deseo; la conversion ocurre cuando el paciente entiende su siguiente paso y deja contexto suficiente.",
+      "brandWorldTitle": "De caso visto a consulta con contexto",
+      "diagnosisTitle": "Fugas en tratamientos de confianza",
+      "botAgentName": "Asesor Carolina demo",
+      "botAgentRole": "filtra tratamiento, fotos y agenda",
+      "botTitle": "Asesor para estetica dental",
+      "botIntro": "El demo orienta carillas, implantes y rehabilitacion sin prometer diagnosticos por chat.",
+      "botPrompts": [
+        "Carillas",
+        "Implantes",
+        "Enviar fotos",
+        "Agendar",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "carilla",
+            "carillas",
+            "sonrisa"
+          ],
+          "answer": "Pregunta objetivo estetico, si tiene tratamientos previos, ciudad y disponibilidad para valoracion."
+        },
+        {
+          "keywords": [
+            "implante",
+            "implantes",
+            "rehabilitacion"
+          ],
+          "answer": "Captura dientes faltantes, antecedentes y si cuenta con examenes o radiografia para orientar la cita."
+        },
+        {
+          "keywords": [
+            "foto",
+            "fotos",
+            "diagnostico"
+          ],
+          "answer": "Permite enviar fotos como contexto inicial y deja claro que la decision final requiere valoracion profesional."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide tratamiento de interes, clics de agenda, fotos enviadas, WhatsApp y valoraciones confirmadas."
+        }
+      ],
+      "findings": [
+        "La marca ya tiene señales publicas de especializacion y contenido de casos.",
+        "La decision del paciente necesita confianza, educacion y agenda simple.",
+        "Hay oportunidad de convertir la web en embudo por tratamiento y no solo vitrina."
+      ],
+      "siteIssues": [
+        "Cada tratamiento requiere CTA y preguntas distintas.",
+        "WhatsApp debe llegar con tratamiento, objetivo, ciudad y fotos opcionales.",
+        "La pauta necesita recuperar visitantes que revisan casos pero no agendan."
+      ],
+      "losses": [
+        "Pacientes interesados pueden quedarse solo mirando antes/despues.",
+        "El equipo recibe preguntas de precio sin contexto clinico suficiente.",
+        "Sin seguimiento, una persona que no agenda hoy se enfria rapidamente."
+      ],
+      "heatmapData": [
+        "Clics por carillas, implantes, rehabilitacion, fotos y agenda.",
+        "Abandono antes de WhatsApp o formulario.",
+        "Fuentes que generan pacientes con mejor contexto."
+      ],
+      "campaigns": [
+        "Campana de carillas/diseño de sonrisa con valoracion guiada.",
+        "Campana de rehabilitacion e implantes con filtro de caso.",
+        "Remarketing a visitantes de casos y tratamientos sin agenda."
+      ],
+      "deliverables": [
+        "Mejoras de conversion sobre web actual por tratamiento.",
+        "Asesor digital para contexto, fotos, ciudad, agenda y seguimiento.",
+        "Panel de pacientes por tratamiento, fuente, etapa y proxima accion."
+      ]
+    },
+    {
+      "slug": "botanique-colombia",
+      "company": "Botanique Colombia",
+      "instagram": "@botanique.colombia",
+      "sector": "cuidado de piel, spa facial y bienestar corporativo",
+      "city": "Bogota, Medellin y Cali",
+      "tone": "natural, femenino y confiable",
+      "theme": "wellness",
+      "brandMode": "beauty",
+      "accent": "#6FAE72",
+      "secondary": "#F1C9A5",
+      "status": "Shopify activo + Instagram + WhatsApp para agenda",
+      "leadProblem": "Botanique combina ecommerce de cuidado de piel con servicios y jornadas de bienestar. La fuga aparece cuando compra, agenda y contacto corporativo viven como intenciones distintas sin un asesor que entienda el contexto.",
+      "opportunity": "Optimizar el Shopify y las rutas de agenda para separar compra de producto, spa facial, valoracion y jornadas corporativas, conectando cada accion a WhatsApp y seguimiento.",
+      "proofLine": "Lectura publica del 28 de junio de 2026: botanique.com.co muestra Shopify, formulario de contacto y correo servicioalcliente@botanique.com.co; Instagram @botanique.colombia publica WhatsApp 3103217395, agenda y jornadas de bienestar.",
+      "audience": "Personas interesadas en cuidado de piel y empresas que buscan jornadas de bienestar o spa facial para colaboradores.",
+      "adAngle": "Piel + agenda + bienestar corporativo con seguimiento",
+      "whatsappCta": "Quiero ordenar compra, agenda y leads B2B",
+      "heroCopy": "Cuando una marca vende producto y experiencia, la web debe saber si la persona quiere comprar, agendar o llevar bienestar a su empresa.",
+      "brandWorldTitle": "De skincare a conversion multicanal",
+      "diagnosisTitle": "Fugas entre ecommerce y agenda",
+      "botAgentName": "Asesor Botanique demo",
+      "botAgentRole": "separa producto, cita y jornada empresarial",
+      "botTitle": "Asesor para skincare y bienestar",
+      "botIntro": "El demo pregunta si la persona quiere producto, spa facial o jornada corporativa y la lleva al siguiente paso.",
+      "botPrompts": [
+        "Comprar producto",
+        "Spa facial",
+        "Jornada empresa",
+        "WhatsApp",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "producto",
+            "comprar",
+            "piel"
+          ],
+          "answer": "Pregunta tipo de piel, objetivo, ciudad y guia hacia producto o asesor humano si requiere recomendacion."
+        },
+        {
+          "keywords": [
+            "spa",
+            "facial",
+            "agenda"
+          ],
+          "answer": "Captura ciudad, fecha ideal, servicio de interes y WhatsApp para coordinar la cita."
+        },
+        {
+          "keywords": [
+            "empresa",
+            "corporativo",
+            "colaboradores"
+          ],
+          "answer": "Pide empresa, cantidad aproximada de colaboradores, ciudad y fecha tentativa para propuesta de jornada."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "shopify"
+          ],
+          "answer": "Mide producto visto, carrito, clic de agenda, solicitud B2B, WhatsApp y recuperacion de interesados."
+        }
+      ],
+      "findings": [
+        "Existe una web Shopify activa y presencia social con agenda por WhatsApp.",
+        "La oferta mezcla compra directa, asesoría de piel y servicios corporativos.",
+        "Esa mezcla necesita rutas claras para no tratar todos los leads igual."
+      ],
+      "siteIssues": [
+        "El ecommerce debe diferenciar compra, contacto, spa facial y B2B.",
+        "WhatsApp debe llegar con contexto: producto, ciudad, cita o empresa.",
+        "La pauta necesita eventos distintos para carrito, agenda y lead corporativo."
+      ],
+      "losses": [
+        "Una compradora puede necesitar asesoria y abandonar si no encuentra respuesta rapida.",
+        "Una empresa interesada en jornada puede quedar mezclada con preguntas de producto.",
+        "Sin seguimiento por intencion, cada campaña pierde lectura comercial."
+      ],
+      "heatmapData": [
+        "Clics por producto, contacto, agenda, empresa y WhatsApp.",
+        "Abandono en carrito o antes del formulario.",
+        "Intenciones B2C y B2B con mejor conversion."
+      ],
+      "campaigns": [
+        "Campana de producto con recuperacion de carrito y asesor por piel.",
+        "Campana de spa facial con agenda por ciudad.",
+        "Campana B2B de jornadas de bienestar con formulario corto."
+      ],
+      "deliverables": [
+        "Optimización de conversion del Shopify con rutas por intencion.",
+        "Asesor digital para producto, piel, spa, ciudad, empresa y seguimiento.",
+        "Panel de compras, citas, leads B2B, fuente y proxima accion."
+      ]
+    },
+    {
+      "slug": "atma-spa-medellin",
+      "company": "Atma Spa",
+      "instagram": "@atmaspa10",
+      "sector": "spa de masajes y bienestar",
+      "city": "Medellin",
+      "tone": "relajante, claro y confiable",
+      "theme": "wellness",
+      "brandMode": "beauty",
+      "accent": "#9E8B62",
+      "secondary": "#8ED6C9",
+      "status": "Web propia activa + Instagram + WhatsApp",
+      "leadProblem": "Atma Spa ya tiene web con servicios, precios, sedes y botones de reservar. La fuga probable esta en ayudar a elegir masaje, sede, duracion, regalo o plan en pareja antes de que la persona abandone o escriba sin contexto.",
+      "opportunity": "Mejorar la web actual con asesor de reservas, eventos por servicio y seguimiento automatico para visitantes que miran precios pero no reservan.",
+      "proofLine": "Lectura publica del 28 de junio de 2026: atmaspa.co lista servicios como Ritual Atma, masaje deportivo, 4 manos, pareja, piedras volcanicas y limpieza facial; muestra Provenza, Manila, WhatsApp +57 3246486175 y horario lunes a domingo 10AM-8PM.",
+      "audience": "Personas en Medellin que buscan masaje, relajacion, plan en pareja, regalo o cuidado facial con reserva rapida.",
+      "adAngle": "Desconexion + servicio correcto + reserva sin vueltas",
+      "whatsappCta": "Quiero convertir mas reservas desde la web",
+      "heroCopy": "Quien busca un spa quiere resolver rapido: tipo de masaje, sede, duracion, precio, disponibilidad y reserva.",
+      "brandWorldTitle": "De antojo de descanso a reserva confirmada",
+      "diagnosisTitle": "Fugas en reserva de spa",
+      "botAgentName": "Asesor Atma demo",
+      "botAgentRole": "recomienda servicio, sede y duracion",
+      "botTitle": "Asesor para reservas de spa",
+      "botIntro": "El demo ayuda a elegir servicio segun necesidad y pasa a WhatsApp con sede y horario.",
+      "botPrompts": [
+        "Masaje relajante",
+        "Plan pareja",
+        "Regalo",
+        "Sede",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "relajante",
+            "estres",
+            "masaje"
+          ],
+          "answer": "Pregunta nivel de tension, duracion preferida, sede y horario ideal para recomendar una ruta de reserva."
+        },
+        {
+          "keywords": [
+            "pareja",
+            "regalo",
+            "cumple"
+          ],
+          "answer": "Captura ocasion, fecha, numero de personas, sede y si requiere mensaje/regalo."
+        },
+        {
+          "keywords": [
+            "sede",
+            "provenza",
+            "manila"
+          ],
+          "answer": "Pregunta cercania, horario ideal y servicio para enviar la conversacion lista al WhatsApp de reservas."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "web"
+          ],
+          "answer": "Mide servicio visto, duracion, sede, clic en reservar, WhatsApp y reservas sin confirmar."
+        }
+      ],
+      "findings": [
+        "La web ya muestra servicios, precios y sedes.",
+        "La decision depende de escoger servicio, duracion y horario sin friccion.",
+        "Un asesor puede convertir comparacion de precios en reserva con contexto."
+      ],
+      "siteIssues": [
+        "Botones de reservar pueden funcionar mejor si llevan servicio, duracion y sede prellenados.",
+        "La pauta debe distinguir relajacion, deportivo, pareja, facial y regalo.",
+        "Los visitantes que miran precios necesitan recuperacion rapida antes de elegir otro spa."
+      ],
+      "losses": [
+        "Personas comparan varias opciones y reservan donde les respondan antes.",
+        "WhatsApp recibe preguntas repetidas sobre sede, precio y duracion.",
+        "Sin eventos, no se sabe que servicios atraen mas reservas rentables."
+      ],
+      "heatmapData": [
+        "Clics por servicio, precio, sede, reservar y WhatsApp.",
+        "Abandono antes de elegir duracion.",
+        "Servicios con mas intencion real de reserva."
+      ],
+      "campaigns": [
+        "Campana por necesidad: estres, pareja, regalo, deportivo y facial.",
+        "Remarketing a visitantes de precios sin reserva.",
+        "Anuncios por sede con WhatsApp contextual."
+      ],
+      "deliverables": [
+        "Optimización de conversion de la web actual con reserva contextual.",
+        "Asesor digital para servicio, sede, duracion, horario y seguimiento.",
+        "Panel de reservas por servicio, sede, fuente y estado."
+      ]
+    },
+    {
+      "slug": "ser-pilaates-bogota",
+      "company": "Ser Pilaates",
+      "instagram": "@ser.pilaates",
+      "sector": "pilates, funcional y recuperacion de lesiones",
+      "city": "Bogota",
+      "tone": "activo, consciente y cercano",
+      "theme": "wellness",
+      "brandMode": "standard",
+      "accent": "#E19AA8",
+      "secondary": "#7CC7B2",
+      "status": "Instagram con sedes y link de informacion; no se verifico web propia confiable",
+      "leadProblem": "Ser Pilaates muestra varias sedes, pilates, funcional y recuperacion de lesiones. La fuga aparece cuando una persona interesada no sabe que sede elegir, que clase tomar, si necesita experiencia o como agendar prueba.",
+      "opportunity": "Crear una landing de clase de prueba con sedes, perfiles de objetivo, asesor digital y WhatsApp con contexto de sede, horario y necesidad.",
+      "proofLine": "Lectura publica del 28 de junio de 2026: Instagram @ser.pilaates aparece como Pilates Bogota, funcional y recuperacion de lesiones, con sedes en Calle 118 #18C-38, Calle 125 #7C-77 y Cra 15 #84a-24; publicaciones invitan a clase de prueba.",
+      "audience": "Personas en Bogota que buscan pilates reformer, fuerza consciente, mejorar postura, moverse sin dolor o retomar actividad.",
+      "adAngle": "Clase de prueba + sede correcta + agenda guiada",
+      "whatsappCta": "Quiero llenar clases de prueba",
+      "heroCopy": "Una persona puede querer empezar pilates, pero necesita resolver sede, nivel, dolor, horario y primer paso sin sentirse perdida.",
+      "brandWorldTitle": "De interes por pilates a clase agendada",
+      "diagnosisTitle": "Fugas en agenda de clases",
+      "botAgentName": "Asesor Ser Pilaates demo",
+      "botAgentRole": "filtra sede, nivel, objetivo y horario",
+      "botTitle": "Asesor para clase de prueba",
+      "botIntro": "El demo ayuda a elegir sede y tipo de clase antes de pasar a WhatsApp.",
+      "botPrompts": [
+        "Primera clase",
+        "Dolor espalda",
+        "Sede",
+        "Horarios",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "primera",
+            "prueba",
+            "nuevo"
+          ],
+          "answer": "Pregunta experiencia, objetivo, sede cercana y horario para sugerir clase de prueba."
+        },
+        {
+          "keywords": [
+            "dolor",
+            "lesion",
+            "espalda",
+            "rodilla"
+          ],
+          "answer": "Aclara que debe ser orientado por el equipo y captura condicion, objetivo y disponibilidad."
+        },
+        {
+          "keywords": [
+            "sede",
+            "calle",
+            "cra",
+            "ubicacion"
+          ],
+          "answer": "Pregunta zona de Bogota y horario ideal para enviar a WhatsApp con sede sugerida."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide sede de interes, objetivo, horarios, clics a WhatsApp y clases de prueba confirmadas."
+        }
+      ],
+      "findings": [
+        "La marca ya comunica sedes y propuesta de movimiento consciente.",
+        "La clase de prueba necesita una ruta clara por sede, nivel y objetivo.",
+        "No se verifico una pagina propia que convierta interes de Instagram en agenda medible."
+      ],
+      "siteIssues": [
+        "Falta landing con sedes, clases, primera experiencia, FAQ y agenda.",
+        "WhatsApp debe recibir sede, horario, objetivo y condicion de la persona.",
+        "La pauta necesita medir clase de prueba, no solo mensajes o seguidores."
+      ],
+      "losses": [
+        "Personas interesadas dejan pasar la decision si no ven horarios o sede ideal.",
+        "El equipo repite preguntas sobre experiencia, dolores y ubicacion.",
+        "Sin seguimiento, los leads de prueba no se recuperan despues del primer contacto."
+      ],
+      "heatmapData": [
+        "Clics por sede, primera clase, horarios, lesiones y WhatsApp.",
+        "Abandono antes de elegir sede.",
+        "Objetivos que traen mejores agendas."
+      ],
+      "campaigns": [
+        "Campana de clase de prueba por zona y sede.",
+        "Anuncios para dolor/postura/retorno al movimiento con filtro cuidadoso.",
+        "Remarketing a visitantes que eligieron sede sin agendar."
+      ],
+      "deliverables": [
+        "Landing de clase de prueba con sedes, horarios, FAQ y WhatsApp.",
+        "Asesor digital para sede, objetivo, nivel, condicion y seguimiento.",
+        "Panel de leads por sede, objetivo, fuente y clase confirmada."
+      ]
+    },
+    {
+      "slug": "arte-joyeria-bogota",
+      "company": "Arte Joyeria",
+      "instagram": "@artejoyeria",
+      "sector": "alta joyeria, esmeraldas y anillos personalizados",
+      "city": "Bogota",
+      "tone": "lujoso, artesanal y consultivo",
+      "theme": "maker",
+      "brandMode": "jewelry",
+      "accent": "#0B8F73",
+      "secondary": "#D9B76E",
+      "status": "Instagram activo; no se verifico web propia confiable",
+      "leadProblem": "Arte Joyeria vende piezas de alto valor, esmeraldas, anillos de compromiso y joyeria personalizada. La decision necesita confianza, presupuesto, ocasion, talla, tiempos y asesoria, no solo un DM abierto.",
+      "opportunity": "Crear landing premium para anillos y alta joyeria con asesor digital que capture ocasion, presupuesto, piedra, plazo, envio internacional y cita.",
+      "proofLine": "Lectura publica del 28 de junio de 2026: Instagram @artejoyeria se presenta como High Jewelry en Bogota, esmeraldas colombianas, anillos de compromiso, alta joyeria personalizada, clientes en 30 paises y envios internacionales.",
+      "audience": "Personas que buscan anillos de compromiso, esmeraldas colombianas, regalos de lujo o piezas personalizadas con envio local o internacional.",
+      "adAngle": "Joya unica + asesoria privada + cita/cotizacion guiada",
+      "whatsappCta": "Quiero vender joyas de alto valor con mejor filtro",
+      "heroCopy": "En alta joyeria, el lead vale mas cuando llega con ocasion, presupuesto, estilo, plazo y confianza suficiente para conversar.",
+      "brandWorldTitle": "De inspiracion de lujo a cita privada",
+      "diagnosisTitle": "Fugas en joyeria personalizada",
+      "botAgentName": "Asesor Arte demo",
+      "botAgentRole": "califica ocasion, presupuesto, piedra y plazo",
+      "botTitle": "Asesor para alta joyeria",
+      "botIntro": "El demo convierte una idea de joya en una solicitud consultiva lista para cerrar por WhatsApp o cita.",
+      "botPrompts": [
+        "Anillo compromiso",
+        "Esmeralda",
+        "Presupuesto",
+        "Envio internacional",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "anillo",
+            "compromiso",
+            "matrimonio"
+          ],
+          "answer": "Pregunta fecha, estilo, talla aproximada, presupuesto y si desea cita presencial o virtual."
+        },
+        {
+          "keywords": [
+            "esmeralda",
+            "diamante",
+            "piedra"
+          ],
+          "answer": "Captura piedra de interes, tamaño esperado, estilo y rango de inversion para asesoria privada."
+        },
+        {
+          "keywords": [
+            "internacional",
+            "envio",
+            "pais"
+          ],
+          "answer": "Pregunta pais, fecha objetivo y tipo de pieza para validar tiempos y ruta de asesoria."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ocasion, presupuesto, piedra, cita solicitada, WhatsApp y leads listos para propuesta."
+        }
+      ],
+      "findings": [
+        "La propuesta publica es premium y personalizada.",
+        "El lead necesita confianza y privacidad antes de hablar de presupuesto.",
+        "No se verifico una web propia que convierta busquedas de anillos y esmeraldas en citas."
+      ],
+      "siteIssues": [
+        "Falta landing con colecciones, proceso personalizado, FAQ, citas y envios.",
+        "WhatsApp debe recibir ocasion, plazo, presupuesto y referencia.",
+        "La pauta necesita diferenciar anillos, esmeraldas, regalos y clientes internacionales."
+      ],
+      "losses": [
+        "Clientes de alto valor pueden no escribir si no ven proceso o cita clara.",
+        "El equipo puede gastar tiempo en curiosos sin presupuesto o plazo.",
+        "Sin seguimiento, una persona que compara anillos se pierde antes de la fecha clave."
+      ],
+      "heatmapData": [
+        "Clics por anillos, esmeraldas, proceso, cita y WhatsApp.",
+        "Abandono antes de presupuesto o fecha.",
+        "Ocasiones que generan oportunidades de mayor valor."
+      ],
+      "campaigns": [
+        "Campana para anillos de compromiso con cita privada.",
+        "Anuncios de esmeraldas colombianas para clientes locales e internacionales.",
+        "Remarketing a visitantes de colecciones sin solicitud."
+      ],
+      "deliverables": [
+        "Landing premium con colecciones, proceso, cita virtual y WhatsApp.",
+        "Asesor digital para ocasion, presupuesto, piedra, plazo y seguimiento.",
+        "Panel de oportunidades por pieza, presupuesto, pais, fuente y estado."
+      ]
+    },
+    {
+      "slug": "lf-joyeria-bogota",
+      "company": "LF Joyeria",
+      "instagram": "@lf_joyeria",
+      "sector": "esmeraldas y anillos de compromiso",
+      "city": "Bogota",
+      "tone": "elegante, directo y comercial",
+      "theme": "maker",
+      "brandMode": "jewelry",
+      "accent": "#128064",
+      "secondary": "#E6C15A",
+      "status": "Instagram + WhatsApp; no se verifico web propia confiable",
+      "leadProblem": "LF Joyeria muestra piezas con esmeraldas, anillos y WhatsApp directo. El riesgo es que cada consulta llegue sin talla, presupuesto, ocasion, fecha ni tipo de piedra, haciendo lenta la cotizacion.",
+      "opportunity": "Crear landing de joyas y anillos con asesor digital para convertir interes visual en brief de compra y seguimiento por fecha especial.",
+      "proofLine": "Lectura publica del 28 de junio de 2026: Instagram @lf_joyeria se presenta como esmeraldas y anillos de compromiso, Bogota Colombia, WhatsApp 3017761379; publicaciones muestran diseños exclusivos y piezas con esmeraldas.",
+      "audience": "Compradores en Bogota o Colombia que buscan anillos, esmeraldas, regalos especiales o piezas de joyeria personalizadas.",
+      "adAngle": "Esmeralda correcta + presupuesto claro + asesoria por WhatsApp",
+      "whatsappCta": "Quiero ordenar consultas de joyeria",
+      "heroCopy": "Una joya se decide con emocion, pero se cierra con datos: ocasion, talla, presupuesto, fecha y confianza.",
+      "brandWorldTitle": "De pieza vista a cotizacion clara",
+      "diagnosisTitle": "Fugas en consultas de joyeria",
+      "botAgentName": "Asesor LF demo",
+      "botAgentRole": "pregunta pieza, presupuesto, talla y fecha",
+      "botTitle": "Asesor para joyas y anillos",
+      "botIntro": "El demo hace las preguntas correctas antes de enviar la conversacion a WhatsApp.",
+      "botPrompts": [
+        "Anillo",
+        "Esmeralda",
+        "Talla",
+        "Presupuesto",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "anillo",
+            "compromiso",
+            "argolla"
+          ],
+          "answer": "Pregunta ocasion, fecha, talla aproximada, estilo y presupuesto para cotizar mejor."
+        },
+        {
+          "keywords": [
+            "esmeralda",
+            "piedra",
+            "gema"
+          ],
+          "answer": "Captura tipo de pieza, tamaño deseado y rango de inversion para orientar opciones."
+        },
+        {
+          "keywords": [
+            "talla",
+            "medida",
+            "presupuesto"
+          ],
+          "answer": "Guia a dejar talla o foto de referencia y presupuesto para evitar conversaciones incompletas."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide pieza de interes, presupuesto, fecha, WhatsApp y oportunidades listas para seguimiento."
+        }
+      ],
+      "findings": [
+        "La venta se apoya en Instagram visual y WhatsApp.",
+        "Las joyas necesitan cotizacion consultiva y datos antes de cerrar.",
+        "No se verifico landing propia para organizar coleccion, disponibilidad y preguntas frecuentes."
+      ],
+      "siteIssues": [
+        "Falta pagina con colecciones, proceso, garantias, envio y WhatsApp contextual.",
+        "Los DMs pueden iniciar sin talla, presupuesto o fecha.",
+        "La pauta necesita recuperar personas que guardan piezas o preguntan y no compran."
+      ],
+      "losses": [
+        "Una compra de ocasion puede perderse si la respuesta llega tarde.",
+        "El equipo repite preguntas basicas para cada pieza.",
+        "Sin data, no se sabe que piezas activan mayor intencion."
+      ],
+      "heatmapData": [
+        "Clics por anillos, esmeraldas, regalos, presupuesto y WhatsApp.",
+        "Abandono antes de dejar fecha o talla.",
+        "Piezas que generan mas solicitudes."
+      ],
+      "campaigns": [
+        "Campana de anillos y esmeraldas por ocasion.",
+        "Anuncios con CTA a brief guiado de pieza.",
+        "Remarketing a visitantes de coleccion sin WhatsApp."
+      ],
+      "deliverables": [
+        "Landing de joyeria con colecciones, FAQ, brief y WhatsApp.",
+        "Asesor digital para pieza, talla, fecha, presupuesto y seguimiento.",
+        "Panel de oportunidades por pieza, ocasion, presupuesto y estado."
+      ]
+    },
+    {
+      "slug": "hache-muebles-bogota",
+      "company": "Hache Muebles",
+      "instagram": "@hache.com.co",
+      "sector": "muebles a medida y proyectos personalizados",
+      "city": "Bogota",
+      "tone": "moderno, asesor y funcional",
+      "theme": "interiors",
+      "brandMode": "interiors",
+      "accent": "#B88657",
+      "secondary": "#7BA7A6",
+      "status": "Web propia + Instagram + WhatsApp",
+      "leadProblem": "Hache comunica muebles a medida, proyectos personalizados, WhatsApp, correo y web. La fuga probable esta en cotizaciones que llegan sin medidas, espacio, estilo, ciudad, referencias ni presupuesto.",
+      "opportunity": "Mejorar la web actual con formulario/asesor de proyecto para convertir visitas de muebles en brief comercial completo y seguimiento por etapa.",
+      "proofLine": "Lectura publica del 28 de junio de 2026: resultados de Instagram @hache.com.co muestran muebles a medida, proyectos personalizados, www.hache.com.co, WhatsApp 3208281285 / 3015081325, correo mercadeo@hache.com.co y direccion Carrera 19 #123-60.",
+      "audience": "Hogares, arquitectos o empresas que buscan muebles a medida, salas, comedores, escritorios o proyectos personalizados.",
+      "adAngle": "Mueble a medida + brief claro + cotizacion con contexto",
+      "whatsappCta": "Quiero cotizar proyectos con mejor informacion",
+      "heroCopy": "Una persona que quiere un mueble a medida necesita convertir idea, medidas, fotos y presupuesto en una cotizacion ordenada.",
+      "brandWorldTitle": "De inspiracion de espacio a proyecto cotizable",
+      "diagnosisTitle": "Fugas en muebles personalizados",
+      "botAgentName": "Asesor Hache demo",
+      "botAgentRole": "captura espacio, medidas, estilo y presupuesto",
+      "botTitle": "Asesor para muebles a medida",
+      "botIntro": "El demo arma un brief de proyecto antes de enviar el lead a WhatsApp.",
+      "botPrompts": [
+        "Sala a medida",
+        "Escritorio",
+        "Tengo medidas",
+        "Enviar foto",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sala",
+            "sofa",
+            "comedor",
+            "mueble"
+          ],
+          "answer": "Pregunta espacio, medidas aproximadas, estilo, ciudad, fecha ideal y presupuesto."
+        },
+        {
+          "keywords": [
+            "escritorio",
+            "proyecto",
+            "personalizado"
+          ],
+          "answer": "Captura uso, medidas, material deseado, referencias y si requiere visita o asesoria."
+        },
+        {
+          "keywords": [
+            "foto",
+            "medidas",
+            "referencia"
+          ],
+          "answer": "Pide foto del espacio, medidas y referencia para que la cotizacion llegue con contexto real."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "web"
+          ],
+          "answer": "Mide categoria, medidas enviadas, presupuesto, WhatsApp, formulario y cotizaciones calificadas."
+        }
+      ],
+      "findings": [
+        "La marca ya tiene web y canales de contacto claros.",
+        "El producto es personalizado y necesita datos antes de cotizar.",
+        "La conversion puede mejorar si cada visitante deja brief de proyecto, no solo mensaje."
+      ],
+      "siteIssues": [
+        "La web debe empujar a brief por categoria y no a un WhatsApp generico.",
+        "WhatsApp debe recibir medidas, fotos, espacio y presupuesto.",
+        "La pauta necesita diferenciar sala, comedor, escritorio y proyectos completos."
+      ],
+      "losses": [
+        "Cotizaciones incompletas consumen tiempo comercial.",
+        "Clientes comparan proveedores mientras esperan respuesta.",
+        "Sin seguimiento, proyectos con fecha futura se enfrían."
+      ],
+      "heatmapData": [
+        "Clics por categoria, medidas, fotos, formulario y WhatsApp.",
+        "Abandono antes de presupuesto.",
+        "Categorias que generan proyectos con mejor valor."
+      ],
+      "campaigns": [
+        "Campana por categoria de mueble con brief guiado.",
+        "Anuncios de proyectos antes/despues con CTA a cotizacion.",
+        "Remarketing a visitantes que iniciaron brief sin enviarlo."
+      ],
+      "deliverables": [
+        "Optimización de conversion de la web actual con brief por proyecto.",
+        "Asesor digital para espacio, medidas, fotos, estilo, presupuesto y seguimiento.",
+        "Panel de cotizaciones por categoria, etapa, fuente y proxima accion."
+      ]
+    },
+    {
+      "slug": "disena-tu-mueble-bogota",
+      "company": "Diseña tu Mueble",
+      "instagram": "@disenatumueble",
+      "sector": "muebles personalizados y diseño a medida",
+      "city": "Bogota",
+      "tone": "creativo, practico y asesor",
+      "theme": "interiors",
+      "brandMode": "interiors",
+      "accent": "#DE8F4F",
+      "secondary": "#75B9B2",
+      "status": "Instagram + WhatsApp; no se verifico web propia confiable",
+      "leadProblem": "Diseña tu Mueble ofrece muebles personalizados, diseño a medida, CNC, laser e impresion 3D. Sin pagina propia, la conversacion puede iniciar con una idea suelta y no con medidas, material, uso, foto del espacio y presupuesto.",
+      "opportunity": "Crear landing de proyectos a medida con formulario visual y asesor digital para que cada interesado llegue a WhatsApp con brief listo.",
+      "proofLine": "Lectura publica del 28 de junio de 2026: Instagram @disenatumueble se presenta como muebles personalizados en Bogota, diseño a medida, CNC, laser, impresion 3D, funcionalidad estetica y WhatsApp 3058133893.",
+      "audience": "Personas y empresas en Bogota que necesitan muebles a medida, soluciones funcionales, piezas especiales o proyectos personalizados.",
+      "adAngle": "Idea de mueble + medidas + cotizacion guiada",
+      "whatsappCta": "Quiero transformar DMs en cotizaciones completas",
+      "heroCopy": "Un mueble personalizado no se cotiza bien con una frase; necesita espacio, medidas, uso, referencia y prioridad.",
+      "brandWorldTitle": "De idea suelta a brief de fabricacion",
+      "diagnosisTitle": "Fugas sin pagina propia",
+      "botAgentName": "Asesor Diseña demo",
+      "botAgentRole": "ordena idea, medidas, uso y material",
+      "botTitle": "Asesor para muebles personalizados",
+      "botIntro": "El demo pregunta lo minimo necesario para que el equipo pueda responder con una cotizacion real.",
+      "botPrompts": [
+        "Mueble a medida",
+        "CNC",
+        "Tengo foto",
+        "Presupuesto",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "mueble",
+            "medida",
+            "personalizado"
+          ],
+          "answer": "Pregunta tipo de mueble, medidas, uso, ciudad, fecha ideal y referencia visual."
+        },
+        {
+          "keywords": [
+            "cnc",
+            "laser",
+            "impresion",
+            "3d"
+          ],
+          "answer": "Captura tipo de pieza, material, cantidad y archivo/referencia para evaluar viabilidad."
+        },
+        {
+          "keywords": [
+            "foto",
+            "referencia",
+            "presupuesto"
+          ],
+          "answer": "Pide foto del espacio o referencia, medidas aproximadas y rango de presupuesto."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide categoria, medidas recibidas, referencia enviada, presupuesto, WhatsApp y cotizaciones listas."
+        }
+      ],
+      "findings": [
+        "La oferta combina diseño, fabricación y soluciones a medida.",
+        "El lead requiere datos tecnicos y visuales para ser util.",
+        "No se verifico una pagina propia que ordene servicios, procesos y formulario de proyecto."
+      ],
+      "siteIssues": [
+        "Falta landing con categorias, proceso, formulario visual y preguntas frecuentes.",
+        "WhatsApp debe recibir medidas, uso, material y referencia.",
+        "La pauta necesita llevar a brief guiado para no llenar la bandeja de mensajes incompletos."
+      ],
+      "losses": [
+        "Ideas buenas se pierden porque la cotizacion empieza incompleta.",
+        "El equipo repite preguntas de medidas y materiales en cada chat.",
+        "Sin pagina ni pixel, la marca no puede recuperar visitantes que estan comparando."
+      ],
+      "heatmapData": [
+        "Clics por muebles, CNC, laser, formulario y WhatsApp.",
+        "Abandono antes de medidas o referencia.",
+        "Tipos de proyecto con mayor valor comercial."
+      ],
+      "campaigns": [
+        "Campana de muebles a medida con formulario visual.",
+        "Anuncios de soluciones funcionales por espacio.",
+        "Remarketing a visitantes que iniciaron brief sin WhatsApp."
+      ],
+      "deliverables": [
+        "Landing de proyectos con categorias, proceso, formulario y WhatsApp.",
+        "Asesor digital para medidas, uso, material, referencias y seguimiento.",
+        "Panel de cotizaciones por tipo de proyecto, fuente, presupuesto y estado."
+      ]
     }
   ]
 }
