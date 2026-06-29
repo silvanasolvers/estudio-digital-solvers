@@ -15197,6 +15197,983 @@
         "Asesor digital para medidas, uso, material, referencias y seguimiento.",
         "Panel de cotizaciones por tipo de proyecto, fuente, presupuesto y estado."
       ]
+    },
+    {
+      "slug": "coldeca-decoracion-cali",
+      "company": "Coldeca",
+      "instagram": "@coldeca_decoracion",
+      "website": "https://www.coldeca.com/",
+      "sector": "decoracion, diseno de interiores y mobiliario",
+      "city": "Cali",
+      "tone": "visual, asesor y orientado a proyecto",
+      "theme": "interiors",
+      "brandMode": "interiors",
+      "accent": "#D99B5F",
+      "secondary": "#3C8F8A",
+      "status": "Instagram + web propia + WhatsApp",
+      "leadProblem": "Coldeca vende proyectos de decoracion, mobiliario y productos personalizados. Con web e Instagram activos, el reto no es solo mostrar portafolio: es convertir interes en un brief con espacio, medidas, ciudad, presupuesto y prioridad.",
+      "opportunity": "Mejorar la conversion de la web actual con rutas por categoria, asesor digital y seguimiento para que cada visitante llegue a WhatsApp con contexto de proyecto.",
+      "proofLine": "Lectura publica del 29 de junio de 2026: Instagram @coldeca_decoracion se presenta como diseño de interiores y mobiliario en Cali; la web coldeca.com muestra diseño de proyecto, productos personalizados, envio/instalacion y WhatsApp 3148774290.",
+      "audience": "Hogares, locales comerciales y compradores en Colombia que buscan decoracion, mobiliario, murales, acrilico, neon o proyectos completos.",
+      "adAngle": "Proyecto soñado + asesor visual + cotizacion con contexto",
+      "whatsappCta": "Quiero convertir visitas de web en proyectos cotizables",
+      "heroCopy": "Cuando alguien quiere transformar un espacio, necesita imaginarlo, entender opciones y dejar datos utiles antes de escribir por WhatsApp.",
+      "brandWorldTitle": "De inspiracion visual a proyecto cotizable",
+      "diagnosisTitle": "Fugas en una web con potencial",
+      "botAgentName": "Asesor Coldeca demo",
+      "botAgentRole": "ordena espacio, estilo, medidas y presupuesto",
+      "botTitle": "Asesor para proyectos de decoracion",
+      "botIntro": "El demo guia al visitante segun espacio, tipo de producto, medidas y ciudad para que el equipo reciba un brief accionable.",
+      "botPrompts": [
+        "Quiero decorar mi sala",
+        "Proyecto comercial",
+        "Mobiliario",
+        "Acrilico o neon",
+        "Tengo medidas"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sala",
+            "habitacion",
+            "hogar"
+          ],
+          "answer": "Pregunta espacio, medidas aproximadas, estilo, ciudad, fotos de referencia y rango de presupuesto."
+        },
+        {
+          "keywords": [
+            "comercial",
+            "local",
+            "restaurante",
+            "tienda"
+          ],
+          "answer": "Captura tipo de negocio, objetivo del espacio, fecha ideal, ciudad y si necesita diseno, fabricacion o instalacion."
+        },
+        {
+          "keywords": [
+            "mobiliario",
+            "neon",
+            "acrilico",
+            "mural"
+          ],
+          "answer": "Ordena categoria, medidas, material, cantidad y referencia para preparar una respuesta comercial mas precisa."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "web"
+          ],
+          "answer": "Mide categoria, ciudad, medidas recibidas, clics a WhatsApp, formularios iniciados y proyectos listos para cotizar."
+        }
+      ],
+      "findings": [
+        "La marca ya tiene web propia y presencia fuerte en Instagram.",
+        "El portafolio combina productos personalizados, diseno y acompanamiento de proyecto.",
+        "La web puede convertir mejor si separa inspiracion, brief y WhatsApp por intencion."
+      ],
+      "siteIssues": [
+        "La web debe llevar cada categoria a un brief guiado, no solo a exploracion visual.",
+        "WhatsApp debe recibir espacio, ciudad, medidas, referencia y presupuesto.",
+        "La pauta necesita eventos por categoria para recuperar visitantes que miran pero no cotizan."
+      ],
+      "losses": [
+        "Visitantes con interes pueden irse sin dejar medidas ni fotos.",
+        "El equipo comercial puede repetir preguntas tecnicas en cada chat.",
+        "Sin segmentar eventos, la pauta mezcla curiosos con proyectos de alto valor."
+      ],
+      "heatmapData": [
+        "Clics por categoria: mobiliario, murales, neon, acrilico y proyectos completos.",
+        "Abandono antes de medidas, ciudad o presupuesto.",
+        "Categorias y espacios que generan mejores conversaciones comerciales."
+      ],
+      "campaigns": [
+        "Campana por espacios: sala, habitacion, local comercial y oficina.",
+        "Remarketing a visitantes que vieron productos personalizados sin cotizar.",
+        "Anuncios con antes/despues y formulario de proyecto."
+      ],
+      "deliverables": [
+        "Optimización de web con rutas por categoria, formulario visual y WhatsApp contextual.",
+        "Asesor digital para espacio, medidas, ciudad, estilo, referencia y presupuesto.",
+        "Panel de proyectos por fuente, categoria, etapa y siguiente accion."
+      ]
+    },
+    {
+      "slug": "margarita-saieh-barranquilla",
+      "company": "Margarita Saieh de Jassir",
+      "instagram": "@margaritasaiehdejassir",
+      "sector": "pasteleria, restaurante y pedidos personalizados",
+      "city": "Barranquilla",
+      "tone": "tradicional, dulce y practico",
+      "theme": "food",
+      "brandMode": "standard",
+      "accent": "#D65F7E",
+      "secondary": "#F2B84B",
+      "status": "Instagram + Linktree/Rappi; no se verifico web propia confiable",
+      "leadProblem": "Margarita Saieh mueve pedidos, reservas, domicilios y productos personalizados. Sin una pagina propia clara, la intencion se dispersa entre Instagram, enlaces, plataformas y chats manuales.",
+      "opportunity": "Crear landing propia para menus, sedes, pedidos personalizados, reservas y asesor digital que lleve cada solicitud al canal correcto.",
+      "proofLine": "Lectura publica del 29 de junio de 2026: Instagram @margaritasaiehdejassir indica 29 anos endulzando momentos en Barranquilla, Soledad y Malambo; Linktree oficial muestra WhatsApp, menu de postres y pudines, menu restaurante 53 y Rappi.",
+      "audience": "Familias, empresas y clientes en Barranquilla/area metropolitana que buscan tortas, postres, restaurante, reservas o pedidos para fechas especiales.",
+      "adAngle": "Pedido especial sin friccion + menu claro + domicilio/reserva",
+      "whatsappCta": "Quiero ordenar pedidos y reservas en una pagina propia",
+      "heroCopy": "Una marca con tanta busqueda no puede depender solo de links sueltos: cada antojo debe terminar en pedido, reserva o conversacion bien enrutable.",
+      "brandWorldTitle": "De antojo a pedido sin perder el momento",
+      "diagnosisTitle": "Fugas por canales dispersos",
+      "botAgentName": "Asesor Margarita demo",
+      "botAgentRole": "clasifica pedido, sede, fecha y tipo de producto",
+      "botTitle": "Asesor para pedidos y reservas",
+      "botIntro": "El demo separa tortas personalizadas, postres, restaurante, domicilio y reservas para que WhatsApp no arranque desde cero.",
+      "botPrompts": [
+        "Torta personalizada",
+        "Domicilio",
+        "Reserva restaurante",
+        "Menu postres",
+        "Evento empresa"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "torta",
+            "personalizada",
+            "cumpleanos"
+          ],
+          "answer": "Pregunta fecha, numero de personas, sabor, referencia, direccion o sede, y presupuesto aproximado."
+        },
+        {
+          "keywords": [
+            "domicilio",
+            "rappi",
+            "pedido"
+          ],
+          "answer": "Clasifica si es pedido inmediato, postre, pudin o restaurante y dirige al canal correcto con datos completos."
+        },
+        {
+          "keywords": [
+            "reserva",
+            "restaurante",
+            "mesa"
+          ],
+          "answer": "Pide sede, fecha, hora, numero de personas y ocasion para enviar reserva clara a WhatsApp."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide pedidos personalizados, reservas, clics a menu, domicilio y campañas por temporada."
+        }
+      ],
+      "findings": [
+        "La marca tiene reconocimiento y multiples momentos de compra.",
+        "Los pedidos personalizados necesitan fecha, cantidad, sabor y referencia.",
+        "No se verifico una web propia que centralice menus, sedes, reservas y pedidos."
+      ],
+      "siteIssues": [
+        "Falta landing propia con menus, sedes, pedidos personalizados, reservas y FAQ.",
+        "WhatsApp debe recibir tipo de pedido, fecha, sede/direccion y cantidad.",
+        "La pauta de temporadas necesita recuperar visitantes que miraron menu pero no pidieron."
+      ],
+      "losses": [
+        "Antojos se enfrían si la persona no encuentra el menu correcto rapido.",
+        "El equipo puede perder tiempo preguntando fecha, sabor y direccion en cada chat.",
+        "Las plataformas externas no dejan toda la data comercial en manos de la marca."
+      ],
+      "heatmapData": [
+        "Clics por tortas, postres, restaurante, reservas, domicilio y WhatsApp.",
+        "Abandono antes de fecha o cantidad.",
+        "Productos y temporadas que activan mejores pedidos."
+      ],
+      "campaigns": [
+        "Campana de tortas personalizadas con formulario de fecha y personas.",
+        "Pauta de postres/domicilio con menu claro y WhatsApp contextual.",
+        "Remarketing por fechas especiales y visitantes de menu."
+      ],
+      "deliverables": [
+        "Landing propia con menus, sedes, pedidos personalizados, reservas y canales.",
+        "Asesor digital para fecha, tipo de pedido, sabor, cantidad, sede y domicilio.",
+        "Panel de pedidos por fuente, producto, fecha, valor estimado y seguimiento."
+      ]
+    },
+    {
+      "slug": "mobiliarte-colombia-cali",
+      "company": "Mobiliarte Colombia",
+      "instagram": "@mobiliartecol",
+      "sector": "muebles personalizados y mobiliario a medida",
+      "city": "Cali",
+      "tone": "elegante, visual y asesor",
+      "theme": "interiors",
+      "brandMode": "interiors",
+      "accent": "#B9875A",
+      "secondary": "#7CA7A2",
+      "status": "Instagram + WhatsApp; no se verifico web propia confiable",
+      "leadProblem": "Mobiliarte ofrece muebles a medida y personalizados. Si el interesado llega solo por DM, la cotizacion puede arrancar sin medidas, espacio, estilo, ciudad, presupuesto ni fotos.",
+      "opportunity": "Crear una landing de proyectos con asesor digital para convertir inspiracion en brief completo antes de WhatsApp.",
+      "proofLine": "Lectura publica del 29 de junio de 2026: Instagram @mobiliartecol se presenta como muebles que cuentan historias, muebles a medida 100% personalizados, en Cali, Colombia, con WhatsApp.",
+      "audience": "Personas y familias en Cali que buscan muebles a medida, piezas personalizadas o soluciones para espacios especificos.",
+      "adAngle": "Mueble a medida + brief visual + cotizacion mas rapida",
+      "whatsappCta": "Quiero que cada interesado llegue con medidas y contexto",
+      "heroCopy": "Un proyecto de mobiliario no se vende bien con un DM suelto; necesita espacio, medidas, estilo, referencia y prioridad.",
+      "brandWorldTitle": "De foto guardada a cotizacion preparada",
+      "diagnosisTitle": "Fugas sin brief guiado",
+      "botAgentName": "Asesor Mobiliarte demo",
+      "botAgentRole": "organiza medidas, espacio y referencias",
+      "botTitle": "Asesor para muebles personalizados",
+      "botIntro": "El demo convierte preguntas de Instagram en datos concretos para responder con una cotizacion mas cercana.",
+      "botPrompts": [
+        "Mueble a medida",
+        "Tengo una foto",
+        "Sala",
+        "Comedor",
+        "Presupuesto"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "mueble",
+            "medida",
+            "personalizado"
+          ],
+          "answer": "Pregunta tipo de mueble, espacio, medidas aproximadas, ciudad, fecha ideal y referencia visual."
+        },
+        {
+          "keywords": [
+            "foto",
+            "referencia",
+            "estilo"
+          ],
+          "answer": "Pide foto del espacio o referencia, materiales deseados y prioridad: diseno, durabilidad o presupuesto."
+        },
+        {
+          "keywords": [
+            "sala",
+            "comedor",
+            "habitacion"
+          ],
+          "answer": "Ordena el proyecto por espacio, medidas, uso diario, personas en casa y fecha objetivo."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide tipo de mueble, medidas recibidas, presupuesto, clics a WhatsApp y cotizaciones calificadas."
+        }
+      ],
+      "findings": [
+        "La oferta es de alto valor y depende de asesoria previa.",
+        "El lead necesita entregar datos tecnicos para que la respuesta sea util.",
+        "No se verifico una pagina propia que organice portafolio, proceso y formulario de proyecto."
+      ],
+      "siteIssues": [
+        "Falta landing con categorias, proceso, referencias, formulario y WhatsApp.",
+        "WhatsApp debe recibir medidas, fotos, espacio, estilo y presupuesto.",
+        "La pauta debe filtrar proyectos reales antes de llenar la bandeja de DMs."
+      ],
+      "losses": [
+        "Interesados con buena intencion pueden quedarse en preguntas incompletas.",
+        "El equipo repite las mismas preguntas antes de poder cotizar.",
+        "Sin pixel propio, no se recuperan personas que vieron proyectos y compararon."
+      ],
+      "heatmapData": [
+        "Clics por sala, comedor, habitacion, oficina y WhatsApp.",
+        "Abandono antes de medidas o presupuesto.",
+        "Tipos de proyecto que generan mayor valor."
+      ],
+      "campaigns": [
+        "Campana de muebles a medida con formulario visual.",
+        "Anuncios por espacio con antes/despues y brief guiado.",
+        "Remarketing a visitantes que iniciaron cotizacion sin escribir."
+      ],
+      "deliverables": [
+        "Landing de proyectos con portafolio, proceso y formulario de medidas.",
+        "Asesor digital para referencias, medidas, uso, presupuesto y seguimiento.",
+        "Panel de cotizaciones por tipo de mueble, fuente, presupuesto y estado."
+      ]
+    },
+    {
+      "slug": "vidrimax-lujo-cali",
+      "company": "Vidrimax de Lujo",
+      "instagram": "@vidrimaxdlujo",
+      "sector": "muebles y espejos de lujo",
+      "city": "Cali",
+      "tone": "premium, visual y tecnico",
+      "theme": "interiors",
+      "brandMode": "interiors",
+      "accent": "#B8A16A",
+      "secondary": "#6BA6B8",
+      "status": "Instagram activo; no se verifico web propia confiable",
+      "leadProblem": "Vidrimax muestra mobiliario y espejos de lujo, pero cada solicitud necesita medidas, espacio, acabado, iluminacion, instalacion y presupuesto. En DM esa informacion se pierde o llega incompleta.",
+      "opportunity": "Crear landing premium con categorias, formulario de medidas y asesor digital para convertir interes visual en cotizaciones calificadas.",
+      "proofLine": "Lectura publica del 29 de junio de 2026: Instagram @vidrimaxdlujo se presenta como fabricantes de mobiliario y espejos en Cali, Colombia; resultados recientes mencionan centro de TV, tocador flotante y espejo con iluminacion LED.",
+      "audience": "Hogares y proyectos en Cali que buscan espejos, mobiliario, centros de TV, tocadores o piezas con acabados premium.",
+      "adAngle": "Lujo medible + medidas completas + cotizacion sin friccion",
+      "whatsappCta": "Quiero transformar mensajes en cotizaciones premium",
+      "heroCopy": "Una pieza premium necesita mas que una foto guardada: medidas, acabado, instalacion y prioridad antes de cotizar.",
+      "brandWorldTitle": "De inspiracion de lujo a brief tecnico",
+      "diagnosisTitle": "Fugas de cotizacion premium",
+      "botAgentName": "Asesor Vidrimax demo",
+      "botAgentRole": "filtra medidas, acabados e instalacion",
+      "botTitle": "Asesor para espejos y mobiliario",
+      "botIntro": "El demo pregunta lo necesario para que WhatsApp no empiece con informacion incompleta.",
+      "botPrompts": [
+        "Espejo LED",
+        "Centro de TV",
+        "Tocador flotante",
+        "Medidas",
+        "Instalacion"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "espejo",
+            "led",
+            "iluminacion"
+          ],
+          "answer": "Pregunta medidas, tipo de luz, espacio, ciudad, instalacion y fecha ideal."
+        },
+        {
+          "keywords": [
+            "centro",
+            "tv",
+            "tocador",
+            "mueble"
+          ],
+          "answer": "Captura espacio, medidas, material/acabado, referencia visual y presupuesto aproximado."
+        },
+        {
+          "keywords": [
+            "instalacion",
+            "medidas",
+            "cali"
+          ],
+          "answer": "Valida ciudad, acceso al espacio, medidas disponibles y si requiere visita o instalacion."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide categoria, medidas, acabado, presupuesto, clics a WhatsApp y cotizaciones premium."
+        }
+      ],
+      "findings": [
+        "La oferta tiene alto componente visual y tecnico.",
+        "Los proyectos requieren datos antes de estimar valor.",
+        "No se verifico una web propia con rutas por espejos, mobiliario y formulario."
+      ],
+      "siteIssues": [
+        "Falta landing con categorias, acabados, medidas, instalacion y FAQ.",
+        "WhatsApp debe recibir fotos, medidas, acabado e intencion de instalacion.",
+        "La pauta debe separar curiosidad visual de proyecto listo para cotizar."
+      ],
+      "losses": [
+        "Leads premium pueden enfriarse si esperan demasiadas preguntas.",
+        "El equipo repite validaciones tecnicas en cada conversacion.",
+        "Sin seguimiento, quien guarda una pieza no vuelve a recibir un recordatorio."
+      ],
+      "heatmapData": [
+        "Clics por espejos LED, centros de TV, tocadores, medidas y WhatsApp.",
+        "Abandono antes de acabado o presupuesto.",
+        "Categorias con mayor valor estimado."
+      ],
+      "campaigns": [
+        "Campana de espejos LED con medidas guiadas.",
+        "Anuncios de centros de TV y tocadores por espacio.",
+        "Remarketing a visitantes que miraron piezas premium sin cotizar."
+      ],
+      "deliverables": [
+        "Landing premium con categorias, acabados, formulario de medidas y WhatsApp.",
+        "Asesor digital para espacio, medidas, acabado, instalacion y presupuesto.",
+        "Panel de cotizaciones por categoria, fuente, ticket estimado y etapa."
+      ]
+    },
+    {
+      "slug": "dra-marianav-bogota",
+      "company": "DraMarianaV",
+      "instagram": "@dra.marianav",
+      "sector": "medicina estetica antiedad",
+      "city": "Bogota",
+      "tone": "medico, sobrio y confiable",
+      "theme": "wellness",
+      "brandMode": "standard",
+      "accent": "#B57AA4",
+      "secondary": "#72B6A1",
+      "status": "Instagram + WhatsApp; no se verifico web propia confiable",
+      "leadProblem": "En medicina estetica, la persona llega con dudas, miedos, tiempos y expectativas. Si todo empieza en DM o WhatsApp sin triage, la valoracion se enfria o llega sin contexto clinico/comercial.",
+      "opportunity": "Crear landing de valoracion con servicios, criterios, preguntas frecuentes y asesor digital que capture motivo, zona, fecha y datos antes de WhatsApp.",
+      "proofLine": "Lectura publica del 29 de junio de 2026: Instagram @dra.marianav se presenta como medicina antiedad en Bogota; resultados publicos indican rejuvenecimiento medico facial y corporal, armonia facial natural y citas por WhatsApp +573184003540.",
+      "audience": "Pacientes en Bogota interesados en rejuvenecimiento facial/corporal, armonizacion natural, botox, skincare o valoracion estetica.",
+      "adAngle": "Valoracion clara + dudas resueltas + cita con contexto",
+      "whatsappCta": "Quiero convertir dudas esteticas en valoraciones agendadas",
+      "heroCopy": "Antes de agendar, el paciente necesita entender opciones, resolver temores y saber que datos debe entregar para una valoracion seria.",
+      "brandWorldTitle": "De curiosidad estetica a valoracion preparada",
+      "diagnosisTitle": "Fugas antes de la cita",
+      "botAgentName": "Asesor DraMarianaV demo",
+      "botAgentRole": "filtra motivo, zona y disponibilidad",
+      "botTitle": "Asesor para valoraciones esteticas",
+      "botIntro": "El demo responde dudas generales y recoge contexto para que la cita no empiece desde cero.",
+      "botPrompts": [
+        "Quiero botox",
+        "Armonizacion facial",
+        "Valoracion",
+        "Tengo dudas",
+        "Agenda"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "botox",
+            "arrugas",
+            "toxina"
+          ],
+          "answer": "Pregunta objetivo, zona de interes, si ya se ha realizado el procedimiento y disponibilidad para valoracion."
+        },
+        {
+          "keywords": [
+            "armonizacion",
+            "facial",
+            "natural"
+          ],
+          "answer": "Ordena expectativas, zonas de interes, referencias y preferencia por resultado natural para agendar valoracion."
+        },
+        {
+          "keywords": [
+            "valoracion",
+            "agenda",
+            "cita"
+          ],
+          "answer": "Pide nombre, WhatsApp, fecha ideal, motivo principal y si prefiere manana o tarde."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide motivo de consulta, tratamientos de interes, citas solicitadas, dudas frecuentes y fuente de pauta."
+        }
+      ],
+      "findings": [
+        "La oferta requiere confianza medica y educacion previa.",
+        "Las dudas antes de pagar o agendar pueden frenar valoraciones.",
+        "No se verifico una web propia con servicios, FAQ, agenda y seguimiento."
+      ],
+      "siteIssues": [
+        "Falta landing con tratamientos, criterios, FAQ, testimonios permitidos y agenda.",
+        "WhatsApp debe recibir motivo, zona de interes, fecha y dudas principales.",
+        "La pauta necesita medir citas solicitadas, no solo mensajes."
+      ],
+      "losses": [
+        "Pacientes interesados se enfrían si no entienden el siguiente paso.",
+        "La asistente puede repetir explicaciones basicas durante el dia.",
+        "Sin remarketing propio, las dudas no resueltas se pierden."
+      ],
+      "heatmapData": [
+        "Clics por tratamiento, FAQ, valoracion y WhatsApp.",
+        "Abandono antes de agenda o datos de contacto.",
+        "Dudas frecuentes que frenan la cita."
+      ],
+      "campaigns": [
+        "Campana educativa por tratamiento con CTA a valoracion.",
+        "Anuncios de dudas frecuentes con asesor digital.",
+        "Remarketing a visitantes que leyeron FAQ sin agendar."
+      ],
+      "deliverables": [
+        "Landing de valoracion con tratamientos, preguntas frecuentes y WhatsApp contextual.",
+        "Asesor digital para motivo, zona de interes, dudas, disponibilidad y seguimiento.",
+        "Panel de citas por tratamiento, fuente, etapa y proxima accion."
+      ]
+    },
+    {
+      "slug": "muebleriainnovarte-cali",
+      "company": "Muebles Innovarte",
+      "instagram": "@muebleriainnovarte",
+      "sector": "muebles exclusivos, diseno a medida y decoracion",
+      "city": "Cali",
+      "tone": "premium, practico y asesor",
+      "theme": "interiors",
+      "brandMode": "interiors",
+      "accent": "#A96B46",
+      "secondary": "#79B3A5",
+      "status": "Instagram + WhatsApp/ofertas; no se verifico web propia confiable",
+      "leadProblem": "Muebles Innovarte ofrece muebles exclusivos, diseno a medida, persianas y papel de colgadura. Si el interesado solo escribe por DM, el equipo debe reconstruir espacio, medidas, producto, estilo y presupuesto manualmente.",
+      "opportunity": "Crear landing de categorias y asesor digital para que cada solicitud llegue a WhatsApp con datos utiles y posibilidad de seguimiento.",
+      "proofLine": "Lectura publica del 29 de junio de 2026: Instagram @muebleriainnovarte se presenta como muebles exclusivos de lujo, diseño a tu medida, persianas y papel de colgadura en Cali; resultados muestran WhatsApp +57 3127952095.",
+      "audience": "Clientes en Cali que buscan muebles exclusivos, piezas a medida, persianas, papel de colgadura o decoracion para el hogar.",
+      "adAngle": "Proyecto de hogar + datos completos + asesor comercial",
+      "whatsappCta": "Quiero ordenar solicitudes de muebles y decoracion",
+      "heroCopy": "El cliente llega con una idea de ambiente, pero ventas necesita convertirla en medidas, producto, material y proxima accion.",
+      "brandWorldTitle": "De idea de hogar a solicitud lista",
+      "diagnosisTitle": "Fugas por mensajes incompletos",
+      "botAgentName": "Asesor Innovarte demo",
+      "botAgentRole": "clasifica producto, espacio y medidas",
+      "botTitle": "Asesor para muebles y decoracion",
+      "botIntro": "El demo separa muebles, persianas y papel de colgadura para que cada chat llegue con contexto.",
+      "botPrompts": [
+        "Mueble a medida",
+        "Persianas",
+        "Papel de colgadura",
+        "Tengo medidas",
+        "Presupuesto"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "mueble",
+            "medida",
+            "lujo"
+          ],
+          "answer": "Pregunta tipo de mueble, espacio, medidas, estilo, ciudad y fecha ideal."
+        },
+        {
+          "keywords": [
+            "persiana",
+            "papel",
+            "colgadura"
+          ],
+          "answer": "Captura medidas, espacio, cantidad, referencia visual y si requiere instalacion."
+        },
+        {
+          "keywords": [
+            "presupuesto",
+            "foto",
+            "referencia"
+          ],
+          "answer": "Pide foto del espacio, rango de presupuesto y prioridad de compra para orientar la asesoria."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide categoria, medidas, presupuesto, WhatsApp, ofertas vistas y solicitudes calificadas."
+        }
+      ],
+      "findings": [
+        "La oferta mezcla muebles, diseno y decoracion complementaria.",
+        "El lead requiere medidas y categoria clara antes de cotizar.",
+        "No se verifico una web propia confiable que centralice categorias y formulario."
+      ],
+      "siteIssues": [
+        "Falta landing con categorias, proceso, ofertas, formulario y FAQ.",
+        "WhatsApp debe recibir producto, espacio, medidas, foto y presupuesto.",
+        "La pauta debe separar interes por mueble, persiana o decoracion."
+      ],
+      "losses": [
+        "Mensajes sin medidas obligan a responder lento.",
+        "Ofertas pueden atraer curiosos si no se filtra intencion real.",
+        "Sin audiencia propia, quien compara opciones no vuelve automaticamente."
+      ],
+      "heatmapData": [
+        "Clics por muebles, persianas, papel de colgadura, ofertas y WhatsApp.",
+        "Abandono antes de medidas o foto.",
+        "Categorias que convierten mejor a cotizacion."
+      ],
+      "campaigns": [
+        "Campana de muebles exclusivos con brief visual.",
+        "Anuncios de persianas/papel de colgadura con medidas guiadas.",
+        "Remarketing a visitantes que vieron ofertas sin escribir."
+      ],
+      "deliverables": [
+        "Landing por categorias con formulario de medidas y WhatsApp contextual.",
+        "Asesor digital para producto, espacio, medidas, referencias y presupuesto.",
+        "Panel de solicitudes por categoria, fuente, etapa y seguimiento."
+      ]
+    },
+    {
+      "slug": "woodenart-cali",
+      "company": "Woodenart",
+      "instagram": "@woodenart1",
+      "sector": "muebles a medida, espejos, cuadros y decoracion",
+      "city": "Cali",
+      "tone": "calido, de hogar y asesor",
+      "theme": "interiors",
+      "brandMode": "interiors",
+      "accent": "#B47A4A",
+      "secondary": "#6FA69B",
+      "status": "Instagram + show room; no se verifico web propia confiable",
+      "leadProblem": "Woodenart fabrica muebles a medida y complementos para el hogar. La oportunidad se pierde cuando la persona pregunta por una pieza sin dejar medidas, espacio, uso, fecha o referencia.",
+      "opportunity": "Crear landing con categorias, show room, formulario de proyecto y asesor digital conectado a WhatsApp.",
+      "proofLine": "Lectura publica del 29 de junio de 2026: Instagram @woodenart1 indica fabricacion de muebles a medida para transformar el hogar, espejos, cuadros, papel de colgadura y cortinas, desde 2016, con casa/show room en La Flora, Cali.",
+      "audience": "Personas en Cali que quieren muebles a medida, espejos, cuadros, cortinas o decoracion para renovar espacios del hogar.",
+      "adAngle": "Hogar renovado + medidas guiadas + visita al show room",
+      "whatsappCta": "Quiero convertir inspiracion en cotizaciones con datos",
+      "heroCopy": "Quien quiere renovar el hogar necesita ver opciones, entender el proceso y dejar medidas antes de que la conversacion se enfrie.",
+      "brandWorldTitle": "De inspiracion de hogar a visita o cotizacion",
+      "diagnosisTitle": "Fugas sin ruta de proyecto",
+      "botAgentName": "Asesor Woodenart demo",
+      "botAgentRole": "ordena espacio, pieza y show room",
+      "botTitle": "Asesor para muebles a medida",
+      "botIntro": "El demo guia al cliente entre muebles, espejos, cuadros, cortinas y visita al show room.",
+      "botPrompts": [
+        "Mueble a medida",
+        "Espejos",
+        "Cortinas",
+        "Visitar show room",
+        "Tengo foto"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "mueble",
+            "medida",
+            "hogar"
+          ],
+          "answer": "Pregunta espacio, medidas, tipo de mueble, referencia, ciudad y fecha ideal."
+        },
+        {
+          "keywords": [
+            "espejo",
+            "cuadro",
+            "cortina",
+            "papel"
+          ],
+          "answer": "Captura categoria, medidas, estilo, cantidad e instalacion para orientar la cotizacion."
+        },
+        {
+          "keywords": [
+            "show",
+            "room",
+            "flora",
+            "visitar"
+          ],
+          "answer": "Pide horario ideal, producto de interes y datos de contacto para coordinar visita con contexto."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide categoria, show room, medidas recibidas, WhatsApp y solicitudes listas para seguimiento."
+        }
+      ],
+      "findings": [
+        "La marca comunica fabricacion a medida y show room en Cali.",
+        "La compra requiere datos de espacio y preferencia visual.",
+        "No se verifico una web propia confiable con formulario de proyecto."
+      ],
+      "siteIssues": [
+        "Falta landing con categorias, proceso, show room, formulario y WhatsApp.",
+        "WhatsApp debe recibir medidas, fotos, categoria y disponibilidad.",
+        "La pauta debe medir visitas al show room y cotizaciones, no solo clics."
+      ],
+      "losses": [
+        "Clientes guardan ideas pero no avanzan por falta de ruta clara.",
+        "El equipo reconstruye datos basicos en cada conversacion.",
+        "Sin remarketing propio, los interesados que comparan se pierden."
+      ],
+      "heatmapData": [
+        "Clics por muebles, espejos, cortinas, show room y WhatsApp.",
+        "Abandono antes de medidas o visita.",
+        "Productos con mejor conversion a cotizacion."
+      ],
+      "campaigns": [
+        "Campana de muebles a medida por espacio del hogar.",
+        "Anuncios de show room con agenda y producto de interes.",
+        "Remarketing a visitantes que miraron categorias sin escribir."
+      ],
+      "deliverables": [
+        "Landing con categorias, proceso, show room, formulario y WhatsApp contextual.",
+        "Asesor digital para espacio, medidas, referencias, visita y presupuesto.",
+        "Panel de solicitudes por categoria, fuente, visita y proxima accion."
+      ]
+    },
+    {
+      "slug": "amaria-reposteria-barranquilla",
+      "company": "Amaria Reposteria",
+      "instagram": "@amariareposteria",
+      "sector": "reposteria y punto fisico",
+      "city": "Barranquilla",
+      "tone": "dulce, cercano y rapido",
+      "theme": "food",
+      "brandMode": "standard",
+      "accent": "#E08A9C",
+      "secondary": "#F0C45A",
+      "status": "Instagram + WhatsApp; no se verifico web propia confiable",
+      "leadProblem": "Amaria tiene punto fisico, horarios amplios y pedidos por WhatsApp. Sin una pagina propia, el cliente puede preguntar por productos, ubicacion, domicilio u horario sin dejar datos suficientes para cerrar.",
+      "opportunity": "Crear landing con menu, ubicacion, horario, pedidos, tortas/temporadas y asesor digital para enrutar WhatsApp.",
+      "proofLine": "Lectura publica del 29 de junio de 2026: Instagram @amariareposteria indica Barranquilla, Calle 94 #53-44, WhatsApp 3103727440 y horario lunes a domingo 8:30am-8:30pm.",
+      "audience": "Clientes en Barranquilla que buscan postres, tortas, antojos, domicilios o pedidos para fechas especiales.",
+      "adAngle": "Antojo inmediato + menu claro + pedido por WhatsApp",
+      "whatsappCta": "Quiero convertir antojos en pedidos medibles",
+      "heroCopy": "Cuando alguien tiene antojo, la decision dura poco: menu, ubicacion, horario y WhatsApp deben estar a un toque.",
+      "brandWorldTitle": "De antojo a pedido antes de que se enfrie",
+      "diagnosisTitle": "Fugas sin menu propio",
+      "botAgentName": "Asesor Amaria demo",
+      "botAgentRole": "clasifica producto, fecha y entrega",
+      "botTitle": "Asesor para pedidos de reposteria",
+      "botIntro": "El demo ayuda a elegir pedido, validar horario, domicilio o recogida y enviar WhatsApp con datos completos.",
+      "botPrompts": [
+        "Quiero domicilio",
+        "Menu de postres",
+        "Torta para cumpleanos",
+        "Horario",
+        "Ubicacion"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "domicilio",
+            "pedido",
+            "postre"
+          ],
+          "answer": "Pregunta producto, cantidad, direccion, hora deseada y datos de contacto antes de pasar a WhatsApp."
+        },
+        {
+          "keywords": [
+            "torta",
+            "cumpleanos",
+            "personalizada"
+          ],
+          "answer": "Captura fecha, numero de personas, sabor, referencia y presupuesto aproximado."
+        },
+        {
+          "keywords": [
+            "horario",
+            "ubicacion",
+            "calle"
+          ],
+          "answer": "Muestra horario y punto fisico, y pregunta si desea recoger o pedir domicilio."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide producto, domicilio/recogida, horario, clics a WhatsApp y pedidos por campaña."
+        }
+      ],
+      "findings": [
+        "La marca tiene ubicacion, WhatsApp y horario publico claro.",
+        "El momento de compra es rapido y sensible a friccion.",
+        "No se verifico una web propia con menu, pedido guiado y seguimiento."
+      ],
+      "siteIssues": [
+        "Falta landing con menu, ubicacion, horario, pedidos y FAQ.",
+        "WhatsApp debe recibir producto, cantidad, entrega y hora.",
+        "La pauta necesita medir pedidos y productos, no solo mensajes."
+      ],
+      "losses": [
+        "Antojos se pierden si la persona no encuentra menu o domicilio rapido.",
+        "El equipo repite ubicacion, horario y disponibilidad.",
+        "Sin data propia, no se sabe que producto trae mejores pedidos."
+      ],
+      "heatmapData": [
+        "Clics por menu, domicilio, tortas, ubicacion y WhatsApp.",
+        "Abandono antes de cantidad o entrega.",
+        "Productos con mayor intencion por pauta."
+      ],
+      "campaigns": [
+        "Campana de antojo inmediato con menu y WhatsApp.",
+        "Anuncios de tortas por fechas especiales.",
+        "Remarketing a visitantes que miraron menu sin pedir."
+      ],
+      "deliverables": [
+        "Landing con menu, ubicacion, horario, pedidos y WhatsApp contextual.",
+        "Asesor digital para producto, cantidad, fecha, entrega y seguimiento.",
+        "Panel de pedidos por fuente, producto, modalidad y proxima accion."
+      ]
+    },
+    {
+      "slug": "sweetnat-barranquilla",
+      "company": "SweetNat",
+      "instagram": "@sweetnatbq",
+      "sector": "postres y pedidos en Barranquilla",
+      "city": "Barranquilla",
+      "tone": "dulce, agil y local",
+      "theme": "food",
+      "brandMode": "standard",
+      "accent": "#E184A6",
+      "secondary": "#F3C65E",
+      "status": "Instagram + pedidos telefonicos; no se verifico web propia confiable",
+      "leadProblem": "SweetNat recibe pedidos y visitas a punto fisico. Si no hay pagina propia con menu y pedido guiado, la persona puede saltar entre posts, telefono y DM sin completar compra.",
+      "opportunity": "Crear landing de menu, punto fisico, domicilios y asesor digital para convertir visitas de Instagram en pedidos medibles.",
+      "proofLine": "Lectura publica del 29 de junio de 2026: Instagram @sweetnatbq se presenta como postres en Barranquilla; resultados publicos muestran pedidos al 3009892069 y punto fisico en Calle 85 #45-56.",
+      "audience": "Clientes en Barranquilla que buscan postres, domicilios, regalos dulces o compra en punto fisico.",
+      "adAngle": "Postre hoy + pedido guiado + ubicacion clara",
+      "whatsappCta": "Quiero que Instagram termine en pedidos medibles",
+      "heroCopy": "En postres, la venta vive en el impulso: si menu, disponibilidad y domicilio no son claros, el cliente cambia de opcion.",
+      "brandWorldTitle": "De antojo a pedido con menos pasos",
+      "diagnosisTitle": "Fugas por falta de pagina propia",
+      "botAgentName": "Asesor SweetNat demo",
+      "botAgentRole": "organiza producto, cantidad y entrega",
+      "botTitle": "Asesor para pedidos de postres",
+      "botIntro": "El demo recoge producto, cantidad, entrega o recogida y deja el pedido listo para WhatsApp.",
+      "botPrompts": [
+        "Menu de hoy",
+        "Domicilio",
+        "Regalo dulce",
+        "Punto fisico",
+        "Cantidad"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "menu",
+            "postre",
+            "hoy"
+          ],
+          "answer": "Pregunta producto de interes, cantidad, si es para hoy y modalidad de entrega."
+        },
+        {
+          "keywords": [
+            "domicilio",
+            "direccion",
+            "pedido"
+          ],
+          "answer": "Captura direccion, hora ideal, producto, cantidad y datos de contacto."
+        },
+        {
+          "keywords": [
+            "regalo",
+            "cumpleanos",
+            "detalle"
+          ],
+          "answer": "Pregunta ocasion, fecha, presupuesto, mensaje y si requiere entrega a domicilio."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide productos de interes, modalidad, clics a WhatsApp, pedidos iniciados y conversion por anuncio."
+        }
+      ],
+      "findings": [
+        "La marca tiene demanda local y punto fisico visible.",
+        "El pedido necesita producto, cantidad y entrega para cerrarse rapido.",
+        "No se verifico una web propia que centralice menu, ubicacion y compra guiada."
+      ],
+      "siteIssues": [
+        "Falta landing con menu, ubicacion, domicilios, regalos y FAQ.",
+        "WhatsApp debe recibir producto, cantidad, direccion/hora y ocasion.",
+        "La pauta debe medir pedidos reales y productos con mejor respuesta."
+      ],
+      "losses": [
+        "Clientes con antojo abandonan si no ven menu o disponibilidad.",
+        "El equipo responde manualmente preguntas repetidas de ubicacion y domicilio.",
+        "Sin pixel propio, no se recuperan quienes miran pero no piden."
+      ],
+      "heatmapData": [
+        "Clics por menu, domicilio, regalos, punto fisico y WhatsApp.",
+        "Abandono antes de cantidad o entrega.",
+        "Productos y ocasiones que mas activan compra."
+      ],
+      "campaigns": [
+        "Campana de menu del dia con pedido a WhatsApp.",
+        "Anuncios de regalos dulces por ocasion.",
+        "Remarketing a visitantes que vieron menu sin pedir."
+      ],
+      "deliverables": [
+        "Landing con menu, punto fisico, domicilio, regalos y WhatsApp contextual.",
+        "Asesor digital para producto, cantidad, entrega, ocasion y seguimiento.",
+        "Panel de pedidos por fuente, producto, modalidad y estado."
+      ]
+    },
+    {
+      "slug": "hotel-aw-boutique-bogota",
+      "company": "Hotel AW Boutique",
+      "instagram": "@hotelawboutique",
+      "sector": "hotel boutique y reservas",
+      "city": "Bogota",
+      "tone": "hospitalario, directo y de reserva",
+      "theme": "hospitality",
+      "brandMode": "standard",
+      "accent": "#4F8A9A",
+      "secondary": "#D8A45E",
+      "status": "Instagram + telefonos de reserva; no se verifico web propia confiable",
+      "leadProblem": "Hotel AW Boutique depende de reservas y consultas por fecha. Sin una pagina propia clara, el viajero puede no encontrar disponibilidad, ubicacion, beneficios directos o WhatsApp con contexto.",
+      "opportunity": "Crear landing de reservas directas con fechas, tipo de viaje, cercania a Corferias/Quinta Paredes y asesor digital para cotizar rapido.",
+      "proofLine": "Lectura publica del 29 de junio de 2026: Instagram @hotelawboutique se presenta como Hotel AW Boutique con reservas 3122455882 y 3228792542 en Quinta Paredes, Bogota; publicaciones mencionan cercania a Corferias.",
+      "audience": "Viajeros, asistentes a eventos, parejas y empresas que buscan hospedaje en Quinta Paredes/Bogota cerca de Corferias.",
+      "adAngle": "Reserva directa + fecha clara + WhatsApp con contexto",
+      "whatsappCta": "Quiero convertir consultas en reservas directas",
+      "heroCopy": "Cuando alguien busca hotel, compara rapido: ubicacion, fecha, precio, disponibilidad y confianza deben aparecer antes de que abra otra opcion.",
+      "brandWorldTitle": "De consulta de habitacion a reserva directa",
+      "diagnosisTitle": "Fugas antes de reservar",
+      "botAgentName": "Asesor AW demo",
+      "botAgentRole": "filtra fechas, huespedes y motivo de viaje",
+      "botTitle": "Asesor para reservas hoteleras",
+      "botIntro": "El demo recoge fecha, numero de huespedes, motivo de viaje y canal de contacto para responder con disponibilidad.",
+      "botPrompts": [
+        "Reservar habitacion",
+        "Cerca a Corferias",
+        "Viaje de trabajo",
+        "Noche romantica",
+        "Fechas"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "reserva",
+            "habitacion",
+            "fechas"
+          ],
+          "answer": "Pregunta fecha de entrada, salida, numero de huespedes, tipo de viaje y WhatsApp."
+        },
+        {
+          "keywords": [
+            "corferias",
+            "quinta",
+            "paredes",
+            "evento"
+          ],
+          "answer": "Valida evento, fechas, cantidad de noches y si necesita factura o reserva corporativa."
+        },
+        {
+          "keywords": [
+            "romantica",
+            "pareja",
+            "celebracion"
+          ],
+          "answer": "Pregunta fecha, numero de personas, ocasion y si requiere decoracion o plan especial."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide fechas solicitadas, tipo de viaje, clics a WhatsApp, reservas iniciadas y fuente de pauta."
+        }
+      ],
+      "findings": [
+        "La ubicacion en Quinta Paredes y cercania a Corferias es una señal comercial fuerte.",
+        "La consulta hotelera necesita fechas y numero de huespedes desde el primer paso.",
+        "No se verifico una web propia confiable con reserva directa y formulario."
+      ],
+      "siteIssues": [
+        "Falta landing con ubicacion, habitaciones, beneficios, fechas y WhatsApp contextual.",
+        "WhatsApp debe recibir entrada, salida, huespedes y motivo del viaje.",
+        "La pauta debe medir reservas iniciadas por evento, no solo mensajes."
+      ],
+      "losses": [
+        "Viajeros comparan y se van si no encuentran ruta de reserva rapida.",
+        "Recepcion responde manualmente fechas y datos repetidos.",
+        "Sin remarketing, quienes preguntan por evento no reciben seguimiento."
+      ],
+      "heatmapData": [
+        "Clics por fechas, ubicacion, habitaciones, Corferias y WhatsApp.",
+        "Abandono antes de fecha de entrada/salida.",
+        "Motivos de viaje que generan mejores reservas."
+      ],
+      "campaigns": [
+        "Campana de reservas directas cerca a Corferias.",
+        "Anuncios por eventos y viajes de trabajo.",
+        "Remarketing a visitantes que consultaron fechas sin reservar."
+      ],
+      "deliverables": [
+        "Landing de reserva directa con ubicacion, habitaciones, fechas y WhatsApp.",
+        "Asesor digital para entrada, salida, huespedes, motivo y seguimiento.",
+        "Panel de reservas por fuente, fecha, tipo de viaje y estado comercial."
+      ]
     }
   ]
 }
