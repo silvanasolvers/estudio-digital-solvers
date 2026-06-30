@@ -16174,6 +16174,982 @@
         "Asesor digital para entrada, salida, huespedes, motivo y seguimiento.",
         "Panel de reservas por fuente, fecha, tipo de viaje y estado comercial."
       ]
+    },
+    {
+      "slug": "clinica-be-dharma-medellin",
+      "company": "Clinica Be Dharma",
+      "instagram": "@clinicabedharma",
+      "sector": "clinica de estetica y bienestar",
+      "city": "Medellin",
+      "tone": "premium, medico y cercano",
+      "theme": "beauty",
+      "brandMode": "standard",
+      "accent": "#C99A72",
+      "secondary": "#84C7C1",
+      "status": "Instagram activo + web propia visible",
+      "leadProblem": "Be Dharma ya tiene demanda y autoridad visual. La fuga probable esta en convertir curiosidad por tratamientos en valoraciones agendadas, con datos claros de interes, zona, procedimiento y objecion antes de que el lead se enfrie.",
+      "opportunity": "Mejorar la conversion de la web actual con rutas por tratamiento, WhatsApp con contexto, formulario de valoracion y seguimiento automatico para personas que preguntan pero no agendan.",
+      "proofLine": "Lectura publica del 30 de junio de 2026: Instagram @clinicabedharma se presenta como Clinica Be Dharma de estetica en Medellin con WhatsApp de valoracion; busquedas publicas muestran webs bedharma.co y clinicabedharma.com con oferta estetica.",
+      "audience": "Personas en Medellin interesadas en medicina estetica, tecnologia corporal, facial, postquirurgicos y valoraciones con confianza medica.",
+      "adAngle": "Tratamiento claro + valoracion guiada + seguimiento sin perder leads",
+      "whatsappCta": "Quiero agendar valoraciones con mas contexto",
+      "heroCopy": "En estetica, el interes nace rapido pero se enfria igual de rapido si la persona no entiende procedimiento, precio aproximado, agenda, recuperacion o si debe esperar respuesta manual.",
+      "brandWorldTitle": "De deseo estetico a valoracion agendada",
+      "diagnosisTitle": "Fugas antes de la valoracion",
+      "botAgentName": "Asesor Be Dharma demo",
+      "botAgentRole": "filtra tratamiento, zona, momento y agenda",
+      "botTitle": "Asesor digital para valoraciones esteticas",
+      "botIntro": "El demo convierte preguntas repetidas sobre tratamientos en datos utiles para agendar: interes, objetivo, disponibilidad y contacto.",
+      "botPrompts": [
+        "Quiero una valoracion",
+        "Botox o facial",
+        "Tratamiento corporal",
+        "Precios y agenda",
+        "Seguimiento"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "valoracion",
+            "cita",
+            "agenda"
+          ],
+          "answer": "Pregunta tratamiento de interes, objetivo, si ya se realizo algo antes, disponibilidad horaria y WhatsApp para pasar a agenda con contexto."
+        },
+        {
+          "keywords": [
+            "botox",
+            "facial",
+            "piel",
+            "rejuvenecimiento"
+          ],
+          "answer": "Ordena dudas por objetivo: arrugas, manchas, textura o hidratacion; explica que la recomendacion final depende de valoracion profesional."
+        },
+        {
+          "keywords": [
+            "corporal",
+            "post",
+            "laser",
+            "moldeo"
+          ],
+          "answer": "Filtra zona del cuerpo, urgencia, antecedente y etapa del proceso para que el equipo responda con una ruta adecuada."
+        },
+        {
+          "keywords": [
+            "pauta",
+            "datos",
+            "mide"
+          ],
+          "answer": "Mide tratamiento consultado, clics a WhatsApp, formularios, valoraciones solicitadas y leads que requieren seguimiento."
+        }
+      ],
+      "findings": [
+        "Tiene presencia visual y web visible; el reto no es parecer real, sino convertir mejor.",
+        "La decision estetica necesita confianza, claridad clinica y respuesta rapida.",
+        "Cada tratamiento deberia tener ruta propia para educar, filtrar y agendar."
+      ],
+      "siteIssues": [
+        "La web debe llevar a acciones por tratamiento, no solo a navegar servicios.",
+        "WhatsApp necesita llegar con contexto: tratamiento, objetivo, ciudad, horario y objecion.",
+        "La pauta pierde eficiencia si todos los leads entran como mensajes iguales sin clasificacion."
+      ],
+      "losses": [
+        "Personas interesadas preguntan precio o agenda y se quedan sin seguimiento.",
+        "El equipo responde manualmente dudas repetidas que un asesor podria filtrar.",
+        "Sin eventos claros por tratamiento, no se sabe que pauta genera valoraciones reales."
+      ],
+      "heatmapData": [
+        "Clics por tratamiento, antes/despues, valoracion, WhatsApp y formulario.",
+        "Abandono antes de agenda, precios orientativos o preguntas frecuentes.",
+        "Tratamientos que generan mas consulta y mejor oportunidad de cierre."
+      ],
+      "campaigns": [
+        "Campana por tratamiento prioritario con landing y formulario de valoracion.",
+        "Remarketing a visitantes que vieron tratamiento y no agendaron.",
+        "Anuncios de confianza: protocolo, equipo, tecnologia y valoracion asistida."
+      ],
+      "deliverables": [
+        "Optimizar landing/web por tratamientos con CTA a valoracion y WhatsApp contextual.",
+        "Asesor digital para filtrar interes, objetivo, disponibilidad y seguimiento.",
+        "Panel de leads por tratamiento, fuente, objecion y estado de agenda."
+      ]
+    },
+    {
+      "slug": "hotel-monaguillo-getsemani",
+      "company": "Hotel Monaguillo de Getsemani",
+      "instagram": "@hotelmonaguillogetsemani",
+      "sector": "hotel boutique y reservas turisticas",
+      "city": "Cartagena",
+      "tone": "boutique, calido y turistico",
+      "theme": "hospitality",
+      "brandMode": "standard",
+      "accent": "#B86B4B",
+      "secondary": "#F0C36A",
+      "status": "Instagram activo + reserva por link en bio; no se verifico motor propio confiable",
+      "leadProblem": "El hotel comunica deseo y experiencia, pero si la reserva depende del link en bio o de mensajes manuales, el viajero puede emocionarse y perderse antes de confirmar fecha, tarifa, tipo de habitacion o promocion.",
+      "opportunity": "Crear una landing de reserva directa con fechas, habitaciones, ubicacion en Getsemani, beneficios y asesor digital para cotizar rapido sin perder contexto.",
+      "proofLine": "Lectura publica del 30 de junio de 2026: Instagram @hotelmonaguillogetsemani se describe como estadia boutique en Getsemani y publica invitaciones recientes a reservar desde el link en bio.",
+      "audience": "Viajeros nacionales e internacionales que buscan hotel boutique en Getsemani, escapadas de pareja y estadias con experiencia local en Cartagena.",
+      "adAngle": "Getsemani autentico + reserva directa + asesor de fechas",
+      "whatsappCta": "Quiero convertir interes turistico en reservas directas",
+      "heroCopy": "En hoteleria boutique, una foto despierta deseo, pero la reserva ocurre cuando fecha, precio, ubicacion, beneficios y confianza aparecen sin friccion.",
+      "brandWorldTitle": "De inspiracion en Instagram a reserva directa",
+      "diagnosisTitle": "Fugas antes de reservar",
+      "botAgentName": "Asesor Monaguillo demo",
+      "botAgentRole": "filtra fechas, huespedes y tipo de viaje",
+      "botTitle": "Asesor digital para reservas boutique",
+      "botIntro": "El demo recoge fechas, numero de huespedes, motivo de viaje e idioma para responder con una solicitud lista para reserva.",
+      "botPrompts": [
+        "Reservar estadia",
+        "Fechas en Cartagena",
+        "Plan de pareja",
+        "Ubicacion Getsemani",
+        "Promociones"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "reserva",
+            "fecha",
+            "habitacion"
+          ],
+          "answer": "Pide fecha de entrada, salida, numero de huespedes, tipo de habitacion y WhatsApp para cotizacion directa."
+        },
+        {
+          "keywords": [
+            "getsemani",
+            "ubicacion",
+            "cartagena"
+          ],
+          "answer": "Explica la ventaja de estar en Getsemani y pregunta si el viaje es descanso, pareja, turismo o celebracion."
+        },
+        {
+          "keywords": [
+            "promocion",
+            "descuento",
+            "precio"
+          ],
+          "answer": "Registra la promocion consultada, fechas y ocupacion para que el equipo confirme tarifa vigente sin perder el lead."
+        },
+        {
+          "keywords": [
+            "pauta",
+            "datos",
+            "mide"
+          ],
+          "answer": "Mide fechas solicitadas, tipo de viaje, clics a reserva, mensajes iniciados y remarketing por temporada."
+        }
+      ],
+      "findings": [
+        "El perfil vende experiencia boutique y ubicacion en Getsemani.",
+        "La reserva requiere datos de fecha y ocupacion desde el primer contacto.",
+        "No se verifico una pagina propia de conversion con formulario y agenda dentro del mini-recorrido."
+      ],
+      "siteIssues": [
+        "Falta concentrar habitaciones, beneficios, ubicacion, preguntas frecuentes y CTA de reserva en una ruta propia.",
+        "WhatsApp debe recibir fechas y motivo de viaje, no mensajes frios sin contexto.",
+        "La pauta turistica necesita eventos de reserva iniciada y fechas consultadas."
+      ],
+      "losses": [
+        "Viajeros guardan el perfil y luego reservan en otra plataforma o hotel mas claro.",
+        "Recepcion responde manualmente disponibilidad y tarifas repetidas.",
+        "Sin remarketing, quien mira Cartagena hoy puede no recibir seguimiento cuando decide viajar."
+      ],
+      "heatmapData": [
+        "Clics por habitaciones, ubicacion, rooftop/experiencia, promociones y reserva.",
+        "Abandono antes de fechas, tarifa o condiciones.",
+        "Temporadas y motivos de viaje con mayor intencion."
+      ],
+      "campaigns": [
+        "Campana de escapada boutique a Getsemani con reserva directa.",
+        "Anuncios por temporada y promocion con formulario de fechas.",
+        "Remarketing a visitantes que consultaron ubicacion o habitaciones."
+      ],
+      "deliverables": [
+        "Landing de reserva directa con habitaciones, ubicacion, beneficios y WhatsApp contextual.",
+        "Asesor digital bilingue basico para fechas, huespedes, motivo y seguimiento.",
+        "Panel de oportunidades por temporada, fuente, fecha y estado de reserva."
+      ]
+    },
+    {
+      "slug": "hotel-quadrifolio-cartagena",
+      "company": "Hotel Quadrifolio",
+      "instagram": "@hotelquadrifolio",
+      "sector": "hotel boutique de lujo",
+      "city": "Cartagena",
+      "tone": "lujo sobrio, historico y personalizado",
+      "theme": "hospitality",
+      "brandMode": "standard",
+      "accent": "#8F6A45",
+      "secondary": "#D8C08C",
+      "status": "Instagram + web propia oficial visible",
+      "leadProblem": "Quadrifolio ya tiene web y posicionamiento boutique. La oportunidad esta en capturar mejor la intencion de visitantes que comparan hoteles de lujo y necesitan respuesta rapida sobre fechas, habitaciones, experiencias, eventos o reserva directa.",
+      "opportunity": "Mejorar conversion de la web actual con CTA de reserva directa, asesor digital de concierge y seguimiento para visitantes que miran habitaciones o experiencias sin completar reserva.",
+      "proofLine": "Lectura publica del 30 de junio de 2026: @hotelquadrifolio comunica luxury boutique hotel in Cartagena; hotelquadrifolio.com muestra direccion en Centro Historico, contacto y correo de reservas.",
+      "audience": "Viajeros premium, parejas, extranjeros y clientes que buscan alojamiento boutique en el Centro Historico de Cartagena.",
+      "adAngle": "Lujo historico + concierge inmediato + reserva directa",
+      "whatsappCta": "Quiero aumentar reservas directas desde la web",
+      "heroCopy": "En lujo boutique, el visitante no solo compara precio: compara confianza, detalle, ubicacion, experiencia y rapidez de respuesta antes de reservar.",
+      "brandWorldTitle": "De visita premium a reserva directa",
+      "diagnosisTitle": "Fugas en la decision premium",
+      "botAgentName": "Concierge Quadrifolio demo",
+      "botAgentRole": "responde fechas, habitaciones y experiencias",
+      "botTitle": "Concierge digital para reserva directa",
+      "botIntro": "El demo actua como primer concierge: entiende fechas, idioma, tipo de viaje y preferencia para llevar al equipo una solicitud lista.",
+      "botPrompts": [
+        "Consultar fechas",
+        "Habitaciones",
+        "Experiencia romantica",
+        "Centro Historico",
+        "Reserva directa"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "fecha",
+            "reserva",
+            "habitacion"
+          ],
+          "answer": "Solicita entrada, salida, numero de huespedes, preferencia de habitacion e idioma para cotizacion directa."
+        },
+        {
+          "keywords": [
+            "romantica",
+            "experiencia",
+            "celebracion"
+          ],
+          "answer": "Pregunta ocasion, fecha, preferencias y si necesita extras como cena, decoracion o transporte."
+        },
+        {
+          "keywords": [
+            "centro",
+            "ubicacion",
+            "cartagena"
+          ],
+          "answer": "Resalta la ubicacion en Centro Historico y pregunta si el viajero prioriza descanso, turismo, eventos o privacidad."
+        },
+        {
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
+          "answer": "Mide habitaciones vistas, fechas consultadas, CTA de reserva, idioma y visitantes que requieren seguimiento."
+        }
+      ],
+      "findings": [
+        "Tiene sitio oficial y presencia social orientada a lujo boutique.",
+        "La ventaja comercial esta en reserva directa y concierge con respuesta rapida.",
+        "El visitante premium necesita claridad sin sentirse empujado a un formulario frio."
+      ],
+      "siteIssues": [
+        "La web debe reforzar puntos de conversion hacia reserva directa y concierge.",
+        "El contacto debe conservar contexto de habitacion, fecha e idioma.",
+        "Sin seguimiento, visitantes de alto valor pueden terminar reservando por OTA o comparador."
+      ],
+      "losses": [
+        "Comisiones o perdida de margen si la reserva termina por intermediarios.",
+        "Preguntas de alto valor quedan como mensajes sueltos sin historial comercial.",
+        "Pauta premium sin eventos finos no aprende que audiencia reserva mejor."
+      ],
+      "heatmapData": [
+        "Clics por habitaciones, experiencias, ubicacion, reserva y contacto.",
+        "Abandono antes de motor de reserva o formulario.",
+        "Segmentos por idioma, fecha y tipo de viaje con mas intencion."
+      ],
+      "campaigns": [
+        "Campana de reserva directa para viajeros premium.",
+        "Remarketing a visitantes de habitaciones y experiencias.",
+        "Anuncios de concierge para parejas, turismo cultural y escapadas privadas."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en web actual: CTA, formulario, WhatsApp/concierge y eventos.",
+        "Concierge digital para fechas, idioma, habitacion, experiencia y seguimiento.",
+        "Panel de reservas iniciadas, fuente, habitacion vista y estado comercial."
+      ]
+    },
+    {
+      "slug": "enmadera-muebles-bucaramanga",
+      "company": "EnMadera Muebles",
+      "instagram": "@enmaderamuebles",
+      "sector": "muebles, deco e interiorismo",
+      "city": "Bucaramanga",
+      "tone": "calido, de diseno y personalizado",
+      "theme": "maker",
+      "brandMode": "standard",
+      "accent": "#A66A45",
+      "secondary": "#E3B866",
+      "status": "Instagram + ecommerce/web propia visible",
+      "leadProblem": "EnMadera tiene web, catalogo y personalizacion. La fuga probable esta en compras de alto ticket: personas que miran sofas, comedores o personalizacion y no reciben asesoría contextual inmediata para medidas, telas, envio, tiempos o financiacion.",
+      "opportunity": "Mejorar conversion de la web actual con asesor digital conectado a categoria/producto, captura de medidas y seguimiento para cotizaciones incompletas.",
+      "proofLine": "Lectura publica del 30 de junio de 2026: @enmaderamuebles se presenta como mobiliario personalizable en Bucaramanga; enmaderamuebles.com muestra fabrica de mobiliario, productos, personalizacion, interiorismo y WhatsApp.",
+      "audience": "Personas y familias en Colombia que buscan muebles personalizables, decoracion, sofas, comedores y apoyo de interiorismo.",
+      "adAngle": "Mueble personalizado + asesor de medidas + cotizacion con seguimiento",
+      "whatsappCta": "Quiero convertir visitas de catalogo en cotizaciones",
+      "heroCopy": "En muebles, el cliente no compra solo por ver un sofa: necesita medidas, colores, material, tiempo, envio y seguridad antes de cotizar.",
+      "brandWorldTitle": "De catalogo bonito a cotizacion guiada",
+      "diagnosisTitle": "Fugas en compras de alto ticket",
+      "botAgentName": "Asesor EnMadera demo",
+      "botAgentRole": "filtra producto, medida, ciudad y estilo",
+      "botTitle": "Asesor digital para muebles personalizados",
+      "botIntro": "El demo pregunta por espacio, medidas, producto, ciudad y estilo para entregar una cotizacion mejor preparada.",
+      "botPrompts": [
+        "Cotizar sofa",
+        "Personalizar mueble",
+        "Envios Colombia",
+        "Medidas del espacio",
+        "Interiorismo"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sofa",
+            "comedor",
+            "mueble",
+            "cotizar"
+          ],
+          "answer": "Pregunta producto, medidas del espacio, ciudad, color/material preferido y fecha ideal de entrega."
+        },
+        {
+          "keywords": [
+            "personalizar",
+            "medida",
+            "tela",
+            "color"
+          ],
+          "answer": "Guia al cliente por medidas, uso del espacio, estilo deseado y referencias para que el asesor humano cotice con precision."
+        },
+        {
+          "keywords": [
+            "envio",
+            "ciudad",
+            "colombia"
+          ],
+          "answer": "Registra ciudad y tipo de producto para confirmar cobertura, costo y tiempos sin repetir preguntas."
+        },
+        {
+          "keywords": [
+            "datos",
+            "pauta",
+            "mide"
+          ],
+          "answer": "Mide categoria vista, clics de personalizacion, intentos de cotizacion, ciudad y objeciones de entrega/precio."
+        }
+      ],
+      "findings": [
+        "Tiene ecommerce y oferta de personalizacion, una base fuerte para vender con data.",
+        "El alto ticket requiere asesoramiento antes del carrito.",
+        "WhatsApp debe recibir contexto del producto visto y no solo un saludo."
+      ],
+      "siteIssues": [
+        "El carrito por si solo no resuelve dudas de medida, material y envio.",
+        "La personalizacion necesita formulario guiado con fotos/referencias y seguimiento.",
+        "La pauta debe diferenciar interes en decoracion, sofa, comedor e interiorismo."
+      ],
+      "losses": [
+        "Visitantes miran productos y se van porque no saben si cabe, cuanto tarda o como personalizar.",
+        "Asesores repiten preguntas basicas de medidas y ciudad.",
+        "Sin seguimiento, una cotizacion de alto valor puede quedar perdida en WhatsApp."
+      ],
+      "heatmapData": [
+        "Clics por categoria, producto, personalizacion, WhatsApp y carrito.",
+        "Abandono antes de precio, envio o medidas.",
+        "Categorias que generan mayor intencion de cotizacion."
+      ],
+      "campaigns": [
+        "Campana por sofas y comedores con asesor de medidas.",
+        "Remarketing a visitantes de personalizacion que no cotizaron.",
+        "Anuncios de interiorismo con formulario de espacio y ciudad."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en web actual: cotizador, WhatsApp contextual y eventos por categoria.",
+        "Asesor digital para producto, medidas, ciudad, estilo, envio y seguimiento.",
+        "Panel de oportunidades por producto, fuente, ciudad y estado de cotizacion."
+      ]
+    },
+    {
+      "slug": "muebles-casota-bogota",
+      "company": "Muebles Casota",
+      "instagram": "@mueblescasota",
+      "sector": "fabrica y venta de muebles",
+      "city": "Bogota",
+      "tone": "popular, directo y vendedor",
+      "theme": "maker",
+      "brandMode": "standard",
+      "accent": "#C47A3D",
+      "secondary": "#2F8C8C",
+      "status": "Instagram + web propia visible",
+      "leadProblem": "Muebles Casota ya muestra fabrica, showroom y WhatsApp. La fuga esta en llevar visitas de Instagram/web a cotizaciones ordenadas por producto, medida, ciudad, presupuesto y fecha de entrega.",
+      "opportunity": "Mejorar conversion de la web actual y WhatsApp con cotizador guiado, rutas por sala/comedor/sofa cama y seguimiento a compradores que preguntan precio.",
+      "proofLine": "Lectura publica del 30 de junio de 2026: @mueblescasota publica showroom en Calle 73 #50-23 Bogota y WhatsApp; busquedas publicas muestran mueblescasota.com como pagina segura/confiable.",
+      "audience": "Familias y compradores en Bogota/Colombia que buscan salas, comedores, sofas cama y muebles con entrega o visita a showroom.",
+      "adAngle": "Fabrica directa + cotizacion rapida + visita o WhatsApp con contexto",
+      "whatsappCta": "Quiero ordenar cotizaciones de muebles desde pauta",
+      "heroCopy": "Cuando el cliente pregunta por un sofa, normalmente ya comparo estilos y precios. El sistema debe capturar medida, presupuesto y urgencia antes de que compre en otro lado.",
+      "brandWorldTitle": "De showroom en redes a cotizacion medible",
+      "diagnosisTitle": "Fugas en cotizaciones de muebles",
+      "botAgentName": "Asesor Casota demo",
+      "botAgentRole": "filtra producto, medida y presupuesto",
+      "botTitle": "Asesor para cotizar muebles",
+      "botIntro": "El demo convierte preguntas de precio en una ficha de cotizacion con producto, medidas, ciudad, presupuesto y fecha ideal.",
+      "botPrompts": [
+        "Cotizar sala",
+        "Sofa cama",
+        "Visitar showroom",
+        "Entrega Bogota",
+        "Presupuesto"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sala",
+            "sofa",
+            "comedor",
+            "cotizar"
+          ],
+          "answer": "Pregunta referencia, medida disponible, color deseado, presupuesto, ciudad y si prefiere visitar showroom o cerrar por WhatsApp."
+        },
+        {
+          "keywords": [
+            "showroom",
+            "direccion",
+            "visitar"
+          ],
+          "answer": "Registra dia de visita, producto de interes y datos de contacto para que el vendedor espere con opciones listas."
+        },
+        {
+          "keywords": [
+            "entrega",
+            "envio",
+            "bogota"
+          ],
+          "answer": "Pregunta barrio/ciudad, piso o condiciones de entrega y fecha ideal para evitar reprocesos."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide producto consultado, presupuesto declarado, clics a WhatsApp y cotizaciones que avanzan a cierre."
+        }
+      ],
+      "findings": [
+        "Tiene señales claras de showroom, fabrica y WhatsApp.",
+        "El volumen de consultas puede mejorar si entra clasificado por producto y presupuesto.",
+        "Una ruta de cotizacion reduce preguntas repetidas y acelera cierre."
+      ],
+      "siteIssues": [
+        "La web/WhatsApp deben pedir medidas y presupuesto antes del contacto humano.",
+        "La pauta debe separar salas, comedores, sofa cama y visitas al showroom.",
+        "Sin seguimiento, quien pregunta precio puede quedar sin proxima accion."
+      ],
+      "losses": [
+        "Vendedores pierden tiempo pidiendo datos basicos en cada chat.",
+        "Clientes comparan por precio sin entender materiales, entrega o garantia.",
+        "No queda data clara de que productos generan mejores cotizaciones."
+      ],
+      "heatmapData": [
+        "Clics por categoria, precio, WhatsApp, ubicacion y showroom.",
+        "Abandono antes de cotizar medidas o entrega.",
+        "Productos y rangos de presupuesto con mejor intencion."
+      ],
+      "campaigns": [
+        "Campana de salas y sofas cama con cotizador por WhatsApp.",
+        "Anuncios de visita a showroom con agenda simple.",
+        "Remarketing a visitantes que vieron producto sin cotizar."
+      ],
+      "deliverables": [
+        "Optimizar web actual con cotizador por producto, medidas y presupuesto.",
+        "Asesor digital para producto, medidas, ciudad, entrega, showroom y seguimiento.",
+        "Panel de cotizaciones por fuente, categoria, presupuesto y estado."
+      ]
+    },
+    {
+      "slug": "luxor-muebles-barranquilla",
+      "company": "Luxor Muebles y Decoracion",
+      "instagram": "@luxormueblesydecoracion",
+      "sector": "muebles y decoracion para el hogar",
+      "city": "Barranquilla",
+      "tone": "asesor, decorativo y comercial",
+      "theme": "maker",
+      "brandMode": "standard",
+      "accent": "#5A6F73",
+      "secondary": "#D9A64A",
+      "status": "Instagram + WhatsApp y sedes visibles; no se verifico web propia confiable",
+      "leadProblem": "Luxor muestra sedes, productos y asesoria, pero si la venta vive en Instagram/WhatsApp, cada consulta por sofa, cama, comedor o decoracion puede entrar sin medidas, estilo, presupuesto ni ciudad.",
+      "opportunity": "Crear landing catalogo con categorias, sedes, colecciones, asesor digital y formulario de cotizacion para que la pauta no solo genere mensajes sino oportunidades ordenadas.",
+      "proofLine": "Lectura publica del 30 de junio de 2026: @luxormueblesydecoracion lista sede principal y segunda sede en Barranquilla con telefonos; publicaciones invitan a escribir por WhatsApp para armar espacios.",
+      "audience": "Compradores en Barranquilla y Costa Caribe que buscan renovar sala, comedor, habitacion o decoracion con asesoria.",
+      "adAngle": "Renueva tu espacio + asesoria inmediata + cotizacion guiada",
+      "whatsappCta": "Quiero convertir mensajes de muebles en cotizaciones",
+      "heroCopy": "En muebles y decoracion, el cliente necesita imaginar su espacio, pero tambien aterrizar medidas, disponibilidad, presupuesto y entrega antes de decidir.",
+      "brandWorldTitle": "De inspiracion de hogar a cotizacion lista",
+      "diagnosisTitle": "Fugas por venta manual",
+      "botAgentName": "Asesor Luxor demo",
+      "botAgentRole": "filtra espacio, producto y presupuesto",
+      "botTitle": "Asesor digital para decorar y cotizar",
+      "botIntro": "El demo ayuda a clasificar la consulta por ambiente, producto, medida, estilo y presupuesto antes de pasar al vendedor.",
+      "botPrompts": [
+        "Quiero renovar sala",
+        "Comedor o habitacion",
+        "Visitar sede",
+        "Cotizar por WhatsApp",
+        "Presupuesto"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sala",
+            "comedor",
+            "habitacion",
+            "decoracion"
+          ],
+          "answer": "Pregunta ambiente, medidas aproximadas, estilo buscado, presupuesto y ciudad para orientar opciones."
+        },
+        {
+          "keywords": [
+            "sede",
+            "direccion",
+            "visitar"
+          ],
+          "answer": "Pide sede preferida, dia de visita y producto de interes para preparar atencion en tienda."
+        },
+        {
+          "keywords": [
+            "precio",
+            "cotizar",
+            "whatsapp"
+          ],
+          "answer": "Convierte precio en cotizacion: referencia, medida, color/material, entrega y datos de contacto."
+        },
+        {
+          "keywords": [
+            "pauta",
+            "datos",
+            "mide"
+          ],
+          "answer": "Mide ambiente de interes, categoria, clics a WhatsApp, visitas a sede y cotizaciones abiertas."
+        }
+      ],
+      "findings": [
+        "Tiene sedes fisicas y WhatsApp visibles, buena base para pauta local.",
+        "No se verifico web propia que organice catalogo y cotizacion.",
+        "El asesor digital puede reducir preguntas repetidas y priorizar leads listos."
+      ],
+      "siteIssues": [
+        "Falta landing con categorias, sedes, productos ancla, promociones y formulario.",
+        "WhatsApp debe recibir ambiente, medidas y presupuesto desde el primer mensaje.",
+        "Sin pixel propio, la pauta no aprende que productos o sedes generan cierre."
+      ],
+      "losses": [
+        "Clientes preguntan por DM y se enfria la conversacion si no reciben opciones rapido.",
+        "El equipo invierte tiempo en consultas sin presupuesto o sin medidas.",
+        "No queda base de datos limpia para remarketing por ambiente de hogar."
+      ],
+      "heatmapData": [
+        "Clics por sala, comedor, cama, decoracion, sede y WhatsApp.",
+        "Abandono antes de presupuesto, entrega o visita a sede.",
+        "Ambientes y productos que activan mas cotizaciones."
+      ],
+      "campaigns": [
+        "Campana de renovacion de sala/comedor por zona.",
+        "Anuncios de visita a sede con agenda simple.",
+        "Remarketing a visitantes que vieron categoria sin cotizar."
+      ],
+      "deliverables": [
+        "Landing catalogo con ambientes, sedes, productos ancla y WhatsApp contextual.",
+        "Asesor digital para ambiente, medidas, estilo, presupuesto, sede y seguimiento.",
+        "Panel de leads por ambiente, fuente, sede y estado de cotizacion."
+      ]
+    },
+    {
+      "slug": "mento-pilates-bogota",
+      "company": "Mento Pilates",
+      "instagram": "@mentopilates.co",
+      "sector": "estudio de pilates y bienestar",
+      "city": "Bogota",
+      "tone": "sereno, tecnico y cercano",
+      "theme": "wellness",
+      "brandMode": "standard",
+      "accent": "#8AA58D",
+      "secondary": "#E6C36A",
+      "status": "Instagram + web/agenda online visible",
+      "leadProblem": "Mento ya tiene web y agenda online. La oportunidad esta en reducir la friccion entre interes por una clase y reserva efectiva, especialmente cuando la persona pregunta por horarios, niveles, ubicacion, precios o disponibilidad.",
+      "opportunity": "Mejorar conversion de la web/agenda con asesor digital que recomiende clase, capture nivel, dolor/objetivo, horario y haga seguimiento a quien no reserva.",
+      "proofLine": "Lectura publica del 30 de junio de 2026: busquedas publicas muestran Mento Pilates en Bogota con web mentopilates.com, reservas, direccion Carrera 24 #40-69 y telefono 3007896516; AgendaPro lista reservas online.",
+      "audience": "Personas en Bogota que buscan pilates, movimiento consciente, clases privadas o grupales y una agenda clara para empezar.",
+      "adAngle": "Clase ideal + horario claro + reserva asistida",
+      "whatsappCta": "Quiero llenar mas clases con seguimiento",
+      "heroCopy": "En estudios de pilates, la persona puede estar motivada hoy. Si no entiende nivel, horario, precio y como reservar, esa intencion se va con otra rutina.",
+      "brandWorldTitle": "De interes en bienestar a clase reservada",
+      "diagnosisTitle": "Fugas antes de la primera clase",
+      "botAgentName": "Asesor Mento demo",
+      "botAgentRole": "recomienda clase, nivel y horario",
+      "botTitle": "Asesor digital para reservar clases",
+      "botIntro": "El demo filtra objetivo, experiencia, disponibilidad y preferencia de clase para llevar a una reserva mas rapida.",
+      "botPrompts": [
+        "Reservar clase",
+        "Soy principiante",
+        "Dolor de espalda",
+        "Horarios",
+        "Clase privada"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "reservar",
+            "clase",
+            "horario"
+          ],
+          "answer": "Pregunta objetivo, nivel, horario disponible y si prefiere clase grupal o privada para enviar a agenda con contexto."
+        },
+        {
+          "keywords": [
+            "principiante",
+            "primera",
+            "nuevo"
+          ],
+          "answer": "Explica ruta de inicio, pregunta si hay lesiones o molestias y recomienda una clase segura para evaluar nivel."
+        },
+        {
+          "keywords": [
+            "espalda",
+            "dolor",
+            "lesion"
+          ],
+          "answer": "Recoge molestia, restriccion medica y objetivo; sugiere validar con instructor antes de confirmar rutina."
+        },
+        {
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
+          "answer": "Mide clase consultada, horarios solicitados, reservas iniciadas y leads que necesitan seguimiento."
+        }
+      ],
+      "findings": [
+        "Tiene web y agenda, lo que permite optimizar conversion en lugar de crear todo desde cero.",
+        "La primera clase exige resolver dudas de nivel, horario y confianza.",
+        "El seguimiento puede recuperar interesados que no completan reserva."
+      ],
+      "siteIssues": [
+        "La agenda debe estar conectada a preguntas frecuentes y recomendacion de clase.",
+        "WhatsApp debe recibir objetivo, nivel y horario preferido.",
+        "Sin eventos de reserva iniciada, la pauta no distingue curiosos de futuros alumnos."
+      ],
+      "losses": [
+        "Personas motivadas revisan horarios y no reservan por dudas de nivel.",
+        "El equipo responde manualmente preguntas repetidas de precios y clases.",
+        "No se recuperan leads que abandonan la agenda."
+      ],
+      "heatmapData": [
+        "Clics por horarios, precios, clase grupal/privada, ubicacion y reserva.",
+        "Abandono antes de seleccionar clase u horario.",
+        "Objetivos mas frecuentes: espalda, fuerza, flexibilidad o habito."
+      ],
+      "campaigns": [
+        "Campana de primera clase con recomendador rapido.",
+        "Anuncios por dolor/objetivo: espalda, postura, fuerza, bienestar.",
+        "Remarketing a visitantes que abrieron agenda sin reservar."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en web/agenda actual con CTA y eventos.",
+        "Asesor digital para objetivo, nivel, lesiones, horario y seguimiento.",
+        "Panel de reservas por fuente, tipo de clase, horario y estado."
+      ]
+    },
+    {
+      "slug": "pilates-terapeutico-sg-bogota",
+      "company": "Pilates Terapeutico SG",
+      "instagram": "@pilatesterapeuticosg",
+      "sector": "pilates terapeutico y bienestar",
+      "city": "Bogota",
+      "tone": "terapeutico, claro y motivador",
+      "theme": "wellness",
+      "brandMode": "standard",
+      "accent": "#6E9F93",
+      "secondary": "#F0B85A",
+      "status": "Instagram + WhatsApp; no se verifico web propia confiable",
+      "leadProblem": "El perfil comunica sedes, clase de cortesia y WhatsApp. Sin landing propia, la persona interesada puede no entender rapidamente sedes, horarios, beneficios, precios, contraindicaciones o cual clase tomar.",
+      "opportunity": "Crear landing de captacion con sedes, clase de cortesia, preguntas frecuentes, beneficios terapeuticos y asesor digital para filtrar objetivo, dolor, horario y sede.",
+      "proofLine": "Lectura publica del 30 de junio de 2026: @pilatesterapeuticosg aparece como Pilates Terapeutico SG en Bogota, con sedes Kennedy Central y Santa Helenita, clase de cortesia y WhatsApp 3023950960.",
+      "audience": "Personas en Bogota que buscan pilates terapeutico, movimiento consciente, alivio de molestias, postura y clases de cortesia.",
+      "adAngle": "Clase de cortesia + sede cercana + orientacion segun objetivo",
+      "whatsappCta": "Quiero convertir interesados en clases agendadas",
+      "heroCopy": "Cuando alguien busca pilates terapeutico, necesita sentirse seguro: sede, horario, nivel, dolor u objetivo deben resolverse antes de pedirle que escriba.",
+      "brandWorldTitle": "De curiosidad por pilates a clase de cortesia",
+      "diagnosisTitle": "Fugas antes de agendar",
+      "botAgentName": "Asesor SG demo",
+      "botAgentRole": "filtra sede, objetivo y horario",
+      "botTitle": "Asesor digital para clase de cortesia",
+      "botIntro": "El demo pregunta sede, objetivo, molestias, experiencia y disponibilidad para agendar con contexto.",
+      "botPrompts": [
+        "Clase de cortesia",
+        "Sede cercana",
+        "Dolor de espalda",
+        "Horarios",
+        "Principiante"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cortesia",
+            "clase",
+            "agenda"
+          ],
+          "answer": "Pide sede preferida, horario, experiencia previa, objetivo y WhatsApp para agendar la clase de cortesia."
+        },
+        {
+          "keywords": [
+            "sede",
+            "kennedy",
+            "santa"
+          ],
+          "answer": "Ayuda a escoger sede segun ubicacion y disponibilidad; deja listo el dato para confirmacion humana."
+        },
+        {
+          "keywords": [
+            "dolor",
+            "espalda",
+            "lesion"
+          ],
+          "answer": "Pregunta molestia, restricciones y objetivo; aclara que el instructor valida la ruta adecuada."
+        },
+        {
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
+          "answer": "Mide sede solicitada, objetivo, clics a WhatsApp, clases agendadas y asistencias potenciales."
+        }
+      ],
+      "findings": [
+        "Tiene propuesta clara de pilates terapeutico y clase de cortesia.",
+        "No se verifico landing propia que ordene sedes, horarios y dudas.",
+        "El asesor digital puede convertir DMs en reservas mas ordenadas."
+      ],
+      "siteIssues": [
+        "Falta una pagina que explique sedes, clase de cortesia, horarios y beneficios.",
+        "WhatsApp debe recibir sede, objetivo, molestia y disponibilidad.",
+        "La pauta necesita medir clases agendadas, no solo mensajes."
+      ],
+      "losses": [
+        "Interesados no escriben si no entienden donde, cuando o para quien es la clase.",
+        "Mensajes llegan sin datos y obligan a preguntar todo manualmente.",
+        "Sin seguimiento, personas que preguntan por horarios pueden no asistir."
+      ],
+      "heatmapData": [
+        "Clics por sede, clase de cortesia, horarios, beneficios y WhatsApp.",
+        "Abandono antes de elegir sede u horario.",
+        "Objetivos que mas activan agenda: espalda, postura, fuerza o bienestar."
+      ],
+      "campaigns": [
+        "Campana de clase de cortesia por zona y sede.",
+        "Anuncios por dolor/beneficio terapeutico.",
+        "Remarketing a visitantes que eligieron sede sin agendar."
+      ],
+      "deliverables": [
+        "Landing con sedes, horarios, clase de cortesia, beneficios y WhatsApp contextual.",
+        "Asesor digital para sede, objetivo, molestia, disponibilidad y seguimiento.",
+        "Panel de clases por fuente, sede, objetivo y estado de agenda."
+      ]
+    },
+    {
+      "slug": "reposteria-zahavi-cali",
+      "company": "Reposteria Zahavi",
+      "instagram": "@reposteriazahavi",
+      "sector": "reposteria, tortas y pedidos",
+      "city": "Cali",
+      "tone": "dulce, tradicional y vendedor",
+      "theme": "maker",
+      "brandMode": "pastry",
+      "accent": "#C46A4A",
+      "secondary": "#F3C55C",
+      "status": "Instagram + WhatsApp; no se verifico web propia confiable",
+      "leadProblem": "Zahavi tiene producto visual y pedidos por WhatsApp, pero la venta manual puede perder clientes que necesitan torta, desayuno, domicilio, fecha, cantidad o sede sin escribir varias veces.",
+      "opportunity": "Crear landing de pedidos con productos estrella, ocasiones, sedes, tiempos, domicilio y asesor digital para cotizar por fecha/cantidad/ocasion.",
+      "proofLine": "Lectura publica del 30 de junio de 2026: @reposteriazahavi publica desde Cali y menciona pedidos/WhatsApp 3173131509 en publicaciones; busquedas muestran sedes en San Antonio y Ciudad Jardin.",
+      "audience": "Personas en Cali que buscan tortas, desayunos, postres, regalos y pedidos para fechas especiales.",
+      "adAngle": "Antojo o celebracion + pedido claro + WhatsApp con fecha",
+      "whatsappCta": "Quiero convertir antojos en pedidos medibles",
+      "heroCopy": "En reposteria, la compra depende de tiempo y ocasion. Si la persona no ve opciones, fecha minima, domicilio y precio orientativo, puede dejar el antojo para despues.",
+      "brandWorldTitle": "De antojo visual a pedido confirmado",
+      "diagnosisTitle": "Fugas antes del pedido",
+      "botAgentName": "Asesor Zahavi demo",
+      "botAgentRole": "filtra producto, fecha y domicilio",
+      "botTitle": "Asesor digital para pedidos dulces",
+      "botIntro": "El demo pregunta producto, ocasion, fecha, cantidad, direccion y forma de entrega para dejar el pedido listo.",
+      "botPrompts": [
+        "Pedir torta",
+        "Desayuno o postre",
+        "Domicilio Cali",
+        "Fecha especial",
+        "Cantidad"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "torta",
+            "pedido",
+            "postre"
+          ],
+          "answer": "Pregunta producto, tamano/cantidad, fecha, hora, direccion o sede y datos de contacto."
+        },
+        {
+          "keywords": [
+            "cumple",
+            "ocasion",
+            "regalo"
+          ],
+          "answer": "Filtra ocasion, mensaje, presupuesto y fecha para sugerir opciones y extras."
+        },
+        {
+          "keywords": [
+            "domicilio",
+            "cali",
+            "entrega"
+          ],
+          "answer": "Pide barrio, fecha, franja horaria y producto para confirmar cobertura y costo."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide producto consultado, ocasion, fecha, clics a WhatsApp y pedidos que requieren seguimiento."
+        }
+      ],
+      "findings": [
+        "Producto visual y publicaciones de pedido son base fuerte para pauta.",
+        "No se verifico una web propia que organice menu, tiempos y domicilio.",
+        "La fecha y cantidad son datos clave que WhatsApp debe recibir desde el inicio."
+      ],
+      "siteIssues": [
+        "Falta landing con productos, ocasiones, sedes, tiempos, domicilio y preguntas frecuentes.",
+        "WhatsApp debe recibir producto, fecha, cantidad y barrio.",
+        "Sin pixel, no se recuperan personas que miran postres sin pedir."
+      ],
+      "losses": [
+        "Clientes con antojo abandonan si no ven opciones y tiempos rapido.",
+        "El equipo repite preguntas de fecha, cantidad y domicilio.",
+        "Fechas especiales pueden perderse por falta de recordatorio o seguimiento."
+      ],
+      "heatmapData": [
+        "Clics por tortas, desayunos, postres, domicilio, sede y WhatsApp.",
+        "Abandono antes de fecha, cantidad o entrega.",
+        "Ocasiones y productos que generan mas pedidos."
+      ],
+      "campaigns": [
+        "Campana de fechas especiales y tortas por ocasion.",
+        "Anuncios de antojo inmediato con pedido a WhatsApp.",
+        "Remarketing a visitantes que vieron productos sin pedir."
+      ],
+      "deliverables": [
+        "Landing de pedidos con productos estrella, ocasiones, sedes, tiempos y WhatsApp contextual.",
+        "Asesor digital para producto, fecha, cantidad, domicilio, ocasion y seguimiento.",
+        "Panel de pedidos por fuente, producto, fecha, ocasion y estado."
+      ]
+    },
+    {
+      "slug": "floristeria-cali-arreglos-florales",
+      "company": "Floristeria Cali Arreglos Florales",
+      "instagram": "@floristeriacali_",
+      "sector": "floristeria y domicilios de flores",
+      "city": "Cali",
+      "tone": "emocional, rapido y de regalo",
+      "theme": "maker",
+      "brandMode": "standard",
+      "accent": "#D94E7A",
+      "secondary": "#F2C14E",
+      "status": "Instagram + WhatsApp; web de pedidos visible en resultados publicos",
+      "leadProblem": "La compra de flores es urgente y emocional. Si el cliente no encuentra rapido arreglo, precio, disponibilidad, entrega, dedicatoria y WhatsApp con contexto, puede comprar en la primera opcion que le responda.",
+      "opportunity": "Mejorar conversion de la pagina/landing con catalogo por ocasion, pedido rapido, formulario de entrega y asesor digital para ramo, fecha, direccion y dedicatoria.",
+      "proofLine": "Lectura publica del 30 de junio de 2026: @floristeriacali_ muestra arreglos y WhatsApp 3167426218; publicaciones publicas de Floristeria Cali mencionan pedidos por WhatsApp y sitios web de arreglos florales en Cali.",
+      "audience": "Personas en Cali que necesitan flores para cumpleaños, amor, condolencias, aniversarios, grados o pedidos de ultimo momento.",
+      "adAngle": "Ocasion urgente + arreglo claro + entrega guiada",
+      "whatsappCta": "Quiero convertir visitas en pedidos de flores",
+      "heroCopy": "En flores, el cliente compra por emocion y tiempo. El sistema debe resolver ocasion, presupuesto, entrega y dedicatoria antes de que la urgencia se vaya a otra floristeria.",
+      "brandWorldTitle": "De detalle emocional a pedido confirmado",
+      "diagnosisTitle": "Fugas antes del domicilio",
+      "botAgentName": "Asesor Floral demo",
+      "botAgentRole": "filtra ocasion, arreglo y entrega",
+      "botTitle": "Asesor digital para pedidos florales",
+      "botIntro": "El demo pregunta ocasion, presupuesto, fecha, direccion, dedicatoria y estilo de arreglo para confirmar el pedido mas rapido.",
+      "botPrompts": [
+        "Ramo para hoy",
+        "Cumpleanos",
+        "Condolencias",
+        "Presupuesto",
+        "Domicilio Cali"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "ramo",
+            "flores",
+            "pedido"
+          ],
+          "answer": "Pregunta ocasion, presupuesto, fecha/hora, direccion, dedicatoria y WhatsApp para armar el pedido."
+        },
+        {
+          "keywords": [
+            "cumple",
+            "aniversario",
+            "amor"
+          ],
+          "answer": "Sugiere ruta por ocasion y captura mensaje de tarjeta, estilo y presupuesto."
+        },
+        {
+          "keywords": [
+            "condolencia",
+            "funebre",
+            "corona"
+          ],
+          "answer": "Filtra tipo de arreglo, lugar de entrega, hora limite y datos de contacto con tono respetuoso."
+        },
+        {
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
+          "answer": "Mide ocasion, presupuesto, clics a WhatsApp, pedidos iniciados y entregas solicitadas por zona."
+        }
+      ],
+      "findings": [
+        "Tiene producto visual y WhatsApp, ideal para conversion rapida.",
+        "La urgencia del pedido exige datos de entrega desde el primer paso.",
+        "La pagina/landing debe ordenar ocasiones y evitar chats sin contexto."
+      ],
+      "siteIssues": [
+        "El catalogo debe estar organizado por ocasion, presupuesto y disponibilidad.",
+        "WhatsApp debe recibir direccion, fecha, franja horaria y dedicatoria.",
+        "La pauta necesita saber que ocasion y presupuesto convierten mejor."
+      ],
+      "losses": [
+        "Clientes urgentes compran donde les respondan primero.",
+        "El equipo repite preguntas de direccion, dedicatoria y presupuesto.",
+        "Sin remarketing, fechas como cumpleanos o aniversarios no quedan para seguimiento."
+      ],
+      "heatmapData": [
+        "Clics por ocasion, presupuesto, domicilio, WhatsApp y catalogo.",
+        "Abandono antes de entrega o dedicatoria.",
+        "Ocasiones y rangos de precio con mayor intencion."
+      ],
+      "campaigns": [
+        "Campana de pedidos para hoy por ocasion.",
+        "Anuncios de cumpleaños/aniversario con WhatsApp contextual.",
+        "Remarketing a visitantes que vieron arreglos sin pedir."
+      ],
+      "deliverables": [
+        "Landing/catalogo por ocasion, presupuesto, entrega y WhatsApp contextual.",
+        "Asesor digital para ocasion, presupuesto, direccion, dedicatoria, fecha y seguimiento.",
+        "Panel de pedidos por fuente, ocasion, zona, presupuesto y estado."
+      ]
     }
   ]
 }
