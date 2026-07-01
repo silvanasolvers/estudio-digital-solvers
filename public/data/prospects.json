@@ -17150,6 +17150,1037 @@
         "Asesor digital para ocasion, presupuesto, direccion, dedicatoria, fecha y seguimiento.",
         "Panel de pedidos por fuente, ocasion, zona, presupuesto y estado."
       ]
+    },
+    {
+      "slug": "dlili-arango-pasteleria-boutique",
+      "company": "D'Lili Arango Pasteleria Boutique",
+      "instagram": "@dlilipasteleria",
+      "sector": "pasteleria boutique y tortas por ciudad",
+      "city": "Bogota, Cali, Medellin, Barranquilla y Chia",
+      "tone": "dulce, boutique y comercial",
+      "theme": "maker",
+      "brandMode": "pastry",
+      "accent": "#C65F45",
+      "secondary": "#F3C36A",
+      "status": "Instagram + web propia oficial visible",
+      "leadProblem": "D'Lili tiene presencia multiciudad, pedidos por WhatsApp y web. La fuga probable esta en convertir antojo, celebracion o visita a tienda en pedido con ciudad, fecha, sabor, tamano, domicilio y seguimiento claro.",
+      "opportunity": "Mejorar conversion de la web actual con pedido guiado por ciudad, producto y ocasion, asesor digital para dudas repetidas y recuperacion de quienes miran tortas sin comprar.",
+      "proofLine": "Lectura publica del 1 de julio de 2026: @dlilipasteleria muestra sedes/contactos en Bogota, Cali, Barranquilla, Medellin y Chia; dliliarango.com.co presenta Pasteleria Boutique y productos como tortas melcochudas.",
+      "audience": "Personas que buscan tortas, postres, regalos y antojos para celebraciones en varias ciudades de Colombia.",
+      "adAngle": "Torta favorita + ciudad correcta + pedido guiado por WhatsApp",
+      "whatsappCta": "Quiero convertir antojos en pedidos por ciudad",
+      "heroCopy": "En pasteleria multiciudad, la persona no solo quiere ver una torta bonita: necesita saber ciudad, disponibilidad, fecha, sabor, tamano y forma de entrega antes de comprar.",
+      "brandWorldTitle": "De torta deseada a pedido confirmado",
+      "diagnosisTitle": "Fugas antes del pedido",
+      "botAgentName": "Asesor D'Lili demo",
+      "botAgentRole": "filtra ciudad, producto y fecha",
+      "botTitle": "Asesor digital para pedidos dulces",
+      "botIntro": "El demo convierte una pregunta general por torta en una ficha de pedido con ciudad, producto, fecha, tamano, sabor y entrega.",
+      "botOpening": "Hola, soy el bot demo para D'Lili. Puedo orientar pedidos por ciudad, tortas, fechas, domicilios y seguimiento de antojos.",
+      "botPrompts": [
+        "Pedir torta",
+        "Ciudad disponible",
+        "Fecha especial",
+        "Domicilio",
+        "Sabores"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "torta",
+            "pedido",
+            "postre"
+          ],
+          "answer": "Pregunta ciudad, producto, fecha, tamano, sabor, cantidad y si la persona quiere recoger o recibir a domicilio."
+        },
+        {
+          "keywords": [
+            "bogota",
+            "cali",
+            "medellin",
+            "barranquilla",
+            "chia",
+            "ciudad"
+          ],
+          "answer": "Primero identifica la ciudad para mostrar tienda, contacto y disponibilidad correctos, evitando que el lead llegue al canal equivocado."
+        },
+        {
+          "keywords": [
+            "cumple",
+            "celebracion",
+            "regalo",
+            "fecha"
+          ],
+          "answer": "Pide fecha, mensaje, presupuesto y numero de personas para sugerir una torta o postre que tenga sentido comercial."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ciudad, producto consultado, ocasion, clics a WhatsApp y pedidos que quedan pendientes de seguimiento."
+        }
+      ],
+      "findings": [
+        "Tiene marca visible, sedes en varias ciudades y web propia que puede capturar demanda mejor que solo Instagram.",
+        "El reto comercial es ordenar la intencion por ciudad, producto y fecha para no perder pedidos en conversaciones sueltas.",
+        "La pauta puede aprender mucho mas si cada clic deja producto, ocasion y ciudad antes de pasar al equipo."
+      ],
+      "siteIssues": [
+        "La web debe llevar mas rapido a pedido por ciudad, producto y fecha, no solo a vitrina general.",
+        "WhatsApp deberia recibir contexto de ciudad, producto, tamano, sabor y ocasion desde el primer mensaje.",
+        "Sin seguimiento, quien mira tortas para una celebracion puede enfriarse y comprar en otra pasteleria."
+      ],
+      "losses": [
+        "Pedidos multiciudad pueden entrar al contacto equivocado o incompletos.",
+        "El equipo repite preguntas basicas de fecha, ciudad, tamano, sabor y entrega.",
+        "La pauta sin eventos por producto no identifica que tortas generan pedidos reales."
+      ],
+      "heatmapData": [
+        "Clics por ciudad, torta, postre, tienda, WhatsApp y pedido.",
+        "Abandono antes de seleccionar ciudad, fecha o forma de entrega.",
+        "Ocasiones, productos y ciudades con mayor intencion de compra."
+      ],
+      "campaigns": [
+        "Campana por ciudad y ocasion: cumpleanos, reuniones, regalo y antojo.",
+        "Remarketing a visitantes que vieron tortas sin completar pedido.",
+        "Anuncios por producto estrella con WhatsApp contextual y fecha de entrega."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en web actual con pedido guiado por ciudad, producto y fecha.",
+        "Asesor digital para ciudad, sabor, tamano, ocasion, entrega, pagos y seguimiento.",
+        "Panel de oportunidades por ciudad, fuente, producto, ocasion y estado del pedido."
+      ],
+      "sources": [
+        "https://www.instagram.com/dlilipasteleria/",
+        "https://dliliarango.com.co/medellin/"
+      ]
+    },
+    {
+      "slug": "sanangel-flores",
+      "company": "Sanangel Flores",
+      "instagram": "@sanangelflores",
+      "sector": "floristeria de autor y regalos florales",
+      "city": "Bogota, Medellin y Cali",
+      "tone": "emocional, contemporaneo y premium",
+      "theme": "maker",
+      "brandMode": "standard",
+      "accent": "#D94B73",
+      "secondary": "#E9B95F",
+      "status": "Instagram + web propia oficial visible",
+      "leadProblem": "Sanangel vende emocion y urgencia. Aunque tiene web y WhatsApp, cada comprador necesita escoger ciudad, ocasion, presupuesto, fecha, direccion y dedicatoria sin que la conversacion se vuelva lenta.",
+      "opportunity": "Mejorar conversion de la web actual con pedido rapido por ciudad/ocasion, asesor digital para dedicatorias y seguimiento a visitantes que miran flores sin finalizar compra.",
+      "proofLine": "Lectura publica del 1 de julio de 2026: @sanangelflores se presenta como arte floral contemporaneo en Bogota, Medellin y Cali; publicaciones y resultados publicos apuntan a pedidos en sanangel.com.co y WhatsApp.",
+      "audience": "Personas que compran flores para amor, cumpleanos, condolencias, aniversarios, disculpas o detalles corporativos en ciudades principales.",
+      "adAngle": "Flores que emocionan + pedido rapido + entrega con contexto",
+      "whatsappCta": "Quiero convertir visitas en pedidos florales",
+      "heroCopy": "En flores, el cliente compra con emocion y reloj encima. El sistema debe resolver ocasion, ciudad, presupuesto y entrega antes de que esa urgencia se vaya a otra opcion.",
+      "brandWorldTitle": "De emocion a pedido floral listo",
+      "diagnosisTitle": "Fugas antes de la entrega",
+      "botAgentName": "Asesor Sanangel demo",
+      "botAgentRole": "filtra ocasion, ciudad y entrega",
+      "botTitle": "Asesor digital para flores y regalos",
+      "botIntro": "El demo pregunta ciudad, ocasion, presupuesto, fecha, direccion y dedicatoria para dejar el pedido listo para confirmar.",
+      "botOpening": "Hola, soy el bot demo para Sanangel. Puedo orientar por ocasion, ciudad, presupuesto, dedicatoria y entrega.",
+      "botPrompts": [
+        "Ramo para hoy",
+        "Cumpleanos",
+        "Condolencias",
+        "Presupuesto",
+        "Dedicatoria"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "ramo",
+            "flores",
+            "pedido"
+          ],
+          "answer": "Pregunta ciudad, ocasion, presupuesto, fecha/hora, direccion y dedicatoria antes de pasar a confirmacion."
+        },
+        {
+          "keywords": [
+            "condolencia",
+            "funebre",
+            "corona"
+          ],
+          "answer": "Filtra tipo de arreglo, lugar de entrega, hora limite y mensaje con un tono respetuoso."
+        },
+        {
+          "keywords": [
+            "bogota",
+            "medellin",
+            "cali",
+            "ciudad"
+          ],
+          "answer": "Identifica ciudad primero para evitar prometer disponibilidad o entrega donde no corresponde."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ciudad, ocasion, presupuesto, clic a WhatsApp, pedido iniciado y abandono antes de pago."
+        }
+      ],
+      "findings": [
+        "La marca tiene concepto floral claro y presencia en varias ciudades, una base ideal para campanas por ocasion.",
+        "La compra floral exige velocidad y datos completos de entrega desde el primer paso.",
+        "El asesor digital puede subir conversion sin quitar el toque humano: ordena la intencion y entrega contexto."
+      ],
+      "siteIssues": [
+        "La web debe priorizar rutas por ciudad, ocasion y presupuesto para reducir busqueda innecesaria.",
+        "El WhatsApp debe llegar con arreglo, fecha, direccion, dedicatoria y rango de presupuesto.",
+        "Sin eventos de pedido iniciado, la pauta no sabe que ocasiones generan ventas reales."
+      ],
+      "losses": [
+        "Compradores urgentes compran donde les respondan primero.",
+        "El equipo repite preguntas de ciudad, ocasion, direccion y dedicatoria.",
+        "Se pierden fechas futuras que podrian activarse con recordatorio y remarketing."
+      ],
+      "heatmapData": [
+        "Clics por ocasion, ciudad, presupuesto, dedicatoria y WhatsApp.",
+        "Abandono antes de direccion, fecha o pago.",
+        "Ocasiones y rangos de precio con mayor intencion por ciudad."
+      ],
+      "campaigns": [
+        "Campana de pedidos para hoy por ciudad y ocasion.",
+        "Remarketing a visitantes que vieron arreglos sin pedir.",
+        "Anuncios de fechas especiales con asesor de dedicatoria y entrega."
+      ],
+      "deliverables": [
+        "Optimizar web actual con ruta de pedido por ciudad, ocasion, presupuesto y fecha.",
+        "Asesor digital para arreglo, dedicatoria, direccion, ciudad, entrega y seguimiento.",
+        "Panel de pedidos por fuente, ciudad, ocasion, presupuesto y estado."
+      ],
+      "sources": [
+        "https://www.instagram.com/sanangelflores/",
+        "https://www.instagram.com/p/Bxu1P_vnjx8/"
+      ]
+    },
+    {
+      "slug": "ammalu-postres-bogota",
+      "company": "Ammalu Postres Bogota",
+      "instagram": "@ammalupostres",
+      "sector": "postres artesanales y pedidos locales",
+      "city": "Bogota",
+      "tone": "casero, familiar y vendedor",
+      "theme": "maker",
+      "brandMode": "pastry",
+      "accent": "#C95A3A",
+      "secondary": "#F4CF70",
+      "status": "Instagram + Linktree/Rappi/DiDi; no se verifico web propia confiable",
+      "leadProblem": "Ammalu tiene producto, ubicacion y canales de pedido, pero si la decision queda dispersa entre Instagram, Linktree, apps y WhatsApp, el cliente puede no saber que pedir, cuando recoger o como enviar a domicilio.",
+      "opportunity": "Crear landing de pedidos con menu, productos estrella, horarios, direccion, domicilio y asesor digital para transformar antojos en pedidos con datos completos.",
+      "proofLine": "Lectura publica del 1 de julio de 2026: @ammalupostres y su Linktree muestran direccion en Cra. 80 #71B-29, Santa Helenita, Bogota, WhatsApp 322 951 7052, Rappi/DiDi y menu.",
+      "audience": "Personas en Bogota que buscan postres, tortas, regalos dulces y pedidos para compartir en familia.",
+      "adAngle": "Postre fresco + pedido simple + domicilio o recogida",
+      "whatsappCta": "Quiero ordenar pedidos dulces desde una landing",
+      "heroCopy": "Cuando una persona tiene antojo, la friccion mata la compra. El menu, horario, domicilio y WhatsApp deben estar en una ruta limpia y medible.",
+      "brandWorldTitle": "De antojo a pedido sin vueltas",
+      "diagnosisTitle": "Fugas por canales dispersos",
+      "botAgentName": "Asesor Ammalu demo",
+      "botAgentRole": "filtra producto, fecha y entrega",
+      "botTitle": "Asesor digital para pedidos de postres",
+      "botIntro": "El demo pregunta producto, cantidad, fecha, direccion o recogida y deja listo el pedido para confirmar.",
+      "botOpening": "Hola, soy el bot demo para Ammalu. Puedo orientar pedidos, tortas, domicilios, horarios y productos para regalo.",
+      "botPrompts": [
+        "Pedir postre",
+        "Torta para cumple",
+        "Domicilio Bogota",
+        "Horario",
+        "Menu"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "postre",
+            "torta",
+            "pedido"
+          ],
+          "answer": "Pregunta producto, cantidad, fecha, hora, direccion o recogida y datos de contacto."
+        },
+        {
+          "keywords": [
+            "domicilio",
+            "rappi",
+            "didi",
+            "entrega"
+          ],
+          "answer": "Identifica si el cliente quiere app, WhatsApp o recogida, y pide barrio/franja horaria para confirmar."
+        },
+        {
+          "keywords": [
+            "cumple",
+            "regalo",
+            "familia"
+          ],
+          "answer": "Pide ocasion, presupuesto y numero de personas para sugerir una opcion concreta."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide producto consultado, canal preferido, clic a WhatsApp/app y pedidos pendientes."
+        }
+      ],
+      "findings": [
+        "Tiene ubicacion, WhatsApp y canales de domicilio visibles, pero la experiencia queda fragmentada.",
+        "Una landing propia permitiria ordenar menu, horarios, direccion y pedido sin depender solo de links externos.",
+        "La pauta puede convertir mejor si aprende que producto y ocasion activan compra."
+      ],
+      "siteIssues": [
+        "Falta una pagina propia que organice menu, productos estrella, horarios, direccion, apps y WhatsApp.",
+        "WhatsApp deberia recibir producto, cantidad, fecha, barrio y forma de entrega desde el primer mensaje.",
+        "Sin pixel propio, no se puede recuperar a quien mira menu o apps y no compra."
+      ],
+      "losses": [
+        "El antojo se enfria si la persona debe saltar entre Instagram, Linktree, apps y chat.",
+        "El equipo repite preguntas de producto, cantidad, horario y entrega.",
+        "Las campanas no dejan datos propios suficientes para remarketing."
+      ],
+      "heatmapData": [
+        "Clics por producto, menu, WhatsApp, Rappi/DiDi, direccion y horario.",
+        "Abandono antes de elegir entrega o confirmar pedido.",
+        "Productos y ocasiones con mejor intencion de compra."
+      ],
+      "campaigns": [
+        "Campana de antojo inmediato por zona cercana a Santa Helenita.",
+        "Anuncios para tortas y regalos con pedido guiado.",
+        "Remarketing a visitantes de menu que no tocaron WhatsApp."
+      ],
+      "deliverables": [
+        "Landing de pedidos con menu, productos estrella, horario, direccion, apps y WhatsApp contextual.",
+        "Asesor digital para producto, cantidad, fecha, domicilio, recogida y seguimiento.",
+        "Panel de pedidos por fuente, producto, canal y estado."
+      ],
+      "sources": [
+        "https://www.instagram.com/ammalupostres/",
+        "https://linktr.ee/ammalupostres"
+      ]
+    },
+    {
+      "slug": "uno-pilates-bogota",
+      "company": "Uno Pilates and Wellness Studio",
+      "instagram": "@unopilatescolombia",
+      "sector": "pilates, barre, yoga y bienestar",
+      "city": "Bogota",
+      "tone": "sereno, moderno y aspiracional",
+      "theme": "wellness",
+      "brandMode": "standard",
+      "accent": "#8B9F82",
+      "secondary": "#D8B55D",
+      "status": "Instagram + agenda Bewe; no se verifico web propia comercial completa",
+      "leadProblem": "Uno Pilates tiene ubicaciones y agenda online, pero la decision de reservar puede frenarse si la persona no entiende sede, clase ideal, nivel, paquete de prueba, horario o precio antes de agendar.",
+      "opportunity": "Crear landing de captacion conectada a agenda con recomendador de clase, FAQ, sedes, paquete de prueba y asesor digital para recuperar interesados que no reservan.",
+      "proofLine": "Lectura publica del 1 de julio de 2026: @unopilatescolombia comunica Hot Pilates, Barre, Pilates Reformer, Mat y Yoga en Cl 109 y Cl 81, Bogota; la agenda publica aparece en web.bewe.co/uno-pilates.",
+      "audience": "Personas en Bogota interesadas en pilates, barre, yoga, fuerza, postura, bienestar y clases de prueba.",
+      "adAngle": "Clase ideal + sede cercana + reserva guiada",
+      "whatsappCta": "Quiero convertir interes en reservas de clase",
+      "heroCopy": "En bienestar, la motivacion tiene una ventana corta. Si la persona no entiende que clase tomar, en que sede y a que hora, reserva despues o nunca.",
+      "brandWorldTitle": "De motivacion a clase reservada",
+      "diagnosisTitle": "Fugas antes de la primera clase",
+      "botAgentName": "Asesor Uno demo",
+      "botAgentRole": "recomienda sede, clase y horario",
+      "botTitle": "Asesor digital para reservar clase",
+      "botIntro": "El demo pregunta objetivo, nivel, sede, horario y preferencia para llevar a una reserva con contexto.",
+      "botOpening": "Hola, soy el bot demo para Uno Pilates. Puedo orientar sede, clase ideal, nivel, horarios y reserva.",
+      "botPrompts": [
+        "Primera clase",
+        "Sede 109 u 81",
+        "Reformer",
+        "Barre o yoga",
+        "Horarios"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "primera",
+            "nuevo",
+            "principiante"
+          ],
+          "answer": "Pregunta experiencia previa, objetivo, lesiones o molestias y sede preferida para recomendar una clase de inicio."
+        },
+        {
+          "keywords": [
+            "sede",
+            "109",
+            "81",
+            "ubicacion"
+          ],
+          "answer": "Identifica sede mas conveniente y horario disponible antes de enviar a agenda."
+        },
+        {
+          "keywords": [
+            "reformer",
+            "barre",
+            "yoga",
+            "hot"
+          ],
+          "answer": "Explica diferencias de clase y filtra objetivo: fuerza, flexibilidad, postura, energia o relajacion."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide sede solicitada, clase consultada, reservas iniciadas y abandono antes de agenda."
+        }
+      ],
+      "findings": [
+        "Tiene oferta amplia de clases y ubicaciones visibles, una base fuerte para captar leads por objetivo.",
+        "La agenda online ayuda, pero no reemplaza una explicacion comercial para nuevos alumnos.",
+        "Un recomendador puede reducir dudas y empujar la reserva antes de que se enfrie el interes."
+      ],
+      "siteIssues": [
+        "Falta una landing comercial que conecte objetivo, sede, clase y reserva de forma simple.",
+        "La agenda debe recibir contexto de nivel, objetivo y sede para reducir abandono.",
+        "Sin seguimiento, quien mira horarios puede quedarse sin reservar."
+      ],
+      "losses": [
+        "Personas motivadas no reservan por dudas de clase, nivel o sede.",
+        "El equipo responde preguntas repetidas sobre clases, horarios y ubicaciones.",
+        "La pauta no distingue curiosos de personas listas para probar una clase."
+      ],
+      "heatmapData": [
+        "Clics por sede, clase, paquete de prueba, horario y agenda.",
+        "Abandono antes de elegir clase o sede.",
+        "Objetivos que mas activan reserva: postura, fuerza, flexibilidad o bienestar."
+      ],
+      "campaigns": [
+        "Campana de primera clase con recomendador rapido.",
+        "Anuncios por objetivo: fuerza, postura, bienestar y constancia.",
+        "Remarketing a visitantes que abrieron agenda sin reservar."
+      ],
+      "deliverables": [
+        "Landing de captacion con sedes, clases, paquete de prueba, FAQ y CTA a agenda.",
+        "Asesor digital para objetivo, nivel, sede, horario, clase y seguimiento.",
+        "Panel de reservas por fuente, sede, clase, objetivo y estado."
+      ],
+      "sources": [
+        "https://www.instagram.com/unopilatescolombia/",
+        "https://web.bewe.co/uno-pilates"
+      ]
+    },
+    {
+      "slug": "pilates-proworks-colombia",
+      "company": "Pilates ProWorks Colombia",
+      "instagram": "@pilatesproworkscol",
+      "sector": "estudios de pilates grupal y entrenamiento funcional",
+      "city": "Bogota y Barranquilla",
+      "tone": "energetico, urbano y disciplinado",
+      "theme": "wellness",
+      "brandMode": "standard",
+      "accent": "#A84C65",
+      "secondary": "#F2B84B",
+      "status": "Instagram + web propia oficial visible",
+      "leadProblem": "Pilates ProWorks tiene web, sedes y variedad de clases. La fuga esta en que nuevos alumnos pueden comparar opciones sin saber que clase tomar, que sede elegir, como reservar o que paquete conviene.",
+      "opportunity": "Mejorar conversion de la web actual con recomendador de clase/sede, asesor digital para nivel y horarios, y seguimiento a visitantes que no completan reserva.",
+      "proofLine": "Lectura publica del 1 de julio de 2026: @pilatesproworkscol comunica Pilates Mat, Classic & Pro, BarrePro, MatBox, CircuitPro y Stretch & Restore en Bogota y Barranquilla; pilatesproworks.com/colombia describe clases grupales de Pilates.",
+      "audience": "Personas que buscan entrenamiento eficiente, pilates, barre, intensidad, clases grupales y comunidad fitness en Bogota o Barranquilla.",
+      "adAngle": "Clase potente + sede correcta + reserva sin friccion",
+      "whatsappCta": "Quiero llenar mas clases desde web y pauta",
+      "heroCopy": "Cuando hay muchas clases, la conversion no depende solo del deseo: depende de recomendar la clase correcta y llevar a reserva antes de que aparezca otra opcion.",
+      "brandWorldTitle": "De interes fitness a clase elegida",
+      "diagnosisTitle": "Fugas en la eleccion de clase",
+      "botAgentName": "Asesor ProWorks demo",
+      "botAgentRole": "filtra clase, sede y nivel",
+      "botTitle": "Asesor digital para elegir clase",
+      "botIntro": "El demo ayuda a escoger clase, sede, intensidad, horario y paquete para reducir abandono antes de reservar.",
+      "botOpening": "Hola, soy el bot demo para Pilates ProWorks. Puedo orientar clase, sede, nivel, intensidad y reserva.",
+      "botPrompts": [
+        "Clase para empezar",
+        "Sede Bogota",
+        "Barranquilla",
+        "BarrePro",
+        "Horarios"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "clase",
+            "empezar",
+            "principiante"
+          ],
+          "answer": "Pregunta experiencia, objetivo, ciudad/sede e intensidad deseada para recomendar la clase inicial."
+        },
+        {
+          "keywords": [
+            "bogota",
+            "barranquilla",
+            "sede"
+          ],
+          "answer": "Identifica ciudad y sede antes de mostrar disponibilidad o enviar a reserva."
+        },
+        {
+          "keywords": [
+            "barre",
+            "matbox",
+            "classic",
+            "stretch"
+          ],
+          "answer": "Explica la diferencia de formato y filtra si busca fuerza, cardio, movilidad o recuperacion."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ciudad, clase consultada, reservas iniciadas, horarios demandados y abandono."
+        }
+      ],
+      "findings": [
+        "Tiene web propia y oferta amplia, lo que permite optimizar conversion sin construir todo desde cero.",
+        "La variedad de clases debe convertirse en recomendacion, no en friccion.",
+        "El seguimiento puede recuperar visitantes que consultan clases pero no reservan."
+      ],
+      "siteIssues": [
+        "La web debe orientar mejor por sede, nivel e intensidad antes de mandar a reserva.",
+        "WhatsApp o agenda deben recibir clase sugerida, ciudad y objetivo.",
+        "La pauta debe medir reservas iniciadas, no solo visitas o mensajes."
+      ],
+      "losses": [
+        "Nuevos alumnos abandonan si no saben que clase elegir.",
+        "El equipo repite diferencias entre formatos y sedes.",
+        "Campanas sin eventos finos no saben que clase trae mejores alumnos."
+      ],
+      "heatmapData": [
+        "Clics por clase, sede, paquete, horario y reserva.",
+        "Abandono antes de elegir sede o tipo de clase.",
+        "Clases y objetivos con mayor intencion por ciudad."
+      ],
+      "campaigns": [
+        "Campana de primera clase por ciudad y objetivo.",
+        "Anuncios de formato: BarrePro, MatBox, Classic y Stretch.",
+        "Remarketing a visitantes que eligieron clase sin reservar."
+      ],
+      "deliverables": [
+        "Optimizar web actual con recomendador de clase, sede, nivel y CTA de reserva.",
+        "Asesor digital para clase, intensidad, ciudad, horario, paquete y seguimiento.",
+        "Panel de reservas por fuente, ciudad, clase, objetivo y estado."
+      ],
+      "sources": [
+        "https://www.instagram.com/pilatesproworkscol/",
+        "https://www.pilatesproworks.com/colombia"
+      ]
+    },
+    {
+      "slug": "eica-pilates-studio-bogota",
+      "company": "Eica Pilates Studio",
+      "instagram": "@eicapilatestudio",
+      "sector": "pilates reformer y bienestar",
+      "city": "Bogota",
+      "tone": "limpio, cercano y disciplinado",
+      "theme": "wellness",
+      "brandMode": "standard",
+      "accent": "#7FA58E",
+      "secondary": "#E5BC5A",
+      "status": "Instagram + web propia oficial visible",
+      "leadProblem": "Eica tiene sitio web con horarios, direccion y contacto. La fuga probable esta en convertir visitas en reservas: personas miran horarios y no dejan datos, o preguntan por WhatsApp sin nivel, objetivo ni disponibilidad.",
+      "opportunity": "Mejorar conversion de la web actual con CTA de reserva, formulario de primera clase, asesor digital de nivel/horario y seguimiento a interesados que no agendan.",
+      "proofLine": "Lectura publica del 1 de julio de 2026: @eicapilatestudio comunica experiencia reformer en Gran Estacion 2; eicapilatestudio.com muestra horarios, direccion Av. La Esperanza #62-49, local 303, telefono 3222893739 y correo.",
+      "audience": "Personas en Bogota, especialmente zona Salitre/Gran Estacion, interesadas en pilates reformer, postura, fuerza y habito saludable.",
+      "adAngle": "Pilates reformer + horario claro + primera clase guiada",
+      "whatsappCta": "Quiero convertir visitas en clases agendadas",
+      "heroCopy": "Tener horarios publicados ayuda, pero la venta ocurre cuando la persona sabe cual clase tomar, deja sus datos y recibe seguimiento antes de perder motivacion.",
+      "brandWorldTitle": "De horario visto a clase agendada",
+      "diagnosisTitle": "Fugas entre horario y reserva",
+      "botAgentName": "Asesor Eica demo",
+      "botAgentRole": "filtra nivel, objetivo y horario",
+      "botTitle": "Asesor digital para primera clase",
+      "botIntro": "El demo pregunta experiencia, objetivo, horario disponible y datos para dejar la clase lista para confirmacion.",
+      "botOpening": "Hola, soy el bot demo para Eica. Puedo orientar horarios, primera clase, reformer, objetivos y reservas.",
+      "botPrompts": [
+        "Primera clase",
+        "Horarios",
+        "Reformer",
+        "Gran Estacion",
+        "Principiante"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "primera",
+            "principiante",
+            "nuevo"
+          ],
+          "answer": "Pregunta experiencia, objetivo, molestia fisica y horario ideal para sugerir una primera clase segura."
+        },
+        {
+          "keywords": [
+            "horario",
+            "agenda",
+            "reservar"
+          ],
+          "answer": "Recoge franja preferida, dia, datos de contacto y si busca clase entre semana o fin de semana."
+        },
+        {
+          "keywords": [
+            "gran",
+            "estacion",
+            "ubicacion"
+          ],
+          "answer": "Confirma que la referencia publica es Gran Estacion II, local 303, y pregunta si le conviene esa zona."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide horarios mas solicitados, objetivos, clics a WhatsApp y reservas iniciadas."
+        }
+      ],
+      "findings": [
+        "Tiene web con informacion clave, asi que el trabajo es optimizar conversion y seguimiento.",
+        "Los horarios deben estar conectados a una accion clara de reserva o captura de datos.",
+        "El asesor digital puede transformar consultas sueltas en clases agendadas con contexto."
+      ],
+      "siteIssues": [
+        "La web debe pedir datos de primera clase directamente cerca de horarios y contacto.",
+        "WhatsApp debe recibir objetivo, nivel, dia y franja horaria desde el inicio.",
+        "Sin eventos de reserva, no se sabe que horarios o anuncios traen alumnos reales."
+      ],
+      "losses": [
+        "Visitantes miran horarios y salen sin dejar datos.",
+        "El equipo repite informacion de ubicacion, horarios y clase para principiantes.",
+        "La pauta puede generar clics sin clases agendadas si no hay seguimiento."
+      ],
+      "heatmapData": [
+        "Clics por horarios, contacto, ubicacion, clase y WhatsApp.",
+        "Abandono antes de formulario o envio de datos.",
+        "Franjas horarias y objetivos con mayor intencion."
+      ],
+      "campaigns": [
+        "Campana de primera clase en zona Salitre/Gran Estacion.",
+        "Anuncios por objetivo: postura, fuerza, movilidad y bienestar.",
+        "Remarketing a visitantes que vieron horarios sin escribir."
+      ],
+      "deliverables": [
+        "Optimizar web actual con CTA de primera clase, horarios accionables y eventos.",
+        "Asesor digital para objetivo, nivel, horario, ubicacion y seguimiento.",
+        "Panel de leads por fuente, horario, objetivo y estado de agenda."
+      ],
+      "sources": [
+        "https://www.instagram.com/eicapilatestudio/",
+        "https://www.eicapilatestudio.com/"
+      ]
+    },
+    {
+      "slug": "angel-studio-pilates-bogota",
+      "company": "Angel Studio Pilates Bogota",
+      "instagram": "@angelstudiopilatesbog",
+      "sector": "pilates, wellness, barre y aerial",
+      "city": "Bogota",
+      "tone": "premium, wellness y aspiracional",
+      "theme": "wellness",
+      "brandMode": "standard",
+      "accent": "#8C8F78",
+      "secondary": "#D9B36A",
+      "status": "Instagram + WhatsApp; no se verifico web propia confiable",
+      "leadProblem": "Angel Studio comunica una experiencia premium en El Retiro, pero sin landing propia cada interesado depende de Instagram/WhatsApp para entender clases, niveles, horarios, precios, ubicacion y reserva.",
+      "opportunity": "Crear landing de conversion con clases, ubicacion, primera visita, FAQ y asesor digital para recomendar formato, capturar horario y agendar con contexto.",
+      "proofLine": "Lectura publica del 1 de julio de 2026: @angelstudiopilatesbog comunica Pilates + Wellness en Centro Comercial El Retiro, local 501, con Reformer, Tower, Barre, Aerial y Sculpt; publicaciones publicas muestran WhatsApp 3134263617.",
+      "audience": "Personas en Bogota que buscan pilates premium, bienestar, movimiento consciente y clases en zona El Retiro.",
+      "adAngle": "Wellness premium + clase recomendada + reserva guiada",
+      "whatsappCta": "Quiero convertir DMs en clases reservadas",
+      "heroCopy": "Una experiencia premium necesita una ruta igual de clara: clase, nivel, horario, precio orientativo y reserva sin depender de varias preguntas por DM.",
+      "brandWorldTitle": "De deseo wellness a reserva clara",
+      "diagnosisTitle": "Fugas por venta manual en DMs",
+      "botAgentName": "Asesor Angel Studio demo",
+      "botAgentRole": "recomienda clase y horario",
+      "botTitle": "Asesor digital para elegir formato",
+      "botIntro": "El demo filtra objetivo, nivel, clase, horario y primera visita antes de pasar a WhatsApp.",
+      "botOpening": "Hola, soy el bot demo para Angel Studio. Puedo orientar Reformer, Tower, Barre, Aerial, Sculpt, horarios y primera visita.",
+      "botPrompts": [
+        "Primera visita",
+        "Reformer o Tower",
+        "Aerial",
+        "Horarios",
+        "El Retiro"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "primera",
+            "visita",
+            "principiante"
+          ],
+          "answer": "Pregunta objetivo, experiencia previa, restricciones fisicas y horario ideal para recomendar una clase de entrada."
+        },
+        {
+          "keywords": [
+            "reformer",
+            "tower",
+            "barre",
+            "aerial",
+            "sculpt"
+          ],
+          "answer": "Explica el enfoque de cada formato y pide objetivo: fuerza, flexibilidad, postura, reto o bienestar."
+        },
+        {
+          "keywords": [
+            "retiro",
+            "ubicacion",
+            "sede"
+          ],
+          "answer": "Confirma Centro Comercial El Retiro, local 501, y pregunta si esa ubicacion le conviene para agendar."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide formato consultado, horarios, primera visita, clics a WhatsApp y reservas iniciadas."
+        }
+      ],
+      "findings": [
+        "Tiene propuesta premium y ubicacion clara en un centro comercial de alto trafico.",
+        "No se verifico una web propia que explique clases, niveles, precios y agenda.",
+        "Una landing con asesor digital puede convertir curiosidad visual en reserva con datos."
+      ],
+      "siteIssues": [
+        "Falta una pagina clara con formatos, beneficios, ubicacion, preguntas frecuentes y CTA de reserva.",
+        "WhatsApp debe recibir clase de interes, nivel, objetivo y horario desde el primer mensaje.",
+        "Sin pixel propio, la pauta no aprende que formatos generan mejores reservas."
+      ],
+      "losses": [
+        "Personas interesadas no escriben si no entienden diferencias entre clases o precios.",
+        "El equipo responde manualmente horarios, ubicacion y formato ideal.",
+        "Se pierden leads que preguntan una vez y no vuelven a recibir seguimiento."
+      ],
+      "heatmapData": [
+        "Clics por formato, ubicacion, primera visita, WhatsApp y agenda.",
+        "Abandono antes de elegir clase u horario.",
+        "Formatos y objetivos con mayor intencion de reserva."
+      ],
+      "campaigns": [
+        "Campana de primera visita premium para zona norte/El Retiro.",
+        "Anuncios por formato: Aerial, Reformer, Barre y Sculpt.",
+        "Remarketing a visitantes que tocaron clase sin agendar."
+      ],
+      "deliverables": [
+        "Landing de conversion con clases, ubicacion, beneficios, FAQ y WhatsApp contextual.",
+        "Asesor digital para formato, nivel, objetivo, horario y seguimiento.",
+        "Panel de leads por fuente, formato, horario y estado de reserva."
+      ],
+      "sources": [
+        "https://www.instagram.com/angelstudiopilatesbog/"
+      ]
+    },
+    {
+      "slug": "elcielo-hotel-medellin",
+      "company": "Elcielo Hotel Medellin",
+      "instagram": "@elcielohotel",
+      "sector": "hotel boutique de lujo, spa y gastronomia",
+      "city": "Medellin",
+      "tone": "lujo sensorial, elegante y de alta confianza",
+      "theme": "hospitality",
+      "brandMode": "standard",
+      "accent": "#B8905D",
+      "secondary": "#B7C98B",
+      "status": "Instagram + web propia oficial visible",
+      "leadProblem": "Elcielo Hotel ya tiene web, reputacion y reserva online. La oportunidad esta en capturar visitantes premium que comparan suites, spa, restaurante, fechas o experiencias y necesitan respuesta inmediata antes de reservar.",
+      "opportunity": "Mejorar conversion de la web actual con concierge digital, CTA de reserva directa, seguimiento por tipo de viaje y medicion fina de suites, spa, paquetes y solicitudes corporativas.",
+      "proofLine": "Lectura publica del 1 de julio de 2026: @elcielohotel invita a reservar suites; elcielohotel.com muestra hotel boutique en Medellin, 28 habitaciones, suites, spa, restaurante y boton Book Now.",
+      "audience": "Viajeros premium, parejas, extranjeros, ejecutivos y clientes que buscan hotel, spa y experiencia gastronomica en Medellin.",
+      "adAngle": "Lujo sensorial + concierge inmediato + reserva directa",
+      "whatsappCta": "Quiero aumentar reservas directas desde la web",
+      "heroCopy": "En hoteleria premium, cada visita a la web vale. Si la persona mira suite, spa o experiencia y no recibe guia, puede terminar reservando por intermediario o irse a otro hotel.",
+      "brandWorldTitle": "De visita premium a reserva directa",
+      "diagnosisTitle": "Fugas en decision de lujo",
+      "botAgentName": "Concierge Elcielo demo",
+      "botAgentRole": "filtra fechas, suite y experiencia",
+      "botTitle": "Concierge digital para reservas premium",
+      "botIntro": "El demo pregunta fechas, motivo del viaje, suite, spa, restaurante e idioma para dejar una solicitud de reserva con contexto.",
+      "botOpening": "Hola, soy el concierge demo para Elcielo Hotel. Puedo orientar suites, fechas, spa, restaurante, experiencias y reserva directa.",
+      "botPrompts": [
+        "Consultar fechas",
+        "Suite romantica",
+        "Spa",
+        "Restaurante",
+        "Reserva directa"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "fecha",
+            "reserva",
+            "suite",
+            "habitacion"
+          ],
+          "answer": "Pregunta entrada, salida, numero de huespedes, tipo de suite, motivo del viaje e idioma preferido."
+        },
+        {
+          "keywords": [
+            "spa",
+            "restaurante",
+            "experiencia"
+          ],
+          "answer": "Filtra si busca alojamiento, spa, restaurante o paquete completo para preparar una propuesta mas precisa."
+        },
+        {
+          "keywords": [
+            "corporativo",
+            "empresa",
+            "grupo"
+          ],
+          "answer": "Pide fechas, numero de personas, tipo de evento y contacto comercial para escalar con contexto."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide suites vistas, fechas consultadas, clics a Book Now, interes por spa/restaurante y abandono."
+        }
+      ],
+      "findings": [
+        "Tiene web oficial, marca de lujo y oferta completa de hotel, spa y gastronomia.",
+        "La oportunidad no es crear presencia: es capturar mas reserva directa y reducir fuga a intermediarios.",
+        "Un concierge digital puede responder por fecha, suite, experiencia y seguimiento sin enfriar la intencion."
+      ],
+      "siteIssues": [
+        "La web debe reforzar CTA de reserva directa y contacto con contexto por suite/experiencia.",
+        "El seguimiento debe diferenciar pareja, turismo, negocio, spa y gastronomia.",
+        "Sin eventos finos, la pauta no aprende que experiencia activa mayor valor."
+      ],
+      "losses": [
+        "Margen perdido si la reserva termina por OTA o intermediario.",
+        "Visitantes premium pueden irse si comparan y no reciben respuesta rapida.",
+        "Solicitudes de spa, restaurante y alojamiento quedan separadas sin vista comercial unificada."
+      ],
+      "heatmapData": [
+        "Clics por suite, Book Now, spa, restaurante, paquetes y contacto.",
+        "Abandono antes de motor de reserva o solicitud comercial.",
+        "Segmentos por experiencia y fecha con mayor intencion."
+      ],
+      "campaigns": [
+        "Campana de reserva directa para parejas y viajeros premium.",
+        "Remarketing a visitantes de suites, spa y restaurante.",
+        "Anuncios de experiencias combinadas con concierge por WhatsApp."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en web actual: CTA, concierge, eventos y seguimiento por experiencia.",
+        "Concierge digital para fechas, suites, spa, restaurante, idioma y solicitudes corporativas.",
+        "Panel de oportunidades por fuente, suite, experiencia, fecha y estado de reserva."
+      ],
+      "sources": [
+        "https://www.instagram.com/elcielohotel/",
+        "https://www.elcielohotel.com/en"
+      ]
+    },
+    {
+      "slug": "haven-medellin",
+      "company": "Haven Medellin",
+      "instagram": "@haven_medellin",
+      "sector": "hotel de lujo y suites en El Poblado",
+      "city": "Medellin",
+      "tone": "moderno, urbano y premium",
+      "theme": "hospitality",
+      "brandMode": "standard",
+      "accent": "#6E7F86",
+      "secondary": "#D9A95D",
+      "status": "Instagram + web propia oficial visible",
+      "leadProblem": "Haven ya tiene web, motor de reserva y WhatsApp. La fuga probable esta en visitantes que comparan suites, rooftop, paquetes o eventos y no reciben guia contextual antes de reservar.",
+      "opportunity": "Mejorar conversion de la web actual con concierge digital para fechas, suite, rooftop, eventos y seguimiento a visitantes que consultan disponibilidad sin confirmar.",
+      "proofLine": "Lectura publica del 1 de julio de 2026: @haven_medellin muestra telefono +57 322 306 4585, rooftop y web havenmedellin.com; la web presenta suites de lujo, 360 Rooftop Bar, paquetes/eventos y contacto.",
+      "audience": "Viajeros a Medellin, parejas, grupos, clientes de rooftop y personas que buscan suites en El Poblado.",
+      "adAngle": "Suite en El Poblado + rooftop + reserva directa asistida",
+      "whatsappCta": "Quiero recuperar mas reservas desde la web",
+      "heroCopy": "En hoteles urbanos, la persona compara rapido. Si ve suite, rooftop o paquete y no recibe contexto, puede cerrar por otra plataforma o abandonar la reserva.",
+      "brandWorldTitle": "De comparacion de suites a reserva directa",
+      "diagnosisTitle": "Fugas entre web, rooftop y reserva",
+      "botAgentName": "Concierge Haven demo",
+      "botAgentRole": "filtra fechas, suite y plan",
+      "botTitle": "Concierge digital para suites y paquetes",
+      "botIntro": "El demo pregunta fechas, tipo de suite, motivo del viaje, rooftop o evento para pasar una solicitud lista al equipo.",
+      "botOpening": "Hola, soy el concierge demo para Haven Medellin. Puedo orientar suites, fechas, rooftop, paquetes, eventos y reserva directa.",
+      "botPrompts": [
+        "Consultar suite",
+        "Fechas",
+        "Rooftop",
+        "Evento",
+        "Reserva directa"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "suite",
+            "fecha",
+            "reserva"
+          ],
+          "answer": "Pregunta entrada, salida, numero de huespedes, tipo de suite y motivo del viaje."
+        },
+        {
+          "keywords": [
+            "rooftop",
+            "bar",
+            "360"
+          ],
+          "answer": "Filtra si busca hospedaje, rooftop o ambos, y pide fecha/personas para sugerir siguiente paso."
+        },
+        {
+          "keywords": [
+            "evento",
+            "paquete",
+            "grupo"
+          ],
+          "answer": "Recoge fecha, numero de personas, tipo de evento y presupuesto orientativo para contacto comercial."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide suite vista, clics de reserva, interes por rooftop/eventos y abandono por fecha."
+        }
+      ],
+      "findings": [
+        "Tiene web propia con suites, rooftop, paquetes, eventos y contacto: base clara para optimizar conversion.",
+        "El visitante puede venir por hotel o por rooftop; conviene separar esas intenciones y seguirlas diferente.",
+        "El concierge digital ayuda a capturar fechas y motivo del viaje antes de que el lead se pierda."
+      ],
+      "siteIssues": [
+        "La web debe conectar motor de reserva, WhatsApp y paquetes con contexto por tipo de interes.",
+        "El seguimiento debe separar alojamiento, rooftop, eventos y grupos.",
+        "Sin eventos de disponibilidad consultada, la pauta no sabe donde se cae la reserva."
+      ],
+      "losses": [
+        "Reservas pueden migrar a OTA si la comparacion no termina en reserva directa.",
+        "Interesados en rooftop o eventos quedan mezclados con huespedes sin clasificacion.",
+        "Se pierden oportunidades de paquetes cuando el visitante solo mira y sale."
+      ],
+      "heatmapData": [
+        "Clics por suites, check availability, rooftop, paquetes, eventos y WhatsApp.",
+        "Abandono antes de elegir fechas o completar reserva.",
+        "Intenciones de alojamiento vs. rooftop/eventos con mejor valor comercial."
+      ],
+      "campaigns": [
+        "Campana de reserva directa para suites en El Poblado.",
+        "Remarketing a visitantes de rooftop, suites y paquetes.",
+        "Anuncios de escapada/evento con concierge por WhatsApp."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en web actual con concierge, eventos y WhatsApp contextual.",
+        "Asesor digital para fechas, suites, rooftop, eventos, grupos y seguimiento.",
+        "Panel de oportunidades por fuente, suite, experiencia, fecha y estado."
+      ],
+      "sources": [
+        "https://www.instagram.com/haven_medellin/",
+        "https://havenmedellin.com/"
+      ]
+    },
+    {
+      "slug": "la-campana-hotel-boutique",
+      "company": "La Campana Hotel Boutique",
+      "instagram": "@lacampanahotel",
+      "sector": "hotel boutique en El Poblado",
+      "city": "Medellin",
+      "tone": "calido, confiable y tranquilo",
+      "theme": "hospitality",
+      "brandMode": "standard",
+      "accent": "#7E9A72",
+      "secondary": "#D6A85C",
+      "status": "Instagram + web propia oficial visible",
+      "leadProblem": "La Campana tiene ubicacion, web y canales de contacto. La fuga esta en viajeros que comparan hoteles en El Poblado y necesitan claridad rapida sobre fechas, tipo de habitacion, desayuno, transporte, zona y reserva directa.",
+      "opportunity": "Mejorar conversion de la web actual con concierge digital, CTA de reserva directa, preguntas frecuentes para viajeros y seguimiento a consultas que no confirman.",
+      "proofLine": "Lectura publica del 1 de julio de 2026: @lacampanahotel comunica Hotel Boutique en El Poblado; lacampanahotelboutique.com muestra direccion Calle 11A No. 31A-70, telefonos, correo info/reservas y contacto.",
+      "audience": "Viajeros nacionales e internacionales que buscan hotel tranquilo y bien ubicado en El Poblado, Medellin.",
+      "adAngle": "El Poblado tranquilo + reserva directa + atencion cercana",
+      "whatsappCta": "Quiero aumentar reservas directas con seguimiento",
+      "heroCopy": "El viajero que compara hoteles necesita respuesta clara. Si no entiende ubicacion, habitacion, fecha y condiciones, reserva donde el siguiente paso sea mas facil.",
+      "brandWorldTitle": "De busqueda de hotel a reserva directa",
+      "diagnosisTitle": "Fugas antes de confirmar estadia",
+      "botAgentName": "Concierge La Campana demo",
+      "botAgentRole": "filtra fechas, habitacion y motivo de viaje",
+      "botTitle": "Concierge digital para reserva directa",
+      "botIntro": "El demo pregunta fechas, huespedes, tipo de viaje, habitacion y dudas logisticas para preparar la reserva.",
+      "botOpening": "Hola, soy el concierge demo para La Campana. Puedo orientar fechas, habitacion, ubicacion, transporte y reserva directa.",
+      "botPrompts": [
+        "Consultar fechas",
+        "Habitacion",
+        "Ubicacion",
+        "Transporte",
+        "Reserva directa"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "fecha",
+            "reserva",
+            "habitacion"
+          ],
+          "answer": "Pregunta entrada, salida, numero de huespedes, tipo de habitacion y motivo del viaje."
+        },
+        {
+          "keywords": [
+            "ubicacion",
+            "poblado",
+            "zona"
+          ],
+          "answer": "Responde con la zona verificada en El Poblado y pide si prioriza descanso, turismo, trabajo o cercania a restaurantes."
+        },
+        {
+          "keywords": [
+            "transporte",
+            "aeropuerto",
+            "desayuno"
+          ],
+          "answer": "Captura duda logistica y datos de contacto para que el equipo confirme servicios y condiciones."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide fechas consultadas, habitaciones vistas, clics a contacto y abandono antes de reserva."
+        }
+      ],
+      "findings": [
+        "Tiene web propia y canales de contacto, base suficiente para optimizar reserva directa.",
+        "El diferencial de tranquilidad y ubicacion debe convertirse en una ruta de decision rapida.",
+        "Un concierge digital puede responder dudas logisticas frecuentes sin perder tono humano."
+      ],
+      "siteIssues": [
+        "La web debe reforzar reserva directa y WhatsApp con contexto de fechas y tipo de viaje.",
+        "Las dudas de ubicacion, desayuno, transporte y condiciones deben aparecer antes de abandonar.",
+        "Sin seguimiento, consultas de disponibilidad quedan como conversaciones sueltas."
+      ],
+      "losses": [
+        "Viajeros comparan y reservan por plataformas si la ruta directa no es clara.",
+        "El equipo repite preguntas de fechas, habitacion, transporte y condiciones.",
+        "La pauta no aprende que tipo de viajero confirma mejor."
+      ],
+      "heatmapData": [
+        "Clics por habitaciones, ubicacion, contacto, reserva y FAQ.",
+        "Abandono antes de fechas o contacto.",
+        "Motivos de viaje con mayor intencion: turismo, trabajo, pareja o familia."
+      ],
+      "campaigns": [
+        "Campana de reserva directa para viajeros en El Poblado.",
+        "Remarketing a visitantes de habitaciones y contacto.",
+        "Anuncios por tranquilidad, ubicacion y atencion cercana."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en web actual con concierge, CTA de reserva y eventos clave.",
+        "Asesor digital para fechas, habitaciones, ubicacion, transporte, FAQ y seguimiento.",
+        "Panel de oportunidades por fuente, fecha, tipo de viajero y estado de reserva."
+      ],
+      "sources": [
+        "https://www.instagram.com/lacampanahotel/",
+        "https://lacampanahotelboutique.com/en/home/"
+      ]
     }
   ]
 }
