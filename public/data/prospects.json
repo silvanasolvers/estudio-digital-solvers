@@ -18181,6 +18181,873 @@
         "https://www.instagram.com/lacampanahotel/",
         "https://lacampanahotelboutique.com/en/home/"
       ]
+    },
+    {
+      "slug": "lafont-clinica-bogota",
+      "company": "La Font Clinica",
+      "instagram": "@clinicalafont",
+      "website": "https://lafont.com.co/",
+      "sector": "clinica de cirugia plastica, estetica y hotel boutique medico",
+      "city": "Bogota",
+      "tone": "premium, medico y confiable",
+      "theme": "wellness",
+      "brandMode": "standard",
+      "accent": "#B08D57",
+      "secondary": "#D9C7A3",
+      "status": "Instagram + web propia oficial visible",
+      "leadProblem": "La Font tiene web, trayectoria y agenda. La fuga probable esta en pacientes que comparan procedimientos, valoracion virtual, doctores, recuperacion, hotel boutique y precio antes de dejar datos o escribir por WhatsApp.",
+      "opportunity": "Mejorar conversion de la web actual con asesor digital medico-comercial, CTA de valoracion virtual, seguimiento por procedimiento y captura de dudas antes de agenda.",
+      "proofLine": "Lectura publica del 2 de julio de 2026: @clinicalafont comunica clinica de cirugia plastica en Colombia; lafont.com.co muestra procedimientos quirurgicos/no quirurgicos, hotel boutique, valoracion virtual, direccion en Bogota y telefono/WhatsApp.",
+      "audience": "Pacientes en Colombia y en el exterior que buscan cirugia plastica facial/corporal, tratamientos no quirurgicos, valoracion virtual y recuperacion asistida.",
+      "adAngle": "Valoracion informada + confianza medica + ruta clara de agenda",
+      "whatsappCta": "Quiero convertir consultas medicas en valoraciones",
+      "heroCopy": "En salud estetica, el paciente no agenda solo porque vio un resultado: necesita entender procedimiento, seguridad, especialista, recuperacion y siguiente paso sin sentirse presionado.",
+      "brandWorldTitle": "De duda estetica a valoracion agendada",
+      "diagnosisTitle": "Fugas antes de la valoracion",
+      "botAgentName": "Asesor La Font demo",
+      "botAgentRole": "filtra procedimiento, ciudad y valoracion",
+      "botTitle": "Asesor digital para pacientes de alta intencion",
+      "botIntro": "El demo ordena la consulta por procedimiento, objetivo, ciudad, disponibilidad para valoracion y dudas de recuperacion.",
+      "botOpening": "Hola, soy el asesor demo para La Font. Puedo orientar procedimientos, valoracion virtual, hotel boutique medico y pasos para agendar.",
+      "botPrompts": [
+        "Valoracion virtual",
+        "Rinoplastia",
+        "Recuperacion",
+        "Hotel boutique",
+        "Agendar cita"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["valoracion", "virtual", "cita", "agenda"],
+          "answer": "Pide nombre, ciudad, procedimiento de interes, disponibilidad y si la persona busca valoracion virtual o presencial."
+        },
+        {
+          "keywords": ["rinoplastia", "liposuccion", "mamoplastia", "blefaroplastia", "procedimiento"],
+          "answer": "No promete resultados ni precios. Clasifica el procedimiento, objetivo, antecedentes basicos y dudas para que el equipo medico responda con contexto."
+        },
+        {
+          "keywords": ["hotel", "recuperacion", "post", "viaje"],
+          "answer": "Pregunta si viene de otra ciudad o pais y captura necesidades de estadia, recuperacion y acompanamiento."
+        },
+        {
+          "keywords": ["mide", "datos", "pauta"],
+          "answer": "Mide procedimiento consultado, valoraciones iniciadas, clics a WhatsApp, abandono por FAQ y fuente de pauta."
+        }
+      ],
+      "findings": [
+        "La web oficial ya comunica procedimientos, doctores, valoracion virtual, hotel boutique y canales de contacto.",
+        "El reto no es crear presencia desde cero, sino convertir confianza medica en solicitudes de valoracion con datos completos.",
+        "Un asesor digital puede reducir friccion sin reemplazar al equipo medico: filtra, educa y pasa contexto."
+      ],
+      "siteIssues": [
+        "La ruta de agenda debe estar mas conectada a cada procedimiento y a dudas frecuentes de seguridad, recuperacion y viaje.",
+        "WhatsApp debe recibir procedimiento, ciudad, tipo de valoracion y objeciones desde el primer mensaje.",
+        "Sin seguimiento por procedimiento, la pauta mezcla pacientes curiosos con pacientes listos para valoracion."
+      ],
+      "losses": [
+        "Pacientes comparan varias clinicas y se van con quien responda mas claro y rapido.",
+        "El equipo comercial repite preguntas basicas antes de poder orientar una valoracion.",
+        "La inversion en pauta pierde aprendizaje si no separa procedimiento, ciudad y estado de agenda."
+      ],
+      "heatmapData": [
+        "Clics por procedimiento, doctores, valoracion virtual, hotel boutique y WhatsApp.",
+        "Abandono antes de formulario, agenda o preguntas de recuperacion.",
+        "Procedimientos con mayor intencion y objeciones mas frecuentes antes de agendar."
+      ],
+      "campaigns": [
+        "Campana por procedimiento con landing/seccion y asesor digital contextual.",
+        "Remarketing a visitantes de valoracion virtual que no dejaron datos.",
+        "Anuncios para pacientes de otras ciudades con ruta de hotel boutique y recuperacion."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en la web actual con CTAs por procedimiento y eventos clave.",
+        "Asesor digital para procedimiento, valoracion, ciudad, viaje, recuperacion, FAQ y seguimiento.",
+        "Panel de oportunidades por fuente, procedimiento, ciudad y estado de valoracion."
+      ],
+      "sources": [
+        "https://www.instagram.com/clinicalafont/",
+        "https://lafont.com.co/"
+      ]
+    },
+    {
+      "slug": "cqb-cirugia-plastica-cali",
+      "company": "CQB Cirugia Plastica",
+      "instagram": "@cqbcirugiaplastica",
+      "website": "https://cqbelleza.com/",
+      "sector": "clinica de cirugia plastica y estetica",
+      "city": "Cali",
+      "tone": "seguro, profesional y comercial",
+      "theme": "wellness",
+      "brandMode": "standard",
+      "accent": "#8D6E63",
+      "secondary": "#C7A27B",
+      "status": "Instagram + web propia oficial visible",
+      "leadProblem": "CQB comunica cirugia plastica, procedimientos destacados y atencion por WhatsApp. La fuga probable esta en consultas de alto valor que llegan con miedo, dudas de seguridad, procedimiento, financiacion, recuperacion o agenda y se enfrian antes de la valoracion.",
+      "opportunity": "Mejorar conversion de la web actual con una ruta por procedimiento, asesor digital de prevaloracion, seguimiento de leads y medicion de que dudas frenan la cita.",
+      "proofLine": "Lectura publica del 2 de julio de 2026: @cqbcirugiaplastica se presenta como cirugia plastica en Colombia; cqbelleza.com muestra procedimientos esteticos, quirurgicos y no quirurgicos, y la propuesta de clinica integral.",
+      "audience": "Personas en Cali y pacientes de otras ciudades que evaluan cirugia plastica, tratamientos esteticos y valoracion segura.",
+      "adAngle": "Decision informada + prevaloracion guiada + cita con contexto",
+      "whatsappCta": "Quiero ordenar leads de cirugia plastica",
+      "heroCopy": "Una consulta de cirugia plastica no se puede tratar como un DM cualquiera. Cada duda sin contexto puede frenar una valoracion de alto valor.",
+      "brandWorldTitle": "De interes por procedimiento a cita preparada",
+      "diagnosisTitle": "Fugas por dudas sin seguimiento",
+      "botAgentName": "Asesor CQB demo",
+      "botAgentRole": "filtra procedimiento y prevaloracion",
+      "botTitle": "Asesor digital para prevaloracion",
+      "botIntro": "El demo captura procedimiento, objetivo, ciudad, disponibilidad y dudas frecuentes antes de enviar al equipo comercial/medico.",
+      "botOpening": "Hola, soy el asesor demo para CQB. Puedo orientar la ruta de valoracion, procedimiento de interes, agenda y dudas generales.",
+      "botPrompts": [
+        "Quiero valoracion",
+        "Lipoescultura",
+        "Recuperacion",
+        "Paciente de otra ciudad",
+        "Costos"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["valoracion", "cita", "agenda"],
+          "answer": "Pregunta procedimiento, ciudad, disponibilidad y canal preferido para que el equipo responda con contexto."
+        },
+        {
+          "keywords": ["lipo", "senos", "abdominoplastia", "procedimiento"],
+          "answer": "Clasifica el procedimiento y objetivo. Evita diagnosticar; prepara la informacion para que el equipo experto oriente la valoracion."
+        },
+        {
+          "keywords": ["recuperacion", "viaje", "ciudad"],
+          "answer": "Identifica si la persona viaja a Cali, fechas tentativas, acompanante y dudas de postoperatorio."
+        },
+        {
+          "keywords": ["precio", "costo", "financiacion"],
+          "answer": "Explica que el valor depende de valoracion y captura procedimiento, presupuesto de referencia y urgencia para seguimiento."
+        }
+      ],
+      "findings": [
+        "Tiene web propia con procedimientos y narrativa de clinica integral.",
+        "El punto de mejora es transformar visitas y mensajes en prevaloraciones calificadas.",
+        "El asesor digital puede separar curiosidad de intencion real sin inventar informacion medica."
+      ],
+      "siteIssues": [
+        "Cada procedimiento deberia llevar a una ruta de valoracion con preguntas y CTA especificos.",
+        "WhatsApp necesita contexto de procedimiento, ciudad, urgencia y objecion principal.",
+        "Sin medicion por procedimiento, la pauta no sabe que anuncio genera citas y no solo mensajes."
+      ],
+      "losses": [
+        "Leads de alto valor se enfria cuando no recibe guia clara en los primeros minutos.",
+        "El equipo dedica tiempo a preguntas repetidas sin filtrar intencion.",
+        "Se pierden oportunidades de remarketing a quienes miran procedimientos pero no agendan."
+      ],
+      "heatmapData": [
+        "Clics por procedimiento, valoracion, WhatsApp, testimonios y FAQ.",
+        "Puntos de abandono antes de enviar datos o pedir cita.",
+        "Dudas mas frecuentes: seguridad, recuperacion, precio, ciudad y agenda."
+      ],
+      "campaigns": [
+        "Campanas por procedimiento con prevaloracion guiada.",
+        "Remarketing a visitantes que vieron un procedimiento sin agendar.",
+        "Mensajes para pacientes de otras ciudades con ruta logistica clara."
+      ],
+      "deliverables": [
+        "Optimizacion de la web actual con CTAs por procedimiento y eventos de valoracion.",
+        "Asesor digital para prevaloracion, agenda, FAQ, ciudad, recuperacion y seguimiento.",
+        "Panel de leads por procedimiento, fuente, etapa y proxima accion."
+      ],
+      "sources": [
+        "https://www.instagram.com/cqbcirugiaplastica/",
+        "https://cqbelleza.com/"
+      ]
+    },
+    {
+      "slug": "clinica-nova-medellin",
+      "company": "Clinica Nova",
+      "instagram": "@clinicanova",
+      "website": "https://clinicanova.com.co/",
+      "sector": "clinica de cirugia plastica y estetica",
+      "city": "Medellin / Envigado",
+      "tone": "confiable, humano y clinico",
+      "theme": "wellness",
+      "brandMode": "standard",
+      "accent": "#5C8F91",
+      "secondary": "#D8B26E",
+      "status": "Instagram + web propia visible; directorios publicos confirman servicios y ubicacion en Antioquia",
+      "leadProblem": "Clinica Nova tiene presencia social y senales publicas de servicios de cirugia plastica. La fuga esta en pacientes que preguntan por procedimientos, financiacion, ubicacion, seguridad y valoracion, pero no dejan informacion suficiente para seguimiento.",
+      "opportunity": "Mejorar conversion de la web actual con prevaloracion guiada, WhatsApp con contexto y seguimiento automatico para pacientes que no agendan.",
+      "proofLine": "Lectura publica del 2 de julio de 2026: @clinicanova comunica cirugia plastica; busquedas publicas muestran Clinica Nova en Antioquia/Medellin con WhatsApp y servicios; clinicanova.com.co responde HTTP 200.",
+      "audience": "Pacientes en Antioquia y otras ciudades interesados en cirugia plastica, procedimientos esteticos y valoracion profesional.",
+      "adAngle": "Valoracion clara + seguridad + seguimiento humano",
+      "whatsappCta": "Quiero que Nova reciba leads mas completos",
+      "heroCopy": "El lead de salud estetica trae dudas sensibles. Si la ruta no captura procedimiento, ciudad, momento y objecion, el equipo empieza cada conversacion desde cero.",
+      "brandWorldTitle": "De consulta sensible a valoracion con contexto",
+      "diagnosisTitle": "Fugas antes de agendar",
+      "botAgentName": "Asesor Nova demo",
+      "botAgentRole": "ordena procedimiento, objecion y agenda",
+      "botTitle": "Asesor digital para consultas esteticas",
+      "botIntro": "El demo organiza las preguntas iniciales sin prometer diagnosticos: procedimiento, objetivo, disponibilidad, ciudad y dudas.",
+      "botOpening": "Hola, soy el asesor demo para Clinica Nova. Puedo orientar la ruta para valoracion, procedimiento, agenda y dudas generales.",
+      "botPrompts": [
+        "Quiero valoracion",
+        "Procedimientos",
+        "Financiacion",
+        "Ubicacion",
+        "Seguimiento"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["valoracion", "agenda", "cita"],
+          "answer": "Pide nombre, ciudad, procedimiento de interes y horario preferido para que el equipo contacte con contexto."
+        },
+        {
+          "keywords": ["procedimiento", "lipo", "senos", "rinoplastia"],
+          "answer": "Clasifica la consulta y recomienda agendar valoracion; no da diagnostico ni promesas medicas."
+        },
+        {
+          "keywords": ["financiacion", "precio", "costo"],
+          "answer": "Captura procedimiento y presupuesto esperado para que el equipo explique opciones segun valoracion."
+        },
+        {
+          "keywords": ["datos", "mide", "pauta"],
+          "answer": "Mide procedimiento, fuente, etapa, agenda iniciada y motivo de abandono."
+        }
+      ],
+      "findings": [
+        "Hay senales publicas de marca activa y servicios esteticos en Antioquia.",
+        "La web responde, por lo que la oportunidad es mejorar conversion y no partir de cero.",
+        "El seguimiento por procedimiento puede elevar calidad de conversaciones y agenda."
+      ],
+      "siteIssues": [
+        "La ruta de cita debe pedir procedimiento, ciudad, momento de decision y objecion.",
+        "WhatsApp debe abrir con mensaje personalizado y no una conversacion vacia.",
+        "Falta separar el trafico por intencion: curiosidad, valoracion, financiacion o paciente viajero."
+      ],
+      "losses": [
+        "Interesados sensibles se enfrian si no reciben orientacion inicial clara.",
+        "El equipo consume tiempo recuperando datos basicos que pudo capturar el sistema.",
+        "La pauta pierde precision si no sabe que procedimientos terminan en valoraciones."
+      ],
+      "heatmapData": [
+        "Clics por procedimiento, agenda, WhatsApp, ubicacion y FAQ.",
+        "Abandono antes de dejar datos o seleccionar procedimiento.",
+        "Objeciones mas comunes antes de pedir cita."
+      ],
+      "campaigns": [
+        "Campana de valoracion por procedimiento con formulario corto.",
+        "Remarketing a visitantes que abrieron agenda sin enviar datos.",
+        "Anuncios de confianza para resolver dudas previas a valoracion."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en web actual con eventos de agenda y formularios por procedimiento.",
+        "Asesor digital para procedimiento, objeciones, ubicacion, agenda, FAQ y seguimiento.",
+        "Panel de leads por fuente, procedimiento, etapa y siguiente accion comercial."
+      ],
+      "sources": [
+        "https://www.instagram.com/clinicanova/",
+        "https://clinicanova.com.co/",
+        "https://www.doctoralia.co/clinicas/clinica-nova-de-medellin"
+      ]
+    },
+    {
+      "slug": "celestino-hotel-medellin",
+      "company": "Celestino Hotel and Spa",
+      "instagram": "@celestinohotelandspa",
+      "website": "https://hotelcelestino.com/",
+      "sector": "hotel boutique y spa",
+      "city": "Medellin",
+      "tone": "boutique, botanico y premium",
+      "theme": "resort",
+      "brandMode": "forest",
+      "accent": "#B8A46A",
+      "secondary": "#7EA48D",
+      "status": "Instagram + web propia oficial visible",
+      "leadProblem": "Celestino ya tiene web, reserva y una experiencia fuerte de hotel/spa en Provenza. La fuga probable esta en visitantes que comparan fechas, habitacion, spa, rooftop, ubicacion y beneficios antes de reservar directo.",
+      "opportunity": "Mejorar conversion de la web actual con concierge digital, seguimiento a fechas consultadas, FAQ para viajeros y remarketing de reservas no terminadas.",
+      "proofLine": "Lectura publica del 2 de julio de 2026: @celestinohotelandspa comunica hotel boutique en Medellin con spa, sauna, cold plunge, jacuzzi y RNT; hotelcelestino.com presenta habitaciones, paquetes, ubicacion en Via Primavera y experiencias wellness.",
+      "audience": "Viajeros nacionales e internacionales que buscan estadia boutique en El Poblado/Provenza con experiencia de spa y ubicacion gastronomica.",
+      "adAngle": "Hotel boutique en Provenza + bienestar + reserva directa asistida",
+      "whatsappCta": "Quiero aumentar reservas directas del hotel",
+      "heroCopy": "Cuando un viajero mira un hotel boutique, no falta deseo: falta cerrar fecha, habitacion, beneficios, transporte y confianza antes de irse a una OTA.",
+      "brandWorldTitle": "De deseo de escapada a reserva directa",
+      "diagnosisTitle": "Fugas antes de reservar",
+      "botAgentName": "Concierge Celestino demo",
+      "botAgentRole": "filtra fechas, habitacion y experiencia",
+      "botTitle": "Concierge digital para reservas boutique",
+      "botIntro": "El demo pregunta fechas, huespedes, motivo de viaje, spa, paquetes y dudas logisticas para preparar la reserva.",
+      "botOpening": "Hola, soy el concierge demo para Celestino. Puedo orientar fechas, habitaciones, spa, ubicacion y reserva directa.",
+      "botPrompts": [
+        "Consultar fechas",
+        "Habitaciones",
+        "Spa y rooftop",
+        "Ubicacion",
+        "Reserva directa"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["fecha", "reserva", "habitacion"],
+          "answer": "Pregunta entrada, salida, huespedes, tipo de habitacion y si busca plan de descanso, pareja, turismo o trabajo."
+        },
+        {
+          "keywords": ["spa", "sauna", "jacuzzi", "rooftop"],
+          "answer": "Explica que debe confirmar disponibilidad y captura interes en spa, rooftop o experiencias para agregarlo a la solicitud."
+        },
+        {
+          "keywords": ["ubicacion", "provenza", "poblado"],
+          "answer": "Responde con foco en Via Primavera/Provenza y pregunta si prioriza vida nocturna, gastronomia, descanso o movilidad."
+        },
+        {
+          "keywords": ["mide", "datos", "pauta"],
+          "answer": "Mide fechas consultadas, habitaciones vistas, clics a reserva directa y abandono antes de confirmar."
+        }
+      ],
+      "findings": [
+        "Tiene web oficial con habitaciones, paquetes, ubicacion y experiencia wellness.",
+        "El reto comercial es recuperar al viajero que compara entre web, OTAs e Instagram.",
+        "Un concierge digital puede capturar contexto antes de WhatsApp o motor de reserva."
+      ],
+      "siteIssues": [
+        "La web debe reforzar reserva directa con beneficios y respuesta rapida por fecha.",
+        "Las dudas de spa, rooftop, transporte, paquetes y ubicacion deben resolverse antes del abandono.",
+        "Sin seguimiento, fechas consultadas se pierden como trafico anonimo."
+      ],
+      "losses": [
+        "El viajero termina reservando en plataformas si el camino directo se siente mas lento.",
+        "El equipo repite preguntas de fechas, habitaciones, servicios y transporte.",
+        "La pauta no aprende que experiencia produce reservas de mayor valor."
+      ],
+      "heatmapData": [
+        "Clics por habitacion, spa, rooftop, ubicacion, reserva y WhatsApp.",
+        "Abandono antes del motor de reserva o despues de ver tarifas.",
+        "Tipos de viaje y experiencias que impulsan mas intencion."
+      ],
+      "campaigns": [
+        "Campana de reserva directa para escapadas en Provenza.",
+        "Remarketing a visitantes de habitaciones y spa sin reserva.",
+        "Anuncios por wellness, ubicacion y experiencia boutique."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en web actual con concierge, CTAs y eventos de reserva.",
+        "Asesor digital para fechas, habitaciones, spa, ubicacion, FAQ y seguimiento.",
+        "Panel de oportunidades por fuente, fecha, experiencia y estado de reserva."
+      ],
+      "sources": [
+        "https://www.instagram.com/celestinohotelandspa/",
+        "https://hotelcelestino.com/"
+      ]
+    },
+    {
+      "slug": "hotel-el-zarzo-medellin",
+      "company": "Hotel El Zarzo",
+      "instagram": "@hotelelzarzo",
+      "website": "https://hotelelzarzo.com/",
+      "sector": "hotel boutique con rooftop/bar",
+      "city": "Medellin",
+      "tone": "editorial, calmado y cosmopolita",
+      "theme": "resort",
+      "brandMode": "forest",
+      "accent": "#9D8F63",
+      "secondary": "#6F8D80",
+      "status": "Instagram + web propia oficial visible",
+      "leadProblem": "El Zarzo combina hotel, bar/rooftop y experiencia boutique. La fuga probable esta en usuarios que quieren reservar habitacion, mesa, evento o experiencia, pero terminan en varios links sin una ruta comercial unica.",
+      "opportunity": "Mejorar conversion de la web actual con concierge que separe hotel, bar, eventos y WhatsApp, mas seguimiento a reservas no confirmadas.",
+      "proofLine": "Lectura publica del 2 de julio de 2026: @hotelelzarzo presenta hotel en Medellin y reservas; hotelelzarzo.com comunica reserva por web/WhatsApp y opciones de bar/rooftop.",
+      "audience": "Viajeros y locales en Medellin que buscan estadia boutique, rooftop, bar, musica o eventos privados.",
+      "adAngle": "Hotel boutique + rooftop + reserva guiada por intencion",
+      "whatsappCta": "Quiero ordenar reservas de hotel, bar y eventos",
+      "heroCopy": "Cuando una marca mezcla hotel, bar y eventos, cada visitante necesita una ruta distinta. Si todos caen al mismo WhatsApp, se pierde contexto y velocidad.",
+      "brandWorldTitle": "De inspiracion social a reserva correcta",
+      "diagnosisTitle": "Fugas por intencion mezclada",
+      "botAgentName": "Concierge El Zarzo demo",
+      "botAgentRole": "separa hotel, rooftop y eventos",
+      "botTitle": "Concierge digital multi-intencion",
+      "botIntro": "El demo identifica si la persona quiere habitacion, mesa, evento o informacion general y arma la solicitud correcta.",
+      "botOpening": "Hola, soy el concierge demo para El Zarzo. Puedo orientar reserva de hotel, rooftop/bar, eventos y dudas de ubicacion.",
+      "botPrompts": [
+        "Reservar hotel",
+        "Reservar rooftop",
+        "Evento privado",
+        "Ubicacion",
+        "WhatsApp"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["hotel", "habitacion", "huesped", "fecha"],
+          "answer": "Pregunta fechas, huespedes, tipo de viaje y preferencia de habitacion para enviar a reserva directa."
+        },
+        {
+          "keywords": ["rooftop", "bar", "mesa", "musica"],
+          "answer": "Pregunta fecha, numero de personas, hora y tipo de experiencia para preparar reserva del bar."
+        },
+        {
+          "keywords": ["evento", "privado", "celebracion"],
+          "answer": "Pide fecha tentativa, numero de asistentes, tipo de evento y presupuesto aproximado."
+        },
+        {
+          "keywords": ["mide", "pauta", "datos"],
+          "answer": "Mide intencion hotel/bar/evento, clics a reserva, abandono y seguimiento pendiente."
+        }
+      ],
+      "findings": [
+        "Tiene web oficial, Instagram activo y oferta combinada de hospedaje y gastronomia.",
+        "La prioridad es separar intenciones para no mezclar reservas de hotel, mesa y eventos.",
+        "Un concierge digital puede convertir links sociales en oportunidades clasificadas."
+      ],
+      "siteIssues": [
+        "La ruta debe preguntar primero que quiere reservar: habitacion, mesa, evento o informacion.",
+        "WhatsApp debe recibir fecha, numero de personas y tipo de reserva desde el inicio.",
+        "Sin segmentacion, la pauta no distingue reservas de estadia de consumos o eventos."
+      ],
+      "losses": [
+        "Clientes con intenciones distintas entran a conversaciones desordenadas.",
+        "El equipo repite preguntas basicas de fecha, numero de personas y servicio.",
+        "Oportunidades de eventos pueden perderse si no se capturan datos desde el primer contacto."
+      ],
+      "heatmapData": [
+        "Clics por hotel, rooftop, eventos, menu, ubicacion y WhatsApp.",
+        "Abandono por tipo de reserva antes de completar datos.",
+        "Fuentes que generan reservas de mayor valor."
+      ],
+      "campaigns": [
+        "Campana separada para hotel, rooftop y eventos.",
+        "Remarketing a visitantes de eventos sin cotizacion.",
+        "Anuncios de experiencia boutique con reserva directa."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en web actual con rutas por intencion y eventos clave.",
+        "Concierge digital para hotel, rooftop, eventos, ubicacion, FAQ y seguimiento.",
+        "Panel de oportunidades por fuente, intencion, fecha y estado de reserva."
+      ],
+      "sources": [
+        "https://www.instagram.com/hotelelzarzo/",
+        "https://hotelelzarzo.com/"
+      ]
+    },
+    {
+      "slug": "casa-san-agustin-cartagena",
+      "company": "Casa San Agustin",
+      "instagram": "@casasanagustin",
+      "website": "https://hotelcasasanagustin.com/",
+      "sector": "hotel boutique de lujo",
+      "city": "Cartagena",
+      "tone": "lujo, patrimonial y sereno",
+      "theme": "resort",
+      "brandMode": "forest",
+      "accent": "#B79A63",
+      "secondary": "#7A9A90",
+      "status": "Instagram + web propia oficial visible",
+      "leadProblem": "Casa San Agustin tiene posicionamiento de lujo y web oficial. La fuga probable no es falta de deseo, sino viajeros de alto valor que comparan suites, experiencias, disponibilidad, restaurante, playa, transfer y beneficios antes de reservar directo.",
+      "opportunity": "Mejorar conversion de la web actual con concierge premium, seguimiento de fechas/suites consultadas y rutas para reservas directas, eventos y experiencias.",
+      "proofLine": "Lectura publica del 2 de julio de 2026: @casasanagustin invita a reservar por link/bio; hotelcasasanagustin.com comunica hotel boutique en Cartagena, 20 habitaciones y 11 suites, casa patrimonial y pertenencia a The Leading Hotels of the World.",
+      "audience": "Viajeros internacionales y nacionales de alto valor que buscan hotel boutique de lujo, historia, gastronomia y experiencias en Cartagena.",
+      "adAngle": "Lujo patrimonial + concierge inmediato + reserva directa",
+      "whatsappCta": "Quiero recuperar reservas directas de alto valor",
+      "heroCopy": "En hoteleria de lujo, un visitante anonimo puede valer mucho. Si la web no captura fecha, tipo de suite y motivo de viaje, la oportunidad se diluye en comparadores.",
+      "brandWorldTitle": "De deseo de lujo a reserva directa",
+      "diagnosisTitle": "Fugas de alto valor",
+      "botAgentName": "Concierge Casa San Agustin demo",
+      "botAgentRole": "filtra suite, fecha y experiencia",
+      "botTitle": "Concierge premium para reserva directa",
+      "botIntro": "El demo captura fechas, numero de huespedes, suite/experiencia, celebracion, restaurante y dudas logisticas.",
+      "botOpening": "Hola, soy el concierge demo para Casa San Agustin. Puedo orientar fechas, suites, experiencias, restaurante y reserva directa.",
+      "botPrompts": [
+        "Consultar suites",
+        "Reserva directa",
+        "Experiencias",
+        "Restaurante",
+        "Evento especial"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["suite", "habitacion", "fecha", "reserva"],
+          "answer": "Pregunta fechas, huespedes, tipo de habitacion/suite, ocasion del viaje y preferencia de contacto."
+        },
+        {
+          "keywords": ["experiencia", "playa", "restaurante", "alma"],
+          "answer": "Clasifica si busca restaurante, experiencia, playa, celebracion o plan romantico para pasar al equipo con contexto."
+        },
+        {
+          "keywords": ["evento", "boda", "celebracion"],
+          "answer": "Pide fecha tentativa, numero de personas, tipo de evento y necesidades de alojamiento."
+        },
+        {
+          "keywords": ["mide", "datos", "pauta"],
+          "answer": "Mide suites vistas, fechas consultadas, CTA de reserva, abandono y origen de viajeros de mayor valor."
+        }
+      ],
+      "findings": [
+        "La web oficial ya tiene una marca de lujo clara y una oferta patrimonial potente.",
+        "La oportunidad es capturar mejor a visitantes de alta intencion antes de que vuelvan a OTAs o comparadores.",
+        "Un concierge digital puede elevar respuesta sin perder tono premium."
+      ],
+      "siteIssues": [
+        "La reserva directa debe reforzar beneficios, dudas logisticas y contacto con contexto.",
+        "Las rutas de suites, experiencias, restaurante y eventos deben alimentar seguimiento comercial.",
+        "Sin medicion de intencion, no se diferencia turismo, evento, celebracion o reserva corporativa."
+      ],
+      "losses": [
+        "Reservas de alto valor pueden terminar en intermediarios por friccion o comparacion.",
+        "El equipo recibe solicitudes incompletas sin fecha, suite ni motivo de viaje.",
+        "La pauta de lujo pierde aprendizaje si solo mide visitas y no intencion real."
+      ],
+      "heatmapData": [
+        "Clics por suites, experiencias, restaurante, eventos, contacto y reserva.",
+        "Abandono antes de tarifa, formulario o WhatsApp.",
+        "Motivos de viaje con mayor valor: pareja, lujo, evento, familia o internacional."
+      ],
+      "campaigns": [
+        "Campana de reserva directa para viajeros de lujo a Cartagena.",
+        "Remarketing a visitantes de suites y experiencias sin reserva.",
+        "Anuncios para eventos/celebraciones con concierge y formulario de alto valor."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en web actual con eventos premium y CTA de concierge.",
+        "Concierge digital para suites, fechas, experiencias, eventos, restaurante y seguimiento.",
+        "Panel de oportunidades por origen, motivo de viaje, fecha, suite e intencion."
+      ],
+      "sources": [
+        "https://www.instagram.com/casasanagustin/",
+        "https://hotelcasasanagustin.com/"
+      ]
+    },
+    {
+      "slug": "petalo-andino-bogota",
+      "company": "Petalo Andino",
+      "instagram": "@petaloandino",
+      "website": "https://www.petaloandino.com/",
+      "sector": "floristeria premium y detalles personalizados",
+      "city": "Bogota y Soacha",
+      "tone": "emocional, premium y directo",
+      "theme": "maker",
+      "brandMode": "standard",
+      "accent": "#C84C64",
+      "secondary": "#F2B84B",
+      "status": "Instagram + ecommerce propio visible",
+      "leadProblem": "Petalo Andino tiene tienda online, catalogo y WhatsApp. La fuga probable esta en compradores que buscan un detalle para hoy, pero se frenan por ocasion, presupuesto, disponibilidad, direccion, horario de entrega o pago.",
+      "opportunity": "Mejorar conversion del ecommerce actual con asesor digital de regalos, WhatsApp contextual, recuperacion de carrito y pauta por ocasion.",
+      "proofLine": "Lectura publica del 2 de julio de 2026: petaloandino.com muestra floristeria premium en Bogota y Soacha, catalogo, carrito, WhatsApp, categorias y datos de contacto; resultados publicos vinculan Instagram @petaloandino.",
+      "audience": "Personas en Bogota/Soacha que quieren enviar flores, ramos, bouquets, desayunos sorpresa, rosas y detalles para fechas especiales.",
+      "adAngle": "Detalle emocional + entrega rapida + compra guiada por ocasion",
+      "whatsappCta": "Quiero convertir visitas en pedidos de flores",
+      "heroCopy": "En floristeria, el cliente casi siempre compra contra el reloj. Si no encuentra el arreglo correcto, precio, entrega y pago en minutos, se va con otra opcion.",
+      "brandWorldTitle": "De emocion urgente a pedido confirmado",
+      "diagnosisTitle": "Fugas antes del carrito",
+      "botAgentName": "Asesor Petalo demo",
+      "botAgentRole": "recomienda arreglo, ocasion y entrega",
+      "botTitle": "Asesor digital para regalos florales",
+      "botIntro": "El demo pregunta ocasion, presupuesto, zona, fecha, mensaje y preferencia de estilo para sugerir el siguiente paso.",
+      "botOpening": "Hola, soy el asesor demo para Petalo Andino. Puedo ayudar a elegir flores por ocasion, presupuesto, entrega y mensaje.",
+      "botPrompts": [
+        "Regalo para hoy",
+        "Ramo romantico",
+        "Presupuesto",
+        "Entrega Bogota",
+        "Carrito abandonado"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["hoy", "entrega", "domicilio", "bogota", "soacha"],
+          "answer": "Pregunta zona, hora ideal, presupuesto y ocasion para validar entrega y sugerir un producto adecuado."
+        },
+        {
+          "keywords": ["romantico", "cumple", "aniversario", "condolencias", "grado"],
+          "answer": "Clasifica la ocasion y propone rango de presupuesto, mensaje y estilo antes de enviar al catalogo."
+        },
+        {
+          "keywords": ["precio", "presupuesto", "carrito", "pago"],
+          "answer": "Pide presupuesto y producto visto para recuperar carrito o llevar a WhatsApp con link/contexto."
+        },
+        {
+          "keywords": ["mide", "datos", "pauta"],
+          "answer": "Mide ocasion, categoria, producto visto, abandono de carrito, clics a WhatsApp y conversion."
+        }
+      ],
+      "findings": [
+        "Tiene ecommerce con catalogo, carrito, categorias, WhatsApp y datos de contacto.",
+        "La oportunidad es reducir indecision por ocasion, presupuesto y entrega.",
+        "El asesor digital puede aumentar conversion sin reemplazar la tienda: guia y recupera."
+      ],
+      "siteIssues": [
+        "El ecommerce debe conectar productos vistos con WhatsApp y seguimiento de carrito.",
+        "Las categorias por ocasion deben llevar a recomendaciones rapidas y no solo a navegacion.",
+        "Sin eventos de carrito/WhatsApp, la pauta no sabe que detalle genera compra real."
+      ],
+      "losses": [
+        "Compradores urgentes abandonan si no resuelven entrega y presupuesto al instante.",
+        "El equipo responde manualmente preguntas repetidas de zona, horario y disponibilidad.",
+        "Se pierden carritos y visitantes que ya tenian intencion emocional alta."
+      ],
+      "heatmapData": [
+        "Clics por categoria, producto, carrito, WhatsApp, contacto y pago.",
+        "Abandono antes de carrito o al validar envio.",
+        "Ocasiones y rangos de precio con mayor intencion."
+      ],
+      "campaigns": [
+        "Campanas por ocasion: cumpleanos, amor, condolencias, grados y fechas especiales.",
+        "Remarketing de carrito/producto visto con WhatsApp contextual.",
+        "Anuncios de entrega rapida por zona con asesor digital."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en ecommerce actual con eventos, carrito y WhatsApp contextual.",
+        "Asesor digital para ocasion, presupuesto, zona, entrega, mensaje, pagos y seguimiento.",
+        "Panel de oportunidades por ocasion, producto, fuente, carrito y estado del pedido."
+      ],
+      "sources": [
+        "https://www.instagram.com/petaloandino/",
+        "https://www.petaloandino.com/"
+      ]
+    },
+    {
+      "slug": "floristeria-ebenezer-cali",
+      "company": "Floristeria Ebenezer",
+      "instagram": "@floristeria_ebenezer",
+      "website": "https://www.ebenezercali.com/",
+      "sector": "floristeria y domicilios de arreglos florales",
+      "city": "Cali",
+      "tone": "rapido, cercano y emocional",
+      "theme": "maker",
+      "brandMode": "standard",
+      "accent": "#D94F70",
+      "secondary": "#73A942",
+      "status": "Instagram + tienda online visible",
+      "leadProblem": "Floristeria Ebenezer comunica tienda online, WhatsApp y domicilios en Cali. La fuga probable esta en pedidos urgentes que necesitan arreglo, zona, hora, dedicatoria, pago y confirmacion sin esperar una conversacion larga.",
+      "opportunity": "Mejorar conversion de la tienda actual con asesor digital por ocasion, WhatsApp con pedido prellenado, seguimiento de carritos y pauta local por entrega rapida.",
+      "proofLine": "Lectura publica del 2 de julio de 2026: @floristeria_ebenezer se presenta como floristeria en Cali con WhatsApp y pedidos online; ebenezercali.com responde HTTP 200 y resultados publicos citan tienda online y WhatsApp.",
+      "audience": "Personas en Cali que compran flores para amor, cumpleanos, condolencias, aniversarios, grados y detalles de ultimo minuto.",
+      "adAngle": "Flores en Cali + pedido rapido + WhatsApp con contexto",
+      "whatsappCta": "Quiero vender mas arreglos con menos friccion",
+      "heroCopy": "En flores, la venta se decide rapido. Si el cliente no entiende entrega, precio, dedicatoria y pago, el impulso emocional se enfria.",
+      "brandWorldTitle": "De urgencia emocional a pedido confirmado",
+      "diagnosisTitle": "Fugas por pedido incompleto",
+      "botAgentName": "Asesor Ebenezer demo",
+      "botAgentRole": "filtra ocasion, zona y entrega",
+      "botTitle": "Asesor digital para pedidos florales",
+      "botIntro": "El demo convierte un mensaje general en pedido: ocasion, arreglo, presupuesto, zona, fecha, dedicatoria y pago.",
+      "botOpening": "Hola, soy el asesor demo para Floristeria Ebenezer. Puedo orientar arreglos, domicilios en Cali, presupuesto y dedicatoria.",
+      "botPrompts": [
+        "Entrega hoy",
+        "Ramo de amor",
+        "Condolencias",
+        "Presupuesto",
+        "Dedicatoria"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["hoy", "domicilio", "entrega", "cali"],
+          "answer": "Pregunta barrio/zona, hora ideal, ocasion, presupuesto y datos del destinatario para validar entrega."
+        },
+        {
+          "keywords": ["amor", "cumple", "condolencias", "aniversario"],
+          "answer": "Sugiere clasificar ocasion, tono del mensaje, colores preferidos y rango de precio."
+        },
+        {
+          "keywords": ["precio", "presupuesto", "pago"],
+          "answer": "Captura presupuesto y producto de interes para enviar opcion concreta y medio de pago."
+        },
+        {
+          "keywords": ["mide", "pauta", "datos"],
+          "answer": "Mide ocasion, zona, producto consultado, clics a WhatsApp y abandono antes de pago."
+        }
+      ],
+      "findings": [
+        "Tiene Instagram, WhatsApp y tienda online: base lista para optimizar conversion.",
+        "La oportunidad esta en ordenar pedidos urgentes y recuperar abandonos.",
+        "La pauta local puede mejorar si se mide ocasion, zona y producto."
+      ],
+      "siteIssues": [
+        "WhatsApp debe recibir producto, ocasion, zona, hora y dedicatoria desde el primer clic.",
+        "La tienda debe activar seguimiento de carrito y producto visto.",
+        "Falta una ruta rapida para comprador de ultimo minuto."
+      ],
+      "losses": [
+        "Pedidos urgentes se pierden por tiempos de respuesta o datos incompletos.",
+        "El equipo repite preguntas de zona, hora, presupuesto y dedicatoria.",
+        "La pauta no sabe que ocasion o producto produce pedidos reales."
+      ],
+      "heatmapData": [
+        "Clics por categoria, producto, WhatsApp, carrito y pago.",
+        "Abandono por zona de entrega o paso de pago.",
+        "Ocasiones con mayor conversion por dia y hora."
+      ],
+      "campaigns": [
+        "Campana local de entrega hoy en Cali.",
+        "Remarketing a producto/carrito abandonado con WhatsApp contextual.",
+        "Anuncios por ocasion con asesor de presupuesto."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en tienda actual con WhatsApp contextual y eventos de carrito.",
+        "Asesor digital para ocasion, zona, presupuesto, entrega, dedicatoria, pago y seguimiento.",
+        "Panel de oportunidades por ocasion, zona, producto, fuente y estado del pedido."
+      ],
+      "sources": [
+        "https://www.instagram.com/floristeria_ebenezer/",
+        "https://www.ebenezercali.com/"
+      ]
+    },
+    {
+      "slug": "verena-lueg-pasteleria-bogota",
+      "company": "Verena Lueg Pasteleria",
+      "instagram": "@verenaluegpasteleria",
+      "sector": "pasteleria boutique",
+      "city": "Bogota",
+      "tone": "artesanal, dulce y cercano",
+      "theme": "maker",
+      "brandMode": "pastry",
+      "accent": "#C96F7E",
+      "secondary": "#E9B86D",
+      "status": "Instagram + pedidos por WhatsApp; no se verifico web propia confiable",
+      "leadProblem": "Verena Lueg comunica pasteleria boutique en Bogota y pedidos por WhatsApp. Sin una pagina propia clara, cada pedido depende de que la persona escriba, pregunte sabores, precios, disponibilidad, fecha y entrega manualmente.",
+      "opportunity": "Crear landing/catalogo con tortas, sabores, tamanos, fechas, domicilio, FAQ y asesor digital para convertir antojos y celebraciones en pedidos ordenados.",
+      "proofLine": "Lectura publica del 2 de julio de 2026: resultados indexados de @verenaluegpasteleria la describen como Pasteleria Boutique en Bogota con pedidos por WhatsApp; no se verifico web propia oficial.",
+      "audience": "Personas en Bogota que buscan tortas, postres, regalos, celebraciones y productos de pasteleria boutique.",
+      "adAngle": "Pasteleria boutique + catalogo claro + pedido por WhatsApp con contexto",
+      "whatsappCta": "Quiero convertir antojos en pedidos claros",
+      "heroCopy": "Una torta se compra con antojo, pero se confirma con informacion: sabor, tamano, fecha, precio, entrega y pago. Sin landing, todo eso cae en WhatsApp manual.",
+      "brandWorldTitle": "De antojo a pedido confirmado",
+      "diagnosisTitle": "Fugas por venta solo en chat",
+      "botAgentName": "Asesor Verena demo",
+      "botAgentRole": "filtra sabor, fecha y entrega",
+      "botTitle": "Asesor digital para pedidos de pasteleria",
+      "botIntro": "El demo convierte una pregunta por torta en una solicitud con fecha, producto, porciones, entrega y presupuesto.",
+      "botOpening": "Hola, soy el asesor demo para Verena Lueg. Puedo orientar sabores, tortas, fechas, porciones y pedidos por WhatsApp.",
+      "botPrompts": [
+        "Pedir torta",
+        "Cumpleanos",
+        "Sabores",
+        "Entrega en Bogota",
+        "Presupuesto"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["torta", "pedido", "postre"],
+          "answer": "Pregunta fecha, numero de personas, sabor preferido, presupuesto y si requiere domicilio o recogida."
+        },
+        {
+          "keywords": ["cumple", "celebracion", "regalo"],
+          "answer": "Pide ocasion, mensaje, fecha y cantidad para sugerir formato y tamanos antes de pasar a WhatsApp."
+        },
+        {
+          "keywords": ["sabor", "precio", "presupuesto"],
+          "answer": "Captura sabor y rango de presupuesto para enviar opciones concretas y evitar una conversacion larga."
+        },
+        {
+          "keywords": ["mide", "pauta", "datos"],
+          "answer": "Mide producto consultado, fecha de evento, clics a WhatsApp y pedidos pendientes de seguimiento."
+        }
+      ],
+      "findings": [
+        "La marca tiene presencia de Instagram y canal de pedidos por WhatsApp.",
+        "No se verifico web propia confiable, por eso la oportunidad principal es una landing/catalogo.",
+        "El asesor digital puede ordenar pedidos antes de que lleguen al equipo."
+      ],
+      "siteIssues": [
+        "Falta una pagina propia con catalogo, sabores, tamanos, fechas, entregas, pagos y FAQ.",
+        "WhatsApp deberia recibir producto, fecha, porciones y presupuesto desde el primer mensaje.",
+        "Sin pixel ni landing, la pauta no aprende que tortas generan pedidos reales."
+      ],
+      "losses": [
+        "Clientes interesados pueden no escribir si no ven rapido precios, sabores o disponibilidad.",
+        "Cada pedido consume tiempo por preguntas repetidas.",
+        "No queda base propia para remarketing por fecha de celebracion o producto."
+      ],
+      "heatmapData": [
+        "Clics por tortas, sabores, porciones, entrega, WhatsApp y FAQ.",
+        "Abandono antes de elegir fecha o presupuesto.",
+        "Productos y ocasiones con mayor intencion."
+      ],
+      "campaigns": [
+        "Campana de celebraciones y tortas por temporada en Bogota.",
+        "Anuncios de producto estrella con pedido guiado.",
+        "Remarketing a visitantes que vieron catalogo sin escribir."
+      ],
+      "deliverables": [
+        "Landing/catalogo con tortas, sabores, tamanos, fechas, entrega, pagos y WhatsApp contextual.",
+        "Asesor digital para producto, fecha, porciones, presupuesto, domicilio y seguimiento.",
+        "Panel de pedidos por ocasion, producto, fuente, fecha y estado."
+      ],
+      "sources": [
+        "https://www.instagram.com/verenaluegpasteleria/"
+      ]
+    },
+    {
+      "slug": "lunnae-studio-bogota",
+      "company": "Lunnae Studio",
+      "instagram": "@lunnaestudio",
+      "sector": "pilates, yoga y barre",
+      "city": "Bogota",
+      "tone": "joven, sereno y cercano",
+      "theme": "wellness",
+      "brandMode": "standard",
+      "accent": "#9AAE8A",
+      "secondary": "#E3C38D",
+      "status": "Instagram + WhatsApp para agenda; no se verifico web propia confiable",
+      "leadProblem": "Lunnae Studio comunica clases de Pilates Reformer, Yoga y Barre con agenda por WhatsApp. Sin web/landing propia, la persona interesada debe preguntar horarios, nivel, precios, ubicacion y disponibilidad antes de reservar.",
+      "opportunity": "Crear landing de primera clase con horarios, planes, ubicacion, FAQ, agenda por WhatsApp y asesor digital que recomiende clase segun objetivo y nivel.",
+      "proofLine": "Lectura publica del 2 de julio de 2026: resultados indexados de @lunnaestudio la describen como estudio en Bogota para Pilates Reformer, Yoga y Barre, con WhatsApp para agendar; no se verifico web propia oficial.",
+      "audience": "Personas en Bogota que quieren empezar o retomar movimiento con pilates, yoga, barre, clases grupales y acompanamiento cercano.",
+      "adAngle": "Primera clase clara + horario facil + agenda por WhatsApp",
+      "whatsappCta": "Quiero llenar mas clases con agenda ordenada",
+      "heroCopy": "La motivacion por empezar una clase dura poco. Si no hay horarios, nivel, precio y agenda claros, la persona deja la decision para despues.",
+      "brandWorldTitle": "De motivacion a clase reservada",
+      "diagnosisTitle": "Fugas antes de la primera clase",
+      "botAgentName": "Asesor Lunnae demo",
+      "botAgentRole": "recomienda clase, nivel y horario",
+      "botTitle": "Asesor digital para agenda de clases",
+      "botIntro": "El demo pregunta objetivo, experiencia, disponibilidad, tipo de clase y molestias para sugerir el siguiente paso.",
+      "botOpening": "Hola, soy el asesor demo para Lunnae. Puedo orientar primera clase, horarios, niveles y agenda por WhatsApp.",
+      "botPrompts": [
+        "Primera clase",
+        "Soy principiante",
+        "Horarios",
+        "Pilates reformer",
+        "Precios"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["primera", "principiante", "nuevo"],
+          "answer": "Pregunta experiencia, objetivo, molestias o lesiones y horario disponible para recomendar una clase de inicio."
+        },
+        {
+          "keywords": ["horario", "agenda", "clase"],
+          "answer": "Pide dias/horas disponibles, tipo de clase y sede/zona para llevar a WhatsApp con contexto."
+        },
+        {
+          "keywords": ["pilates", "yoga", "barre", "reformer"],
+          "answer": "Clasifica preferencia y objetivo: fuerza, postura, movilidad, bienestar o habito."
+        },
+        {
+          "keywords": ["mide", "pauta", "datos"],
+          "answer": "Mide clases consultadas, horarios mas pedidos, clics a WhatsApp y reservas iniciadas."
+        }
+      ],
+      "findings": [
+        "Tiene presencia publica de Instagram y agenda por WhatsApp.",
+        "No se verifico web propia confiable, por eso la landing de primera clase es la oportunidad inicial.",
+        "El asesor digital puede reducir preguntas repetidas y recuperar interesados que no reservan."
+      ],
+      "siteIssues": [
+        "Falta una pagina clara con clases, horarios, precios/planes, ubicacion, FAQ y agenda.",
+        "WhatsApp deberia recibir objetivo, nivel y horario preferido desde el primer clic.",
+        "Sin landing ni pixel, la pauta no sabe que clase o horario genera reservas."
+      ],
+      "losses": [
+        "Personas motivadas abandonan por dudas de nivel, horario o precio.",
+        "El equipo responde manualmente la misma informacion de clases y agenda.",
+        "No se construyen audiencias propias para remarketing de primera clase."
+      ],
+      "heatmapData": [
+        "Clics por clase, horario, plan, ubicacion, FAQ y WhatsApp.",
+        "Abandono antes de agenda o al buscar precios.",
+        "Objetivos mas frecuentes: postura, fuerza, flexibilidad, bienestar o dolor."
+      ],
+      "campaigns": [
+        "Campana de primera clase para personas cerca de la zona.",
+        "Anuncios por objetivo: postura, fuerza, movilidad y bienestar.",
+        "Remarketing a visitantes que vieron horarios sin agendar."
+      ],
+      "deliverables": [
+        "Landing de conversion con clases, horarios, planes, ubicacion, FAQ y WhatsApp contextual.",
+        "Asesor digital para objetivo, nivel, clase, horario, lesiones, precios y seguimiento.",
+        "Panel de reservas por fuente, clase, horario, objetivo y estado."
+      ],
+      "sources": [
+        "https://www.instagram.com/lunnaestudio/"
+      ]
     }
   ]
 }
