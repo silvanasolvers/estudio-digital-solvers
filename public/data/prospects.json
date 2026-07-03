@@ -19048,6 +19048,1051 @@
       "sources": [
         "https://www.instagram.com/lunnaestudio/"
       ]
+    },
+    {
+      "slug": "hotel-almirante-cartagena",
+      "company": "Hotel Almirante Cartagena",
+      "instagram": "@hotelalmirante",
+      "website": "https://hotelalmirantecartagena.com",
+      "sector": "hotel urbano frente al mar",
+      "city": "Cartagena",
+      "tone": "hospitalario, Caribe y confiable",
+      "theme": "resort",
+      "brandMode": "ocean",
+      "accent": "#2B8EC6",
+      "secondary": "#F0B95A",
+      "status": "Instagram + web propia oficial visible",
+      "leadProblem": "Hotel Almirante ya tiene web oficial y una marca hotelera reconocible. La fuga probable esta en visitantes que comparan fechas, habitaciones, eventos, restaurante y ubicacion, pero no dejan suficiente contexto antes de irse a una OTA o escribir sin datos.",
+      "opportunity": "Mejorar conversion de la web actual con concierge digital, WhatsApp con contexto, seguimiento de fechas consultadas y rutas separadas para reserva directa, eventos y restaurante.",
+      "proofLine": "Lectura publica del 3 de julio de 2026: hotelalmirantecartagena.com responde HTTP 200; resultados publicos e Instagram @hotelalmirante comunican Hotel Almirante Cartagena en Bocagrande y reservas/contacto directo.",
+      "audience": "Viajeros nacionales e internacionales, familias, parejas, asistentes a eventos y empresas que buscan hotel en Bocagrande.",
+      "adAngle": "Cartagena frente al mar + reserva directa + respuesta inmediata",
+      "whatsappCta": "Quiero recuperar reservas directas",
+      "heroCopy": "En hoteleria, una visita con fecha tentativa ya es una oportunidad comercial. Si no se captura habitacion, motivo de viaje y canal de contacto, esa intencion vuelve a comparadores.",
+      "brandWorldTitle": "De busqueda de hotel a reserva directa",
+      "diagnosisTitle": "Fugas antes de reservar",
+      "botAgentName": "Concierge Almirante demo",
+      "botAgentRole": "filtra fechas, habitacion y motivo de viaje",
+      "botTitle": "Concierge digital para reservas y eventos",
+      "botIntro": "El demo pregunta fechas, huespedes, tipo de habitacion, evento, restaurante y dudas de ubicacion para pasar al equipo con contexto.",
+      "botOpening": "Hola, soy el concierge demo para Hotel Almirante. Puedo orientar fechas, habitaciones, eventos, restaurante y reserva directa.",
+      "botPrompts": [
+        "Consultar habitacion",
+        "Reserva directa",
+        "Evento corporativo",
+        "Restaurante",
+        "Ubicacion Bocagrande"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "habitacion",
+            "fecha",
+            "reserva",
+            "huesped"
+          ],
+          "answer": "Pregunta fecha de entrada/salida, numero de huespedes, tipo de habitacion y motivo de viaje para enviar una solicitud completa al equipo."
+        },
+        {
+          "keywords": [
+            "evento",
+            "corporativo",
+            "salon",
+            "reunion"
+          ],
+          "answer": "Pide fecha tentativa, numero de asistentes, formato del evento y necesidades de alimentos/bebidas antes de escalar a ventas."
+        },
+        {
+          "keywords": [
+            "restaurante",
+            "ubicacion",
+            "bocagrande"
+          ],
+          "answer": "Responde ubicacion y servicio consultado, y deja CTA a WhatsApp con el contexto del interes."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide fechas buscadas, clics a reservar, consultas de evento, origen de pauta y abandono antes de contacto."
+        }
+      ],
+      "findings": [
+        "La web oficial existe y responde, por lo que la oportunidad no es crear presencia sino mejorar conversion directa.",
+        "Instagram puede despertar deseo, pero la reserva necesita capturar fecha, habitacion y motivo de viaje.",
+        "El concierge digital ayuda a diferenciar turistas, eventos y restaurante para seguimiento comercial."
+      ],
+      "siteIssues": [
+        "La web debe conectar busqueda de fechas y botones de contacto con seguimiento medible.",
+        "WhatsApp debe recibir contexto: fechas, huespedes, habitacion/evento y origen del visitante.",
+        "Sin eventos por intencion, la pauta puede traer visitas sin distinguir reserva directa de curiosidad."
+      ],
+      "losses": [
+        "Reservas pueden terminar en OTAs si el visitante compara y no recibe una ruta directa convincente.",
+        "El equipo comercial recibe solicitudes incompletas que demoran cotizacion.",
+        "Eventos y restaurante pueden mezclarse con reservas individuales sin priorizacion."
+      ],
+      "heatmapData": [
+        "Clics por habitaciones, reservar, restaurante, eventos, WhatsApp y contacto.",
+        "Abandono antes de motor de reservas o formulario.",
+        "Motivos de viaje y fechas con mayor intencion comercial."
+      ],
+      "campaigns": [
+        "Campana de reserva directa para Cartagena/Bocagrande con beneficios claros.",
+        "Remarketing a visitantes de habitaciones sin reserva.",
+        "Campana de eventos y reuniones con formulario y concierge."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en web actual con eventos y WhatsApp contextual.",
+        "Concierge digital para fechas, habitaciones, restaurante, eventos, ubicacion y seguimiento.",
+        "Panel de oportunidades por fuente, motivo de viaje, fecha, CTA y estado comercial."
+      ],
+      "sources": [
+        "https://www.instagram.com/hotelalmirante/",
+        "https://hotelalmirantecartagena.com"
+      ]
+    },
+    {
+      "slug": "oral-laser-medellin",
+      "company": "Oral Laser",
+      "instagram": "@oral_laser",
+      "website": "https://oralaser.com.co/",
+      "sector": "clinica odontologica",
+      "city": "Medellin y area metropolitana",
+      "tone": "clinico, confiable y estetico",
+      "theme": "clinic",
+      "brandMode": "standard",
+      "accent": "#24A8D8",
+      "secondary": "#88D4F2",
+      "status": "Instagram + web propia oficial visible",
+      "leadProblem": "Oral Laser tiene web, servicios odontologicos y WhatsApp. La fuga probable esta en pacientes que quieren valoracion, urgencia, ortodoncia o diseno de sonrisa, pero llegan con dudas de precio, sede, disponibilidad y tratamiento sin quedar bien filtrados.",
+      "opportunity": "Mejorar conversion de la web actual con asesor digital por tratamiento, agenda por WhatsApp con contexto, seguimiento de pacientes interesados y pauta separada por urgencia, estetica y especialidad.",
+      "proofLine": "Lectura publica del 3 de julio de 2026: oralaser.com.co responde HTTP 200 y comunica odontologia preventiva, implantes, ortodoncia, PBX/WhatsApp; Instagram @oral_laser se presenta en Medellin y area metropolitana.",
+      "audience": "Personas en Medellin/Rionegro que buscan valoracion, limpieza, ortodoncia, implantes, urgencias o diseno de sonrisa.",
+      "adAngle": "Sonrisa segura + valoracion guiada + agenda por WhatsApp",
+      "whatsappCta": "Quiero convertir consultas odontologicas en citas",
+      "heroCopy": "En salud dental, la persona casi nunca agenda por impulso puro: necesita confianza, sede, tratamiento, precio aproximado y disponibilidad. Si esa ruta no esta clara, la cita se enfria.",
+      "brandWorldTitle": "De interes por sonrisa a cita agendada",
+      "diagnosisTitle": "Fugas antes de valoracion",
+      "botAgentName": "Asesor Oral Laser demo",
+      "botAgentRole": "filtra tratamiento, sede y urgencia",
+      "botTitle": "Asesor digital para valoraciones odontologicas",
+      "botIntro": "El demo identifica tratamiento, dolor/urgencia, sede preferida, disponibilidad y datos de contacto antes de pasar a agenda.",
+      "botOpening": "Hola, soy el asesor demo para Oral Laser. Puedo orientar valoraciones, urgencias, ortodoncia, implantes y diseno de sonrisa.",
+      "botPrompts": [
+        "Agendar valoracion",
+        "Urgencia dental",
+        "Ortodoncia",
+        "Diseno de sonrisa",
+        "Sede cercana"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "valoracion",
+            "cita",
+            "agenda"
+          ],
+          "answer": "Pregunta tratamiento de interes, sede preferida, disponibilidad horaria y datos de contacto para agendar sin ida y vuelta."
+        },
+        {
+          "keywords": [
+            "urgencia",
+            "dolor",
+            "24/7"
+          ],
+          "answer": "Clasifica si hay dolor, trauma o infeccion, pide ubicacion y recomienda contacto prioritario con contexto."
+        },
+        {
+          "keywords": [
+            "ortodoncia",
+            "implante",
+            "diseno",
+            "limpieza"
+          ],
+          "answer": "Filtra objetivo, antecedente y expectativas para enviar al especialista o a una landing del tratamiento."
+        },
+        {
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
+          "answer": "Mide tratamiento consultado, sede, clic a WhatsApp, formulario enviado y cita iniciada por fuente."
+        }
+      ],
+      "findings": [
+        "La web oficial muestra servicios odontologicos y canales de contacto.",
+        "La oportunidad esta en convertir visitas por tratamiento en valoraciones mejor filtradas.",
+        "Un asesor digital puede bajar preguntas repetidas y priorizar urgencias/citas con intencion real."
+      ],
+      "siteIssues": [
+        "Las rutas por especialidad deben medir clics, preguntas y agenda iniciada.",
+        "WhatsApp debe recibir tratamiento, sede, urgencia y horario desde el primer mensaje.",
+        "La pauta debe separar urgencias, estetica, ortodoncia e implantes para aprender mejor."
+      ],
+      "losses": [
+        "Pacientes comparan clinicas y abandonan si no entienden precio, disponibilidad o confianza.",
+        "El equipo responde manualmente preguntas repetidas antes de saber si hay cita real.",
+        "Sin seguimiento, quien pregunto por valoracion puede quedarse sin recordatorio util."
+      ],
+      "heatmapData": [
+        "Clics por tratamiento, sede, WhatsApp, telefono y formulario.",
+        "Abandono antes de agendar o despues de leer tratamiento.",
+        "Tratamientos con mayor intencion y mejor costo por cita."
+      ],
+      "campaigns": [
+        "Campana de valoracion por tratamiento prioritario.",
+        "Remarketing a visitantes de ortodoncia/implantes/diseno que no agendaron.",
+        "Campana de urgencia local con WhatsApp contextual."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en web actual con eventos por tratamiento y agenda.",
+        "Asesor digital para tratamiento, sede, urgencia, horarios, valoracion y seguimiento.",
+        "Panel de oportunidades por tratamiento, sede, fuente, clic y estado de cita."
+      ],
+      "sources": [
+        "https://www.instagram.com/oral_laser/",
+        "https://oralaser.com.co/"
+      ]
+    },
+    {
+      "slug": "gitana-del-mar-wellness-retreat",
+      "company": "Gitana del Mar Wellness Retreat",
+      "instagram": "@gitanadelmarbeachresort",
+      "website": "https://www.gitanadelmar.com.co/",
+      "sector": "hotel wellness y retiros frente al mar",
+      "city": "Sierra Nevada / costa Caribe",
+      "tone": "natural, espiritual y premium",
+      "theme": "resort",
+      "brandMode": "forest",
+      "accent": "#5B8F68",
+      "secondary": "#E2B56B",
+      "status": "Instagram + web propia oficial visible",
+      "leadProblem": "Gitana del Mar vende una experiencia de bienestar y retiros, no solo habitaciones. La fuga probable esta en visitantes que necesitan fechas, paquetes, comidas, yoga, grupos, transporte y condiciones antes de reservar o proponer un retiro.",
+      "opportunity": "Mejorar conversion de la web actual con concierge para retiros, captura de lideres de grupo, WhatsApp con contexto y seguimiento de fechas/paquetes consultados.",
+      "proofLine": "Lectura publica del 3 de julio de 2026: gitanadelmar.com.co responde HTTP 200 y comunica bungalows eco-chic, comidas, yoga, spa, eco-aventuras y grupos/retiros; Instagram @gitanadelmarbeachresort muestra actividad reciente.",
+      "audience": "Viajeros wellness, parejas, grupos de yoga/retiro y lideres que buscan experiencias frente al mar en Colombia.",
+      "adAngle": "Retiro frente al mar + fechas claras + concierge para grupos",
+      "whatsappCta": "Quiero convertir interes wellness en reservas",
+      "heroCopy": "En turismo wellness, la persona compra una transformacion. Pero antes de reservar pregunta por fechas, comida, transporte, nivel de retiro y cupos. Si no se captura eso, el deseo se queda en inspiracion.",
+      "brandWorldTitle": "De inspiracion wellness a reserva guiada",
+      "diagnosisTitle": "Fugas en retiros y paquetes",
+      "botAgentName": "Concierge Gitana demo",
+      "botAgentRole": "filtra paquete, fecha y retiro",
+      "botTitle": "Concierge digital para retiros wellness",
+      "botIntro": "El demo identifica si la persona busca estadia individual, pareja, grupo o liderar un retiro, y captura fechas, cupos y necesidades.",
+      "botOpening": "Hola, soy el concierge demo para Gitana del Mar. Puedo orientar bungalows, retiros, yoga, comidas, transporte y grupos.",
+      "botPrompts": [
+        "Plan wellness",
+        "Liderar retiro",
+        "Fechas disponibles",
+        "Transporte",
+        "Paquetes"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "retiro",
+            "grupo",
+            "lider"
+          ],
+          "answer": "Pide numero estimado de personas, fechas, tipo de practica, necesidades de comida/espacios y contacto del lider."
+        },
+        {
+          "keywords": [
+            "bungalow",
+            "paquete",
+            "fecha",
+            "reserva"
+          ],
+          "answer": "Pregunta fechas, huespedes, tipo de experiencia y preferencias para pasar a reserva con contexto."
+        },
+        {
+          "keywords": [
+            "transporte",
+            "comida",
+            "yoga",
+            "spa"
+          ],
+          "answer": "Responde la categoria de duda y captura prioridades: transporte, alimentacion, practica, spa o aventura."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide interes por retiro, paquete, fechas, lideres de grupo, clics a reservar y origen de pauta."
+        }
+      ],
+      "findings": [
+        "La web ya comunica claramente la experiencia wellness y la capacidad para grupos/retiros.",
+        "La oportunidad es transformar inspiracion visual en solicitudes calificadas por fecha y tipo de viaje.",
+        "Un concierge digital puede separar viajero individual, pareja y lider de retiro."
+      ],
+      "siteIssues": [
+        "La ruta de grupos/retiros debe capturar mas contexto que una reserva comun.",
+        "WhatsApp o formulario deben recibir fechas, cupos, tipo de experiencia y necesidades.",
+        "La pauta inspiracional necesita eventos que midan intencion, no solo visitas."
+      ],
+      "losses": [
+        "Lideres de retiro pueden comparar opciones si no reciben respuesta completa rapido.",
+        "Consultas de transporte, comida o paquetes consumen tiempo humano repetitivo.",
+        "Visitantes inspirados pueden guardar el perfil y no volver sin seguimiento."
+      ],
+      "heatmapData": [
+        "Clics por bungalows, retiros, yoga, spa, comida, transporte y reservar.",
+        "Abandono antes de solicitud de grupo o motor de reserva.",
+        "Fechas, paquetes y perfiles de viajero con mayor valor."
+      ],
+      "campaigns": [
+        "Campana para lideres de retiros con formulario de cupos/fechas.",
+        "Remarketing a visitantes de retiros y paquetes sin solicitud.",
+        "Campana wellness para parejas/viajeros con concierge por WhatsApp."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en web actual con rutas para retiros, paquetes y reserva directa.",
+        "Concierge digital para fechas, bungalows, retiros, transporte, comida, spa y seguimiento.",
+        "Panel de oportunidades por tipo de viajero, fecha, paquete, fuente y estado."
+      ],
+      "sources": [
+        "https://www.instagram.com/gitanadelmarbeachresort/",
+        "https://www.gitanadelmar.com.co/"
+      ]
+    },
+    {
+      "slug": "casa-pestagua-cartagena",
+      "company": "Casa Pestagua",
+      "instagram": "@casapestagua",
+      "website": "https://casapestagua.com/en/",
+      "sector": "hotel boutique de lujo",
+      "city": "Cartagena",
+      "tone": "lujo historico, sereno y exclusivo",
+      "theme": "resort",
+      "brandMode": "forest",
+      "accent": "#A7804F",
+      "secondary": "#6E8F7C",
+      "status": "Instagram + web propia oficial visible",
+      "leadProblem": "Casa Pestagua tiene posicionamiento de lujo y web oficial. La fuga probable esta en viajeros de alto valor que comparan suites, experiencias, restaurante, disponibilidad y beneficios de reserva directa antes de decidir.",
+      "opportunity": "Mejorar conversion de la web actual con concierge premium, seguimiento por suites/fechas, captura de celebraciones y rutas para reservas directas, restaurante y experiencias.",
+      "proofLine": "Lectura publica del 3 de julio de 2026: casapestagua.com/en responde HTTP 200 y comunica palacio del siglo XVIII en la ciudad amurallada; Instagram @casapestagua comunica lujo en Cartagena.",
+      "audience": "Viajeros de lujo, parejas, celebraciones, visitantes internacionales y clientes que buscan hotel boutique historico en Cartagena.",
+      "adAngle": "Lujo historico + concierge inmediato + reserva directa",
+      "whatsappCta": "Quiero recuperar reservas premium",
+      "heroCopy": "En lujo, un visitante anonimo puede representar una reserva de alto valor. Si no se captura fecha, suite y ocasion, la oportunidad queda en navegacion bonita.",
+      "brandWorldTitle": "De deseo premium a reserva directa",
+      "diagnosisTitle": "Fugas de alto valor",
+      "botAgentName": "Concierge Casa Pestagua demo",
+      "botAgentRole": "filtra suite, fecha y ocasion",
+      "botTitle": "Concierge premium para reservas boutique",
+      "botIntro": "El demo captura fechas, suite, motivo del viaje, restaurante, celebracion y dudas logisticas antes de escalar.",
+      "botOpening": "Hola, soy el concierge demo para Casa Pestagua. Puedo orientar suites, fechas, experiencias, restaurante y reserva directa.",
+      "botPrompts": [
+        "Consultar suites",
+        "Celebracion especial",
+        "Reserva directa",
+        "Restaurante",
+        "Experiencias"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "suite",
+            "habitacion",
+            "fecha",
+            "reserva"
+          ],
+          "answer": "Pregunta fechas, huespedes, tipo de suite, ocasion del viaje y canal preferido de contacto."
+        },
+        {
+          "keywords": [
+            "celebracion",
+            "aniversario",
+            "boda",
+            "evento"
+          ],
+          "answer": "Pide fecha tentativa, numero de personas, tipo de celebracion y necesidades especiales."
+        },
+        {
+          "keywords": [
+            "restaurante",
+            "experiencia",
+            "spa"
+          ],
+          "answer": "Clasifica si busca restaurante, experiencia, bienestar o plan romantico para responder con contexto."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide suite vista, fechas consultadas, CTA de reserva, celebraciones y origen de visitantes premium."
+        }
+      ],
+      "findings": [
+        "La web oficial tiene una propuesta boutique de lujo clara.",
+        "La oportunidad no es explicar la marca sino capturar intencion premium antes de que el viajero compare.",
+        "El concierge digital puede mantener tono exclusivo y acelerar respuestas comerciales."
+      ],
+      "siteIssues": [
+        "La web debe medir rutas de suite, reserva, restaurante, experiencias y contacto.",
+        "El contacto debe recibir fechas, ocasion y preferencia de suite desde el primer paso.",
+        "La pauta premium pierde aprendizaje si no diferencia visita, reserva, celebracion o restaurante."
+      ],
+      "losses": [
+        "Reservas directas de alto valor pueden irse a intermediarios por friccion.",
+        "Celebraciones requieren seguimiento fino y se pierden si llegan como mensajes incompletos.",
+        "El equipo comercial puede responder tarde a visitantes internacionales en horarios distintos."
+      ],
+      "heatmapData": [
+        "Clics por suites, restaurante, experiencias, reserva y contacto.",
+        "Abandono antes del motor o solicitud.",
+        "Ocasiones de mayor valor: aniversario, lujo, familia, evento o internacional."
+      ],
+      "campaigns": [
+        "Campana de reserva directa para viajeros premium a Cartagena.",
+        "Remarketing a visitantes de suites sin solicitud.",
+        "Campana de celebraciones con concierge y formulario de alto valor."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en web actual con eventos premium y WhatsApp contextual.",
+        "Concierge digital para fechas, suites, restaurante, experiencias, celebraciones y seguimiento.",
+        "Panel de oportunidades por suite, fecha, motivo, fuente y estado."
+      ],
+      "sources": [
+        "https://www.instagram.com/casapestagua/",
+        "https://casapestagua.com/en/"
+      ]
+    },
+    {
+      "slug": "hotel-bantu-cartagena",
+      "company": "Hotel Bantu by Faranda Boutique",
+      "instagram": "@bantuhotelboutique",
+      "website": "https://www.farandahotels.com/en/hotel/hotel-bantu-cartagena-by-faranda-boutique-mc-bwfrxxfh-atrk-bwfrxxfh-fr-fh-cb011",
+      "sector": "hotel boutique en centro historico",
+      "city": "Cartagena",
+      "tone": "colonial, calido y turistico",
+      "theme": "resort",
+      "brandMode": "standard",
+      "accent": "#C77B45",
+      "secondary": "#3E8A83",
+      "status": "Instagram + web oficial de cadena visible",
+      "leadProblem": "Hotel Bantu tiene presencia web dentro de Faranda y perfil activo. La fuga probable esta en viajeros que comparan hotel boutique, ubicacion, habitaciones, promociones y reservas directas, pero no dejan contexto si el motor o el contacto no resuelve rapido.",
+      "opportunity": "Mejorar conversion de la web actual con concierge por idioma/intencion, WhatsApp con fecha/habitacion, seguimiento de promociones y captura de eventos o paquetes.",
+      "proofLine": "Lectura publica del 3 de julio de 2026: farandahotels.com responde HTTP 200 para Hotel Bantu Cartagena; Instagram @bantuhotelboutique se presenta como Faranda Boutique/Radisson Individuals en Cartagena.",
+      "audience": "Viajeros que buscan hotel boutique en el centro historico de Cartagena, parejas, familias y visitantes internacionales.",
+      "adAngle": "Centro historico + hotel boutique + reserva directa guiada",
+      "whatsappCta": "Quiero convertir mas reservas directas",
+      "heroCopy": "Un hotel boutique compite contra comparadores y decenas de opciones. La web debe resolver ubicacion, tarifa, habitacion y confianza antes de que la persona se vaya.",
+      "brandWorldTitle": "De comparacion turistica a reserva propia",
+      "diagnosisTitle": "Fugas en motor y contacto",
+      "botAgentName": "Concierge Bantu demo",
+      "botAgentRole": "filtra fecha, idioma y habitacion",
+      "botTitle": "Concierge digital para hotel boutique",
+      "botIntro": "El demo pregunta fechas, huespedes, idioma, tipo de habitacion, promocion y motivo del viaje.",
+      "botOpening": "Hola, soy el concierge demo para Hotel Bantu. Puedo orientar fechas, habitaciones, ubicacion, promociones y reserva directa.",
+      "botPrompts": [
+        "Fechas disponibles",
+        "Habitacion boutique",
+        "Promocion",
+        "Ubicacion centro",
+        "Reserva directa"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "fecha",
+            "habitacion",
+            "reserva",
+            "huesped"
+          ],
+          "answer": "Pregunta fecha, numero de huespedes, tipo de habitacion y si busca promocion o tarifa flexible."
+        },
+        {
+          "keywords": [
+            "ubicacion",
+            "centro",
+            "cartagena"
+          ],
+          "answer": "Resuelve duda de zona y captura motivo de viaje para recomendar ruta de reserva."
+        },
+        {
+          "keywords": [
+            "promocion",
+            "descuento",
+            "precio"
+          ],
+          "answer": "Valida fechas y condiciones de interes para pasar a reserva con contexto."
+        },
+        {
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
+          "answer": "Mide fechas, habitacion consultada, clics de reserva, promociones vistas y origen de visitante."
+        }
+      ],
+      "findings": [
+        "Existe una pagina oficial de hotel dentro del ecosistema Faranda y perfil de Instagram propio.",
+        "La oportunidad esta en bajar friccion entre inspiracion, motor de reserva y contacto directo.",
+        "Un concierge digital puede responder en ingles/espanol y pasar prospectos con contexto."
+      ],
+      "siteIssues": [
+        "La ruta de reserva debe diferenciar promocion, habitacion y contacto directo.",
+        "WhatsApp debe recibir fechas, huespedes, idioma y habitacion consultada.",
+        "Sin medicion de intencion, la pauta puede optimizar visitas pero no reservas."
+      ],
+      "losses": [
+        "Viajeros comparan y terminan en OTA si la reserva directa no es clara.",
+        "Promociones pueden generar clics sin solicitudes completas.",
+        "El equipo recibe mensajes sin fecha ni tipo de habitacion."
+      ],
+      "heatmapData": [
+        "Clics por habitaciones, promociones, reservar, ubicacion y contacto.",
+        "Abandono en motor de reserva o seccion de tarifas.",
+        "Idioma, pais/fuente y fechas con mayor intencion."
+      ],
+      "campaigns": [
+        "Campana de reserva directa para viajeros a Cartagena.",
+        "Remarketing a visitantes de promociones/habitaciones sin reserva.",
+        "Campana bilingue para ubicacion en centro historico con concierge."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en web actual con tracking de motor, promociones y contacto.",
+        "Concierge digital bilingue para fechas, habitacion, ubicacion, promociones y seguimiento.",
+        "Panel de oportunidades por fuente, fecha, habitacion, promocion y estado."
+      ],
+      "sources": [
+        "https://www.instagram.com/bantuhotelboutique/",
+        "https://www.farandahotels.com/en/hotel/hotel-bantu-cartagena-by-faranda-boutique-mc-bwfrxxfh-atrk-bwfrxxfh-fr-fh-cb011"
+      ]
+    },
+    {
+      "slug": "santa-ana-pilates-chia",
+      "company": "Santa Ana Pilates",
+      "instagram": "@santaanapilates",
+      "website": "https://www.santaanapilates.co/",
+      "sector": "centro de pilates certificado",
+      "city": "Chia, Cundinamarca",
+      "tone": "bienestar, consciente y profesional",
+      "theme": "wellness",
+      "brandMode": "standard",
+      "accent": "#8A9F75",
+      "secondary": "#D8B16A",
+      "status": "Instagram + web propia visible",
+      "leadProblem": "Santa Ana Pilates tiene web e Instagram. La fuga probable esta en personas motivadas que quieren empezar, pero necesitan clase adecuada, nivel, horarios, precios, formaciones o agenda antes de escribir.",
+      "opportunity": "Mejorar conversion de la web actual con asesor digital de primera clase/formacion, WhatsApp contextual, seguimiento de horarios consultados y pauta por objetivo: dolor, fuerza, bienestar o instructor.",
+      "proofLine": "Lectura publica del 3 de julio de 2026: santaanapilates.co responde HTTP 200 y comunica centro de pilates certificado desde 2016; Instagram @santaanapilates muestra contacto por WhatsApp y agenda.",
+      "audience": "Personas en Chia/Sabana de Bogota interesadas en pilates, barre, yoga, clases personalizadas o formacion de instructores.",
+      "adAngle": "Primera clase clara + nivel correcto + agenda facil",
+      "whatsappCta": "Quiero llenar clases con agenda ordenada",
+      "heroCopy": "La motivacion por empezar pilates dura poco. Si horarios, nivel, plan y agenda no son claros, la persona deja la decision para despues.",
+      "brandWorldTitle": "De motivacion a clase reservada",
+      "diagnosisTitle": "Fugas antes de la primera clase",
+      "botAgentName": "Asesor Santa Ana demo",
+      "botAgentRole": "recomienda clase, nivel y horario",
+      "botTitle": "Asesor digital para clases y formaciones",
+      "botIntro": "El demo pregunta objetivo, experiencia, disponibilidad, modalidad y si busca clase o formacion.",
+      "botOpening": "Hola, soy el asesor demo para Santa Ana Pilates. Puedo orientar primera clase, horarios, niveles, formaciones y agenda por WhatsApp.",
+      "botPrompts": [
+        "Primera clase",
+        "Soy principiante",
+        "Horarios",
+        "Formacion instructor",
+        "Precios"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "primera",
+            "principiante",
+            "nuevo"
+          ],
+          "answer": "Pregunta experiencia, objetivo, molestias fisicas y horarios disponibles para recomendar una clase inicial."
+        },
+        {
+          "keywords": [
+            "horario",
+            "agenda",
+            "clase"
+          ],
+          "answer": "Pide dias/horas preferidas, modalidad y contacto para pasar a WhatsApp con contexto."
+        },
+        {
+          "keywords": [
+            "formacion",
+            "instructor",
+            "certificado"
+          ],
+          "answer": "Filtra interes en Mat/Reformer, experiencia previa, fechas y datos de contacto para enviar informacion completa."
+        },
+        {
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
+          "answer": "Mide clase consultada, horarios mas pedidos, formularios, clics a WhatsApp y reservas iniciadas."
+        }
+      ],
+      "findings": [
+        "Tiene web propia y una historia clara como centro certificado.",
+        "La oportunidad esta en convertir interes en primera clase o formacion con menos preguntas manuales.",
+        "El asesor digital puede separar alumno nuevo, recurrente y aspirante a instructor."
+      ],
+      "siteIssues": [
+        "La web debe conectar clases, formaciones, horarios y WhatsApp con eventos medibles.",
+        "WhatsApp debe recibir objetivo, nivel, horario y tipo de servicio.",
+        "La pauta necesita saber que objetivo trae reservas reales."
+      ],
+      "losses": [
+        "Personas motivadas abandonan si no entienden nivel, precio u horario.",
+        "El equipo repite preguntas de disponibilidad y modalidad.",
+        "Interesados en formacion pueden perderse si no reciben seguimiento ordenado."
+      ],
+      "heatmapData": [
+        "Clics por clase, formacion, horarios, precios, WhatsApp y contacto.",
+        "Abandono antes de agenda o formulario.",
+        "Objetivos mas frecuentes: bienestar, dolor, fuerza, flexibilidad o certificacion."
+      ],
+      "campaigns": [
+        "Campana de primera clase para Chia y Sabana.",
+        "Anuncios por objetivo: postura, fuerza, movilidad y bienestar.",
+        "Campana de formacion de instructores con formulario de intencion."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en web actual con eventos por clase/formacion y WhatsApp contextual.",
+        "Asesor digital para objetivo, nivel, horario, clase, formacion, precios y seguimiento.",
+        "Panel de reservas por fuente, clase, horario, objetivo y estado."
+      ],
+      "sources": [
+        "https://www.instagram.com/santaanapilates/",
+        "https://www.santaanapilates.co/"
+      ]
+    },
+    {
+      "slug": "irania-floristeria-bogota",
+      "company": "Irania Floristeria",
+      "instagram": "@irania_floristeria",
+      "website": "https://floristeriabogota.com.co/",
+      "sector": "floristeria y arreglos a domicilio",
+      "city": "Bogota",
+      "tone": "emocional, rapido y cercano",
+      "theme": "maker",
+      "brandMode": "standard",
+      "accent": "#D94E72",
+      "secondary": "#F1B74B",
+      "status": "Instagram + tienda/web propia visible",
+      "leadProblem": "Irania Floristeria tiene web, arreglos y WhatsApp. La fuga probable esta en compradores urgentes que necesitan ocasion, presupuesto, zona, entrega, dedicatoria y pago sin una conversacion larga.",
+      "opportunity": "Mejorar conversion de la web actual con asesor de regalos, WhatsApp contextual por producto, seguimiento de carritos y pauta por ocasion/urgencia.",
+      "proofLine": "Lectura publica del 3 de julio de 2026: floristeriabogota.com.co responde HTTP 200 y muestra contacto/WhatsApp; Instagram @irania_floristeria aparece como Irania floristeria Bogota.",
+      "audience": "Personas en Bogota que compran flores, detalles, arreglos, corazones en rosas y regalos para fechas especiales.",
+      "adAngle": "Flores para hoy + ocasion clara + WhatsApp con pedido armado",
+      "whatsappCta": "Quiero convertir visitas en pedidos florales",
+      "heroCopy": "En flores, el cliente compra con emocion y con reloj encima. Si no resuelve precio, entrega y dedicatoria en minutos, el pedido se va a otra floristeria.",
+      "brandWorldTitle": "De emocion urgente a pedido confirmado",
+      "diagnosisTitle": "Fugas antes del pedido",
+      "botAgentName": "Asesor Irania demo",
+      "botAgentRole": "filtra ocasion, zona y entrega",
+      "botTitle": "Asesor digital para regalos florales",
+      "botIntro": "El demo pregunta ocasion, presupuesto, zona, fecha, producto y dedicatoria para enviar el pedido casi armado.",
+      "botOpening": "Hola, soy el asesor demo para Irania Floristeria. Puedo orientar flores, arreglos, entrega en Bogota, presupuesto y dedicatoria.",
+      "botPrompts": [
+        "Entrega hoy",
+        "Ramo romantico",
+        "Cumpleanos",
+        "Presupuesto",
+        "Dedicatoria"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "hoy",
+            "entrega",
+            "domicilio",
+            "bogota"
+          ],
+          "answer": "Pregunta barrio/zona, hora ideal, ocasion y presupuesto para validar entrega antes de pasar a WhatsApp."
+        },
+        {
+          "keywords": [
+            "romantico",
+            "cumple",
+            "amor",
+            "condolencias"
+          ],
+          "answer": "Clasifica la ocasion, tono del mensaje y rango de precio para sugerir arreglo adecuado."
+        },
+        {
+          "keywords": [
+            "precio",
+            "presupuesto",
+            "pago"
+          ],
+          "answer": "Captura presupuesto y producto de interes para enviar opcion concreta y medio de pago."
+        },
+        {
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
+          "answer": "Mide ocasion, producto visto, zona, clic a WhatsApp, carrito y abandono antes de pago."
+        }
+      ],
+      "findings": [
+        "Tiene web propia con contacto y WhatsApp, mas presencia publica de Instagram.",
+        "La oportunidad esta en ordenar pedidos urgentes antes de que lleguen al equipo.",
+        "El asesor digital ayuda a convertir ocasion y presupuesto en una solicitud concreta."
+      ],
+      "siteIssues": [
+        "WhatsApp debe recibir producto, ocasion, zona, hora y dedicatoria desde el clic.",
+        "El ecommerce/web debe activar seguimiento de producto visto y carrito.",
+        "La pauta debe organizarse por ocasion y urgencia, no solo por arreglo bonito."
+      ],
+      "losses": [
+        "Compradores urgentes abandonan si no validan entrega rapido.",
+        "El equipo repite preguntas de zona, hora, presupuesto y dedicatoria.",
+        "Sin eventos, no queda claro que ocasion o producto trae pedidos reales."
+      ],
+      "heatmapData": [
+        "Clics por ocasion, producto, WhatsApp, carrito y pago.",
+        "Abandono al validar entrega o antes de pagar.",
+        "Zonas, horarios y ocasiones con mayor conversion."
+      ],
+      "campaigns": [
+        "Campana de entrega hoy en Bogota.",
+        "Remarketing a producto/carrito abandonado con WhatsApp contextual.",
+        "Anuncios por ocasion: amor, cumpleanos, condolencias y fechas especiales."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en web actual con WhatsApp contextual y eventos de carrito.",
+        "Asesor digital para ocasion, presupuesto, zona, entrega, dedicatoria, pago y seguimiento.",
+        "Panel de pedidos por ocasion, zona, producto, fuente y estado."
+      ],
+      "sources": [
+        "https://www.instagram.com/irania_floristeria/",
+        "https://floristeriabogota.com.co/"
+      ]
+    },
+    {
+      "slug": "hotel-las-islas-baru",
+      "company": "Hotel Las Islas",
+      "instagram": "@lasislasbaru",
+      "website": "https://www.lasislas.com.co/",
+      "sector": "hotel de lujo y naturaleza",
+      "city": "Baru, Cartagena",
+      "tone": "natural, premium y contemplativo",
+      "theme": "resort",
+      "brandMode": "forest",
+      "accent": "#3B8C86",
+      "secondary": "#D8A858",
+      "status": "Instagram + web propia oficial visible",
+      "leadProblem": "Hotel Las Islas tiene web oficial e Instagram potente. La fuga probable esta en visitantes de alto valor que exploran bungalows, experiencias, restaurante, isleta y fechas, pero no dejan suficiente intencion antes de reservar o comparar.",
+      "opportunity": "Mejorar conversion de la web actual con concierge premium, seguimiento por bungalows/experiencias, WhatsApp con fecha y tipo de viaje, y remarketing para reserva directa.",
+      "proofLine": "Lectura publica del 3 de julio de 2026: lasislas.com.co responde HTTP 200 y comunica Hotel Las Islas en Baru con bungalows, gastronomia y experiencias; Instagram @lasislasbaru muestra contacto y reservas.",
+      "audience": "Parejas, familias y viajeros premium que buscan naturaleza, playa, bungalows y experiencias en Baru/Cartagena.",
+      "adAngle": "Lujo natural en Baru + reserva guiada + experiencia directa",
+      "whatsappCta": "Quiero recuperar reservas directas premium",
+      "heroCopy": "Cuando el hotel vende naturaleza y lujo, la inspiracion no basta. Hay que capturar fecha, bungalow, experiencia y motivo de viaje antes de que el visitante compare.",
+      "brandWorldTitle": "De paisaje aspiracional a reserva directa",
+      "diagnosisTitle": "Fugas en experiencia premium",
+      "botAgentName": "Concierge Las Islas demo",
+      "botAgentRole": "filtra bungalow, fecha y experiencia",
+      "botTitle": "Concierge digital para lujo natural",
+      "botIntro": "El demo pregunta fechas, huespedes, bungalow, experiencia, restaurante, transporte y ocasion.",
+      "botOpening": "Hola, soy el concierge demo para Hotel Las Islas. Puedo orientar bungalows, fechas, experiencias, restaurante, transporte y reserva directa.",
+      "botPrompts": [
+        "Consultar bungalow",
+        "Reserva directa",
+        "Experiencias",
+        "Transporte",
+        "Celebracion"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "bungalow",
+            "habitacion",
+            "fecha",
+            "reserva"
+          ],
+          "answer": "Pregunta fechas, huespedes, tipo de bungalow, ocasion y preferencias antes de pasar a reserva."
+        },
+        {
+          "keywords": [
+            "experiencia",
+            "isleta",
+            "buceo",
+            "restaurante"
+          ],
+          "answer": "Clasifica interes en playa, gastronomia, aventura o descanso para recomendar ruta y capturar contacto."
+        },
+        {
+          "keywords": [
+            "transporte",
+            "barú",
+            "baru",
+            "cartagena"
+          ],
+          "answer": "Responde duda logistica y pide fecha/hora para enviar al equipo con contexto."
+        },
+        {
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
+          "answer": "Mide bungalow consultado, experiencias vistas, clics de reserva, fechas y origen de visitantes premium."
+        }
+      ],
+      "findings": [
+        "La web oficial comunica una oferta fuerte de bungalows, gastronomia y experiencias.",
+        "La oportunidad es capturar mejor la intencion de reserva directa y experiencia.",
+        "El concierge digital puede responder dudas logisticas sin perder tono premium."
+      ],
+      "siteIssues": [
+        "La web debe medir bungalows, experiencias, reserva, transporte y contacto.",
+        "WhatsApp debe recibir fecha, huespedes, tipo de bungalow y motivo de viaje.",
+        "La pauta de lujo natural debe optimizar por intencion, no solo por trafico."
+      ],
+      "losses": [
+        "Reservas premium pueden terminar en OTAs por comparacion o friccion.",
+        "Dudas logisticas de transporte/experiencias enfrien decisiones.",
+        "El equipo recibe mensajes sin datos clave para cotizar o cerrar."
+      ],
+      "heatmapData": [
+        "Clics por bungalows, experiencias, restaurante, transporte, reservar y WhatsApp.",
+        "Abandono antes del motor de reserva o contacto.",
+        "Motivos de viaje y experiencias con mayor valor."
+      ],
+      "campaigns": [
+        "Campana de reserva directa para Baru/Cartagena premium.",
+        "Remarketing a visitantes de bungalows y experiencias sin reserva.",
+        "Campana de celebraciones/escapadas con concierge por WhatsApp."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en web actual con eventos por bungalow, experiencia y reserva.",
+        "Concierge digital para fechas, bungalows, experiencias, restaurante, transporte y seguimiento.",
+        "Panel de oportunidades por fecha, bungalow, experiencia, fuente y estado."
+      ],
+      "sources": [
+        "https://www.instagram.com/lasislasbaru/",
+        "https://www.lasislas.com.co/"
+      ]
+    },
+    {
+      "slug": "la-migueria-medellin",
+      "company": "La Migueria",
+      "instagram": "@lamigueria",
+      "website": "https://www.lamigueria.com.co/",
+      "sector": "panaderia, pasteleria y reposteria",
+      "city": "Medellin",
+      "tone": "familiar, artesanal y alegre",
+      "theme": "maker",
+      "brandMode": "pastry",
+      "accent": "#D78B42",
+      "secondary": "#F2C867",
+      "status": "Instagram + ecommerce/web propia visible",
+      "leadProblem": "La Migueria tiene web con productos, carrito y sedes. La fuga probable esta en compradores que miran tortas, postres o panes, pero necesitan disponibilidad, recogida, domicilio, personalizacion o fecha antes de completar pedido.",
+      "opportunity": "Mejorar conversion del ecommerce actual con asesor de pedidos, WhatsApp contextual por producto, recuperacion de carrito y pauta por ocasion/producto estrella.",
+      "proofLine": "Lectura publica del 3 de julio de 2026: lamigueria.com.co responde HTTP 200 y muestra panaderia/pasteleria/reposteria, menu, carrito y categorias; Instagram @lamigueria comunica marca activa en Medellin.",
+      "audience": "Personas en Medellin y alrededores que compran panes, tortas, postres, regalos y productos para celebraciones o consumo diario.",
+      "adAngle": "Antojo artesanal + pedido claro + carrito recuperado",
+      "whatsappCta": "Quiero convertir antojos en pedidos",
+      "heroCopy": "El antojo aparece rapido, pero el pedido se confirma con informacion: producto, porciones, fecha, sede, domicilio y pago. Si algo falta, el carrito se queda quieto.",
+      "brandWorldTitle": "De antojo a pedido confirmado",
+      "diagnosisTitle": "Fugas antes del carrito",
+      "botAgentName": "Asesor La Migueria demo",
+      "botAgentRole": "filtra producto, fecha y entrega",
+      "botTitle": "Asesor digital para pedidos de pasteleria",
+      "botIntro": "El demo convierte preguntas por tortas, postres o panes en pedidos con fecha, sede, porciones y domicilio.",
+      "botOpening": "Hola, soy el asesor demo para La Migueria. Puedo orientar tortas, postres, panes, porciones, sedes y pedidos.",
+      "botPrompts": [
+        "Pedir torta",
+        "Postres",
+        "Domicilio",
+        "Sede cercana",
+        "Carrito abandonado"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "torta",
+            "postre",
+            "pedido"
+          ],
+          "answer": "Pregunta producto, fecha, porciones, sede o domicilio y presupuesto para enviar una opcion concreta."
+        },
+        {
+          "keywords": [
+            "domicilio",
+            "sede",
+            "recoger"
+          ],
+          "answer": "Pide zona o sede preferida, fecha y hora para orientar la ruta de compra."
+        },
+        {
+          "keywords": [
+            "carrito",
+            "pago",
+            "precio"
+          ],
+          "answer": "Recupera producto visto, cantidad y objecion para pasar a WhatsApp o finalizar compra."
+        },
+        {
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
+          "answer": "Mide producto visto, categoria, carrito, clics a WhatsApp y abandono por fuente."
+        }
+      ],
+      "findings": [
+        "La web tiene catalogo/categorias y carrito, lo que permite optimizar conversion real.",
+        "La oportunidad esta en recuperar carritos e indecision por fecha, sede y domicilio.",
+        "El asesor digital puede resolver dudas repetidas y empujar pedidos con contexto."
+      ],
+      "siteIssues": [
+        "El ecommerce debe conectar producto visto con WhatsApp y seguimiento de carrito.",
+        "Las categorias deben llevar a recomendaciones por ocasion, no solo navegacion.",
+        "Sin eventos finos, la pauta no sabe que producto genera pedido real."
+      ],
+      "losses": [
+        "Compradores de tortas pueden abandonar por dudas de porciones, fecha o entrega.",
+        "El equipo responde manualmente disponibilidad y sedes.",
+        "Carritos con intencion alta quedan sin recuperacion."
+      ],
+      "heatmapData": [
+        "Clics por categoria, producto, carrito, WhatsApp, sede y pago.",
+        "Abandono antes de carrito o al validar entrega.",
+        "Productos y ocasiones con mayor conversion."
+      ],
+      "campaigns": [
+        "Campana de tortas y celebraciones por temporada.",
+        "Remarketing de producto/carrito abandonado con WhatsApp contextual.",
+        "Anuncios de productos estrella por sede/zona."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en ecommerce actual con eventos, carrito y WhatsApp contextual.",
+        "Asesor digital para producto, fecha, porciones, sede, domicilio, pagos y seguimiento.",
+        "Panel de oportunidades por producto, ocasion, fuente, carrito y estado."
+      ],
+      "sources": [
+        "https://www.instagram.com/lamigueria/",
+        "https://www.lamigueria.com.co/"
+      ]
+    },
+    {
+      "slug": "cannua-lodge-antioquia",
+      "company": "Cannua",
+      "instagram": "@cannuacolombia",
+      "website": "https://cannua.com/",
+      "sector": "eco-lodge de lujo y restaurante",
+      "city": "Marinilla, Antioquia",
+      "tone": "natural, premium y regenerativo",
+      "theme": "resort",
+      "brandMode": "forest",
+      "accent": "#6F8F4E",
+      "secondary": "#C79B55",
+      "status": "Instagram + web propia oficial visible",
+      "leadProblem": "Cannua vende alojamiento, restaurante y experiencias de lujo natural. La fuga probable esta en visitantes que se inspiran, pero necesitan fecha, tipo de habitacion, restaurante, transporte, evento o plan antes de reservar.",
+      "opportunity": "Mejorar conversion de la web actual con concierge de alojamiento/restaurante, seguimiento por fechas y experiencias, WhatsApp con contexto y pauta para escapadas, gastronomia y eventos.",
+      "proofLine": "Lectura publica del 3 de julio de 2026: cannua.com responde HTTP 200; Instagram @cannuacolombia comunica Cannua en Marinilla, Colombia, como escape/naturaleza y menciona WhatsApp/web en publicaciones indexadas.",
+      "audience": "Parejas, viajeros wellness, foodies y empresas/personas que buscan escapadas, restaurante, eventos o estadias premium cerca de Medellin.",
+      "adAngle": "Lujo natural cerca de Medellin + reserva guiada + experiencia completa",
+      "whatsappCta": "Quiero convertir interes en reservas y visitas",
+      "heroCopy": "La experiencia se siente aspiracional, pero la venta se cierra con datos: fecha, plan, habitacion, restaurante, transporte y motivo. Sin eso, la inspiracion no siempre llega a reserva.",
+      "brandWorldTitle": "De inspiracion natural a reserva con contexto",
+      "diagnosisTitle": "Fugas entre deseo y plan",
+      "botAgentName": "Concierge Cannua demo",
+      "botAgentRole": "filtra estadia, restaurante y evento",
+      "botTitle": "Concierge digital para eco-lodge premium",
+      "botIntro": "El demo separa alojamiento, restaurante, boda/evento y escapada, capturando fecha, personas y preferencias.",
+      "botOpening": "Hola, soy el concierge demo para Cannua. Puedo orientar estadias, restaurante, fechas, transporte, eventos y experiencias.",
+      "botPrompts": [
+        "Escapada de pareja",
+        "Restaurante",
+        "Fechas",
+        "Evento o boda",
+        "Transporte"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "habitacion",
+            "estadia",
+            "fecha",
+            "reserva"
+          ],
+          "answer": "Pregunta fechas, numero de personas, motivo de viaje y tipo de experiencia para pasar a reserva."
+        },
+        {
+          "keywords": [
+            "restaurante",
+            "comida",
+            "almuerzo",
+            "cena"
+          ],
+          "answer": "Filtra fecha, hora, numero de personas y ocasion para orientar reserva de restaurante."
+        },
+        {
+          "keywords": [
+            "evento",
+            "boda",
+            "empresa"
+          ],
+          "answer": "Pide fecha tentativa, asistentes, formato y necesidades de alojamiento/restaurante."
+        },
+        {
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
+          "answer": "Mide interes por alojamiento, restaurante, evento, fechas, clics a reservar y fuente."
+        }
+      ],
+      "findings": [
+        "Tiene web propia y presencia publica activa en Instagram.",
+        "La oportunidad es conectar inspiracion, restaurante, alojamiento y eventos en una sola ruta medible.",
+        "El concierge digital puede distinguir rapido entre reserva de habitacion, mesa y evento."
+      ],
+      "siteIssues": [
+        "La web debe medir rutas separadas de estadia, restaurante, experiencias y eventos.",
+        "WhatsApp debe recibir fecha, numero de personas, tipo de plan y motivo.",
+        "La pauta debe optimizar por reservas/solicitudes, no solo por alcance aspiracional."
+      ],
+      "losses": [
+        "Visitantes pueden emocionarse y no concretar por dudas logisticas o disponibilidad.",
+        "Reservas de restaurante y alojamiento se mezclan si no llegan con contexto.",
+        "Eventos de alto valor pueden perderse por formularios o mensajes incompletos."
+      ],
+      "heatmapData": [
+        "Clics por alojamiento, restaurante, experiencias, eventos, transporte y reserva.",
+        "Abandono antes de solicitud o motor de reserva.",
+        "Planes con mayor valor: pareja, restaurante, boda, empresa o wellness."
+      ],
+      "campaigns": [
+        "Campana de escapadas premium cerca de Medellin con reserva guiada.",
+        "Remarketing a visitantes de habitaciones/restaurante sin solicitud.",
+        "Campana de eventos y bodas con formulario de alto valor."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en web actual con eventos por plan y WhatsApp contextual.",
+        "Concierge digital para fechas, estadia, restaurante, transporte, eventos y seguimiento.",
+        "Panel de oportunidades por plan, fecha, fuente, CTA y estado."
+      ],
+      "sources": [
+        "https://www.instagram.com/cannuacolombia/",
+        "https://cannua.com/"
+      ]
     }
   ]
 }
