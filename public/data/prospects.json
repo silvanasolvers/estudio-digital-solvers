@@ -18218,19 +18218,39 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["valoracion", "virtual", "cita", "agenda"],
+          "keywords": [
+            "valoracion",
+            "virtual",
+            "cita",
+            "agenda"
+          ],
           "answer": "Pide nombre, ciudad, procedimiento de interes, disponibilidad y si la persona busca valoracion virtual o presencial."
         },
         {
-          "keywords": ["rinoplastia", "liposuccion", "mamoplastia", "blefaroplastia", "procedimiento"],
+          "keywords": [
+            "rinoplastia",
+            "liposuccion",
+            "mamoplastia",
+            "blefaroplastia",
+            "procedimiento"
+          ],
           "answer": "No promete resultados ni precios. Clasifica el procedimiento, objetivo, antecedentes basicos y dudas para que el equipo medico responda con contexto."
         },
         {
-          "keywords": ["hotel", "recuperacion", "post", "viaje"],
+          "keywords": [
+            "hotel",
+            "recuperacion",
+            "post",
+            "viaje"
+          ],
           "answer": "Pregunta si viene de otra ciudad o pais y captura necesidades de estadia, recuperacion y acompanamiento."
         },
         {
-          "keywords": ["mide", "datos", "pauta"],
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
           "answer": "Mide procedimiento consultado, valoraciones iniciadas, clics a WhatsApp, abandono por FAQ y fuente de pauta."
         }
       ],
@@ -18305,19 +18325,36 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["valoracion", "cita", "agenda"],
+          "keywords": [
+            "valoracion",
+            "cita",
+            "agenda"
+          ],
           "answer": "Pregunta procedimiento, ciudad, disponibilidad y canal preferido para que el equipo responda con contexto."
         },
         {
-          "keywords": ["lipo", "senos", "abdominoplastia", "procedimiento"],
+          "keywords": [
+            "lipo",
+            "senos",
+            "abdominoplastia",
+            "procedimiento"
+          ],
           "answer": "Clasifica el procedimiento y objetivo. Evita diagnosticar; prepara la informacion para que el equipo experto oriente la valoracion."
         },
         {
-          "keywords": ["recuperacion", "viaje", "ciudad"],
+          "keywords": [
+            "recuperacion",
+            "viaje",
+            "ciudad"
+          ],
           "answer": "Identifica si la persona viaja a Cali, fechas tentativas, acompanante y dudas de postoperatorio."
         },
         {
-          "keywords": ["precio", "costo", "financiacion"],
+          "keywords": [
+            "precio",
+            "costo",
+            "financiacion"
+          ],
           "answer": "Explica que el valor depende de valoracion y captura procedimiento, presupuesto de referencia y urgencia para seguimiento."
         }
       ],
@@ -18392,19 +18429,36 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["valoracion", "agenda", "cita"],
+          "keywords": [
+            "valoracion",
+            "agenda",
+            "cita"
+          ],
           "answer": "Pide nombre, ciudad, procedimiento de interes y horario preferido para que el equipo contacte con contexto."
         },
         {
-          "keywords": ["procedimiento", "lipo", "senos", "rinoplastia"],
+          "keywords": [
+            "procedimiento",
+            "lipo",
+            "senos",
+            "rinoplastia"
+          ],
           "answer": "Clasifica la consulta y recomienda agendar valoracion; no da diagnostico ni promesas medicas."
         },
         {
-          "keywords": ["financiacion", "precio", "costo"],
+          "keywords": [
+            "financiacion",
+            "precio",
+            "costo"
+          ],
           "answer": "Captura procedimiento y presupuesto esperado para que el equipo explique opciones segun valoracion."
         },
         {
-          "keywords": ["datos", "mide", "pauta"],
+          "keywords": [
+            "datos",
+            "mide",
+            "pauta"
+          ],
           "answer": "Mide procedimiento, fuente, etapa, agenda iniciada y motivo de abandono."
         }
       ],
@@ -18480,19 +18534,36 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["fecha", "reserva", "habitacion"],
+          "keywords": [
+            "fecha",
+            "reserva",
+            "habitacion"
+          ],
           "answer": "Pregunta entrada, salida, huespedes, tipo de habitacion y si busca plan de descanso, pareja, turismo o trabajo."
         },
         {
-          "keywords": ["spa", "sauna", "jacuzzi", "rooftop"],
+          "keywords": [
+            "spa",
+            "sauna",
+            "jacuzzi",
+            "rooftop"
+          ],
           "answer": "Explica que debe confirmar disponibilidad y captura interes en spa, rooftop o experiencias para agregarlo a la solicitud."
         },
         {
-          "keywords": ["ubicacion", "provenza", "poblado"],
+          "keywords": [
+            "ubicacion",
+            "provenza",
+            "poblado"
+          ],
           "answer": "Responde con foco en Via Primavera/Provenza y pregunta si prioriza vida nocturna, gastronomia, descanso o movilidad."
         },
         {
-          "keywords": ["mide", "datos", "pauta"],
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
           "answer": "Mide fechas consultadas, habitaciones vistas, clics a reserva directa y abandono antes de confirmar."
         }
       ],
@@ -18567,19 +18638,37 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["hotel", "habitacion", "huesped", "fecha"],
+          "keywords": [
+            "hotel",
+            "habitacion",
+            "huesped",
+            "fecha"
+          ],
           "answer": "Pregunta fechas, huespedes, tipo de viaje y preferencia de habitacion para enviar a reserva directa."
         },
         {
-          "keywords": ["rooftop", "bar", "mesa", "musica"],
+          "keywords": [
+            "rooftop",
+            "bar",
+            "mesa",
+            "musica"
+          ],
           "answer": "Pregunta fecha, numero de personas, hora y tipo de experiencia para preparar reserva del bar."
         },
         {
-          "keywords": ["evento", "privado", "celebracion"],
+          "keywords": [
+            "evento",
+            "privado",
+            "celebracion"
+          ],
           "answer": "Pide fecha tentativa, numero de asistentes, tipo de evento y presupuesto aproximado."
         },
         {
-          "keywords": ["mide", "pauta", "datos"],
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
           "answer": "Mide intencion hotel/bar/evento, clics a reserva, abandono y seguimiento pendiente."
         }
       ],
@@ -18654,19 +18743,37 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["suite", "habitacion", "fecha", "reserva"],
+          "keywords": [
+            "suite",
+            "habitacion",
+            "fecha",
+            "reserva"
+          ],
           "answer": "Pregunta fechas, huespedes, tipo de habitacion/suite, ocasion del viaje y preferencia de contacto."
         },
         {
-          "keywords": ["experiencia", "playa", "restaurante", "alma"],
+          "keywords": [
+            "experiencia",
+            "playa",
+            "restaurante",
+            "alma"
+          ],
           "answer": "Clasifica si busca restaurante, experiencia, playa, celebracion o plan romantico para pasar al equipo con contexto."
         },
         {
-          "keywords": ["evento", "boda", "celebracion"],
+          "keywords": [
+            "evento",
+            "boda",
+            "celebracion"
+          ],
           "answer": "Pide fecha tentativa, numero de personas, tipo de evento y necesidades de alojamiento."
         },
         {
-          "keywords": ["mide", "datos", "pauta"],
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
           "answer": "Mide suites vistas, fechas consultadas, CTA de reserva, abandono y origen de viajeros de mayor valor."
         }
       ],
@@ -18741,19 +18848,40 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["hoy", "entrega", "domicilio", "bogota", "soacha"],
+          "keywords": [
+            "hoy",
+            "entrega",
+            "domicilio",
+            "bogota",
+            "soacha"
+          ],
           "answer": "Pregunta zona, hora ideal, presupuesto y ocasion para validar entrega y sugerir un producto adecuado."
         },
         {
-          "keywords": ["romantico", "cumple", "aniversario", "condolencias", "grado"],
+          "keywords": [
+            "romantico",
+            "cumple",
+            "aniversario",
+            "condolencias",
+            "grado"
+          ],
           "answer": "Clasifica la ocasion y propone rango de presupuesto, mensaje y estilo antes de enviar al catalogo."
         },
         {
-          "keywords": ["precio", "presupuesto", "carrito", "pago"],
+          "keywords": [
+            "precio",
+            "presupuesto",
+            "carrito",
+            "pago"
+          ],
           "answer": "Pide presupuesto y producto visto para recuperar carrito o llevar a WhatsApp con link/contexto."
         },
         {
-          "keywords": ["mide", "datos", "pauta"],
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
           "answer": "Mide ocasion, categoria, producto visto, abandono de carrito, clics a WhatsApp y conversion."
         }
       ],
@@ -18828,19 +18956,37 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["hoy", "domicilio", "entrega", "cali"],
+          "keywords": [
+            "hoy",
+            "domicilio",
+            "entrega",
+            "cali"
+          ],
           "answer": "Pregunta barrio/zona, hora ideal, ocasion, presupuesto y datos del destinatario para validar entrega."
         },
         {
-          "keywords": ["amor", "cumple", "condolencias", "aniversario"],
+          "keywords": [
+            "amor",
+            "cumple",
+            "condolencias",
+            "aniversario"
+          ],
           "answer": "Sugiere clasificar ocasion, tono del mensaje, colores preferidos y rango de precio."
         },
         {
-          "keywords": ["precio", "presupuesto", "pago"],
+          "keywords": [
+            "precio",
+            "presupuesto",
+            "pago"
+          ],
           "answer": "Captura presupuesto y producto de interes para enviar opcion concreta y medio de pago."
         },
         {
-          "keywords": ["mide", "pauta", "datos"],
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
           "answer": "Mide ocasion, zona, producto consultado, clics a WhatsApp y abandono antes de pago."
         }
       ],
@@ -18914,19 +19060,35 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["torta", "pedido", "postre"],
+          "keywords": [
+            "torta",
+            "pedido",
+            "postre"
+          ],
           "answer": "Pregunta fecha, numero de personas, sabor preferido, presupuesto y si requiere domicilio o recogida."
         },
         {
-          "keywords": ["cumple", "celebracion", "regalo"],
+          "keywords": [
+            "cumple",
+            "celebracion",
+            "regalo"
+          ],
           "answer": "Pide ocasion, mensaje, fecha y cantidad para sugerir formato y tamanos antes de pasar a WhatsApp."
         },
         {
-          "keywords": ["sabor", "precio", "presupuesto"],
+          "keywords": [
+            "sabor",
+            "precio",
+            "presupuesto"
+          ],
           "answer": "Captura sabor y rango de presupuesto para enviar opciones concretas y evitar una conversacion larga."
         },
         {
-          "keywords": ["mide", "pauta", "datos"],
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
           "answer": "Mide producto consultado, fecha de evento, clics a WhatsApp y pedidos pendientes de seguimiento."
         }
       ],
@@ -18999,19 +19161,36 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["primera", "principiante", "nuevo"],
+          "keywords": [
+            "primera",
+            "principiante",
+            "nuevo"
+          ],
           "answer": "Pregunta experiencia, objetivo, molestias o lesiones y horario disponible para recomendar una clase de inicio."
         },
         {
-          "keywords": ["horario", "agenda", "clase"],
+          "keywords": [
+            "horario",
+            "agenda",
+            "clase"
+          ],
           "answer": "Pide dias/horas disponibles, tipo de clase y sede/zona para llevar a WhatsApp con contexto."
         },
         {
-          "keywords": ["pilates", "yoga", "barre", "reformer"],
+          "keywords": [
+            "pilates",
+            "yoga",
+            "barre",
+            "reformer"
+          ],
           "answer": "Clasifica preferencia y objetivo: fuerza, postura, movilidad, bienestar o habito."
         },
         {
-          "keywords": ["mide", "pauta", "datos"],
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
           "answer": "Mide clases consultadas, horarios mas pedidos, clics a WhatsApp y reservas iniciadas."
         }
       ],
@@ -20130,19 +20309,36 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["carillas", "veneers", "sonrisa"],
+          "keywords": [
+            "carillas",
+            "veneers",
+            "sonrisa"
+          ],
           "answer": "Pide fotos, expectativas, ciudad preferida y fecha tentativa para preparar una evaluacion inicial."
         },
         {
-          "keywords": ["implante", "implants", "rehabilitacion"],
+          "keywords": [
+            "implante",
+            "implants",
+            "rehabilitacion"
+          ],
           "answer": "Pregunta diagnostico previo, radiografias si existen, ciudad y disponibilidad de viaje para priorizar el caso."
         },
         {
-          "keywords": ["viaje", "hotel", "transporte", "internacional"],
+          "keywords": [
+            "viaje",
+            "hotel",
+            "transporte",
+            "internacional"
+          ],
           "answer": "Aclara ciudad, fechas, acompanantes y necesidades logisticas antes de pasar a coordinacion."
         },
         {
-          "keywords": ["mide", "pauta", "datos"],
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
           "answer": "Mide tratamiento consultado, ciudad, etapa del paciente, fuente, clics a WhatsApp y cotizaciones enviadas."
         }
       ],
@@ -20216,19 +20412,35 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["endolaser", "laser", "corporal"],
+          "keywords": [
+            "endolaser",
+            "laser",
+            "corporal"
+          ],
           "answer": "Pregunta zona de interes, objetivo, ciudad, antecedentes basicos y disponibilidad para valoracion."
         },
         {
-          "keywords": ["armonizacion", "facial", "rostro"],
+          "keywords": [
+            "armonizacion",
+            "facial",
+            "rostro"
+          ],
           "answer": "Explica que se requiere valoracion y captura objetivo, fotos si aplica y disponibilidad."
         },
         {
-          "keywords": ["internacional", "viaje", "orlando"],
+          "keywords": [
+            "internacional",
+            "viaje",
+            "orlando"
+          ],
           "answer": "Pide ciudad de origen, fecha tentativa, procedimiento de interes y canal preferido de seguimiento."
         },
         {
-          "keywords": ["mide", "pauta", "datos"],
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
           "answer": "Mide tratamiento, etapa, ciudad, solicitud de valoracion, clics a WhatsApp y seguimiento."
         }
       ],
@@ -20303,19 +20515,35 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["rostro", "facial", "rejuvenecimiento"],
+          "keywords": [
+            "rostro",
+            "facial",
+            "rejuvenecimiento"
+          ],
           "answer": "Pregunta objetivo principal, edad aproximada, tratamiento visto y disponibilidad para valoracion."
         },
         {
-          "keywords": ["cuerpo", "corporal", "moldeamiento"],
+          "keywords": [
+            "cuerpo",
+            "corporal",
+            "moldeamiento"
+          ],
           "answer": "Filtra zona de interes, expectativa y si busca procedimiento no invasivo o evaluacion medica."
         },
         {
-          "keywords": ["manchas", "piel", "laser"],
+          "keywords": [
+            "manchas",
+            "piel",
+            "laser"
+          ],
           "answer": "Captura tipo de inquietud, tiempo de evolucion y canal para enviar indicaciones de valoracion."
         },
         {
-          "keywords": ["mide", "pauta", "datos"],
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
           "answer": "Mide tratamiento consultado, fuente, clics a agenda, valoraciones confirmadas y seguimiento."
         }
       ],
@@ -20390,19 +20618,35 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["habitacion", "reserva", "fecha"],
+          "keywords": [
+            "habitacion",
+            "reserva",
+            "fecha"
+          ],
           "answer": "Pide fechas, numero de huespedes, motivo del viaje y preferencia de habitacion."
         },
         {
-          "keywords": ["restaurante", "bar", "comida"],
+          "keywords": [
+            "restaurante",
+            "bar",
+            "comida"
+          ],
           "answer": "Filtra fecha, hora, numero de personas y ocasion para orientar reserva gastronomica."
         },
         {
-          "keywords": ["evento", "reunion", "empresa"],
+          "keywords": [
+            "evento",
+            "reunion",
+            "empresa"
+          ],
           "answer": "Captura fecha tentativa, asistentes, formato y necesidades de alojamiento o alimentos."
         },
         {
-          "keywords": ["mide", "pauta", "datos"],
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
           "answer": "Mide interes por habitacion, restaurante, evento, fecha, fuente y clics a reservar."
         }
       ],
@@ -20477,19 +20721,35 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["habitacion", "reserva", "alojamiento"],
+          "keywords": [
+            "habitacion",
+            "reserva",
+            "alojamiento"
+          ],
           "answer": "Pregunta fechas, numero de huespedes, tipo de habitacion y motivo de viaje."
         },
         {
-          "keywords": ["spa", "romantico", "plan"],
+          "keywords": [
+            "spa",
+            "romantico",
+            "plan"
+          ],
           "answer": "Filtra fecha, numero de personas, tipo de plan y preferencia de horario."
         },
         {
-          "keywords": ["evento", "corporativo", "boda"],
+          "keywords": [
+            "evento",
+            "corporativo",
+            "boda"
+          ],
           "answer": "Pide fecha tentativa, asistentes, formato y necesidades de alojamiento o alimentos."
         },
         {
-          "keywords": ["mide", "pauta", "datos"],
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
           "answer": "Mide ruta de interes, fecha, fuente, clics a reserva y solicitudes confirmadas."
         }
       ],
@@ -20564,19 +20824,35 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["sofa", "sala", "living"],
+          "keywords": [
+            "sofa",
+            "sala",
+            "living"
+          ],
           "answer": "Pide ciudad, medidas aproximadas, estilo buscado, plazo de compra y producto visto."
         },
         {
-          "keywords": ["comedor", "mesa", "sillas"],
+          "keywords": [
+            "comedor",
+            "mesa",
+            "sillas"
+          ],
           "answer": "Filtra numero de puestos, medidas, acabado preferido y disponibilidad para asesoria."
         },
         {
-          "keywords": ["asesoria", "interiorismo", "cita"],
+          "keywords": [
+            "asesoria",
+            "interiorismo",
+            "cita"
+          ],
           "answer": "Captura ciudad, tipo de espacio, presupuesto aproximado y horario preferido."
         },
         {
-          "keywords": ["mide", "pauta", "datos"],
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
           "answer": "Mide categoria vista, producto, cita solicitada, ciudad, fuente y seguimiento."
         }
       ],
@@ -20651,19 +20927,35 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["sala", "sofa", "mueble"],
+          "keywords": [
+            "sala",
+            "sofa",
+            "mueble"
+          ],
           "answer": "Pide tipo de espacio, medidas, fotos, estilo de referencia y plazo de compra."
         },
         {
-          "keywords": ["comedor", "mesa", "sillas"],
+          "keywords": [
+            "comedor",
+            "mesa",
+            "sillas"
+          ],
           "answer": "Pregunta numero de puestos, medidas, material preferido y fecha esperada."
         },
         {
-          "keywords": ["cotizar", "medidas", "presupuesto"],
+          "keywords": [
+            "cotizar",
+            "medidas",
+            "presupuesto"
+          ],
           "answer": "Explica que con medidas/fotos se puede preparar una cotizacion mas precisa."
         },
         {
-          "keywords": ["mide", "pauta", "datos"],
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
           "answer": "Mide espacio consultado, medidas enviadas, cita agendada, fuente y estado de cotizacion."
         }
       ],
@@ -20738,19 +21030,36 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["cumpleanos", "aniversario", "amor", "disculpa"],
+          "keywords": [
+            "cumpleanos",
+            "aniversario",
+            "amor",
+            "disculpa"
+          ],
           "answer": "Pregunta ocasion, presupuesto, estilo del arreglo, fecha/hora de entrega y mensaje."
         },
         {
-          "keywords": ["hoy", "entrega", "direccion"],
+          "keywords": [
+            "hoy",
+            "entrega",
+            "direccion"
+          ],
           "answer": "Valida zona, hora limite, datos de entrega y producto disponible para hoy."
         },
         {
-          "keywords": ["presupuesto", "precio", "regalo"],
+          "keywords": [
+            "presupuesto",
+            "precio",
+            "regalo"
+          ],
           "answer": "Recomienda rangos de producto y captura preferencias antes de pasar a carrito o WhatsApp."
         },
         {
-          "keywords": ["mide", "pauta", "datos"],
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
           "answer": "Mide ocasion, presupuesto, producto visto, carrito, WhatsApp y pedidos completados."
         }
       ],
@@ -20824,19 +21133,35 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["cumpleanos", "tematica", "diseno"],
+          "keywords": [
+            "cumpleanos",
+            "tematica",
+            "diseno"
+          ],
           "answer": "Pide fecha, edad/tema, porciones, referencia visual, sabor y lugar de entrega."
         },
         {
-          "keywords": ["porciones", "tamano", "precio"],
+          "keywords": [
+            "porciones",
+            "tamano",
+            "precio"
+          ],
           "answer": "Explica que el precio depende de porciones, decoracion, sabor, fecha y domicilio."
         },
         {
-          "keywords": ["entrega", "domicilio", "fecha"],
+          "keywords": [
+            "entrega",
+            "domicilio",
+            "fecha"
+          ],
           "answer": "Captura fecha, hora, zona de entrega y si necesita montaje o recogida."
         },
         {
-          "keywords": ["mide", "pauta", "datos"],
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
           "answer": "Mide tipo de celebracion, fecha, cotizaciones completas, WhatsApp y pedidos cerrados."
         }
       ],
@@ -20909,19 +21234,35 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["torta", "tematica", "cumpleanos"],
+          "keywords": [
+            "torta",
+            "tematica",
+            "cumpleanos"
+          ],
           "answer": "Pide fecha, tema, porciones, sabor, referencia visual y direccion de entrega."
         },
         {
-          "keywords": ["curso", "clase", "repostera"],
+          "keywords": [
+            "curso",
+            "clase",
+            "repostera"
+          ],
           "answer": "Pregunta nivel, formato preferido, ciudad, disponibilidad y objetivo de aprendizaje."
         },
         {
-          "keywords": ["cupos", "agenda", "fecha"],
+          "keywords": [
+            "cupos",
+            "agenda",
+            "fecha"
+          ],
           "answer": "Separa fechas de entrega de tortas y cupos de cursos para evitar cruces."
         },
         {
-          "keywords": ["mide", "pauta", "datos"],
+          "keywords": [
+            "mide",
+            "pauta",
+            "datos"
+          ],
           "answer": "Mide pedidos, cursos, fechas, cotizaciones completas, fuentes y cierres."
         }
       ],
@@ -20957,6 +21298,1035 @@
       ],
       "sources": [
         "https://www.instagram.com/cinnamon_shuga/"
+      ]
+    },
+    {
+      "slug": "digicarp-bogota",
+      "company": "DigiCarp",
+      "instagram": "@digicarp.co",
+      "website": "https://www.digicarp.co/",
+      "sector": "muebles a medida, cocinas y mobiliario personalizado",
+      "city": "Bogota",
+      "tone": "tecnico, premium y asesor",
+      "theme": "maker",
+      "brandMode": "standard",
+      "accent": "#B8895B",
+      "secondary": "#76C7B7",
+      "status": "Web activa + WhatsApp; oportunidad en cotizacion guiada por proyecto",
+      "leadProblem": "DigiCarp vende proyectos que requieren contexto: espacio, medidas, material, estilo, presupuesto, ciudad y tiempo de instalacion. Si la persona llega desde Instagram o la web y solo encuentra un boton de contacto, el equipo debe reconstruir toda la necesidad por WhatsApp y muchas cotizaciones se enfrían antes de tener informacion suficiente.",
+      "opportunity": "Mejorar la conversion de la web actual con una ruta de cotizacion por tipo de proyecto: cocina, mueble fino, instalacion, diseño 3D u optimizacion de espacios. El asesor digital puede pedir medidas, fotos, ciudad y prioridad antes de pasar a WhatsApp, dejando cada lead listo para seguimiento comercial.",
+      "proofLine": "Lectura publica del 5 de julio de 2026: digicarp.co comunica diseño y fabricacion de muebles a medida en Bogota, servicios de diseño personalizado, instalacion profesional, diseño 3D, fabricacion premium, asesoria experta, optimizacion de espacios, contacto por WhatsApp y correo; busqueda publica identifica el Instagram @digicarp.co.",
+      "audience": "Propietarios, parejas remodelando, oficinas, restaurantes y negocios que necesitan cocinas o mobiliario a medida con asesoria.",
+      "adAngle": "Mueble a medida + asesoria tecnica + cotizacion con medidas y fotos",
+      "whatsappCta": "Quiero convertir mas cotizaciones de muebles",
+      "heroCopy": "Un proyecto de mobiliario no se cierra con un mensaje de precio. Se cierra cuando el asesor recibe medidas, fotos, estilo, ciudad y urgencia desde el primer contacto.",
+      "brandWorldTitle": "De inspiracion de espacios a cotizacion completa",
+      "diagnosisTitle": "Fugas en proyectos a medida",
+      "botAgentName": "Asesor DigiCarp demo",
+      "botAgentRole": "filtra proyecto, medidas, fotos y ciudad",
+      "botTitle": "Asesor para cotizaciones de mobiliario",
+      "botIntro": "El demo convierte consultas abiertas en briefs de proyecto antes de WhatsApp.",
+      "botOpening": "Hola, soy el asesor demo para DigiCarp. Puedo ayudarte a filtrar cocina, mueble, medidas, fotos, ciudad y prioridad para que WhatsApp reciba un proyecto claro.",
+      "botPrompts": [
+        "Cotizar cocina",
+        "Tengo medidas",
+        "Diseño 3D",
+        "Instalacion",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cocina",
+            "cocinas"
+          ],
+          "answer": "Primero clasifica si es cocina nueva o remodelacion, pide medidas aproximadas, fotos del espacio, ciudad, material deseado y fecha ideal. Con eso WhatsApp recibe una solicitud lista para cotizar."
+        },
+        {
+          "keywords": [
+            "medidas",
+            "foto",
+            "fotos",
+            "espacio"
+          ],
+          "answer": "El asesor solicita ancho, alto, fondo, fotos del area y restricciones de acceso. Asi se evita responder precios sin contexto y se priorizan leads reales."
+        },
+        {
+          "keywords": [
+            "3d",
+            "diseno",
+            "diseño"
+          ],
+          "answer": "Para diseño 3D conviene pedir tipo de espacio, medidas, estilo de referencia y objetivo del proyecto antes de agendar asesoria."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide proyecto consultado, ciudad, clic a WhatsApp, envio de medidas, fotos recibidas, cotizaciones enviadas y oportunidades sin seguimiento."
+        }
+      ],
+      "findings": [
+        "La web explica servicios de alto valor: diseño personalizado, instalacion, diseño 3D, fabricacion y asesoria.",
+        "El contacto existe, pero la cotizacion depende de que el usuario llegue con contexto suficiente.",
+        "La oportunidad comercial esta en convertir trafico de Instagram/web en briefs claros, no solo en mas mensajes."
+      ],
+      "siteIssues": [
+        "La ruta de conversion debe separar tipos de proyecto para no mezclar cocinas, mobiliario fino, instalacion y diseño 3D en la misma conversacion.",
+        "WhatsApp deberia recibir medidas, fotos, ciudad y prioridad desde el primer mensaje.",
+        "Sin eventos por proyecto, la pauta no aprende que servicio trae cotizaciones reales."
+      ],
+      "losses": [
+        "Prospectos piden precio sin medidas y la conversacion se alarga o se enfria.",
+        "El equipo repite preguntas basicas antes de saber si el proyecto tiene potencial.",
+        "La pauta puede generar visitas bonitas sin saber que servicio mueve la venta."
+      ],
+      "heatmapData": [
+        "Clics por servicio: cocina, mueble fino, instalacion, diseño 3D y asesoria.",
+        "Abandono antes de enviar medidas, fotos o ciudad.",
+        "Fuentes que generan briefs completos y cotizaciones reales."
+      ],
+      "campaigns": [
+        "Campaña por proyecto: cocinas a medida, muebles finos y diseño 3D.",
+        "Anuncios con formulario corto de medidas/fotos antes de WhatsApp.",
+        "Remarketing a visitantes que miraron servicios pero no enviaron brief."
+      ],
+      "deliverables": [
+        "Optimizar la web actual con cotizador guiado por tipo de proyecto.",
+        "Asesor digital para medidas, fotos, ciudad, estilo, prioridad y seguimiento.",
+        "Panel de oportunidades por servicio, fuente, estado y proxima accion."
+      ],
+      "sources": [
+        "https://www.digicarp.co/",
+        "https://www.digicarp.co/servicios",
+        "https://www.instagram.com/digicarp.co/"
+      ]
+    },
+    {
+      "slug": "maxmuebles-bogota",
+      "company": "MaxMuebles",
+      "instagram": "@max.muebles",
+      "website": "https://www.maxmuebles.com.co/",
+      "sector": "muebles de lujo y diseño personalizado",
+      "city": "Bogota",
+      "tone": "artesanal, directo y premium",
+      "theme": "maker",
+      "accent": "#C9A15E",
+      "secondary": "#83B7C9",
+      "status": "Web activa + comunidad social; oportunidad en seguimiento de cotizaciones",
+      "leadProblem": "MaxMuebles ya tiene una historia fuerte de proceso artesanal y diseño. El riesgo aparece cuando la persona pasa de inspirarse a preguntar: necesita medidas, materiales, valor, tiempos, garantia y visita o cotizacion. Si esa ruta no queda guiada, el interes de redes se convierte en preguntas sueltas y oportunidades sin seguimiento.",
+      "opportunity": "Usar la web actual como centro de conversion: ambientes y productos llevan a un asesor digital que recoge medidas, fotos, ciudad, presupuesto aproximado y plazo. Asi WhatsApp recibe contexto y la pauta puede distinguir curiosos de compradores en proceso de decision.",
+      "proofLine": "Lectura publica del 5 de julio de 2026: maxmuebles.com.co se presenta como muebles de lujo y diseño en Bogota, comunica proceso artesanal, enlaza Instagram y TikTok @max.muebles y muestra WhatsApp como canal de contacto.",
+      "audience": "Personas renovando hogar, apartamentos nuevos, familias y clientes que buscan piezas personalizadas con acabados premium.",
+      "adAngle": "Muebles artesanales + proyecto guiado + cotizacion con contexto",
+      "whatsappCta": "Quiero ordenar cotizaciones desde Instagram y web",
+      "heroCopy": "La inspiracion viral sirve hasta que el cliente pregunta cuanto cuesta y si cabe en su espacio. Ahi la marca necesita un sistema, no solo un chat.",
+      "brandWorldTitle": "De contenido viral a solicitud comercial clara",
+      "diagnosisTitle": "Fugas entre inspiracion y cotizacion",
+      "botAgentName": "Asesor MaxMuebles demo",
+      "botAgentRole": "guia producto, medidas, material y plazo",
+      "botTitle": "Asesor para muebles de lujo",
+      "botIntro": "El demo convierte el interes por un mueble en una solicitud con medidas y prioridad.",
+      "botOpening": "Hola, soy el asesor demo para MaxMuebles. Puedo filtrar tipo de mueble, medidas, material, ciudad y plazo para enviar una cotizacion con contexto.",
+      "botPrompts": [
+        "Cotizar sofa",
+        "Mesa comedor",
+        "Tengo fotos",
+        "Tiempo entrega",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sofa",
+            "sillon",
+            "sala"
+          ],
+          "answer": "Pregunta medidas del espacio, numero de puestos, material, color, ciudad y si busca entrega rapida o fabricacion a medida."
+        },
+        {
+          "keywords": [
+            "comedor",
+            "mesa",
+            "sillas"
+          ],
+          "answer": "Clasifica puestos, material, medidas, estilo y fecha deseada para que ventas no empiece desde cero."
+        },
+        {
+          "keywords": [
+            "foto",
+            "fotos",
+            "medidas"
+          ],
+          "answer": "Pide fotos del espacio, medidas y referencia visual. Con eso el equipo puede responder con opciones reales, no con precios genericos."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ambiente consultado, clicks a WhatsApp, solicitudes con medidas, cotizaciones enviadas y leads sin respuesta."
+        }
+      ],
+      "findings": [
+        "La web usa la fuerza del proceso artesanal y dirige a canales sociales/WhatsApp.",
+        "El producto exige decision asistida: medidas, materiales, acabados y tiempos.",
+        "La comunidad social puede generar demanda, pero necesita captura de contexto para cerrar mejor."
+      ],
+      "siteIssues": [
+        "La web debe separar mejor productos por ambiente y nivel de intencion comercial.",
+        "WhatsApp deberia abrir con datos del producto visto y medidas basicas.",
+        "El remarketing necesita saber quien miro, quien pregunto y quien abandono antes de cotizar."
+      ],
+      "losses": [
+        "Interesados guardan publicaciones y nunca piden cotizacion completa.",
+        "Ventas invierte tiempo descubriendo medidas, presupuesto y estilo en cada chat.",
+        "Sin data por ambiente, se pauta lo visualmente atractivo y no necesariamente lo que convierte."
+      ],
+      "heatmapData": [
+        "Clics por sala, comedor, alcoba, materiales y WhatsApp.",
+        "Usuarios que abandonan antes de enviar medidas o fotos.",
+        "Productos que mas generan cotizaciones completas."
+      ],
+      "campaigns": [
+        "Campaña por ambiente con creatividad de antes/despues y proceso real.",
+        "Anuncios de cotizacion asistida con carga de fotos/medidas.",
+        "Remarketing a visitantes que vieron productos sin escribir."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para la web actual por ambiente y producto.",
+        "Asesor digital para medidas, fotos, material, plazo y seguimiento.",
+        "Panel de cotizaciones por producto, fuente y estado comercial."
+      ],
+      "sources": [
+        "https://www.maxmuebles.com.co/",
+        "https://www.instagram.com/max.muebles/"
+      ]
+    },
+    {
+      "slug": "unidad-odontofacial-bogota",
+      "company": "Unidad Odontofacial",
+      "instagram": "@unidad.odontofacial",
+      "website": "https://www.odontofacial.co/",
+      "sector": "clinica odontologica premium",
+      "city": "Bogota",
+      "tone": "clinico, confiable y cercano",
+      "theme": "default",
+      "accent": "#4CB6E8",
+      "secondary": "#F2C94C",
+      "status": "Web activa + agenda por contacto; oportunidad en valoracion guiada",
+      "leadProblem": "Un paciente de diseño de sonrisa, alineadores, implantes u odontologia general llega con dudas distintas: caso, urgencia, presupuesto, tiempos, fotos, horario y confianza. Si la web no filtra antes de WhatsApp, recepcion recibe conversaciones incompletas y pacientes reales pueden perderse mientras comparan opciones.",
+      "opportunity": "Mejorar la conversion de la web actual con una ruta de valoracion por tratamiento. El asesor digital identifica el servicio, pide datos basicos, horario ideal y contexto del caso, y deja a WhatsApp una solicitud lista para agenda.",
+      "proofLine": "Lectura publica del 5 de julio de 2026: odontofacial.co comunica servicios como diseño de sonrisa, ortodoncia, odontologia general e instalaciones; publica telefono +57 3052300355, direccion en Carrera 15 #112-46 Bogota, horario y enlaces a Instagram, Facebook, YouTube y TikTok. Busqueda publica identifica @unidad.odontofacial.",
+      "audience": "Pacientes en Bogota interesados en estetica dental, alineadores, ortodoncia, implantes o valoracion preventiva.",
+      "adAngle": "Sonrisa deseada + valoracion guiada + agenda con contexto",
+      "whatsappCta": "Quiero agendar pacientes mejor filtrados",
+      "heroCopy": "En salud oral, el lead vale mas cuando llega con tratamiento de interes, horario y contexto del caso.",
+      "brandWorldTitle": "De interes por sonrisa a valoracion agendada",
+      "diagnosisTitle": "Fugas en agenda odontologica",
+      "botAgentName": "Asesor Odontofacial demo",
+      "botAgentRole": "filtra tratamiento, caso y agenda",
+      "botTitle": "Asesor para valoraciones dentales",
+      "botIntro": "El demo identifica tratamiento, disponibilidad y contexto antes de llevar a WhatsApp.",
+      "botOpening": "Hola, soy el asesor demo para Unidad Odontofacial. Puedo orientar por tratamiento, caso, horario y datos minimos para agendar una valoracion.",
+      "botPrompts": [
+        "Diseño sonrisa",
+        "Alineadores",
+        "Implantes",
+        "Horario cita",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "diseño",
+            "diseno",
+            "sonrisa"
+          ],
+          "answer": "Pregunta objetivo estetico, si ya tuvo valoracion, disponibilidad, ciudad y si puede enviar foto para orientar la cita."
+        },
+        {
+          "keywords": [
+            "alineador",
+            "ortodoncia",
+            "brackets"
+          ],
+          "answer": "Clasifica edad, tratamiento previo, expectativa estetica, urgencia y horario ideal para valoracion."
+        },
+        {
+          "keywords": [
+            "implante",
+            "dolor",
+            "urgencia"
+          ],
+          "answer": "Detecta si es caso de diente ausente, molestia, segunda opinion o urgencia para priorizar agenda."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide tratamiento de interes, fuente, clic a agenda, horario solicitado, pacientes agendados y conversaciones sin respuesta."
+        }
+      ],
+      "findings": [
+        "La web comunica tratamientos y datos de contacto verificables.",
+        "El paciente necesita confianza y respuestas antes de pedir cita.",
+        "El mayor valor esta en filtrar tratamiento y urgencia antes del chat."
+      ],
+      "siteIssues": [
+        "Las paginas de servicio deberian terminar en una agenda guiada por tratamiento.",
+        "WhatsApp debe recibir tratamiento, urgencia, horario y datos de contacto desde el inicio.",
+        "La pauta debe separar pacientes curiosos de pacientes listos para valoracion."
+      ],
+      "losses": [
+        "Consultas incompletas consumen tiempo de recepcion.",
+        "Pacientes comparan clinicas y eligen quien responde y agenda mas rapido.",
+        "Sin eventos por tratamiento, no se sabe que servicio trae pacientes reales."
+      ],
+      "heatmapData": [
+        "Clics por diseño de sonrisa, ortodoncia, implantes y agenda.",
+        "Abandono antes de telefono, formulario o WhatsApp.",
+        "Tratamientos con mas intencion por fuente de trafico."
+      ],
+      "campaigns": [
+        "Campaña por tratamiento con landing y agenda especifica.",
+        "Anuncios de valoracion guiada con preguntas iniciales.",
+        "Remarketing a visitantes que leyeron un tratamiento sin agendar."
+      ],
+      "deliverables": [
+        "Optimizar la web actual con agenda guiada por tratamiento.",
+        "Asesor digital para tratamiento, urgencia, horario, fotos opcionales y seguimiento.",
+        "Panel de pacientes por fuente, tratamiento, estado y proxima accion."
+      ],
+      "sources": [
+        "https://www.odontofacial.co/",
+        "https://www.instagram.com/unidad.odontofacial/"
+      ]
+    },
+    {
+      "slug": "sonria-colombia",
+      "company": "Sonria Clinicas Odontologicas",
+      "instagram": "@sonriacolombia",
+      "website": "https://sonria.com.co/",
+      "sector": "clinicas odontologicas",
+      "city": "Colombia",
+      "tone": "masivo, confiable y orientado a agenda",
+      "theme": "default",
+      "accent": "#2D9CDB",
+      "secondary": "#F8C63D",
+      "status": "Web activa + red de sedes; oportunidad en conversion por tratamiento y sede",
+      "leadProblem": "Sonria ya tiene reconocimiento, web, sedes y canales. El dolor probable no es visibilidad: es clasificar demanda por ciudad, sede, tratamiento, urgencia y disponibilidad sin saturar atencion con preguntas repetidas. Cuando una persona entra por promocion o redes, debe llegar rapido a la cita correcta.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor que filtre tratamiento, ciudad/sede, horario y objeciones frecuentes. Asi la pauta y el trafico organico pueden convertirse en agendas medibles, no solo en formularios o llamadas generales.",
+      "proofLine": "Lectura publica del 5 de julio de 2026: sonria.com.co muestra enlaces a Instagram, Facebook, LinkedIn, YouTube y TikTok, informacion corporativa, sede principal en Bogota y horario de atencion; busqueda publica identifica el Instagram @sonriacolombia y la comunicacion de valoracion gratis.",
+      "audience": "Pacientes en varias ciudades buscando valoracion, ortodoncia, estetica dental, higiene, urgencias o tratamientos familiares.",
+      "adAngle": "Valoracion + sede correcta + agenda simple por tratamiento",
+      "whatsappCta": "Quiero convertir mas citas desde web y pauta",
+      "heroCopy": "Cuando hay varias sedes y tratamientos, la velocidad depende de clasificar bien desde el primer clic.",
+      "brandWorldTitle": "De trafico nacional a agenda por sede",
+      "diagnosisTitle": "Fugas en una red multisedes",
+      "botAgentName": "Asesor Sonria demo",
+      "botAgentRole": "filtra tratamiento, ciudad, sede y horario",
+      "botTitle": "Asesor para agenda odontologica multisedes",
+      "botIntro": "El demo ordena ciudad, sede, tratamiento y horario antes de entregar el lead.",
+      "botOpening": "Hola, soy el asesor demo para Sonria. Puedo filtrar tratamiento, ciudad, sede cercana y horario para que la cita llegue mejor clasificada.",
+      "botPrompts": [
+        "Valoracion",
+        "Ortodoncia",
+        "Sede cercana",
+        "Promocion",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "valoracion",
+            "cita"
+          ],
+          "answer": "Pide ciudad, sede preferida, tratamiento de interes, horario y datos minimos para llevar a una agenda mas limpia."
+        },
+        {
+          "keywords": [
+            "ortodoncia",
+            "brackets",
+            "alineadores"
+          ],
+          "answer": "Clasifica si busca primera valoracion, control, segunda opinion o financiacion antes de remitir al canal correcto."
+        },
+        {
+          "keywords": [
+            "sede",
+            "ciudad",
+            "cerca"
+          ],
+          "answer": "Pregunta ciudad o barrio y sugiere pasar la conversacion con esa sede, evitando chats generales sin contexto."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ciudad, sede, tratamiento, origen del lead, citas solicitadas, citas confirmadas y objeciones frecuentes."
+        }
+      ],
+      "findings": [
+        "La marca cuenta con web y canales sociales activos.",
+        "La escala multisedes exige clasificar ciudad/sede antes de la conversacion.",
+        "La oportunidad esta en reducir friccion entre interes, tratamiento y agenda."
+      ],
+      "siteIssues": [
+        "Las rutas de tratamiento deberian terminar en agenda por ciudad y sede.",
+        "Los leads de pauta necesitan quedar asociados a tratamiento y sede desde el inicio.",
+        "Las preguntas frecuentes pueden resolverse antes de que intervenga un asesor humano."
+      ],
+      "losses": [
+        "Una persona puede pedir informacion general y no llegar a la sede correcta.",
+        "Recepcion pierde tiempo filtrando ciudad, tratamiento y disponibilidad.",
+        "La pauta por promocion puede traer volumen sin medir citas reales por sede."
+      ],
+      "heatmapData": [
+        "Clics por tratamiento, ciudad, sede y boton de agenda.",
+        "Abandono antes de escoger sede o dejar datos.",
+        "Campañas que generan citas confirmadas, no solo leads."
+      ],
+      "campaigns": [
+        "Campañas por tratamiento y ciudad con agenda segmentada.",
+        "Anuncios de valoracion con filtro por sede y horario.",
+        "Remarketing a visitantes que vieron tratamiento sin agendar."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para la web actual por tratamiento, ciudad y sede.",
+        "Asesor digital para valoracion, sede, horario, preguntas frecuentes y seguimiento.",
+        "Panel de conversion por fuente, ciudad, tratamiento, cita solicitada y cita confirmada."
+      ],
+      "sources": [
+        "https://sonria.com.co/",
+        "https://www.instagram.com/sonriacolombia/"
+      ]
+    },
+    {
+      "slug": "muebles-san-diego",
+      "company": "Muebles San Diego",
+      "instagram": "@mueblessandiego",
+      "website": "https://www.mueblessandiego.com.co/",
+      "sector": "muebles para hogar y oficina",
+      "city": "Bogota / Chia",
+      "tone": "confiable, asesor y familiar",
+      "theme": "maker",
+      "accent": "#8E6A4B",
+      "secondary": "#5EA7C1",
+      "status": "Web activa + WhatsApp; oportunidad en asesoria por ambiente",
+      "leadProblem": "Muebles San Diego tiene web, direccion, contacto y redes. La fuga probable esta en la cotizacion: un cliente necesita elegir ambiente, medidas, estilo, presupuesto, entrega y visita. Si WhatsApp recibe solo un mensaje generico, ventas debe hacer demasiadas preguntas antes de saber si hay oportunidad real.",
+      "opportunity": "Mejorar la conversion de la web actual con una ruta por ambiente: sala, comedor, alcoba, oficina, exterior o diseño especial. El asesor digital recoge medidas, ciudad, fotos y prioridad para entregar a WhatsApp una solicitud ordenada.",
+      "proofLine": "Lectura publica del 5 de julio de 2026: mueblessandiego.com.co publica direccion en Bogota, telefono +57 3105738758, correo, WhatsApp y redes sociales; busqueda publica identifica Instagram @mueblessandiego con showroom en Chia y fabrica en Bogota.",
+      "audience": "Hogares, oficinas y personas que buscan muebles a medida o asesoria para renovar espacios.",
+      "adAngle": "Muebles sobre medida + decoracion + cotizacion guiada",
+      "whatsappCta": "Quiero ordenar cotizaciones por ambiente",
+      "heroCopy": "El cliente no solo quiere un mueble: quiere saber si cabe, cuanto tarda y como se veria en su espacio.",
+      "brandWorldTitle": "De vitrina digital a cotizacion por ambiente",
+      "diagnosisTitle": "Fugas en venta consultiva de muebles",
+      "botAgentName": "Asesor Muebles San Diego demo",
+      "botAgentRole": "guia ambiente, medidas y visita",
+      "botTitle": "Asesor para muebles y decoracion",
+      "botIntro": "El demo pide ambiente, medidas, ciudad y fotos antes de WhatsApp.",
+      "botOpening": "Hola, soy el asesor demo para Muebles San Diego. Puedo filtrar ambiente, medidas, ciudad, fotos y necesidad para preparar una cotizacion.",
+      "botPrompts": [
+        "Cotizar sala",
+        "Oficina",
+        "Tengo medidas",
+        "Showroom",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sala",
+            "sofa",
+            "comedor",
+            "alcoba"
+          ],
+          "answer": "Pregunta ambiente, medidas, estilo, ciudad y si el cliente tiene fotos o referencia. Con eso ventas puede responder con opciones concretas."
+        },
+        {
+          "keywords": [
+            "oficina",
+            "empresa"
+          ],
+          "answer": "Filtra numero de puestos, tipo de mobiliario, fecha de entrega, ubicacion y si requiere visita tecnica."
+        },
+        {
+          "keywords": [
+            "showroom",
+            "visita",
+            "chia",
+            "bogota"
+          ],
+          "answer": "El asesor puede orientar si conviene visita a showroom, fabrica o cotizacion remota con fotos y medidas."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ambiente consultado, fuente, clic a WhatsApp, solicitudes con medidas y cotizaciones enviadas."
+        }
+      ],
+      "findings": [
+        "La web tiene contacto y redes, pero el producto requiere asesoria antes de cotizar.",
+        "La presencia en Bogota/Chia permite pauta local por zonas de alto potencial.",
+        "El valor esta en que WhatsApp reciba contexto y no solo preguntas sueltas."
+      ],
+      "siteIssues": [
+        "La ruta debe separar ambientes y necesidades antes del contacto.",
+        "WhatsApp deberia llegar con medidas, fotos, ciudad y tipo de mueble.",
+        "La web puede medir que ambiente genera mas cotizaciones y visitas."
+      ],
+      "losses": [
+        "Interesados preguntan precio sin contexto y la venta se enfria.",
+        "Ventas repite preguntas de medidas y ciudad en cada conversacion.",
+        "La pauta no sabe que productos generan cotizaciones completas."
+      ],
+      "heatmapData": [
+        "Clics por sala, comedor, oficina, exterior y WhatsApp.",
+        "Abandono antes de enviar medidas o fotos.",
+        "Solicitudes con mayor probabilidad de visita o cierre."
+      ],
+      "campaigns": [
+        "Campaña por ambiente con piezas de showroom y proyectos terminados.",
+        "Anuncios de cotizacion asistida para Bogota y Chia.",
+        "Remarketing a visitantes que miraron productos sin escribir."
+      ],
+      "deliverables": [
+        "Optimizar la web actual con rutas por ambiente y cotizador simple.",
+        "Asesor digital para medidas, fotos, ciudad, visita y seguimiento.",
+        "Panel de oportunidades por ambiente, fuente y estado de cotizacion."
+      ],
+      "sources": [
+        "https://www.mueblessandiego.com.co/",
+        "https://www.instagram.com/mueblessandiego/"
+      ]
+    },
+    {
+      "slug": "muebles-elite-ricaurte",
+      "company": "Muebles Elite",
+      "instagram": "@muebleselite.co",
+      "website": "https://muebleselite.co/",
+      "sector": "fabricantes de muebles para hogar",
+      "city": "Ricaurte / Girardot",
+      "tone": "directo, comercial y confiable",
+      "theme": "maker",
+      "accent": "#AA7B48",
+      "secondary": "#E0B94E",
+      "status": "Web activa + WhatsApp; oportunidad en compra guiada por sede/zona",
+      "leadProblem": "Muebles Elite comunica fabricacion y venta de salas, comedores y alcobas. La friccion aparece cuando el cliente necesita precio, disponibilidad, entrega, ubicacion, personalizacion o financiacion. Si todo entra por WhatsApp sin clasificar, cada conversacion empieza desde cero.",
+      "opportunity": "Mejorar la conversion de la web actual con una ruta por categoria y zona: sala, comedor, alcoba, colchon, entrega o visita. El asesor digital recoge ciudad, producto, medidas y urgencia antes de pasar a WhatsApp.",
+      "proofLine": "Lectura publica del 5 de julio de 2026: muebleselite.co se presenta como fabricantes de muebles, publica ubicacion Via Girardot-Melgar EDS Primax Ricaurte, horario de lunes a domingo, enlaces a Instagram y WhatsApp, e identifica @muebleselite.co.",
+      "audience": "Familias y propietarios en Girardot, Ricaurte, Melgar y zonas cercanas que buscan renovar salas, comedores o alcobas.",
+      "adAngle": "Fabricantes + asesoria por categoria + entrega local clara",
+      "whatsappCta": "Quiero vender mas muebles con WhatsApp ordenado",
+      "heroCopy": "Cuando el cliente compra muebles fuera de una gran ciudad, la claridad de ubicacion, entrega y disponibilidad decide la conversacion.",
+      "brandWorldTitle": "De catalogo a pedido con datos utiles",
+      "diagnosisTitle": "Fugas en venta local de muebles",
+      "botAgentName": "Asesor Elite demo",
+      "botAgentRole": "filtra categoria, zona y disponibilidad",
+      "botTitle": "Asesor para pedidos de muebles",
+      "botIntro": "El demo clasifica producto, zona, medidas y visita antes de WhatsApp.",
+      "botOpening": "Hola, soy el asesor demo para Muebles Elite. Puedo filtrar sala, comedor, alcoba, zona de entrega, medidas y visita al punto.",
+      "botPrompts": [
+        "Sala",
+        "Comedor",
+        "Entrega zona",
+        "Visitar tienda",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sala",
+            "sofa"
+          ],
+          "answer": "Pregunta modelo, medidas aproximadas, color, ciudad de entrega y si busca pronta entrega o fabricacion."
+        },
+        {
+          "keywords": [
+            "comedor",
+            "alcoba",
+            "cama"
+          ],
+          "answer": "Clasifica numero de puestos o tamaño, material, ciudad y fecha ideal antes de pasar a ventas."
+        },
+        {
+          "keywords": [
+            "entrega",
+            "zona",
+            "girardot",
+            "ricaurte",
+            "melgar"
+          ],
+          "answer": "Pide municipio, barrio o vereda para calcular entrega y orientar disponibilidad sin demorar la conversacion."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide categoria, ciudad, clic a WhatsApp, intencion de visita, cotizaciones enviadas y productos con mayor demanda."
+        }
+      ],
+      "findings": [
+        "La web comunica fabricacion, categorias y contacto por WhatsApp.",
+        "La ubicacion y el horario ayudan, pero la compra necesita filtro por categoria y entrega.",
+        "La pauta local puede capturar demanda si el chat llega con producto y zona claros."
+      ],
+      "siteIssues": [
+        "Las categorias deben llevar a WhatsApp con producto y ciudad prellenados.",
+        "El asesor deberia separar pronta entrega, fabricacion y visita al punto.",
+        "Sin medicion por categoria, no se sabe que productos conviene pautar."
+      ],
+      "losses": [
+        "Clientes preguntan por disponibilidad y entrega sin dar ciudad o medidas.",
+        "Ventas dedica tiempo a calificar consultas frias.",
+        "La pauta puede traer mensajes de baja intencion si no hay filtro inicial."
+      ],
+      "heatmapData": [
+        "Clics por sala, comedor, alcoba, ubicacion y WhatsApp.",
+        "Abandono antes de indicar ciudad o producto.",
+        "Categorias que generan mas conversaciones completas."
+      ],
+      "campaigns": [
+        "Campaña local por categoria y municipio cercano.",
+        "Anuncios de fabricantes con CTA a cotizacion guiada.",
+        "Remarketing a visitantes que miraron productos sin escribir."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para la web actual por categoria y zona.",
+        "Asesor digital para producto, medidas, ciudad, entrega, visita y seguimiento.",
+        "Panel de oportunidades por municipio, categoria y estado."
+      ],
+      "sources": [
+        "https://muebleselite.co/",
+        "https://www.instagram.com/muebleselite.co/"
+      ]
+    },
+    {
+      "slug": "beale-patisserie-bogota",
+      "company": "Beale Patisserie",
+      "instagram": "@bealepatisserie",
+      "website": "https://www.beale.com.co/",
+      "sector": "bistro y pasteleria francesa artesanal",
+      "city": "Bogota",
+      "tone": "premium, calido y sensorial",
+      "theme": "default",
+      "accent": "#D9A24E",
+      "secondary": "#E9C7C7",
+      "status": "Web activa + Instagram fuerte; oportunidad en pedidos y reservas con contexto",
+      "leadProblem": "Beale ya tiene deseo visual, web, horario, direccion, WhatsApp e Instagram. La fuga no es falta de encanto: es convertir antojo o celebracion en pedido claro. Cuando una persona pregunta por domicilios, brunch, torta, disponibilidad, horario o evento, el chat manual puede perder contexto y seguimiento.",
+      "opportunity": "Mejorar la conversion de la web actual con rutas por intencion: domicilio, torta, brunch, reserva, regalo o evento. El asesor digital captura fecha, cantidad, direccion, producto y presupuesto antes de WhatsApp.",
+      "proofLine": "Lectura publica del 5 de julio de 2026: beale.com.co publica Instagram @bealepatisserie, horarios, direccion Carrera 12 #70A-20 en Bogota, correo y WhatsApp 301 399 79 44; busqueda publica confirma @bealepatisserie.",
+      "audience": "Clientes en Bogota que buscan brunch, postres, tortas, regalos, celebraciones, domicilios o planes de cafe premium.",
+      "adAngle": "Antojo premium + pedido guiado + fecha y producto claros",
+      "whatsappCta": "Quiero convertir mas pedidos y reservas",
+      "heroCopy": "Una pasteleria premium no pierde solo ventas por falta de trafico; pierde cuando el antojo no encuentra rapido producto, fecha y forma de pedir.",
+      "brandWorldTitle": "De antojo visual a pedido listo",
+      "diagnosisTitle": "Fugas en pedidos premium",
+      "botAgentName": "Asesor Beale demo",
+      "botAgentRole": "filtra pedido, fecha, domicilio y evento",
+      "botTitle": "Asesor para pedidos y reservas",
+      "botIntro": "El demo separa domicilio, brunch, tortas y eventos antes de WhatsApp.",
+      "botOpening": "Hola, soy el asesor demo para Beale. Puedo filtrar si buscas domicilio, brunch, torta, regalo o evento, con fecha, cantidad y direccion.",
+      "botPrompts": [
+        "Pedir torta",
+        "Brunch",
+        "Domicilio",
+        "Evento",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "torta",
+            "postre",
+            "regalo"
+          ],
+          "answer": "Pregunta fecha, numero de personas, sabor o referencia, presupuesto y si requiere domicilio o recogida."
+        },
+        {
+          "keywords": [
+            "brunch",
+            "reserva",
+            "mesa"
+          ],
+          "answer": "Pide fecha, hora, numero de personas y ocasion para llevar a WhatsApp una solicitud lista."
+        },
+        {
+          "keywords": [
+            "domicilio",
+            "direccion",
+            "pedido"
+          ],
+          "answer": "Clasifica producto, direccion, fecha/hora y metodo de pago para evitar idas y vueltas manuales."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide categoria consultada, fecha, ticket probable, clic a WhatsApp, pedidos completos y abandonos."
+        }
+      ],
+      "findings": [
+        "La web ya comunica ubicacion, horario, WhatsApp e Instagram.",
+        "La decision cambia segun intencion: consumo en tienda, domicilio, torta, regalo o evento.",
+        "La oportunidad esta en convertir la emocion visual en pedido estructurado."
+      ],
+      "siteIssues": [
+        "La ruta debe separar pedidos inmediatos, reservas y celebraciones.",
+        "WhatsApp deberia recibir fecha, producto, cantidad y direccion desde el inicio.",
+        "El remarketing puede recuperar personas que miran catalogo o Instagram sin pedir."
+      ],
+      "losses": [
+        "Clientes preguntan disponibilidad sin enviar fecha o cantidad.",
+        "Pedidos de celebracion se enfrían si la respuesta demora.",
+        "La pauta de antojo puede generar interaccion sin pedido medible."
+      ],
+      "heatmapData": [
+        "Clics por tortas, brunch, domicilios, regalos y WhatsApp.",
+        "Abandono antes de indicar fecha o producto.",
+        "Categorias con mayor intencion por hora y dia."
+      ],
+      "campaigns": [
+        "Campañas por ocasion: brunch, cumpleanos, regalos y postres.",
+        "Anuncios de pedido guiado con fecha y producto.",
+        "Remarketing a visitantes que vieron catalogo sin escribir."
+      ],
+      "deliverables": [
+        "Optimizar la web actual con rutas por domicilio, reserva, torta y evento.",
+        "Asesor digital para producto, fecha, cantidad, direccion, pago y seguimiento.",
+        "Panel de pedidos por categoria, fuente, fecha e intencion."
+      ],
+      "sources": [
+        "https://www.beale.com.co/",
+        "https://www.instagram.com/bealepatisserie/"
+      ]
+    },
+    {
+      "slug": "panaderia-paola-cali",
+      "company": "Panaderia Paola Roosevelt",
+      "instagram": "@panaderiapaola",
+      "website": "https://www.panaderiapaola.com/",
+      "sector": "panaderia, pasteleria y desayunos sorpresa",
+      "city": "Cali",
+      "tone": "tradicional, familiar y practico",
+      "theme": "default",
+      "accent": "#D8903F",
+      "secondary": "#F4C95D",
+      "status": "Ecommerce activo + WhatsApp; oportunidad en pedidos por ocasion",
+      "leadProblem": "Panaderia Paola tiene ecommerce, categorias, WhatsApp y una historia de marca fuerte. La fuga probable esta en pedidos por ocasion: desayunos sorpresa, tortas, refrigerios, mesas dulces o productos para hornear. Si el usuario no escoge rapido producto, fecha, direccion y cantidad, el pedido se vuelve conversacion manual y puede abandonarse.",
+      "opportunity": "Mejorar la conversion de la tienda actual con un asesor por ocasion que ayude a elegir producto, fecha, cobertura, cantidad y metodo de entrega. WhatsApp recibe el pedido con contexto y la pauta puede medir que ocasion genera ventas reales.",
+      "proofLine": "Lectura publica del 5 de julio de 2026: panaderiapaola.com muestra categorias de panaderia, pasteleria, regalos sorpresa, productos congelados, precios visibles, carrito, WhatsApp, opciones para empresas/eventos y comunica trayectoria desde 1978; busqueda publica identifica Instagram @panaderiapaola.",
+      "audience": "Familias y empresas en Cali que compran panes, tortas, desayunos sorpresa, refrigerios, mesas dulces o productos para hornear en casa.",
+      "adAngle": "Ocasion especial + pedido guiado + WhatsApp con datos completos",
+      "whatsappCta": "Quiero convertir mas pedidos desde la tienda",
+      "heroCopy": "Una tienda con muchos productos necesita guiar la ocasion: no es lo mismo un pandebono para hoy que una torta, un desayuno sorpresa o refrigerios empresariales.",
+      "brandWorldTitle": "De catalogo amplio a pedido por ocasion",
+      "diagnosisTitle": "Fugas en ecommerce de alimentos",
+      "botAgentName": "Asesor Paola demo",
+      "botAgentRole": "filtra ocasion, fecha, producto y entrega",
+      "botTitle": "Asesor para pedidos y celebraciones",
+      "botIntro": "El demo convierte antojo o celebracion en pedido con fecha y direccion.",
+      "botOpening": "Hola, soy el asesor demo para Panaderia Paola. Puedo ayudarte con desayunos, tortas, refrigerios, congelados o panaderia para dejar el pedido listo.",
+      "botPrompts": [
+        "Desayuno sorpresa",
+        "Torta",
+        "Refrigerios",
+        "Hornear en casa",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "desayuno",
+            "sorpresa",
+            "regalo"
+          ],
+          "answer": "Pregunta fecha, hora, direccion, nombre del destinatario, mensaje y presupuesto para armar el pedido con contexto."
+        },
+        {
+          "keywords": [
+            "torta",
+            "cumpleanos",
+            "cumpleaños"
+          ],
+          "answer": "Pide fecha, porciones, sabor, decoracion, mensaje y si requiere domicilio o recogida."
+        },
+        {
+          "keywords": [
+            "refrigerio",
+            "empresa",
+            "evento"
+          ],
+          "answer": "Clasifica numero de personas, fecha, ciudad/cobertura, tipo de productos y presupuesto por persona."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ocasion, producto, fecha, clic a WhatsApp, carrito iniciado, pedido completo y abandono por categoria."
+        }
+      ],
+      "findings": [
+        "La tienda ya tiene productos, precios, carrito y WhatsApp.",
+        "La oferta mezcla compras inmediatas, celebraciones y pedidos empresariales.",
+        "El asesor digital puede reducir friccion en fechas, cantidades y cobertura."
+      ],
+      "siteIssues": [
+        "Las categorias deberian conectar con preguntas distintas segun ocasion.",
+        "WhatsApp debe recibir producto, fecha, cantidad y direccion desde el primer contacto.",
+        "Los productos de mayor interes necesitan remarketing cuando no terminan en carrito o chat."
+      ],
+      "losses": [
+        "Clientes abandonan si no saben que producto aplica para su ocasion.",
+        "Pedidos especiales requieren demasiadas preguntas manuales.",
+        "La pauta de producto no siempre revela que ocasion produce compra real."
+      ],
+      "heatmapData": [
+        "Clics por desayunos, tortas, refrigerios, congelados y WhatsApp.",
+        "Abandono antes de carrito, fecha o direccion.",
+        "Ocasiones con mayor potencial de pedido y recompra."
+      ],
+      "campaigns": [
+        "Campañas por ocasion: regalos, cumpleanos, empresa y hornear en casa.",
+        "Anuncios con pedido guiado por fecha y categoria.",
+        "Remarketing a carritos o productos vistos sin compra."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para ecommerce por ocasion y categoria.",
+        "Asesor digital para producto, fecha, cantidad, direccion, cobertura y seguimiento.",
+        "Panel de pedidos por ocasion, fuente, carrito y estado."
+      ],
+      "sources": [
+        "https://www.panaderiapaola.com/",
+        "https://www.instagram.com/panaderiapaola/"
+      ]
+    },
+    {
+      "slug": "pasteleria-santa-elena",
+      "company": "Pasteleria Santa Elena",
+      "instagram": "@pasteleriasantaelena",
+      "website": "https://www.santaelena.com.co/",
+      "sector": "pasteleria, panaderia y regalos corporativos",
+      "city": "Medellin, Bogota, Monteria y Pereira",
+      "tone": "tradicional, confiable y corporativo",
+      "theme": "default",
+      "accent": "#B34A34",
+      "secondary": "#F2C66D",
+      "status": "Web activa + B2C/B2B; oportunidad en cotizacion institucional y pedidos por ciudad",
+      "leadProblem": "Santa Elena tiene web, productos, tiendas y una linea institucional. La friccion aparece cuando la persona o empresa necesita cotizar por ciudad, fecha, cantidad, tipo de producto, cobertura y presupuesto. Si la ruta no clasifica B2C y B2B, WhatsApp o formularios reciben solicitudes incompletas.",
+      "opportunity": "Mejorar la conversion de la web actual con rutas separadas: pedido personal, torta, tienda cercana, refrigerios corporativos, regalos empresariales o distribuidores. El asesor digital prepara la solicitud con ciudad, cantidad, fecha y objetivo antes de pasarla a ventas.",
+      "proofLine": "Lectura publica del 5 de julio de 2026: santaelena.com.co muestra productos de pasteleria, precios, categorias, ciudades/tiendas, enlaces a Instagram/Facebook/WhatsApp y una pagina de clientes institucionales con refrigerios, regalos corporativos, distribuidores, exportaciones, formulario y WhatsApp 3206775833; busqueda publica identifica @pasteleriasantaelena.",
+      "audience": "Clientes finales y empresas en ciudades de cobertura que compran tortas, postres, regalos corporativos, refrigerios y productos artesanales.",
+      "adAngle": "Tradicion + pedido por ciudad + cotizacion institucional guiada",
+      "whatsappCta": "Quiero convertir mejor pedidos y cotizaciones",
+      "heroCopy": "Cuando una marca vende al consumidor y a empresas, la conversion depende de separar rapido ocasion, ciudad, cantidad y fecha.",
+      "brandWorldTitle": "De catalogo tradicional a pedido medible",
+      "diagnosisTitle": "Fugas en pedidos B2C y B2B",
+      "botAgentName": "Asesor Santa Elena demo",
+      "botAgentRole": "filtra ciudad, ocasion, cantidad y fecha",
+      "botTitle": "Asesor para pedidos e institucionales",
+      "botIntro": "El demo separa consumidor final, empresa, ciudad y fecha antes de WhatsApp/formulario.",
+      "botOpening": "Hola, soy el asesor demo para Santa Elena. Puedo separar pedidos personales, tortas, refrigerios, regalos corporativos y distribuidores por ciudad y fecha.",
+      "botPrompts": [
+        "Torta",
+        "Refrigerios empresa",
+        "Regalo corporativo",
+        "Ciudad cobertura",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "torta",
+            "postre",
+            "pedido"
+          ],
+          "answer": "Pregunta ciudad, fecha, producto, porciones, domicilio/recogida y presupuesto para dejar la solicitud clara."
+        },
+        {
+          "keywords": [
+            "refrigerio",
+            "empresa",
+            "corporativo",
+            "evento"
+          ],
+          "answer": "Pide ciudad, fecha, numero de personas, tipo de productos, presupuesto y responsable para cotizacion institucional."
+        },
+        {
+          "keywords": [
+            "distribuidor",
+            "exportacion",
+            "exportaciones"
+          ],
+          "answer": "Clasifica si busca distribucion, ciudad/pais, volumen estimado y datos de contacto para el equipo correcto."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ciudad, categoria, B2C/B2B, solicitudes completas, cotizaciones enviadas y pedidos recuperados."
+        }
+      ],
+      "findings": [
+        "La web combina producto, tiendas, institucionales, distribuidores y exportaciones.",
+        "La linea B2B necesita mas contexto que una compra de producto individual.",
+        "Separar ciudad y ocasion mejora la velocidad de respuesta y la calidad del lead."
+      ],
+      "siteIssues": [
+        "Las rutas B2C y B2B deben separarse antes del formulario o WhatsApp.",
+        "Toda solicitud deberia llevar ciudad, fecha, cantidad y categoria.",
+        "La medicion debe distinguir pedido minorista, cotizacion institucional y distribuidor."
+      ],
+      "losses": [
+        "Empresas piden cotizacion sin cantidad, ciudad o fecha clara.",
+        "Clientes finales se pierden si no encuentran la tienda o producto correcto rapido.",
+        "La pauta puede mezclar objetivos muy distintos en un mismo canal."
+      ],
+      "heatmapData": [
+        "Clics por tortas, postres, tiendas, institucionales y WhatsApp.",
+        "Abandono antes de ciudad, fecha o formulario.",
+        "Categorias y ciudades con mejor intencion comercial."
+      ],
+      "campaigns": [
+        "Campañas B2C por producto y ciudad.",
+        "Campañas B2B para refrigerios, regalos corporativos y eventos.",
+        "Remarketing a visitantes que vieron institucionales sin enviar formulario."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para la web actual separando B2C/B2B por ciudad.",
+        "Asesor digital para ciudad, ocasion, cantidad, fecha, presupuesto y seguimiento.",
+        "Panel de pedidos/cotizaciones por ciudad, categoria, fuente y estado."
+      ],
+      "sources": [
+        "https://www.santaelena.com.co/",
+        "https://www.santaelena.com.co/clientes-institucionales/",
+        "https://www.instagram.com/pasteleriasantaelena/"
+      ]
+    },
+    {
+      "slug": "milhojaldres-cundinamarca",
+      "company": "Pastelerias Mil Hojaldres",
+      "instagram": "@milhojaldres",
+      "website": "https://tienda.pasteleriamilhojaldres.com.co/",
+      "sector": "pasteleria, reposteria y chocolateria",
+      "city": "Funza, Madrid y Facatativa",
+      "tone": "tradicional, cercano y comercial",
+      "theme": "default",
+      "accent": "#C98B3B",
+      "secondary": "#E65F8A",
+      "status": "Tienda activa + WhatsApp; oportunidad en pedido por ciudad y ocasion",
+      "leadProblem": "Mil Hojaldres tiene tienda, WhatsApp y presencia en varias ciudades de Cundinamarca. El riesgo esta en que el cliente tenga que escoger ciudad, producto, fecha, cantidad y entrega sin una guia clara. Cuando la decision depende de chat manual, los pedidos especiales pueden quedarse a medias.",
+      "opportunity": "Mejorar la conversion de la tienda actual con un asesor por ciudad y ocasion: torta, panaderia, restaurante/menu del dia, chocolateria o evento. WhatsApp recibe producto, sede, fecha y datos del pedido listos para cerrar.",
+      "proofLine": "Lectura publica del 5 de julio de 2026: tienda.pasteleriamilhojaldres.com.co muestra selector de ciudad, productos, WhatsApp y contacto; una pieza oficial en la tienda publica telefonos para Funza, Madrid y Facatativa, y busqueda publica identifica Instagram @milhojaldres con presencia en esas ciudades.",
+      "audience": "Clientes en Funza, Madrid y Facatativa que buscan tortas, reposteria, chocolateria, productos de panaderia, almuerzos o pedidos para celebraciones.",
+      "adAngle": "Tradicion local + ciudad correcta + pedido guiado",
+      "whatsappCta": "Quiero convertir mas pedidos por ciudad",
+      "heroCopy": "Cuando hay varias sedes, el primer dato comercial no es el producto: es la ciudad, la fecha y la ocasion.",
+      "brandWorldTitle": "De tienda por ciudad a pedido completo",
+      "diagnosisTitle": "Fugas en pedidos multisede",
+      "botAgentName": "Asesor Mil Hojaldres demo",
+      "botAgentRole": "filtra ciudad, producto, fecha y entrega",
+      "botTitle": "Asesor para pedidos por ciudad",
+      "botIntro": "El demo separa sede, producto, fecha y ocasion antes de WhatsApp.",
+      "botOpening": "Hola, soy el asesor demo para Mil Hojaldres. Puedo ayudarte a escoger ciudad, producto, fecha, cantidad y entrega para dejar el pedido claro.",
+      "botPrompts": [
+        "Torta evento",
+        "Ciudad entrega",
+        "Menu del dia",
+        "Chocolateria",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "torta",
+            "evento",
+            "cumpleanos",
+            "cumpleaños"
+          ],
+          "answer": "Pregunta ciudad, fecha, porciones, sabor, mensaje, presupuesto y entrega/recogida para armar la solicitud."
+        },
+        {
+          "keywords": [
+            "ciudad",
+            "funza",
+            "madrid",
+            "facatativa",
+            "entrega"
+          ],
+          "answer": "Primero valida ciudad o sede, luego fecha y producto. Asi WhatsApp llega al punto correcto con contexto."
+        },
+        {
+          "keywords": [
+            "menu",
+            "almuerzo",
+            "chocolate",
+            "chocolateria"
+          ],
+          "answer": "Clasifica si es consumo del dia, pedido para llevar o evento, y pide hora/cantidad antes de enviar."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ciudad, categoria, fecha, clic a WhatsApp, pedidos completos y abandonos antes de elegir sede."
+        }
+      ],
+      "findings": [
+        "La tienda tiene selector de ciudad y WhatsApp visible.",
+        "La presencia multisede exige clasificar ciudad antes de vender.",
+        "La oferta mezcla pasteleria, reposteria, chocolateria y comidas, con intenciones distintas."
+      ],
+      "siteIssues": [
+        "La ruta debe pedir ciudad/sede antes de cualquier pedido especial.",
+        "WhatsApp deberia recibir producto, fecha, cantidad y sede desde el primer mensaje.",
+        "La data debe mostrar que categoria funciona mejor por ciudad."
+      ],
+      "losses": [
+        "Pedidos se retrasan si la ciudad o fecha no queda clara.",
+        "El equipo repite preguntas de sede, producto y entrega.",
+        "La pauta puede llevar a una ciudad equivocada o a usuarios sin intencion inmediata."
+      ],
+      "heatmapData": [
+        "Clics por ciudad, tortas, panaderia, chocolateria y WhatsApp.",
+        "Abandono antes de escoger sede o fecha.",
+        "Categorias con mejor respuesta por municipio."
+      ],
+      "campaigns": [
+        "Campañas locales por ciudad y ocasion.",
+        "Anuncios de pedido guiado para tortas y celebraciones.",
+        "Remarketing a visitantes que escogieron ciudad pero no escribieron."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para tienda actual por ciudad y ocasion.",
+        "Asesor digital para sede, producto, fecha, cantidad, entrega y seguimiento.",
+        "Panel de pedidos por ciudad, categoria, fuente y estado."
+      ],
+      "sources": [
+        "https://tienda.pasteleriamilhojaldres.com.co/",
+        "https://www.instagram.com/milhojaldres/"
       ]
     }
   ]
