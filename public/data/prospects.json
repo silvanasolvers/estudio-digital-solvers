@@ -22328,6 +22328,1033 @@
         "https://tienda.pasteleriamilhojaldres.com.co/",
         "https://www.instagram.com/milhojaldres/"
       ]
+    },
+    {
+      "slug": "clinica-picasso-cali",
+      "company": "Clinica Picasso",
+      "instagram": "@clinicapicasso",
+      "website": "https://clinicapicassocali.com/",
+      "sector": "clinica de cirugia plastica, estetica y reconstructiva",
+      "city": "Cali",
+      "tone": "medico, seguro y aspiracional",
+      "theme": "default",
+      "accent": "#9E6BFF",
+      "secondary": "#F2B8A2",
+      "status": "Web activa + pre-valoracion; oportunidad en filtrado de pacientes",
+      "leadProblem": "Clinica Picasso tiene web, Instagram y ruta de pre-valoracion. En cirugia plastica el interes se enfria cuando la persona no entiende pasos, tiempos, seguridad, elegibilidad, documentos, rangos de decision y seguimiento antes de hablar con el equipo.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor de pre-valoracion que clasifique procedimiento, ciudad/pais de origen, etapa de decision, antecedentes basicos y fecha tentativa. WhatsApp o el formulario reciben un lead con contexto, no solo un mensaje frio.",
+      "proofLine": "Lectura publica del 6 de julio de 2026: clinicapicassocali.com presenta a Clinica Picasso como IPS dedicada a cirugia plastica; busqueda publica identifica Instagram @clinicapicasso con contacto y comunicacion de seguridad, pre-valoracion y procedimientos en Cali.",
+      "audience": "Personas en Cali y pacientes de otras ciudades o paises que estan evaluando cirugia plastica con una institucion visible y segura.",
+      "adAngle": "Decision informada + pre-valoracion guiada + seguimiento humano",
+      "whatsappCta": "Quiero convertir mejor las pre-valoraciones",
+      "heroCopy": "En cirugia plastica, el primer clic no deberia caer en una conversacion generica: debe llegar con procedimiento, momento de decision, dudas y datos basicos.",
+      "brandWorldTitle": "De interes estetico a pre-valoracion ordenada",
+      "diagnosisTitle": "Fugas en pacientes de alto valor",
+      "botAgentName": "Asesor Picasso demo",
+      "botAgentRole": "filtra procedimiento, seguridad y etapa de decision",
+      "botTitle": "Asesor para pre-valoracion",
+      "botIntro": "El demo ordena dudas de cirugia, antecedentes, fechas y siguiente paso antes de pasar al equipo.",
+      "botOpening": "Hola, soy el asesor demo para Clinica Picasso. Puedo ayudarte a ubicar procedimiento, etapa de decision, ciudad, fecha tentativa y dudas antes de solicitar pre-valoracion.",
+      "botPrompts": [
+        "Pre-valoracion",
+        "Procedimiento",
+        "Paciente de otra ciudad",
+        "Seguridad",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "pre",
+            "valoracion",
+            "cita"
+          ],
+          "answer": "Pide procedimiento de interes, ciudad, edad, fecha tentativa, si ya tiene examenes o valoracion previa y datos de contacto para agendar con contexto."
+        },
+        {
+          "keywords": [
+            "procedimiento",
+            "cirugia",
+            "rinoplastia",
+            "lipo"
+          ],
+          "answer": "No diagnostica: organiza la intencion, explica pasos generales y deriva a valoracion profesional con preguntas ya respondidas."
+        },
+        {
+          "keywords": [
+            "otra ciudad",
+            "exterior",
+            "viaje"
+          ],
+          "answer": "Clasifica origen, fechas probables, tiempo disponible en Cali, acompanante y dudas logisticas para seguimiento."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide procedimiento, fuente, etapa de decision, solicitud completa, cita agendada y prospectos que requieren seguimiento."
+        }
+      ],
+      "findings": [
+        "La web ya permite presentar institucion y ruta de pre-valoracion.",
+        "Instagram refuerza seguridad, procedimientos y contacto.",
+        "El lead necesita clasificacion antes de llegar al equipo comercial o medico."
+      ],
+      "siteIssues": [
+        "La pre-valoracion deberia pedir procedimiento, origen, fecha tentativa y etapa de decision.",
+        "WhatsApp debe recibir contexto para evitar preguntas repetidas.",
+        "La pauta necesita distinguir curiosos, pacientes listos y pacientes que requieren educacion."
+      ],
+      "losses": [
+        "Pacientes de alto valor se enfrian si la respuesta inicial no resuelve la ruta.",
+        "El equipo puede invertir tiempo en contactos sin informacion minima.",
+        "La pauta no aprende que procedimiento o duda genera citas reales."
+      ],
+      "heatmapData": [
+        "Clics por procedimiento, pre-valoracion, seguridad, WhatsApp y formulario.",
+        "Abandono antes de entregar datos basicos.",
+        "Procedimientos con mayor tasa de cita agendada."
+      ],
+      "campaigns": [
+        "Campanas por procedimiento con pre-valoracion guiada.",
+        "Remarketing a visitantes que vieron seguridad/procedimientos sin solicitar cita.",
+        "Secuencia de seguimiento para leads con fecha tentativa."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para la web actual y pre-valoracion.",
+        "Asesor digital para procedimiento, etapa, ciudad, fecha y dudas frecuentes.",
+        "Panel de leads por procedimiento, fuente, estado y proxima accion."
+      ],
+      "sources": [
+        "https://clinicapicassocali.com/",
+        "https://www.instagram.com/clinicapicasso/"
+      ]
+    },
+    {
+      "slug": "zapata-velasquez-pereira",
+      "company": "Zapata Velasquez",
+      "instagram": "@vyzcirugiaestetica",
+      "website": "https://zapatavelasquez.com/",
+      "sector": "cirugia plastica y medicina estetica",
+      "city": "Pereira",
+      "tone": "premium, medico y cercano",
+      "theme": "default",
+      "accent": "#B77A65",
+      "secondary": "#F5D7A1",
+      "status": "Web activa + solicitud de valoracion; oportunidad en lead medico completo",
+      "leadProblem": "Zapata Velasquez comunica cirugia plastica y medicina estetica desde una web propia. La fuga probable esta entre inspiracion y valoracion: el prospecto pregunta por WhatsApp sin indicar procedimiento, expectativas, antecedentes, ciudad, presupuesto referencial o disponibilidad.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor que separe cirugia, medicina estetica y dudas de valoracion. El sistema captura contexto comercial y clinico basico para que el equipo responda rapido y priorice mejor.",
+      "proofLine": "Lectura publica del 6 de julio de 2026: zapatavelasquez.com muestra especialidades de cirugia plastica y medicina estetica, CTA de solicitar valoracion, contacto en Pereira e Instagram/WhatsApp; busqueda publica identifica Instagram @vyzcirugiaestetica.",
+      "audience": "Pacientes en Pereira, Risaralda y zonas cercanas interesados en cirugia plastica o medicina estetica con acompanamiento profesional.",
+      "adAngle": "Belleza natural + valoracion guiada + confianza medica",
+      "whatsappCta": "Quiero ordenar mejor las valoraciones",
+      "heroCopy": "Cuando una clinica ofrece cirugia y medicina estetica, cada lead debe llegar clasificado: no todo interesado esta listo para el mismo siguiente paso.",
+      "brandWorldTitle": "De deseo estetico a valoracion con contexto",
+      "diagnosisTitle": "Fugas entre interes y agenda",
+      "botAgentName": "Asesor V&Z demo",
+      "botAgentRole": "separa cirugia, estetica y valoracion",
+      "botTitle": "Asesor para valoraciones",
+      "botIntro": "El demo organiza procedimiento, objetivo, ciudad, etapa y disponibilidad antes de WhatsApp.",
+      "botOpening": "Hola, soy el asesor demo para Zapata Velasquez. Puedo ayudarte a identificar si buscas cirugia, medicina estetica o una valoracion inicial, y dejar el contacto listo.",
+      "botPrompts": [
+        "Cirugia",
+        "Medicina estetica",
+        "Valoracion",
+        "Estoy comparando",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cirugia",
+            "procedimiento"
+          ],
+          "answer": "Pregunta procedimiento de interes, objetivo, ciudad, etapa de decision y si ya tuvo valoracion previa para priorizar el seguimiento."
+        },
+        {
+          "keywords": [
+            "botox",
+            "acido",
+            "medicina",
+            "estetica"
+          ],
+          "answer": "Clasifica tratamiento, zona de interes, fecha deseada y dudas para agenda de medicina estetica."
+        },
+        {
+          "keywords": [
+            "comparando",
+            "precio",
+            "costo"
+          ],
+          "answer": "Responde que el costo depende de valoracion y captura lo necesario para que el equipo explique opciones sin perder el lead."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide especialidad, procedimiento, etapa de decision, citas solicitadas, citas agendadas y seguimiento pendiente."
+        }
+      ],
+      "findings": [
+        "La web tiene CTA de valoracion y paginas de especialidades.",
+        "La oferta mezcla procedimientos quirurgicos y no quirurgicos.",
+        "El lead necesita una ruta distinta segun riesgo, urgencia y tipo de tratamiento."
+      ],
+      "siteIssues": [
+        "El CTA deberia clasificar cirugia vs medicina estetica antes del contacto.",
+        "Las dudas de precio deben convertirse en valoracion, no en cierre frio.",
+        "La medicion debe mostrar que procedimiento genera citas reales."
+      ],
+      "losses": [
+        "Interesados con alta intencion pueden quedarse esperando una respuesta personalizada.",
+        "Mensajes incompletos obligan al equipo a repetir preguntas basicas.",
+        "La pauta puede optimizar a clics sin saber quien agenda."
+      ],
+      "heatmapData": [
+        "Clics por especialidad, solicitar valoracion, WhatsApp y contacto.",
+        "Abandono por pagina de procedimiento.",
+        "Tratamientos con mas solicitudes completas."
+      ],
+      "campaigns": [
+        "Campanas por procedimiento con ruta de valoracion.",
+        "Remarketing a visitantes de especialidades sin solicitud.",
+        "Secuencia educativa para leads que estan comparando."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para web actual y CTA de valoracion.",
+        "Asesor digital para procedimiento, etapa, disponibilidad y seguimiento.",
+        "Panel por especialidad, fuente, cita solicitada y estado comercial."
+      ],
+      "sources": [
+        "https://zapatavelasquez.com/",
+        "https://zapatavelasquez.com/medicina-estetica/",
+        "https://www.instagram.com/vyzcirugiaestetica/"
+      ]
+    },
+    {
+      "slug": "dentali-clinicas-medellin",
+      "company": "Dentali Clinicas",
+      "instagram": "@dentali_clinicas",
+      "website": "https://www.dentali.com.co/",
+      "sector": "clinica odontologica general y especializada",
+      "city": "Medellin e Itagui",
+      "tone": "confiable, humano y accesible",
+      "theme": "default",
+      "accent": "#21A8D8",
+      "secondary": "#7CE0C3",
+      "status": "Web activa + agenda/WhatsApp; oportunidad en triage odontologico",
+      "leadProblem": "Dentali tiene web, servicios, agenda y WhatsApp. El problema comercial aparece cuando el paciente no sabe si necesita ortodoncia, diseno de sonrisa, implante, blanqueamiento o revision general, y escribe con una duda amplia que requiere clasificacion manual.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor odontologico de triage comercial: motivo de consulta, sede, urgencia, tratamiento de interes, disponibilidad y etapa de decision. Asi la agenda recibe pacientes mejor filtrados.",
+      "proofLine": "Lectura publica del 6 de julio de 2026: dentali.com.co muestra servicios como ortodoncia, blanqueamiento, diseno de sonrisa, carillas, protesis, implantes, odontopediatria y radiologia, ademas de agenda/WhatsApp; busqueda publica identifica Instagram @dentali_clinicas.",
+      "audience": "Pacientes de Medellin e Itagui que buscan tratamientos odontologicos accesibles, especializados y con agenda clara.",
+      "adAngle": "Duda dental + diagnostico inicial guiado + cita rapida",
+      "whatsappCta": "Quiero agendar pacientes mejor filtrados",
+      "heroCopy": "Una clinica con muchas especialidades necesita convertir preguntas amplias en citas claras, con motivo, sede y tratamiento probable.",
+      "brandWorldTitle": "De duda dental a cita con contexto",
+      "diagnosisTitle": "Fugas en agenda odontologica",
+      "botAgentName": "Asesor Dentali demo",
+      "botAgentRole": "clasifica tratamiento, sede y urgencia",
+      "botTitle": "Asesor para citas odontologicas",
+      "botIntro": "El demo ayuda a ubicar motivo de consulta, tratamiento y disponibilidad antes de WhatsApp.",
+      "botOpening": "Hola, soy el asesor demo para Dentali. Puedo ayudarte a clasificar si buscas ortodoncia, diseno de sonrisa, implantes, limpieza, urgencia o revision inicial.",
+      "botPrompts": [
+        "Ortodoncia",
+        "Diseno de sonrisa",
+        "Implantes",
+        "Urgencia",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "ortodoncia",
+            "brackets",
+            "alineadores"
+          ],
+          "answer": "Pregunta edad, si ya tuvo valoracion, objetivo, sede preferida y disponibilidad para orientar la cita inicial."
+        },
+        {
+          "keywords": [
+            "diseno",
+            "sonrisa",
+            "carillas",
+            "blanqueamiento"
+          ],
+          "answer": "Clasifica objetivo estetico, tratamiento de interes, si tiene fotos/referencia y cuando quiere iniciar."
+        },
+        {
+          "keywords": [
+            "implante",
+            "protesis",
+            "muela"
+          ],
+          "answer": "Pide motivo, tiempo de perdida dental, dolor, radiografia disponible y disponibilidad para valoracion especializada."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide servicio, sede, urgencia, clic a WhatsApp, cita solicitada, cita confirmada y leads por seguimiento."
+        }
+      ],
+      "findings": [
+        "La web presenta multiples especialidades y agenda.",
+        "El paciente puede llegar con dudas generales, esteticas o urgentes.",
+        "El equipo necesita motivo, sede y disponibilidad desde el primer contacto."
+      ],
+      "siteIssues": [
+        "La agenda deberia clasificar tratamiento antes de abrir WhatsApp.",
+        "Las paginas de servicio necesitan CTA con preguntas especificas.",
+        "La pauta debe distinguir servicio consultado y cita confirmada."
+      ],
+      "losses": [
+        "Pacientes interesados comparan clinicas y se van con quien responde mas claro.",
+        "WhatsApp consume tiempo con preguntas repetidas de sede y motivo.",
+        "La pauta puede traer contactos sin saber que tratamiento querian."
+      ],
+      "heatmapData": [
+        "Clics por servicio, agenda, WhatsApp y sedes.",
+        "Abandono antes de escoger tratamiento o sede.",
+        "Servicios con mejor tasa de cita confirmada."
+      ],
+      "campaigns": [
+        "Campanas por servicio: ortodoncia, estetica dental, implantes y urgencias.",
+        "Remarketing a visitantes de tratamiento sin cita.",
+        "Seguimiento automatizado a pacientes que pidieron info pero no agendaron."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para web actual y agenda.",
+        "Asesor digital para tratamiento, sede, urgencia, disponibilidad y seguimiento.",
+        "Panel de citas por servicio, fuente, sede y estado."
+      ],
+      "sources": [
+        "https://www.dentali.com.co/",
+        "https://www.instagram.com/dentali_clinicas/"
+      ]
+    },
+    {
+      "slug": "eteka-beach-cartagena",
+      "company": "Eteka Slow Beach Hotel",
+      "instagram": "@etekabeachcartagena",
+      "website": "https://etekacartagena.com/",
+      "sector": "hotel boutique, beach club, spa y eventos",
+      "city": "Cartagena - Tierra Bomba",
+      "tone": "exclusivo, caribeno y experiencial",
+      "theme": "default",
+      "accent": "#17B7A7",
+      "secondary": "#F2C46D",
+      "status": "Web activa + reservas; oportunidad en experiencias separadas",
+      "leadProblem": "Eteka combina hotel boutique, beach club, spa, pasadias y eventos privados. Cuando todo entra por la misma ruta, el usuario puede no saber si debe reservar habitacion, mesa, pasadia, spa o cotizar evento, y el equipo recibe solicitudes incompletas.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor que separe intencion: hospedaje, pasadia, restaurante/mesa, spa o evento. Cada ruta captura fecha, numero de personas, presupuesto aproximado y necesidad antes de WhatsApp/reserva.",
+      "proofLine": "Lectura publica del 6 de julio de 2026: etekacartagena.com describe un hotel boutique 5 estrellas con 10 habitaciones, spa, beach club, pasadias y venue para eventos privados a 10 minutos de Cartagena; busqueda publica identifica Instagram @etekabeachcartagena con WhatsApp y reservas.",
+      "audience": "Viajeros, parejas, grupos y empresas que buscan experiencia premium en Tierra Bomba, Cartagena.",
+      "adAngle": "Experiencia exclusiva + fecha clara + reserva guiada",
+      "whatsappCta": "Quiero convertir mas reservas y eventos",
+      "heroCopy": "Un lugar con varias experiencias necesita que el visitante elija rapido: hospedarse, pasar el dia, reservar mesa, tomar spa o cotizar evento.",
+      "brandWorldTitle": "De inspiracion caribena a reserva concreta",
+      "diagnosisTitle": "Fugas en reservas por experiencia",
+      "botAgentName": "Concierge Eteka demo",
+      "botAgentRole": "filtra experiencia, fecha y grupo",
+      "botTitle": "Concierge para reservas",
+      "botIntro": "El demo separa hospedaje, pasadia, mesa, spa y eventos antes de enviar a ventas.",
+      "botOpening": "Hola, soy el concierge demo para Eteka. Puedo ayudarte a elegir entre hotel, beach club, spa, restaurante o evento y dejar tu solicitud completa.",
+      "botPrompts": [
+        "Hospedaje",
+        "Pasadia",
+        "Mesa o restaurante",
+        "Evento privado",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "hotel",
+            "habitacion",
+            "hospedaje"
+          ],
+          "answer": "Pregunta fechas, numero de personas, tipo de viaje y necesidades especiales para dirigir a reserva."
+        },
+        {
+          "keywords": [
+            "pasadia",
+            "beach",
+            "club",
+            "mesa"
+          ],
+          "answer": "Clasifica fecha, numero de personas, horario, si requiere mesa/restaurante y datos para confirmacion."
+        },
+        {
+          "keywords": [
+            "evento",
+            "boda",
+            "empresa",
+            "privado"
+          ],
+          "answer": "Pide fecha tentativa, numero de invitados, tipo de evento, presupuesto y datos del responsable."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide experiencia consultada, fecha, grupo, solicitud completa, reserva iniciada y seguimiento por tipo de cliente."
+        }
+      ],
+      "findings": [
+        "La web comunica varias lineas de experiencia en un mismo destino.",
+        "Las reservas de hotel, pasadia y evento necesitan preguntas distintas.",
+        "Instagram genera deseo visual que debe aterrizar en fecha y disponibilidad."
+      ],
+      "siteIssues": [
+        "El CTA deberia separar experiencia antes de WhatsApp o motor de reserva.",
+        "Eventos privados necesitan formulario corto de cotizacion.",
+        "La data debe mostrar que experiencia trae mas ingreso por canal."
+      ],
+      "losses": [
+        "Solicitudes sin fecha o numero de personas retrasan la respuesta.",
+        "Visitantes inspirados por Instagram pueden no encontrar la ruta correcta.",
+        "Pauta de destino puede mezclar pasadias economicas con eventos de alto valor."
+      ],
+      "heatmapData": [
+        "Clics por hotel, beach club, spa, eventos, reserva y WhatsApp.",
+        "Abandono antes de seleccionar fecha o experiencia.",
+        "Experiencias con mayor tasa de solicitud completa."
+      ],
+      "campaigns": [
+        "Campanas separadas por hospedaje, pasadia y eventos.",
+        "Remarketing a visitantes que vieron habitaciones o eventos sin reservar.",
+        "Secuencias de seguimiento por fecha tentativa."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para web actual y rutas de reserva.",
+        "Concierge digital para experiencia, fecha, personas, presupuesto y seguimiento.",
+        "Panel de solicitudes por experiencia, fuente, fecha y estado."
+      ],
+      "sources": [
+        "https://etekacartagena.com/",
+        "https://www.instagram.com/etekabeachcartagena/"
+      ]
+    },
+    {
+      "slug": "ducon-mobiliario-corporativo",
+      "company": "DUCON",
+      "instagram": "@ducon_sas",
+      "website": "https://www.ducon.com.co/",
+      "sector": "mobiliario corporativo y sistemas modulares para oficina",
+      "city": "Bogota, Medellin y Barranquilla",
+      "tone": "B2B, tecnico y consultivo",
+      "theme": "default",
+      "accent": "#E13D3D",
+      "secondary": "#A7B0B8",
+      "status": "Web activa B2B + sedes; oportunidad en cotizacion consultiva",
+      "leadProblem": "DUCON vende soluciones corporativas que requieren contexto: ciudad, metraje, tipo de espacio, cantidad de puestos, tiempos, presupuesto y si hay planos. Un formulario generico o WhatsApp sin filtro puede convertir una oportunidad grande en una conversacion lenta.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor B2B que clasifique oficina, sala, sillas, divisiones o proyecto integral. El equipo recibe una ficha de cotizacion con datos utiles para responder rapido.",
+      "proofLine": "Lectura publica del 6 de julio de 2026: ducon.com.co presenta empresa colombiana con 37 anos de experiencia en diseno, produccion, suministro e instalacion de sistemas modulares para oficina; muestra categorias, sedes y WhatsApp. Busqueda publica identifica Instagram @ducon_sas.",
+      "audience": "Empresas, arquitectos, facilities, constructoras y equipos administrativos que necesitan dotar o transformar oficinas.",
+      "adAngle": "Proyecto corporativo + cotizacion guiada + respuesta con especificaciones",
+      "whatsappCta": "Quiero mejorar la captura de proyectos B2B",
+      "heroCopy": "En mobiliario corporativo el lead vale mas cuando llega con ciudad, alcance, cantidad, tiempos y documentos disponibles.",
+      "brandWorldTitle": "De visita web a brief de proyecto",
+      "diagnosisTitle": "Fugas en cotizacion B2B",
+      "botAgentName": "Asesor DUCON demo",
+      "botAgentRole": "arma brief de proyecto corporativo",
+      "botTitle": "Asesor para cotizaciones B2B",
+      "botIntro": "El demo clasifica tipo de proyecto, ciudad, metraje, cantidades y tiempos.",
+      "botOpening": "Hola, soy el asesor demo para DUCON. Puedo ayudarte a estructurar una solicitud de mobiliario corporativo con ciudad, alcance, cantidades y tiempos.",
+      "botPrompts": [
+        "Puestos de trabajo",
+        "Sillas",
+        "Divisiones",
+        "Proyecto integral",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "puestos",
+            "oficina",
+            "trabajo"
+          ],
+          "answer": "Pide ciudad, numero de puestos, medidas aproximadas, si hay planos, fecha objetivo y responsable de compra."
+        },
+        {
+          "keywords": [
+            "sillas",
+            "ergonomicas",
+            "ergonomica"
+          ],
+          "answer": "Clasifica cantidad, tipo de usuario, ciudad, rango de entrega y si requiere muestra o asesoria."
+        },
+        {
+          "keywords": [
+            "divisiones",
+            "modulares",
+            "proyecto"
+          ],
+          "answer": "Solicita alcance, planos/fotos, metraje, ciudad, tiempos y criterios tecnicos para preparar cotizacion."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide categoria, ciudad, tamano del proyecto, archivos recibidos, cotizaciones enviadas y cierre por fuente."
+        }
+      ],
+      "findings": [
+        "La web comunica trayectoria, categorias y sedes.",
+        "Las solicitudes B2B necesitan informacion tecnica antes de cotizar.",
+        "Instagram muestra proyectos y showroom que pueden activar demanda consultiva."
+      ],
+      "siteIssues": [
+        "El contacto debe pedir ciudad, alcance, cantidad y tiempos.",
+        "Las categorias deberian conectar con formularios de brief distintos.",
+        "La medicion debe separar leads pequenos de proyectos corporativos."
+      ],
+      "losses": [
+        "Proyectos grandes se retrasan si el brief llega incompleto.",
+        "El equipo comercial invierte tiempo calificando manualmente.",
+        "La pauta puede atraer consultas de bajo ajuste sin diferenciar ticket."
+      ],
+      "heatmapData": [
+        "Clics por categoria, sedes, WhatsApp, contacto y proyectos.",
+        "Abandono antes de enviar datos tecnicos.",
+        "Proyectos por ciudad, tamano y fuente."
+      ],
+      "campaigns": [
+        "Campanas B2B por categoria y ciudad.",
+        "Remarketing a visitantes de proyectos/salas sin cotizar.",
+        "Anuncios para arquitectos y empresas con brief guiado."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para web actual y contacto B2B.",
+        "Asesor digital para ciudad, alcance, cantidades, tiempos y archivos.",
+        "Panel de oportunidades por categoria, ciudad, tamano y estado."
+      ],
+      "sources": [
+        "https://www.ducon.com.co/",
+        "https://www.ducon.com.co/contactenos",
+        "https://www.instagram.com/ducon_sas/"
+      ]
+    },
+    {
+      "slug": "barthon-hogar-bogota",
+      "company": "Barthon Hogar",
+      "instagram": "@barthon_hogar",
+      "website": "https://www.barthon.com.co/",
+      "sector": "muebles y accesorios para el hogar",
+      "city": "Bogota y Bucaramanga",
+      "tone": "hogar, asesor y comercial",
+      "theme": "default",
+      "accent": "#6C4B3D",
+      "secondary": "#E2B36A",
+      "status": "Web activa + tiendas; oportunidad en asesoria por espacio",
+      "leadProblem": "Barthon tiene web, tiendas e Instagram con asesoria virtual. La fuga probable esta en que el cliente ve sofas, comedores o accesorios, pero no deja medidas, ciudad, estilo, presupuesto ni fecha de compra antes de hablar por WhatsApp.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor por espacio: sala, comedor, habitacion, sofa cama o accesorios. El sistema captura medidas, ciudad, estilo y presupuesto para que ventas recomiende opciones concretas.",
+      "proofLine": "Lectura publica del 6 de julio de 2026: barthon.com.co presenta muebles para hogar, tiendas en Bogota y Bucaramanga, horarios/contactos e Instagram; busqueda publica identifica @barthon_hogar con asesoria virtual y envios nacionales.",
+      "audience": "Personas y familias que quieren comprar muebles para sala, comedor, habitacion o accesorios con asesoria antes de visitar tienda o comprar.",
+      "adAngle": "Espacio de la casa + asesoria virtual + WhatsApp con medidas",
+      "whatsappCta": "Quiero convertir mas asesorias en ventas",
+      "heroCopy": "En muebles, el cliente no compra solo una referencia: compra una solucion para un espacio, con medidas, estilo y presupuesto.",
+      "brandWorldTitle": "De inspiracion de hogar a asesoria vendible",
+      "diagnosisTitle": "Fugas en asesoria de muebles",
+      "botAgentName": "Asesor Barthon demo",
+      "botAgentRole": "filtra espacio, medidas y ciudad",
+      "botTitle": "Asesor para muebles por espacio",
+      "botIntro": "El demo pide ambiente, medidas, ciudad, estilo y presupuesto antes de WhatsApp.",
+      "botOpening": "Hola, soy el asesor demo para Barthon. Puedo ayudarte a elegir ruta para sala, comedor, habitacion, sofa cama o accesorios con medidas y estilo.",
+      "botPrompts": [
+        "Sala",
+        "Comedor",
+        "Sofa cama",
+        "Tienda o envio",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sala",
+            "sofa",
+            "mueble"
+          ],
+          "answer": "Pregunta medidas del espacio, ciudad, color/estilo, numero de puestos, presupuesto y si quiere visita a tienda o asesoria virtual."
+        },
+        {
+          "keywords": [
+            "comedor",
+            "mesa",
+            "sillas"
+          ],
+          "answer": "Clasifica numero de puestos, material deseado, medidas, ciudad y fecha tentativa de compra."
+        },
+        {
+          "keywords": [
+            "envio",
+            "tienda",
+            "bogota",
+            "bucaramanga"
+          ],
+          "answer": "Valida ciudad, sede cercana, disponibilidad de visita y si requiere envio nacional."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ambiente, ciudad, presupuesto, cita/asesoria, clic a WhatsApp y ventas por categoria."
+        }
+      ],
+      "findings": [
+        "La web muestra marca, tiendas y contacto.",
+        "Instagram refuerza asesoria virtual y alcance nacional.",
+        "El cliente necesita convertir inspiracion visual en seleccion por medidas."
+      ],
+      "siteIssues": [
+        "WhatsApp deberia recibir espacio, medidas, ciudad y presupuesto.",
+        "Las categorias deben activar preguntas especificas por ambiente.",
+        "La pauta debe distinguir inspiracion, asesoria y compra cercana."
+      ],
+      "losses": [
+        "Clientes preguntan por productos sin entregar datos para recomendar.",
+        "Asesores repiten preguntas sobre medidas y disponibilidad.",
+        "La pauta genera clics de decoracion sin saber quienes estan listos para comprar."
+      ],
+      "heatmapData": [
+        "Clics por salas, comedores, habitaciones, tiendas y WhatsApp.",
+        "Abandono antes de dejar medidas o ciudad.",
+        "Ambientes con mas asesorias completas."
+      ],
+      "campaigns": [
+        "Campanas por ambiente con asesoria virtual.",
+        "Remarketing a visitantes de categoria sin WhatsApp.",
+        "Anuncios locales para visitar tienda con cita o producto prefiltrado."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para web actual y asesoria virtual.",
+        "Asesor digital para ambiente, medidas, ciudad, presupuesto y seguimiento.",
+        "Panel de leads por categoria, tienda, presupuesto y estado."
+      ],
+      "sources": [
+        "https://www.barthon.com.co/",
+        "https://www.barthon.com.co/nuestras-tiendas",
+        "https://www.instagram.com/barthon_hogar/"
+      ]
+    },
+    {
+      "slug": "sabba-colombia-bogota",
+      "company": "SABBA Colombia",
+      "instagram": "@sabbacolom",
+      "website": "https://www.sabba.com.co/",
+      "sector": "muebles, diseno interior y fabricacion colombiana",
+      "city": "Bogota",
+      "tone": "diseño, personalizado y consultivo",
+      "theme": "default",
+      "accent": "#3C5C4A",
+      "secondary": "#D7B56D",
+      "status": "Web activa + showroom; oportunidad en brief de diseno",
+      "leadProblem": "SABBA comunica muebles, diseno, fabricacion colombiana y showroom. La fuga esta en que el cliente interesado en muebles o interiorismo puede llegar sin medidas, fotos, estilo, ambiente, presupuesto ni claridad entre comprar producto o contratar asesoria.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor que separe producto, ambiente y proyecto de diseno. Captura medidas, fotos, estilo y rango para que el equipo responda con opciones o agende visita.",
+      "proofLine": "Lectura publica del 6 de julio de 2026: sabba.com.co muestra productos, diseno, contacto, direccion en Bogota, telefono, email y redes; busqueda publica identifica Instagram @sabbacolom con diseno de interiores, fabricacion colombiana y showroom.",
+      "audience": "Clientes de Bogota que buscan muebles personalizados, ambientacion o apoyo de diseno para hogares y espacios comerciales.",
+      "adAngle": "Mueble a medida + brief de espacio + asesoria de diseno",
+      "whatsappCta": "Quiero convertir mas proyectos de diseno",
+      "heroCopy": "Cuando la promesa es diseno y fabricacion, la conversion depende de transformar gusto visual en brief: ambiente, medidas, fotos y presupuesto.",
+      "brandWorldTitle": "De inspiracion a proyecto de interiorismo",
+      "diagnosisTitle": "Fugas en venta consultiva de muebles",
+      "botAgentName": "Asesor SABBA demo",
+      "botAgentRole": "arma brief de ambiente y diseno",
+      "botTitle": "Asesor para muebles y diseno",
+      "botIntro": "El demo clasifica producto, ambiente, medidas, estilo y etapa del proyecto.",
+      "botOpening": "Hola, soy el asesor demo para SABBA. Puedo ayudarte a estructurar un brief para mueble, ambiente social, comedor, dormitorio, exterior o proyecto comercial.",
+      "botPrompts": [
+        "Sala",
+        "Comedor",
+        "Diseno interior",
+        "Proyecto comercial",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sala",
+            "ambiente",
+            "social"
+          ],
+          "answer": "Pregunta medidas, fotos del espacio, estilo deseado, numero de puestos, fecha y presupuesto aproximado."
+        },
+        {
+          "keywords": [
+            "diseno",
+            "interior",
+            "asesoria"
+          ],
+          "answer": "Clasifica si necesita seleccion de muebles, renders, gestion de proyecto o visita de showroom."
+        },
+        {
+          "keywords": [
+            "comercial",
+            "oficina",
+            "proyecto"
+          ],
+          "answer": "Pide tipo de espacio, ciudad, metraje, uso, tiempos y responsable para crear oportunidad consultiva."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ambiente, tipo de proyecto, presupuesto, cita solicitada, brief completo y cierre por fuente."
+        }
+      ],
+      "findings": [
+        "La web separa productos y servicio de diseno.",
+        "La marca tiene showroom y fabricacion colombiana como argumentos comerciales.",
+        "Los proyectos necesitan brief antes de cotizar o recomendar."
+      ],
+      "siteIssues": [
+        "El contacto debe separar compra de producto vs proyecto de diseno.",
+        "La web deberia pedir fotos/medidas para oportunidades de alto valor.",
+        "La pauta necesita medir citas y briefs completos, no solo clics."
+      ],
+      "losses": [
+        "Interesados por Instagram pueden no dejar informacion suficiente.",
+        "El equipo pierde tiempo descubriendo medidas y estilo desde cero.",
+        "Proyectos comerciales y residenciales quedan mezclados en el mismo canal."
+      ],
+      "heatmapData": [
+        "Clics por productos, diseno, contacto, showroom e Instagram.",
+        "Abandono antes de enviar brief.",
+        "Ambientes con mejor intencion comercial."
+      ],
+      "campaigns": [
+        "Campanas por ambiente y diseno personalizado.",
+        "Remarketing a visitantes de diseno sin brief.",
+        "Anuncios para cita en showroom con datos previos."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para web actual y showroom.",
+        "Asesor digital para ambiente, medidas, fotos, estilo, presupuesto y seguimiento.",
+        "Panel de oportunidades por ambiente, tipo de proyecto, cita y estado."
+      ],
+      "sources": [
+        "https://www.sabba.com.co/",
+        "https://www.sabba.com.co/diseno",
+        "https://www.instagram.com/sabbacolom/"
+      ]
+    },
+    {
+      "slug": "beralia-joyeria-bogota",
+      "company": "Beralia Joyeria",
+      "instagram": "@beraliajoyeria",
+      "website": "https://beraliajoyeria.com/",
+      "sector": "joyeria con esmeraldas colombianas y ecommerce",
+      "city": "Bogota",
+      "tone": "lujo accesible, confiable y comercial",
+      "theme": "default",
+      "accent": "#008B5B",
+      "secondary": "#D8B65A",
+      "status": "Ecommerce activo; oportunidad en confianza y compra asistida",
+      "leadProblem": "Beralia vende joyas en ecommerce con esmeraldas colombianas, oro, plata y pago contraentrega. En joyeria, la fuga esta en confianza: autenticidad, talla, material, garantia, envio, regalo, presupuesto y dudas antes de pagar.",
+      "opportunity": "Mejorar la conversion de la tienda actual con un asesor de compra asistida que filtre ocasion, presupuesto, material, talla, ciudad/envio y nivel de urgencia. El sistema ayuda a elegir pieza y recupera interesados que no compran.",
+      "proofLine": "Lectura publica del 6 de julio de 2026: beraliajoyeria.com presenta joyeria con plata, oro laminado, oro 18K y esmeraldas colombianas, catalogo con precios, garantia de autenticidad, pago contraentrega y sede/respaldo; busqueda publica identifica Instagram @beraliajoyeria.",
+      "audience": "Compradores en Colombia que buscan joyas con esmeraldas para regalo, uso personal o compra con respaldo y confianza.",
+      "adAngle": "Esmeralda autentica + regalo guiado + confianza antes de pagar",
+      "whatsappCta": "Quiero convertir mas carritos de joyeria",
+      "heroCopy": "En joyeria, el detalle se vende mejor cuando la persona resuelve autenticidad, ocasion, presupuesto y entrega antes de abandonar el carrito.",
+      "brandWorldTitle": "De catalogo de joyas a compra con confianza",
+      "diagnosisTitle": "Fugas en ecommerce de alto valor emocional",
+      "botAgentName": "Asesor Beralia demo",
+      "botAgentRole": "filtra ocasion, material y presupuesto",
+      "botTitle": "Asesor para compra de joyas",
+      "botIntro": "El demo ayuda a elegir pieza, material, ocasion y entrega antes de WhatsApp o checkout.",
+      "botOpening": "Hola, soy el asesor demo para Beralia. Puedo ayudarte a escoger joya segun ocasion, presupuesto, material, talla, ciudad y nivel de urgencia.",
+      "botPrompts": [
+        "Regalo",
+        "Esmeralda",
+        "Oro 18K",
+        "Envio y garantia",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "regalo",
+            "cumpleanos",
+            "aniversario"
+          ],
+          "answer": "Pregunta ocasion, presupuesto, fecha de entrega, estilo de la persona y ciudad para recomendar piezas concretas."
+        },
+        {
+          "keywords": [
+            "esmeralda",
+            "autenticidad",
+            "garantia"
+          ],
+          "answer": "Explica que la compra debe resolver origen, certificado/garantia y cuidado, y pasa al equipo con la pieza de interes."
+        },
+        {
+          "keywords": [
+            "envio",
+            "pago",
+            "contraentrega"
+          ],
+          "answer": "Valida ciudad, fecha limite, metodo de pago preferido y si requiere empaque de regalo."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide producto visto, ocasion, presupuesto, carrito, WhatsApp, recuperacion y compra por fuente."
+        }
+      ],
+      "findings": [
+        "La tienda tiene productos, precios y argumentos de confianza.",
+        "La decision combina emocion, autenticidad, garantia y entrega.",
+        "El asesor puede reducir abandono en productos de mayor valor."
+      ],
+      "siteIssues": [
+        "El chat debe saber que producto y presupuesto vio la persona.",
+        "Las dudas de autenticidad y envio deben estar conectadas al checkout.",
+        "El remarketing deberia separar regalo urgente, comparacion y carrito abandonado."
+      ],
+      "losses": [
+        "Compradores abandonan si no sienten confianza suficiente.",
+        "Regalos con fecha limite se pierden si la respuesta tarda.",
+        "La pauta no distingue quien busca regalo barato vs joya premium."
+      ],
+      "heatmapData": [
+        "Clics por producto, material, garantia, pago, envio y WhatsApp.",
+        "Abandono por carrito o producto de alto valor.",
+        "Ocasiones con mayor conversion."
+      ],
+      "campaigns": [
+        "Campanas por ocasion: regalo, aniversario, grados y amor.",
+        "Remarketing a producto/carrito sin compra.",
+        "Anuncios de confianza: autenticidad, garantia, entrega y pago."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para ecommerce actual.",
+        "Asesor digital para ocasion, producto, presupuesto, envio, garantia y seguimiento.",
+        "Panel de carritos, productos, fuente, recuperacion y compra."
+      ],
+      "sources": [
+        "https://beraliajoyeria.com/",
+        "https://www.instagram.com/beraliajoyeria/"
+      ]
+    },
+    {
+      "slug": "flores-y-co-bogota",
+      "company": "Flores & Co",
+      "instagram": "@flores_y_co",
+      "website": "https://floresyco.com/",
+      "sector": "floristeria online y domicilios",
+      "city": "Bogota y municipios cercanos",
+      "tone": "premium, rapido y emocional",
+      "theme": "default",
+      "accent": "#E85B93",
+      "secondary": "#77BFA3",
+      "status": "Ecommerce activo + entregas rapidas; oportunidad en pedido por ocasion",
+      "leadProblem": "Flores & Co tiene tienda online, catalogo, envios en Bogota y alrededores, y promesa de entrega el mismo dia. La fuga esta en pedidos con ocasion, hora, direccion, dedicatoria, presupuesto o cobertura incompletos.",
+      "opportunity": "Mejorar la conversion de la tienda actual con un asesor por ocasion: cumpleanos, aniversario, condolencias, romance, empresa o envio internacional. WhatsApp y checkout reciben mensaje, fecha, direccion y producto con menos friccion.",
+      "proofLine": "Lectura publica del 6 de julio de 2026: floresyco.com ofrece envio de flores a domicilio en Bogota y municipios cercanos, catalogo, entrega el mismo dia, WhatsApp/contacto, direccion y FAQs; busqueda publica identifica Instagram @flores_y_co.",
+      "audience": "Personas en Colombia o en el exterior que quieren enviar flores premium en Bogota, Chia, Cota, Cajica y zonas cercanas.",
+      "adAngle": "Ocasion emocional + entrega rapida + pedido completo",
+      "whatsappCta": "Quiero recuperar mas pedidos de flores",
+      "heroCopy": "En flores, el cliente compra una ocasion con reloj: producto, dedicatoria, direccion y hora deben quedar listos en minutos.",
+      "brandWorldTitle": "De detalle emocional a pedido entregable",
+      "diagnosisTitle": "Fugas en pedidos de floristeria",
+      "botAgentName": "Asesor Flores & Co demo",
+      "botAgentRole": "filtra ocasion, entrega y dedicatoria",
+      "botTitle": "Asesor para pedidos florales",
+      "botIntro": "El demo arma el pedido con ocasion, fecha, direccion, producto y mensaje.",
+      "botOpening": "Hola, soy el asesor demo para Flores & Co. Puedo ayudarte a escoger flores por ocasion, presupuesto, fecha, direccion y dedicatoria.",
+      "botPrompts": [
+        "Cumpleanos",
+        "Aniversario",
+        "Condolencias",
+        "Entrega hoy",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cumpleanos",
+            "cumpleaños",
+            "regalo"
+          ],
+          "answer": "Pregunta presupuesto, estilo, fecha/hora, direccion, nombre del destinatario y mensaje para armar el pedido."
+        },
+        {
+          "keywords": [
+            "condolencias",
+            "funebre",
+            "funeral"
+          ],
+          "answer": "Clasifica tipo de arreglo, lugar de entrega, horario, mensaje y datos del remitente con cuidado."
+        },
+        {
+          "keywords": [
+            "hoy",
+            "rapido",
+            "entrega"
+          ],
+          "answer": "Valida zona de cobertura, hora limite, producto disponible y datos completos antes de enviar a WhatsApp/checkout."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ocasion, zona, producto, hora, carrito, WhatsApp, abandono y pedido completado."
+        }
+      ],
+      "findings": [
+        "La web ya tiene catalogo, cobertura y promesa de entrega rapida.",
+        "El cliente puede comprar desde Bogota o desde el exterior para enviar localmente.",
+        "La ocasion define producto, tono del mensaje y urgencia."
+      ],
+      "siteIssues": [
+        "El pedido debe pedir ocasion, fecha, hora, direccion y dedicatoria.",
+        "WhatsApp debe recibir producto y datos de entrega desde el primer mensaje.",
+        "La medicion debe distinguir compra inmediata, programada e internacional."
+      ],
+      "losses": [
+        "Pedidos urgentes se pierden si falta direccion u hora.",
+        "Clientes desde el exterior necesitan mas confianza antes de pagar.",
+        "La pauta puede traer trafico de regalo sin saber ocasion ni zona."
+      ],
+      "heatmapData": [
+        "Clics por ocasion, producto, envio, WhatsApp y checkout.",
+        "Abandono antes de direccion, dedicatoria o pago.",
+        "Zonas y ocasiones con mas pedidos."
+      ],
+      "campaigns": [
+        "Campanas por ocasion y entrega el mismo dia.",
+        "Remarketing a carritos o productos vistos sin pedido.",
+        "Anuncios para compradores en el exterior que envian a Bogota."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para ecommerce actual.",
+        "Asesor digital para ocasion, producto, dedicatoria, direccion, hora y seguimiento.",
+        "Panel de pedidos por ocasion, zona, fuente y estado."
+      ],
+      "sources": [
+        "https://floresyco.com/",
+        "https://www.instagram.com/flores_y_co/"
+      ]
+    },
+    {
+      "slug": "floristeria-la-espiga-medellin",
+      "company": "Floristeria La Espiga",
+      "instagram": "@floristerialaespiga",
+      "sector": "floristeria, regalos sorpresa y eventos",
+      "city": "Medellin y Sabaneta",
+      "tone": "emocional, cercano y practico",
+      "theme": "default",
+      "accent": "#D94F7D",
+      "secondary": "#F4C44E",
+      "status": "Instagram activo sin web propia confiable visible",
+      "leadProblem": "Floristeria La Espiga muestra oferta en Instagram, domicilios y pedidos por enlace/WhatsApp, pero no se identifico una web propia confiable para ordenar catalogo, ocasiones, cobertura, horarios, dedicatorias y seguimiento de pedidos.",
+      "opportunity": "Crear una landing clara con catalogo por ocasion y asesor digital para convertir mensajes de Instagram en pedidos completos: producto, presupuesto, fecha, direccion, dedicatoria y metodo de pago. La pauta deja de depender solo del DM.",
+      "proofLine": "Lectura publica del 6 de julio de 2026: busqueda publica identifica Instagram @floristerialaespiga como floristeria de flores, regalos sorpresa y eventos con domicilios en Colombia/Medellin-Sabaneta y CTA de pedido; no se verifico web propia confiable en los resultados revisados.",
+      "audience": "Personas en Medellin y Sabaneta que quieren enviar flores, anchetas, desayunos o detalles para fechas especiales y eventos.",
+      "adAngle": "Detalle emocional + pedido guiado + WhatsApp completo",
+      "whatsappCta": "Quiero una landing que venda por ocasion",
+      "heroCopy": "Cuando la venta vive en Instagram, cada historia deberia llevar a una pagina simple que organice ocasion, presupuesto, entrega y mensaje.",
+      "brandWorldTitle": "De DM inspirado a pedido listo",
+      "diagnosisTitle": "Fugas por no tener centro digital propio",
+      "botAgentName": "Asesor La Espiga demo",
+      "botAgentRole": "arma pedido floral por ocasion",
+      "botTitle": "Asesor para pedidos y regalos",
+      "botIntro": "El demo convierte una idea de regalo en pedido con fecha, direccion y dedicatoria.",
+      "botOpening": "Hola, soy el asesor demo para Floristeria La Espiga. Puedo ayudarte a escoger detalle, presupuesto, fecha, direccion y dedicatoria para dejar el pedido listo.",
+      "botPrompts": [
+        "Cumpleanos",
+        "Amor",
+        "Ancheta",
+        "Evento",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cumpleanos",
+            "cumpleaños",
+            "regalo"
+          ],
+          "answer": "Pregunta presupuesto, estilo, fecha/hora, direccion, nombre del destinatario y mensaje para enviar a WhatsApp con contexto."
+        },
+        {
+          "keywords": [
+            "amor",
+            "aniversario",
+            "romance"
+          ],
+          "answer": "Clasifica ocasion, color preferido, tipo de arreglo, dedicatoria y urgencia de entrega."
+        },
+        {
+          "keywords": [
+            "ancheta",
+            "desayuno",
+            "evento"
+          ],
+          "answer": "Pide tipo de detalle, cantidad, fecha, zona de entrega, presupuesto y datos del comprador."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ocasion, presupuesto, zona, clic a WhatsApp, pedidos completos y mensajes pendientes por seguimiento."
+        }
+      ],
+      "findings": [
+        "Instagram comunica flores, regalos, eventos y domicilios.",
+        "No se verifico una pagina propia confiable para centralizar pedidos.",
+        "La landing permitiria ordenar catalogo, cobertura y datos de entrega."
+      ],
+      "siteIssues": [
+        "Hace falta pagina propia con catalogo por ocasion y CTA de WhatsApp.",
+        "Cada pedido deberia capturar fecha, zona, dedicatoria y presupuesto.",
+        "La pauta necesita una URL medible antes de enviar al chat."
+      ],
+      "losses": [
+        "Los DMs pueden llegar sin datos de entrega ni ocasion clara.",
+        "Historias y reels no acumulan data propia para remarketing.",
+        "El equipo repite preguntas de presupuesto, direccion y hora."
+      ],
+      "heatmapData": [
+        "Clics por ocasion, catalogo, WhatsApp y cobertura.",
+        "Pedidos iniciados vs pedidos con datos completos.",
+        "Ocasiones y presupuestos con mejor conversion."
+      ],
+      "campaigns": [
+        "Campanas por ocasion: cumpleanos, amor, condolencias y eventos.",
+        "Landing para anuncios desde Instagram con WhatsApp prellenado.",
+        "Remarketing a visitantes que eligieron ocasion sin escribir."
+      ],
+      "deliverables": [
+        "Landing propia con catalogo por ocasion, cobertura y pedido guiado.",
+        "Asesor digital para ocasion, presupuesto, fecha, direccion, dedicatoria y seguimiento.",
+        "Panel de pedidos por ocasion, zona, fuente y estado."
+      ],
+      "sources": [
+        "https://www.instagram.com/floristerialaespiga/"
+      ]
     }
   ]
 }
