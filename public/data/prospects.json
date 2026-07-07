@@ -23355,6 +23355,1028 @@
       "sources": [
         "https://www.instagram.com/floristerialaespiga/"
       ]
+    },
+    {
+      "slug": "diana-pulgarin-dental-group",
+      "company": "Diana Pulgarin Dental Group",
+      "instagram": "@dradianapulgarin",
+      "website": "https://www.dradianapulgarin.com/",
+      "sector": "odontologia estetica y diseno de sonrisa",
+      "city": "Medellin, Bogota, Pereira, Cali y Guatemala",
+      "tone": "clinico, aspiracional y premium",
+      "theme": "default",
+      "accent": "#C9A35B",
+      "secondary": "#F4EFE6",
+      "status": "Web activa con agenda; oportunidad en valoracion filtrada",
+      "leadProblem": "La clinica ya tiene web, servicios y agenda. La fuga probable esta antes de la valoracion: pacientes preguntan por carillas, resina, ceramica, sedes, tiempos, precio aproximado y confianza, pero no siempre llegan con expectativas y datos claros.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor que filtre sede, tratamiento deseado, fotos, disponibilidad, urgencia y presupuesto. Asi la valoracion llega con contexto y el equipo comercial prioriza pacientes reales.",
+      "proofLine": "Lectura publica del 7 de julio de 2026: dradianapulgarin.com presenta diseno de sonrisa, carillas, blanqueamiento, tecnologia, sedes en varias ciudades y CTA de agenda; busqueda publica identifica Instagram @dradianapulgarin.",
+      "audience": "Pacientes en Colombia y fuera del pais que quieren mejorar su sonrisa con valoracion clara, confianza clinica y agenda facil.",
+      "adAngle": "Sonrisa aspiracional + valoracion filtrada + agenda con contexto",
+      "whatsappCta": "Quiero convertir mas valoraciones en pacientes",
+      "heroCopy": "En odontologia estetica, la confianza se gana antes de la cita: expectativas, fotos, sede, tiempo disponible y dudas clinicas deben quedar claros.",
+      "brandWorldTitle": "De deseo de sonrisa a valoracion preparada",
+      "diagnosisTitle": "Fugas antes de agendar valoracion",
+      "botAgentName": "Asesor Diana Pulgarin demo",
+      "botAgentRole": "filtra tratamiento, sede y expectativa",
+      "botTitle": "Asesor para valoracion estetica",
+      "botIntro": "El demo organiza tratamiento, ciudad, fotos, disponibilidad y dudas antes de enviar a agenda.",
+      "botOpening": "Hola, soy el asesor demo para Diana Pulgarin Dental Group. Puedo ayudarte a identificar tratamiento, sede, tiempos, expectativas y datos para una valoracion mejor preparada.",
+      "botPrompts": [
+        "Carillas",
+        "Resina o ceramica",
+        "Sede y agenda",
+        "Paciente internacional",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "carillas",
+            "diseno",
+            "sonrisa"
+          ],
+          "answer": "Pregunta ciudad, tipo de cambio deseado, si ya tuvo tratamientos, fotos iniciales, disponibilidad para valoracion y expectativas de resultado natural."
+        },
+        {
+          "keywords": [
+            "resina",
+            "ceramica",
+            "porcelana"
+          ],
+          "answer": "Explica diferencias a nivel orientativo y deriva a valoracion clinica con contexto: objetivo, tiempo, presupuesto aproximado y sede preferida."
+        },
+        {
+          "keywords": [
+            "internacional",
+            "viaje",
+            "usa"
+          ],
+          "answer": "Clasifica pais de origen, fechas de viaje, tiempo disponible en Colombia, idioma y necesidad de coordinacion previa."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide tratamiento de interes, ciudad, fotos recibidas, valoracion agendada, fuente, objecion principal y seguimiento pendiente."
+        }
+      ],
+      "findings": [
+        "La web comunica tratamientos, sedes y agenda.",
+        "La decision exige confianza clinica, expectativas realistas y claridad de proceso.",
+        "El paciente puede necesitar educacion antes de solicitar una valoracion."
+      ],
+      "siteIssues": [
+        "La agenda deberia recibir tratamiento, sede, disponibilidad y expectativa desde el primer contacto.",
+        "WhatsApp necesita diferenciar curiosos de pacientes listos para valoracion.",
+        "La pauta debe medir valoraciones completas, no solo clics o mensajes."
+      ],
+      "losses": [
+        "Pacientes con interes real se enfrien si reciben respuestas genericas.",
+        "El equipo repite preguntas sobre ciudad, tratamiento y presupuesto.",
+        "Pacientes internacionales pueden abandonar si no entienden tiempos y preparacion."
+      ],
+      "heatmapData": [
+        "Clics por tratamiento, sedes, resultados, FAQ y agenda.",
+        "Abandono antes de enviar datos o pedir valoracion.",
+        "Tratamientos y ciudades con mejor intencion comercial."
+      ],
+      "campaigns": [
+        "Campanas por tratamiento: carillas, resina, blanqueamiento y diseno de sonrisa.",
+        "Remarketing a visitantes de resultados o FAQ sin agenda.",
+        "Anuncios para pacientes internacionales con ruta de valoracion previa."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para web actual y agenda.",
+        "Asesor digital para tratamiento, sede, fotos, disponibilidad, objeciones y seguimiento.",
+        "Panel de valoraciones por ciudad, tratamiento, fuente y estado."
+      ],
+      "sources": [
+        "https://www.dradianapulgarin.com/",
+        "https://www.instagram.com/dradianapulgarin/"
+      ]
+    },
+    {
+      "slug": "luxe-smile-medellin",
+      "company": "Luxe Smile",
+      "instagram": "@luxe_smile_",
+      "website": "https://luxesmile.com.co/",
+      "sector": "odontologia estetica para pacientes internacionales",
+      "city": "Medellin",
+      "tone": "premium, internacional y confiable",
+      "theme": "default",
+      "accent": "#D5B56D",
+      "secondary": "#7AB8D8",
+      "status": "Web activa; oportunidad en cotizacion internacional",
+      "leadProblem": "Luxe Smile vende una experiencia de veneers para pacientes que viajan a Medellin. La fuga no esta solo en conseguir leads: esta en resolver viaje, fechas, fotos, idioma, numero de dientes, expectativas y confianza antes de que el paciente compare otras clinicas.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor bilingue de prevaloracion: recopila fotos, pais, fechas de viaje, tratamiento, hotel/transporte si aplica y dudas clave para cerrar una llamada o cotizacion.",
+      "proofLine": "Lectura publica del 7 de julio de 2026: luxesmile.com.co presenta veneers en Medellin, experiencia para pacientes internacionales, testimonios y ruta de consulta; busqueda publica identifica Instagram @luxe_smile_.",
+      "audience": "Pacientes de Estados Unidos, Canada, Puerto Rico y otros mercados que consideran viajar a Medellin para veneers o transformacion de sonrisa.",
+      "adAngle": "Veneers en Medellin + prevaloracion rapida + viaje sin friccion",
+      "whatsappCta": "Quiero convertir mas consultas internacionales",
+      "heroCopy": "El paciente internacional no solo compra carillas: compra confianza, agenda, viaje y una respuesta rapida antes de decidir con quien volar.",
+      "brandWorldTitle": "De DM internacional a consulta lista",
+      "diagnosisTitle": "Fugas en dental tourism",
+      "botAgentName": "Luxe Smile advisor demo",
+      "botAgentRole": "filters travel, photos and treatment",
+      "botTitle": "Asesor bilingue para prevaloracion",
+      "botIntro": "El demo captura pais, fechas, fotos, tratamiento deseado e idioma para acelerar la consulta.",
+      "botOpening": "Hi, I am the demo advisor for Luxe Smile. I can help collect your country, travel dates, smile goals, photos and questions before a virtual consultation.",
+      "botPrompts": [
+        "Veneers",
+        "Travel dates",
+        "Photos",
+        "Virtual consult",
+        "What it tracks"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "veneers",
+            "smile",
+            "teeth"
+          ],
+          "answer": "It asks how many teeth the patient wants to improve, desired look, previous treatments, photos and timing for a virtual consult."
+        },
+        {
+          "keywords": [
+            "travel",
+            "dates",
+            "hotel"
+          ],
+          "answer": "It captures country, arrival window, days available in Medellin, language preference and support needed before booking."
+        },
+        {
+          "keywords": [
+            "photos",
+            "consult",
+            "quote"
+          ],
+          "answer": "It prepares the lead with photos, expectations and main questions so the team can respond with a clearer next step."
+        },
+        {
+          "keywords": [
+            "track",
+            "data",
+            "ads"
+          ],
+          "answer": "It tracks country, treatment, photos received, consultation request, source, objections and follow-up status."
+        }
+      ],
+      "findings": [
+        "La web comunica experiencia, testimonios y consulta.",
+        "El publico internacional necesita mas contexto antes de confiar y viajar.",
+        "Las dudas de viaje y tratamiento deben resolverse juntas."
+      ],
+      "siteIssues": [
+        "La consulta debe capturar pais, fechas, fotos e idioma.",
+        "El WhatsApp debe llegar con contexto de tratamiento y viaje.",
+        "La pauta necesita medir consultas calificadas por pais, no solo formularios."
+      ],
+      "losses": [
+        "Pacientes comparan varias clinicas y el lead se enfria si la respuesta tarda.",
+        "Sin prevaloracion, el equipo inicia cada conversacion desde cero.",
+        "Leads de baja intencion consumen el mismo tiempo que pacientes listos para viajar."
+      ],
+      "heatmapData": [
+        "Clics por veneers, testimonials, process, travel support and consultation.",
+        "Abandono antes de subir fotos o pedir llamada.",
+        "Paises y tratamientos con mejor intencion."
+      ],
+      "campaigns": [
+        "Campaigns for veneers in Colombia with virtual consult CTA.",
+        "Remarketing to visitors who saw testimonials or process but did not request consult.",
+        "Country-based follow-up for patients with travel windows."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para web actual y consulta internacional.",
+        "Asesor digital bilingue para fotos, viaje, tratamiento, dudas y seguimiento.",
+        "Panel de leads por pais, fechas, tratamiento, consulta y estado."
+      ],
+      "sources": [
+        "https://luxesmile.com.co/",
+        "https://www.instagram.com/luxe_smile_/"
+      ]
+    },
+    {
+      "slug": "fernando-garcia-atelier-bogota",
+      "company": "Fernando Garcia Atelier",
+      "instagram": "@fgluxury",
+      "website": "https://fernandogarcia.com.co/",
+      "sector": "muebles de lujo y diseno interior",
+      "city": "Bogota",
+      "tone": "lujo, consultivo y editorial",
+      "theme": "default",
+      "accent": "#B88A4A",
+      "secondary": "#E8E0CF",
+      "status": "Web activa con agenda de asesoria; oportunidad en brief premium",
+      "leadProblem": "Fernando Garcia ya comunica trayectoria, proyectos, showroom y agenda. La fuga probable esta en convertir inspiracion de lujo en brief accionable: tipo de espacio, ciudad, metraje, presupuesto, tiempos y decision maker.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor de proyectos premium que filtre residencial, casa de campo, comercial u hospitalidad y prepare la asesoria con datos suficientes para priorizar oportunidades de alto valor.",
+      "proofLine": "Lectura publica del 7 de julio de 2026: fernandogarcia.com.co presenta decoracion de interiores, diseno de muebles de lujo, proyectos, agenda de asesoria, showroom en Bogota y datos de contacto; busqueda publica identifica Instagram @fgluxury.",
+      "audience": "Propietarios y marcas que buscan diseno interior, mobiliario de lujo y asesoria integral para espacios residenciales o comerciales.",
+      "adAngle": "Proyecto de lujo + brief curado + asesoria con contexto",
+      "whatsappCta": "Quiero convertir mas asesorias premium",
+      "heroCopy": "En interiorismo de lujo, el lead valioso no pregunta solo por un sofa: trae un espacio, una vision, tiempos y presupuesto que deben quedar claros.",
+      "brandWorldTitle": "De inspiracion de lujo a proyecto calificado",
+      "diagnosisTitle": "Fugas en asesorias de alto valor",
+      "botAgentName": "Asesor FG demo",
+      "botAgentRole": "arma brief de proyecto premium",
+      "botTitle": "Asesor para proyectos de lujo",
+      "botIntro": "El demo clasifica espacio, ciudad, alcance, tiempos y presupuesto antes de agendar asesoria.",
+      "botOpening": "Hola, soy el asesor demo para Fernando Garcia Atelier. Puedo ayudarte a ordenar un brief de espacio residencial, penthouse, casa de campo, comercial u hospitalidad.",
+      "botPrompts": [
+        "Residencial",
+        "Comercial",
+        "Showroom",
+        "Presupuesto",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "residencial",
+            "casa",
+            "penthouse"
+          ],
+          "answer": "Pregunta ciudad, tipo de inmueble, metraje, ambiente prioritario, fotos, estilo deseado, tiempos y responsable de decision."
+        },
+        {
+          "keywords": [
+            "comercial",
+            "hotel",
+            "hospitalidad"
+          ],
+          "answer": "Clasifica tipo de negocio, alcance, fecha de apertura o remodelacion, presupuesto y necesidad de visita o reunion."
+        },
+        {
+          "keywords": [
+            "showroom",
+            "visita",
+            "asesoria"
+          ],
+          "answer": "Propone visita con contexto previo: espacio, objetivo, ciudad, disponibilidad y piezas de interes."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide tipo de proyecto, presupuesto, cita solicitada, origen, brief completo y siguiente accion comercial."
+        }
+      ],
+      "findings": [
+        "La web muestra proyectos, agenda y posicionamiento de lujo.",
+        "El formulario ya apunta a asesoria, pero puede enriquecerse con mas contexto.",
+        "El valor esta en separar curiosidad decorativa de proyecto real."
+      ],
+      "siteIssues": [
+        "La agenda deberia capturar alcance, metraje, fotos, tiempos y presupuesto.",
+        "WhatsApp debe recibir brief y no una pregunta generica.",
+        "La pauta necesita distinguir proyecto residencial, comercial y hospitalidad."
+      ],
+      "losses": [
+        "Solicitudes premium pierden fuerza si la primera respuesta no es consultiva.",
+        "El equipo invierte tiempo en leads que aun no tienen alcance definido.",
+        "La data de pauta no muestra que proyectos tienen mejor probabilidad de cierre."
+      ],
+      "heatmapData": [
+        "Clics por proyectos, agenda, showroom, contacto e inspiracion.",
+        "Abandono antes de completar brief.",
+        "Tipos de proyecto con mayor intencion y presupuesto."
+      ],
+      "campaigns": [
+        "Campanas por proyectos residenciales exclusivos.",
+        "Remarketing a visitantes de proyectos sin agenda.",
+        "Anuncios para agendar asesoria con brief previo."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para web actual y formulario de asesoria.",
+        "Asesor digital para brief, fotos, alcance, presupuesto, cita y seguimiento.",
+        "Panel de oportunidades por proyecto, ciudad, presupuesto y estado."
+      ],
+      "sources": [
+        "https://fernandogarcia.com.co/",
+        "https://www.instagram.com/fgluxury/"
+      ]
+    },
+    {
+      "slug": "studio-modo-bogota",
+      "company": "Studio MODO",
+      "instagram": "@studio_modo",
+      "website": "https://www.studiomodo.co/",
+      "sector": "cocinas, mobiliario e interiorismo de lujo",
+      "city": "Bogota",
+      "tone": "sofisticado, tecnico y consultivo",
+      "theme": "default",
+      "accent": "#4D5A4A",
+      "secondary": "#C9A96A",
+      "status": "Web activa; oportunidad en cotizacion por proyecto",
+      "leadProblem": "Studio MODO comunica cocinas, carpinteria, mobiliario y proyectos de arquitectura interior. La fuga probable esta en que el visitante admira el portafolio, pero no deja medidas, planos, fotos, alcance, presupuesto ni etapa del proyecto.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor que convierta interes visual en brief tecnico: cocina, closet, mobiliario, remodelacion o proyecto integral, con datos suficientes para cotizar o agendar.",
+      "proofLine": "Lectura publica del 7 de julio de 2026: studiomodo.co presenta diseno de cocinas, carpinteria, mobiliario, marcas importadas, enfoque en arquitectura e interiorismo, showroom/direccion en Bogota y contacto; busqueda publica identifica Instagram @studio_modo.",
+      "audience": "Clientes en Bogota que buscan cocinas de alta gama, carpinteria especial, mobiliario o acompaniamiento de interiorismo.",
+      "adAngle": "Cocina de alta gama + brief tecnico + asesoria de showroom",
+      "whatsappCta": "Quiero convertir mas proyectos de cocina",
+      "heroCopy": "Una cocina premium no se cotiza con una frase: necesita medidas, planos, materiales, tiempos y decision clara desde el primer contacto.",
+      "brandWorldTitle": "De portafolio aspiracional a cotizacion accionable",
+      "diagnosisTitle": "Fugas en proyectos de cocina e interiorismo",
+      "botAgentName": "Asesor MODO demo",
+      "botAgentRole": "filtra cocina, medidas y alcance",
+      "botTitle": "Asesor para proyectos de cocina",
+      "botIntro": "El demo pide espacio, medidas, etapa, fotos, materiales y fecha para preparar asesoria.",
+      "botOpening": "Hola, soy el asesor demo para Studio MODO. Puedo ayudarte a ordenar un proyecto de cocina, carpinteria, mobiliario o interiorismo con medidas, fotos y alcance.",
+      "botPrompts": [
+        "Cocina",
+        "Carpinteria",
+        "Interiorismo",
+        "Showroom",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cocina",
+            "remodelacion",
+            "remodelación"
+          ],
+          "answer": "Pregunta medidas, fotos o planos, ciudad, si es obra nueva o remodelacion, materiales deseados y fecha tentativa."
+        },
+        {
+          "keywords": [
+            "carpinteria",
+            "mobiliario",
+            "closet"
+          ],
+          "answer": "Clasifica pieza, ambiente, medidas, acabado, instalacion y presupuesto para separar cotizacion rapida de proyecto integral."
+        },
+        {
+          "keywords": [
+            "showroom",
+            "cita",
+            "asesoria"
+          ],
+          "answer": "Agenda visita con contexto previo: tipo de proyecto, fotos, presupuesto y disponibilidad."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide categoria, etapa del proyecto, datos tecnicos recibidos, cita, fuente y probabilidad comercial."
+        }
+      ],
+      "findings": [
+        "La web presenta categorias y contacto claro.",
+        "El servicio requiere informacion tecnica antes de cotizar.",
+        "El showroom puede ser mas efectivo si el lead llega preparado."
+      ],
+      "siteIssues": [
+        "El formulario debe pedir medidas, fotos, etapa y alcance.",
+        "WhatsApp necesita diferenciar cocina, mobiliario e interiorismo.",
+        "La pauta debe medir briefs completos y citas, no solo visitas."
+      ],
+      "losses": [
+        "Visitantes inspirados pueden irse sin saber que datos enviar.",
+        "El equipo repite preguntas tecnicas en cada conversacion.",
+        "Proyectos grandes quedan mezclados con consultas sueltas."
+      ],
+      "heatmapData": [
+        "Clics por cocinas, mobiliario, blog, contacto y showroom.",
+        "Abandono antes de enviar medidas o pedir cita.",
+        "Categorias con mayor intencion y etapa de proyecto."
+      ],
+      "campaigns": [
+        "Campanas para remodelacion de cocina premium.",
+        "Remarketing a visitantes de portafolio sin brief.",
+        "Anuncios de cita en showroom con checklist previo."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para web actual y contacto.",
+        "Asesor digital para medidas, fotos, alcance, etapa, cita y seguimiento.",
+        "Panel de proyectos por categoria, etapa, presupuesto y estado."
+      ],
+      "sources": [
+        "https://www.studiomodo.co/",
+        "https://www.instagram.com/studio_modo/"
+      ]
+    },
+    {
+      "slug": "sergio-velosa-diseno-bogota",
+      "company": "Sergio Velosa Diseno",
+      "instagram": "@sergiovelosadiseno",
+      "website": "https://sergiovelosa.com/",
+      "sector": "diseno interior, remodelacion y muebles a medida",
+      "city": "Bogota",
+      "tone": "experto, cercano y practico",
+      "theme": "default",
+      "accent": "#7A4E32",
+      "secondary": "#D8B56A",
+      "status": "Web activa; oportunidad en solicitud de cotizacion guiada",
+      "leadProblem": "Sergio Velosa muestra servicios amplios: diseno interior, remodelaciones, muebles, espejos, cocinas y mobiliario comercial. La fuga probable esta en que muchas solicitudes llegan sin tipo de servicio, medidas, fotos, zona, urgencia ni presupuesto.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor que clasifique servicios y arme un brief minimo antes de WhatsApp: hogar, oficina, restaurante, hotel, cocina, espejo o restauracion.",
+      "proofLine": "Lectura publica del 7 de julio de 2026: sergiovelosa.com presenta diseno de interiores en Bogota, mas de 20 anos de experiencia, fabricacion de mobiliario, remodelacion, cocinas y servicios; busqueda publica identifica Instagram @sergiovelosadiseno.",
+      "audience": "Personas y negocios en Bogota que necesitan remodelar, fabricar muebles, optimizar espacios o cotizar proyectos de interiorismo.",
+      "adAngle": "Mueble o remodelacion a medida + brief rapido + WhatsApp listo",
+      "whatsappCta": "Quiero cotizaciones mas ordenadas",
+      "heroCopy": "Cuando la oferta es amplia, el sistema debe ordenar la solicitud antes de que ventas pierda tiempo adivinando que necesita el cliente.",
+      "brandWorldTitle": "De consulta abierta a cotizacion preparada",
+      "diagnosisTitle": "Fugas por solicitudes sin contexto",
+      "botAgentName": "Asesor Sergio Velosa demo",
+      "botAgentRole": "clasifica servicio y datos tecnicos",
+      "botTitle": "Asesor para cotizacion guiada",
+      "botIntro": "El demo separa muebles, remodelacion, cocina, espejos o proyectos comerciales y pide datos utiles.",
+      "botOpening": "Hola, soy el asesor demo para Sergio Velosa Diseno. Puedo ayudarte a clasificar tu necesidad y dejar datos listos para cotizar: servicio, medidas, fotos, zona y presupuesto.",
+      "botPrompts": [
+        "Mueble a medida",
+        "Remodelacion",
+        "Cocina",
+        "Negocio",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "mueble",
+            "mesa",
+            "sofa",
+            "sofá"
+          ],
+          "answer": "Pregunta tipo de pieza, medidas, material, fotos de referencia, zona de instalacion y fecha deseada."
+        },
+        {
+          "keywords": [
+            "remodelacion",
+            "obra",
+            "cocina"
+          ],
+          "answer": "Clasifica ambiente, alcance, estado actual, fotos, tiempos, presupuesto y si necesita visita tecnica."
+        },
+        {
+          "keywords": [
+            "negocio",
+            "restaurante",
+            "hotel",
+            "oficina"
+          ],
+          "answer": "Pide tipo de negocio, cantidad de piezas, uso, fecha limite, ciudad y responsable del proyecto."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide servicio, datos tecnicos completos, visita solicitada, fuente, presupuesto y estado de seguimiento."
+        }
+      ],
+      "findings": [
+        "La web cubre muchos servicios de diseno y fabricacion.",
+        "La amplitud de oferta exige filtros para no perder tiempo comercial.",
+        "El cliente necesita saber que datos enviar para recibir una respuesta util."
+      ],
+      "siteIssues": [
+        "Cada servicio deberia tener preguntas propias antes de WhatsApp.",
+        "La conversion debe diferenciar hogar, oficina, restaurante, hotel y cocina.",
+        "La pauta requiere eventos por tipo de servicio y cotizacion completa."
+      ],
+      "losses": [
+        "Conversaciones empiezan incompletas y se alargan innecesariamente.",
+        "Leads de bajo presupuesto consumen atencion de proyectos mejores.",
+        "No queda data clara sobre que servicios generan mas oportunidades."
+      ],
+      "heatmapData": [
+        "Clics por servicios, cocinas, muebles, remodelacion y contacto.",
+        "Abandono antes de pedir cotizacion o visita.",
+        "Servicios con mas briefs completos."
+      ],
+      "campaigns": [
+        "Campanas por servicio: cocinas, muebles a medida y remodelaciones.",
+        "Remarketing a visitantes de servicios sin cotizacion.",
+        "Anuncios locales para visita tecnica en Bogota."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para web actual y WhatsApp.",
+        "Asesor digital para servicio, medidas, fotos, zona, presupuesto y seguimiento.",
+        "Panel de leads por servicio, presupuesto, visita y estado."
+      ],
+      "sources": [
+        "https://sergiovelosa.com/",
+        "https://www.instagram.com/sergiovelosadiseno/"
+      ]
+    },
+    {
+      "slug": "muebles-bakhia-bogota",
+      "company": "Muebles Bakhia",
+      "instagram": "@mueblesbakhia",
+      "website": "https://mueblesbakhia.com/",
+      "sector": "muebles personalizados y diseno interior",
+      "city": "Bogota",
+      "tone": "artesanal, elegante y vendedor",
+      "theme": "default",
+      "accent": "#8B5E3C",
+      "secondary": "#D6A85C",
+      "status": "Web activa; oportunidad en personalizacion asistida",
+      "leadProblem": "Bakhia vende muebles tallados y personalizados con asesoria en diseno interior. La fuga probable esta en que el comprador necesita medidas, madera, textura, color, patron, tiempo de entrega y presupuesto antes de decidir.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor de personalizacion que guie referencia, medidas, acabado, ambiente, ciudad y urgencia, y que pase al equipo un pedido claro.",
+      "proofLine": "Lectura publica del 7 de julio de 2026: mueblesbakhia.com presenta muebles tallados, personalizacion, asesoria en diseno interior, plazo de entrega y productos destacados; busqueda publica identifica Instagram @mueblesbakhia y showroom en Bogota.",
+      "audience": "Personas en Bogota que buscan muebles personalizados, piezas talladas y apoyo de diseno para su hogar.",
+      "adAngle": "Mueble unico + personalizacion guiada + WhatsApp con medidas",
+      "whatsappCta": "Quiero convertir mas muebles personalizados",
+      "heroCopy": "El cliente de mueble personalizado necesita imaginar la pieza, pero tambien entregar medidas, acabado y presupuesto sin friccion.",
+      "brandWorldTitle": "De pieza inspiradora a pedido personalizado",
+      "diagnosisTitle": "Fugas en personalizacion de muebles",
+      "botAgentName": "Asesor Bakhia demo",
+      "botAgentRole": "guia medidas, madera y acabado",
+      "botTitle": "Asesor para muebles personalizados",
+      "botIntro": "El demo pide ambiente, medidas, referencia, material, color, presupuesto y fecha.",
+      "botOpening": "Hola, soy el asesor demo para Muebles Bakhia. Puedo ayudarte a definir pieza, medidas, acabado, patron, color, presupuesto y fecha de entrega.",
+      "botPrompts": [
+        "Sala",
+        "Comedor",
+        "Mueble tallado",
+        "Showroom",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sala",
+            "sofa",
+            "mueble"
+          ],
+          "answer": "Pregunta ambiente, medidas, uso, estilo, acabado, color y si quiere asesoria de diseno interior."
+        },
+        {
+          "keywords": [
+            "tallado",
+            "madera",
+            "patron"
+          ],
+          "answer": "Pide patron o referencia, tipo de madera/acabado, medidas, presupuesto y fecha de entrega esperada."
+        },
+        {
+          "keywords": [
+            "showroom",
+            "visita",
+            "bogota"
+          ],
+          "answer": "Valida disponibilidad de visita, pieza de interes y datos del espacio para llegar con opciones."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide pieza, ambiente, medidas completas, presupuesto, visita solicitada y conversion por fuente."
+        }
+      ],
+      "findings": [
+        "La web comunica personalizacion y asesoria.",
+        "El producto requiere decisiones de material, color y medidas.",
+        "El showroom puede cerrar mejor cuando la persona llega con intencion clara."
+      ],
+      "siteIssues": [
+        "El chat debe saber que pieza y acabado vio la persona.",
+        "La web deberia guiar medidas y referencias antes del contacto.",
+        "La pauta necesita medir pedidos personalizados completos."
+      ],
+      "losses": [
+        "Interesados preguntan por piezas sin datos suficientes para cotizar.",
+        "El equipo repite preguntas sobre medidas y acabados.",
+        "La inspiracion de Instagram no siempre se convierte en visita o pedido."
+      ],
+      "heatmapData": [
+        "Clics por muebles, patrones, personalizacion, showroom y WhatsApp.",
+        "Abandono antes de dejar medidas o acabado.",
+        "Piezas con mayor solicitud de cotizacion."
+      ],
+      "campaigns": [
+        "Campanas por ambientes y muebles personalizados.",
+        "Remarketing a visitantes de productos sin cotizacion.",
+        "Anuncios para agenda de showroom con datos previos."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para web actual y personalizacion.",
+        "Asesor digital para pieza, medidas, acabado, presupuesto, visita y seguimiento.",
+        "Panel de pedidos por pieza, ambiente, presupuesto y estado."
+      ],
+      "sources": [
+        "https://mueblesbakhia.com/",
+        "https://www.instagram.com/mueblesbakhia/"
+      ]
+    },
+    {
+      "slug": "leones-de-alba-cartagena",
+      "company": "Leones de Alba Cartagena",
+      "instagram": "@leonesdealbacartagena",
+      "website": "https://leonesdealbacartagena.com/",
+      "sector": "hotel boutique y villa de lujo",
+      "city": "Cartagena",
+      "tone": "lujo caribeno, historico y directo",
+      "theme": "resort",
+      "brandMode": "forest",
+      "accent": "#D4A24C",
+      "secondary": "#7FC7C4",
+      "status": "Web activa; oportunidad en reserva asistida",
+      "leadProblem": "Leones de Alba ya tiene una web con habitaciones, tarifas y contactos. La fuga probable esta en que el viajero compara fechas, tipo de habitacion, full house, eventos, grupo, idioma y disponibilidad antes de reservar.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor de reservas que capture fechas, numero de huespedes, motivo del viaje, habitacion o casa completa, idioma y presupuesto para responder rapido y recuperar interesados.",
+      "proofLine": "Lectura publica del 7 de julio de 2026: leonesdealbacartagena.com presenta hotel boutique en el centro historico, habitaciones, villa, tarifas, direccion y contactos; busqueda publica identifica Instagram @leonesdealbacartagena.",
+      "audience": "Viajeros de lujo, parejas, grupos y visitantes internacionales que buscan hotel boutique o villa privada en Cartagena.",
+      "adAngle": "Cartagena historica + reserva asistida + fechas con contexto",
+      "whatsappCta": "Quiero recuperar mas reservas directas",
+      "heroCopy": "En hoteleria boutique, una visita a la web vale mas cuando el sistema entiende fechas, huespedes y motivo del viaje antes de que el usuario compare otra opcion.",
+      "brandWorldTitle": "De deseo de Cartagena a reserva directa",
+      "diagnosisTitle": "Fugas en reserva hotelera boutique",
+      "botAgentName": "Concierge Leones demo",
+      "botAgentRole": "filtra fechas, huespedes y tipo de reserva",
+      "botTitle": "Asesor para reservas boutique",
+      "botIntro": "El demo pregunta fechas, huespedes, habitacion, casa completa, evento e idioma.",
+      "botOpening": "Hola, soy el concierge demo para Leones de Alba. Puedo ayudarte a revisar fechas, numero de huespedes, tipo de habitacion, full house o experiencia especial.",
+      "botPrompts": [
+        "Habitacion",
+        "Full house",
+        "Fechas",
+        "Evento",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "habitacion",
+            "room",
+            "suite"
+          ],
+          "answer": "Pregunta fechas, numero de huespedes, preferencia de habitacion, idioma y motivo del viaje para responder con disponibilidad."
+        },
+        {
+          "keywords": [
+            "full",
+            "house",
+            "grupo",
+            "villa"
+          ],
+          "answer": "Clasifica tamano del grupo, fechas, evento o celebracion, servicios requeridos y presupuesto aproximado."
+        },
+        {
+          "keywords": [
+            "evento",
+            "boda",
+            "celebracion"
+          ],
+          "answer": "Pide tipo de evento, numero de personas, fechas, espacios deseados y responsable de decision."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide fechas consultadas, huespedes, tipo de reserva, idioma, fuente, WhatsApp y reserva recuperada."
+        }
+      ],
+      "findings": [
+        "La web presenta habitaciones, villa, tarifas y contactos.",
+        "La decision de viaje depende de fechas, grupo, disponibilidad y confianza.",
+        "El contacto directo puede ganar frente a OTAs si responde con contexto."
+      ],
+      "siteIssues": [
+        "WhatsApp debe recibir fechas, huespedes y tipo de reserva.",
+        "La web deberia recuperar visitantes que revisan habitaciones sin contactar.",
+        "La pauta debe distinguir pareja, grupo, evento y full house."
+      ],
+      "losses": [
+        "Viajeros comparan otros hoteles si no reciben respuesta rapida.",
+        "Consultas incompletas alargan la venta y pierden urgencia.",
+        "Reservas de grupo pueden perderse si no se identifican temprano."
+      ],
+      "heatmapData": [
+        "Clics por habitaciones, tarifas, full house, galeria y contacto.",
+        "Abandono antes de WhatsApp o reserva.",
+        "Fechas y tipos de reserva con mas intencion."
+      ],
+      "campaigns": [
+        "Campanas para escapadas boutique y celebraciones en Cartagena.",
+        "Remarketing a visitantes de habitaciones sin contacto.",
+        "Anuncios para full house y grupos con asesor de fechas."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para web actual y reserva directa.",
+        "Asesor digital para fechas, huespedes, habitacion, full house, evento y seguimiento.",
+        "Panel de oportunidades por fecha, tipo de reserva, fuente y estado."
+      ],
+      "sources": [
+        "https://leonesdealbacartagena.com/",
+        "https://www.instagram.com/leonesdealbacartagena/"
+      ]
+    },
+    {
+      "slug": "la-tarteria-bogota",
+      "company": "La Tarteria",
+      "instagram": "@tarteriala",
+      "website": "https://www.latarteria.co/",
+      "sector": "restaurante y pasteleria francesa",
+      "city": "Bogota",
+      "tone": "frances, calido y comercial",
+      "theme": "maker",
+      "brandMode": "pastry",
+      "accent": "#C66B3D",
+      "secondary": "#F2C66D",
+      "status": "Web activa; oportunidad en reservas y pedidos por ocasion",
+      "leadProblem": "La Tarteria tiene web, restaurante, pasteleria y reservas. La fuga probable esta en separar almuerzo, reserva, celebracion, torta, postre para llevar o pedido especial, para que cada intencion llegue al canal correcto.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor por ocasion: mesa, celebracion, torta, postres, catering o pedido especial. WhatsApp recibe fecha, personas, sede, presupuesto y preferencias.",
+      "proofLine": "Lectura publica del 7 de julio de 2026: busqueda publica e Instagram @tarteriala muestran restaurante y pasteleria en La Candelaria, Bogota, reservas, direccion, telefono y web latarteria.co; la web respondio HTTP 200.",
+      "audience": "Personas en Bogota que buscan restaurante, postres, tortas o celebraciones con sabor frances en La Candelaria.",
+      "adAngle": "Antojo frances + reserva o pedido guiado + WhatsApp completo",
+      "whatsappCta": "Quiero convertir mas reservas y pedidos",
+      "heroCopy": "En restaurante y pasteleria, la intencion cambia rapido: una mesa, una torta o una celebracion necesitan rutas distintas y respuesta inmediata.",
+      "brandWorldTitle": "De antojo visual a reserva o pedido",
+      "diagnosisTitle": "Fugas entre reservas y pedidos",
+      "botAgentName": "Asesor La Tarteria demo",
+      "botAgentRole": "filtra mesa, torta y ocasion",
+      "botTitle": "Asesor para reservas y pedidos",
+      "botIntro": "El demo separa mesa, torta, postre, celebracion y pedido especial.",
+      "botOpening": "Hola, soy el asesor demo para La Tarteria. Puedo ayudarte a elegir ruta: reserva de mesa, torta, postre, celebracion o pedido especial.",
+      "botPrompts": [
+        "Reservar mesa",
+        "Torta",
+        "Celebracion",
+        "Postres",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "mesa",
+            "reserva",
+            "almuerzo"
+          ],
+          "answer": "Pregunta fecha, hora, numero de personas, motivo de visita y datos de contacto para confirmar reserva."
+        },
+        {
+          "keywords": [
+            "torta",
+            "postre",
+            "pedido"
+          ],
+          "answer": "Pide fecha, sabor o referencia, tamano, presupuesto, mensaje y si es para recoger o enviar."
+        },
+        {
+          "keywords": [
+            "celebracion",
+            "cumpleanos",
+            "evento"
+          ],
+          "answer": "Clasifica tipo de celebracion, numero de personas, fecha, necesidades especiales y presupuesto aproximado."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide reservas, pedidos, ocasion, fecha, clics a WhatsApp, fuente y conversion por categoria."
+        }
+      ],
+      "findings": [
+        "La marca comunica restaurante, pasteleria, reservas y direccion.",
+        "La intencion puede ser consumo en sitio o pedido especial.",
+        "La oportunidad esta en ordenar las rutas antes de WhatsApp."
+      ],
+      "siteIssues": [
+        "El contacto debe separar reserva, torta, postre y celebracion.",
+        "WhatsApp deberia llegar con fecha, personas o pedido especifico.",
+        "La pauta debe medir reservas y pedidos por ocasion."
+      ],
+      "losses": [
+        "Pedidos urgentes se enfrien si faltan fecha o referencia.",
+        "Reservas pueden perderse si el usuario no encuentra ruta rapida.",
+        "La data de Instagram no identifica que antojos terminan en compra."
+      ],
+      "heatmapData": [
+        "Clics por menu, reservas, tortas, postres, direccion y WhatsApp.",
+        "Abandono antes de reservar o pedir.",
+        "Ocasiones con mayor conversion."
+      ],
+      "campaigns": [
+        "Campanas por antojo, almuerzo y celebraciones.",
+        "Remarketing a visitantes de menu sin reserva.",
+        "Anuncios de tortas y postres con pedido guiado."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para web actual y reservas.",
+        "Asesor digital para mesa, torta, ocasion, fecha, pedido y seguimiento.",
+        "Panel de reservas y pedidos por ocasion, fuente y estado."
+      ],
+      "sources": [
+        "https://www.latarteria.co/",
+        "https://www.instagram.com/tarteriala/"
+      ]
+    },
+    {
+      "slug": "la-boutique-del-pan",
+      "company": "La Boutique del Pan",
+      "instagram": "@laboutiquedelpan.co",
+      "sector": "panaderia artesanal y pedidos especiales",
+      "city": "Bogota y Valledupar",
+      "tone": "artesanal, familiar y practico",
+      "theme": "maker",
+      "brandMode": "pastry",
+      "accent": "#B86A3D",
+      "secondary": "#F0C56B",
+      "status": "Instagram + Linktree/Rappi; sin web propia confiable visible",
+      "leadProblem": "La Boutique del Pan comunica sedes, pedidos por pagina/enlaces y Rappi, pero no se verifico una web propia clara que centralice catalogo, pedidos especiales, sedes, horarios, cobertura y datos del encargo.",
+      "opportunity": "Crear una landing propia con catalogo por categoria, sedes, domicilios, pedidos especiales y asesor digital para convertir antojos y celebraciones en pedidos completos con fecha, ciudad, producto y forma de entrega.",
+      "proofLine": "Lectura publica del 7 de julio de 2026: Instagram @laboutiquedelpan.co comunica panaderia en Valledupar y Bogota, pedidos en pagina web/Rappi; Linktree publico lista pedidos por ciudad y Rappi. No se verifico una web propia confiable en las fuentes revisadas.",
+      "audience": "Clientes en Bogota y Valledupar que compran pan, productos de panaderia, desayunos o pedidos especiales para casa, oficina y celebraciones.",
+      "adAngle": "Pan artesanal + pedido por ciudad + WhatsApp con fecha y producto",
+      "whatsappCta": "Quiero una landing que ordene pedidos",
+      "heroCopy": "Cuando la venta vive entre Instagram, Rappi y enlaces, una pagina propia ayuda a que cada antojo deje ciudad, producto, fecha y canal correcto.",
+      "brandWorldTitle": "De antojo de pan a pedido medible",
+      "diagnosisTitle": "Fugas por canales fragmentados",
+      "botAgentName": "Asesor Boutique del Pan demo",
+      "botAgentRole": "filtra ciudad, producto y pedido",
+      "botTitle": "Asesor para pedidos de panaderia",
+      "botIntro": "El demo separa Bogota, Valledupar, domicilio, Rappi y pedidos especiales.",
+      "botOpening": "Hola, soy el asesor demo para La Boutique del Pan. Puedo ayudarte a elegir ciudad, producto, fecha, domicilio o pedido especial.",
+      "botPrompts": [
+        "Bogota",
+        "Valledupar",
+        "Pedido especial",
+        "Domicilio",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "bogota",
+            "bogotá",
+            "rappi"
+          ],
+          "answer": "Pregunta sede o zona, producto, cantidad, fecha, hora y si prefiere Rappi, domicilio o recogida."
+        },
+        {
+          "keywords": [
+            "valledupar",
+            "pedido"
+          ],
+          "answer": "Valida ciudad, producto, cantidad, fecha, datos de contacto y canal de entrega disponible."
+        },
+        {
+          "keywords": [
+            "especial",
+            "evento",
+            "oficina"
+          ],
+          "answer": "Pide cantidad, tipo de producto, fecha, presupuesto, direccion y requerimientos para cotizar."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ciudad, producto, cantidad, canal de entrega, pedidos completos, WhatsApp y fuente."
+        }
+      ],
+      "findings": [
+        "Instagram y Linktree ordenan algunos accesos de pedido.",
+        "No se verifico una web propia que concentre catalogo y conversion.",
+        "La marca tiene oportunidad de capturar data propia fuera de plataformas."
+      ],
+      "siteIssues": [
+        "Hace falta landing propia por ciudad y tipo de pedido.",
+        "Cada pedido deberia capturar producto, cantidad, fecha, canal y direccion.",
+        "La pauta necesita URL propia con eventos antes de enviar a Rappi o WhatsApp."
+      ],
+      "losses": [
+        "El cliente puede perderse entre enlaces, ciudad y plataformas.",
+        "Pedidos especiales llegan incompletos y requieren varias preguntas.",
+        "Sin web propia hay menos data para remarketing y aprendizaje de pauta."
+      ],
+      "heatmapData": [
+        "Clics por ciudad, productos, Rappi, WhatsApp y pedidos especiales.",
+        "Abandono antes de elegir canal de entrega.",
+        "Productos y ciudades con mas intencion."
+      ],
+      "campaigns": [
+        "Campanas por ciudad y productos de mayor antojo.",
+        "Landing para pedidos especiales y oficinas.",
+        "Remarketing a visitantes que eligieron producto sin completar pedido."
+      ],
+      "deliverables": [
+        "Landing propia con catalogo, sedes, canales de pedido y WhatsApp.",
+        "Asesor digital para ciudad, producto, fecha, cantidad, entrega y seguimiento.",
+        "Panel de pedidos por ciudad, producto, fuente y estado."
+      ],
+      "sources": [
+        "https://www.instagram.com/laboutiquedelpan.co/",
+        "https://linktr.ee/laboutiquedelpan.co"
+      ]
+    },
+    {
+      "slug": "modern-home-ee-bogota",
+      "company": "Modern Home E&E",
+      "instagram": "@modernhome_e",
+      "sector": "muebles, decoracion y proyectos mobiliarios",
+      "city": "Bogota",
+      "tone": "comercial, moderno y asesor",
+      "theme": "default",
+      "accent": "#324F61",
+      "secondary": "#D8A75E",
+      "status": "Instagram activo sin web propia confiable visible",
+      "leadProblem": "Modern Home E&E muestra diseno, fabricacion de proyectos mobiliarios, showroom y envios en Bogota/Colombia desde Instagram, pero no se verifico una web propia confiable para organizar catalogo, medidas, materiales, agenda y seguimiento.",
+      "opportunity": "Crear una landing clara con categorias, showroom, proyectos, WhatsApp con brief y asesor digital para convertir mensajes de Instagram en oportunidades con ambiente, medidas, presupuesto, ciudad y fecha.",
+      "proofLine": "Lectura publica del 7 de julio de 2026: busqueda publica identifica Instagram @modernhome_e con diseno y fabricacion de proyectos mobiliarios, direccion en Bogota, telefono y envios; no se verifico web propia confiable en las fuentes revisadas.",
+      "audience": "Personas en Bogota y Colombia que quieren comprar o fabricar muebles, comedores, salas, decoracion o proyectos mobiliarios a medida.",
+      "adAngle": "Mueble moderno + brief de medidas + WhatsApp listo para cotizar",
+      "whatsappCta": "Quiero una landing que convierta Instagram en ventas",
+      "heroCopy": "Instagram inspira, pero una venta de muebles necesita una ruta propia para medidas, estilo, ciudad, presupuesto y visita al showroom.",
+      "brandWorldTitle": "De vitrina social a cotizacion clara",
+      "diagnosisTitle": "Fugas por depender solo de Instagram",
+      "botAgentName": "Asesor Modern Home demo",
+      "botAgentRole": "filtra ambiente, medidas y ciudad",
+      "botTitle": "Asesor para muebles y proyectos",
+      "botIntro": "El demo convierte una consulta de Instagram en brief para cotizar o agendar showroom.",
+      "botOpening": "Hola, soy el asesor demo para Modern Home E&E. Puedo ayudarte a definir ambiente, mueble, medidas, ciudad, presupuesto y visita al showroom.",
+      "botPrompts": [
+        "Sala",
+        "Comedor",
+        "Proyecto",
+        "Showroom",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sala",
+            "sofa",
+            "decoracion"
+          ],
+          "answer": "Pregunta medidas del ambiente, estilo, color, numero de puestos, presupuesto y ciudad para preparar opciones."
+        },
+        {
+          "keywords": [
+            "comedor",
+            "mesa",
+            "sillas"
+          ],
+          "answer": "Pide numero de puestos, medidas, material, acabado, fecha de compra y si requiere envio."
+        },
+        {
+          "keywords": [
+            "proyecto",
+            "fabricacion",
+            "medida"
+          ],
+          "answer": "Clasifica ambiente, cantidad de piezas, fotos de referencia, medidas, ciudad, presupuesto y urgencia."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ambiente, ciudad, presupuesto, visita a showroom, WhatsApp, pedido completo y fuente."
+        }
+      ],
+      "findings": [
+        "Instagram comunica diseno, fabricacion, showroom y envios.",
+        "No se verifico una pagina propia para catalogo y conversion.",
+        "La oportunidad esta en convertir inspiracion visual en brief medible."
+      ],
+      "siteIssues": [
+        "Hace falta landing propia con categorias, showroom y pedidos guiados.",
+        "WhatsApp deberia recibir medidas, ciudad, presupuesto y producto de interes.",
+        "La pauta necesita una URL medible para aprender que ambientes venden."
+      ],
+      "losses": [
+        "Interesados preguntan por DM sin datos suficientes para cotizar.",
+        "El equipo repite preguntas de medidas, colores, ciudad y envio.",
+        "Sin web propia, Instagram no construye data suficiente para remarketing."
+      ],
+      "heatmapData": [
+        "Clics por sala, comedor, decoracion, showroom y WhatsApp.",
+        "Abandono antes de dejar medidas o ciudad.",
+        "Ambientes con mas solicitudes completas."
+      ],
+      "campaigns": [
+        "Campanas por ambiente: salas, comedores y decoracion.",
+        "Landing para anuncios desde Instagram con WhatsApp prellenado.",
+        "Remarketing a visitantes que eligieron ambiente sin cotizar."
+      ],
+      "deliverables": [
+        "Landing propia con categorias, showroom, proyectos y pedido guiado.",
+        "Asesor digital para ambiente, medidas, ciudad, presupuesto, visita y seguimiento.",
+        "Panel de oportunidades por ambiente, ciudad, presupuesto y estado."
+      ],
+      "sources": [
+        "https://www.instagram.com/modernhome_e/"
+      ]
     }
   ]
 }
