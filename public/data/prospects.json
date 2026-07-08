@@ -24377,6 +24377,866 @@
       "sources": [
         "https://www.instagram.com/modernhome_e/"
       ]
+    },
+    {
+      "slug": "saju-colombia",
+      "company": "Saju",
+      "instagram": "@saju",
+      "website": "https://www.saju.co/",
+      "sector": "gafas, accesorios y retail digital",
+      "city": "Colombia",
+      "tone": "joven, directo y funcional",
+      "theme": "default",
+      "accent": "#FF6B4A",
+      "secondary": "#39D4B4",
+      "status": "Web activa + tiendas + Instagram oficial; oportunidad en compra guiada y recuperacion",
+      "leadProblem": "Saju ya tiene una tienda online y puntos fisicos visibles, pero la compra puede enfriarse cuando el cliente no sabe que marco elegir, si le sirve para su cara, si hay disponibilidad, si conviene ir a tienda o comprar online.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor digital que filtre uso, estilo, rostro, presupuesto, ciudad, disponibilidad y tienda cercana antes de carrito o WhatsApp.",
+      "proofLine": "Lectura publica del 8 de julio de 2026: saju.co presenta marca de gafas y accesorios, productos, tienda online, store locator y contacto; busqueda publica identifica Instagram oficial @saju.",
+      "audience": "Personas que compran gafas de sol, accesorios para celular/camara y regalos con decision rapida entre web, tienda y WhatsApp.",
+      "adAngle": "Gafas con estilo + guia de eleccion + compra sin duda",
+      "whatsappCta": "Quiero convertir mas visitas en compras guiadas",
+      "heroCopy": "El cliente llega por estilo, pero compra cuando entiende color, fit, uso, disponibilidad y ruta mas facil para recibir o recoger.",
+      "brandWorldTitle": "De impulso visual a compra guiada",
+      "diagnosisTitle": "Fugas entre producto, tienda y carrito",
+      "botAgentName": "Asesor Saju demo",
+      "botAgentRole": "guia estilo, uso y disponibilidad",
+      "botTitle": "Asesor para elegir gafas y accesorios",
+      "botIntro": "El demo ayuda a escoger referencia, color, uso, tienda o envio antes de perder el impulso.",
+      "botOpening": "Hola, soy el asesor demo para Saju. Puedo ayudarte a escoger gafas o accesorios segun estilo, uso, color, ciudad, presupuesto y disponibilidad.",
+      "botPrompts": [
+        "Gafas de sol",
+        "Regalo",
+        "Tienda cercana",
+        "Disponibilidad",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["gafas", "sol", "marco"],
+          "answer": "Pregunta forma de rostro, color preferido, uso diario o viaje, presupuesto y si quiere compra online o probar en tienda."
+        },
+        {
+          "keywords": ["regalo", "cumpleanos", "detalle"],
+          "answer": "Pide edad aproximada, estilo de la persona, fecha del regalo, presupuesto y ciudad para recomendar opciones con envio o recogida."
+        },
+        {
+          "keywords": ["tienda", "cercana", "recoger"],
+          "answer": "Filtra ciudad y zona para sugerir tienda, confirmar referencia y dejar el WhatsApp con producto y disponibilidad."
+        },
+        {
+          "keywords": ["mide", "datos", "pauta"],
+          "answer": "Mide referencia vista, color, ciudad, tienda, carrito, WhatsApp, abandono y compra completada."
+        }
+      ],
+      "findings": [
+        "La web oficial comunica productos, tienda online, tiendas fisicas y contacto.",
+        "Instagram funciona como vitrina de deseo, pero la decision necesita asesoria rapida.",
+        "La compra puede dividirse entre carrito, tienda cercana y conversacion manual."
+      ],
+      "siteIssues": [
+        "La web deberia guiar por estilo, uso, color y disponibilidad antes del carrito.",
+        "WhatsApp necesita llegar con referencia, ciudad y pregunta concreta, no como mensaje generico.",
+        "La pauta debe distinguir quien busca regalo, quien quiere probar en tienda y quien compra online."
+      ],
+      "losses": [
+        "El impulso de una referencia se enfria si la persona no sabe si le va a quedar bien.",
+        "Preguntas repetidas sobre tiendas, disponibilidad y envios consumen tiempo comercial.",
+        "Sin seguimiento por producto visto, el remarketing queda demasiado general."
+      ],
+      "heatmapData": [
+        "Clics por coleccion, color, tienda, carrito y WhatsApp.",
+        "Abandono antes de seleccionar referencia o revisar envio/recogida.",
+        "Productos con mas intencion por ciudad y fuente."
+      ],
+      "campaigns": [
+        "Campanas por uso: diario, viaje, regalo y colaboraciones.",
+        "Remarketing a productos vistos sin carrito o sin compra.",
+        "Anuncios por ciudad para llevar trafico a tienda o compra online."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para ecommerce actual y store locator.",
+        "Asesor digital para estilo, uso, referencia, color, ciudad, tienda, envio y seguimiento.",
+        "Panel de oportunidades por producto, ciudad, fuente y estado."
+      ],
+      "sources": [
+        "https://www.saju.co/",
+        "https://www.instagram.com/saju/"
+      ]
+    },
+    {
+      "slug": "loto-del-sur",
+      "company": "Loto del Sur",
+      "instagram": "@lotodelsur",
+      "website": "https://www.lotodelsur.com/co/es/",
+      "sector": "cosmetica botanica, cuidado personal y regalos",
+      "city": "Colombia",
+      "tone": "premium, sensorial y consultivo",
+      "theme": "default",
+      "accent": "#7C9A62",
+      "secondary": "#D9B66F",
+      "status": "Web activa + marca premium; oportunidad en rutina, regalo y asesor digital",
+      "leadProblem": "Loto del Sur ya tiene marca, tiendas y ecommerce. La fuga probable no esta en verse pequena: esta en elegir rutina, aroma, piel, regalo o tienda sin asesoria contextual antes de comprar.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor que recomiende por tipo de piel, ritual, ocasion de regalo, presupuesto, ciudad y disponibilidad, conectando checkout, tienda y WhatsApp con contexto.",
+      "proofLine": "Lectura publica del 8 de julio de 2026: lotodelsur.com/co/es responde 200 y presenta categorias de cuidado facial, corporal, hogar, regalos, tienda y experiencia de marca; busqueda publica identifica Instagram @lotodelsur.",
+      "audience": "Clientes que buscan cosmetica botanica, cuidado personal premium, regalos sensoriales y experiencias de tienda.",
+      "adAngle": "Ritual botanico + recomendacion personalizada + compra o tienda",
+      "whatsappCta": "Quiero convertir mas visitas en rituales comprados",
+      "heroCopy": "En belleza premium, la persona no compra solo un producto: elige una rutina, un aroma, una piel y muchas veces un regalo con fecha.",
+      "brandWorldTitle": "De experiencia sensorial a compra asistida",
+      "diagnosisTitle": "Fugas en rutina, regalo y recompra",
+      "botAgentName": "Asesor Loto demo",
+      "botAgentRole": "recomienda ritual, piel y regalo",
+      "botTitle": "Asesor para rituales y regalos",
+      "botIntro": "El demo convierte dudas de piel, aroma, regalo o rutina en una recomendacion lista para comprar.",
+      "botOpening": "Hola, soy el asesor demo para Loto del Sur. Puedo orientar por rutina, tipo de piel, aroma, ocasion de regalo, presupuesto y tienda cercana.",
+      "botPrompts": [
+        "Rutina facial",
+        "Regalo",
+        "Aroma hogar",
+        "Tienda cercana",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["piel", "facial", "rutina"],
+          "answer": "Pregunta tipo de piel, objetivo, sensibilidad, productos actuales y presupuesto para sugerir rutina y siguiente paso."
+        },
+        {
+          "keywords": ["regalo", "cumpleanos", "kit"],
+          "answer": "Filtra ocasion, relacion, presupuesto, ciudad y fecha para recomendar sets o rituales con menor friccion."
+        },
+        {
+          "keywords": ["aroma", "hogar", "vela"],
+          "answer": "Clasifica ambiente, intensidad deseada, notas preferidas y si quiere envio o experiencia en tienda."
+        },
+        {
+          "keywords": ["mide", "datos", "pauta"],
+          "answer": "Mide categoria, rutina, ocasion, tienda, carrito, WhatsApp, abandono y recompra."
+        }
+      ],
+      "findings": [
+        "La web oficial presenta categorias de cuidado, hogar, regalos y tienda.",
+        "El valor de compra depende de recomendacion, confianza y ocasion.",
+        "Las tiendas fisicas y el ecommerce pueden trabajar mejor si comparten contexto del cliente."
+      ],
+      "siteIssues": [
+        "La experiencia puede guiar con preguntas de piel, aroma, regalo y presupuesto antes del producto.",
+        "WhatsApp o tienda deberian recibir el contexto de rutina y ocasion desde la web.",
+        "La pauta necesita medir regalo, rutina, recompra y visita a tienda como intenciones diferentes."
+      ],
+      "losses": [
+        "Clientes interesados abandonan si deben explorar demasiadas categorias sin recomendacion.",
+        "Regalos con fecha se pierden si no queda claro disponibilidad, envio o tienda.",
+        "Sin seguimiento por rutina, la recompra y el cross-sell dependen demasiado del azar."
+      ],
+      "heatmapData": [
+        "Clics por cuidado facial, corporal, hogar, regalos, tienda y checkout.",
+        "Abandono antes de elegir producto o armar rutina.",
+        "Ocasiones y categorias que generan mayor intencion de compra."
+      ],
+      "campaigns": [
+        "Campanas por ritual: piel, manos, cuerpo, hogar y regalos.",
+        "Remarketing por categoria vista sin carrito.",
+        "Anuncios de regalo con asesor por presupuesto y fecha."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para ecommerce actual y rutas de tienda.",
+        "Asesor digital para piel, aroma, ocasion, presupuesto, tienda, envio y seguimiento.",
+        "Panel por categoria, ritual, ocasion, ciudad y estado comercial."
+      ],
+      "sources": [
+        "https://www.lotodelsur.com/co/es/",
+        "https://www.instagram.com/lotodelsur/"
+      ]
+    },
+    {
+      "slug": "agua-bendita-colombia",
+      "company": "Agua Bendita",
+      "instagram": "@aguabenditasw",
+      "website": "https://www.aguabendita.com.co/",
+      "sector": "vestidos de bano, resort wear y moda colombiana",
+      "city": "Colombia",
+      "tone": "colorido, premium y aspiracional",
+      "theme": "default",
+      "accent": "#F45B69",
+      "secondary": "#FFC857",
+      "status": "Ecommerce activo + Instagram oficial; oportunidad en talla, coleccion y carrito",
+      "leadProblem": "Agua Bendita tiene ecommerce activo y deseo visual fuerte. La fuga aparece cuando la compradora duda entre talla, fit, disponibilidad, final sale, envio, cambios o coleccion antes de pagar.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor de talla y ocasion que conecte producto visto, fit, disponibilidad y politica comercial con carrito o WhatsApp.",
+      "proofLine": "Lectura publica del 8 de julio de 2026: aguabendita.com.co muestra tienda en linea de vestidos de bano, ropa de playa, accesorios, tallas, descuentos y carrito; busqueda publica identifica Instagram oficial @aguabenditasw.",
+      "audience": "Mujeres que compran vestidos de bano, ropa de playa y piezas de resort para viaje, vacaciones o temporada.",
+      "adAngle": "Look de viaje + talla correcta + compra segura",
+      "whatsappCta": "Quiero recuperar mas carritos de moda",
+      "heroCopy": "En moda de playa, la foto despierta deseo, pero talla, fit, disponibilidad y cambios deciden si el carrito se paga.",
+      "brandWorldTitle": "De inspiracion de verano a carrito pagado",
+      "diagnosisTitle": "Fugas en talla, disponibilidad y confianza",
+      "botAgentName": "Asesor Agua Bendita demo",
+      "botAgentRole": "guia talla, look y ocasion",
+      "botTitle": "Asesor para talla y look de viaje",
+      "botIntro": "El demo responde dudas de talla, fit, coleccion, envio, cambios y producto visto.",
+      "botOpening": "Hola, soy el asesor demo para Agua Bendita. Puedo ayudarte a escoger vestido de bano o resort wear por talla, ocasion, destino, fit y disponibilidad.",
+      "botPrompts": [
+        "Talla",
+        "Viaje",
+        "Disponibilidad",
+        "Cambios",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["talla", "fit", "medidas"],
+          "answer": "Pregunta medidas, talla usual, tipo de pieza, cobertura deseada y producto visto para orientar antes de comprar."
+        },
+        {
+          "keywords": ["viaje", "vacaciones", "look"],
+          "answer": "Filtra destino, fecha, estilo, colores y piezas complementarias para sugerir un look completo."
+        },
+        {
+          "keywords": ["cambio", "final", "sale"],
+          "answer": "Aclara politicas visibles de forma orientativa y recomienda validar antes de pagar si es final sale o talla sensible."
+        },
+        {
+          "keywords": ["mide", "datos", "pauta"],
+          "answer": "Mide producto visto, talla, color, carrito, duda de cambios, checkout y recuperacion."
+        }
+      ],
+      "findings": [
+        "La web oficial muestra ecommerce con colecciones, tallas, descuentos y carrito.",
+        "Instagram refuerza deseo visual y trafico de coleccion.",
+        "La decision se frena si talla, fit o politica no quedan claros."
+      ],
+      "siteIssues": [
+        "La guia debe acompanar cada producto de alta friccion con talla y fit.",
+        "WhatsApp deberia recibir producto, talla y color ya seleccionados.",
+        "El remarketing debe separar abandono por talla, precio, disponibilidad y envio."
+      ],
+      "losses": [
+        "Una compradora puede amar la prenda y abandonar por miedo a equivocarse de talla.",
+        "Los productos con descuento pueden requerir mas claridad antes del pago.",
+        "Sin agente, el equipo repite dudas de talla, cambios, envio y disponibilidad."
+      ],
+      "heatmapData": [
+        "Clics por coleccion, talla, guia, carrito y checkout.",
+        "Abandono despues de seleccionar talla o revisar politicas.",
+        "Productos con alto interes y baja compra."
+      ],
+      "campaigns": [
+        "Campanas por viaje, coleccion y best sellers.",
+        "Remarketing a carritos con duda de talla o disponibilidad.",
+        "Anuncios de looks completos para subir ticket promedio."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para fichas de producto y carrito.",
+        "Asesor digital para talla, fit, look, destino, envio, cambios y seguimiento.",
+        "Panel de carritos por producto, talla, coleccion, fuente y estado."
+      ],
+      "sources": [
+        "https://www.aguabendita.com.co/",
+        "https://www.instagram.com/aguabenditasw/"
+      ]
+    },
+    {
+      "slug": "maaji-colombia",
+      "company": "Maaji",
+      "instagram": "@maaji",
+      "website": "https://www.maaji.co/",
+      "sector": "swimwear, beachwear y activewear",
+      "city": "Colombia / internacional",
+      "tone": "alegre, global y comercial",
+      "theme": "default",
+      "accent": "#00A7E1",
+      "secondary": "#FF8A3D",
+      "status": "Ecommerce activo + marca global colombiana; oportunidad en guia de compra y recuperacion",
+      "leadProblem": "Maaji tiene ecommerce con swimwear, beachwear, activewear y categorias amplias. La fuga esta en orientar talla, reversible, set completo, disponibilidad, moneda/envio y carrito antes de que la visita se vaya.",
+      "opportunity": "Mejorar la conversion de la tienda actual con un asesor que entienda producto visto, talla, mix and match, destino, presupuesto y pais para guiar compra o recuperacion.",
+      "proofLine": "Lectura publica del 8 de julio de 2026: maaji.co responde 200 y presenta tienda online con swimwear, clothing, activewear, accesorios, cuenta y carrito; busqueda publica identifica Instagram @maaji como marca colombiana de summer-wear.",
+      "audience": "Compradoras de vestidos de bano, beachwear, ropa deportiva y looks de vacaciones que llegan desde Instagram o busqueda.",
+      "adAngle": "Look reversible + talla guiada + carrito recuperable",
+      "whatsappCta": "Quiero convertir mas carritos de Maaji",
+      "heroCopy": "Cuando hay muchas categorias y combinaciones, la conversion depende de guiar talla, set, color, disponibilidad y envio sin romper el deseo.",
+      "brandWorldTitle": "De universo de verano a compra ordenada",
+      "diagnosisTitle": "Fugas en sets, talla y checkout",
+      "botAgentName": "Asesor Maaji demo",
+      "botAgentRole": "guia talla, set y destino",
+      "botTitle": "Asesor para looks y carritos",
+      "botIntro": "El demo ayuda a elegir talla, combinar piezas, entender disponibilidad y recuperar el carrito.",
+      "botOpening": "Hola, soy el asesor demo para Maaji. Puedo ayudarte con talla, set, reversible, destino, disponibilidad, envio y seguimiento del carrito.",
+      "botPrompts": [
+        "Bikini",
+        "Set completo",
+        "Talla",
+        "Envio",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["bikini", "entero", "swim"],
+          "answer": "Pregunta tipo de prenda, cobertura, talla usual, color, coleccion y si busca combinar top y bottom."
+        },
+        {
+          "keywords": ["set", "look", "combinar"],
+          "answer": "Sugiere armar look por destino, color, piezas complementarias y presupuesto para subir ticket promedio."
+        },
+        {
+          "keywords": ["envio", "pais", "moneda"],
+          "answer": "Filtra pais, urgencia y moneda visible para llevar a checkout con menos incertidumbre."
+        },
+        {
+          "keywords": ["mide", "datos", "pauta"],
+          "answer": "Mide coleccion, talla, set, carrito, pais, checkout y recuperacion por producto visto."
+        }
+      ],
+      "findings": [
+        "La web presenta categorias amplias y carrito activo.",
+        "El producto tiene variables de talla, color, combinacion y destino.",
+        "Instagram puede enviar trafico con mucha inspiracion pero poca claridad de compra."
+      ],
+      "siteIssues": [
+        "Las fichas deberian tener asistencia contextual por talla y combinacion.",
+        "El carrito necesita recuperacion por producto y objecion.",
+        "La pauta debe medir colecciones y sets, no solo sesiones."
+      ],
+      "losses": [
+        "La compradora abandona si no sabe que talla o combinacion elegir.",
+        "El ticket promedio queda bajo si nadie sugiere piezas complementarias.",
+        "La recuperacion pierde fuerza si el mensaje no recuerda producto, talla y destino."
+      ],
+      "heatmapData": [
+        "Clics por swimwear, clothing, activewear, talla y carrito.",
+        "Abandono entre producto, seleccion de variante y checkout.",
+        "Colecciones que generan mas intencion por pais o fuente."
+      ],
+      "campaigns": [
+        "Campanas por destino y look completo.",
+        "Remarketing de carrito con producto, talla y objecion.",
+        "Anuncios para best sellers y nuevas colecciones con asesor de talla."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para ecommerce actual.",
+        "Asesor digital para talla, set, destino, envio, carrito y seguimiento.",
+        "Panel de oportunidades por coleccion, producto, pais, fuente y estado."
+      ],
+      "sources": [
+        "https://www.maaji.co/",
+        "https://www.instagram.com/maaji/"
+      ]
+    },
+    {
+      "slug": "onda-de-mar",
+      "company": "OndadeMar",
+      "instagram": "@ondademar",
+      "website": "https://ondademar.com/",
+      "sector": "swimwear premium y resort wear",
+      "city": "Colombia / internacional",
+      "tone": "sofisticado, resort y premium",
+      "theme": "default",
+      "accent": "#006D77",
+      "secondary": "#F4A261",
+      "status": "Web activa + marca de summer lifestyle; oportunidad en fit, envio y venta asistida",
+      "leadProblem": "OndadeMar tiene ecommerce premium y trafico aspiracional. La fuga probable esta en talla, fit, coleccion, envio internacional, cambios y carritos que no reciben seguimiento con contexto.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor de fit y ocasion que conecte producto visto, destino, talla, disponibilidad y envio antes del pago.",
+      "proofLine": "Lectura publica del 8 de julio de 2026: ondademar.com responde 200 y presenta premium swimwear, resort wear, summer dresses, pagos y FAQ; busqueda publica identifica Instagram @ondademar como Colombian summer lifestyle brand.",
+      "audience": "Compradoras de swimwear y resort wear premium que planean vacaciones, viaje o compra de temporada.",
+      "adAngle": "Resort wear premium + fit guiado + compra sin friccion",
+      "whatsappCta": "Quiero mejorar conversion de la tienda",
+      "heroCopy": "En resort wear premium, la decision se juega entre deseo visual, fit, disponibilidad, envio y seguridad de compra.",
+      "brandWorldTitle": "De estilo resort a carrito pagado",
+      "diagnosisTitle": "Fugas en fit y envio",
+      "botAgentName": "Asesor OndadeMar demo",
+      "botAgentRole": "filtra fit, destino y envio",
+      "botTitle": "Asesor para compra resort",
+      "botIntro": "El demo orienta por fit, ocasion, destino, talla y envio para reducir abandono.",
+      "botOpening": "Hola, soy el asesor demo para OndadeMar. Puedo ayudarte a escoger swimwear o resort wear por destino, fit, talla, disponibilidad y envio.",
+      "botPrompts": [
+        "Vacaciones",
+        "Talla",
+        "Vestido",
+        "Envio internacional",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["vacaciones", "viaje", "resort"],
+          "answer": "Pregunta destino, fecha, estilo, cobertura, piezas necesarias y presupuesto para armar recomendacion."
+        },
+        {
+          "keywords": ["talla", "fit", "medidas"],
+          "answer": "Pide talla usual, medidas, tipo de prenda y ajuste preferido para orientar antes de comprar."
+        },
+        {
+          "keywords": ["envio", "internacional", "shipping"],
+          "answer": "Filtra pais, fecha de viaje y urgencia para evitar que el checkout se frene por tiempos o costos."
+        },
+        {
+          "keywords": ["mide", "datos", "pauta"],
+          "answer": "Mide producto, talla, destino, pais, carrito, checkout y objecion de envio."
+        }
+      ],
+      "findings": [
+        "La web comunica swimwear, resort wear, vestidos de verano, pagos y FAQ.",
+        "Instagram confirma posicionamiento de summer lifestyle colombiano.",
+        "La venta premium necesita guia de fit y envio, especialmente para compra internacional."
+      ],
+      "siteIssues": [
+        "Las fichas pueden reducir friccion con asesor por fit y destino.",
+        "WhatsApp o soporte deben recibir producto, talla y pais desde la web.",
+        "El remarketing debe diferenciar abandono por talla, envio, precio o disponibilidad."
+      ],
+      "losses": [
+        "Una compradora internacional puede abandonar si no entiende envio antes del checkout.",
+        "Productos premium pierden conversion si la talla genera inseguridad.",
+        "El equipo responde dudas repetidas sin contexto del producto visto."
+      ],
+      "heatmapData": [
+        "Clics por swimwear, resort wear, dresses, FAQ y carrito.",
+        "Abandono antes de talla, envio o pago.",
+        "Productos con alta vista y bajo checkout."
+      ],
+      "campaigns": [
+        "Campanas por destino y temporada.",
+        "Remarketing a producto visto sin seleccion de talla.",
+        "Anuncios de look completo para aumentar ticket promedio."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para fichas, FAQ y checkout.",
+        "Asesor digital para destino, fit, talla, envio, cambios y seguimiento.",
+        "Panel por producto, destino, pais, fuente y estado."
+      ],
+      "sources": [
+        "https://ondademar.com/",
+        "https://www.instagram.com/ondademar/"
+      ]
+    },
+    {
+      "slug": "mola-sasa",
+      "company": "Mola Sasa",
+      "instagram": "@mola_sasa",
+      "website": "https://molasasa.com/",
+      "sector": "accesorios artesanales y moda de lujo responsable",
+      "city": "Colombia / internacional",
+      "tone": "artesanal, editorial y consciente",
+      "theme": "default",
+      "accent": "#D94F30",
+      "secondary": "#2F9C95",
+      "status": "Ecommerce activo + historia artesanal; oportunidad en confianza, regalo y ediciones limitadas",
+      "leadProblem": "Mola Sasa comunica artesania, impacto y piezas unicas, pero una compra internacional o de regalo puede frenarse por historia, disponibilidad, envio, devoluciones, made to order o cuidado de la pieza.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor que cuente la historia de la pieza, filtre ocasion, disponibilidad, pais, presupuesto y cuidados antes de checkout o contacto.",
+      "proofLine": "Lectura publica del 8 de julio de 2026: molasasa.com responde 200 y presenta bolsas, accesorios, gift boxes, ready to wear, historia, impacto, comunidades artesanas y newsletter; busqueda publica identifica Instagram @mola_sasa.",
+      "audience": "Compradoras de accesorios artesanales, regalos premium y piezas con historia cultural en Colombia y exterior.",
+      "adAngle": "Pieza con historia + disponibilidad clara + compra internacional guiada",
+      "whatsappCta": "Quiero convertir mas interes en compras premium",
+      "heroCopy": "Cuando la pieza es artesanal y limitada, la venta necesita contexto: historia, disponibilidad, cuidado, envio y ocasion.",
+      "brandWorldTitle": "De historia artesanal a compra confiada",
+      "diagnosisTitle": "Fugas en confianza y disponibilidad",
+      "botAgentName": "Asesor Mola Sasa demo",
+      "botAgentRole": "cuenta pieza, ocasion y envio",
+      "botTitle": "Asesor para piezas artesanales",
+      "botIntro": "El demo guia por coleccion, historia, regalo, disponibilidad, pais y cuidado de la pieza.",
+      "botOpening": "Hola, soy el asesor demo para Mola Sasa. Puedo ayudarte a elegir pieza por ocasion, historia, color, disponibilidad, pais, envio y cuidado.",
+      "botPrompts": [
+        "Regalo",
+        "Bolsos",
+        "Historia",
+        "Envio",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["regalo", "gift", "cumpleanos"],
+          "answer": "Pregunta ocasion, estilo de la persona, fecha, presupuesto y pais para sugerir pieza o gift box."
+        },
+        {
+          "keywords": ["bolso", "bag", "coleccion"],
+          "answer": "Filtra tamano, color, uso, disponibilidad y si busca pieza lista o especial."
+        },
+        {
+          "keywords": ["historia", "artesania", "comunidad"],
+          "answer": "Explica de forma breve el valor artesanal y envia a la historia de impacto antes de comprar."
+        },
+        {
+          "keywords": ["mide", "datos", "pauta"],
+          "answer": "Mide coleccion, ocasion, pais, producto visto, carrito, dudas de envio y compra."
+        }
+      ],
+      "findings": [
+        "La web presenta ecommerce, colecciones, historia, impacto y comunidades artesanas.",
+        "El producto se vende por diseno, historia, disponibilidad y confianza.",
+        "La compra internacional necesita claridad extra en envio y cuidado."
+      ],
+      "siteIssues": [
+        "Las fichas pueden conectar mejor historia, cuidado, disponibilidad y compra.",
+        "El soporte debe recibir producto, ocasion y pais desde el primer mensaje.",
+        "La pauta debe medir interes por pieza, historia y regalo."
+      ],
+      "losses": [
+        "El comprador puede admirar la historia y no avanzar por dudas logisticas.",
+        "Los regalos premium pierden urgencia si fecha y envio no quedan claros.",
+        "Sin seguimiento por pieza vista, el remarketing pierde el componente emocional."
+      ],
+      "heatmapData": [
+        "Clics por coleccion, historia, gift boxes, producto y checkout.",
+        "Abandono antes de envio, disponibilidad o pago.",
+        "Piezas con mas deseo y baja conversion."
+      ],
+      "campaigns": [
+        "Campanas por regalo premium y piezas limitadas.",
+        "Remarketing a visitantes de historia o producto sin compra.",
+        "Anuncios para compradores internacionales con confianza y envio guiado."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para ecommerce e historia de impacto.",
+        "Asesor digital para pieza, ocasion, pais, disponibilidad, cuidado, envio y seguimiento.",
+        "Panel por pieza, coleccion, ocasion, pais y estado."
+      ],
+      "sources": [
+        "https://molasasa.com/",
+        "https://www.instagram.com/mola_sasa/"
+      ]
+    },
+    {
+      "slug": "pepa-pombo",
+      "company": "Pepa Pombo",
+      "instagram": "@pepapombocom",
+      "website": "https://pepapombo.us/",
+      "sector": "ready-to-wear colombiano y knitwear premium",
+      "city": "Bogota / internacional",
+      "tone": "lujo, heritage y editorial",
+      "theme": "default",
+      "accent": "#9A3B5D",
+      "secondary": "#D8B46A",
+      "status": "Web activa + Instagram oficial; oportunidad en talla, boutique y compra premium",
+      "leadProblem": "Pepa Pombo comunica knitwear colombiano premium y venta online, pero una compradora puede necesitar guia de talla, fit, ocasion, boutique, envio o disponibilidad antes de pagar una pieza de alto valor.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor premium que filtre ocasion, silueta, talla, ciudad, boutique, envio y seguimiento de carrito.",
+      "proofLine": "Lectura publica del 8 de julio de 2026: pepapombo.us presenta marca colombiana ready-to-wear especializada en knitwear desde 1978, categorias como dresses y outerwear; busqueda publica identifica Instagram @pepapombocom.",
+      "audience": "Compradoras de moda premium, clientas de boutique y visitantes internacionales interesadas en knitwear colombiano.",
+      "adAngle": "Knitwear colombiano + talla guiada + compra premium",
+      "whatsappCta": "Quiero mejorar conversion de moda premium",
+      "heroCopy": "En moda premium, la inspiracion abre la puerta; la talla, ocasion, disponibilidad y asesoria cierran la venta.",
+      "brandWorldTitle": "De heritage visual a compra premium",
+      "diagnosisTitle": "Fugas en talla, boutique y carrito",
+      "botAgentName": "Asesor Pepa Pombo demo",
+      "botAgentRole": "guia talla, ocasion y boutique",
+      "botTitle": "Asesor para compra premium",
+      "botIntro": "El demo ayuda a elegir prenda por ocasion, fit, talla, ciudad y disponibilidad.",
+      "botOpening": "Hola, soy el asesor demo para Pepa Pombo. Puedo ayudarte a elegir pieza por ocasion, silueta, talla, ciudad, boutique, envio y disponibilidad.",
+      "botPrompts": [
+        "Vestido",
+        "Talla",
+        "Boutique",
+        "Envio",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["vestido", "prenda", "look"],
+          "answer": "Pregunta ocasion, estilo, silueta, color, talla usual y fecha para sugerir piezas relevantes."
+        },
+        {
+          "keywords": ["talla", "fit", "medidas"],
+          "answer": "Pide medidas basicas y preferencia de ajuste para orientar antes de carrito o boutique."
+        },
+        {
+          "keywords": ["boutique", "bogota", "cali"],
+          "answer": "Filtra ciudad, disponibilidad y prenda de interes para agendar visita con contexto."
+        },
+        {
+          "keywords": ["mide", "datos", "pauta"],
+          "answer": "Mide pieza vista, talla, ocasion, boutique, carrito, fuente y siguiente accion."
+        }
+      ],
+      "findings": [
+        "La web comunica ready-to-wear colombiano y knitwear con categorias de compra.",
+        "Instagram oficial refuerza posicionamiento premium y editorial.",
+        "La venta de alto valor necesita asesoria de talla y ocasion."
+      ],
+      "siteIssues": [
+        "Las fichas deberian conectar talla, fit, ocasion y disponibilidad.",
+        "La visita a boutique puede llegar con prenda y talla de interes.",
+        "El remarketing debe recuperar por pieza vista, no con mensajes genericos."
+      ],
+      "losses": [
+        "Una compradora se puede frenar por miedo a talla o fit.",
+        "La boutique pierde contexto si la visita llega sin prenda clara.",
+        "Sin seguimiento, carritos premium quedan congelados por dudas pequenas."
+      ],
+      "heatmapData": [
+        "Clics por dresses, outerwear, producto, boutique y checkout.",
+        "Abandono antes de talla, envio o pago.",
+        "Piezas con mayor deseo y menor avance."
+      ],
+      "campaigns": [
+        "Campanas por ocasion y coleccion.",
+        "Remarketing a piezas vistas sin carrito.",
+        "Anuncios para agendar boutique con prenda y talla sugerida."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para ecommerce y ruta de boutique.",
+        "Asesor digital para ocasion, talla, fit, ciudad, disponibilidad, envio y seguimiento.",
+        "Panel por pieza, ocasion, ciudad, fuente y estado."
+      ],
+      "sources": [
+        "https://pepapombo.us/",
+        "https://www.instagram.com/pepapombocom/"
+      ]
+    },
+    {
+      "slug": "st-dom-colombia",
+      "company": "St Dom",
+      "instagram": "@stdomofficial",
+      "website": "https://stdom.co/",
+      "sector": "concept store de moda, arte y diseno latino",
+      "city": "Bogota y Cartagena",
+      "tone": "curado, culto y premium",
+      "theme": "default",
+      "accent": "#111111",
+      "secondary": "#B58D58",
+      "status": "Web activa + Instagram oficial; oportunidad en curaduria, citas y venta asistida",
+      "leadProblem": "St Dom vende una experiencia curada de moda, arte y diseno latino. La fuga no es falta de marca: es convertir descubrimiento en visita, cita, compra online o conversacion con pieza, talla, ciudad y presupuesto.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor de curaduria que filtre ciudad, categoria, disenador, ocasion, presupuesto y disponibilidad antes de WhatsApp o tienda.",
+      "proofLine": "Lectura publica del 8 de julio de 2026: stdom.co responde 200; busqueda publica identifica Instagram @stdomofficial y fuentes publicas describen tiendas en Bogota y Cartagena con moda, arte y diseno latino.",
+      "audience": "Clientes locales y viajeros que buscan moda, accesorios, arte, objetos de diseno y regalos premium en Bogota o Cartagena.",
+      "adAngle": "Curaduria latina + pieza correcta + visita o compra con contexto",
+      "whatsappCta": "Quiero convertir mas visitas en compras curadas",
+      "heroCopy": "Una concept store premium no vende solo productos: guia una curaduria por ciudad, ocasion, disenador, pieza y momento de compra.",
+      "brandWorldTitle": "De descubrimiento cultural a venta asistida",
+      "diagnosisTitle": "Fugas entre inspiracion, tienda y contacto",
+      "botAgentName": "Asesor St Dom demo",
+      "botAgentRole": "curaduria por ciudad y ocasion",
+      "botTitle": "Asesor para curaduria premium",
+      "botIntro": "El demo ayuda a elegir categoria, disenador, ciudad, regalo o visita a tienda con contexto.",
+      "botOpening": "Hola, soy el asesor demo para St Dom. Puedo ayudarte a ubicar piezas por ciudad, categoria, ocasion, presupuesto, disenador y disponibilidad.",
+      "botPrompts": [
+        "Cartagena",
+        "Bogota",
+        "Regalo",
+        "Disenador",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["cartagena", "viaje", "tienda"],
+          "answer": "Pregunta fecha de visita, categoria buscada, ocasion y presupuesto para preparar recomendaciones antes de llegar."
+        },
+        {
+          "keywords": ["regalo", "detalle", "premium"],
+          "answer": "Filtra persona, ocasion, presupuesto, ciudad y tiempo disponible para sugerir piezas o contacto."
+        },
+        {
+          "keywords": ["disenador", "marca", "arte"],
+          "answer": "Pide estilo, categoria y ciudad para dirigir a la curaduria correcta y evitar conversaciones abiertas."
+        },
+        {
+          "keywords": ["mide", "datos", "pauta"],
+          "answer": "Mide ciudad, categoria, disenador, producto, cita, WhatsApp, visita y compra."
+        }
+      ],
+      "findings": [
+        "La presencia publica conecta St Dom con moda, arte, diseno y tiendas en Bogota/Cartagena.",
+        "El cliente puede llegar como turista, comprador de regalo o buscador de disenador.",
+        "La venta premium necesita curaduria y seguimiento con contexto."
+      ],
+      "siteIssues": [
+        "La web puede guiar por ciudad, categoria, ocasion y disponibilidad.",
+        "WhatsApp debe recibir pieza, ciudad y presupuesto desde el primer mensaje.",
+        "La pauta debe separar trafico turistico, regalo y compra local."
+      ],
+      "losses": [
+        "Visitantes interesados guardan el perfil y no concretan visita o contacto.",
+        "El equipo puede recibir preguntas abiertas sin categoria ni presupuesto.",
+        "Sin data por ciudad y categoria, la pauta no aprende que curaduria convierte."
+      ],
+      "heatmapData": [
+        "Clics por ciudad, categoria, disenador, contacto y tienda.",
+        "Abandono antes de WhatsApp o direccion.",
+        "Categorias con mas intencion por ciudad y fuente."
+      ],
+      "campaigns": [
+        "Campanas por destino: Bogota, Cartagena y viajeros premium.",
+        "Remarketing a visitantes de categorias sin contacto.",
+        "Anuncios de regalo y curaduria con asesor previo."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para web, contacto y ruta a tienda.",
+        "Asesor digital para ciudad, categoria, disenador, presupuesto, visita y seguimiento.",
+        "Panel por ciudad, categoria, fuente, cita y estado."
+      ],
+      "sources": [
+        "https://stdom.co/",
+        "https://www.instagram.com/stdomofficial/"
+      ]
+    },
+    {
+      "slug": "polite-ibague",
+      "company": "POLITE",
+      "instagram": "@firmapolite",
+      "website": "https://polite.com.co/",
+      "sector": "moda conceptual y sostenible",
+      "city": "Ibague / Colombia",
+      "tone": "artistico, sostenible y editorial",
+      "theme": "default",
+      "accent": "#6E3D9A",
+      "secondary": "#E6C84F",
+      "status": "Ecommerce activo + Instagram oficial; oportunidad en piezas de alto valor y asesoria",
+      "leadProblem": "POLITE tiene ecommerce con ropa, accesorios, zapatos y colaboraciones. En piezas conceptuales y de alto valor, la compra puede frenarse por talla, styling, disponibilidad, historia de la pieza o confianza antes del pago.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor que explique pieza, fit, talla, ocasion, styling, disponibilidad y seguimiento de carrito.",
+      "proofLine": "Lectura publica del 8 de julio de 2026: polite.com.co responde 200 y muestra tienda con ropa, accesorios, zapatos, colaboraciones y POLITE Experience; busqueda publica identifica Instagram @firmapolite como marca conceptual, innovadora y sostenible de Ibague.",
+      "audience": "Compradores de moda de autor, piezas statement, accesorios y zapatos con interes en diseno colombiano.",
+      "adAngle": "Pieza de autor + historia clara + compra asistida",
+      "whatsappCta": "Quiero convertir mas interes en ventas de autor",
+      "heroCopy": "La moda conceptual vende mejor cuando la historia, la talla, la ocasion y el styling se entienden antes del carrito.",
+      "brandWorldTitle": "De pieza conceptual a compra segura",
+      "diagnosisTitle": "Fugas en historia, talla y confianza",
+      "botAgentName": "Asesor POLITE demo",
+      "botAgentRole": "explica pieza, fit y styling",
+      "botTitle": "Asesor para moda de autor",
+      "botIntro": "El demo conecta historia de la pieza, talla, uso, styling y disponibilidad antes del checkout.",
+      "botOpening": "Hola, soy el asesor demo para POLITE. Puedo ayudarte a elegir pieza por talla, ocasion, historia, styling, disponibilidad y presupuesto.",
+      "botPrompts": [
+        "Blusa",
+        "Styling",
+        "Talla",
+        "Colaboracion",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["blusa", "ropa", "pieza"],
+          "answer": "Pregunta talla, ocasion, estilo deseado, color y disponibilidad para orientar compra de una pieza especifica."
+        },
+        {
+          "keywords": ["styling", "combinar", "look"],
+          "answer": "Sugiere combinaciones con accesorios o zapatos segun ocasion y presupuesto."
+        },
+        {
+          "keywords": ["colaboracion", "experiencia", "autor"],
+          "answer": "Explica el contexto de la coleccion y deriva a producto o contacto con pieza concreta."
+        },
+        {
+          "keywords": ["mide", "datos", "pauta"],
+          "answer": "Mide pieza, talla, styling, carrito, colaboracion, fuente y objecion antes del pago."
+        }
+      ],
+      "findings": [
+        "La web presenta categorias de ropa, accesorios, zapatos y colaboraciones.",
+        "El posicionamiento publico habla de moda conceptual, innovadora y sostenible.",
+        "El valor de la pieza requiere explicacion y asesoria, no solo catalogo."
+      ],
+      "siteIssues": [
+        "Cada ficha puede reforzar historia, fit, styling y disponibilidad.",
+        "El soporte debe recibir pieza, talla y ocasion desde el primer mensaje.",
+        "La pauta necesita medir interes por pieza y coleccion, no solo clics."
+      ],
+      "losses": [
+        "Clientes interesados pueden abandonar si no entienden como usar la pieza.",
+        "La duda de talla frena compras de alto valor.",
+        "Sin seguimiento, visitantes de coleccion no vuelven con contexto."
+      ],
+      "heatmapData": [
+        "Clics por ropa, accesorios, zapatos, colaboraciones y carrito.",
+        "Abandono antes de talla o pago.",
+        "Piezas con mas interes y menor conversion."
+      ],
+      "campaigns": [
+        "Campanas por coleccion y pieza hero.",
+        "Remarketing a visitantes de producto sin carrito.",
+        "Anuncios de styling con asesor digital."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para ecommerce y fichas de producto.",
+        "Asesor digital para pieza, historia, talla, styling, disponibilidad y seguimiento.",
+        "Panel por producto, coleccion, fuente, carrito y estado."
+      ],
+      "sources": [
+        "https://polite.com.co/",
+        "https://www.instagram.com/firmapolite/"
+      ]
+    },
+    {
+      "slug": "velez-artisan",
+      "company": "Velez Artisan",
+      "instagram": "@velezartisan",
+      "website": "https://www.velez.com.co/",
+      "sector": "cuero, bolsos, zapatos y accesorios",
+      "city": "Colombia",
+      "tone": "artesanal, confiable y premium",
+      "theme": "default",
+      "accent": "#6B3F24",
+      "secondary": "#D1A15F",
+      "status": "Ecommerce activo + servicios de tienda; oportunidad en asesoria, personalizacion y omnicanal",
+      "leadProblem": "Velez tiene ecommerce robusto, categorias amplias y servicios como marcacion laser. La fuga probable esta en elegir pieza, talla, material, disponibilidad de tienda, regalo, personalizacion o recogida sin asesoria contextual.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor omnicanal que filtre categoria, uso, talla, ciudad, tienda, personalizacion, regalo y seguimiento de carrito.",
+      "proofLine": "Lectura publica del 8 de julio de 2026: velez.com.co responde 200 y presenta tienda online de ropa, zapatos y accesorios en cuero, categorias, productos hechos a mano y servicios como marcacion laser; busqueda publica identifica Instagram @velezartisan.",
+      "audience": "Clientes que compran bolsos, zapatos, chaquetas, accesorios de cuero, regalos y servicios de personalizacion en Colombia.",
+      "adAngle": "Cuero artesanal + pieza correcta + tienda o compra online",
+      "whatsappCta": "Quiero mejorar conversion omnicanal",
+      "heroCopy": "En cuero y accesorios premium, la compra sube cuando la persona entiende material, talla, uso, tienda, regalo y personalizacion.",
+      "brandWorldTitle": "De catalogo amplio a compra asistida",
+      "diagnosisTitle": "Fugas en categoria, talla y tienda",
+      "botAgentName": "Asesor Velez demo",
+      "botAgentRole": "filtra pieza, talla y tienda",
+      "botTitle": "Asesor omnicanal para cuero",
+      "botIntro": "El demo guia por categoria, talla, uso, ciudad, tienda, regalo y personalizacion.",
+      "botOpening": "Hola, soy el asesor demo para Velez. Puedo ayudarte a elegir bolso, zapato, chaqueta o accesorio por uso, talla, ciudad, tienda, regalo y marcacion.",
+      "botPrompts": [
+        "Bolso",
+        "Zapatos",
+        "Regalo",
+        "Marcacion",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["bolso", "maletin", "cartera"],
+          "answer": "Pregunta uso, tamano, estilo, presupuesto, ciudad y si quiere envio o revisar disponibilidad en tienda."
+        },
+        {
+          "keywords": ["zapatos", "talla", "calzado"],
+          "answer": "Pide talla, uso, tipo de horma, color y ciudad para orientar compra o tienda."
+        },
+        {
+          "keywords": ["regalo", "marcacion", "personalizar"],
+          "answer": "Filtra ocasion, fecha, iniciales o servicio de marcacion, presupuesto y disponibilidad de tienda."
+        },
+        {
+          "keywords": ["mide", "datos", "pauta"],
+          "answer": "Mide categoria, talla, tienda, personalizacion, carrito, WhatsApp y compra final."
+        }
+      ],
+      "findings": [
+        "La web oficial presenta ecommerce de cuero, categorias y servicios.",
+        "Instagram oficial refuerza el posicionamiento artesanal.",
+        "La compra omnicanal necesita conectar web, tienda, personalizacion y seguimiento."
+      ],
+      "siteIssues": [
+        "La experiencia puede guiar por uso, talla, ciudad y tienda antes del carrito.",
+        "La personalizacion requiere una ruta clara por servicio, tienda y fecha.",
+        "El remarketing debe recuperar por categoria, talla y ciudad."
+      ],
+      "losses": [
+        "Clientes se frenan al elegir talla de calzado o disponibilidad en tienda.",
+        "Regalos personalizados pueden perderse si fecha y servicio no quedan claros.",
+        "La pauta puede atraer trafico amplio sin saber categoria real de interes."
+      ],
+      "heatmapData": [
+        "Clics por bolsos, zapatos, chaquetas, servicios, tienda y carrito.",
+        "Abandono antes de talla, tienda o pago.",
+        "Categorias con mayor interes por ciudad."
+      ],
+      "campaigns": [
+        "Campanas por categoria y ocasion de regalo.",
+        "Remarketing a producto visto sin carrito.",
+        "Anuncios de personalizacion con ruta a tienda o web."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para ecommerce, servicios y tienda.",
+        "Asesor digital para categoria, talla, ciudad, tienda, regalo, personalizacion y seguimiento.",
+        "Panel por categoria, ciudad, tienda, servicio, fuente y estado."
+      ],
+      "sources": [
+        "https://www.velez.com.co/",
+        "https://www.instagram.com/velezartisan/"
+      ]
     }
   ]
 }
