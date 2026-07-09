@@ -24413,19 +24413,35 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["gafas", "sol", "marco"],
+          "keywords": [
+            "gafas",
+            "sol",
+            "marco"
+          ],
           "answer": "Pregunta forma de rostro, color preferido, uso diario o viaje, presupuesto y si quiere compra online o probar en tienda."
         },
         {
-          "keywords": ["regalo", "cumpleanos", "detalle"],
+          "keywords": [
+            "regalo",
+            "cumpleanos",
+            "detalle"
+          ],
           "answer": "Pide edad aproximada, estilo de la persona, fecha del regalo, presupuesto y ciudad para recomendar opciones con envio o recogida."
         },
         {
-          "keywords": ["tienda", "cercana", "recoger"],
+          "keywords": [
+            "tienda",
+            "cercana",
+            "recoger"
+          ],
           "answer": "Filtra ciudad y zona para sugerir tienda, confirmar referencia y dejar el WhatsApp con producto y disponibilidad."
         },
         {
-          "keywords": ["mide", "datos", "pauta"],
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
           "answer": "Mide referencia vista, color, ciudad, tienda, carrito, WhatsApp, abandono y compra completada."
         }
       ],
@@ -24499,19 +24515,35 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["piel", "facial", "rutina"],
+          "keywords": [
+            "piel",
+            "facial",
+            "rutina"
+          ],
           "answer": "Pregunta tipo de piel, objetivo, sensibilidad, productos actuales y presupuesto para sugerir rutina y siguiente paso."
         },
         {
-          "keywords": ["regalo", "cumpleanos", "kit"],
+          "keywords": [
+            "regalo",
+            "cumpleanos",
+            "kit"
+          ],
           "answer": "Filtra ocasion, relacion, presupuesto, ciudad y fecha para recomendar sets o rituales con menor friccion."
         },
         {
-          "keywords": ["aroma", "hogar", "vela"],
+          "keywords": [
+            "aroma",
+            "hogar",
+            "vela"
+          ],
           "answer": "Clasifica ambiente, intensidad deseada, notas preferidas y si quiere envio o experiencia en tienda."
         },
         {
-          "keywords": ["mide", "datos", "pauta"],
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
           "answer": "Mide categoria, rutina, ocasion, tienda, carrito, WhatsApp, abandono y recompra."
         }
       ],
@@ -24585,19 +24617,35 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["talla", "fit", "medidas"],
+          "keywords": [
+            "talla",
+            "fit",
+            "medidas"
+          ],
           "answer": "Pregunta medidas, talla usual, tipo de pieza, cobertura deseada y producto visto para orientar antes de comprar."
         },
         {
-          "keywords": ["viaje", "vacaciones", "look"],
+          "keywords": [
+            "viaje",
+            "vacaciones",
+            "look"
+          ],
           "answer": "Filtra destino, fecha, estilo, colores y piezas complementarias para sugerir un look completo."
         },
         {
-          "keywords": ["cambio", "final", "sale"],
+          "keywords": [
+            "cambio",
+            "final",
+            "sale"
+          ],
           "answer": "Aclara politicas visibles de forma orientativa y recomienda validar antes de pagar si es final sale o talla sensible."
         },
         {
-          "keywords": ["mide", "datos", "pauta"],
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
           "answer": "Mide producto visto, talla, color, carrito, duda de cambios, checkout y recuperacion."
         }
       ],
@@ -24671,19 +24719,35 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["bikini", "entero", "swim"],
+          "keywords": [
+            "bikini",
+            "entero",
+            "swim"
+          ],
           "answer": "Pregunta tipo de prenda, cobertura, talla usual, color, coleccion y si busca combinar top y bottom."
         },
         {
-          "keywords": ["set", "look", "combinar"],
+          "keywords": [
+            "set",
+            "look",
+            "combinar"
+          ],
           "answer": "Sugiere armar look por destino, color, piezas complementarias y presupuesto para subir ticket promedio."
         },
         {
-          "keywords": ["envio", "pais", "moneda"],
+          "keywords": [
+            "envio",
+            "pais",
+            "moneda"
+          ],
           "answer": "Filtra pais, urgencia y moneda visible para llevar a checkout con menos incertidumbre."
         },
         {
-          "keywords": ["mide", "datos", "pauta"],
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
           "answer": "Mide coleccion, talla, set, carrito, pais, checkout y recuperacion por producto visto."
         }
       ],
@@ -24757,19 +24821,35 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["vacaciones", "viaje", "resort"],
+          "keywords": [
+            "vacaciones",
+            "viaje",
+            "resort"
+          ],
           "answer": "Pregunta destino, fecha, estilo, cobertura, piezas necesarias y presupuesto para armar recomendacion."
         },
         {
-          "keywords": ["talla", "fit", "medidas"],
+          "keywords": [
+            "talla",
+            "fit",
+            "medidas"
+          ],
           "answer": "Pide talla usual, medidas, tipo de prenda y ajuste preferido para orientar antes de comprar."
         },
         {
-          "keywords": ["envio", "internacional", "shipping"],
+          "keywords": [
+            "envio",
+            "internacional",
+            "shipping"
+          ],
           "answer": "Filtra pais, fecha de viaje y urgencia para evitar que el checkout se frene por tiempos o costos."
         },
         {
-          "keywords": ["mide", "datos", "pauta"],
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
           "answer": "Mide producto, talla, destino, pais, carrito, checkout y objecion de envio."
         }
       ],
@@ -24843,19 +24923,35 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["regalo", "gift", "cumpleanos"],
+          "keywords": [
+            "regalo",
+            "gift",
+            "cumpleanos"
+          ],
           "answer": "Pregunta ocasion, estilo de la persona, fecha, presupuesto y pais para sugerir pieza o gift box."
         },
         {
-          "keywords": ["bolso", "bag", "coleccion"],
+          "keywords": [
+            "bolso",
+            "bag",
+            "coleccion"
+          ],
           "answer": "Filtra tamano, color, uso, disponibilidad y si busca pieza lista o especial."
         },
         {
-          "keywords": ["historia", "artesania", "comunidad"],
+          "keywords": [
+            "historia",
+            "artesania",
+            "comunidad"
+          ],
           "answer": "Explica de forma breve el valor artesanal y envia a la historia de impacto antes de comprar."
         },
         {
-          "keywords": ["mide", "datos", "pauta"],
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
           "answer": "Mide coleccion, ocasion, pais, producto visto, carrito, dudas de envio y compra."
         }
       ],
@@ -24929,19 +25025,35 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["vestido", "prenda", "look"],
+          "keywords": [
+            "vestido",
+            "prenda",
+            "look"
+          ],
           "answer": "Pregunta ocasion, estilo, silueta, color, talla usual y fecha para sugerir piezas relevantes."
         },
         {
-          "keywords": ["talla", "fit", "medidas"],
+          "keywords": [
+            "talla",
+            "fit",
+            "medidas"
+          ],
           "answer": "Pide medidas basicas y preferencia de ajuste para orientar antes de carrito o boutique."
         },
         {
-          "keywords": ["boutique", "bogota", "cali"],
+          "keywords": [
+            "boutique",
+            "bogota",
+            "cali"
+          ],
           "answer": "Filtra ciudad, disponibilidad y prenda de interes para agendar visita con contexto."
         },
         {
-          "keywords": ["mide", "datos", "pauta"],
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
           "answer": "Mide pieza vista, talla, ocasion, boutique, carrito, fuente y siguiente accion."
         }
       ],
@@ -25015,19 +25127,35 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["cartagena", "viaje", "tienda"],
+          "keywords": [
+            "cartagena",
+            "viaje",
+            "tienda"
+          ],
           "answer": "Pregunta fecha de visita, categoria buscada, ocasion y presupuesto para preparar recomendaciones antes de llegar."
         },
         {
-          "keywords": ["regalo", "detalle", "premium"],
+          "keywords": [
+            "regalo",
+            "detalle",
+            "premium"
+          ],
           "answer": "Filtra persona, ocasion, presupuesto, ciudad y tiempo disponible para sugerir piezas o contacto."
         },
         {
-          "keywords": ["disenador", "marca", "arte"],
+          "keywords": [
+            "disenador",
+            "marca",
+            "arte"
+          ],
           "answer": "Pide estilo, categoria y ciudad para dirigir a la curaduria correcta y evitar conversaciones abiertas."
         },
         {
-          "keywords": ["mide", "datos", "pauta"],
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
           "answer": "Mide ciudad, categoria, disenador, producto, cita, WhatsApp, visita y compra."
         }
       ],
@@ -25101,19 +25229,35 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["blusa", "ropa", "pieza"],
+          "keywords": [
+            "blusa",
+            "ropa",
+            "pieza"
+          ],
           "answer": "Pregunta talla, ocasion, estilo deseado, color y disponibilidad para orientar compra de una pieza especifica."
         },
         {
-          "keywords": ["styling", "combinar", "look"],
+          "keywords": [
+            "styling",
+            "combinar",
+            "look"
+          ],
           "answer": "Sugiere combinaciones con accesorios o zapatos segun ocasion y presupuesto."
         },
         {
-          "keywords": ["colaboracion", "experiencia", "autor"],
+          "keywords": [
+            "colaboracion",
+            "experiencia",
+            "autor"
+          ],
           "answer": "Explica el contexto de la coleccion y deriva a producto o contacto con pieza concreta."
         },
         {
-          "keywords": ["mide", "datos", "pauta"],
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
           "answer": "Mide pieza, talla, styling, carrito, colaboracion, fuente y objecion antes del pago."
         }
       ],
@@ -25187,19 +25331,35 @@
       ],
       "chatAnswers": [
         {
-          "keywords": ["bolso", "maletin", "cartera"],
+          "keywords": [
+            "bolso",
+            "maletin",
+            "cartera"
+          ],
           "answer": "Pregunta uso, tamano, estilo, presupuesto, ciudad y si quiere envio o revisar disponibilidad en tienda."
         },
         {
-          "keywords": ["zapatos", "talla", "calzado"],
+          "keywords": [
+            "zapatos",
+            "talla",
+            "calzado"
+          ],
           "answer": "Pide talla, uso, tipo de horma, color y ciudad para orientar compra o tienda."
         },
         {
-          "keywords": ["regalo", "marcacion", "personalizar"],
+          "keywords": [
+            "regalo",
+            "marcacion",
+            "personalizar"
+          ],
           "answer": "Filtra ocasion, fecha, iniciales o servicio de marcacion, presupuesto y disponibilidad de tienda."
         },
         {
-          "keywords": ["mide", "datos", "pauta"],
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
           "answer": "Mide categoria, talla, tienda, personalizacion, carrito, WhatsApp y compra final."
         }
       ],
@@ -25236,6 +25396,1023 @@
       "sources": [
         "https://www.velez.com.co/",
         "https://www.instagram.com/velezartisan/"
+      ]
+    },
+    {
+      "slug": "ekonomodo-colombia",
+      "company": "Ekonomodo",
+      "instagram": "@ekonomodo",
+      "website": "https://ekonomodo.com/",
+      "sector": "muebles y mobiliario para hogar",
+      "city": "Bogota y Medellin",
+      "tone": "calido, practico y confiable",
+      "theme": "default",
+      "accent": "#2F6F5E",
+      "secondary": "#D8A24A",
+      "status": "Web activa + Instagram oficial; oportunidad en cotizacion, medidas y compra asistida",
+      "leadProblem": "Ekonomodo fabrica y vende mobiliario para hogar con sedes en Bogota y Medellin, envios nacionales y web online. La fuga probable esta en que una persona interesada necesita aterrizar ambiente, medidas, material, color, ciudad, entrega, garantia y presupuesto antes de avanzar a compra o WhatsApp.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor digital que convierta visitas de Instagram y web en briefs listos: ambiente, medidas, estilo, ciudad, fecha, presupuesto y producto de interes.",
+      "proofLine": "Lectura publica del 9 de julio de 2026: ekonomodo.com responde HTTP 200; busqueda publica identifica Instagram @ekonomodo con fabricantes de mobiliario, Bogota, Medellin, envios nacionales y web online.",
+      "audience": "Personas que quieren renovar sala, comedor, habitacion o espacios compactos y necesitan elegir mueble sin perder tiempo entre referencias.",
+      "adAngle": "Mueble ideal + medidas claras + asesoria inmediata",
+      "whatsappCta": "Quiero convertir visitas en cotizaciones de muebles",
+      "heroCopy": "En muebles, el interes se enfria cuando la persona no sabe que medida elegir, si cabe en su espacio o como aterrizar el estilo que vio en Instagram.",
+      "brandWorldTitle": "De inspiracion de hogar a cotizacion con contexto",
+      "diagnosisTitle": "Fugas entre referencia, medidas y cierre",
+      "botAgentName": "Asesor Ekonomodo demo",
+      "botAgentRole": "filtra ambiente, medidas y estilo",
+      "botTitle": "Asesor para muebles y espacios",
+      "botIntro": "El demo convierte una consulta abierta en datos utiles para recomendar o cotizar.",
+      "botOpening": "Hola, soy el asesor demo para Ekonomodo. Puedo ayudarte a definir ambiente, medidas, estilo, ciudad, presupuesto y fecha ideal de entrega.",
+      "botPrompts": [
+        "Sala",
+        "Comedor",
+        "Medidas",
+        "Entrega",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sala",
+            "sofa",
+            "sofa"
+          ],
+          "answer": "Pide medidas del espacio, numero de puestos, estilo, color, ciudad y presupuesto para recomendar referencias o pasar a cotizacion."
+        },
+        {
+          "keywords": [
+            "comedor",
+            "mesa",
+            "sillas"
+          ],
+          "answer": "Filtra cantidad de puestos, material, medida disponible, uso diario o social y ciudad de entrega."
+        },
+        {
+          "keywords": [
+            "medida",
+            "medidas",
+            "cabe"
+          ],
+          "answer": "Guia a la persona para enviar ancho, fondo, alto y foto del espacio, evitando conversaciones largas sin contexto."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ambiente, producto, ciudad, medida, presupuesto, WhatsApp, cotizacion y cierre."
+        }
+      ],
+      "findings": [
+        "La presencia publica comunica fabricantes de mobiliario, web online, sedes en Bogota y Medellin y envios nacionales.",
+        "El producto tiene compra consultiva: medidas, colores, materiales y tiempos cambian la decision.",
+        "Instagram inspira, pero la venta necesita capturar datos tecnicos antes de cotizar."
+      ],
+      "siteIssues": [
+        "La web debe llevar rapido de producto visto a consulta con ambiente, medida y ciudad.",
+        "WhatsApp necesita recibir el brief completo para no empezar desde cero.",
+        "La pauta debe diferenciar renovacion de sala, comedor, habitacion y muebles para espacios pequenos."
+      ],
+      "losses": [
+        "Personas guardan publicaciones, pero no cotizan porque no saben si el mueble aplica a su espacio.",
+        "El equipo puede repetir preguntas de medidas, color, ciudad y presupuesto manualmente.",
+        "Sin eventos por ambiente, la pauta no aprende que categoria genera cotizaciones reales."
+      ],
+      "heatmapData": [
+        "Clics por ambiente, producto, medida, ciudad y WhatsApp.",
+        "Abandono antes de enviar datos para cotizar.",
+        "Productos con mucho interes visual y baja solicitud de informacion."
+      ],
+      "campaigns": [
+        "Campanas por ambiente: sala, comedor, habitacion y espacios pequenos.",
+        "Remarketing a visitantes de producto que no pidieron cotizacion.",
+        "Anuncios con asesor de medidas para reducir friccion antes de WhatsApp."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para web actual y rutas a cotizacion.",
+        "Asesor digital para ambiente, medidas, ciudad, presupuesto, entrega y seguimiento.",
+        "Panel por producto, ambiente, fuente, cotizacion y estado comercial."
+      ],
+      "sources": [
+        "https://ekonomodo.com/",
+        "https://www.instagram.com/ekonomodo/"
+      ]
+    },
+    {
+      "slug": "linea-estetica-colombia",
+      "company": "Linea Estetica",
+      "instagram": "@lineaestetica.co",
+      "website": "https://lineaestetica.co/",
+      "sector": "market de bienestar y belleza",
+      "city": "Colombia",
+      "tone": "cercano, experto y comercial",
+      "theme": "default",
+      "accent": "#D85B8C",
+      "secondary": "#45B6A8",
+      "status": "Ecommerce activo + Instagram oficial; oportunidad en recomendacion, rutina y seguimiento",
+      "leadProblem": "Linea Estetica comunica un market de bienestar con productos para piel, maquillaje, cuidado capilar, perfumeria, suplementos y accesorios. La fuga probable esta en que la compradora no siempre sabe que producto elegir, como armar rutina, si aplica a su piel o cuando recomprar.",
+      "opportunity": "Mejorar la conversion de la web actual con una asesora digital que recomiende por necesidad, tipo de piel, presupuesto, marca, ciudad y etapa de compra, conectando carrito, WhatsApp y recompra.",
+      "proofLine": "Lectura publica del 9 de julio de 2026: lineaestetica.co responde HTTP 200; Instagram @lineaestetica.co se presenta como Market de Bienestar con domicilios y envios nacionales; fuentes publicas describen categorias de piel, maquillaje, capilar, perfumeria, suplementos y accesorios.",
+      "audience": "Personas que compran skincare, maquillaje, capilar, perfumeria y bienestar, con dudas antes de elegir producto o rutina.",
+      "adAngle": "Rutina correcta + asesoria inmediata + recompra ordenada",
+      "whatsappCta": "Quiero vender mas con asesoria de bienestar",
+      "heroCopy": "En belleza, la duda no es solo precio: es saber si ese producto sirve para mi piel, mi rutina, mi problema y mi presupuesto.",
+      "brandWorldTitle": "De vitrina de productos a asesoria personalizada",
+      "diagnosisTitle": "Fugas en recomendacion, carrito y recompra",
+      "botAgentName": "Asesora Linea Estetica demo",
+      "botAgentRole": "recomienda rutina, piel y producto",
+      "botTitle": "Asesora para bienestar y belleza",
+      "botIntro": "El demo ayuda a convertir dudas de producto en recomendacion clara y seguimiento.",
+      "botOpening": "Hola, soy la asesora demo para Linea Estetica. Puedo ayudarte con tipo de piel, rutina, producto, presupuesto, envio y recompra.",
+      "botPrompts": [
+        "Skincare",
+        "Capilar",
+        "Maquillaje",
+        "Recompra",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "skincare",
+            "piel",
+            "rutina"
+          ],
+          "answer": "Pregunta tipo de piel, objetivo, productos actuales, sensibilidad y presupuesto para sugerir una ruta simple."
+        },
+        {
+          "keywords": [
+            "capilar",
+            "cabello",
+            "pelo"
+          ],
+          "answer": "Filtra tipo de cabello, problema principal, frecuencia de lavado y marca preferida antes de recomendar."
+        },
+        {
+          "keywords": [
+            "recompra",
+            "volver",
+            "seguimiento"
+          ],
+          "answer": "Agenda recordatorios por producto y consumo estimado para recuperar ventas sin esperar a que la cliente se acuerde."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide necesidad, categoria, marca, producto, carrito, WhatsApp, compra y recompra."
+        }
+      ],
+      "findings": [
+        "La presencia publica muestra ecommerce y comunicacion de envios nacionales.",
+        "El surtido requiere asesoria por necesidad, marca y rutina.",
+        "La recompra es una oportunidad natural si queda capturada la categoria y fecha probable."
+      ],
+      "siteIssues": [
+        "La web puede guiar por problema antes de mostrar demasiados productos.",
+        "WhatsApp debe recibir tipo de piel, categoria y producto visto.",
+        "La pauta debe separar descubrimiento, compra inmediata y recompra."
+      ],
+      "losses": [
+        "Clientes interesadas se frenan por miedo a comprar el producto equivocado.",
+        "El equipo repite preguntas sobre piel, uso y presupuesto.",
+        "Sin seguimiento, la recompra queda dependiendo de memoria de la cliente."
+      ],
+      "heatmapData": [
+        "Clics por categoria, marca, producto, carrito y WhatsApp.",
+        "Abandono antes de elegir producto o completar compra.",
+        "Categorias con alto interes y baja recompra."
+      ],
+      "campaigns": [
+        "Campanas por necesidad: manchas, hidratacion, acne, capilar y maquillaje.",
+        "Remarketing a carrito o producto visto sin compra.",
+        "Flujos de recompra por categoria y ciclo de uso."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para ecommerce actual.",
+        "Asesora digital por necesidad, piel, categoria, marca, presupuesto y recompra.",
+        "Panel por categoria, producto, fuente, carrito, compra y recompra."
+      ],
+      "sources": [
+        "https://lineaestetica.co/",
+        "https://www.instagram.com/lineaestetica.co/"
+      ]
+    },
+    {
+      "slug": "ambiente-gourmet-colombia",
+      "company": "Ambiente Gourmet",
+      "instagram": "@ambientegourmet",
+      "website": "https://www.ambientegourmet.com/",
+      "sector": "articulos de mesa, cocina y hogar",
+      "city": "Colombia",
+      "tone": "elegante, ritual y cercano",
+      "theme": "default",
+      "accent": "#7A8F6A",
+      "secondary": "#C49A6C",
+      "status": "Web activa + Instagram oficial; oportunidad en regalo, mesa y compra asistida",
+      "leadProblem": "Ambiente Gourmet comunica articulos de mesa y cocina y una experiencia alrededor de la mesa. La fuga probable esta en elegir regalo, vajilla, utensilio, coleccion, cantidad, disponibilidad o sede sin una asesoria que traduzca inspiracion en compra.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor que filtre ocasion, presupuesto, estilo, numero de puestos, ciudad y urgencia, para llevar al producto correcto o a WhatsApp con contexto.",
+      "proofLine": "Lectura publica del 9 de julio de 2026: ambientegourmet.com responde HTTP 200; busqueda publica identifica Instagram @ambientegourmet como articulos de mesa y cocina con enfoque en experiencias alrededor de la mesa.",
+      "audience": "Personas que compran regalos, vajillas, utensilios, detalles de cocina y piezas para recibir en casa.",
+      "adAngle": "Mesa con intencion + regalo correcto + compra guiada",
+      "whatsappCta": "Quiero convertir inspiracion en compras de hogar",
+      "heroCopy": "Una mesa bonita genera deseo, pero la compra se cierra cuando la persona sabe que pieza elegir, cuantas necesita y si llega a tiempo.",
+      "brandWorldTitle": "De inspiracion de mesa a compra guiada",
+      "diagnosisTitle": "Fugas en regalo, cantidad y disponibilidad",
+      "botAgentName": "Asesor Ambiente Gourmet demo",
+      "botAgentRole": "filtra ocasion, mesa y regalo",
+      "botTitle": "Asesor para mesa, cocina y regalos",
+      "botIntro": "El demo ayuda a elegir pieza, set o regalo segun ocasion, estilo y presupuesto.",
+      "botOpening": "Hola, soy el asesor demo para Ambiente Gourmet. Puedo ayudarte a elegir regalo, vajilla, utensilio o pieza por ocasion, estilo, presupuesto y ciudad.",
+      "botPrompts": [
+        "Regalo",
+        "Vajilla",
+        "Cocina",
+        "Mesa",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "regalo",
+            "detalle"
+          ],
+          "answer": "Pregunta ocasion, presupuesto, fecha, estilo de la persona y ciudad para recomendar una pieza o set."
+        },
+        {
+          "keywords": [
+            "vajilla",
+            "mesa",
+            "puestos"
+          ],
+          "answer": "Filtra numero de puestos, color, material, uso diario o especial y disponibilidad."
+        },
+        {
+          "keywords": [
+            "cocina",
+            "utensilio",
+            "chef"
+          ],
+          "answer": "Pide tipo de uso, experiencia en cocina, presupuesto y urgencia para guiar a categoria correcta."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ocasion, categoria, presupuesto, producto, ciudad, carrito y WhatsApp."
+        }
+      ],
+      "findings": [
+        "La presencia publica posiciona la marca en mesa, cocina y rituales para compartir.",
+        "El producto se decide por ocasion, estilo, presupuesto y disponibilidad.",
+        "La oportunidad esta en convertir contenido inspiracional en compra con filtro rapido."
+      ],
+      "siteIssues": [
+        "La web puede guiar por ocasion y presupuesto antes de categoria.",
+        "WhatsApp debe recibir producto, ocasion y ciudad desde el primer mensaje.",
+        "La pauta debe medir regalos, mesa diaria, mesa especial y cocina."
+      ],
+      "losses": [
+        "Clientes guardan ideas pero aplazan la compra por no saber que escoger.",
+        "Regalos urgentes se pierden si no queda clara disponibilidad y entrega.",
+        "Sin datos por ocasion, la pauta no aprende que momentos venden mas."
+      ],
+      "heatmapData": [
+        "Clics por ocasion, categoria, presupuesto, carrito y WhatsApp.",
+        "Abandono antes de escoger set o confirmar disponibilidad.",
+        "Productos inspiradores con muchas vistas y baja compra."
+      ],
+      "campaigns": [
+        "Campanas de regalo por ocasion y presupuesto.",
+        "Remarketing a visitantes de colecciones sin compra.",
+        "Anuncios de mesa lista con asesor para cantidad y disponibilidad."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para web actual.",
+        "Asesor digital para regalo, mesa, cocina, presupuesto, ciudad y seguimiento.",
+        "Panel por ocasion, categoria, producto, carrito y estado."
+      ],
+      "sources": [
+        "https://www.ambientegourmet.com/",
+        "https://www.instagram.com/ambientegourmet/"
+      ]
+    },
+    {
+      "slug": "celele-restaurante-cartagena",
+      "company": "Celele Restaurante",
+      "instagram": "@celele_restaurante",
+      "website": "https://celelerestaurante.com/",
+      "sector": "restaurante de cocina caribena contemporanea",
+      "city": "Cartagena",
+      "tone": "gastronomico, cultural y premium",
+      "theme": "default",
+      "accent": "#1F8F8A",
+      "secondary": "#F2B84B",
+      "status": "Web activa + reservas + WhatsApp; oportunidad en concierge de reserva y experiencia",
+      "leadProblem": "Celele ya tiene web, reconocimiento gastronomico, reservas y WhatsApp. La fuga probable no es presencia: es convertir interes de turistas y locales en una reserva clara cuando preguntan fecha, disponibilidad, menu, restricciones, idioma, ubicacion o experiencia.",
+      "opportunity": "Mejorar la conversion de la web actual con un concierge digital que filtre fecha, numero de personas, idioma, alergias, ocasion y preferencia, y lleve a reserva o WhatsApp con contexto.",
+      "proofLine": "Lectura publica del 9 de julio de 2026: celelerestaurante.com responde HTTP 200 y muestra reservas, contacto, direccion en Getsemani, Cartagena y telefono; Instagram @celele_restaurante comunica reserva por web y WhatsApp en resultados publicos.",
+      "audience": "Turistas, foodies, parejas, grupos y visitantes que buscan una experiencia gastronomica caribena en Cartagena.",
+      "adAngle": "Cocina caribena + reserva guiada + experiencia sin friccion",
+      "whatsappCta": "Quiero convertir mas interes en reservas",
+      "heroCopy": "En restaurantes de experiencia, la venta ocurre antes de la mesa: fecha, cupo, ocasion, menu y confianza deben quedar claros rapido.",
+      "brandWorldTitle": "De deseo gastronomico a reserva confirmada",
+      "diagnosisTitle": "Fugas antes de reservar",
+      "botAgentName": "Concierge Celele demo",
+      "botAgentRole": "filtra fecha, personas y experiencia",
+      "botTitle": "Concierge para reservas gastronomicas",
+      "botIntro": "El demo organiza preguntas de reserva, restricciones, idioma y ocasion antes de pasar al canal correcto.",
+      "botOpening": "Hola, soy el concierge demo para Celele. Puedo ayudarte a filtrar fecha, personas, ocasion, restricciones alimentarias, idioma y ruta de reserva.",
+      "botPrompts": [
+        "Reserva",
+        "Menu",
+        "Alergias",
+        "Turista",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "reserva",
+            "fecha",
+            "personas"
+          ],
+          "answer": "Pide fecha, hora, numero de personas, ocasion e idioma para dirigir a reserva con contexto."
+        },
+        {
+          "keywords": [
+            "menu",
+            "degustacion",
+            "platos"
+          ],
+          "answer": "Explica opciones generales y recomienda confirmar disponibilidad o restricciones antes de reservar."
+        },
+        {
+          "keywords": [
+            "alergia",
+            "restriccion",
+            "vegetariano"
+          ],
+          "answer": "Captura restriccion, nivel de severidad y fecha para que el equipo responda con informacion precisa."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide fuente, fecha, personas, idioma, ocasion, reserva iniciada, WhatsApp y confirmacion."
+        }
+      ],
+      "findings": [
+        "La web oficial muestra reservas, contacto, direccion y telefono en Cartagena.",
+        "La experiencia gastronomica puede atraer turistas con dudas de idioma, menu y disponibilidad.",
+        "WhatsApp y reserva deben recibir contexto para no repetir preguntas basicas."
+      ],
+      "siteIssues": [
+        "La web puede reducir friccion entre descubrir el restaurante y reservar.",
+        "El concierge debe manejar idioma, restricciones y ocasion antes de pasar a humano.",
+        "La pauta debe medir reservas iniciadas y conversaciones por fecha."
+      ],
+      "losses": [
+        "Turistas interesados pueden escribir sin fecha ni numero de personas.",
+        "Restricciones alimentarias consumen tiempo si llegan sin estructura.",
+        "Sin seguimiento por fecha, visitantes que no reservaron quedan sin recuperacion."
+      ],
+      "heatmapData": [
+        "Clics en reservas, menu, contacto, WhatsApp y ubicacion.",
+        "Abandono antes de seleccionar fecha o contactar.",
+        "Fuentes que generan mas reservas reales por fecha."
+      ],
+      "campaigns": [
+        "Campanas para turistas en Cartagena con reserva guiada.",
+        "Remarketing a visitantes de menu o reserva sin confirmacion.",
+        "Anuncios por ocasion: pareja, grupo, viaje gastronomico."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para web y reserva actual.",
+        "Concierge digital para fecha, personas, idioma, restricciones, ocasion y seguimiento.",
+        "Panel por fuente, fecha, reserva iniciada, WhatsApp y confirmacion."
+      ],
+      "sources": [
+        "https://celelerestaurante.com/",
+        "https://www.instagram.com/celele_restaurante/"
+      ]
+    },
+    {
+      "slug": "mesa-franca-bogota",
+      "company": "Mesa Franca",
+      "instagram": "@mesafranca",
+      "website": "https://www.restaurantemesafranca.com/",
+      "sector": "restaurante y bar de autor",
+      "city": "Bogota",
+      "tone": "franco, gastronomico y urbano",
+      "theme": "default",
+      "accent": "#3C6E71",
+      "secondary": "#F4A261",
+      "status": "Web activa + reservas + eventos; oportunidad en agenda y eventos especiales",
+      "leadProblem": "Mesa Franca tiene web con reservas, eventos, direccion, contacto administrativo e Instagram. La fuga probable esta en separar reserva normal, evento, grupo, horario, disponibilidad, parqueadero y contacto, para que la intencion no llegue como mensaje abierto.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor que filtre reserva, evento, numero de personas, fecha, hora, presupuesto y necesidad, conectando agenda o WhatsApp con contexto.",
+      "proofLine": "Lectura publica del 9 de julio de 2026: restaurantemesafranca.com responde HTTP 200 y publica reservas, eventos, direccion en Chapinero, Bogota, contacto e Instagram @mesafranca; busqueda publica de Instagram indica informacion y reservas en la pagina web.",
+      "audience": "Comensales en Bogota, parejas, grupos, empresas y personas que buscan restaurante/bar de autor o eventos especiales.",
+      "adAngle": "Reserva clara + grupo correcto + evento con contexto",
+      "whatsappCta": "Quiero ordenar reservas y eventos desde la web",
+      "heroCopy": "Un restaurante con buena demanda pierde menos cuando cada reserva llega con fecha, hora, personas y tipo de ocasion desde el primer contacto.",
+      "brandWorldTitle": "De curiosidad gastronomica a mesa reservada",
+      "diagnosisTitle": "Fugas entre reserva, grupo y evento",
+      "botAgentName": "Asesor Mesa Franca demo",
+      "botAgentRole": "filtra reserva, grupo y evento",
+      "botTitle": "Asesor para reservas y eventos",
+      "botIntro": "El demo separa mesa normal, grupo, evento especial y contacto administrativo.",
+      "botOpening": "Hola, soy el asesor demo para Mesa Franca. Puedo ayudarte a organizar fecha, hora, personas, reserva normal, grupo o evento especial.",
+      "botPrompts": [
+        "Reserva",
+        "Evento",
+        "Grupo",
+        "Parqueadero",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "reserva",
+            "mesa",
+            "fecha"
+          ],
+          "answer": "Pide fecha, hora, numero de personas, nombre y ocasion para dirigir a reserva o contacto correcto."
+        },
+        {
+          "keywords": [
+            "evento",
+            "empresa",
+            "celebracion"
+          ],
+          "answer": "Filtra tipo de evento, fecha, personas, presupuesto aproximado y requerimientos antes de contacto administrativo."
+        },
+        {
+          "keywords": [
+            "grupo",
+            "personas"
+          ],
+          "answer": "Pregunta tamano del grupo, horario flexible, ocasion y datos de contacto para evitar mensajes incompletos."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide reservas iniciadas, eventos, grupos, fuente, fecha, contacto y confirmacion."
+        }
+      ],
+      "findings": [
+        "La web oficial muestra reservas, eventos y datos de contacto.",
+        "Instagram publico remite informacion y reservas a la pagina web.",
+        "La oportunidad esta en separar intencion de mesa, grupo y evento antes de contactar."
+      ],
+      "siteIssues": [
+        "La web puede hacer mas evidente la ruta por tipo de reserva.",
+        "El asesor debe capturar fecha, hora y personas antes de WhatsApp o formulario.",
+        "La pauta debe medir reservas y eventos como objetivos distintos."
+      ],
+      "losses": [
+        "Mensajes sin fecha ni personas aumentan trabajo manual.",
+        "Eventos especiales pueden perderse si no se captura presupuesto y necesidad.",
+        "Visitantes que revisan reservas sin confirmar no quedan en seguimiento."
+      ],
+      "heatmapData": [
+        "Clics en reservas, eventos, contacto, direccion y redes.",
+        "Abandono antes de enviar datos de reserva.",
+        "Diferencia entre interes de mesa y evento especial."
+      ],
+      "campaigns": [
+        "Campanas para reservas de semana y fin de semana.",
+        "Remarketing a visitantes de eventos y reservas sin contacto.",
+        "Anuncios para celebraciones y grupos con formulario corto."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para web y reservas.",
+        "Asesor digital para fecha, personas, evento, grupo, presupuesto y seguimiento.",
+        "Panel por fuente, reserva, evento, fecha y estado."
+      ],
+      "sources": [
+        "https://www.restaurantemesafranca.com/",
+        "https://www.instagram.com/mesafranca/"
+      ]
+    },
+    {
+      "slug": "fedco-colombia",
+      "company": "Fedco",
+      "instagram": "@soyfedco",
+      "website": "https://www.fedco.com.co/",
+      "sector": "belleza, cuidado personal y bienestar",
+      "city": "Colombia",
+      "tone": "experto, femenino y confiable",
+      "theme": "default",
+      "accent": "#7A1F5C",
+      "secondary": "#F0B44D",
+      "status": "Web activa + Instagram oficial; oportunidad en asesoria de belleza y recuperacion de carrito",
+      "leadProblem": "Fedco tiene ecommerce y categorias de belleza, cuidado y bienestar. La fuga probable esta en dudas de producto, marca, piel, aroma, disponibilidad, salon, tienda o carrito, especialmente cuando la persona llega desde redes con una necesidad pero no una referencia exacta.",
+      "opportunity": "Mejorar la conversion de la web actual con una asesora digital que recomiende por necesidad, categoria, marca, presupuesto, tienda cercana y seguimiento de carrito o recompra.",
+      "proofLine": "Lectura publica del 9 de julio de 2026: fedco.com.co responde HTTP 200 y muestra compra por marca, servicio al cliente, tiendas y newsletter; busqueda publica identifica Instagram @soyfedco y comunicacion de guia de belleza.",
+      "audience": "Personas que compran belleza, skincare, fragancias, cuidado capilar y bienestar online o en tienda.",
+      "adAngle": "Belleza guiada + producto correcto + recompra inteligente",
+      "whatsappCta": "Quiero convertir asesoria en ventas medibles",
+      "heroCopy": "En belleza, demasiadas opciones pueden frenar la compra si nadie traduce necesidad, marca y presupuesto en una recomendacion simple.",
+      "brandWorldTitle": "De catalogo de belleza a asesoria que vende",
+      "diagnosisTitle": "Fugas en recomendacion y carrito",
+      "botAgentName": "Asesora Fedco demo",
+      "botAgentRole": "guia belleza, marca y tienda",
+      "botTitle": "Asesora para belleza y bienestar",
+      "botIntro": "El demo responde dudas por necesidad, marca, piel, presupuesto y disponibilidad.",
+      "botOpening": "Hola, soy la asesora demo para Fedco. Puedo ayudarte con skincare, fragancia, capilar, marca, presupuesto, tienda y recompra.",
+      "botPrompts": [
+        "Skincare",
+        "Fragancia",
+        "Capilar",
+        "Tienda",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "skincare",
+            "piel",
+            "rutina"
+          ],
+          "answer": "Pregunta tipo de piel, objetivo, sensibilidad, productos actuales y presupuesto para recomendar una ruta de compra."
+        },
+        {
+          "keywords": [
+            "fragancia",
+            "perfume",
+            "aroma"
+          ],
+          "answer": "Filtra ocasion, familia olfativa, presupuesto y si busca regalo o uso personal."
+        },
+        {
+          "keywords": [
+            "tienda",
+            "disponible",
+            "ciudad"
+          ],
+          "answer": "Pide ciudad y producto de interes para orientar disponibilidad o contacto con tienda."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide necesidad, categoria, marca, tienda, carrito, compra y recompra."
+        }
+      ],
+      "findings": [
+        "La web oficial muestra ecommerce, marcas, servicio al cliente y tiendas.",
+        "La categoria belleza requiere asesoria para reducir compra equivocada.",
+        "La recompra y seguimiento son claves cuando ya se conoce producto o rutina."
+      ],
+      "siteIssues": [
+        "La web puede guiar por necesidad antes de depender de busqueda manual.",
+        "WhatsApp o servicio al cliente deben recibir producto, marca y ciudad.",
+        "La pauta debe separar categoria, marca y objetivo de belleza."
+      ],
+      "losses": [
+        "Carritos se abandonan por duda de producto o marca.",
+        "Clientes repiten preguntas sobre disponibilidad y tienda.",
+        "Sin recompra automatizada, la relacion termina despues de una compra."
+      ],
+      "heatmapData": [
+        "Clics por marca, categoria, producto, tienda y carrito.",
+        "Abandono antes de pago o busqueda de tienda.",
+        "Productos con alto interes y baja recompra."
+      ],
+      "campaigns": [
+        "Campanas por necesidad de belleza y bienestar.",
+        "Remarketing a producto o marca vista sin compra.",
+        "Flujos de recompra por categoria y ciclo de uso."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para ecommerce y tienda.",
+        "Asesora digital para necesidad, producto, marca, tienda, carrito y recompra.",
+        "Panel por categoria, marca, fuente, compra y seguimiento."
+      ],
+      "sources": [
+        "https://www.fedco.com.co/",
+        "https://www.instagram.com/soyfedco/"
+      ]
+    },
+    {
+      "slug": "offcorss-colombia",
+      "company": "OFFCORSS",
+      "instagram": "@offcorss",
+      "website": "https://www.offcorss.com/",
+      "sector": "moda infantil y ropa para ninos",
+      "city": "Colombia",
+      "tone": "colorido, familiar y practico",
+      "theme": "default",
+      "accent": "#FF6F61",
+      "secondary": "#2BA8D9",
+      "status": "Ecommerce activo + Instagram oficial; oportunidad en talla, edad y ocasion",
+      "leadProblem": "OFFCORSS tiene web e Instagram con moda infantil. La fuga probable esta en elegir talla, edad, coleccion, ocasion, disponibilidad, cambios y envio antes de pagar, porque quien compra para ninos necesita seguridad rapida.",
+      "opportunity": "Mejorar la conversion de la web actual con una asesora que filtre edad, talla, ocasion, estilo, ciudad, presupuesto y politica de cambio, conectando producto visto, carrito y WhatsApp.",
+      "proofLine": "Lectura publica del 9 de julio de 2026: offcorss.com responde HTTP 200; busqueda publica identifica Instagram @offcorss con prendas para ninos y compra en pagina web o tienda cercana.",
+      "audience": "Mamas, papas y familiares que compran ropa infantil para colegio, regalo, celebracion, viaje o uso diario.",
+      "adAngle": "Talla correcta + look por ocasion + compra sin duda",
+      "whatsappCta": "Quiero reducir dudas de talla y carrito",
+      "heroCopy": "En moda infantil, la compra se frena cuando la talla, edad, ocasion o cambio no quedan claros antes del pago.",
+      "brandWorldTitle": "De look infantil a compra segura",
+      "diagnosisTitle": "Fugas en talla, edad y cambio",
+      "botAgentName": "Asesora OFFCORSS demo",
+      "botAgentRole": "guia talla, edad y ocasion",
+      "botTitle": "Asesora para looks infantiles",
+      "botIntro": "El demo ayuda a elegir talla, look, ocasion y disponibilidad antes de perder el carrito.",
+      "botOpening": "Hola, soy la asesora demo para OFFCORSS. Puedo ayudarte con edad, talla, ocasion, look, ciudad, envio y cambios.",
+      "botPrompts": [
+        "Talla",
+        "Regalo",
+        "Colegio",
+        "Cambio",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "talla",
+            "edad",
+            "medida"
+          ],
+          "answer": "Pregunta edad, estatura aproximada, peso si aplica, tipo de prenda y preferencia de ajuste para reducir devoluciones."
+        },
+        {
+          "keywords": [
+            "regalo",
+            "cumpleanos",
+            "cumple"
+          ],
+          "answer": "Filtra edad, genero si aplica, estilo, presupuesto y ciudad para sugerir look o tarjeta de regalo."
+        },
+        {
+          "keywords": [
+            "cambio",
+            "devolucion",
+            "envio"
+          ],
+          "answer": "Aclara politica y captura ciudad, producto y urgencia para pasar a soporte con contexto."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide edad, talla, ocasion, producto, carrito, cambio, tienda y compra."
+        }
+      ],
+      "findings": [
+        "La presencia publica comunica moda infantil y compra por web o tienda.",
+        "La decision depende de talla, edad y ocasion.",
+        "El soporte puede reducir friccion si recibe producto y contexto desde la web."
+      ],
+      "siteIssues": [
+        "La web puede guiar por edad, talla y ocasion antes del carrito.",
+        "WhatsApp debe recibir producto, talla y ciudad.",
+        "La pauta debe medir looks por ocasion y edades, no solo clics generales."
+      ],
+      "losses": [
+        "Carritos se abandonan por duda de talla o cambio.",
+        "Regalos se pierden si la persona no sabe que talla comprar.",
+        "El equipo responde dudas repetidas sobre envio, tienda y disponibilidad."
+      ],
+      "heatmapData": [
+        "Clics por edad, talla, coleccion, carrito y cambios.",
+        "Abandono antes de guia de tallas o pago.",
+        "Looks con interes alto y baja compra por talla."
+      ],
+      "campaigns": [
+        "Campanas por ocasion: regreso a clases, regalo, viaje y celebracion.",
+        "Remarketing a producto visto sin carrito.",
+        "Anuncios de talla guiada para reducir abandono."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para ecommerce actual.",
+        "Asesora digital para edad, talla, ocasion, ciudad, cambio y seguimiento.",
+        "Panel por edad, talla, producto, fuente, carrito y compra."
+      ],
+      "sources": [
+        "https://www.offcorss.com/",
+        "https://www.instagram.com/offcorss/"
+      ]
+    },
+    {
+      "slug": "tugo-colombia",
+      "company": "Tugo",
+      "instagram": "@mueblestugo",
+      "website": "https://www.tugo.co/",
+      "sector": "muebles y decoracion",
+      "city": "Colombia",
+      "tone": "moderno, aspiracional y practico",
+      "theme": "default",
+      "accent": "#E23D28",
+      "secondary": "#2B2B2B",
+      "status": "Web activa + tiendas + Instagram oficial; oportunidad en asesoria omnicanal",
+      "leadProblem": "Tugo comunica muebles y decoracion con tiendas en Colombia y web. La fuga probable esta en que la persona compara ambientes, mide espacios, busca disponibilidad en ciudad, quiere entrega o recogida y necesita decidir sin saltar entre Instagram, web, tienda y WhatsApp.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor omnicanal que filtre ambiente, medidas, ciudad, estilo, presupuesto, entrega y tienda cercana para cerrar compra o visita con contexto.",
+      "proofLine": "Lectura publica del 9 de julio de 2026: tugo.co responde HTTP 200; busqueda publica identifica Instagram @mueblestugo con muebles, decoracion, tiendas en principales ciudades y web con envios nacionales.",
+      "audience": "Personas que renuevan hogar, apartamentos, salas, habitaciones, comedores y decoracion con decision online o en tienda.",
+      "adAngle": "Diseno para el hogar + asesor de medidas + tienda o compra online",
+      "whatsappCta": "Quiero mejorar conversion web y tienda",
+      "heroCopy": "En muebles y decoracion, el deseo nace en la imagen pero la venta depende de medida, ciudad, disponibilidad y entrega.",
+      "brandWorldTitle": "De ambiente inspirado a compra omnicanal",
+      "diagnosisTitle": "Fugas en medidas, ciudad y tienda",
+      "botAgentName": "Asesor Tugo demo",
+      "botAgentRole": "filtra ambiente, medida y ciudad",
+      "botTitle": "Asesor omnicanal para hogar",
+      "botIntro": "El demo conecta producto visto con medidas, ciudad, tienda, entrega y presupuesto.",
+      "botOpening": "Hola, soy el asesor demo para Tugo. Puedo ayudarte con ambiente, medidas, estilo, ciudad, entrega, tienda y presupuesto.",
+      "botPrompts": [
+        "Sala",
+        "Habitacion",
+        "Medidas",
+        "Tienda",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sala",
+            "sofa",
+            "mesa"
+          ],
+          "answer": "Pide medidas, estilo, numero de puestos, color, presupuesto y ciudad para recomendar producto o tienda."
+        },
+        {
+          "keywords": [
+            "habitacion",
+            "cama",
+            "closet"
+          ],
+          "answer": "Filtra tamano, medidas, material, ciudad y fecha de entrega ideal."
+        },
+        {
+          "keywords": [
+            "tienda",
+            "ciudad",
+            "disponible"
+          ],
+          "answer": "Captura ciudad y producto para orientar a disponibilidad o visita con contexto."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ambiente, producto, ciudad, tienda, carrito, WhatsApp y compra."
+        }
+      ],
+      "findings": [
+        "La presencia publica comunica muebles, decoracion, tiendas y web.",
+        "La decision se reparte entre inspiracion visual, medidas y disponibilidad.",
+        "Un asesor puede conectar web y tienda con menos preguntas manuales."
+      ],
+      "siteIssues": [
+        "La web puede activar una ruta por ambiente y ciudad antes del carrito.",
+        "El soporte debe recibir producto, medida y ciudad.",
+        "La pauta debe medir categorias que terminan en compra o visita."
+      ],
+      "losses": [
+        "Visitantes guardan productos pero no compran por duda de medidas.",
+        "Clientes saltan a tienda sin contexto comercial medible.",
+        "La pauta amplia puede traer clics sin saber ambiente de interes."
+      ],
+      "heatmapData": [
+        "Clics por ambiente, producto, ciudad, tienda y carrito.",
+        "Abandono antes de entrega o disponibilidad.",
+        "Productos con mucha atencion y baja compra."
+      ],
+      "campaigns": [
+        "Campanas por ambiente y ciudad.",
+        "Remarketing a productos vistos sin carrito.",
+        "Anuncios de asesor de medidas con ruta a tienda o web."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para ecommerce y tiendas.",
+        "Asesor digital para ambiente, medidas, ciudad, tienda, entrega y seguimiento.",
+        "Panel por categoria, ciudad, fuente, tienda, carrito y compra."
+      ],
+      "sources": [
+        "https://www.tugo.co/",
+        "https://www.instagram.com/mueblestugo/"
+      ]
+    },
+    {
+      "slug": "tennis-colombia",
+      "company": "Tennis",
+      "instagram": "@tennis_sa",
+      "website": "https://www.tennis.com.co/",
+      "sector": "moda y ropa casual",
+      "city": "Colombia",
+      "tone": "joven, cotidiano y comercial",
+      "theme": "default",
+      "accent": "#1E4D8F",
+      "secondary": "#F2C94C",
+      "status": "Ecommerce activo + Instagram oficial; oportunidad en talla, look y carrito",
+      "leadProblem": "Tennis tiene tienda online de ropa para mujer, hombre y ninos, y presencia fuerte en Instagram. La fuga probable esta en elegir talla, fit, look, disponibilidad, tienda, cambios y carrito cuando la persona llega desde contenido o live.",
+      "opportunity": "Mejorar la conversion de la web actual con una asesora digital que filtre talla, fit, categoria, ocasion, ciudad y producto visto, y recupere carritos con contexto.",
+      "proofLine": "Lectura publica del 9 de julio de 2026: tennis.com.co responde HTTP 200 y comunica ropa para mujer, hombre y ninos, jeans, camisas, blusas, chaquetas, zapatos y devolucion facil; Instagram @tennis_sa remite al sitio web en resultados publicos.",
+      "audience": "Compradores de moda casual que buscan jeans, camisetas, chaquetas, zapatos y looks para uso diario o temporada.",
+      "adAngle": "Look correcto + talla segura + carrito recuperado",
+      "whatsappCta": "Quiero reducir abandono por talla y fit",
+      "heroCopy": "En moda casual, la venta se frena cuando la talla, el fit o la combinacion no quedan claros antes de pagar.",
+      "brandWorldTitle": "De contenido de moda a carrito con confianza",
+      "diagnosisTitle": "Fugas en talla, fit y recuperacion",
+      "botAgentName": "Asesora Tennis demo",
+      "botAgentRole": "guia talla, fit y look",
+      "botTitle": "Asesora para looks y tallas",
+      "botIntro": "El demo ayuda a elegir producto, talla, fit, look y tienda antes de perder el carrito.",
+      "botOpening": "Hola, soy la asesora demo para Tennis. Puedo ayudarte con talla, fit, jean, look, ciudad, tienda, cambios y carrito.",
+      "botPrompts": [
+        "Jean",
+        "Talla",
+        "Look",
+        "Cambio",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "jean",
+            "fit",
+            "horma"
+          ],
+          "answer": "Pregunta talla habitual, fit buscado, altura aproximada y ocasion para recomendar una ruta de producto."
+        },
+        {
+          "keywords": [
+            "talla",
+            "medida"
+          ],
+          "answer": "Guia a comparar medidas y captura producto visto para reducir cambios."
+        },
+        {
+          "keywords": [
+            "look",
+            "combinar",
+            "outfit"
+          ],
+          "answer": "Sugiere combinaciones por ocasion y presupuesto, conectando varias categorias al carrito."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide talla, fit, categoria, producto, carrito, cambio, tienda y compra."
+        }
+      ],
+      "findings": [
+        "La web oficial comunica ecommerce de ropa para mujer, hombre y ninos.",
+        "Instagram publico conecta contenido y sitio web.",
+        "La moda necesita asistencia por talla, fit y combinacion para mejorar conversion."
+      ],
+      "siteIssues": [
+        "La web puede guiar por fit y ocasion antes de mostrar demasiadas referencias.",
+        "WhatsApp o soporte debe recibir producto, talla y ciudad.",
+        "La pauta debe medir categoria, talla y carrito, no solo visitas."
+      ],
+      "losses": [
+        "Carritos se abandonan por dudas de talla o devolucion.",
+        "Clientes preguntan por disponibilidad sin enviar producto exacto.",
+        "Sin recuperacion, la visita desde Instagram se queda en navegacion."
+      ],
+      "heatmapData": [
+        "Clics por categoria, talla, guia, carrito y cambios.",
+        "Abandono antes de guia de talla o pago.",
+        "Productos con alto interes y baja conversion por fit."
+      ],
+      "campaigns": [
+        "Campanas por jeans, chaquetas, basicos y temporada.",
+        "Remarketing a carrito sin compra.",
+        "Anuncios de fit/talla guiada para reducir friccion."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para ecommerce actual.",
+        "Asesora digital para talla, fit, look, tienda, cambios y seguimiento.",
+        "Panel por categoria, talla, producto, fuente, carrito y compra."
+      ],
+      "sources": [
+        "https://www.tennis.com.co/",
+        "https://www.instagram.com/tennis_sa/"
+      ]
+    },
+    {
+      "slug": "pepe-ganga-colombia",
+      "company": "Pepe Ganga",
+      "instagram": "@pepeganga_co",
+      "website": "https://www.pepeganga.com/",
+      "sector": "jugueteria, bebe, ropa, hogar y tecnologia",
+      "city": "Colombia",
+      "tone": "familiar, amplio y practico",
+      "theme": "default",
+      "accent": "#E21D2F",
+      "secondary": "#FFC400",
+      "status": "Ecommerce activo + Instagram oficial; oportunidad en recomendacion por edad, regalo y categoria",
+      "leadProblem": "Pepe Ganga tiene una tienda online amplia con juguetes, bebe, ropa, hogar y tecnologia. La fuga probable esta en que la persona llega buscando regalo o producto para una edad, pero se pierde entre categorias, marcas, disponibilidad, envio y precio antes de comprar.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor que filtre edad, ocasion, categoria, marca, presupuesto, ciudad y urgencia, recuperando carritos y llevando a producto correcto.",
+      "proofLine": "Lectura publica del 9 de julio de 2026: pepeganga.com responde HTTP 200 y comunica tienda online con juguetes, bebe, ropa, hogar, tecnologia y marcas; busqueda publica identifica Instagram @pepeganga_co como cuenta de juguetes, bebe, ropa y hogar.",
+      "audience": "Familias, padres, tios y compradores de regalos que necesitan encontrar rapido productos por edad, ocasion y presupuesto.",
+      "adAngle": "Regalo por edad + producto correcto + compra sin perderse",
+      "whatsappCta": "Quiero convertir busquedas en compras guiadas",
+      "heroCopy": "Cuando una tienda tiene muchas categorias, la venta mejora si la persona encuentra rapido el regalo, edad o producto correcto.",
+      "brandWorldTitle": "De catalogo amplio a recomendacion accionable",
+      "diagnosisTitle": "Fugas en categoria, edad y carrito",
+      "botAgentName": "Asesor Pepe Ganga demo",
+      "botAgentRole": "filtra edad, regalo y categoria",
+      "botTitle": "Asesor para regalos y compras familiares",
+      "botIntro": "El demo convierte una busqueda amplia en producto recomendado por edad, ocasion, presupuesto y ciudad.",
+      "botOpening": "Hola, soy el asesor demo para Pepe Ganga. Puedo ayudarte a elegir juguete, producto de bebe, ropa, hogar o tecnologia por edad, presupuesto y ciudad.",
+      "botPrompts": [
+        "Regalo",
+        "Bebe",
+        "Juguete",
+        "Presupuesto",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "regalo",
+            "cumpleanos",
+            "cumple"
+          ],
+          "answer": "Pregunta edad, ocasion, presupuesto, intereses y ciudad para sugerir categorias o productos concretos."
+        },
+        {
+          "keywords": [
+            "bebe",
+            "recien",
+            "coche"
+          ],
+          "answer": "Filtra edad del bebe, necesidad, marca, seguridad, presupuesto y urgencia de entrega."
+        },
+        {
+          "keywords": [
+            "juguete",
+            "lego",
+            "barbie"
+          ],
+          "answer": "Pide edad, personaje o marca favorita, presupuesto y disponibilidad para orientar la compra."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide edad, ocasion, categoria, marca, presupuesto, carrito, envio y compra."
+        }
+      ],
+      "findings": [
+        "La web oficial comunica tienda online con multiples categorias y marcas.",
+        "Instagram publico refuerza juguetes, bebe, ropa y hogar.",
+        "La amplitud del catalogo necesita recomendacion por edad, ocasion y presupuesto."
+      ],
+      "siteIssues": [
+        "La web puede resolver busquedas por edad y regalo antes de categoria general.",
+        "WhatsApp debe recibir edad, ocasion y presupuesto.",
+        "La pauta debe medir intencion por categoria y edad."
+      ],
+      "losses": [
+        "Compradores de regalo abandonan si no encuentran rapido una opcion segura.",
+        "El equipo recibe preguntas amplias sin edad ni presupuesto.",
+        "Carritos se pierden si no hay recuperacion por ocasion o fecha."
+      ],
+      "heatmapData": [
+        "Clics por edad, categoria, marca, presupuesto y carrito.",
+        "Abandono antes de producto recomendado o pago.",
+        "Categorias con mucha busqueda y baja conversion."
+      ],
+      "campaigns": [
+        "Campanas por edad y ocasion de regalo.",
+        "Remarketing a visitantes de categoria sin carrito.",
+        "Anuncios de guia de regalos con asesor digital."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para ecommerce actual.",
+        "Asesor digital para edad, categoria, marca, presupuesto, envio y seguimiento.",
+        "Panel por edad, ocasion, categoria, fuente, carrito y compra."
+      ],
+      "sources": [
+        "https://www.pepeganga.com/",
+        "https://www.instagram.com/pepeganga_co/"
       ]
     }
   ]
