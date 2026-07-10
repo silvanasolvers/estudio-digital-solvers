@@ -26414,6 +26414,1012 @@
         "https://www.pepeganga.com/",
         "https://www.instagram.com/pepeganga_co/"
       ]
+    },
+    {
+      "slug": "jamar-colombia",
+      "company": "Jamar Colombia",
+      "instagram": "@mueblesjamar",
+      "website": "https://www.jamar.com/",
+      "sector": "muebles, colchones y decoracion para el hogar",
+      "city": "Colombia",
+      "tone": "familiar, confiable y comercial",
+      "theme": "default",
+      "accent": "#C8202F",
+      "secondary": "#F5B31B",
+      "status": "Web activa + Instagram oficial; oportunidad en asesoria de compra para muebles de alto ticket",
+      "leadProblem": "Jamar ya tiene una web transaccional y una marca reconocida en muebles. La fuga probable aparece cuando la persona se inspira con una sala, alcoba o comedor, pero necesita medidas, credito, disponibilidad, ciudad, entrega y combinacion antes de comprar o visitar tienda.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor digital que convierta inspiracion en brief: ambiente, medidas, ciudad, presupuesto, credito, entrega y producto visto. Asi el equipo recibe conversaciones con contexto y la pauta aprende que ambientes generan compra real.",
+      "proofLine": "Lectura publica del 10 de julio de 2026: jamar.com responde HTTP 200 y comunica muebles para el hogar, credito facil, salas, sofas, alcobas y sedes; busqueda publica identifica Instagram @mueblesjamar como cuenta de Jamar con muebles hechos por manos colombianas.",
+      "audience": "Familias y compradores de hogar que estan renovando sala, alcoba, comedor, colchon o decoracion y necesitan seguridad antes de pagar.",
+      "adAngle": "Mueble ideal + medidas claras + credito/entrega sin friccion",
+      "whatsappCta": "Quiero convertir mas cotizaciones de muebles",
+      "heroCopy": "En muebles, una foto inspira; la venta se cierra cuando medidas, credito, ciudad y entrega quedan claros.",
+      "brandWorldTitle": "De inspiracion de hogar a cotizacion lista",
+      "diagnosisTitle": "Fugas en medidas, credito y entrega",
+      "botAgentName": "Asesor Jamar demo",
+      "botAgentRole": "filtra ambiente, medidas y ciudad",
+      "botTitle": "Asesor para compra de muebles",
+      "botIntro": "El demo convierte una consulta abierta en datos utiles para recomendar, cotizar o enviar a tienda.",
+      "botOpening": "Hola, soy el asesor demo para Jamar. Puedo ayudarte a definir ambiente, medidas, ciudad, presupuesto, credito, disponibilidad y entrega.",
+      "botPrompts": [
+        "Sala",
+        "Alcoba",
+        "Credito",
+        "Entrega",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sala",
+            "sofa",
+            "modular"
+          ],
+          "answer": "Pide medidas del espacio, numero de puestos, estilo, ciudad, presupuesto y fecha de entrega ideal."
+        },
+        {
+          "keywords": [
+            "alcoba",
+            "cama",
+            "colchon"
+          ],
+          "answer": "Filtra tamano, necesidad de colchon, medidas, color, ciudad y si busca compra o cotizacion."
+        },
+        {
+          "keywords": [
+            "credito",
+            "financiacion"
+          ],
+          "answer": "Explica que el flujo puede capturar interes en credito y pasar al asesor con producto, ciudad y monto aproximado."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ambiente, producto, ciudad, credito, tienda, carrito, WhatsApp y compra."
+        }
+      ],
+      "findings": [
+        "La web oficial funciona y presenta muebles, colchones, credito y categorias de hogar.",
+        "Instagram publico refuerza inspiracion visual y marca colombiana.",
+        "La decision de muebles necesita asesoria antes de la compra porque depende de medidas, ciudad y entrega."
+      ],
+      "siteIssues": [
+        "La web puede guiar por ambiente y medidas antes de empujar a carrito o WhatsApp.",
+        "Las consultas deberian llegar con producto, ciudad, medidas y presupuesto.",
+        "La pauta debe diferenciar interes por sala, alcoba, comedor, colchon y credito."
+      ],
+      "losses": [
+        "Visitantes guardan muebles pero abandonan por duda de medida o entrega.",
+        "Conversaciones llegan sin contexto y obligan al asesor a preguntar desde cero.",
+        "Sin medicion por ambiente, la pauta puede traer clics sin saber que linea vende mejor."
+      ],
+      "heatmapData": [
+        "Clics por ambiente, producto, medidas, credito, tienda y carrito.",
+        "Abandono antes de entrega, financiacion o disponibilidad.",
+        "Productos con alto interes visual y baja cotizacion."
+      ],
+      "campaigns": [
+        "Campanas por ambiente: salas, alcobas, comedores y colchones.",
+        "Remarketing a productos vistos sin carrito o sin WhatsApp.",
+        "Anuncios de asesor de medidas y credito para compras de alto ticket."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para ecommerce y tiendas actuales.",
+        "Asesor digital para ambiente, medidas, ciudad, credito, entrega y seguimiento.",
+        "Panel por ambiente, ciudad, fuente, credito, carrito, WhatsApp y compra."
+      ],
+      "sources": [
+        "https://www.jamar.com/",
+        "https://www.instagram.com/mueblesjamar/"
+      ]
+    },
+    {
+      "slug": "arturo-calle-oficial",
+      "company": "Arturo Calle",
+      "instagram": "@arturocalleoficial",
+      "website": "https://www.arturocalle.com/",
+      "sector": "moda masculina, femenina, calzado y accesorios",
+      "city": "Colombia",
+      "tone": "elegante, confiable y omnicanal",
+      "theme": "default",
+      "accent": "#111111",
+      "secondary": "#C7A45B",
+      "status": "Ecommerce activo + Instagram oficial; oportunidad en talla, ocasion, tienda y carrito",
+      "leadProblem": "Arturo Calle tiene web, tiendas y presencia social fuerte. La fuga probable no esta en falta de marca, sino en decisiones que se enfrian: talla, fit, ocasion, disponibilidad en tienda, cambios, regalo o carrito cuando la persona llega desde Instagram.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor omnicanal que recomiende por ocasion, talla, ciudad, tienda, presupuesto y producto visto, y recupere carritos con contexto comercial.",
+      "proofLine": "Lectura publica del 10 de julio de 2026: arturocalle.com responde HTTP 200; busqueda publica identifica Instagram @arturocalleoficial con presencia en Colombia y otros paises.",
+      "audience": "Compradores de ropa formal, casual, calzado y regalos que quieren decidir rapido entre web y tienda fisica.",
+      "adAngle": "Look correcto + talla segura + tienda o checkout sin dudas",
+      "whatsappCta": "Quiero mejorar conversion omnicanal",
+      "heroCopy": "En moda omnicanal, el cliente no solo compra una prenda: decide talla, ocasion, tienda y confianza.",
+      "brandWorldTitle": "De marca reconocida a compra asistida",
+      "diagnosisTitle": "Fugas en talla, ocasion y tienda",
+      "botAgentName": "Asesor Arturo Calle demo",
+      "botAgentRole": "guia talla, ocasion y tienda",
+      "botTitle": "Asesor omnicanal de estilo",
+      "botIntro": "El demo responde dudas de talla, fit, regalo, disponibilidad, cambios y tienda antes de perder el carrito.",
+      "botOpening": "Hola, soy el asesor demo para Arturo Calle. Puedo ayudarte con ocasion, talla, fit, ciudad, tienda, regalo, cambios y carrito.",
+      "botPrompts": [
+        "Traje",
+        "Talla",
+        "Regalo",
+        "Tienda",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "traje",
+            "formal",
+            "camisa"
+          ],
+          "answer": "Pregunta ocasion, talla habitual, ciudad, presupuesto y fecha para recomendar una ruta de producto o tienda."
+        },
+        {
+          "keywords": [
+            "talla",
+            "fit",
+            "medida"
+          ],
+          "answer": "Guia la comparacion de medidas y captura producto visto para reducir cambios."
+        },
+        {
+          "keywords": [
+            "regalo"
+          ],
+          "answer": "Filtra persona, ocasion, presupuesto, estilo y ciudad para sugerir categorias seguras."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide categoria, talla, ocasion, ciudad, tienda, carrito, WhatsApp y compra."
+        }
+      ],
+      "findings": [
+        "La web oficial responde y funciona como canal comercial propio.",
+        "Instagram oficial aparece publicamente como cuenta de marca Arturo Calle.",
+        "La oportunidad esta en asistencia y seguimiento, no en crear presencia desde cero."
+      ],
+      "siteIssues": [
+        "La web puede activar recomendacion por ocasion y talla antes del checkout.",
+        "El soporte deberia recibir producto, talla, ciudad y tienda de interes.",
+        "La pauta necesita eventos por categoria, ocasion, tienda y compra."
+      ],
+      "losses": [
+        "Carritos abandonados por dudas de talla, fit o cambios.",
+        "Usuarios que prefieren tienda pueden llegar sin producto ni ciudad clara.",
+        "La pauta puede medir clics, pero no suficiente intencion por ocasion."
+      ],
+      "heatmapData": [
+        "Clics por categoria, guia de talla, tienda, carrito y cambios.",
+        "Abandono antes de talla, disponibilidad o pago.",
+        "Prendas con alto interes y baja compra por fit."
+      ],
+      "campaigns": [
+        "Campanas por ocasion: oficina, boda, regalo, casual y temporada.",
+        "Remarketing a productos vistos y carritos sin compra.",
+        "Anuncios de asesoria de talla con ruta a tienda o checkout."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para ecommerce actual.",
+        "Asesor digital para ocasion, talla, ciudad, tienda, regalo, cambios y seguimiento.",
+        "Panel por categoria, ocasion, ciudad, fuente, carrito y compra."
+      ],
+      "sources": [
+        "https://www.arturocalle.com/",
+        "https://www.instagram.com/arturocalleoficial/"
+      ]
+    },
+    {
+      "slug": "studio-f-colombia",
+      "company": "Studio F Colombia",
+      "instagram": "@studiofcolombia",
+      "website": "https://www.studiof.com.co/",
+      "sector": "moda femenina y ecommerce",
+      "city": "Colombia",
+      "tone": "aspiracional, femenino y comercial",
+      "theme": "default",
+      "accent": "#9B0F2E",
+      "secondary": "#E8C7A2",
+      "status": "Ecommerce activo + Instagram oficial; oportunidad en talla, look y recuperacion de carrito",
+      "leadProblem": "Studio F vende deseo visual desde Instagram y web. La fuga probable aparece cuando la compradora duda entre tallas, fit, coleccion, look completo, disponibilidad, cambios o envio antes de pagar.",
+      "opportunity": "Mejorar la conversion de la web actual con una asesora digital que conecte producto visto, talla, ocasion, ciudad, presupuesto y combinaciones, y active seguimiento para carritos o visitas que no compran.",
+      "proofLine": "Lectura publica del 10 de julio de 2026: studiof.com.co responde HTTP 200; busqueda publica identifica Instagram @studiofcolombia y menciona web studiof.com.co.",
+      "audience": "Mujeres que compran ropa, jeans, vestidos, tops, accesorios y looks para trabajo, eventos o temporada.",
+      "adAngle": "Look completo + talla segura + carrito recuperado",
+      "whatsappCta": "Quiero reducir abandono por talla y look",
+      "heroCopy": "En moda femenina, la compra se acelera cuando talla, ocasion y combinacion se resuelven antes del checkout.",
+      "brandWorldTitle": "De deseo visual a compra asistida",
+      "diagnosisTitle": "Fugas en talla, fit y look completo",
+      "botAgentName": "Asesora Studio F demo",
+      "botAgentRole": "guia talla, fit y ocasion",
+      "botTitle": "Asesora para looks y carritos",
+      "botIntro": "El demo ayuda a elegir prenda, talla, fit, ocasion, tienda y combinacion para bajar abandono.",
+      "botOpening": "Hola, soy la asesora demo para Studio F. Puedo ayudarte con talla, fit, ocasion, look completo, disponibilidad, cambios y envio.",
+      "botPrompts": [
+        "Jean",
+        "Vestido",
+        "Talla",
+        "Look",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "jean",
+            "fit",
+            "horma"
+          ],
+          "answer": "Pregunta talla habitual, fit deseado, color, altura aproximada y ocasion para recomendar ruta de producto."
+        },
+        {
+          "keywords": [
+            "vestido",
+            "evento"
+          ],
+          "answer": "Filtra ocasion, talla, color, ciudad, presupuesto y fecha para sugerir opciones y accesorios."
+        },
+        {
+          "keywords": [
+            "look",
+            "combinar"
+          ],
+          "answer": "Sugiere piezas complementarias y captura presupuesto para aumentar ticket promedio."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide talla, fit, categoria, producto, carrito, guia de cambios y compra."
+        }
+      ],
+      "findings": [
+        "La web oficial responde como canal propio de ecommerce.",
+        "Instagram oficial aparece con marca Studio F Colombia y enlace a la web.",
+        "La moda de alto deseo necesita guia de talla, fit y combinacion para no perder carritos."
+      ],
+      "siteIssues": [
+        "La web puede guiar por ocasion y fit antes de saturar con referencias.",
+        "El soporte debe recibir producto, talla y ciudad.",
+        "La pauta deberia separar interes por jean, vestido, coleccion y carrito."
+      ],
+      "losses": [
+        "Compradoras abandonan por inseguridad de talla o cambios.",
+        "Producto visto en Instagram no siempre llega con contexto al chat.",
+        "Sin seguimiento por look, la visita se queda en inspiracion."
+      ],
+      "heatmapData": [
+        "Clics por categoria, talla, fit, guia, carrito y cambios.",
+        "Abandono antes de guia de talla o pago.",
+        "Looks con alto interes y baja compra."
+      ],
+      "campaigns": [
+        "Campanas por coleccion, jean, vestidos y ocasion.",
+        "Remarketing a carrito sin compra y producto visto.",
+        "Anuncios de asesoria de talla/look con CTA a compra asistida."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para ecommerce actual.",
+        "Asesora digital para talla, fit, ocasion, look, tienda, cambios y seguimiento.",
+        "Panel por categoria, talla, producto, fuente, carrito y compra."
+      ],
+      "sources": [
+        "https://www.studiof.com.co/",
+        "https://www.instagram.com/studiofcolombia/"
+      ]
+    },
+    {
+      "slug": "farmatodo-colombia",
+      "company": "Farmatodo Colombia",
+      "instagram": "@farmatodocol",
+      "website": "https://www.farmatodo.com.co/",
+      "sector": "drogueria, salud, belleza, bebe, cuidado personal y delivery",
+      "city": "Colombia",
+      "tone": "practico, confiable y rapido",
+      "theme": "default",
+      "accent": "#0077C8",
+      "secondary": "#F5C400",
+      "status": "Web activa de farmacia y delivery; oportunidad en busqueda, recompra y asesoria por necesidad",
+      "leadProblem": "Farmatodo tiene una web amplia con salud, medicamentos, belleza, bebe, cuidado personal, alimentos y hogar. La fuga probable esta en busquedas urgentes o recurrentes: la persona no encuentra rapido producto, sustituto, tienda, disponibilidad, domicilio o recompra.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor digital por necesidad: medicamento/categoria, ciudad, disponibilidad, alternativa, frecuencia de recompra y entrega. Esto ordena dudas antes del carrito y alimenta remarketing util.",
+      "proofLine": "Lectura publica del 10 de julio de 2026: farmatodo.com.co responde HTTP 200 y comunica farmacia/drogueria online, categorias de salud, belleza, bebe, cuidado personal, alimentos, hogar y ubicacion de tiendas.",
+      "audience": "Personas que compran medicamentos, dermocosmetica, bebe, cuidado personal, alimentos y productos recurrentes con necesidad de entrega rapida.",
+      "adAngle": "Necesidad urgente + producto correcto + entrega/recompra sin friccion",
+      "whatsappCta": "Quiero mejorar busqueda y recompra",
+      "heroCopy": "En farmacia y conveniencia, la velocidad importa: si el producto no aparece claro, la compra se va a otra app.",
+      "brandWorldTitle": "De catalogo amplio a compra por necesidad",
+      "diagnosisTitle": "Fugas en busqueda, disponibilidad y recompra",
+      "botAgentName": "Asesor Farmatodo demo",
+      "botAgentRole": "filtra necesidad, ciudad y recompra",
+      "botTitle": "Asesor para compra y recompra",
+      "botIntro": "El demo orienta por categoria, ciudad, disponibilidad, alternativa y frecuencia de recompra sin dar consejo medico.",
+      "botOpening": "Hola, soy el asesor demo para Farmatodo. Puedo ayudarte a ordenar categoria, ciudad, disponibilidad, entrega y recompra. Para decisiones medicas, siempre debe validar un profesional.",
+      "botPrompts": [
+        "Medicamento",
+        "Belleza",
+        "Bebe",
+        "Entrega",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "medicamento",
+            "salud"
+          ],
+          "answer": "Pide producto o categoria, ciudad y urgencia; evita recomendaciones medicas y orienta a disponibilidad o soporte."
+        },
+        {
+          "keywords": [
+            "belleza",
+            "dermo",
+            "skincare"
+          ],
+          "answer": "Filtra necesidad de piel, marca buscada, presupuesto y ciudad para encontrar categoria o producto."
+        },
+        {
+          "keywords": [
+            "bebe",
+            "panal",
+            "pañal"
+          ],
+          "answer": "Pregunta edad/talla, marca, cantidad, ciudad y recurrencia para facilitar compra repetida."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide categoria, ciudad, busqueda, disponibilidad, carrito, entrega y recompra."
+        }
+      ],
+      "findings": [
+        "La web oficial comunica farmacia online y categorias amplias.",
+        "La experiencia incluye busqueda de tienda y multiples lineas de compra.",
+        "La oportunidad es guiar por necesidad y frecuencia, no crear una web nueva."
+      ],
+      "siteIssues": [
+        "La web puede reducir friccion en busquedas urgentes o productos recurrentes.",
+        "El asesor debe manejar contexto sin hacer recomendaciones medicas.",
+        "La pauta debe diferenciar intencion por categoria, ciudad y recompra."
+      ],
+      "losses": [
+        "Compras urgentes se pierden si disponibilidad o entrega no quedan claras.",
+        "Clientes recurrentes pueden no quedar segmentados para recompra.",
+        "Catalogo amplio puede generar busquedas sin carrito."
+      ],
+      "heatmapData": [
+        "Clics por categoria, busqueda, ciudad, entrega y carrito.",
+        "Abandono antes de disponibilidad o pago.",
+        "Productos recurrentes con alta vista y baja recompra."
+      ],
+      "campaigns": [
+        "Campanas por necesidad: bebe, belleza, cuidado personal y hogar.",
+        "Remarketing a categorias vistas sin compra.",
+        "Flujos de recompra para productos recurrentes con consentimiento."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para web y delivery actual.",
+        "Asesor digital para categoria, ciudad, disponibilidad, entrega, recompra y seguimiento.",
+        "Panel por categoria, ciudad, fuente, busqueda, carrito y compra."
+      ],
+      "sources": [
+        "https://www.farmatodo.com.co/",
+        "https://www.instagram.com/farmatodocol/"
+      ]
+    },
+    {
+      "slug": "smart-fit-colombia",
+      "company": "Smart Fit Colombia",
+      "instagram": "@smartfitco",
+      "website": "https://www.smartfit.com.co/",
+      "sector": "gimnasios, membresias fitness y clases",
+      "city": "Colombia",
+      "tone": "energetico, claro y masivo",
+      "theme": "default",
+      "accent": "#F6C600",
+      "secondary": "#111111",
+      "status": "Web activa + Instagram oficial; oportunidad en eleccion de plan, sede y permanencia",
+      "leadProblem": "Smart Fit ya tiene web para elegir plan y sedes. La fuga probable aparece cuando una persona interesada no entiende diferencia entre planes, permanencia, sede, horarios, clases, coach o beneficios antes de inscribirse.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor de membresia que filtre objetivo, ciudad, sede, horario, presupuesto, plan y dudas de permanencia, dejando una ruta clara hacia inscripcion o WhatsApp.",
+      "proofLine": "Lectura publica del 10 de julio de 2026: smartfit.com.co responde HTTP 200 y comunica planes, sedes, clases, tecnologia e inscripcion; busqueda publica identifica Instagram @smartfitco como cuenta de Smart Fit Colombia.",
+      "audience": "Personas que quieren empezar o retomar entrenamiento y comparan sede, plan, precio, horarios y beneficios.",
+      "adAngle": "Plan correcto + sede cercana + inscripcion sin dudas",
+      "whatsappCta": "Quiero convertir mas interesados en miembros",
+      "heroCopy": "En gimnasios, la motivacion se enfria cuando la persona no entiende plan, sede, permanencia o siguiente paso.",
+      "brandWorldTitle": "De interes fitness a membresia activada",
+      "diagnosisTitle": "Fugas en plan, sede y permanencia",
+      "botAgentName": "Asesor Smart Fit demo",
+      "botAgentRole": "filtra objetivo, sede y plan",
+      "botTitle": "Asesor de membresia fitness",
+      "botIntro": "El demo ayuda a elegir plan, sede, horarios, clases y siguiente paso de inscripcion.",
+      "botOpening": "Hola, soy el asesor demo para Smart Fit. Puedo ayudarte a elegir sede, objetivo, horario, plan, clases y resolver dudas antes de inscribirte.",
+      "botPrompts": [
+        "Plan",
+        "Sede",
+        "Clases",
+        "Permanencia",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "plan",
+            "black",
+            "fit",
+            "smart"
+          ],
+          "answer": "Pregunta objetivo, presupuesto, ciudad, sede favorita y beneficios buscados para explicar la ruta de plan."
+        },
+        {
+          "keywords": [
+            "sede",
+            "horario",
+            "cerca"
+          ],
+          "answer": "Captura ciudad, zona, horario de entrenamiento y servicios esperados para orientar a sede."
+        },
+        {
+          "keywords": [
+            "clase",
+            "coach"
+          ],
+          "answer": "Filtra objetivo y preferencia para mostrar clases o acompanamiento que reduzca abandono temprano."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ciudad, sede, plan, clase, inicio de inscripcion, abandono y membresia completada."
+        }
+      ],
+      "findings": [
+        "La web oficial comunica planes, sedes e inscripcion online.",
+        "Instagram oficial aparece publicamente como @smartfitco.",
+        "La decision de membresia necesita resolver sede, plan, permanencia y objetivo."
+      ],
+      "siteIssues": [
+        "La web puede guiar por objetivo antes de mostrar planes.",
+        "El soporte debe recibir ciudad, sede, horario y plan de interes.",
+        "La pauta debe medir inscripcion iniciada y completada, no solo visitas."
+      ],
+      "losses": [
+        "Interesados motivados abandonan si no entienden plan o permanencia.",
+        "Dudas de sede y horarios frenan el alta.",
+        "Sin seguimiento, la motivacion del lead dura poco."
+      ],
+      "heatmapData": [
+        "Clics por plan, sede, clases, beneficios e inscripcion.",
+        "Abandono antes de pago o datos personales.",
+        "Sedes con mucho interes y baja conversion."
+      ],
+      "campaigns": [
+        "Campanas por objetivo: empezar, volver, bajar grasa, fuerza y clases.",
+        "Remarketing a inscripcion iniciada sin pago.",
+        "Mensajes por sede y horario con asesor de plan."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para planes y sedes actuales.",
+        "Asesor digital para objetivo, sede, plan, horario, permanencia y seguimiento.",
+        "Panel por ciudad, sede, plan, fuente, inscripcion y alta."
+      ],
+      "sources": [
+        "https://www.smartfit.com.co/",
+        "https://www.instagram.com/smartfitco/"
+      ]
+    },
+    {
+      "slug": "bodytech-colombia",
+      "company": "Bodytech Colombia",
+      "instagram": "@clubbodytech",
+      "website": "https://bodytech.com.co/",
+      "sector": "gimnasios, salud, entrenamiento y bienestar",
+      "city": "Colombia",
+      "tone": "saludable, experto y comercial",
+      "theme": "default",
+      "accent": "#F58220",
+      "secondary": "#343A40",
+      "status": "Web oficial + Instagram oficial; oportunidad en valoracion, sede, plan y seguimiento",
+      "leadProblem": "Bodytech comunica entrenamiento, salud y vida activa. La fuga probable esta en convertir interes en valoracion o membresia cuando la persona necesita sede, objetivo, plan, horarios, servicios, entrenamiento personalizado o dudas antes de pagar.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor de salud/fitness que filtre objetivo, sede, disponibilidad, tipo de plan, interes en valoracion y barreras de inicio, para que comercial reciba leads con contexto.",
+      "proofLine": "Lectura publica del 10 de julio de 2026: busqueda publica identifica bodytech.com.co como sitio de gimnasios en Bogota, Medellin, Cali, Cartagena y otras ciudades; busqueda publica identifica Instagram @clubbodytech como cuenta oficial con enfoque en entrenamiento, salud y vida.",
+      "audience": "Personas que quieren entrenar con acompaniamiento, mejorar salud, retomar rutina o elegir sede y plan.",
+      "adAngle": "Objetivo personal + sede correcta + valoracion guiada",
+      "whatsappCta": "Quiero convertir interesados en valoraciones",
+      "heroCopy": "En fitness con enfoque de salud, el lead necesita sentir que el plan entiende su objetivo antes de pagar.",
+      "brandWorldTitle": "De interes en salud a valoracion comercial",
+      "diagnosisTitle": "Fugas en sede, objetivo y plan",
+      "botAgentName": "Asesor Bodytech demo",
+      "botAgentRole": "filtra objetivo, sede y valoracion",
+      "botTitle": "Asesor para membresia y valoracion",
+      "botIntro": "El demo ordena objetivo, sede, horario, acompanamiento y dudas para activar seguimiento comercial.",
+      "botOpening": "Hola, soy el asesor demo para Bodytech. Puedo ayudarte con objetivo, sede, horario, tipo de entrenamiento, valoracion y plan.",
+      "botPrompts": [
+        "Objetivo",
+        "Sede",
+        "Valoracion",
+        "Plan",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "objetivo",
+            "bajar",
+            "masa",
+            "salud"
+          ],
+          "answer": "Pregunta objetivo, experiencia, horario, ciudad y necesidad de acompanamiento para orientar plan o valoracion."
+        },
+        {
+          "keywords": [
+            "sede",
+            "horario"
+          ],
+          "answer": "Captura ciudad, zona, disponibilidad y servicios esperados para enviar al canal correcto."
+        },
+        {
+          "keywords": [
+            "valoracion",
+            "personalizado"
+          ],
+          "answer": "Explica el valor de capturar datos previos y agendar una llamada o visita mejor preparada."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ciudad, sede, objetivo, valoracion, plan, contacto y alta."
+        }
+      ],
+      "findings": [
+        "La presencia publica comunica gimnasios y enfoque en salud/entrenamiento.",
+        "Instagram oficial aparece como @clubbodytech.",
+        "La oportunidad esta en filtrar objetivo y sede para acelerar conversion comercial."
+      ],
+      "siteIssues": [
+        "La web puede convertir mejor si guia por objetivo antes del plan.",
+        "El asesor debe entregar sede, horario y meta del usuario.",
+        "La pauta deberia medir valoraciones y altas por sede."
+      ],
+      "losses": [
+        "Leads motivados se enfrion si no reciben ruta rapida de plan o valoracion.",
+        "Preguntas repetidas sobre sedes y horarios consumen tiempo comercial.",
+        "Sin seguimiento por objetivo, todos los interesados reciben el mismo mensaje."
+      ],
+      "heatmapData": [
+        "Clics por sede, objetivo, plan, valoracion y contacto.",
+        "Abandono antes de formulario o pago.",
+        "Sedes/campanas con alto interes y baja alta."
+      ],
+      "campaigns": [
+        "Campanas por objetivo y ciudad.",
+        "Remarketing a visitantes de planes o sedes sin contacto.",
+        "Anuncios de valoracion guiada con asesor digital."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para web y sedes actuales.",
+        "Asesor digital para objetivo, sede, plan, valoracion, horario y seguimiento.",
+        "Panel por sede, objetivo, fuente, valoracion, contacto y alta."
+      ],
+      "sources": [
+        "https://bodytech.com.co/",
+        "https://www.instagram.com/clubbodytech/"
+      ]
+    },
+    {
+      "slug": "panamericana-colombia",
+      "company": "Panamericana",
+      "instagram": "@panamericana",
+      "website": "https://www.panamericana.com.co/",
+      "sector": "libreria, papeleria, arte, tecnologia, juguetes y tienda online",
+      "city": "Colombia",
+      "tone": "practico, educativo y omnicanal",
+      "theme": "default",
+      "accent": "#005AAA",
+      "secondary": "#E31E24",
+      "status": "Web activa + Instagram oficial; oportunidad en catalogo amplio, regalos y tienda cercana",
+      "leadProblem": "Panamericana tiene un catalogo amplio entre libros, papeleria, tecnologia, arte, decoracion y juguetes. La fuga probable esta en que el cliente busca regalo, lista escolar, libro o producto especifico y se pierde entre categorias, disponibilidad, domicilio o tienda.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor que filtre necesidad, edad/curso, autor, presupuesto, ciudad, tienda y urgencia, reduciendo busquedas sin compra y llevando a carrito o visita con contexto.",
+      "proofLine": "Lectura publica del 10 de julio de 2026: panamericana.com.co responde HTTP 200; busqueda publica identifica Instagram @panamericana y la marca como libreria/papeleria con tienda online y presencia en Colombia.",
+      "audience": "Padres, estudiantes, lectores, compradores de regalos, empresas y personas que buscan papeleria, libros o tecnologia.",
+      "adAngle": "Producto correcto + ciudad/tienda + compra sin perderse",
+      "whatsappCta": "Quiero convertir busquedas en compras",
+      "heroCopy": "Cuando el catalogo es enorme, vender mas depende de encontrar rapido el libro, regalo o lista correcta.",
+      "brandWorldTitle": "De busqueda amplia a recomendacion accionable",
+      "diagnosisTitle": "Fugas en categoria, tienda y carrito",
+      "botAgentName": "Asesor Panamericana demo",
+      "botAgentRole": "filtra producto, ciudad y regalo",
+      "botTitle": "Asesor para catalogo y regalos",
+      "botIntro": "El demo guia por libro, lista escolar, regalo, categoria, presupuesto, ciudad y tienda.",
+      "botOpening": "Hola, soy el asesor demo para Panamericana. Puedo ayudarte a encontrar libro, lista escolar, regalo, papeleria, tecnologia o tienda cercana.",
+      "botPrompts": [
+        "Libro",
+        "Lista escolar",
+        "Regalo",
+        "Tienda",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "libro",
+            "autor"
+          ],
+          "answer": "Pregunta autor, titulo, genero, ciudad y formato para llevar a busqueda o disponibilidad."
+        },
+        {
+          "keywords": [
+            "lista",
+            "escolar",
+            "curso"
+          ],
+          "answer": "Filtra colegio/curso si aplica, ciudad, fecha y presupuesto para organizar compra o cotizacion."
+        },
+        {
+          "keywords": [
+            "regalo",
+            "juguete"
+          ],
+          "answer": "Pregunta edad, ocasion, presupuesto, intereses y ciudad para sugerir categoria."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide categoria, busqueda, ciudad, tienda, carrito, domicilio y compra."
+        }
+      ],
+      "findings": [
+        "La web oficial funciona como tienda online.",
+        "Instagram oficial aparece publicamente como @panamericana.",
+        "El catalogo amplio necesita recomendacion por necesidad y ciudad."
+      ],
+      "siteIssues": [
+        "La web puede guiar por intencion antes de categoria general.",
+        "El soporte debe recibir producto, ciudad y urgencia.",
+        "La pauta debe medir busquedas que terminan en compra o visita."
+      ],
+      "losses": [
+        "Compradores abandonan si no encuentran rapido producto o disponibilidad.",
+        "Listas escolares y regalos pueden generar preguntas largas sin contexto.",
+        "Sin seguimiento por categoria, las campanas pierden aprendizaje."
+      ],
+      "heatmapData": [
+        "Clics por categoria, busqueda, ciudad, tienda y carrito.",
+        "Abandono antes de disponibilidad o pago.",
+        "Categorias con mucha busqueda y baja conversion."
+      ],
+      "campaigns": [
+        "Campanas por temporada escolar, libros, regalos y tecnologia.",
+        "Remarketing a busquedas o categorias sin compra.",
+        "Anuncios de asesor de regalos/listas con CTA a compra asistida."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para tienda online actual.",
+        "Asesor digital para producto, lista, regalo, ciudad, tienda y seguimiento.",
+        "Panel por categoria, ciudad, busqueda, fuente, carrito y compra."
+      ],
+      "sources": [
+        "https://www.panamericana.com.co/",
+        "https://www.instagram.com/panamericana/"
+      ]
+    },
+    {
+      "slug": "koaj-colombia",
+      "company": "KOAJ",
+      "instagram": "@modakoaj",
+      "website": "https://www.koaj.co/",
+      "sector": "moda joven, jeans, camisetas, chaquetas, tenis y accesorios",
+      "city": "Colombia",
+      "tone": "joven, urbano y comercial",
+      "theme": "default",
+      "accent": "#EE4B2B",
+      "secondary": "#101820",
+      "status": "Ecommerce oficial + Instagram oficial; oportunidad en talla, drops y carrito",
+      "leadProblem": "KOAJ tiene ecommerce y una comunidad digital grande. La fuga probable esta en convertir deseo de coleccion en compra cuando hay dudas de talla, fit, disponibilidad, cambios, tienda, drops o combinacion de look.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor digital que filtre categoria, talla, estilo, ciudad, producto visto y disponibilidad, y active seguimiento para carritos o visitas desde Instagram.",
+      "proofLine": "Lectura publica del 10 de julio de 2026: busqueda publica muestra koaj.co como sitio de ropa, jeans, camisetas, blusas, buzos, chaquetas, vestidos, tenis y accesorios; busqueda publica identifica Instagram @modakoaj.",
+      "audience": "Compradores jovenes de moda urbana que navegan colecciones, jeans, camisetas, chaquetas, tenis y accesorios.",
+      "adAngle": "Drop correcto + talla segura + carrito recuperado",
+      "whatsappCta": "Quiero reducir abandono por talla y disponibilidad",
+      "heroCopy": "En moda joven, la visita desde Instagram debe aterrizar rapido en talla, producto disponible y look comprable.",
+      "brandWorldTitle": "De drop viral a compra guiada",
+      "diagnosisTitle": "Fugas en talla, disponibilidad y carrito",
+      "botAgentName": "Asesor KOAJ demo",
+      "botAgentRole": "guia talla, estilo y disponibilidad",
+      "botTitle": "Asesor para moda joven",
+      "botIntro": "El demo ayuda a elegir talla, fit, categoria, ciudad y disponibilidad antes de perder el impulso.",
+      "botOpening": "Hola, soy el asesor demo para KOAJ. Puedo ayudarte con talla, fit, estilo, producto, ciudad, tienda, cambios y carrito.",
+      "botPrompts": [
+        "Jean",
+        "Chaqueta",
+        "Talla",
+        "Tienda",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "jean",
+            "fit"
+          ],
+          "answer": "Pregunta fit buscado, talla habitual, color, genero/categoria y ciudad."
+        },
+        {
+          "keywords": [
+            "chaqueta",
+            "buzo",
+            "camiseta"
+          ],
+          "answer": "Filtra estilo, talla, presupuesto y disponibilidad para llevar a producto correcto."
+        },
+        {
+          "keywords": [
+            "tienda",
+            "disponible"
+          ],
+          "answer": "Pide ciudad y producto para orientar a tienda o ecommerce con contexto."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide categoria, talla, drop, disponibilidad, carrito y compra."
+        }
+      ],
+      "findings": [
+        "La web oficial aparece publicamente como ecommerce de moda.",
+        "Instagram @modakoaj aparece como cuenta de KOAJ.",
+        "La oportunidad esta en reducir friccion de talla, disponibilidad y carrito."
+      ],
+      "siteIssues": [
+        "La web puede guiar por fit y estilo antes de saturar con categorias.",
+        "El soporte debe recibir talla, producto y ciudad.",
+        "La pauta debe medir coleccion, categoria y carrito recuperado."
+      ],
+      "losses": [
+        "Usuarios guardan productos pero no compran por duda de talla.",
+        "La disponibilidad por ciudad puede frenar la compra.",
+        "Sin seguimiento, el impulso de un drop se enfria rapido."
+      ],
+      "heatmapData": [
+        "Clics por categoria, talla, tienda, cambios y carrito.",
+        "Abandono antes de guia de talla o pago.",
+        "Drops con alto interes y baja compra."
+      ],
+      "campaigns": [
+        "Campanas por drop, jeans, chaquetas y basicos.",
+        "Remarketing a visitantes de producto sin carrito.",
+        "Anuncios de talla/fit guiado con CTA a checkout."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para ecommerce actual.",
+        "Asesor digital para talla, fit, categoria, ciudad, tienda, cambios y seguimiento.",
+        "Panel por categoria, talla, ciudad, fuente, carrito y compra."
+      ],
+      "sources": [
+        "https://www.koaj.co/",
+        "https://www.instagram.com/modakoaj/"
+      ]
+    },
+    {
+      "slug": "patprimo-colombia",
+      "company": "Patprimo",
+      "instagram": "@patprimo",
+      "website": "https://www.patprimo.com/",
+      "sector": "moda casual y sofisticada",
+      "city": "Colombia",
+      "tone": "sofisticado, cotidiano y comercial",
+      "theme": "default",
+      "accent": "#1C1C1C",
+      "secondary": "#D6B16D",
+      "status": "Web activa + Instagram oficial; oportunidad en ocasion, talla, tienda y personalizacion",
+      "leadProblem": "Patprimo tiene web, tiendas y contenido de moda. La fuga probable aparece cuando el cliente necesita elegir talla, look, tienda, cambios, disponibilidad o personalizacion antes de comprar.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor que filtre ocasion, talla, ciudad, producto visto, presupuesto, tienda y servicio especial, para llevar a compra o visita con menos preguntas manuales.",
+      "proofLine": "Lectura publica del 10 de julio de 2026: patprimo.com responde HTTP 200 y tiene pagina de tiendas; busqueda publica identifica Instagram @patprimo como moda sofisticada para todos los dias con presencia en Colombia y otros paises.",
+      "audience": "Compradores de moda casual, oficina, regalos y prendas para todos los dias que alternan web y tienda.",
+      "adAngle": "Moda de todos los dias + talla segura + tienda cercana",
+      "whatsappCta": "Quiero mejorar conversion web y tiendas",
+      "heroCopy": "En moda cotidiana, la conversion mejora cuando el cliente encuentra talla, look y tienda sin perderse.",
+      "brandWorldTitle": "De contenido de moda a compra omnicanal",
+      "diagnosisTitle": "Fugas en talla, ocasion y tienda",
+      "botAgentName": "Asesor Patprimo demo",
+      "botAgentRole": "filtra ocasion, talla y tienda",
+      "botTitle": "Asesor para looks cotidianos",
+      "botIntro": "El demo ordena talla, ocasion, ciudad, disponibilidad, cambios y producto visto.",
+      "botOpening": "Hola, soy el asesor demo para Patprimo. Puedo ayudarte con ocasion, talla, look, ciudad, tienda, disponibilidad, cambios y compra.",
+      "botPrompts": [
+        "Oficina",
+        "Talla",
+        "Regalo",
+        "Tienda",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "oficina",
+            "look",
+            "formal"
+          ],
+          "answer": "Pregunta ocasion, talla, clima/ciudad, presupuesto y preferencia de tienda o web."
+        },
+        {
+          "keywords": [
+            "talla",
+            "fit"
+          ],
+          "answer": "Guia con talla habitual y producto visto para reducir cambios."
+        },
+        {
+          "keywords": [
+            "regalo"
+          ],
+          "answer": "Filtra persona, ocasion, presupuesto, ciudad y estilo para sugerir categoria."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ocasion, talla, ciudad, tienda, carrito, cambios y compra."
+        }
+      ],
+      "findings": [
+        "La web oficial responde y tiene estructura de tiendas.",
+        "Instagram oficial aparece publicamente como @patprimo.",
+        "La oportunidad esta en asistencia omnicanal por talla, ocasion y ciudad."
+      ],
+      "siteIssues": [
+        "La web puede guiar por ocasion antes de categoria.",
+        "El soporte debe recibir talla, producto y tienda de interes.",
+        "La pauta debe medir categorias y tiendas que terminan en compra."
+      ],
+      "losses": [
+        "Dudas de talla o cambios frenan carritos.",
+        "Visitas desde Instagram pueden no llegar a producto exacto.",
+        "Conversaciones sin ciudad ni producto consumen tiempo comercial."
+      ],
+      "heatmapData": [
+        "Clics por categoria, talla, tienda, guia y carrito.",
+        "Abandono antes de guia de talla o pago.",
+        "Productos con alto interes y baja compra por fit."
+      ],
+      "campaigns": [
+        "Campanas por oficina, casual, regalos y temporada.",
+        "Remarketing a productos vistos sin compra.",
+        "Anuncios de asesor de talla/tienda con CTA a compra asistida."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para web y tiendas actuales.",
+        "Asesor digital para ocasion, talla, ciudad, tienda, cambios y seguimiento.",
+        "Panel por categoria, ocasion, ciudad, fuente, carrito y compra."
+      ],
+      "sources": [
+        "https://www.patprimo.com/",
+        "https://www.instagram.com/patprimo/"
+      ]
+    },
+    {
+      "slug": "crepes-y-waffles-colombia",
+      "company": "Crepes & Waffles",
+      "instagram": "@crepesywaffles",
+      "website": "https://crepesywaffles.com/",
+      "sector": "restaurantes, heladerias y experiencias gastronomicas",
+      "city": "Colombia",
+      "tone": "calido, natural y experiencial",
+      "theme": "default",
+      "accent": "#7B1E2D",
+      "secondary": "#F2D9A0",
+      "status": "Web activa + Instagram oficial; oportunidad en ubicaciones, reservas, domicilios y ocasiones",
+      "leadProblem": "Crepes & Waffles tiene marca muy querida, web y muchas ubicaciones. La fuga probable no esta en deseo, sino en convertir antojo u ocasion en accion: sede cercana, horario, reserva, menu, domicilio, celebracion o heladeria.",
+      "opportunity": "Mejorar la conversion de la web actual con un asistente por intencion que pregunte ciudad, sede, ocasion, numero de personas, tipo de experiencia y necesidad de domicilio o reserva, llevando al canal correcto con contexto.",
+      "proofLine": "Lectura publica del 10 de julio de 2026: crepesywaffles.com responde HTTP 200 y comunica restaurantes/productos organicos; su pagina de ubicaciones lista restaurantes, heladerias, To Go y Arte-Sano; busqueda publica identifica Instagram @crepesywaffles.",
+      "audience": "Personas que buscan restaurante, heladeria, menu, domicilio, celebracion, brunch, comida o punto cercano.",
+      "adAngle": "Antojo u ocasion + sede correcta + reserva/domicilio claro",
+      "whatsappCta": "Quiero ordenar reservas y oportunidades",
+      "heroCopy": "En gastronomia con muchas sedes, el deseo se convierte cuando la persona encuentra menu, ubicacion y accion en segundos.",
+      "brandWorldTitle": "De antojo a visita o pedido",
+      "diagnosisTitle": "Fugas en sede, ocasion y canal",
+      "botAgentName": "Asesor Crepes demo",
+      "botAgentRole": "filtra sede, ocasion y canal",
+      "botTitle": "Asistente para ubicaciones y ocasiones",
+      "botIntro": "El demo separa restaurante, heladeria, To Go, ubicacion, menu, reserva y domicilio.",
+      "botOpening": "Hola, soy el asesor demo para Crepes & Waffles. Puedo ayudarte a encontrar sede, horario, menu, heladeria, To Go, reserva o domicilio segun tu ciudad y ocasion.",
+      "botPrompts": [
+        "Sede",
+        "Menu",
+        "Reserva",
+        "Domicilio",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sede",
+            "ubicacion",
+            "cerca"
+          ],
+          "answer": "Pregunta ciudad, zona, tipo de experiencia y horario para orientar a restaurante, heladeria o To Go."
+        },
+        {
+          "keywords": [
+            "menu",
+            "antojo",
+            "helado"
+          ],
+          "answer": "Filtra tipo de producto, restriccion o momento del dia para llevar a menu o sede adecuada."
+        },
+        {
+          "keywords": [
+            "reserva",
+            "celebracion"
+          ],
+          "answer": "Captura fecha, personas, ciudad, ocasion y sede deseada para pasar al canal correcto."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ciudad, sede, menu, reserva, domicilio, clic a ubicacion y conversion."
+        }
+      ],
+      "findings": [
+        "La web oficial responde y comunica el universo de restaurantes y productos.",
+        "La pagina de ubicaciones organiza restaurantes, heladerias, To Go y Arte-Sano.",
+        "Instagram oficial aparece publicamente como @crepesywaffles."
+      ],
+      "siteIssues": [
+        "La web puede acortar la ruta entre antojo, sede y accion.",
+        "Las consultas deberian separarse por ubicacion, reserva, menu y domicilio.",
+        "La pauta debe medir visitas a ubicacion, menu y acciones por ciudad."
+      ],
+      "losses": [
+        "Personas con antojo pueden irse a otra opcion si no encuentran sede u horario rapido.",
+        "Reservas o celebraciones pueden llegar sin datos clave.",
+        "Sin eventos por sede/canal, la pauta aprende poco sobre accion real."
+      ],
+      "heatmapData": [
+        "Clics por sede, ciudad, menu, reserva, domicilio y ubicacion.",
+        "Abandono antes de encontrar sede o accion.",
+        "Ciudades/canales con alta intencion y baja accion."
+      ],
+      "campaigns": [
+        "Campanas por ciudad, antojo, celebracion y heladeria.",
+        "Remarketing a visitantes de menu o ubicacion sin accion.",
+        "Anuncios de sede cercana con asistente de ocasion."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para web actual y ubicaciones.",
+        "Asistente digital para sede, menu, reserva, domicilio, ocasion y seguimiento.",
+        "Panel por ciudad, sede, canal, fuente, menu y accion."
+      ],
+      "sources": [
+        "https://crepesywaffles.com/",
+        "https://www.crepesywaffles.com/ubicaciones",
+        "https://www.instagram.com/crepesywaffles/"
+      ]
     }
   ]
 }
