@@ -1,5 +1,5 @@
 {
-  "defaultSlug": "only-home-colombia",
+  "defaultSlug": "salud-y-forma-medical",
   "prospects": [
     {
       "slug": "la-casa-del-sabor",
@@ -27419,6 +27419,1035 @@
         "https://crepesywaffles.com/",
         "https://www.crepesywaffles.com/ubicaciones",
         "https://www.instagram.com/crepesywaffles/"
+      ]
+    },
+    {
+      "slug": "salud-y-forma-medical",
+      "company": "Salud y Forma Medical",
+      "instagram": "@saludyformamedical",
+      "website": "https://saludyformamedical.com/",
+      "sector": "medicina estetica facial, corporal, laser y capilar",
+      "city": "Bogota, Monteria y Madrid",
+      "tone": "clinico, cercano y aspiracional",
+      "theme": "default",
+      "accent": "#0EA5A8",
+      "secondary": "#F6C76A",
+      "status": "Web activa + Instagram oficial; oportunidad en agenda, tratamiento correcto y seguimiento por sede",
+      "leadProblem": "Salud y Forma ya tiene web, sedes y una oferta amplia. La fuga probable aparece cuando una persona interesada no sabe que tratamiento aplica, cuanto debe consultar, en que sede agendar o que informacion enviar antes de pedir valoracion.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor por tratamiento que filtre sede, objetivo estetico, antecedentes basicos, urgencia y disponibilidad, y entregue a WhatsApp una conversacion con contexto para agendar valoracion.",
+      "proofLine": "Lectura publica del 11 de julio de 2026: saludyformamedical.com comunica tratamientos esteticos y catalogo; su pagina de sedes muestra Bogota, Monteria y Madrid; busqueda publica identifica Instagram @saludyformamedical.",
+      "audience": "Personas interesadas en tratamientos faciales, corporales, laser, capilares y valoracion estetica con acompañamiento profesional.",
+      "adAngle": "Deseo de cambio + confianza clinica + valoracion por sede",
+      "whatsappCta": "Quiero ordenar agenda y valoraciones",
+      "heroCopy": "Cuando una clinica tiene muchos tratamientos, el lead no necesita mas informacion suelta: necesita saber cual ruta aplica para su caso y como agendar sin friccion.",
+      "brandWorldTitle": "De curiosidad estetica a valoracion agendada",
+      "diagnosisTitle": "Fugas en tratamiento, sede y agenda",
+      "botAgentName": "Asesora Salud y Forma demo",
+      "botAgentRole": "filtra tratamiento, sede y valoracion",
+      "botTitle": "Asistente para valoraciones esteticas",
+      "botIntro": "El demo ayuda a separar objetivo estetico, sede, tratamiento probable, datos iniciales y paso a agenda.",
+      "botOpening": "Hola, soy la asesora demo para Salud y Forma. Puedo orientarte por sede, tratamiento facial/corporal/laser/capilar y datos basicos antes de pedir una valoracion.",
+      "botPrompts": [
+        "Sede",
+        "Tratamiento",
+        "Valoracion",
+        "Seguimiento",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sede",
+            "bogota",
+            "monteria",
+            "madrid"
+          ],
+          "answer": "Primero pregunta ciudad o sede preferida, disponibilidad y tipo de tratamiento para enviar a la agenda correcta."
+        },
+        {
+          "keywords": [
+            "tratamiento",
+            "facial",
+            "corporal",
+            "laser",
+            "capilar"
+          ],
+          "answer": "Filtra objetivo, zona, expectativa y contraindicaciones basicas sin diagnosticar; luego sugiere valoracion profesional."
+        },
+        {
+          "keywords": [
+            "valoracion",
+            "agenda",
+            "cita"
+          ],
+          "answer": "Captura nombre, WhatsApp, sede, horario ideal y motivo de consulta para que el equipo reciba contexto antes de responder."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide tratamiento de interes, sede, fuente, clic a agenda, abandono y seguimiento de leads sin respuesta."
+        }
+      ],
+      "findings": [
+        "La web oficial presenta tratamientos esteticos y una ruta de catalogo/productos.",
+        "La presencia publica muestra sedes en Bogota, Monteria y Madrid.",
+        "Instagram comunica medicina estetica facial, corporal, laser y capilar."
+      ],
+      "siteIssues": [
+        "La oferta amplia puede generar dudas si no se guia por objetivo estetico y sede.",
+        "El lead de pauta necesita una respuesta rapida que no sea solo pedir precio.",
+        "Sin clasificacion por tratamiento, la agenda recibe interesados con contexto desigual."
+      ],
+      "losses": [
+        "Personas con interes real pueden comparar por precio si no se educa primero el procedimiento.",
+        "El equipo comercial pierde tiempo repitiendo requisitos, sedes, horarios y pasos de valoracion.",
+        "La pauta aprende poco si no se mide tratamiento, sede y cita solicitada."
+      ],
+      "heatmapData": [
+        "Clics por tratamiento, sede, agenda, WhatsApp y catalogo.",
+        "Abandono antes de elegir sede o pedir valoracion.",
+        "Tratamientos con mucha consulta y baja cita para mejorar copy o seguimiento."
+      ],
+      "campaigns": [
+        "Campanas por objetivo estetico: facial, corporal, laser y capilar.",
+        "Landing o secciones de conversion por sede con agenda guiada.",
+        "Remarketing a visitantes de tratamiento sin solicitud de valoracion."
+      ],
+      "deliverables": [
+        "Optimizacion de conversion para web actual con rutas por tratamiento y sede.",
+        "Asesora digital entrenada para preguntas frecuentes, agenda y paso a WhatsApp con contexto.",
+        "Panel de leads por fuente, sede, tratamiento, estado y siguiente accion."
+      ],
+      "sources": [
+        "https://saludyformamedical.com/",
+        "https://saludyformamedical.com/catalogo-productos/",
+        "https://www.instagram.com/saludyformamedical/"
+      ]
+    },
+    {
+      "slug": "juliana-postres-medellin",
+      "company": "Juliana Postres",
+      "instagram": "@julianapostres",
+      "website": "https://www.julianapostres.com/",
+      "sector": "educacion online y presencial en reposteria",
+      "city": "Medellin",
+      "tone": "experto, dulce y emprendedor",
+      "theme": "pastry",
+      "accent": "#E94D88",
+      "secondary": "#FFD166",
+      "status": "Web activa + Instagram oficial; oportunidad en cursos, carrito, objeciones y seguimiento",
+      "leadProblem": "Juliana Postres tiene autoridad, comunidad y cursos. La fuga probable no esta en falta de deseo, sino en alumnas que miran un curso, dudan si es para su nivel, no entienden acceso/soporte o abandonan antes de pagar.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor de cursos que recomiende el programa correcto segun nivel, objetivo, presupuesto y disponibilidad, y recupere interesadas que no finalizaron compra.",
+      "proofLine": "Lectura publica del 11 de julio de 2026: julianapostres.com promociona cursos con acceso inmediato; busqueda publica identifica Instagram @julianapostres y contenido de reposteria/educacion.",
+      "audience": "Aficionadas, reposteras, emprendedoras y personas que quieren aprender tecnicas para vender postres o mejorar su negocio.",
+      "adAngle": "Aprender reposteria + curso correcto + compra sin dudas",
+      "whatsappCta": "Quiero convertir mas alumnas",
+      "heroCopy": "En educacion online, la venta se enfria cuando la alumna quiere aprender pero no sabe cual curso comprar primero ni que pasa despues del pago.",
+      "brandWorldTitle": "De antojo por aprender a compra del curso correcto",
+      "diagnosisTitle": "Fugas en eleccion de curso y carrito",
+      "botAgentName": "Asesora Juliana demo",
+      "botAgentRole": "recomienda cursos y resuelve objeciones",
+      "botTitle": "Asistente para venta de cursos",
+      "botIntro": "El demo separa nivel, objetivo, tecnica, acceso, soporte y proximo curso recomendado.",
+      "botOpening": "Hola, soy la asesora demo de Juliana Postres. Te ayudo a elegir curso segun tu nivel, lo que quieres vender o aprender, y tus dudas antes de comprar.",
+      "botPrompts": [
+        "Curso ideal",
+        "Acceso",
+        "Nivel",
+        "Carrito",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "curso",
+            "ideal",
+            "recomienda"
+          ],
+          "answer": "Pregunta nivel, objetivo, tecnica deseada y si busca emprender; con eso recomienda un curso o combo especifico."
+        },
+        {
+          "keywords": [
+            "acceso",
+            "soporte",
+            "tiempo"
+          ],
+          "answer": "Aclara acceso, modalidad, materiales y condiciones verificadas en la pagina antes de enviar al checkout."
+        },
+        {
+          "keywords": [
+            "carrito",
+            "pago",
+            "comprar"
+          ],
+          "answer": "Detecta abandono, resuelve la duda principal y devuelve a la pagina de compra con contexto."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide curso visto, clic a compra, objecion, abandono y fuente de la alumna."
+        }
+      ],
+      "findings": [
+        "La web presenta cursos y combos con compra digital.",
+        "Instagram publico muestra una comunidad grande alrededor de reposteria y aprendizaje.",
+        "La oferta combina marca personal, autoridad tecnica y productos educativos."
+      ],
+      "siteIssues": [
+        "Muchas opciones de aprendizaje necesitan recomendacion guiada para no saturar a la compradora.",
+        "Las dudas sobre nivel, acceso y soporte deben resolverse antes del pago.",
+        "El remarketing debe diferenciar a quien vio curso, quien llego al checkout y quien solo consume contenido."
+      ],
+      "losses": [
+        "Alumnas interesadas pueden guardar el reel y no volver a comprar.",
+        "La venta se puede perder por una duda pequeña sobre nivel o acceso.",
+        "Sin seguimiento por curso visto, la pauta no sabe que programa empujar."
+      ],
+      "heatmapData": [
+        "Cursos con mas clics, scroll y abandono.",
+        "Bloques donde aparecen dudas: precio, contenido, acceso, soporte o pago.",
+        "Rutas de alumnas desde Instagram hasta checkout."
+      ],
+      "campaigns": [
+        "Campanas por objetivo: emprender, mejorar tecnica o aprender desde cero.",
+        "Anuncios de combo con asesor que recomienda el curso correcto.",
+        "Recuperacion de carrito y visitantes de curso sin compra."
+      ],
+      "deliverables": [
+        "Optimización de landing/checkout para cursos y combos actuales.",
+        "Asesora digital para recomendacion de cursos, FAQ y recuperacion de interesadas.",
+        "Panel de data por curso, objecion, fuente, carrito y compra asistida."
+      ],
+      "sources": [
+        "https://www.julianapostres.com/",
+        "https://www.instagram.com/julianapostres/"
+      ]
+    },
+    {
+      "slug": "casa-dulce-cali",
+      "company": "Casa Dulce Cali",
+      "instagram": "@casadulcecali",
+      "website": "https://www.casadulcecali.com/",
+      "sector": "escuela y comunidad de pasteleria, panaderia y cocina",
+      "city": "Cali",
+      "tone": "educativo, practico y emprendedor",
+      "theme": "pastry",
+      "accent": "#F59E0B",
+      "secondary": "#7DD3FC",
+      "status": "Web activa + Instagram oficial; oportunidad en calendario, inscripciones y seguimiento",
+      "leadProblem": "Casa Dulce Cali mueve interes por cursos, emprendimiento y formacion. La fuga probable aparece cuando alguien ve el calendario, no sabe que curso tomar, pregunta por WhatsApp y no queda inscrito con seguimiento ordenado.",
+      "opportunity": "Mejorar la web actual con una ruta de inscripcion por curso: nivel, fecha, cupos, modalidad, inversion, requisitos y asesor digital que haga seguimiento hasta el pago o reserva.",
+      "proofLine": "Lectura publica del 11 de julio de 2026: Instagram @casadulcecali comunica herramientas para emprender en pasteleria/panaderia/cocina; publicaciones publicas apuntan a www.casadulcecali.com.",
+      "audience": "Personas que quieren aprender panaderia, pasteleria o cocina para emprender, generar ingresos o profesionalizar su tecnica.",
+      "adAngle": "Aprender para emprender + cupo claro + inscripcion guiada",
+      "whatsappCta": "Quiero llenar mas cursos con seguimiento",
+      "heroCopy": "Cuando un curso depende de fechas y cupos, cada duda sin resolver puede convertirse en una inscripcion que nunca se confirma.",
+      "brandWorldTitle": "De interes por emprender a cupo reservado",
+      "diagnosisTitle": "Fugas en calendario e inscripcion",
+      "botAgentName": "Asesora Casa Dulce demo",
+      "botAgentRole": "filtra curso, fecha y cupo",
+      "botTitle": "Asistente para inscripciones",
+      "botIntro": "El demo ayuda a elegir curso, validar fecha, pedir datos y pasar a WhatsApp con contexto de inscripcion.",
+      "botOpening": "Hola, soy la asesora demo de Casa Dulce. Te ayudo a elegir curso, revisar fecha, nivel, cupo y pasos para inscribirte.",
+      "botPrompts": [
+        "Calendario",
+        "Curso",
+        "Cupo",
+        "Emprender",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "calendario",
+            "fecha",
+            "cuando"
+          ],
+          "answer": "Pregunta ciudad/modalidad, fecha deseada y disponibilidad para llevar al curso correcto."
+        },
+        {
+          "keywords": [
+            "curso",
+            "nivel",
+            "emprender"
+          ],
+          "answer": "Filtra si la persona empieza desde cero, quiere vender o busca tecnica avanzada antes de recomendar."
+        },
+        {
+          "keywords": [
+            "cupo",
+            "inscribir",
+            "pago"
+          ],
+          "answer": "Captura datos, curso y horario ideal para que el equipo cierre reserva o pago."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide curso consultado, cupo solicitado, fuente, pago pendiente y seguimiento."
+        }
+      ],
+      "findings": [
+        "Instagram publico comunica formacion para emprender en pasteleria, panaderia y cocina.",
+        "La marca dirige a una web propia para ampliar informacion.",
+        "El formato por calendario/cursos requiere claridad de cupos y fechas."
+      ],
+      "siteIssues": [
+        "El calendario debe convertirse en una ruta de inscripcion medible, no solo informacion.",
+        "Cada curso necesita resolver nivel, fecha, cupo, pago y materiales.",
+        "WhatsApp debe recibir contexto del curso consultado para no empezar desde cero."
+      ],
+      "losses": [
+        "Interesadas pueden preguntar por cursos y enfriarse si no se les da siguiente paso rapido.",
+        "Los mensajes manuales repiten fechas, valores, requisitos y formas de pago.",
+        "Sin tracking por curso, es dificil saber que anuncios llenan cupos reales."
+      ],
+      "heatmapData": [
+        "Cursos y fechas mas consultadas.",
+        "Abandono antes de enviar datos o abrir WhatsApp.",
+        "Fuentes con mas solicitudes de cupo y pagos pendientes."
+      ],
+      "campaigns": [
+        "Campanas por curso con fecha/cupo y promesa de emprendimiento.",
+        "Remarketing a visitantes de calendario sin inscripcion.",
+        "Seguimiento automatico a personas que pidieron info y no pagaron."
+      ],
+      "deliverables": [
+        "Ruta de conversion para calendario, cursos, cupos e inscripcion.",
+        "Asesora digital para recomendar cursos y entregar contexto a WhatsApp.",
+        "Panel por curso, fecha, lead, fuente, estado de pago y seguimiento."
+      ],
+      "sources": [
+        "https://www.casadulcecali.com/",
+        "https://www.instagram.com/casadulcecali/"
+      ]
+    },
+    {
+      "slug": "biela-bakery-lab-medellin",
+      "company": "Biela Bakery Lab",
+      "instagram": "@bielabakerylab",
+      "website": "https://www.bielabakerylab.com/",
+      "sector": "pasteleria y bakery lab con pedidos rapidos",
+      "city": "Medellin",
+      "tone": "moderno, antojadizo y directo",
+      "theme": "pastry",
+      "accent": "#C08457",
+      "secondary": "#FDE68A",
+      "status": "Web/tienda mencionada en Instagram; oportunidad en pedidos, disponibilidad y domicilios",
+      "leadProblem": "Biela tiene producto visual y compra rapida. La fuga probable aparece cuando alguien quiere una torta o postre hoy, pero necesita confirmar disponibilidad, horario, recogida/domicilio, personalizacion y pago sin esperar respuesta manual.",
+      "opportunity": "Optimizar la web actual y WhatsApp con un asesor de pedidos que pregunte fecha, producto, porciones, direccion, personalizacion y urgencia, reduciendo friccion entre antojo y compra.",
+      "proofLine": "Lectura publica del 11 de julio de 2026: Instagram @bielabakerylab indica Medellin, since 2015, www.bielabakerylab.com, compras rapidas y horario; busquedas publicas ubican Biela Bakery Lab en Manila, Medellin.",
+      "audience": "Personas en Medellin buscando tortas, postres, regalos, celebraciones y compras rapidas para el mismo dia o fechas especiales.",
+      "adAngle": "Antojo o celebracion + disponibilidad clara + pedido rapido",
+      "whatsappCta": "Quiero vender mas pedidos rapidos",
+      "heroCopy": "En pasteleria, la decision suele ser urgente: si la persona no confirma disponibilidad y entrega rapido, compra en otro lado.",
+      "brandWorldTitle": "De vitrina irresistible a pedido cerrado",
+      "diagnosisTitle": "Fugas en disponibilidad y pedido",
+      "botAgentName": "Asesora Biela demo",
+      "botAgentRole": "filtra producto, fecha y entrega",
+      "botTitle": "Asistente para pedidos de bakery",
+      "botIntro": "El demo responde disponibilidad, porciones, recogida/domicilio, personalizacion y pagos.",
+      "botOpening": "Hola, soy la asesora demo de Biela. Te ayudo a elegir torta o postre, validar disponibilidad, fecha, porciones, entrega y datos del pedido.",
+      "botPrompts": [
+        "Disponible hoy",
+        "Torta",
+        "Domicilio",
+        "Personalizar",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "hoy",
+            "disponible",
+            "express"
+          ],
+          "answer": "Pregunta hora, producto y zona para validar compra rapida o alternativa disponible."
+        },
+        {
+          "keywords": [
+            "torta",
+            "porciones",
+            "cumple"
+          ],
+          "answer": "Filtra porciones, sabor, fecha y mensaje para sugerir opciones concretas."
+        },
+        {
+          "keywords": [
+            "domicilio",
+            "recoger",
+            "direccion"
+          ],
+          "answer": "Pide zona, fecha, hora y modalidad para pasar a cierre con datos completos."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide productos consultados, urgencia, zona, abandono y pedidos cerrados por fuente."
+        }
+      ],
+      "findings": [
+        "Instagram publico menciona web propia para compras rapidas y precios especiales.",
+        "La marca comunica Medellin y operacion desde 2015.",
+        "El producto es altamente visual y se presta para pauta por ocasion."
+      ],
+      "siteIssues": [
+        "La compra rapida necesita disponibilidad y entrega claras en pocos clics.",
+        "Personalizacion, porciones y fecha deben entrar estructuradas a WhatsApp.",
+        "Sin seguimiento, quien pregunta por una torta puede terminar comprando donde contesten primero."
+      ],
+      "losses": [
+        "Pedidos de celebracion se pierden por demora en confirmar opciones.",
+        "El equipo repite preguntas sobre fecha, porciones, sabor y entrega.",
+        "La pauta no aprende que producto o zona genera pedidos reales."
+      ],
+      "heatmapData": [
+        "Productos con mas clics y menos cierre.",
+        "Zonas y fechas con mayor intencion de domicilio o recogida.",
+        "Abandono antes de seleccionar producto, fecha o WhatsApp."
+      ],
+      "campaigns": [
+        "Campanas de tortas express y celebraciones por fecha cercana.",
+        "Remarketing a visitantes de producto sin pedido.",
+        "Anuncios por ocasion: cumpleaños, oficina, regalo y antojo."
+      ],
+      "deliverables": [
+        "Mejoras de conversion para pedidos rapidos, disponibilidad y entrega.",
+        "Asesora digital para producto, fecha, porciones, zona y personalizacion.",
+        "Panel de pedidos por fuente, producto, fecha, zona y estado."
+      ],
+      "sources": [
+        "https://www.bielabakerylab.com/",
+        "https://www.instagram.com/bielabakerylab/"
+      ]
+    },
+    {
+      "slug": "virtual-muebles-colombia",
+      "company": "Virtual Muebles",
+      "instagram": "@virtualmuebles.co",
+      "website": "https://www.virtualmuebles.com/",
+      "sector": "ecommerce de muebles y decoracion para el hogar",
+      "city": "Colombia",
+      "tone": "practico, confiable y familiar",
+      "theme": "default",
+      "accent": "#2563EB",
+      "secondary": "#F97316",
+      "status": "Web activa + Instagram oficial; oportunidad en asesoria, medidas, envio y recuperacion de carrito",
+      "leadProblem": "Virtual Muebles ya vende online, pero en muebles la duda frena: medidas, materiales, colores, tiempos de entrega, armado, financiacion y si la pieza cabe en el espacio.",
+      "opportunity": "Mejorar la conversion de la tienda actual con un asesor que pregunte espacio, medidas, ciudad, presupuesto y estilo, recomiende referencias y recupere carritos con contexto.",
+      "proofLine": "Lectura publica del 11 de julio de 2026: Instagram @virtualmuebles.co invita a comprar en www.virtualmuebles.com y comunica envio gratis con condiciones; publicaciones publicas hablan de compra online y financiacion.",
+      "audience": "Personas que quieren renovar sala, habitacion, cocina u oficina y necesitan seguridad antes de comprar muebles online.",
+      "adAngle": "Mueble ideal + medidas correctas + compra segura online",
+      "whatsappCta": "Quiero recuperar mas carritos de muebles",
+      "heroCopy": "En muebles, el carrito se enfria cuando la persona no esta segura de medidas, color, envio o financiacion.",
+      "brandWorldTitle": "De inspiracion de hogar a compra con confianza",
+      "diagnosisTitle": "Fugas en medidas, envio y carrito",
+      "botAgentName": "Asesor Virtual Muebles demo",
+      "botAgentRole": "recomienda muebles y resuelve compra",
+      "botTitle": "Asistente para ecommerce de muebles",
+      "botIntro": "El demo filtra espacio, medidas, ciudad, estilo, presupuesto, entrega y financiacion.",
+      "botOpening": "Hola, soy el asesor demo de Virtual Muebles. Te ayudo a elegir mueble segun espacio, medidas, ciudad, estilo y presupuesto antes de comprar.",
+      "botPrompts": [
+        "Medidas",
+        "Envio",
+        "Financiacion",
+        "Carrito",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "medidas",
+            "sala",
+            "habitacion",
+            "espacio"
+          ],
+          "answer": "Pregunta medidas del espacio, uso, estilo y ciudad para recomendar referencias y evitar compras inseguras."
+        },
+        {
+          "keywords": [
+            "envio",
+            "entrega",
+            "ciudad"
+          ],
+          "answer": "Solicita ciudad y producto para orientar tiempos, cobertura y condiciones verificables por el equipo."
+        },
+        {
+          "keywords": [
+            "financiacion",
+            "addi",
+            "cuotas",
+            "pago"
+          ],
+          "answer": "Resuelve dudas de metodo de pago y lleva al producto correcto con la informacion necesaria."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide referencia vista, medida, ciudad, carrito, WhatsApp y compra asistida."
+        }
+      ],
+      "findings": [
+        "Instagram publico enlaza a tienda web y comunica compra online.",
+        "La oferta de muebles requiere informacion de medidas, ciudad y condiciones.",
+        "El canal visual de Instagram puede alimentar trafico de alta intencion al ecommerce."
+      ],
+      "siteIssues": [
+        "El comprador necesita asesoria antes de confiar en una compra grande online.",
+        "El carrito requiere recuperacion con contexto de producto, ciudad y objecion.",
+        "La pauta debe medir no solo clic, tambien categoria, medida y ciudad."
+      ],
+      "losses": [
+        "Compradores abandonan por dudas de medidas, entrega o pago.",
+        "WhatsApp recibe preguntas repetidas sin saber que producto vio la persona.",
+        "El presupuesto de pauta puede empujar trafico sin entender que referencias venden."
+      ],
+      "heatmapData": [
+        "Categorias y referencias con mayor intencion y menor compra.",
+        "Clics en medidas, envio, financiacion, WhatsApp y carrito.",
+        "Ciudades con alta consulta y friccion de entrega."
+      ],
+      "campaigns": [
+        "Campanas por ambiente: sala, habitacion, comedor, oficina.",
+        "Remarketing por producto visto y carrito abandonado.",
+        "Anuncios con asesor de medidas antes de comprar."
+      ],
+      "deliverables": [
+        "Optimizacion de conversion para ecommerce actual y fichas de producto.",
+        "Asesor digital de medidas, estilo, ciudad, envio, pago y carrito.",
+        "Panel por categoria, producto, ciudad, fuente, carrito y cierre."
+      ],
+      "sources": [
+        "https://www.virtualmuebles.com/",
+        "https://www.instagram.com/virtualmuebles.co/"
+      ]
+    },
+    {
+      "slug": "montana-design-house-cali",
+      "company": "Montana Design House",
+      "instagram": "@montanacolombia",
+      "website": "",
+      "sector": "showroom de interiorismo, mobiliario y decoracion de lujo",
+      "city": "Cali",
+      "tone": "premium, curado y consultivo",
+      "theme": "default",
+      "accent": "#8B5E3C",
+      "secondary": "#D6B36A",
+      "status": "Instagram oficial visible; no se verifico web propia confiable en busqueda publica",
+      "leadProblem": "Montana comunica lujo, interiorismo y showroom. Si el contacto depende principalmente de Instagram, un cliente de alto valor puede inspirarse pero no avanzar a asesoria, visita, cotizacion o proyecto con datos claros.",
+      "opportunity": "Crear una landing premium con portafolio, categorias, agenda de asesoria, formulario de proyecto y asesor digital para filtrar espacio, estilo, presupuesto, ciudad y urgencia antes de WhatsApp.",
+      "proofLine": "Lectura publica del 11 de julio de 2026: busqueda publica identifica Instagram @montanacolombia como Montana Design House, interiorismo exclusivo y de lujo desde hace 31 anos, showroom en Cali; no se verifico web propia confiable en resultados revisados.",
+      "audience": "Personas y arquitectos que buscan mobiliario, decoracion, interiorismo y asesoria para espacios residenciales o comerciales premium.",
+      "adAngle": "Espacio de lujo + asesoria curada + cita/cotizacion con contexto",
+      "whatsappCta": "Quiero convertir interesados premium",
+      "heroCopy": "En interiorismo premium, el lead no compra por impulso: necesita sentir confianza, ver criterio y entregar contexto de su proyecto sin friccion.",
+      "brandWorldTitle": "De inspiracion de lujo a asesoria agendada",
+      "diagnosisTitle": "Fugas en proyecto, presupuesto y cita",
+      "botAgentName": "Asesora Montana demo",
+      "botAgentRole": "filtra espacio, estilo y proyecto",
+      "botTitle": "Asistente para proyectos de interiorismo",
+      "botIntro": "El demo convierte inspiracion visual en datos de proyecto, visita, cotizacion o asesoria.",
+      "botOpening": "Hola, soy la asesora demo de Montana. Te ayudo a orientar tu proyecto por espacio, estilo, ciudad, presupuesto y necesidad de asesoria o visita al showroom.",
+      "botPrompts": [
+        "Proyecto",
+        "Showroom",
+        "Presupuesto",
+        "Estilo",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "proyecto",
+            "espacio",
+            "sala",
+            "comedor"
+          ],
+          "answer": "Pregunta tipo de espacio, medidas aproximadas, ciudad, estilo y fecha esperada para preparar asesoria."
+        },
+        {
+          "keywords": [
+            "showroom",
+            "visita",
+            "cita"
+          ],
+          "answer": "Captura disponibilidad, interes principal y datos de contacto para coordinar una visita con contexto."
+        },
+        {
+          "keywords": [
+            "presupuesto",
+            "cotizacion",
+            "valor"
+          ],
+          "answer": "Filtra rango y alcance sin prometer precio cerrado; deja listo para cotizacion humana."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide tipo de espacio, ciudad, presupuesto, cita, WhatsApp y fuente del lead."
+        }
+      ],
+      "findings": [
+        "Instagram publico presenta interiorismo exclusivo y de lujo.",
+        "La marca comunica trayectoria y showroom en Cali.",
+        "No se verifico una web propia confiable en la busqueda publica revisada."
+      ],
+      "siteIssues": [
+        "Sin landing propia, Instagram inspira pero no estructura proyectos ni captura datos completos.",
+        "Los leads premium requieren formulario consultivo antes de cotizar.",
+        "La pauta necesita un destino medible para separar curiosidad de proyecto real."
+      ],
+      "losses": [
+        "Clientes de alto valor pueden guardar referencias y no pedir asesoria.",
+        "WhatsApp recibe mensajes vagos sin medidas, estilo ni presupuesto.",
+        "La marca pierde data sobre espacios, categorias y proyectos mas demandados."
+      ],
+      "heatmapData": [
+        "Espacios mas consultados: sala, comedor, dormitorio, oficina o proyecto completo.",
+        "Clics en agenda, portafolio, formulario y WhatsApp.",
+        "Abandono antes de dejar presupuesto o ciudad."
+      ],
+      "campaigns": [
+        "Campanas de inspiracion premium con landing de asesoria.",
+        "Remarketing a visitantes de portafolio sin cita.",
+        "Anuncios por espacio con formulario de proyecto."
+      ],
+      "deliverables": [
+        "Landing premium con portafolio, categorias, agenda, formulario y WhatsApp.",
+        "Asesora digital para proyecto, espacio, estilo, presupuesto y cita.",
+        "Panel de oportunidades por tipo de espacio, ciudad, presupuesto y estado."
+      ],
+      "sources": [
+        "https://www.instagram.com/montanacolombia/"
+      ]
+    },
+    {
+      "slug": "pergamino-cafe-medellin",
+      "company": "Pergamino Cafe",
+      "instagram": "@pergaminocafe",
+      "website": "https://pergamino.co/",
+      "sector": "cafe de especialidad, tiendas y ecommerce de cafe colombiano",
+      "city": "Medellin y ecommerce internacional",
+      "tone": "origen, experto y urbano",
+      "theme": "default",
+      "accent": "#7C4A2D",
+      "secondary": "#34D399",
+      "status": "Web activa + Instagram oficial; oportunidad en ecommerce, pais, tienda y recompra",
+      "leadProblem": "Pergamino tiene marca fuerte, tiendas y ecommerce. La fuga probable aparece cuando el visitante no sabe si comprar desde Colombia o USA/Canada, que cafe elegir, molienda, envio, suscripcion o regalo.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor de cafe que recomiende origen, perfil, molienda, pais de compra, frecuencia y regalo, y active recompra o suscripcion.",
+      "proofLine": "Lectura publica del 11 de julio de 2026: pergamino.co separa Colombia y USA & Canada; us.pergamino.co vende cafe fresco de productores aliados en Colombia; Instagram @pergaminocafe comunica conexion campo-ciudad y envios de cafe fresco.",
+      "audience": "Compradores de cafe de especialidad, visitantes de tiendas, regalos corporativos y clientes internacionales que buscan cafe colombiano de origen.",
+      "adAngle": "Cafe de origen + recomendacion de perfil + compra/recompra facil",
+      "whatsappCta": "Quiero convertir mas compradores de cafe",
+      "heroCopy": "En cafe de especialidad, la persona quiere comprar bien, pero puede frenarse por origen, perfil, molienda, envio o frecuencia.",
+      "brandWorldTitle": "De amor por el cafe a compra guiada",
+      "diagnosisTitle": "Fugas en eleccion, pais y recompra",
+      "botAgentName": "Barista Pergamino demo",
+      "botAgentRole": "recomienda cafe y ruta de compra",
+      "botTitle": "Asistente para elegir cafe",
+      "botIntro": "El demo filtra pais, metodo, perfil, molienda, regalo, envio y recompra.",
+      "botOpening": "Hola, soy el barista demo de Pergamino. Te ayudo a elegir cafe por pais de compra, metodo, perfil de sabor, molienda y frecuencia.",
+      "botPrompts": [
+        "Origen",
+        "Molienda",
+        "Regalo",
+        "Envio",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "origen",
+            "perfil",
+            "sabor"
+          ],
+          "answer": "Pregunta metodo, intensidad y notas preferidas para recomendar un origen o kit."
+        },
+        {
+          "keywords": [
+            "molienda",
+            "metodo",
+            "espresso",
+            "v60"
+          ],
+          "answer": "Filtra metodo de preparacion y experiencia para sugerir molienda y producto."
+        },
+        {
+          "keywords": [
+            "envio",
+            "colombia",
+            "usa",
+            "canada"
+          ],
+          "answer": "Primero separa pais de compra y luego lleva a la tienda correcta con contexto."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide pais, origen visto, molienda, carrito, recompra y fuente de adquisicion."
+        }
+      ],
+      "findings": [
+        "La web principal separa Colombia y USA/Canada.",
+        "La tienda internacional comunica cafe producido o aliado en Colombia y tostado en Medellin.",
+        "Instagram oficial comunica conexion entre productores y ciudad."
+      ],
+      "siteIssues": [
+        "La ruta pais/tienda debe sentirse inmediata para no perder compradores internacionales.",
+        "La eleccion de cafe requiere recomendacion segun metodo y perfil.",
+        "Recompra y suscripcion pueden activarse mejor con seguimiento por producto."
+      ],
+      "losses": [
+        "Compradores nuevos pueden abandonar por no saber que cafe elegir.",
+        "Un cliente internacional puede caer en la tienda equivocada o dudar por envio.",
+        "Sin asesor, la recompra depende de memoria del cliente y no de seguimiento."
+      ],
+      "heatmapData": [
+        "Clics por pais, cafe, kit, molienda, envio y checkout.",
+        "Abandono antes de seleccionar variante o tienda correcta.",
+        "Origenes con alta consulta y baja compra."
+      ],
+      "campaigns": [
+        "Campanas por perfil de sabor y metodo de preparacion.",
+        "Remarketing a visitantes de cafe sin checkout.",
+        "Flujos de recompra por origen comprado o producto visto."
+      ],
+      "deliverables": [
+        "Optimizacion de conversion para tienda actual por pais y producto.",
+        "Asesor digital tipo barista para origen, molienda, envio, regalo y recompra.",
+        "Panel por pais, producto, metodo, carrito, fuente y recompra."
+      ],
+      "sources": [
+        "https://pergamino.co/",
+        "https://us.pergamino.co/",
+        "https://www.instagram.com/pergaminocafe/"
+      ]
+    },
+    {
+      "slug": "amor-perfecto-cafe",
+      "company": "Cafe Amor Perfecto",
+      "instagram": "@cafeamorperfecto",
+      "website": "https://cafeamorperfecto.com/",
+      "sector": "cafe de especialidad, ecommerce y tiendas",
+      "city": "Bogota, Medellin y Barranquilla",
+      "tone": "premium, colombiano y educativo",
+      "theme": "default",
+      "accent": "#B91C1C",
+      "secondary": "#FACC15",
+      "status": "Shopify activo + Instagram oficial; oportunidad en eleccion de producto, checkout y regalos",
+      "leadProblem": "Amor Perfecto tiene trayectoria, tienda online y categorias. La fuga probable aparece cuando el cliente quiere comprar cafe, accesorio o regalo, pero duda entre origenes, gramajes, metodos, envio o disponibilidad por ciudad.",
+      "opportunity": "Mejorar la conversion del Shopify actual con un asesor que recomiende cafe/accesorio segun metodo, gusto, presupuesto, ciudad o regalo, y recupere carritos con la objecion exacta.",
+      "proofLine": "Lectura publica del 11 de julio de 2026: cafeamorperfecto.com funciona sobre Shopify, presenta categorias de cafe/accesorios y sedes en Bogota, Medellin y Barranquilla; Instagram @cafeamorperfecto comunica cafe colombiano tostado en origen y compra web.",
+      "audience": "Compradores de cafe premium, regalos, accesorios, aficionados a metodos y clientes de tiendas fisicas.",
+      "adAngle": "Cafe colombiano premiado + recomendacion por gusto + compra segura",
+      "whatsappCta": "Quiero convertir mas ventas de cafe",
+      "heroCopy": "Una tienda con buen producto puede perder ventas cuando el cliente no sabe que referencia comprar, que molienda elegir o si ese producto sirve para regalo.",
+      "brandWorldTitle": "De historia de cafe a carrito cerrado",
+      "diagnosisTitle": "Fugas en producto, molienda y regalo",
+      "botAgentName": "Asesora Amor Perfecto demo",
+      "botAgentRole": "recomienda cafe, accesorios y regalos",
+      "botTitle": "Asistente para cafe y accesorios",
+      "botIntro": "El demo recomienda por metodo, gusto, ciudad, presupuesto, regalo y tipo de producto.",
+      "botOpening": "Hola, soy la asesora demo de Amor Perfecto. Te ayudo a elegir cafe, molienda, accesorio o regalo segun tu metodo y presupuesto.",
+      "botPrompts": [
+        "Cafe ideal",
+        "Regalo",
+        "Metodo",
+        "Carrito",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cafe",
+            "ideal",
+            "sabor"
+          ],
+          "answer": "Pregunta metodo, intensidad, notas preferidas y presupuesto para recomendar una categoria o producto."
+        },
+        {
+          "keywords": [
+            "regalo",
+            "kit",
+            "accesorio"
+          ],
+          "answer": "Filtra ocasion, presupuesto y experiencia de la persona que recibira el regalo."
+        },
+        {
+          "keywords": [
+            "metodo",
+            "molienda",
+            "grano"
+          ],
+          "answer": "Aclara metodo de preparacion y si necesita grano o molienda antes de ir a checkout."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide producto visto, categoria, objecion, carrito, ciudad y compra asistida."
+        }
+      ],
+      "findings": [
+        "La web oficial tiene ecommerce en Shopify con categorias de productos.",
+        "El sitio publica sedes y telefonos en varias ciudades colombianas.",
+        "Instagram oficial comunica compra web y cafe tostado en origen."
+      ],
+      "siteIssues": [
+        "El ecommerce necesita guiar al comprador no experto entre categorias y referencias.",
+        "Los regalos y accesorios requieren recomendaciones por presupuesto y ocasion.",
+        "La recuperacion de carrito debe saber que duda freno la compra."
+      ],
+      "losses": [
+        "Clientes nuevos pueden abandonar por exceso de opciones o dudas de molienda.",
+        "Compras de regalo se pierden si no hay recomendacion rapida.",
+        "Sin seguimiento por producto visto, la pauta no distingue curiosidad de intencion."
+      ],
+      "heatmapData": [
+        "Categorias con mas clics y baja compra.",
+        "Abandono en variante, cantidad, carrito y checkout.",
+        "Consultas por ciudad, regalo, metodo y accesorio."
+      ],
+      "campaigns": [
+        "Campanas por metodo de preparacion y perfil de sabor.",
+        "Anuncios de regalos y kits con recomendador.",
+        "Remarketing de carrito por categoria y objecion."
+      ],
+      "deliverables": [
+        "Optimizacion de conversion para Shopify actual.",
+        "Asesora digital para cafe, molienda, accesorios, regalos y carrito.",
+        "Panel por producto, categoria, fuente, carrito y compra asistida."
+      ],
+      "sources": [
+        "https://cafeamorperfecto.com/",
+        "https://www.instagram.com/cafeamorperfecto/"
+      ]
+    },
+    {
+      "slug": "el-chato-bogota",
+      "company": "El Chato",
+      "instagram": "@elchato_rest",
+      "website": "https://elchato.co/",
+      "sector": "restaurante contemporaneo colombiano y reservas",
+      "city": "Bogota",
+      "tone": "sofisticado, colombiano y preciso",
+      "theme": "default",
+      "accent": "#111827",
+      "secondary": "#D6A64F",
+      "status": "Web activa + Instagram oficial; oportunidad en reservas, horarios, menus y lista de espera",
+      "leadProblem": "El Chato tiene demanda, reputacion y reservas. La fuga probable aparece cuando alguien no encuentra hora, no entiende menu degustacion/carta, necesita cambiar reserva o quiere informacion para grupo y termina escribiendo sin contexto.",
+      "opportunity": "Mejorar la conversion de la web actual con un asistente de reservas que filtre fecha, numero de personas, tipo de menu, restricciones, idioma, lista de espera y eventos, dejando datos completos para el equipo.",
+      "proofLine": "Lectura publica del 11 de julio de 2026: elchato.co publica horarios, WhatsApp, telefono y correos de reservas; Instagram @elchato_rest indica reservas en pagina nueva www.elchato.co.",
+      "audience": "Comensales locales, turistas gastronomicos, parejas, grupos y visitantes que buscan experiencia culinaria en Bogota.",
+      "adAngle": "Experiencia gastronomica + disponibilidad clara + reserva con contexto",
+      "whatsappCta": "Quiero ordenar reservas y lista de espera",
+      "heroCopy": "En restaurantes de alta demanda, la venta no es convencer: es convertir intencion en reserva real, cambio gestionado o lista de espera util.",
+      "brandWorldTitle": "De deseo gastronomico a mesa confirmada",
+      "diagnosisTitle": "Fugas en disponibilidad y reserva",
+      "botAgentName": "Host El Chato demo",
+      "botAgentRole": "filtra reserva, menu y grupo",
+      "botTitle": "Asistente para reservas gastronomicas",
+      "botIntro": "El demo organiza fecha, hora, personas, menu, restricciones, lista de espera y eventos.",
+      "botOpening": "Hola, soy el host demo de El Chato. Te ayudo a revisar fecha, personas, menu, restricciones, lista de espera o evento antes de pasar a reservas.",
+      "botPrompts": [
+        "Reserva",
+        "Menu",
+        "Grupo",
+        "Espera",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "reserva",
+            "fecha",
+            "hora"
+          ],
+          "answer": "Pregunta fecha, hora flexible, personas e idioma para orientar a la ruta de reserva o lista de espera."
+        },
+        {
+          "keywords": [
+            "menu",
+            "degustacion",
+            "carta"
+          ],
+          "answer": "Aclara preferencia de experiencia y restricciones sin inventar disponibilidad ni precios."
+        },
+        {
+          "keywords": [
+            "grupo",
+            "evento",
+            "privado"
+          ],
+          "answer": "Captura personas, fecha, tipo de evento y datos para que el equipo responda con contexto."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide fecha solicitada, personas, menu, lista de espera, evento y fuente."
+        }
+      ],
+      "findings": [
+        "La web oficial publica horarios y canales de contacto para reservas e inquiries.",
+        "Instagram oficial comunica reservas en su pagina.",
+        "El negocio combina demanda local, turismo gastronomico y ocasiones especiales."
+      ],
+      "siteIssues": [
+        "La reserva debe resolver disponibilidad, menu y restricciones en una ruta corta.",
+        "Los grupos/eventos necesitan captura estructurada antes de cotizar.",
+        "La lista de espera puede convertirse en activo comercial si queda segmentada."
+      ],
+      "losses": [
+        "Personas con fecha flexible pueden irse si no ven alternativa inmediata.",
+        "Mensajes de reserva llegan incompletos y consumen tiempo del equipo.",
+        "La pauta o prensa genera picos de demanda que se pierden si no hay seguimiento."
+      ],
+      "heatmapData": [
+        "Fechas, menus y horarios mas buscados.",
+        "Clics en reserva, WhatsApp, telefono, correo y mapa.",
+        "Abandono por falta de hora o datos incompletos."
+      ],
+      "campaigns": [
+        "Campanas para turistas y celebraciones con reserva guiada.",
+        "Remarketing a visitantes de menu sin reserva.",
+        "Flujos de lista de espera y cambios con contexto."
+      ],
+      "deliverables": [
+        "Optimizacion de conversion para reserva, menu y lista de espera.",
+        "Asistente digital de host para reservas, grupos, restricciones y eventos.",
+        "Panel por fecha, menu, personas, fuente, estado y seguimiento."
+      ],
+      "sources": [
+        "https://elchato.co/",
+        "https://www.instagram.com/elchato_rest/"
+      ]
+    },
+    {
+      "slug": "leo-restaurante-bogota",
+      "company": "LEO Restaurante",
+      "instagram": "@leorestaurantcol",
+      "website": "https://restauranteleo.com/",
+      "sector": "restaurante de cocina colombiana de investigacion y reservas",
+      "city": "Bogota",
+      "tone": "cultural, premium y educativo",
+      "theme": "default",
+      "accent": "#6B4F2A",
+      "secondary": "#7FB069",
+      "status": "Web activa + Instagram oficial; oportunidad en reservas, menus, idioma y educacion previa",
+      "leadProblem": "LEO vende una experiencia de alto valor cultural. La fuga probable aparece cuando un visitante necesita entender menu, horarios, idioma, restricciones, ubicacion o reserva antes de comprometerse.",
+      "opportunity": "Mejorar la conversion de la web actual con un asistente que explique la experiencia sin reemplazar la narrativa de marca, filtre fecha, personas, menu, restricciones e idioma, y entregue reserva con contexto.",
+      "proofLine": "Lectura publica del 11 de julio de 2026: restauranteleo.com publica contacto, direccion en Bogota, telefono y correo de reservas; Instagram @leorestaurantcol invita a reservar en www.restauranteleo.com.",
+      "audience": "Turistas gastronomicos, comensales locales, parejas, grupos y visitantes interesados en cocina colombiana contemporanea y menus de experiencia.",
+      "adAngle": "Experiencia colombiana + claridad antes de reservar + atencion bilingue",
+      "whatsappCta": "Quiero convertir mas reservas con contexto",
+      "heroCopy": "Cuando la experiencia es sofisticada, el visitante necesita claridad antes de reservar: menu, duracion, restricciones, idioma y disponibilidad.",
+      "brandWorldTitle": "De curiosidad cultural a reserva confirmada",
+      "diagnosisTitle": "Fugas en explicacion y reserva",
+      "botAgentName": "Host LEO demo",
+      "botAgentRole": "explica experiencia y filtra reserva",
+      "botTitle": "Asistente para experiencia gastronomica",
+      "botIntro": "El demo explica menu, horario, restricciones, idioma, datos de reserva y seguimiento.",
+      "botOpening": "Hola, soy el host demo de LEO. Te ayudo a entender la experiencia, revisar fecha, personas, restricciones e idioma antes de reservar.",
+      "botPrompts": [
+        "Experiencia",
+        "Reserva",
+        "Restricciones",
+        "Turista",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "experiencia",
+            "menu",
+            "degustacion"
+          ],
+          "answer": "Explica la ruta general de experiencia y pide fecha/personas sin inventar disponibilidad ni valores."
+        },
+        {
+          "keywords": [
+            "reserva",
+            "fecha",
+            "hora"
+          ],
+          "answer": "Captura fecha, personas, idioma, restriccion y contacto para orientar a reserva."
+        },
+        {
+          "keywords": [
+            "restriccion",
+            "alergia",
+            "vegetariano"
+          ],
+          "answer": "Registra restricciones alimentarias para que el equipo valide antes de confirmar."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide mercado local/turista, idioma, menu, fecha, restriccion y reserva iniciada."
+        }
+      ],
+      "findings": [
+        "La web oficial publica contacto, direccion y correo de reservas.",
+        "Instagram oficial comunica reserva en pagina web.",
+        "La experiencia requiere educacion previa para visitantes locales e internacionales."
+      ],
+      "siteIssues": [
+        "La narrativa cultural debe conectar con una accion de reserva clara.",
+        "Restricciones, idioma y expectativas deben capturarse antes de confirmar.",
+        "Los visitantes internacionales necesitan una ruta de confianza sin mensajes dispersos."
+      ],
+      "losses": [
+        "Turistas interesados pueden postergar la reserva si no entienden la experiencia rapido.",
+        "El equipo recibe solicitudes incompletas sobre fechas y restricciones.",
+        "Sin data por idioma/origen, la pauta internacional pierde aprendizaje."
+      ],
+      "heatmapData": [
+        "Clics en menu, reservas, contacto, ubicacion e idioma.",
+        "Abandono antes de entender la experiencia o pedir reserva.",
+        "Intencion por fecha, tipo de visitante, idioma y restriccion."
+      ],
+      "campaigns": [
+        "Campanas para turistas gastronomicos con reserva guiada.",
+        "Remarketing a visitantes de menu sin reserva.",
+        "Flujo de seguimiento para fechas especiales o grupos."
+      ],
+      "deliverables": [
+        "Optimizacion de conversion para web actual y reserva.",
+        "Asistente digital de host para experiencia, idioma, restricciones y datos de reserva.",
+        "Panel por fuente, idioma, fecha, personas, menu y estado."
+      ],
+      "sources": [
+        "https://restauranteleo.com/",
+        "https://www.instagram.com/leorestaurantcol/"
       ]
     }
   ]
