@@ -92,12 +92,17 @@ async function persistLead(lead) {
     channels.push("webhook");
   }
 
-  if (process.env.SUPABASE_URL && process.env.SUPABASE_SERVICE_ROLE_KEY) {
+  const supabaseKey =
+    process.env.SUPABASE_SERVICE_ROLE_KEY ||
+    process.env.SUPABASE_ANON_KEY ||
+    process.env.SUPABASE_API_KEY;
+
+  if (process.env.SUPABASE_URL && supabaseKey) {
     const table = process.env.STUDY_LEADS_TABLE || "study_leads";
     const endpoint = `${process.env.SUPABASE_URL.replace(/\/$/, "")}/rest/v1/${encodeURIComponent(table)}`;
     await postJson(endpoint, lead, {
-      apikey: process.env.SUPABASE_SERVICE_ROLE_KEY,
-      authorization: `Bearer ${process.env.SUPABASE_SERVICE_ROLE_KEY}`,
+      apikey: supabaseKey,
+      authorization: `Bearer ${supabaseKey}`,
       prefer: "return=minimal"
     });
     channels.push("supabase");
