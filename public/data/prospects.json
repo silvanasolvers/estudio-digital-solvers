@@ -28449,6 +28449,1035 @@
         "https://restauranteleo.com/",
         "https://www.instagram.com/leorestaurantcol/"
       ]
+    },
+    {
+      "slug": "all-natural-glamping-antioquia",
+      "company": "All Natural Glamping",
+      "instagram": "@allnaturalglamping",
+      "website": "https://allnaturalcolombia.com/",
+      "sector": "hotel, glamping y experiencias naturales",
+      "city": "Copacabana, Antioquia",
+      "tone": "natural, premium y confiable",
+      "theme": "resort",
+      "brandMode": "forest",
+      "accent": "#83A95C",
+      "secondary": "#E7C66B",
+      "status": "Web activa + Instagram oficial; oportunidad en reservas directas, sedes y seguimiento",
+      "leadProblem": "All Natural ya vende deseo: naturaleza, lujo, restaurante y escapada cerca de Medellin. La fuga probable aparece cuando una persona ve varias experiencias, quiere reservar, pero necesita comparar sede, fecha, plan, mascota, restaurante y precio antes de decidir.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor que explique cada experiencia del grupo, capture fecha/personas/motivo de viaje y lleve a reserva directa con contexto para no perder interesados entre Instagram, web y WhatsApp.",
+      "proofLine": "Lectura publica del 15 de julio de 2026: allnaturalcolombia.com muestra Reserva, Instagram oficial, Hotel & Glamping en Copacabana, Tierra Verde en Girardota, Casa Fuego en La Pintada y restaurantes; el perfil @allnaturalglamping comunica reservas.",
+      "audience": "Parejas, familias y grupos de Medellin/Antioquia buscando escapadas, celebraciones, descanso, restaurante y glamping pet friendly.",
+      "adAngle": "Naturaleza como lujo + reserva guiada + seguimiento por fecha",
+      "whatsappCta": "Quiero convertir mas reservas directas",
+      "heroCopy": "Cuando hay varias experiencias dentro del mismo grupo, el cliente necesita elegir rapido la sede correcta, entender el plan y avanzar a reserva sin perderse.",
+      "brandWorldTitle": "De antojo de escapada a reserva con datos",
+      "diagnosisTitle": "Fugas entre inspiracion y disponibilidad",
+      "botAgentName": "Host All Natural demo",
+      "botAgentRole": "filtra sede, fecha y plan",
+      "botTitle": "Asistente de reservas para glamping",
+      "botIntro": "El demo orienta por sede, fecha, personas, mascota, restaurante y motivo de viaje sin inventar disponibilidad.",
+      "botOpening": "Hola, soy el host demo de All Natural. Te ayudo a elegir experiencia, sede, fecha, numero de personas y siguiente paso para reservar.",
+      "botPrompts": [
+        "Que sede elegir",
+        "Reserva pareja",
+        "Pet friendly",
+        "Restaurante",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sede",
+            "experiencia",
+            "copacabana",
+            "girardota",
+            "pintada"
+          ],
+          "answer": "El asesor compara las experiencias visibles del grupo y pregunta ciudad de salida, tipo de plan y fecha para orientar sin inventar disponibilidad."
+        },
+        {
+          "keywords": [
+            "reserva",
+            "fecha",
+            "pareja",
+            "personas"
+          ],
+          "answer": "Captura fecha tentativa, numero de personas, celebracion y datos de contacto para entregar la solicitud lista al equipo comercial."
+        },
+        {
+          "keywords": [
+            "mascota",
+            "pet",
+            "restaurante"
+          ],
+          "answer": "Pregunta condiciones clave como mascota, restaurante o plan especial y deja claro que el equipo confirma politicas y disponibilidad."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide sede de interes, fecha, motivo de viaje, origen del lead y paso de reserva para saber que campana trae intencion real."
+        }
+      ],
+      "findings": [
+        "La web oficial del grupo muestra boton de reserva y enlace a Instagram.",
+        "La oferta publica incluye varias experiencias en Antioquia, no una sola unidad de alojamiento.",
+        "El perfil publico comunica reserva directa y experiencia de hotel/glamping."
+      ],
+      "siteIssues": [
+        "Varias sedes pueden crear comparacion lenta si el visitante no recibe una recomendacion guiada.",
+        "La reserva necesita datos de fecha, personas, plan y condiciones antes de que el equipo pueda cerrar.",
+        "La pauta desde Instagram debe diferenciar escapada, restaurante, celebracion y familia para no mezclar intenciones."
+      ],
+      "losses": [
+        "Interesados emocionados por el contenido pueden enfriarse si deben buscar solos la sede correcta.",
+        "El equipo recibe mensajes incompletos que obligan a preguntar lo mismo antes de cotizar.",
+        "Sin data por sede y motivo de viaje, la pauta aprende menos sobre que experiencia convierte mejor."
+      ],
+      "heatmapData": [
+        "Clics por sede, reserva, restaurante, politicas y contacto.",
+        "Abandono antes de elegir experiencia o iniciar reserva.",
+        "Intencion por fecha, numero de personas, mascota, ciudad de origen y motivo del viaje."
+      ],
+      "campaigns": [
+        "Campanas por ocasion: escapada romantica, familia, restaurante y celebracion.",
+        "Remarketing a visitantes que tocaron reserva pero no dejaron datos.",
+        "Flujo de recuperacion por fecha tentativa y sede de interes."
+      ],
+      "deliverables": [
+        "Optimizacion de conversion para web actual y reserva directa.",
+        "Asistente de reservas con sede, fecha, personas, mascota, restaurante y condiciones.",
+        "Panel por fuente, sede, fecha, motivo, estado y seguimiento."
+      ],
+      "sources": [
+        "https://allnaturalcolombia.com/",
+        "https://www.instagram.com/allnaturalglamping/"
+      ]
+    },
+    {
+      "slug": "medellin-glamping-san-cristobal",
+      "company": "Medellin Glamping",
+      "instagram": "@medellinglamping",
+      "website": "https://www.medellinglamping.com.co/",
+      "sector": "glamping, cabañas y hotel boutique",
+      "city": "San Cristobal, Medellin",
+      "tone": "visual, turistico y directo",
+      "theme": "resort",
+      "brandMode": "forest",
+      "accent": "#6E9F62",
+      "secondary": "#F2B84B",
+      "status": "Web activa + Instagram oficial; oportunidad en reserva, preguntas frecuentes y recuperacion",
+      "leadProblem": "Medellin Glamping tiene una promesa clara: cabañas con jacuzzi, vista y descanso cerca de Medellin. La fuga probable aparece cuando el visitante necesita confirmar disponibilidad, dotacion, ubicacion, hora de ingreso, pago o reglas antes de reservar.",
+      "opportunity": "Mejorar la web actual con una ruta de reserva asistida que capture fecha, personas, tipo de cabaña y dudas frecuentes, conectando pauta e Instagram con solicitudes listas para cerrar.",
+      "proofLine": "Lectura publica del 15 de julio de 2026: medellinglamping.com.co publica cabañas con cocina, nevera, cama queen y jacuzzi con vista; la busqueda publica del perfil @medellinglamping lo describe como hotel, glamping y cabañas cerca de Medellin con agenda.",
+      "audience": "Parejas, viajeros locales y grupos pequenos que buscan una noche con vista, jacuzzi y naturaleza sin alejarse de Medellin.",
+      "adAngle": "Vista de Medellin + jacuzzi + reserva sin friccion",
+      "whatsappCta": "Quiero llenar mas fechas con reserva guiada",
+      "heroCopy": "En turismo, la inspiracion no basta: si la fecha, dotacion y reglas no quedan claras, la persona compara otra opcion antes de escribir.",
+      "brandWorldTitle": "La vista vende, la claridad reserva",
+      "diagnosisTitle": "Fugas antes de confirmar fecha",
+      "botAgentName": "Host Medellin Glamping demo",
+      "botAgentRole": "responde fechas, cabañas y reglas",
+      "botTitle": "Asistente para reserva de cabañas",
+      "botIntro": "El demo responde dotacion, ubicacion, ingreso, planes y datos necesarios para pasar a reserva.",
+      "botOpening": "Hola, soy el host demo de Medellin Glamping. Te ayudo con fecha, numero de personas, cabaña, jacuzzi, ubicacion y siguiente paso de reserva.",
+      "botPrompts": [
+        "Disponibilidad",
+        "Que incluye",
+        "Como llegar",
+        "Plan pareja",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "disponibilidad",
+            "fecha",
+            "reserva"
+          ],
+          "answer": "Pide fecha tentativa, numero de personas y contacto. No inventa disponibilidad; deja la solicitud lista para confirmar."
+        },
+        {
+          "keywords": [
+            "incluye",
+            "jacuzzi",
+            "cocina",
+            "nevera"
+          ],
+          "answer": "Explica la dotacion visible en la web: cocina, nevera, cama queen y jacuzzi con vista, y pregunta si buscan plan romantico o descanso."
+        },
+        {
+          "keywords": [
+            "llegar",
+            "ubicacion",
+            "san cristobal"
+          ],
+          "answer": "Ubica la experiencia en San Cristobal, Medellin, y deriva a instrucciones oficiales antes de confirmar la reserva."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide fecha, tipo de plan, numero de personas, objecion y canal de entrada para recuperar interesados."
+        }
+      ],
+      "findings": [
+        "La web oficial responde y presenta la experiencia a 30 minutos del centro de Medellin.",
+        "La web publica dotacion de las cabañas y enfoque de descanso con vista.",
+        "Instagram publico comunica agenda para hotel, glamping y cabañas."
+      ],
+      "siteIssues": [
+        "La web inspira, pero la conversion depende de una reserva con datos completos.",
+        "Preguntas repetidas sobre dotacion, ubicacion e ingreso pueden frenar el cierre.",
+        "Sin seguimiento por fecha tentativa, se pierden interesados que comparan varias opciones."
+      ],
+      "losses": [
+        "Una pareja puede emocionarse con la vista y salir si no confirma rapido disponibilidad.",
+        "WhatsApp recibe mensajes incompletos que alargan la venta.",
+        "La pauta puede traer visitas sin saber que fechas o planes generan mayor intencion."
+      ],
+      "heatmapData": [
+        "Clics en reserva, cabañas, ubicacion, dotacion y contacto.",
+        "Abandono antes de tocar agenda o WhatsApp.",
+        "Interes por fecha, plan romantico, numero de personas y objeciones frecuentes."
+      ],
+      "campaigns": [
+        "Campanas por escapada romantica y descanso cerca de Medellin.",
+        "Remarketing a visitantes de cabañas sin reserva iniciada.",
+        "Seguimiento automatico a interesados por fecha tentativa."
+      ],
+      "deliverables": [
+        "Mejora de conversion para web actual y boton de reserva.",
+        "Asistente digital con dotacion, ubicacion, fecha, reglas y paso a WhatsApp.",
+        "Panel por fecha, plan, fuente, objecion y estado de seguimiento."
+      ],
+      "sources": [
+        "https://www.medellinglamping.com.co/",
+        "https://www.instagram.com/medellinglamping/"
+      ]
+    },
+    {
+      "slug": "boccacion-reposteria-medellin",
+      "company": "Boccacion Reposteria",
+      "instagram": "@boccacion_reposteria",
+      "website": "https://www.reposteriaboccacion.com/",
+      "sector": "reposteria artesanal y tienda online",
+      "city": "Medellin",
+      "tone": "dulce, cercano y vendedor",
+      "theme": "maker",
+      "brandMode": "pastry",
+      "accent": "#8B4CC2",
+      "secondary": "#F4C95D",
+      "status": "Ecommerce activo + Instagram oficial; oportunidad en carrito, WhatsApp regional y eventos",
+      "leadProblem": "Boccacion ya tiene tienda online con categorias y productos. La fuga probable aparece cuando la persona quiere elegir tamaño, cobertura, entrega, zona, fecha o evento, y termina comparando o escribiendo por WhatsApp sin contexto.",
+      "opportunity": "Mejorar la conversion del ecommerce con un asesor que recomiende producto por ocasion, capture fecha/zona, explique condiciones de compra y recupere carritos o conversaciones incompletas.",
+      "proofLine": "Lectura publica del 15 de julio de 2026: reposteriaboccacion.com muestra categorias como tortas, cheesecake, postres, alfajores y cajas; tambien indica que compras para zonas del Oriente se realizan por WhatsApp. Instagram @boccacion_reposteria comunica pedidos por link directo.",
+      "audience": "Personas en Medellin y zonas cercanas comprando tortas, postres, detalles, regalos y mesas dulces para celebraciones.",
+      "adAngle": "Postre para la ocasion correcta + pedido guiado + recuperacion de carrito",
+      "whatsappCta": "Quiero vender mas pedidos con contexto",
+      "heroCopy": "Cuando hay muchos productos dulces, la venta mejora si el cliente encuentra el postre correcto por ocasion, zona y fecha antes de abandonar.",
+      "brandWorldTitle": "Del antojo al pedido confirmado",
+      "diagnosisTitle": "Fugas en eleccion, zona y fecha",
+      "botAgentName": "Asesora Boccacion demo",
+      "botAgentRole": "recomienda postres y filtra pedidos",
+      "botTitle": "Asistente para ecommerce de reposteria",
+      "botIntro": "El demo orienta por ocasion, categoria, fecha, zona, entrega y paso a carrito o WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de Boccacion. Te ayudo a elegir torta, postre o detalle segun ocasion, fecha, zona y presupuesto.",
+      "botPrompts": [
+        "Cumpleaños",
+        "Entrega Oriente",
+        "Caja regalo",
+        "Carrito",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cumple",
+            "torta",
+            "celebracion"
+          ],
+          "answer": "Pregunta fecha, personas, sabor preferido y zona. Luego recomienda categorias visibles como tortas, cheesecake o postres sin inventar inventario."
+        },
+        {
+          "keywords": [
+            "oriente",
+            "retiro",
+            "ceja",
+            "rionegro",
+            "guarne"
+          ],
+          "answer": "Aclara que la web indica compras para esas zonas por WhatsApp y entrega el pedido con producto, fecha y contacto."
+        },
+        {
+          "keywords": [
+            "carrito",
+            "pago",
+            "comprar"
+          ],
+          "answer": "Ayuda a convertir interes en carrito: producto, cantidad, fecha, zona y duda pendiente para recuperar si no compra."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide categoria vista, ocasion, zona, fecha, carrito iniciado y consulta por WhatsApp."
+        }
+      ],
+      "findings": [
+        "La web oficial funciona como tienda online con varias categorias de producto.",
+        "La web diferencia compras por WhatsApp para algunas zonas del Oriente antioqueño.",
+        "Instagram publico comunica pedidos desde link directo."
+      ],
+      "siteIssues": [
+        "Muchas categorias pueden hacer que el cliente dude si no sabe que elegir por ocasion.",
+        "Zonas especiales por WhatsApp requieren capturar contexto para evitar conversaciones largas.",
+        "Sin recuperacion, un carrito o consulta de regalo puede enfriarse por fecha o indecision."
+      ],
+      "losses": [
+        "Clientes de regalos pueden abandonar si no entienden entrega, fecha o recomendacion.",
+        "WhatsApp recibe preguntas que la web podria entregar con contexto.",
+        "La pauta por antojo no aprende bien si no mide producto, ocasion y zona."
+      ],
+      "heatmapData": [
+        "Clics por categoria: tortas, cheesecake, postres, cajas, detalles y decoracion.",
+        "Abandono antes de carrito, entrega o WhatsApp.",
+        "Intencion por ocasion, zona, fecha y producto consultado."
+      ],
+      "campaigns": [
+        "Campanas por ocasion: cumpleaños, regalo, antojo y reuniones.",
+        "Remarketing a visitantes de producto sin carrito.",
+        "Flujo de WhatsApp para zonas con compra asistida."
+      ],
+      "deliverables": [
+        "Optimizacion de ecommerce actual para producto, ocasion y zona.",
+        "Asistente digital de reposteria con recomendacion y captura de fecha.",
+        "Panel por producto, ocasion, zona, carrito, WhatsApp y seguimiento."
+      ],
+      "sources": [
+        "https://www.reposteriaboccacion.com/",
+        "https://www.instagram.com/boccacion_reposteria/"
+      ]
+    },
+    {
+      "slug": "napoleone-joyas-colombia",
+      "company": "Napoleone Joyas",
+      "instagram": "@napoleonejoyas",
+      "website": "https://napoleonejoyas.co/",
+      "sector": "joyeria en oro 18K y ecommerce",
+      "city": "Medellin, Cali y Miami",
+      "tone": "lujoso, rapido y confiable",
+      "theme": "maker",
+      "brandMode": "mystic",
+      "accent": "#D5A640",
+      "secondary": "#F4E1A1",
+      "status": "Ecommerce activo + Instagram oficial; oportunidad en asesor de compra, confianza y recuperacion",
+      "leadProblem": "Napoleone ya tiene una tienda online con muchas categorias de joyas. La fuga probable aparece cuando el cliente necesita elegir medida, material, ciudad, envio, garantia, regalo o personalizacion antes de pagar.",
+      "opportunity": "Mejorar la conversion del ecommerce con un asesor que guie por tipo de joya, presupuesto, destinatario, ciudad y duda de confianza, recuperando carritos y conversaciones desde Instagram.",
+      "proofLine": "Lectura publica del 15 de julio de 2026: napoleonejoyas.co muestra categorias como cadenas, pulseras, aretes, anillos, dijes, ciudades y servicios; la busqueda publica del perfil @napoleonejoyas comunica joyas en oro 18K, sedes en Medellin, Cali y Miami, y compras por pagina web.",
+      "audience": "Compradores de joyas para regalo, compromiso, lujo personal, compra online y clientes que comparan confianza antes de pagar.",
+      "adAngle": "Oro 18K + asesor de eleccion + compra segura",
+      "whatsappCta": "Quiero recuperar mas carritos de joyeria",
+      "heroCopy": "En joyeria, la objecion no siempre es precio: muchas ventas se pierden por medida, confianza, regalo, envio o duda antes de pagar.",
+      "brandWorldTitle": "De vitrina digital a compra asesorada",
+      "diagnosisTitle": "Fugas por confianza y eleccion",
+      "botAgentName": "Asesor Napoleone demo",
+      "botAgentRole": "guia joyas, medidas y dudas",
+      "botTitle": "Asistente para joyeria online",
+      "botIntro": "El demo ayuda a elegir joya, rango, ocasion, ciudad, envio y siguiente paso sin inventar disponibilidad.",
+      "botOpening": "Hola, soy el asesor demo de Napoleone. Te ayudo a elegir joya por ocasion, presupuesto, medida, ciudad y duda de compra.",
+      "botPrompts": [
+        "Regalo",
+        "Anillos",
+        "Envio",
+        "Personalizar",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "regalo",
+            "cumple",
+            "pareja"
+          ],
+          "answer": "Pregunta destinatario, ocasion, presupuesto y ciudad para recomendar categoria: cadena, dije, pulsera, arete o anillo."
+        },
+        {
+          "keywords": [
+            "anillo",
+            "medida",
+            "talla"
+          ],
+          "answer": "Pide talla o referencia y deriva a confirmacion oficial antes de pagar para reducir cambios y dudas."
+        },
+        {
+          "keywords": [
+            "envio",
+            "ciudad",
+            "medellin",
+            "cali"
+          ],
+          "answer": "Captura ciudad, urgencia y producto para que el equipo confirme tiempos, disponibilidad y forma de entrega."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "carrito"
+          ],
+          "answer": "Mide categoria, presupuesto, objecion, ciudad, carrito iniciado y pregunta de confianza."
+        }
+      ],
+      "findings": [
+        "La web oficial funciona como ecommerce con categorias amplias de joyeria.",
+        "La presencia publica conecta tienda online e Instagram.",
+        "La busqueda publica del perfil comunica oro 18K y sedes en varias ciudades."
+      ],
+      "siteIssues": [
+        "Un catalogo amplio necesita guiar por ocasion, presupuesto y medida.",
+        "En compras de alto valor, confianza y garantia deben resolverse antes del pago.",
+        "Los carritos abandonados necesitan recuperacion con contexto de producto y objecion."
+      ],
+      "losses": [
+        "Clientes de regalo pueden abandonar si no saben elegir referencia o medida.",
+        "La atencion manual repite preguntas sobre envio, ciudad y disponibilidad.",
+        "La pauta sin eventos claros no distingue curiosidad de intencion de compra."
+      ],
+      "heatmapData": [
+        "Clics por categoria, rango de precio, ciudad, contacto y carrito.",
+        "Abandono en producto, medida o checkout.",
+        "Intencion por ocasion, presupuesto, ciudad, producto y objecion de confianza."
+      ],
+      "campaigns": [
+        "Campanas por regalo, anillos, cadenas y fechas comerciales.",
+        "Remarketing a carritos y productos vistos sin compra.",
+        "Flujo de WhatsApp para dudas de medida, envio y confianza."
+      ],
+      "deliverables": [
+        "Optimizacion de conversion para ecommerce actual.",
+        "Asesor digital de joyeria con recomendacion, medida, ciudad y seguimiento.",
+        "Panel por producto, categoria, presupuesto, ciudad, carrito y objecion."
+      ],
+      "sources": [
+        "https://napoleonejoyas.co/",
+        "https://www.instagram.com/napoleonejoyas/"
+      ]
+    },
+    {
+      "slug": "la-colina-hotel-cottage-bogota",
+      "company": "La Colina Hotel Cottage",
+      "instagram": "@la.colina.hotel.cottage",
+      "website": "https://en.lacolinahotelcottage.com/",
+      "sector": "hotel boutique, restaurante y eventos",
+      "city": "Bogota",
+      "tone": "artistico, boutique y hospitalario",
+      "theme": "resort",
+      "brandMode": "forest",
+      "accent": "#507C59",
+      "secondary": "#D9B46A",
+      "status": "Web activa + motor de reserva; oportunidad en eventos, habitaciones y restaurante",
+      "leadProblem": "La Colina combina hotel boutique, restaurante, eventos, arte y sostenibilidad. La fuga probable aparece cuando un visitante no sabe si avanzar por habitacion, restaurante, evento o experiencia, y deja una solicitud incompleta.",
+      "opportunity": "Mejorar la conversion de la web actual con un concierge digital que diferencie reservas de habitacion, restaurante y eventos, capture fecha/personas/tipo de necesidad y entregue contexto al equipo.",
+      "proofLine": "Lectura publica del 15 de julio de 2026: lacolinahotelcottage.com muestra Hotel, Restaurant, Events, boton Book Now con Cloudbeds, hotel boutique de pocas habitaciones en Suba Hills y perfil @la.colina.hotel.cottage con reservas.",
+      "audience": "Parejas, viajeros boutique, empresas y familias que buscan hotel, restaurante o eventos privados en Bogota.",
+      "adAngle": "Hotel boutique con arte + concierge digital + reserva contextual",
+      "whatsappCta": "Quiero convertir reservas y eventos con contexto",
+      "heroCopy": "Cuando una marca boutique vende varias experiencias, cada lead debe entrar por la ruta correcta: habitacion, restaurante o evento.",
+      "brandWorldTitle": "Una experiencia boutique necesita concierge",
+      "diagnosisTitle": "Fugas entre reserva, restaurante y evento",
+      "botAgentName": "Concierge La Colina demo",
+      "botAgentRole": "filtra habitacion, restaurante y eventos",
+      "botTitle": "Concierge digital para hotel boutique",
+      "botIntro": "El demo pregunta fecha, personas, tipo de reserva, evento, restaurante y datos de contacto.",
+      "botOpening": "Hola, soy el concierge demo de La Colina. Te ayudo a orientar si buscas habitacion, restaurante, evento o experiencia especial.",
+      "botPrompts": [
+        "Habitacion",
+        "Evento",
+        "Restaurante",
+        "Fecha",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "habitacion",
+            "hotel",
+            "noche"
+          ],
+          "answer": "Pide fecha, noches, numero de huespedes y motivo de viaje para derivar a reserva sin inventar disponibilidad."
+        },
+        {
+          "keywords": [
+            "evento",
+            "boda",
+            "corporativo"
+          ],
+          "answer": "Captura tipo de evento, fecha, asistentes y requerimientos para que el equipo responda con una propuesta enfocada."
+        },
+        {
+          "keywords": [
+            "restaurante",
+            "singular",
+            "comida"
+          ],
+          "answer": "Pregunta fecha, personas y ocasion para orientar la solicitud del restaurante con contexto."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide tipo de interes, fecha, personas, origen del lead, objecion y siguiente accion."
+        }
+      ],
+      "findings": [
+        "La web oficial muestra hotel, restaurante, eventos, arte y sostenibilidad.",
+        "El sitio tiene boton Book Now conectado a motor de reservas.",
+        "El perfil publico comunica hotel boutique en Bogota con reservas."
+      ],
+      "siteIssues": [
+        "La oferta multiproducto necesita filtrar antes de enviar al equipo.",
+        "Eventos requieren datos distintos a una habitacion o restaurante.",
+        "La pauta debe separar viajeros, restaurante y eventos para medir mejor."
+      ],
+      "losses": [
+        "Leads de eventos pueden llegar sin fecha, asistentes o requerimientos.",
+        "Visitantes boutique pueden abandonar si no encuentran rapido la ruta de reserva correcta.",
+        "Sin seguimiento por tipo de interes, se mezclan reservas simples con oportunidades de mayor ticket."
+      ],
+      "heatmapData": [
+        "Clics en habitaciones, restaurante, eventos, Book Now y contacto.",
+        "Abandono antes del motor de reservas o formulario.",
+        "Intencion por tipo de necesidad, fecha, personas y fuente."
+      ],
+      "campaigns": [
+        "Campanas separadas para hotel boutique, restaurante y eventos.",
+        "Remarketing a visitantes de eventos sin solicitud enviada.",
+        "Flujo de seguimiento por fecha y tipo de reserva."
+      ],
+      "deliverables": [
+        "Optimizacion de conversion para web actual y motor de reserva.",
+        "Concierge digital para habitaciones, restaurante, eventos y datos clave.",
+        "Panel por tipo de interes, fecha, personas, fuente y estado."
+      ],
+      "sources": [
+        "https://en.lacolinahotelcottage.com/",
+        "https://www.instagram.com/la.colina.hotel.cottage/"
+      ]
+    },
+    {
+      "slug": "nueve-restaurante-bogota",
+      "company": "Nueve Restaurante",
+      "instagram": "@nueve_rest",
+      "website": "https://nueve.in/",
+      "sector": "restaurante contemporaneo y reservas",
+      "city": "Bogota",
+      "tone": "gastronomico, cercano y experto",
+      "accent": "#8C3F2D",
+      "secondary": "#D8A24A",
+      "status": "Web activa + Instagram oficial; oportunidad en reservas, menu cambiante y vinos",
+      "leadProblem": "Nueve comunica cocina contemporanea, ingredientes locales, tapas, platos pequenos, vino por copa y cocteleria. La fuga probable aparece cuando el comensal necesita entender experiencia, mesa, horario, grupo, vinos o reserva antes de llamar o escribir.",
+      "opportunity": "Mejorar la conversion de la web actual con un host digital que explique la experiencia, capture fecha/personas/preferencias y lleve a reserva con contexto para reducir llamadas frias.",
+      "proofLine": "Lectura publica del 15 de julio de 2026: nueve.in muestra reservas, cocina contemporanea, direccion en Bogota, telefono, menu y enfoque de vinos; Instagram @nueve_rest publica direccion, reservas y web.",
+      "audience": "Comensales en Bogota, parejas, grupos pequenos y amantes de vino que buscan una experiencia contemporanea con reserva.",
+      "adAngle": "Cena con vino + reserva guiada + experiencia clara",
+      "whatsappCta": "Quiero convertir mas reservas desde Instagram",
+      "heroCopy": "Un restaurante con menu y vino como experiencia necesita que el cliente entienda rapido que reservar, para cuando y con que contexto.",
+      "brandWorldTitle": "De curiosidad gastronomica a mesa reservada",
+      "diagnosisTitle": "Fugas antes de la llamada o reserva",
+      "botAgentName": "Host Nueve demo",
+      "botAgentRole": "explica experiencia y filtra reserva",
+      "botTitle": "Asistente para reserva gastronomica",
+      "botIntro": "El demo captura fecha, personas, ocasion, preferencias, vinos y datos para reserva.",
+      "botOpening": "Hola, soy el host demo de Nueve. Te ayudo con fecha, personas, ocasion, preferencia de comida o vino y siguiente paso para reservar.",
+      "botPrompts": [
+        "Reserva",
+        "Menu",
+        "Vinos",
+        "Grupo",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "reserva",
+            "fecha",
+            "mesa"
+          ],
+          "answer": "Pide fecha, hora tentativa, personas y contacto para orientar la reserva sin inventar disponibilidad."
+        },
+        {
+          "keywords": [
+            "menu",
+            "tapas",
+            "platos"
+          ],
+          "answer": "Explica que la web presenta cocina contemporanea con platos pequeños y menu cambiante, y pregunta preferencias."
+        },
+        {
+          "keywords": [
+            "vino",
+            "maridaje",
+            "coctel"
+          ],
+          "answer": "Registra interes en vinos o cocteleria para que el equipo tenga contexto antes de atender."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide fecha, personas, ocasion, interes gastronomico, fuente y reserva iniciada."
+        }
+      ],
+      "findings": [
+        "La web oficial publica experiencia, menu, telefono, direccion y reservas.",
+        "Instagram publico comunica direccion, reservas y dominio nueve.in.",
+        "La propuesta combina cocina contemporanea, vinos y bar."
+      ],
+      "siteIssues": [
+        "La decision puede frenarse si el visitante no entiende menu, ocasion o disponibilidad.",
+        "La reserva por llamada o mensaje necesita datos antes de que el equipo pueda confirmar.",
+        "La pauta debe separar cena, vino, bar y grupos para medir intencion."
+      ],
+      "losses": [
+        "Comensales interesados pueden posponer la reserva si deben llamar sin contexto.",
+        "El equipo puede recibir preguntas repetidas sobre menu, horarios y grupos.",
+        "Sin eventos claros, la pauta no distingue visitantes de menu de reservas reales."
+      ],
+      "heatmapData": [
+        "Clics en reservas, menu, direccion, telefono y mapa.",
+        "Abandono antes de llamar o iniciar reserva.",
+        "Intencion por fecha, personas, ocasion, interes en vino y fuente."
+      ],
+      "campaigns": [
+        "Campanas por cena, vino, grupos y fechas especiales.",
+        "Remarketing a visitantes de menu sin reserva iniciada.",
+        "Flujo de seguimiento para reservas incompletas."
+      ],
+      "deliverables": [
+        "Optimizacion de conversion para web actual y reserva.",
+        "Host digital con fecha, personas, menu, vinos y contexto de ocasion.",
+        "Panel por fuente, fecha, personas, interes, reserva y seguimiento."
+      ],
+      "sources": [
+        "https://nueve.in/",
+        "https://www.instagram.com/nueve_rest/"
+      ]
+    },
+    {
+      "slug": "pilates-synergy-bogota",
+      "company": "Pilates Synergy",
+      "instagram": "@pilates_synergy",
+      "website": "https://www.pilatessynergy.com/",
+      "sector": "estudio de pilates clasico y bienestar",
+      "city": "Bogota",
+      "tone": "profesional, humano y saludable",
+      "accent": "#579C8E",
+      "secondary": "#F0B86E",
+      "status": "Web activa + Instagram oficial; oportunidad en clase de prueba, sedes y seguimiento",
+      "leadProblem": "Pilates Synergy comunica experiencia, metodo y maquinas, pero la conversion se puede enfriar cuando alguien necesita saber sede, nivel, horario, clase de prueba, condicion fisica o precio antes de escribir.",
+      "opportunity": "Mejorar la web actual con un asesor que filtre objetivo, sede, nivel, disponibilidad y datos de contacto, dejando al equipo una solicitud lista para agendar clase o valoracion.",
+      "proofLine": "Lectura publica del 15 de julio de 2026: pilatessynergy.com presenta metodo Pilates, maquinas y portafolio de servicios; la busqueda publica del perfil @pilates_synergy muestra mas de 20 años de experiencia y dos direcciones en Bogota.",
+      "audience": "Personas en Bogota interesadas en pilates clasico, bienestar, movilidad, fuerza, rehabilitacion suave o practica constante.",
+      "adAngle": "Pilates guiado + sede correcta + clase de prueba con seguimiento",
+      "whatsappCta": "Quiero llenar mas clases de prueba",
+      "heroCopy": "En wellness, el interes se pierde cuando la persona no sabe que clase tomar, en que sede, con que nivel y como agendar sin friccion.",
+      "brandWorldTitle": "Del interes saludable a clase agendada",
+      "diagnosisTitle": "Fugas en sede, horario y nivel",
+      "botAgentName": "Asesora Pilates Synergy demo",
+      "botAgentRole": "filtra objetivo, sede y clase",
+      "botTitle": "Asistente para agendar clase de prueba",
+      "botIntro": "El demo pregunta objetivo, experiencia previa, sede preferida, horario y datos para agendar.",
+      "botOpening": "Hola, soy la asesora demo de Pilates Synergy. Te ayudo a ubicar sede, objetivo, nivel y siguiente paso para clase de prueba.",
+      "botPrompts": [
+        "Clase inicial",
+        "Sedes",
+        "Dolor espalda",
+        "Horarios",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "clase",
+            "prueba",
+            "inicial"
+          ],
+          "answer": "Pregunta objetivo, experiencia previa, sede y horario ideal para dejar una solicitud lista al equipo."
+        },
+        {
+          "keywords": [
+            "sede",
+            "direccion",
+            "zona"
+          ],
+          "answer": "El asesor usa las sedes visibles publicamente y pregunta cual queda mejor antes de avanzar."
+        },
+        {
+          "keywords": [
+            "dolor",
+            "espalda",
+            "rehabilitacion"
+          ],
+          "answer": "Captura condicion y objetivo sin dar diagnostico medico, y recomienda validacion con instructor/equipo."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide objetivo, sede, horario, experiencia previa, canal y clase solicitada."
+        }
+      ],
+      "findings": [
+        "La web oficial presenta el metodo, maquinas y portafolio de servicios.",
+        "El perfil publico comunica experiencia en pilates clasico y ubicaciones en Bogota.",
+        "La oportunidad comercial esta en transformar interes en clase agendada con datos."
+      ],
+      "siteIssues": [
+        "El visitante necesita elegir sede, nivel y horario antes de contactar.",
+        "Preguntas sobre condicion fisica requieren filtro responsable y humano.",
+        "Sin seguimiento, muchas consultas de clase de prueba no llegan a asistencia."
+      ],
+      "losses": [
+        "Personas motivadas pueden perder impulso si no reciben orientacion rapida.",
+        "El equipo repite preguntas sobre objetivo, sede y horarios.",
+        "La pauta puede generar leads sin saber quien esta listo para probar clase."
+      ],
+      "heatmapData": [
+        "Clics en servicios, sedes, contacto, clase inicial y horarios.",
+        "Abandono antes de formulario o WhatsApp.",
+        "Intencion por objetivo, sede, horario, experiencia previa y condicion."
+      ],
+      "campaigns": [
+        "Campanas por objetivo: movilidad, fuerza, dolor, bienestar y clase inicial.",
+        "Remarketing a visitantes de servicios sin solicitud.",
+        "Seguimiento automatico de clase de prueba y recordatorio."
+      ],
+      "deliverables": [
+        "Optimizacion de conversion para web actual y solicitud de clase.",
+        "Asesor digital con sede, objetivo, nivel, horario y captura de datos.",
+        "Panel por fuente, objetivo, sede, horario, clase solicitada y asistencia."
+      ],
+      "sources": [
+        "https://www.pilatessynergy.com/",
+        "https://www.instagram.com/pilates_synergy/"
+      ]
+    },
+    {
+      "slug": "clinica-estetica-elite-bogota",
+      "company": "Elite Clinica Estetica",
+      "instagram": "@clinicaestetica_elite",
+      "sector": "clinica de medicina estetica",
+      "city": "Bogota",
+      "tone": "clinico, confiable y comercial",
+      "accent": "#B86AD8",
+      "secondary": "#66D6C8",
+      "status": "Instagram + señales publicas; sin web propia confiable verificada",
+      "leadProblem": "Elite Clinica Estetica tiene una presencia publica enfocada en valoraciones, promociones y atencion. Si no hay una web propia clara, la venta depende demasiado de que el interesado escriba por Instagram o WhatsApp y reciba respuesta manual antes de enfriarse.",
+      "opportunity": "Crear una landing de valoracion con servicios principales, confianza, preguntas frecuentes, consentimiento de contacto y asesor digital para filtrar tratamiento, urgencia, presupuesto y agenda sin inventar resultados.",
+      "proofLine": "Lectura publica del 15 de julio de 2026: la busqueda publica del perfil @clinicaestetica_elite lo describe como medicos dermatologos, esteticos y cirujanos en Bogota, con consultas, valoraciones y horario; no se verifico una web propia confiable para este perfil.",
+      "audience": "Personas en Bogota interesadas en valoracion estetica, tratamientos faciales/corporales y cirugia con orientacion previa.",
+      "adAngle": "Valoracion clara + filtro de tratamiento + agenda asistida",
+      "whatsappCta": "Quiero convertir mas valoraciones con filtro",
+      "heroCopy": "En estetica, la confianza se construye antes de la cita: tratamiento, expectativas, contraindicaciones, agenda y seguimiento.",
+      "brandWorldTitle": "De curiosidad estetica a valoracion filtrada",
+      "diagnosisTitle": "Fugas por dudas antes de agendar",
+      "botAgentName": "Asesora Elite demo",
+      "botAgentRole": "filtra tratamiento y valoracion",
+      "botTitle": "Asistente para valoraciones esteticas",
+      "botIntro": "El demo pregunta tratamiento de interes, objetivo, ciudad, disponibilidad y datos para agenda responsable.",
+      "botOpening": "Hola, soy la asesora demo de Elite. Te ayudo a identificar tratamiento de interes, objetivo, disponibilidad y datos para solicitar valoracion.",
+      "botPrompts": [
+        "Valoracion",
+        "Tratamiento",
+        "Promocion",
+        "Agenda",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "valoracion",
+            "cita",
+            "agenda"
+          ],
+          "answer": "Pide nombre, tratamiento de interes, disponibilidad y contacto para solicitar una valoracion; no promete resultados."
+        },
+        {
+          "keywords": [
+            "tratamiento",
+            "facial",
+            "corporal",
+            "cirugia"
+          ],
+          "answer": "Clasifica la necesidad por zona, objetivo y urgencia para que el equipo medico oriente el siguiente paso."
+        },
+        {
+          "keywords": [
+            "promocion",
+            "precio",
+            "costo"
+          ],
+          "answer": "Registra interes y presupuesto aproximado, aclarando que valores y pertinencia se confirman con el equipo."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide tratamiento, objetivo, nivel de urgencia, canal, agenda solicitada y seguimiento pendiente."
+        }
+      ],
+      "findings": [
+        "El perfil publico esta asociado a consultas, valoraciones y promociones en Bogota.",
+        "La presencia visible se concentra en Instagram y señales sociales.",
+        "No se verifico una web propia confiable para organizar servicios, confianza y agenda."
+      ],
+      "siteIssues": [
+        "Sin landing propia, el paciente no tiene una ruta clara para entender tratamientos y agendar.",
+        "Las dudas clinicas y comerciales llegan mezcladas al inbox.",
+        "La pauta sin formulario pierde contexto de tratamiento, objecion y seguimiento."
+      ],
+      "losses": [
+        "Interesados por promocion pueden preguntar y enfriarse antes de recibir respuesta.",
+        "El equipo repite filtros basicos de tratamiento, zona, agenda y presupuesto.",
+        "Sin data propia, es dificil saber que tratamientos convierten en valoraciones reales."
+      ],
+      "heatmapData": [
+        "Clics por tratamiento, valoracion, confianza, preguntas frecuentes y WhatsApp.",
+        "Abandono antes de dejar datos o pedir cita.",
+        "Intencion por tratamiento, objetivo, presupuesto, horario y fuente."
+      ],
+      "campaigns": [
+        "Campanas por tratamiento con landing de valoracion.",
+        "Remarketing a visitantes que leyeron tratamientos sin agendar.",
+        "Seguimiento automatico para interesados por promocion o valoracion."
+      ],
+      "deliverables": [
+        "Landing de conversion con servicios, confianza, FAQ, formulario y WhatsApp.",
+        "Asesor digital de valoraciones con tratamiento, objetivo, agenda y datos.",
+        "Panel por tratamiento, fuente, objecion, cita solicitada y seguimiento."
+      ],
+      "sources": [
+        "https://www.instagram.com/clinicaestetica_elite/",
+        "https://www.facebook.com/p/ELITE-Cl%C3%ADnica-Est%C3%A9tica-61565345321409/"
+      ]
+    },
+    {
+      "slug": "reposteria-paulina-medellin",
+      "company": "Reposteria Paulina Medellin",
+      "instagram": "@reposteriapaulinamedellin",
+      "sector": "tortas personalizadas, mesas dulces y reposteria",
+      "city": "Medellin, Oriente Antioqueño y Cali",
+      "tone": "celebracion, familiar y comercial",
+      "theme": "maker",
+      "brandMode": "pastry",
+      "accent": "#D96B9A",
+      "secondary": "#F7C95F",
+      "status": "Instagram + WhatsApp; sin web propia confiable verificada",
+      "leadProblem": "Reposteria Paulina tiene una oferta visual fuerte de tortas personalizadas y mesas dulces. Sin una web propia confiable verificada, cada pedido depende de que el cliente escriba, explique ocasion, fecha, sede, tamaño, diseño y domicilio por conversacion manual.",
+      "opportunity": "Crear una landing/catalogo con tortas, mesas dulces, sedes, fechas, formulario de pedido y asesor digital que filtre ocasion, personas, presupuesto, referencia y zona antes de WhatsApp.",
+      "proofLine": "Lectura publica del 15 de julio de 2026: la busqueda del perfil @reposteriapaulinamedellin lo describe como reposteria en Medellin, tortas personalizadas, mesas dulces, sedes/contactos en Medellin, Oriente Antioqueño y Cali; no se verifico una web propia confiable.",
+      "audience": "Personas que planean cumpleaños, bodas, grados, eventos empresariales y detalles dulces en Medellin, Oriente y Cali.",
+      "adAngle": "Torta personalizada + pedido guiado + fecha asegurada",
+      "whatsappCta": "Quiero ordenar pedidos antes de WhatsApp",
+      "heroCopy": "En tortas personalizadas, la venta se pierde cuando la fecha, tamaño, diseño, sede y presupuesto no quedan claros desde el primer contacto.",
+      "brandWorldTitle": "De inspiracion de torta a pedido listo",
+      "diagnosisTitle": "Fugas por fecha, diseño y sede",
+      "botAgentName": "Asesora Paulina demo",
+      "botAgentRole": "filtra tortas y eventos",
+      "botTitle": "Asistente para pedidos personalizados",
+      "botIntro": "El demo pregunta ocasion, fecha, sede/zona, numero de personas, referencia y presupuesto.",
+      "botOpening": "Hola, soy la asesora demo de Reposteria Paulina. Te ayudo a organizar ocasion, fecha, personas, ciudad y referencia antes de pedir por WhatsApp.",
+      "botPrompts": [
+        "Torta personalizada",
+        "Mesa dulce",
+        "Sede",
+        "Fecha evento",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "torta",
+            "personalizada",
+            "cumple"
+          ],
+          "answer": "Pide fecha, numero de porciones, idea de diseño, ciudad y presupuesto para entregar el pedido con contexto."
+        },
+        {
+          "keywords": [
+            "mesa",
+            "evento",
+            "boda",
+            "grado"
+          ],
+          "answer": "Captura tipo de evento, asistentes, fecha y estilo para que el equipo pueda cotizar sin empezar desde cero."
+        },
+        {
+          "keywords": [
+            "sede",
+            "oriente",
+            "cali",
+            "medellin"
+          ],
+          "answer": "Pregunta ciudad/zona y deriva al contacto adecuado segun la informacion publica visible."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ocasion, fecha, ciudad, producto, presupuesto y etapa del pedido."
+        }
+      ],
+      "findings": [
+        "El perfil publico comunica tortas personalizadas y mesas dulces.",
+        "Las señales visibles muestran operacion en Medellin, Oriente Antioqueño y Cali.",
+        "No se verifico una web propia que ordene catalogo, preguntas y pedidos."
+      ],
+      "siteIssues": [
+        "Sin catalogo/landing, la eleccion depende de conversaciones largas.",
+        "Las sedes y zonas requieren filtro para evitar mensajes mal dirigidos.",
+        "Pedidos personalizados necesitan fecha, porciones, diseño y presupuesto antes de cotizar."
+      ],
+      "losses": [
+        "Clientes con evento cercano pueden irse si no reciben una ruta rapida de pedido.",
+        "El equipo repite preguntas sobre porciones, diseño, domicilio y fecha.",
+        "La pauta no aprende que ocasion o ciudad convierte mejor si todo queda en DM."
+      ],
+      "heatmapData": [
+        "Clics por tortas, mesas dulces, sedes, formulario y WhatsApp.",
+        "Abandono antes de completar fecha o referencia.",
+        "Intencion por ocasion, ciudad, fecha, presupuesto y producto."
+      ],
+      "campaigns": [
+        "Campanas por cumpleaños, eventos, mesas dulces y regalos.",
+        "Remarketing a visitantes de catalogo sin pedido.",
+        "Flujo de seguimiento por fecha de evento y ciudad."
+      ],
+      "deliverables": [
+        "Landing/catalogo con tortas, mesas dulces, sedes, FAQ y formulario.",
+        "Asesor digital de pedidos con ocasion, fecha, porciones, diseño, ciudad y presupuesto.",
+        "Panel por producto, ciudad, fecha, ocasion, fuente y seguimiento."
+      ],
+      "sources": [
+        "https://www.instagram.com/reposteriapaulinamedellin/",
+        "https://www.facebook.com/ReposteriaPaulina/"
+      ]
+    },
+    {
+      "slug": "qun-bogota-restaurante",
+      "company": "QUN Bogota",
+      "instagram": "@qunbogota",
+      "sector": "restaurante nikkei, cocteleria y reservas",
+      "city": "Bogota",
+      "tone": "premium, gastronomico y directo",
+      "accent": "#D14E3D",
+      "secondary": "#E7B95A",
+      "status": "Instagram + reservas por telefono; sin web propia confiable verificada",
+      "leadProblem": "QUN tiene una propuesta gastronomica de alta intencion, pero si la ruta visible depende de Instagram y telefono de reservas, el comensal puede perderse antes de entender experiencia, menu, horarios, grupos, celebraciones o disponibilidad.",
+      "opportunity": "Crear una landing de reserva clara con experiencia, ubicacion, menus destacados, grupos, eventos, preguntas frecuentes y host digital que capture fecha/personas/ocasion antes de pasar a WhatsApp o llamada.",
+      "proofLine": "Lectura publica del 15 de julio de 2026: la busqueda publica del perfil @qunbogota lo describe como fusion nikkei con arraigo colombiano, cocteleria de autor, direccion en Calle 85 y reservas por telefono; no se verifico web propia confiable.",
+      "audience": "Comensales en Bogota, parejas, grupos y visitantes que buscan restaurante premium, cocteles, celebraciones y reservas.",
+      "adAngle": "Nikkei premium + reserva guiada + contexto de celebracion",
+      "whatsappCta": "Quiero convertir mas reservas desde Instagram",
+      "heroCopy": "Cuando la reserva vive en Instagram o telefono, cada duda sin contexto puede convertirse en una mesa perdida.",
+      "brandWorldTitle": "De antojo premium a reserva concreta",
+      "diagnosisTitle": "Fugas por falta de landing de reserva",
+      "botAgentName": "Host QUN demo",
+      "botAgentRole": "filtra fecha, personas y ocasion",
+      "botTitle": "Host digital para reservas",
+      "botIntro": "El demo pregunta fecha, hora, personas, ocasion, grupo y datos para reserva.",
+      "botOpening": "Hola, soy el host demo de QUN. Te ayudo con fecha, personas, ocasion, grupo o celebracion antes de solicitar reserva.",
+      "botPrompts": [
+        "Reserva",
+        "Celebracion",
+        "Grupo",
+        "Cocteles",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "reserva",
+            "fecha",
+            "mesa"
+          ],
+          "answer": "Pide fecha, hora tentativa, numero de personas y contacto para entregar una solicitud lista sin inventar disponibilidad."
+        },
+        {
+          "keywords": [
+            "celebracion",
+            "cumple",
+            "aniversario"
+          ],
+          "answer": "Captura ocasion, personas y preferencias para que el equipo pueda preparar una respuesta mas precisa."
+        },
+        {
+          "keywords": [
+            "grupo",
+            "evento",
+            "empresa"
+          ],
+          "answer": "Pregunta asistentes, fecha y necesidad de espacio para diferenciar una reserva simple de una oportunidad mayor."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide fuente, fecha, personas, ocasion, interes en cocteleria y reserva iniciada."
+        }
+      ],
+      "findings": [
+        "El perfil publico comunica cocina nikkei con arraigo colombiano y cocteleria de autor.",
+        "La señal visible de reserva esta asociada a telefono e Instagram.",
+        "No se verifico una web propia confiable para explicar experiencia y capturar reservas."
+      ],
+      "siteIssues": [
+        "Sin landing, el cliente no tiene una ruta clara para menu, reserva y celebraciones.",
+        "Las reservas por telefono o DM pueden llegar sin fecha, personas u ocasion.",
+        "La pauta hacia Instagram mide menos que una pagina con eventos y formulario."
+      ],
+      "losses": [
+        "Comensales interesados pueden posponer si no encuentran informacion rapida.",
+        "El equipo responde preguntas repetidas antes de confirmar una mesa.",
+        "Las oportunidades de grupos y celebraciones se mezclan con consultas simples."
+      ],
+      "heatmapData": [
+        "Clics por reserva, menu, cocteles, grupos, ubicacion y WhatsApp.",
+        "Abandono antes de dejar fecha o personas.",
+        "Intencion por ocasion, fecha, grupo, cocteleria y fuente."
+      ],
+      "campaigns": [
+        "Campanas por cena, cocteles, celebraciones y grupos.",
+        "Remarketing a visitantes de landing sin reserva enviada.",
+        "Flujo de seguimiento para reservas incompletas o grupos."
+      ],
+      "deliverables": [
+        "Landing de reserva con experiencia, ubicacion, menu, FAQ y formulario.",
+        "Host digital con fecha, personas, ocasion, grupo y paso a WhatsApp/llamada.",
+        "Panel por fuente, fecha, personas, ocasion, tipo de reserva y seguimiento."
+      ],
+      "sources": [
+        "https://www.instagram.com/qunbogota/",
+        "https://es.restaurantguru.com/QUN-Bogota-Bogota"
+      ]
     }
   ]
 }
