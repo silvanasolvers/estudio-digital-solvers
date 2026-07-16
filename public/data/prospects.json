@@ -29478,6 +29478,1027 @@
         "https://www.instagram.com/qunbogota/",
         "https://es.restaurantguru.com/QUN-Bogota-Bogota"
       ]
+    },
+    {
+      "slug": "restaurante-rio-bogota",
+      "company": "Restaurante Rio",
+      "instagram": "@rio.de.todos",
+      "website": "https://www.restauranterio.co/",
+      "sector": "restaurante de autor, bar y eventos",
+      "city": "Bogota",
+      "tone": "calido, gastronomico y confiable",
+      "accent": "#2E8B73",
+      "secondary": "#E7B95A",
+      "status": "Web activa + Instagram oficial; oportunidad en reservas, eventos y seguimiento",
+      "leadProblem": "Rio ya comunica una experiencia fuerte: jardin, bar, cocina abierta y comida de autor. La fuga probable aparece cuando alguien quiere reservar, cotizar un evento privado o entender menu y horarios, pero la conversacion queda partida entre Instagram, web y motor de reserva.",
+      "opportunity": "Mejorar la conversion de la web actual con un host digital que capture fecha, personas, ocasion, interes en evento y dudas clave antes de enviar a reserva o WhatsApp. Asi la pauta no solo trae visitas: entrega mesas y eventos con contexto.",
+      "proofLine": "Lectura publica del 16 de julio de 2026: restauranterio.co responde HTTP 200, presenta comida de autor, historia, menu, boton de reserva, Instagram @rio.de.todos y señales de eventos privados/corporativos; la busqueda publica ubica el restaurante en Calle 61 #5-20, Bogota.",
+      "audience": "Comensales en Bogota, parejas, grupos, empresas y personas buscando celebraciones, cocina de autor, jardin, bar y reservas con experiencia.",
+      "adAngle": "Jardin y cocina de autor + reserva guiada + eventos con contexto",
+      "whatsappCta": "Quiero convertir mas reservas y eventos",
+      "heroCopy": "Cuando el restaurante ya inspira, el crecimiento esta en ordenar fecha, personas, ocasion y seguimiento antes de que el interes se enfrie.",
+      "brandWorldTitle": "De antojo a mesa reservada",
+      "diagnosisTitle": "Fugas entre inspiracion, reserva y evento",
+      "botAgentName": "Host Rio demo",
+      "botAgentRole": "filtra reserva, evento y ocasion",
+      "botTitle": "Host digital para reservas y eventos",
+      "botIntro": "El demo pregunta fecha, hora, personas, ocasion, evento privado y datos de contacto sin inventar disponibilidad.",
+      "botOpening": "Hola, soy el host demo de Rio. Te ayudo con fecha, personas, ocasion, menu, evento o reserva antes de pasar al canal oficial.",
+      "botPrompts": [
+        "Reservar mesa",
+        "Evento privado",
+        "Menu",
+        "Horarios",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "reserva",
+            "mesa",
+            "fecha"
+          ],
+          "answer": "Captura fecha tentativa, hora, numero de personas y datos para entregar una solicitud lista al motor de reserva o al equipo."
+        },
+        {
+          "keywords": [
+            "evento",
+            "corporativo",
+            "privado",
+            "celebracion"
+          ],
+          "answer": "Pregunta tipo de evento, asistentes, fecha y necesidad especial para separar una oportunidad de alto valor de una reserva normal."
+        },
+        {
+          "keywords": [
+            "menu",
+            "carta",
+            "bar",
+            "jardin"
+          ],
+          "answer": "Orienta hacia menu, bar, jardin y experiencia visible en la web, y pregunta la ocasion para sugerir el siguiente paso."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide fuente, fecha, personas, ocasion, evento, clic en reserva y seguimiento pendiente."
+        }
+      ],
+      "findings": [
+        "La web oficial tiene boton de reserva y enlace a Instagram.",
+        "La propuesta publica combina comida de autor, bar, jardin y cocina abierta.",
+        "La web menciona celebraciones privadas y eventos corporativos como oportunidad comercial."
+      ],
+      "siteIssues": [
+        "La reserva y el evento requieren datos distintos, pero pueden llegar mezclados desde pauta o Instagram.",
+        "El visitante necesita resolver fecha, personas, horarios, menu y ocasion antes de decidir.",
+        "Sin seguimiento por fecha tentativa, una mesa o evento interesado puede quedarse en una visita anonima."
+      ],
+      "losses": [
+        "Comensales inspirados pueden salir a comparar si no encuentran una ruta rapida de reserva.",
+        "Eventos privados de mayor ticket pueden entrar sin contexto suficiente para cotizar rapido.",
+        "La pauta puede medir clics, pero no diferenciar cena casual, celebracion o evento corporativo."
+      ],
+      "heatmapData": [
+        "Clics en reserva, menu, eventos, Instagram, ubicacion y contacto.",
+        "Abandono antes de elegir fecha, personas o tipo de evento.",
+        "Intencion por ocasion, grupo, horario, evento y fuente de pauta."
+      ],
+      "campaigns": [
+        "Campanas por cena, celebracion, bar/jardin y eventos privados.",
+        "Remarketing a visitantes que tocaron reserva o eventos sin dejar datos.",
+        "Seguimiento automatico por fecha tentativa y ocasion."
+      ],
+      "deliverables": [
+        "Optimizacion de conversion para web actual y reservas.",
+        "Host digital con fecha, personas, ocasion, evento y datos de contacto.",
+        "Panel por fuente, tipo de reserva, fecha, personas, evento y seguimiento."
+      ],
+      "sources": [
+        "https://www.restauranterio.co/",
+        "https://www.instagram.com/rio.de.todos/"
+      ]
+    },
+    {
+      "slug": "imagine-restaurante-bogota",
+      "company": "Imagine Restaurante",
+      "instagram": "@imaginerestaurante",
+      "sector": "restaurante tematico y celebraciones",
+      "city": "Bogota",
+      "tone": "tematico, cercano y comercial",
+      "accent": "#D84A3A",
+      "secondary": "#F0C64C",
+      "status": "Instagram + señales publicas; sin web propia confiable verificada",
+      "leadProblem": "Imagine tiene una propuesta diferencial: restaurante tematico inspirado en The Beatles cerca de Corferias. La fuga probable aparece cuando el cliente quiere celebrar, reservar o ver menu, pero no encuentra una pagina propia confiable y termina dependiendo de Instagram, telefono o referencias externas.",
+      "opportunity": "Crear una landing clara de reservas y celebraciones con experiencia, ubicacion, menu, eventos, preguntas frecuentes y host digital que capture fecha, personas, motivo y datos antes de enviar a WhatsApp o llamada.",
+      "proofLine": "Lectura publica del 16 de julio de 2026: la busqueda publica de @imaginerestaurante lo describe como restaurante tematico inspirado en The Beatles en Bogota, Av. Esperanza 43a-21, con menu y reservas; no se verifico una web propia confiable porque la pagina encontrada en Black Tower respondio 404 durante la revision.",
+      "audience": "Parejas, familias, grupos, fans de experiencias tematicas, viajeros cerca de Corferias y empresas buscando celebraciones diferentes.",
+      "adAngle": "Restaurante tematico + celebracion memorable + reserva guiada",
+      "whatsappCta": "Quiero convertir mas celebraciones y reservas",
+      "heroCopy": "Un restaurante tematico vende mejor cuando convierte el asombro visual en fecha, personas y ocasion antes de perder el impulso.",
+      "brandWorldTitle": "De curiosidad tematica a reserva confirmada",
+      "diagnosisTitle": "Fugas por informacion repartida",
+      "botAgentName": "Host Imagine demo",
+      "botAgentRole": "filtra reserva y celebracion",
+      "botTitle": "Host digital para experiencias tematicas",
+      "botIntro": "El demo organiza fecha, personas, ocasion, tipo de celebracion y datos para avanzar a reserva.",
+      "botOpening": "Hola, soy el host demo de Imagine. Te ayudo con fecha, personas, celebracion, evento o dudas antes de pedir la reserva.",
+      "botPrompts": [
+        "Reserva",
+        "Cumpleaños",
+        "Evento grupo",
+        "Menu",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "reserva",
+            "fecha",
+            "mesa"
+          ],
+          "answer": "Pide fecha, hora tentativa, numero de personas y contacto para que el equipo confirme disponibilidad."
+        },
+        {
+          "keywords": [
+            "cumple",
+            "aniversario",
+            "celebracion"
+          ],
+          "answer": "Captura ocasion, sorpresa esperada, grupo y preferencia de ambiente para elevar la oportunidad comercial."
+        },
+        {
+          "keywords": [
+            "evento",
+            "grupo",
+            "empresa"
+          ],
+          "answer": "Separa reservas de grupos o empresas con datos de asistentes, fecha y necesidades antes de cotizar."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide fuente, ocasion, personas, fecha, tipo de evento y estado de seguimiento."
+        }
+      ],
+      "findings": [
+        "Instagram comunica restaurante tematico inspirado en The Beatles y ruta de menu/reservas.",
+        "Las señales publicas ubican la experiencia cerca de Corferias, en Av. La Esperanza 43a-21.",
+        "No se verifico una web propia confiable para explicar experiencia, menu, eventos y reservas."
+      ],
+      "siteIssues": [
+        "Sin landing propia, la ruta principal puede sentirse repartida entre Instagram, telefono y referencias externas.",
+        "Las celebraciones necesitan datos de ocasion y grupo antes de responder.",
+        "La pauta hacia Instagram puede generar curiosidad sin capturar fecha ni personas."
+      ],
+      "losses": [
+        "Personas interesadas pueden guardar el reel y no reservar si no ven el paso claro.",
+        "El equipo repite preguntas sobre fecha, grupo y motivo de celebracion.",
+        "Eventos y grupos de mayor valor pueden perderse si llegan como mensajes sueltos."
+      ],
+      "heatmapData": [
+        "Clics por reserva, menu, celebracion, eventos, ubicacion y WhatsApp.",
+        "Abandono antes de fecha o personas.",
+        "Intencion por ocasion, tamaño de grupo, fecha y fuente."
+      ],
+      "campaigns": [
+        "Campanas para cumpleaños, aniversarios, cenas tematicas y grupos cerca de Corferias.",
+        "Remarketing a visitantes que vieron celebraciones sin reservar.",
+        "Seguimiento automatico para fechas tentativas y grupos."
+      ],
+      "deliverables": [
+        "Landing de reserva/celebraciones con experiencia, ubicacion, menu, FAQ y formulario.",
+        "Host digital con fecha, personas, ocasion, grupo y datos.",
+        "Panel por fuente, reserva, celebracion, grupo y seguimiento."
+      ],
+      "sources": [
+        "https://www.instagram.com/imaginerestaurante/",
+        "https://www.facebook.com/imaginerestaurantebtph/",
+        "https://vibra.co/actualidad/imagine-un-restaurante-para-fanaticos-de-los-beatles/"
+      ]
+    },
+    {
+      "slug": "amarla-cartagena-hotel",
+      "company": "Amarla Cartagena",
+      "instagram": "@amarla.cartagena",
+      "website": "https://amarla.co/",
+      "sector": "hotel boutique y experiencias en Cartagena",
+      "city": "Cartagena",
+      "tone": "boutique, premium y calido",
+      "accent": "#C76B4A",
+      "secondary": "#F3C77A",
+      "status": "Web activa + Instagram oficial; oportunidad en reserva directa, experiencias y seguimiento internacional",
+      "leadProblem": "Amarla ya tiene una presencia premium y web activa. La fuga probable no esta en verse pequeno, sino en convertir visitantes inspirados en solicitudes concretas de fecha, habitacion, experiencia, celebracion o viaje internacional antes de que comparen en OTAs.",
+      "opportunity": "Mejorar la conversion de la web actual con un concierge digital que pregunte fechas, numero de huespedes, motivo del viaje, idioma, experiencia deseada y preferencia de reserva directa.",
+      "proofLine": "Lectura publica del 16 de julio de 2026: amarla.co responde HTTP 200 y se presenta como boutique hotel in Cartagena; la busqueda publica confirma Instagram @amarla.cartagena y presencia hotelera en Cartagena.",
+      "audience": "Viajeros nacionales e internacionales, parejas, grupos pequenos y personas buscando hotel boutique, experiencia local y reserva directa en Cartagena.",
+      "adAngle": "Hotel boutique en Cartagena + concierge inmediato + reserva directa",
+      "whatsappCta": "Quiero recuperar mas reservas directas",
+      "heroCopy": "En hoteleria boutique, cada visitante que compara fechas sin dejar datos es una reserva que puede irse a una OTA.",
+      "brandWorldTitle": "De deseo de viaje a solicitud con contexto",
+      "diagnosisTitle": "Fugas entre inspiracion y reserva directa",
+      "botAgentName": "Concierge Amarla demo",
+      "botAgentRole": "filtra fechas, habitacion y experiencia",
+      "botTitle": "Concierge digital para reservas boutique",
+      "botIntro": "El demo pregunta fechas, huespedes, motivo, idioma y dudas para pasar a reserva directa sin inventar disponibilidad.",
+      "botOpening": "Hola, soy el concierge demo de Amarla. Te ayudo con fechas, huespedes, habitacion, experiencia o celebracion antes de solicitar reserva.",
+      "botPrompts": [
+        "Reservar",
+        "Experiencia",
+        "Celebracion",
+        "Viaje internacional",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "reserva",
+            "fecha",
+            "habitacion"
+          ],
+          "answer": "Captura fechas, numero de huespedes y contacto para que el equipo confirme disponibilidad o motor de reserva."
+        },
+        {
+          "keywords": [
+            "experiencia",
+            "cartagena",
+            "celebracion"
+          ],
+          "answer": "Pregunta motivo del viaje y experiencia buscada para personalizar la respuesta comercial."
+        },
+        {
+          "keywords": [
+            "internacional",
+            "idioma",
+            "airport"
+          ],
+          "answer": "Identifica idioma, origen y dudas de llegada para entregar una atencion mas preparada."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "ota"
+          ],
+          "answer": "Mide fuente, fechas, noches, origen, motivo del viaje y paso hacia reserva directa."
+        }
+      ],
+      "findings": [
+        "La web oficial responde y posiciona el hotel como boutique hotel en Cartagena.",
+        "La busqueda publica confirma el perfil @amarla.cartagena.",
+        "La oferta depende de inspiracion, confianza y claridad antes de reservar."
+      ],
+      "siteIssues": [
+        "El visitante puede comparar en OTAs si no encuentra respuesta rapida de fechas y valor.",
+        "La reserva boutique necesita contexto de viaje, idioma y motivo para cerrar mejor.",
+        "Sin recuperacion, visitantes de alto interes quedan anonimos."
+      ],
+      "losses": [
+        "Reservas directas pueden migrar a plataformas con comision.",
+        "El equipo recibe consultas incompletas sobre fechas, habitaciones o experiencias.",
+        "La pauta puede atraer viajeros sin distinguir viaje romantico, familiar o celebracion."
+      ],
+      "heatmapData": [
+        "Clics en habitaciones, reserva, experiencias, ubicacion e Instagram.",
+        "Abandono antes de motor de reserva o formulario.",
+        "Intencion por fecha, origen, motivo, noches y tipo de habitacion."
+      ],
+      "campaigns": [
+        "Campanas para escapadas, romance, Cartagena historica y reserva directa.",
+        "Remarketing a visitantes de habitaciones sin solicitud.",
+        "Seguimiento por fecha tentativa y motivo del viaje."
+      ],
+      "deliverables": [
+        "Mejora de conversion para web actual y reserva directa.",
+        "Concierge digital con fechas, huespedes, idioma, motivo y experiencia.",
+        "Panel por fuente, fechas, origen, motivo, reserva y seguimiento."
+      ],
+      "sources": [
+        "https://amarla.co/",
+        "https://www.instagram.com/amarla.cartagena/"
+      ]
+    },
+    {
+      "slug": "sazagua-hotel-boutique",
+      "company": "Sazagua Hotel Boutique",
+      "instagram": "@sazaguahotelboutique",
+      "website": "https://www.sazagua.com/",
+      "sector": "hotel boutique en Pereira y Valle del Cocora",
+      "city": "Pereira y Valle del Cocora",
+      "tone": "natural, premium y cafetero",
+      "accent": "#6F9A54",
+      "secondary": "#D7A84E",
+      "status": "Web activa + Instagram oficial; oportunidad en sedes, reserva directa y experiencias",
+      "leadProblem": "Sazagua tiene una marca fuerte en el Eje Cafetero y dos experiencias visibles. La fuga probable aparece cuando el viajero quiere escoger entre Pereira y Cocora, entender habitaciones, fechas, restaurante o experiencias, pero no deja datos antes de comparar.",
+      "opportunity": "Mejorar la conversion de la web actual con un concierge que compare sede, capture fechas/personas, motivo de viaje y duda clave, y entregue al equipo una solicitud lista para reserva directa.",
+      "proofLine": "Lectura publica del 16 de julio de 2026: sazagua.com responde HTTP 200, presenta hotel en Pereira y Valle del Cocora; la busqueda publica de @sazaguahotelboutique comunica tributo al Paisaje Cultural Cafetero y reservas.",
+      "audience": "Parejas, viajeros de lujo suave, familias y visitantes del Eje Cafetero buscando naturaleza, descanso, gastronomia y experiencias.",
+      "adAngle": "Paisaje cafetero + sede correcta + reserva directa guiada",
+      "whatsappCta": "Quiero convertir mas reservas directas",
+      "heroCopy": "Cuando una marca tiene mas de una experiencia, el visitante necesita orientacion antes de elegir fecha y sede.",
+      "brandWorldTitle": "De inspiracion cafetera a reserva guiada",
+      "diagnosisTitle": "Fugas por sede, fecha y experiencia",
+      "botAgentName": "Concierge Sazagua demo",
+      "botAgentRole": "filtra sede, fechas y motivo",
+      "botTitle": "Concierge para reservas en el Eje Cafetero",
+      "botIntro": "El demo orienta entre Pereira y Cocora, captura fechas, personas y motivo sin inventar disponibilidad.",
+      "botOpening": "Hola, soy el concierge demo de Sazagua. Te ayudo a elegir sede, fecha, personas, habitacion o experiencia antes de pedir reserva.",
+      "botPrompts": [
+        "Pereira o Cocora",
+        "Reservar",
+        "Experiencias",
+        "Restaurante",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "pereira",
+            "cocora",
+            "sede"
+          ],
+          "answer": "Pregunta motivo de viaje, plan y fechas para orientar entre las experiencias visibles sin prometer disponibilidad."
+        },
+        {
+          "keywords": [
+            "reserva",
+            "fecha",
+            "habitacion"
+          ],
+          "answer": "Toma fechas, personas, noches y contacto para entregar una solicitud lista al equipo."
+        },
+        {
+          "keywords": [
+            "experiencia",
+            "restaurante",
+            "cafe"
+          ],
+          "answer": "Clasifica interes en descanso, gastronomia, naturaleza o celebracion para personalizar el seguimiento."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide sede de interes, fechas, motivo, personas, fuente y paso hacia reserva directa."
+        }
+      ],
+      "findings": [
+        "La web oficial presenta experiencias en Pereira y Valle del Cocora.",
+        "El perfil publico comunica reservas y presencia en el Paisaje Cultural Cafetero.",
+        "La decision puede requerir comparacion de sede, habitacion y experiencia."
+      ],
+      "siteIssues": [
+        "Dos sedes aumentan la necesidad de recomendacion guiada.",
+        "Reservas y experiencias necesitan datos previos para cerrar rapido.",
+        "Sin seguimiento por fecha, los visitantes comparan otros hoteles o plataformas."
+      ],
+      "losses": [
+        "Reservas directas pueden perderse en comparadores u OTAs.",
+        "Mensajes incompletos obligan al equipo a preguntar sede, fecha y personas.",
+        "La pauta puede mezclar intereses de Pereira y Cocora sin aprendizaje claro."
+      ],
+      "heatmapData": [
+        "Clics por sede, habitaciones, reserva, restaurante y experiencias.",
+        "Abandono antes de motor de reserva o contacto.",
+        "Intencion por sede, fecha, personas, motivo y canal."
+      ],
+      "campaigns": [
+        "Campanas separadas para Pereira, Cocora, romance, descanso y gastronomia.",
+        "Remarketing a visitantes de habitaciones sin reserva.",
+        "Seguimiento por fecha tentativa y sede de interes."
+      ],
+      "deliverables": [
+        "Optimizacion de conversion para web actual y reserva directa.",
+        "Concierge digital con sede, fechas, personas, motivo y datos.",
+        "Panel por fuente, sede, fecha, motivo, reserva y seguimiento."
+      ],
+      "sources": [
+        "https://www.sazagua.com/",
+        "https://www.instagram.com/sazaguahotelboutique/"
+      ]
+    },
+    {
+      "slug": "casa-legado-bogota",
+      "company": "Casa Legado",
+      "instagram": "@casalegado",
+      "website": "https://casalegadobogota.com/",
+      "sector": "hotel boutique y casa de experiencias",
+      "city": "Bogota",
+      "tone": "hogareno, boutique y premium",
+      "accent": "#A66C4A",
+      "secondary": "#E8C98F",
+      "status": "Web activa + Instagram oficial; oportunidad en habitaciones, casas completas y eventos",
+      "leadProblem": "Casa Legado comunica una experiencia boutique muy personal, con habitaciones y opciones de casa completa. La fuga probable aparece cuando el visitante no sabe que habitacion elegir, si necesita casa completa, evento, fecha o recomendacion local antes de reservar.",
+      "opportunity": "Mejorar la conversion de la web actual con un concierge que filtre fechas, personas, tipo de habitacion, casa completa, evento o experiencia local, y active seguimiento para reservas directas.",
+      "proofLine": "Lectura publica del 16 de julio de 2026: casalegadobogota.com responde HTTP 200, presenta hotel en Quinta Camacho, habitaciones, casas completas y concepto de cocina abierta; la busqueda publica confirma Instagram @casalegado.",
+      "audience": "Viajeros premium, familias, grupos pequenos, empresas y visitantes que buscan hotel boutique, casa completa o estancia con recomendaciones locales en Bogota.",
+      "adAngle": "Casa boutique en Quinta Camacho + recomendacion guiada + reserva directa",
+      "whatsappCta": "Quiero convertir mas reservas directas",
+      "heroCopy": "Una casa boutique vende cercania, pero necesita convertir dudas sobre habitacion, grupo y fecha en solicitudes con contexto.",
+      "brandWorldTitle": "De sentirte en casa a reservar directo",
+      "diagnosisTitle": "Fugas por eleccion de habitacion y grupo",
+      "botAgentName": "Concierge Casa Legado demo",
+      "botAgentRole": "filtra habitacion, casa y fechas",
+      "botTitle": "Concierge digital para hotel boutique",
+      "botIntro": "El demo pregunta fechas, personas, tipo de viaje, habitacion o casa completa antes de pasar a reserva.",
+      "botOpening": "Hola, soy el concierge demo de Casa Legado. Te ayudo con fechas, personas, habitacion, casa completa o evento antes de solicitar reserva.",
+      "botPrompts": [
+        "Habitacion",
+        "Casa completa",
+        "Evento",
+        "Recomendaciones",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "habitacion",
+            "suite",
+            "fecha"
+          ],
+          "answer": "Pregunta fechas, personas, tipo de viaje y preferencias para orientar sin inventar disponibilidad."
+        },
+        {
+          "keywords": [
+            "casa",
+            "grupo",
+            "familia",
+            "completa"
+          ],
+          "answer": "Identifica tamaño del grupo y motivo para diferenciar habitacion individual, casa o full house."
+        },
+        {
+          "keywords": [
+            "evento",
+            "empresa",
+            "celebracion"
+          ],
+          "answer": "Captura fecha, asistentes y necesidad del evento para entregar una oportunidad lista al equipo."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide fechas, personas, tipo de estadia, evento, origen y paso hacia reserva directa."
+        }
+      ],
+      "findings": [
+        "La web oficial presenta habitaciones, casa y ubicacion en Quinta Camacho.",
+        "La busqueda publica confirma perfil @casalegado y posicionamiento de home hotel.",
+        "La oferta incluye estancias individuales y opciones para grupos/casa completa."
+      ],
+      "siteIssues": [
+        "El visitante necesita escoger entre muchas habitaciones y formatos de estadia.",
+        "Las opciones de casa completa y eventos requieren filtro distinto al de una reserva simple.",
+        "Sin seguimiento, consultas de alto valor pueden quedar anonimas."
+      ],
+      "losses": [
+        "Reservas directas pueden migrar a plataformas si la respuesta no llega rapido.",
+        "Grupos grandes pueden enviar mensajes incompletos y alargar cotizacion.",
+        "La pauta puede atraer turistas sin saber si buscan habitacion, casa o evento."
+      ],
+      "heatmapData": [
+        "Clics por habitaciones, casa completa, reserva, ubicacion y contacto.",
+        "Abandono antes de elegir fecha o formato de estadia.",
+        "Intencion por grupo, motivo, fechas, habitacion y fuente."
+      ],
+      "campaigns": [
+        "Campanas para viajeros boutique, grupos, casa completa y eventos.",
+        "Remarketing a visitantes de habitaciones o full house sin reserva.",
+        "Seguimiento por fecha, grupo y motivo de viaje."
+      ],
+      "deliverables": [
+        "Mejora de conversion para web actual y reserva directa.",
+        "Concierge digital con fechas, personas, habitacion, casa y evento.",
+        "Panel por fuente, formato de estadia, fechas, grupo, reserva y seguimiento."
+      ],
+      "sources": [
+        "https://casalegadobogota.com/",
+        "https://www.instagram.com/casalegado/"
+      ]
+    },
+    {
+      "slug": "bylmo-colombia-muebles",
+      "company": "Bylmo",
+      "instagram": "@bylmocolombia",
+      "website": "https://bylmo.com/",
+      "sector": "ecommerce de muebles, decoracion y hogar",
+      "city": "Colombia",
+      "tone": "directo, familiar y vendedor",
+      "accent": "#E45564",
+      "secondary": "#F2C94C",
+      "status": "Ecommerce activo + Instagram oficial; oportunidad en catalogo masivo, credito, entrega y seguimiento",
+      "leadProblem": "Bylmo tiene tienda online y una oferta amplia para el hogar. La fuga probable aparece cuando el cliente ve muchas opciones, pero necesita ayuda con medidas, entrega, cuotas, disponibilidad, estilo o compatibilidad antes de comprar.",
+      "opportunity": "Mejorar la conversion del ecommerce con un asesor que filtre ambiente, medidas, ciudad, presupuesto, pago a cuotas y entrega, recuperando carritos y consultas desde Instagram.",
+      "proofLine": "Lectura publica del 16 de julio de 2026: bylmo.com responde HTTP 200 y la busqueda publica lo describe como muebles modernos, escritorios, closets, electrodomesticos y decoracion con envio gratis en Colombia, compra facil y pago a cuotas; Instagram @bylmocolombia comunica tienda online.",
+      "audience": "Hogares en Colombia buscando muebles, decoracion, electrodomesticos, escritorios, closets, ofertas y compra online con entrega.",
+      "adAngle": "Muebles para el hogar + asesor por medidas + compra a cuotas",
+      "whatsappCta": "Quiero recuperar mas carritos de muebles",
+      "heroCopy": "En muebles, el carrito se pierde cuando falta claridad de medidas, entrega, cuotas o estilo antes de pagar.",
+      "brandWorldTitle": "Del scroll de catalogo al carrito recuperado",
+      "diagnosisTitle": "Fugas por eleccion, medidas y entrega",
+      "botAgentName": "Asesor Bylmo demo",
+      "botAgentRole": "filtra ambiente, medidas y entrega",
+      "botTitle": "Asesor para ecommerce de hogar",
+      "botIntro": "El demo pregunta espacio, medidas, ciudad, presupuesto, forma de pago y entrega antes de recomendar ruta de compra.",
+      "botOpening": "Hola, soy el asesor demo de Bylmo. Te ayudo a elegir producto por espacio, medidas, ciudad, presupuesto, cuotas y entrega.",
+      "botPrompts": [
+        "Sala",
+        "Medidas",
+        "Cuotas",
+        "Entrega",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sala",
+            "comedor",
+            "closet",
+            "escritorio"
+          ],
+          "answer": "Pregunta ambiente, medidas, estilo y presupuesto para orientar la categoria correcta sin inventar inventario."
+        },
+        {
+          "keywords": [
+            "medida",
+            "tamano",
+            "espacio"
+          ],
+          "answer": "Pide ancho, alto, profundidad o foto de referencia para evitar compras mal elegidas."
+        },
+        {
+          "keywords": [
+            "cuota",
+            "credito",
+            "pago",
+            "envio",
+            "entrega"
+          ],
+          "answer": "Captura ciudad, urgencia y metodo de pago para que el equipo confirme condiciones oficiales."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "carrito"
+          ],
+          "answer": "Mide producto visto, ambiente, ciudad, objecion, carrito iniciado y seguimiento."
+        }
+      ],
+      "findings": [
+        "La web oficial funciona como ecommerce para hogar y muebles.",
+        "La busqueda publica comunica envio en Colombia, compra online y pago a cuotas.",
+        "Instagram comunica tienda online para muebles, decoracion y hogar."
+      ],
+      "siteIssues": [
+        "Un catalogo amplio necesita recomendacion por espacio y medidas.",
+        "Preguntas de entrega, cuotas y disponibilidad pueden frenar el carrito.",
+        "Sin recuperacion por producto visto, la pauta pierde ventas de alta intencion."
+      ],
+      "losses": [
+        "Clientes comparan muebles si no resuelven medidas o entrega rapido.",
+        "El equipo repite preguntas de ciudad, presupuesto y espacio.",
+        "Carritos abandonados quedan sin seguimiento con contexto de producto."
+      ],
+      "heatmapData": [
+        "Clics por categoria, producto, carrito, cuotas, envio y WhatsApp.",
+        "Abandono antes de checkout o validacion de entrega.",
+        "Intencion por ambiente, ciudad, presupuesto, objecion y producto."
+      ],
+      "campaigns": [
+        "Campanas por ambiente: sala, comedor, dormitorio, oficina y ofertas.",
+        "Remarketing a productos vistos sin carrito o carrito incompleto.",
+        "Seguimiento automatico por producto, ciudad y objecion."
+      ],
+      "deliverables": [
+        "Optimizacion de conversion para ecommerce actual.",
+        "Asesor digital con ambiente, medidas, ciudad, cuotas, entrega y carrito.",
+        "Panel por fuente, producto, ambiente, ciudad, carrito y seguimiento."
+      ],
+      "sources": [
+        "https://bylmo.com/",
+        "https://www.instagram.com/bylmocolombia/"
+      ]
+    },
+    {
+      "slug": "muebles-y-accesorios-colombia",
+      "company": "Muebles y Accesorios",
+      "instagram": "@mueblesyaccesorioscol",
+      "website": "https://www.mueblesyaccesorios.com.co/",
+      "sector": "mobiliario, decoracion y proyectos de hogar",
+      "city": "Colombia",
+      "tone": "profesional, confiable y comercial",
+      "accent": "#4C6A92",
+      "secondary": "#D8A85B",
+      "status": "Web activa + Instagram oficial; oportunidad en showroom, cotizacion y seguimiento por proyecto",
+      "leadProblem": "Muebles y Accesorios tiene trayectoria, tiendas y una oferta amplia. La fuga probable aparece cuando un cliente quiere amoblar un espacio, cotizar o comparar estilos, pero necesita asesoria de medidas, ciudad, entrega y presupuesto antes de visitar o comprar.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor de proyectos que capture ambiente, medidas, ciudad, presupuesto, estilo y urgencia, conectando pauta, web, showroom y WhatsApp con seguimiento.",
+      "proofLine": "Lectura publica del 16 de julio de 2026: mueblesyaccesorios.com.co aparece como sitio oficial de una compania colombiana de mobiliario y decoracion; la busqueda publica de @mueblesyaccesorioscol comunica empresa colombiana con trayectoria y presencia en principales ciudades.",
+      "audience": "Hogares, parejas, arquitectos, decoradores y empresas que buscan muebles, accesorios, remodelacion, showroom o asesoria de espacio.",
+      "adAngle": "Diseno mobiliario + asesoria de espacio + cotizacion con contexto",
+      "whatsappCta": "Quiero convertir mas cotizaciones y visitas",
+      "heroCopy": "En mobiliario, la venta empieza antes del showroom: espacio, medidas, estilo y presupuesto deben llegar claros.",
+      "brandWorldTitle": "De inspiracion de hogar a proyecto cotizable",
+      "diagnosisTitle": "Fugas por proyecto sin contexto",
+      "botAgentName": "Asesor M&A demo",
+      "botAgentRole": "filtra espacio, medidas y showroom",
+      "botTitle": "Asesor digital para proyectos de mobiliario",
+      "botIntro": "El demo pregunta ambiente, medidas, ciudad, estilo, presupuesto y visita a showroom antes de pasar al asesor humano.",
+      "botOpening": "Hola, soy el asesor demo de Muebles y Accesorios. Te ayudo a ordenar espacio, medidas, estilo, ciudad y presupuesto para avanzar con una cotizacion.",
+      "botPrompts": [
+        "Sala",
+        "Cotizar",
+        "Showroom",
+        "Medidas",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sala",
+            "comedor",
+            "habitacion",
+            "oficina"
+          ],
+          "answer": "Pregunta ambiente, medidas, estilo y ciudad para clasificar la oportunidad de proyecto."
+        },
+        {
+          "keywords": [
+            "cotizar",
+            "presupuesto",
+            "precio"
+          ],
+          "answer": "Captura rango, producto de interes y urgencia para entregar una solicitud de cotizacion con contexto."
+        },
+        {
+          "keywords": [
+            "showroom",
+            "tienda",
+            "ciudad"
+          ],
+          "answer": "Identifica ciudad y necesidad antes de dirigir a tienda o asesor."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide ambiente, ciudad, presupuesto, producto, showroom solicitado y estado de seguimiento."
+        }
+      ],
+      "findings": [
+        "La busqueda publica confirma web oficial y enfoque en mobiliario/decoracion.",
+        "Instagram comunica empresa colombiana con trayectoria y presencia en principales ciudades.",
+        "La oferta requiere asesoria de espacio, medidas y ciudad antes del cierre."
+      ],
+      "siteIssues": [
+        "El cliente puede inspirarse pero no dejar datos si no tiene una ruta de cotizacion simple.",
+        "Showroom, web y WhatsApp deben compartir contexto para no reiniciar la conversacion.",
+        "La pauta necesita diferenciar compra de producto, proyecto completo y visita a tienda."
+      ],
+      "losses": [
+        "Oportunidades de alto ticket pueden llegar como mensajes incompletos.",
+        "El equipo repite preguntas de espacio, medidas, ciudad y presupuesto.",
+        "Sin seguimiento, usuarios que miraron colecciones quedan anonimos."
+      ],
+      "heatmapData": [
+        "Clics por categoria, showroom, contacto, colecciones y WhatsApp.",
+        "Abandono antes de cotizar o agendar asesoria.",
+        "Intencion por ambiente, ciudad, presupuesto, estilo y canal."
+      ],
+      "campaigns": [
+        "Campanas por ambiente y ciudad: salas, comedores, alcobas y decoracion.",
+        "Remarketing a visitantes de colecciones sin cotizacion.",
+        "Flujo de seguimiento para visitas a showroom y proyectos."
+      ],
+      "deliverables": [
+        "Optimizacion de conversion para web actual y cotizaciones.",
+        "Asesor digital con espacio, medidas, ciudad, presupuesto, estilo y showroom.",
+        "Panel por fuente, ambiente, ciudad, presupuesto, asesor asignado y seguimiento."
+      ],
+      "sources": [
+        "https://www.mueblesyaccesorios.com.co/",
+        "https://www.instagram.com/mueblesyaccesorioscol/"
+      ]
+    },
+    {
+      "slug": "fiber-medellin-moda-deportiva",
+      "company": "FIBER",
+      "instagram": "@fiberofficial",
+      "website": "https://fiber.com.co/",
+      "sector": "ropa deportiva femenina y ecommerce",
+      "city": "Medellin",
+      "tone": "activo, tecnico y aspiracional",
+      "accent": "#6B4E3D",
+      "secondary": "#D6C1A4",
+      "status": "Ecommerce activo + Instagram oficial; oportunidad en tallas, fit, tienda y recuperacion de carrito",
+      "leadProblem": "FIBER tiene marca, tienda online y producto visual de alto deseo. La fuga probable aparece cuando una compradora duda por talla, fit, material, disponibilidad, envio, cambios o recogida en tienda antes de pagar.",
+      "opportunity": "Mejorar la conversion del ecommerce con una asesora que responda tallas, fit, ciudad, cambios, carrito y tienda, conectando Instagram, web y WhatsApp con seguimiento por producto visto.",
+      "proofLine": "Lectura publica del 16 de julio de 2026: fiber.com.co responde HTTP 200 como ecommerce; la busqueda publica de @fiberofficial lo describe como hecho en Colombia, ubicado en Medellin, y Facebook publico enlaza fiber.com.co y ventas@fiber.com.co.",
+      "audience": "Mujeres que compran ropa deportiva, sets, prendas tecnicas, regalos y looks activos desde Instagram o tienda online.",
+      "adAngle": "Activewear hecho en Colombia + guia de talla + carrito recuperado",
+      "whatsappCta": "Quiero vender mas carritos con asesoria",
+      "heroCopy": "En moda deportiva, el impulso se pierde cuando la compradora no confirma talla, fit o cambio antes del checkout.",
+      "brandWorldTitle": "Del look guardado al carrito cerrado",
+      "diagnosisTitle": "Fugas por talla, fit y confianza",
+      "botAgentName": "Asesora FIBER demo",
+      "botAgentRole": "guia talla, fit y carrito",
+      "botTitle": "Asesora digital para activewear",
+      "botIntro": "El demo ayuda a elegir talla, fit, producto, ciudad, envio y cambios antes de perder el carrito.",
+      "botOpening": "Hola, soy la asesora demo de FIBER. Te ayudo con talla, fit, producto, ciudad, envio, cambios y carrito antes de comprar.",
+      "botPrompts": [
+        "Talla",
+        "Set completo",
+        "Cambios",
+        "Tienda Medellin",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "talla",
+            "fit",
+            "horma"
+          ],
+          "answer": "Pregunta medidas, prenda de interes y preferencia de ajuste para orientar sin prometer disponibilidad."
+        },
+        {
+          "keywords": [
+            "set",
+            "producto",
+            "color"
+          ],
+          "answer": "Clasifica categoria, color y uso para recomendar ruta de compra o seguimiento."
+        },
+        {
+          "keywords": [
+            "cambio",
+            "envio",
+            "tienda",
+            "medellin"
+          ],
+          "answer": "Captura ciudad, necesidad de cambio o visita a tienda para que el equipo confirme condiciones oficiales."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "carrito"
+          ],
+          "answer": "Mide producto visto, talla, objecion, ciudad, carrito iniciado y conversacion recuperada."
+        }
+      ],
+      "findings": [
+        "La web oficial funciona como tienda online.",
+        "La presencia publica comunica marca hecha en Colombia y ubicacion en Medellin.",
+        "El ecommerce tiene friccion natural de talla, fit, cambios y entrega."
+      ],
+      "siteIssues": [
+        "La compra de moda requiere confianza en talla y ajuste.",
+        "La tienda fisica y el ecommerce pueden capturar intenciones distintas.",
+        "Sin recuperacion, productos vistos desde Instagram no siempre llegan a compra."
+      ],
+      "losses": [
+        "Compradoras pueden abandonar por duda de talla o cambio.",
+        "El equipo repite preguntas de fit, envio y disponibilidad.",
+        "La pauta puede generar clics a producto sin saber que objecion freno el carrito."
+      ],
+      "heatmapData": [
+        "Clics por categoria, talla, carrito, cambios, tienda y WhatsApp.",
+        "Abandono antes de seleccionar talla o finalizar checkout.",
+        "Intencion por producto, talla, ciudad, objecion y fuente."
+      ],
+      "campaigns": [
+        "Campanas por sets, prendas basicas, drops y tienda Medellin.",
+        "Remarketing a producto visto sin carrito o carrito incompleto.",
+        "Seguimiento automatico por talla, producto y objecion."
+      ],
+      "deliverables": [
+        "Optimizacion de conversion para ecommerce actual.",
+        "Asesora digital con talla, fit, producto, ciudad, cambios y carrito.",
+        "Panel por fuente, producto, talla, objecion, carrito y seguimiento."
+      ],
+      "sources": [
+        "https://fiber.com.co/",
+        "https://www.instagram.com/fiberofficial/"
+      ]
+    },
+    {
+      "slug": "surtitodo-colombia-moda",
+      "company": "Surtitodo",
+      "instagram": "@surtitodo_oficial",
+      "website": "https://surtitodo.co/",
+      "sector": "moda familiar, tiendas y ecommerce",
+      "city": "Colombia",
+      "tone": "popular, familiar y practico",
+      "accent": "#1F75BC",
+      "secondary": "#F04E37",
+      "status": "Ecommerce activo + Instagram oficial; oportunidad en tallas, tiendas, promociones y seguimiento omnicanal",
+      "leadProblem": "Surtitodo ya tiene tiendas, ecommerce y volumen de oferta. La fuga probable aparece cuando el cliente viene por una promo, pero necesita encontrar talla, categoria, tienda, envio, cambio o producto familiar antes de comprar.",
+      "opportunity": "Mejorar la conversion de la web actual con un asesor que filtre mujer/hombre/ninos, talla, ciudad, tienda cercana, promocion y estado de carrito, para convertir pauta y redes en ventas medibles.",
+      "proofLine": "Lectura publica del 16 de julio de 2026: surtitodo.co responde HTTP 200; la busqueda publica lo describe como moda para mujer, hombre y ninos, hecha en Colombia, compra online y envios al pais; Instagram @surtitodo_oficial comunica tiendas a nivel nacional y compra en linea.",
+      "audience": "Familias y compradores en Colombia buscando moda de precio accesible, promociones, jeans, blusas, pijamas, ninos, tiendas y compra online.",
+      "adAngle": "Moda familiar + talla correcta + promo con seguimiento",
+      "whatsappCta": "Quiero convertir mas visitas y carritos",
+      "heroCopy": "En retail de moda familiar, la promo trae trafico; la venta llega cuando talla, categoria y tienda se resuelven rapido.",
+      "brandWorldTitle": "De promo vista a compra medible",
+      "diagnosisTitle": "Fugas por talla, categoria y tienda",
+      "botAgentName": "Asesor Surtitodo demo",
+      "botAgentRole": "filtra talla, categoria y tienda",
+      "botTitle": "Asesor omnicanal para moda familiar",
+      "botIntro": "El demo separa categoria, talla, ciudad, tienda, promocion y carrito antes de pasar a compra o seguimiento.",
+      "botOpening": "Hola, soy el asesor demo de Surtitodo. Te ayudo con categoria, talla, ciudad, tienda, promo, envio y carrito.",
+      "botPrompts": [
+        "Mujer",
+        "Ninos",
+        "Tienda cercana",
+        "Promocion",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "mujer",
+            "hombre",
+            "nino",
+            "jean",
+            "pijama"
+          ],
+          "answer": "Pregunta categoria, talla y ciudad para orientar la busqueda y capturar intencion de compra."
+        },
+        {
+          "keywords": [
+            "tienda",
+            "ciudad",
+            "cercana"
+          ],
+          "answer": "Identifica ciudad o zona antes de enviar a tienda o ecommerce, sin inventar disponibilidad."
+        },
+        {
+          "keywords": [
+            "promo",
+            "precio",
+            "descuento",
+            "envio"
+          ],
+          "answer": "Registra interes en promo y producto para seguimiento, aclarando que condiciones se confirman en canales oficiales."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "carrito"
+          ],
+          "answer": "Mide categoria, talla, ciudad, promo, carrito y canal de cierre."
+        }
+      ],
+      "findings": [
+        "La web oficial funciona como ecommerce de moda familiar.",
+        "Instagram publico comunica tiendas a nivel nacional y compra en linea.",
+        "La oferta amplia exige filtrado por categoria, talla, ciudad y promocion."
+      ],
+      "siteIssues": [
+        "Promociones y muchas categorias pueden generar exploracion sin compra.",
+        "Tienda fisica y ecommerce necesitan compartir contexto para no perder ventas.",
+        "Sin seguimiento, carritos de bajo/medio ticket no se recuperan a escala."
+      ],
+      "losses": [
+        "Clientes atraidos por promo pueden abandonar si no encuentran talla o categoria rapido.",
+        "El equipo responde preguntas repetidas sobre tienda, envio y cambios.",
+        "La pauta puede optimizar a clics sin leer compras o carritos recuperables."
+      ],
+      "heatmapData": [
+        "Clics por categoria, talla, promo, tienda, carrito y envio.",
+        "Abandono antes de elegir talla o checkout.",
+        "Intencion por ciudad, categoria, promocion, producto y fuente."
+      ],
+      "campaigns": [
+        "Campanas por categoria y temporada: mujer, hombre, ninos, jeans y pijamas.",
+        "Remarketing a visitantes de promo sin carrito.",
+        "Seguimiento automatico por talla, ciudad y producto."
+      ],
+      "deliverables": [
+        "Optimizacion de conversion para ecommerce actual.",
+        "Asesor digital con categoria, talla, ciudad, tienda, promo y carrito.",
+        "Panel por fuente, categoria, talla, ciudad, carrito y seguimiento."
+      ],
+      "sources": [
+        "https://surtitodo.co/",
+        "https://www.instagram.com/surtitodo_oficial/"
+      ]
+    },
+    {
+      "slug": "oficial-bogota-takami",
+      "company": "Oficial Bogota",
+      "instagram": "@oficialbogota",
+      "website": "https://takami.co/oficial/",
+      "sector": "restaurante peruano, reservas y domicilios",
+      "city": "Bogota",
+      "tone": "premium, gastronomico y eficiente",
+      "accent": "#B54535",
+      "secondary": "#E6B45A",
+      "status": "Web activa dentro de Takami + Instagram oficial; oportunidad en reservas, salon privado y domicilios",
+      "leadProblem": "Oficial tiene respaldo de Takami y una propuesta peruana clara. La fuga probable aparece cuando alguien quiere reservar, pedir domicilio, cotizar salon privado o resolver menu/vinos, pero la intencion queda distribuida entre web, formulario, telefono e Instagram.",
+      "opportunity": "Mejorar la conversion de la web actual con un host digital que clasifique reserva, domicilio, salon privado, fecha, personas y ocasion, dejando datos listos para el canal correcto y seguimiento.",
+      "proofLine": "Lectura publica del 16 de julio de 2026: takami.co/oficial responde HTTP 200, presenta gastronomia peruana junto a Rafael Osterling, opciones de reservar, salon privado y domicilio/pick-up; la busqueda publica de @oficialbogota comunica restaurante de Takami con menu, reservas y domicilios.",
+      "audience": "Comensales en Bogota, grupos, empresas y clientes de domicilio interesados en gastronomia peruana, vinos, reservas y salon privado.",
+      "adAngle": "Cocina peruana + reserva/salon privado + canal correcto en segundos",
+      "whatsappCta": "Quiero convertir mas reservas y eventos privados",
+      "heroCopy": "Cuando hay reserva, domicilio y salon privado, el primer clic debe clasificar la intencion antes de entregar el lead.",
+      "brandWorldTitle": "De antojo peruano a reserva o pedido con contexto",
+      "diagnosisTitle": "Fugas por rutas comerciales mezcladas",
+      "botAgentName": "Host Oficial demo",
+      "botAgentRole": "clasifica reserva, domicilio y salon",
+      "botTitle": "Host digital para rutas gastronomicas",
+      "botIntro": "El demo separa reserva, domicilio, pick-up y salon privado con fecha, personas y ocasion.",
+      "botOpening": "Hola, soy el host demo de Oficial. Te ayudo a elegir entre reserva, domicilio, pick-up o salon privado y dejar los datos listos.",
+      "botPrompts": [
+        "Reservar",
+        "Salon privado",
+        "Domicilio",
+        "Menu vinos",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "reserva",
+            "mesa",
+            "fecha"
+          ],
+          "answer": "Pide fecha, hora, personas y contacto para enviar al flujo de reserva oficial."
+        },
+        {
+          "keywords": [
+            "salon",
+            "privado",
+            "evento"
+          ],
+          "answer": "Captura tipo de evento, asistentes, fecha y necesidad para una oportunidad de mayor valor."
+        },
+        {
+          "keywords": [
+            "domicilio",
+            "pickup",
+            "pedido"
+          ],
+          "answer": "Separa pedido de reserva y registra zona o preferencia antes de dirigir al canal correcto."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide fuente, tipo de intencion, fecha, personas, salon privado, domicilio y seguimiento."
+        }
+      ],
+      "findings": [
+        "La pagina oficial dentro de Takami muestra reserva, salon privado y domicilio/pick-up.",
+        "La oferta publica conecta gastronomia peruana y chef Rafael Osterling.",
+        "Instagram comunica menu, reservas y domicilios."
+      ],
+      "siteIssues": [
+        "Reserva, domicilio y salon privado tienen rutas comerciales distintas.",
+        "Las oportunidades de salon privado necesitan filtro antes del formulario.",
+        "La pauta debe diferenciar comida en sala, domicilio y evento para medir retorno."
+      ],
+      "losses": [
+        "Un interesado por salon privado puede quedar mezclado con reservas simples.",
+        "Clientes de domicilio pueden perderse si no caen en el canal correcto rapido.",
+        "Sin clasificacion, la pauta aprende menos sobre que intencion produce ingresos."
+      ],
+      "heatmapData": [
+        "Clics en reserva, salon privado, domicilio, menu, vinos e Instagram.",
+        "Abandono antes de formulario o canal de pedido.",
+        "Intencion por ruta, fecha, personas, ocasion y fuente."
+      ],
+      "campaigns": [
+        "Campanas por reserva, salon privado, domicilios y ocasiones especiales.",
+        "Remarketing a visitantes de salon privado sin formulario.",
+        "Seguimiento por tipo de intencion y fecha tentativa."
+      ],
+      "deliverables": [
+        "Optimizacion de conversion para pagina actual dentro de Takami.",
+        "Host digital con reserva, domicilio, salon privado, fecha, personas y datos.",
+        "Panel por fuente, ruta comercial, fecha, personas, evento y seguimiento."
+      ],
+      "sources": [
+        "https://takami.co/oficial/",
+        "https://www.instagram.com/oficialbogota/"
+      ]
     }
   ]
 }
