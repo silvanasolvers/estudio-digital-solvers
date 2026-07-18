@@ -32162,6 +32162,1588 @@
       "sources": [
         "https://www.instagram.com/aestheticsantamaria/"
       ]
+    },
+    {
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#B9783F",
+      "secondary": "#F1D58B",
+      "statusLabel": "Estado detectado",
+      "alertLabel": "Oportunidad comercial",
+      "heroCopy": "Cuando un hotel mezcla habitaciones, spa y eventos, cada consulta debe llegar con fecha, plan y contexto antes de ocupar al equipo.",
+      "bannerKicker": "Mini-estudio SolversAI",
+      "bannerHook": "Reservas con encanto, no chats sueltos",
+      "bannerSubhook": "Barichara vende experiencia; la web debe cerrar con fecha, plan y seguimiento.",
+      "bannerBadge1": "web activa",
+      "bannerBadge2": "precalifica reservas",
+      "openNode1Label": "Oferta",
+      "openNode1Title": "habitaciones + spa + eventos",
+      "openNode2Label": "Fuga",
+      "openNode2Title": "dudas antes de cerrar",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "asesor + seguimiento",
+      "openNodeMetric": "24/7",
+      "loaderTitle": "Estudio para Hotel Hicasua",
+      "loaderSubtitle": "Ordenando senales publicas, fuga comercial y demo conversacional antes de mostrar la pagina.",
+      "brandPersonality": "Hotel colonial con experiencia de descanso y eventos",
+      "visualCue": "Barichara, habitaciones con encanto y spa",
+      "conversionFocus": "Reserva, spa, eventos y seguimiento",
+      "experienceIntro": "La experiencia digital debe sentirse como recepcion boutique: clara, rapida y con criterio comercial.",
+      "scrollTitle": "El recorrido que debe quedar claro",
+      "diagnosisTitle": "Fugas antes de reservar",
+      "botDemoTitle": "Asesor digital contextual",
+      "botDemoBody": "Muestra como pasar de interes turistico a solicitud con fechas, personas y tipo de plan.",
+      "botTrainingTitle": "Preguntas reales del negocio",
+      "botTrainingBody": "Habitaciones, spa, eventos, fechas, personas, politicas, presupuesto y canal de cierre.",
+      "journey": [
+        {
+          "title": "La persona descubre la marca",
+          "body": "Instagram, busqueda o pauta despiertan interes, pero el siguiente paso debe quedar claro en segundos."
+        },
+        {
+          "title": "La web convierte con menos friccion",
+          "body": "La pagina debe explicar oferta, resolver dudas y llevar a agenda, pedido, reserva o cotizacion con contexto."
+        },
+        {
+          "title": "WhatsApp recibe contexto",
+          "body": "El asesor digital llega con producto, servicio, fecha, presupuesto o necesidad para que el humano cierre mejor."
+        },
+        {
+          "title": "La pauta aprende de conversion real",
+          "body": "Eventos, mapa de calor y conversaciones muestran que mensaje produce agenda, cotizacion, reserva o compra."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Interes",
+          "title": "La demanda ya pregunta",
+          "body": "Hay senales publicas de personas que necesitan claridad antes de comprar, reservar o agendar."
+        },
+        {
+          "label": "Fuga",
+          "title": "Demasiado chat manual",
+          "body": "Preguntas repetidas pueden enfriar el lead cuando no hay respuesta con contexto."
+        },
+        {
+          "label": "Sistema",
+          "title": "Web + asesor",
+          "body": "La conversion mejora cuando la ruta explica, filtra y pasa el dato correcto a WhatsApp."
+        },
+        {
+          "label": "Data",
+          "title": "Medir antes de insistir",
+          "body": "Sin eventos no se sabe que oferta, servicio o anuncio trae oportunidades reales."
+        }
+      ],
+      "slug": "hotel-hicasua-barichara",
+      "company": "Hotel Hicasua",
+      "instagram": "@hicasuahotel",
+      "website": "https://www.hicasua.com/en",
+      "sector": "hotel boutique, spa y eventos",
+      "city": "Barichara, Santander",
+      "tone": "colonial, calido y premium",
+      "status": "Instagram oficial + web propia activa; oportunidad en reservas, spa y eventos",
+      "leadProblem": "La web y el Instagram generan deseo, pero una persona todavia puede dudar por fecha, tipo de habitacion, spa, eventos, politicas y forma de reserva. Si esas dudas quedan en WhatsApp manual, la intencion se enfria.",
+      "opportunity": "La oportunidad es mejorar la conversion de su web actual: claridad de oferta, reserva, WhatsApp con contexto, seguimiento y pauta con data.",
+      "proofLine": "Lectura publica del 18 de julio de 2026: Instagram @hicasuahotel aparece como Hotel Hicasua Boutique en Barichara y la web hicasua.com responde 200 con propuesta de alojamiento, spa y eventos.",
+      "audience": "Parejas, viajeros de descanso, familias y organizadores de eventos que buscan experiencia boutique en Barichara.",
+      "adAngle": "Hotel boutique en Barichara + spa/eventos + reserva asistida",
+      "whatsappCta": "Quiero convertir mas reservas directas",
+      "brandWorldTitle": "La reserva debe sentirse tan cuidada como el hotel",
+      "findings": [
+        "Instagram identifica el hotel en el corazon de Barichara.",
+        "La web propia esta activa y comunica alojamiento con encanto, spa y eventos.",
+        "El negocio combina varias intenciones que conviene separar antes del chat."
+      ],
+      "siteIssues": [
+        "El visitante puede necesitar elegir entre habitacion, spa o evento antes de hablar con recepcion.",
+        "La disponibilidad y las politicas son dudas sensibles que pueden frenar reserva directa.",
+        "Sin seguimiento por intencion, la pauta no diferencia escapada, evento o spa."
+      ],
+      "losses": [
+        "Interesados comparan hoteles y reservan donde el siguiente paso se entiende mas rapido.",
+        "Cotizaciones de eventos llegan incompletas si no se pide fecha, asistentes y formato.",
+        "Preguntas repetidas sobre politicas o servicios consumen tiempo humano."
+      ],
+      "heatmapData": [
+        "Clics por habitaciones, spa, eventos, ubicacion, galeria, reserva y WhatsApp.",
+        "Abandono antes de disponibilidad, politicas o contacto.",
+        "Intencion por plan para remarketing de escapadas, spa y eventos."
+      ],
+      "campaigns": [
+        "Campana de reserva directa por escapada a Barichara.",
+        "Remarketing a visitantes de spa o eventos sin solicitud completa.",
+        "Seguimiento automatico por fecha tentativa y tipo de plan."
+      ],
+      "deliverables": [
+        "Optimizar ruta de conversion de la web actual con CTA por intencion.",
+        "Concierge digital para fechas, personas, plan, dudas y WhatsApp con contexto.",
+        "Panel de oportunidades por fuente, plan, fecha y estado de seguimiento."
+      ],
+      "botAgentName": "Concierge Hicasua demo",
+      "botAgentRole": "precalifica reservas",
+      "botTitle": "Concierge digital para reservas directas",
+      "botIntro": "El demo separa fechas, personas, plan y dudas antes de pasar a reserva.",
+      "botOpening": "Hola, soy el concierge demo de Hicasua. Te ayudo a ordenar fecha, personas, plan y dudas antes de pasar a reserva.",
+      "botPrompts": [
+        "Fechas disponibles",
+        "Plan romantico",
+        "Evento o grupo",
+        "Politicas",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "fecha",
+            "disponible",
+            "reserva"
+          ],
+          "answer": "Primero pediria fechas, numero de personas y motivo del viaje para enviar una solicitud lista al motor o a WhatsApp."
+        },
+        {
+          "keywords": [
+            "romantico",
+            "pareja",
+            "plan"
+          ],
+          "answer": "Separaria plan, fecha, extras y presupuesto antes de pasar al equipo para cerrar."
+        },
+        {
+          "keywords": [
+            "evento",
+            "grupo"
+          ],
+          "answer": "Tomaria numero de asistentes, tipo de evento, fecha tentativa y necesidades especiales para evitar una cotizacion incompleta."
+        }
+      ],
+      "sources": [
+        "https://www.instagram.com/hicasuahotel/",
+        "https://www.hicasua.com/en"
+      ]
+    },
+    {
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#2274A5",
+      "secondary": "#F4D35E",
+      "statusLabel": "Estado detectado",
+      "alertLabel": "Oportunidad comercial",
+      "heroCopy": "Un hotel urbano gana cuando el viajero entiende habitacion, ubicacion, servicios y reserva en menos pasos.",
+      "bannerKicker": "Mini-estudio SolversAI",
+      "bannerHook": "De busqueda de hotel a reserva con contexto",
+      "bannerSubhook": "La web ya existe; la oportunidad esta en guiar mejor la decision.",
+      "bannerBadge1": "web activa",
+      "bannerBadge2": "precalifica reservas",
+      "openNode1Label": "Oferta",
+      "openNode1Title": "habitaciones + ubicacion",
+      "openNode2Label": "Fuga",
+      "openNode2Title": "dudas antes de cerrar",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "asesor + seguimiento",
+      "openNodeMetric": "24/7",
+      "loaderTitle": "Estudio para Hotel BGA",
+      "loaderSubtitle": "Ordenando senales publicas, fuga comercial y demo conversacional antes de mostrar la pagina.",
+      "brandPersonality": "Hotel urbano para estancias practicas en Bucaramanga",
+      "visualCue": "Cabecera, habitaciones y servicios ejecutivos",
+      "conversionFocus": "Reserva directa, ubicacion, servicios y WhatsApp",
+      "experienceIntro": "El flujo debe reducir dudas de ubicacion, tarifa, servicios y disponibilidad antes de que el cliente escriba.",
+      "scrollTitle": "El recorrido que debe quedar claro",
+      "diagnosisTitle": "Friccion de reserva urbana",
+      "botDemoTitle": "Asesor digital contextual",
+      "botDemoBody": "Muestra como convertir una consulta de hospedaje en solicitud con fechas, personas y motivo de viaje.",
+      "botTrainingTitle": "Preguntas reales del negocio",
+      "botTrainingBody": "Habitaciones, fechas, personas, ubicacion, parqueadero, restaurante, politicas, tarifas y reserva.",
+      "journey": [
+        {
+          "title": "La persona descubre la marca",
+          "body": "Instagram, busqueda o pauta despiertan interes, pero el siguiente paso debe quedar claro en segundos."
+        },
+        {
+          "title": "La web convierte con menos friccion",
+          "body": "La pagina debe explicar oferta, resolver dudas y llevar a agenda, pedido, reserva o cotizacion con contexto."
+        },
+        {
+          "title": "WhatsApp recibe contexto",
+          "body": "El asesor digital llega con producto, servicio, fecha, presupuesto o necesidad para que el humano cierre mejor."
+        },
+        {
+          "title": "La pauta aprende de conversion real",
+          "body": "Eventos, mapa de calor y conversaciones muestran que mensaje produce agenda, cotizacion, reserva o compra."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Interes",
+          "title": "La demanda ya pregunta",
+          "body": "Hay senales publicas de personas que necesitan claridad antes de comprar, reservar o agendar."
+        },
+        {
+          "label": "Fuga",
+          "title": "Demasiado chat manual",
+          "body": "Preguntas repetidas pueden enfriar el lead cuando no hay respuesta con contexto."
+        },
+        {
+          "label": "Sistema",
+          "title": "Web + asesor",
+          "body": "La conversion mejora cuando la ruta explica, filtra y pasa el dato correcto a WhatsApp."
+        },
+        {
+          "label": "Data",
+          "title": "Medir antes de insistir",
+          "body": "Sin eventos no se sabe que oferta, servicio o anuncio trae oportunidades reales."
+        }
+      ],
+      "slug": "hotel-bga-bucaramanga",
+      "company": "Hotel BGA",
+      "instagram": "@hotelbga_",
+      "website": "https://hotelbga.com/",
+      "sector": "hotel boutique urbano",
+      "city": "Bucaramanga, Santander",
+      "tone": "urbano, ejecutivo y practico",
+      "status": "Instagram + web propia activa; reservas por WhatsApp y pagina web visibles",
+      "leadProblem": "El perfil publico invita a reservar por WhatsApp y pagina web. La fuga probable no es falta de web, sino que el visitante llegue sin fechas, numero de personas, motivo de viaje o dudas resueltas.",
+      "opportunity": "La oportunidad es mejorar la conversion de su web actual: claridad de oferta, reserva, WhatsApp con contexto, seguimiento y pauta con data.",
+      "proofLine": "Lectura publica del 18 de julio de 2026: Instagram @hotelbga_ se presenta como hotel en Bucaramanga con reservas por WhatsApp y pagina web; hotelbga.com responde 200.",
+      "audience": "Viajeros de negocios, parejas, visitantes de salud, familias y personas que necesitan hospedaje en Bucaramanga.",
+      "adAngle": "Hotel en Bucaramanga + reserva directa + respuesta rapida",
+      "whatsappCta": "Quiero ordenar reservas y seguimiento",
+      "brandWorldTitle": "La decision debe ser rapida y confiable",
+      "findings": [
+        "Instagram comunica hotel en Bucaramanga y reserva por WhatsApp/pagina web.",
+        "La web propia esta activa.",
+        "La conversion depende de entregar contexto al canal de reserva."
+      ],
+      "siteIssues": [
+        "La reserva puede enfriarse si el usuario no encuentra rapido disponibilidad, servicios y politicas.",
+        "WhatsApp sin contexto obliga al equipo a pedir datos basicos una y otra vez.",
+        "La pauta necesita saber si el lead viaja por negocio, turismo, pareja o evento."
+      ],
+      "losses": [
+        "Reservas directas pasan a OTAs o competidores cuando la respuesta tarda.",
+        "El equipo invierte tiempo en consultas sin fechas claras.",
+        "Sin eventos, no se sabe que anuncio genera reserva real."
+      ],
+      "heatmapData": [
+        "Clics por habitaciones, servicios, ubicacion, reserva y WhatsApp.",
+        "Abandono antes de fecha o tipo de habitacion.",
+        "Motivo de viaje para remarketing y ofertas."
+      ],
+      "campaigns": [
+        "Campana de reserva directa para Bucaramanga.",
+        "Remarketing a visitantes que miraron habitaciones sin reservar.",
+        "Seguimiento por fecha tentativa y motivo de viaje."
+      ],
+      "deliverables": [
+        "Mejoras de CTA y microcopy en web actual.",
+        "Concierge para fechas, personas, habitacion, servicios y politicas.",
+        "Panel de leads por fuente, fecha, motivo y estado."
+      ],
+      "botAgentName": "Recepcion BGA demo",
+      "botAgentRole": "precalifica reservas",
+      "botTitle": "Concierge digital para reservas directas",
+      "botIntro": "El demo separa fechas, personas, plan y dudas antes de pasar a reserva.",
+      "botOpening": "Hola, soy la recepcion demo de Hotel BGA. Te ayudo a consultar fechas, personas, habitacion y dudas antes de reservar.",
+      "botPrompts": [
+        "Fechas disponibles",
+        "Plan romantico",
+        "Evento o grupo",
+        "Politicas",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "fecha",
+            "disponible",
+            "reserva"
+          ],
+          "answer": "Primero pediria fechas, numero de personas y motivo del viaje para enviar una solicitud lista al motor o a WhatsApp."
+        },
+        {
+          "keywords": [
+            "romantico",
+            "pareja",
+            "plan"
+          ],
+          "answer": "Separaria plan, fecha, extras y presupuesto antes de pasar al equipo para cerrar."
+        },
+        {
+          "keywords": [
+            "evento",
+            "grupo"
+          ],
+          "answer": "Tomaria numero de asistentes, tipo de evento, fecha tentativa y necesidades especiales para evitar una cotizacion incompleta."
+        }
+      ],
+      "sources": [
+        "https://www.instagram.com/hotelbga_/",
+        "https://hotelbga.com/"
+      ]
+    },
+    {
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#546A7B",
+      "secondary": "#F2C57C",
+      "statusLabel": "Estado detectado",
+      "alertLabel": "Oportunidad comercial",
+      "heroCopy": "Una experiencia boutique en Bogota necesita convertir visitas en reservas claras, no solo enviar trafico a contacto.",
+      "bannerKicker": "Mini-estudio SolversAI",
+      "bannerHook": "Mas reservas directas desde la web actual",
+      "bannerSubhook": "Suites, restaurante y ubicacion deben terminar en una accion medible.",
+      "bannerBadge1": "web activa",
+      "bannerBadge2": "precalifica reservas",
+      "openNode1Label": "Oferta",
+      "openNode1Title": "suites + restaurante",
+      "openNode2Label": "Fuga",
+      "openNode2Title": "dudas antes de cerrar",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "asesor + seguimiento",
+      "openNodeMetric": "24/7",
+      "loaderTitle": "Estudio para Hotel Suites 108",
+      "loaderSubtitle": "Ordenando senales publicas, fuga comercial y demo conversacional antes de mostrar la pagina.",
+      "brandPersonality": "Hotel boutique urbano con propuesta de confort y arte moderno",
+      "visualCue": "Suites amplias, norte de Bogota y restaurante",
+      "conversionFocus": "Reserva directa, servicios, restaurante y WhatsApp",
+      "experienceIntro": "El recorrido debe ayudar al visitante a elegir habitacion, confirmar servicios y dejar una solicitud completa.",
+      "scrollTitle": "El recorrido que debe quedar claro",
+      "diagnosisTitle": "Dudas antes de reservar",
+      "botDemoTitle": "Asesor digital contextual",
+      "botDemoBody": "Muestra como una pregunta por estadia se convierte en lead con fechas, habitacion y motivo.",
+      "botTrainingTitle": "Preguntas reales del negocio",
+      "botTrainingBody": "Suites, servicios, restaurante, ubicacion, fechas, personas, politicas, eventos y WhatsApp.",
+      "journey": [
+        {
+          "title": "La persona descubre la marca",
+          "body": "Instagram, busqueda o pauta despiertan interes, pero el siguiente paso debe quedar claro en segundos."
+        },
+        {
+          "title": "La web convierte con menos friccion",
+          "body": "La pagina debe explicar oferta, resolver dudas y llevar a agenda, pedido, reserva o cotizacion con contexto."
+        },
+        {
+          "title": "WhatsApp recibe contexto",
+          "body": "El asesor digital llega con producto, servicio, fecha, presupuesto o necesidad para que el humano cierre mejor."
+        },
+        {
+          "title": "La pauta aprende de conversion real",
+          "body": "Eventos, mapa de calor y conversaciones muestran que mensaje produce agenda, cotizacion, reserva o compra."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Interes",
+          "title": "La demanda ya pregunta",
+          "body": "Hay senales publicas de personas que necesitan claridad antes de comprar, reservar o agendar."
+        },
+        {
+          "label": "Fuga",
+          "title": "Demasiado chat manual",
+          "body": "Preguntas repetidas pueden enfriar el lead cuando no hay respuesta con contexto."
+        },
+        {
+          "label": "Sistema",
+          "title": "Web + asesor",
+          "body": "La conversion mejora cuando la ruta explica, filtra y pasa el dato correcto a WhatsApp."
+        },
+        {
+          "label": "Data",
+          "title": "Medir antes de insistir",
+          "body": "Sin eventos no se sabe que oferta, servicio o anuncio trae oportunidades reales."
+        }
+      ],
+      "slug": "hotel-suites-108-bogota",
+      "company": "Hotel Suites 108",
+      "instagram": "@suites108",
+      "website": "https://suites108.com/",
+      "sector": "hotel boutique urbano",
+      "city": "Bogota, Colombia",
+      "tone": "moderno, ejecutivo y elegante",
+      "status": "Instagram + web propia activa; oportunidad en reserva directa y WhatsApp con contexto",
+      "leadProblem": "La web comunica habitaciones, suites y servicios, pero la reserva se puede enfriar si el usuario no entiende rapido disponibilidad, beneficios, ubicacion, parqueadero, restaurante o canal correcto.",
+      "opportunity": "La oportunidad es mejorar la conversion de su web actual: claridad de oferta, reserva, WhatsApp con contexto, seguimiento y pauta con data.",
+      "proofLine": "Lectura publica del 18 de julio de 2026: Instagram @suites108 se presenta como Hotel Suites 108 en Bogota con contacto por WhatsApp; suites108.com responde 200 y comunica habitaciones/suites y servicios.",
+      "audience": "Viajeros de negocio, turistas, parejas y visitantes que buscan hotel en el norte de Bogota.",
+      "adAngle": "Hotel boutique en Bogota + suites + reserva asistida",
+      "whatsappCta": "Quiero mejorar conversion de reservas",
+      "brandWorldTitle": "La web debe cerrar la confianza que Instagram abre",
+      "findings": [
+        "Instagram presenta la marca como hotel boutique en Bogota.",
+        "La web propia esta activa y muestra habitaciones/suites y servicios.",
+        "El canal comercial puede recibir mejores datos antes del contacto."
+      ],
+      "siteIssues": [
+        "Una persona puede necesitar comparar habitacion, ubicacion y servicios antes de reservar.",
+        "WhatsApp con un mensaje generico obliga a reconstruir toda la intencion.",
+        "La pauta sin eventos por habitacion o servicio pierde aprendizaje."
+      ],
+      "losses": [
+        "Visitantes de alta intencion pueden volver a Booking u otra alternativa.",
+        "Consultas manuales repetidas reducen velocidad de respuesta.",
+        "Sin seguimiento, fechas consultadas no reservadas se pierden."
+      ],
+      "heatmapData": [
+        "Clics por habitacion, restaurante, ubicacion, reserva y WhatsApp.",
+        "Abandono antes de tarifas, fechas o politicas.",
+        "Tipo de viajero para remarketing."
+      ],
+      "campaigns": [
+        "Campana de reserva directa para viajeros en Bogota.",
+        "Remarketing a visitantes de habitaciones sin solicitud.",
+        "Seguimiento por fecha y motivo de viaje."
+      ],
+      "deliverables": [
+        "Optimizar conversion de la web actual.",
+        "Concierge digital para fechas, habitaciones, servicios y dudas.",
+        "Medicion por fuente, CTA, fecha y estado de reserva."
+      ],
+      "botAgentName": "Concierge Suites 108 demo",
+      "botAgentRole": "precalifica reservas",
+      "botTitle": "Concierge digital para reservas directas",
+      "botIntro": "El demo separa fechas, personas, plan y dudas antes de pasar a reserva.",
+      "botOpening": "Hola, soy el concierge demo de Suites 108. Te ayudo a organizar fechas, habitacion, servicios y siguiente paso de reserva.",
+      "botPrompts": [
+        "Fechas disponibles",
+        "Plan romantico",
+        "Evento o grupo",
+        "Politicas",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "fecha",
+            "disponible",
+            "reserva"
+          ],
+          "answer": "Primero pediria fechas, numero de personas y motivo del viaje para enviar una solicitud lista al motor o a WhatsApp."
+        },
+        {
+          "keywords": [
+            "romantico",
+            "pareja",
+            "plan"
+          ],
+          "answer": "Separaria plan, fecha, extras y presupuesto antes de pasar al equipo para cerrar."
+        },
+        {
+          "keywords": [
+            "evento",
+            "grupo"
+          ],
+          "answer": "Tomaria numero de asistentes, tipo de evento, fecha tentativa y necesidades especiales para evitar una cotizacion incompleta."
+        }
+      ],
+      "sources": [
+        "https://www.instagram.com/suites108/",
+        "https://suites108.com/"
+      ]
+    },
+    {
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#D96C9F",
+      "secondary": "#A7E8BD",
+      "statusLabel": "Estado detectado",
+      "alertLabel": "Oportunidad comercial",
+      "heroCopy": "En estetica, una visita sin orientacion se enfria rapido: la persona necesita saber tratamiento, expectativa, cita y siguiente paso.",
+      "bannerKicker": "Mini-estudio SolversAI",
+      "bannerHook": "De interes estetico a cita filtrada",
+      "bannerSubhook": "La web ya atrae; el asesor debe separar tratamiento y objecion.",
+      "bannerBadge1": "web activa",
+      "bannerBadge2": "filtra citas y tratamiento",
+      "openNode1Label": "Oferta",
+      "openNode1Title": "faciales + corporales",
+      "openNode2Label": "Fuga",
+      "openNode2Title": "dudas antes de cerrar",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "asesor + seguimiento",
+      "openNodeMetric": "24/7",
+      "loaderTitle": "Estudio para Nueva Piel Spa",
+      "loaderSubtitle": "Ordenando senales publicas, fuga comercial y demo conversacional antes de mostrar la pagina.",
+      "brandPersonality": "Centro estetico con oferta amplia y enfoque de cuidado",
+      "visualCue": "Depilacion laser, faciales, corporales y cosmetologia",
+      "conversionFocus": "Tratamiento correcto, agenda y seguimiento responsable",
+      "experienceIntro": "La automatizacion debe ser clara y cuidadosa: orientar sin diagnosticar ni prometer resultados.",
+      "scrollTitle": "El recorrido que debe quedar claro",
+      "diagnosisTitle": "Fugas antes de agenda",
+      "botDemoTitle": "Asesor digital contextual",
+      "botDemoBody": "Muestra como convertir una duda estetica en cita con tratamiento, objetivo y horario.",
+      "botTrainingTitle": "Preguntas reales del negocio",
+      "botTrainingBody": "Depilacion laser, faciales, corporales, cosmetologia, agenda, contraindicaciones declaradas y seguimiento.",
+      "journey": [
+        {
+          "title": "La persona descubre la marca",
+          "body": "Instagram, busqueda o pauta despiertan interes, pero el siguiente paso debe quedar claro en segundos."
+        },
+        {
+          "title": "La web convierte con menos friccion",
+          "body": "La pagina debe explicar oferta, resolver dudas y llevar a agenda, pedido, reserva o cotizacion con contexto."
+        },
+        {
+          "title": "WhatsApp recibe contexto",
+          "body": "El asesor digital llega con producto, servicio, fecha, presupuesto o necesidad para que el humano cierre mejor."
+        },
+        {
+          "title": "La pauta aprende de conversion real",
+          "body": "Eventos, mapa de calor y conversaciones muestran que mensaje produce agenda, cotizacion, reserva o compra."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Interes",
+          "title": "La demanda ya pregunta",
+          "body": "Hay senales publicas de personas que necesitan claridad antes de comprar, reservar o agendar."
+        },
+        {
+          "label": "Fuga",
+          "title": "Demasiado chat manual",
+          "body": "Preguntas repetidas pueden enfriar el lead cuando no hay respuesta con contexto."
+        },
+        {
+          "label": "Sistema",
+          "title": "Web + asesor",
+          "body": "La conversion mejora cuando la ruta explica, filtra y pasa el dato correcto a WhatsApp."
+        },
+        {
+          "label": "Data",
+          "title": "Medir antes de insistir",
+          "body": "Sin eventos no se sabe que oferta, servicio o anuncio trae oportunidades reales."
+        }
+      ],
+      "slug": "nueva-piel-spa-medellin",
+      "company": "Nueva Piel Spa",
+      "instagram": "@nuevapielspa",
+      "website": "https://nuevapielspa.com/",
+      "sector": "centro estetico y spa",
+      "city": "Medellin, Colombia",
+      "tone": "profesional, cercano y estetico",
+      "status": "Instagram + web propia activa con tratamientos esteticos",
+      "leadProblem": "La web tiene tratamientos y el Instagram invita a agenda, pero una persona puede quedar con dudas sobre cual servicio elegir, precio, sesiones, disponibilidad o cuidados. Si todo se resuelve manual, los leads llegan frios o incompletos.",
+      "opportunity": "La oportunidad es mejorar la conversion de su web actual: claridad de oferta, cita, WhatsApp con contexto, seguimiento y pauta con data.",
+      "proofLine": "Lectura publica del 18 de julio de 2026: Instagram @nuevapielspa comunica depilacion laser, corporales, faciales y medicos en Medellin; nuevapielspa.com responde 200 y se presenta como centro estetico y spa en Medellin.",
+      "audience": "Personas en Medellin interesadas en depilacion laser, tratamientos faciales, corporales y cosmetologia.",
+      "adAngle": "Tratamiento estetico correcto + agenda clara + seguimiento",
+      "whatsappCta": "Quiero citas mejor filtradas",
+      "brandWorldTitle": "La confianza nace antes del WhatsApp",
+      "findings": [
+        "Instagram comunica servicios faciales, corporales, laser y medicos.",
+        "La web propia esta activa y posiciona centro estetico en Medellin.",
+        "La conversion puede mejorar filtrando objetivo y tratamiento antes de agenda."
+      ],
+      "siteIssues": [
+        "La oferta amplia puede hacer que el lead no sepa que tratamiento pedir.",
+        "Preguntas repetidas sobre sesiones, cuidados y agenda consumen atencion.",
+        "La pauta debe medir cita por tratamiento, no solo clics."
+      ],
+      "losses": [
+        "Personas interesadas posponen agenda si no entienden el siguiente paso.",
+        "El equipo recibe chats incompletos sin objetivo ni horario.",
+        "Sin seguimiento, la objecion de precio o tiempo queda sin recuperar."
+      ],
+      "heatmapData": [
+        "Clics por tratamiento, agenda, WhatsApp y preguntas frecuentes.",
+        "Abandono antes de elegir servicio o fecha.",
+        "Objeciones por tratamiento para mejorar anuncios."
+      ],
+      "campaigns": [
+        "Campanas por tratamiento: laser, facial y corporal.",
+        "Remarketing a visitantes que vieron tratamiento sin agendar.",
+        "Seguimiento por objecion y disponibilidad."
+      ],
+      "deliverables": [
+        "Optimizar rutas de conversion en la web actual.",
+        "Asesor digital responsable para tratamiento, objetivo, agenda y dudas.",
+        "Panel por fuente, tratamiento, cita y seguimiento."
+      ],
+      "botAgentName": "Asesora Nueva Piel demo",
+      "botAgentRole": "filtra citas y tratamiento",
+      "botTitle": "Asesor digital para citas esteticas",
+      "botIntro": "El demo separa tratamiento, objetivo, disponibilidad y objecion antes de pasar a agenda.",
+      "botOpening": "Hola, soy la asesora demo de Nueva Piel. Te ayudo a orientar tratamiento, objetivo y agenda sin reemplazar valoracion profesional.",
+      "botPrompts": [
+        "Tratamiento facial",
+        "Depilacion laser",
+        "Moldeamiento",
+        "Agenda cita",
+        "Seguimiento"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "facial",
+            "piel"
+          ],
+          "answer": "Pediria objetivo, tipo de piel declarado, fecha ideal y dudas; sin diagnosticar por chat ni prometer resultados."
+        },
+        {
+          "keywords": [
+            "laser",
+            "depilacion"
+          ],
+          "answer": "Separaria zona, numero de sesiones consultadas, disponibilidad y objecion principal antes de agenda."
+        },
+        {
+          "keywords": [
+            "agenda",
+            "cita"
+          ],
+          "answer": "Con tratamiento y horario claros, pasaria a WhatsApp con contexto para que el equipo no empiece desde cero."
+        }
+      ],
+      "sources": [
+        "https://www.instagram.com/nuevapielspa/",
+        "https://nuevapielspa.com/"
+      ]
+    },
+    {
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#6BAA75",
+      "secondary": "#F1C27D",
+      "statusLabel": "Estado detectado",
+      "alertLabel": "Oportunidad comercial",
+      "heroCopy": "Un estudio de pilates no vende solo clases: vende confianza, objetivo fisico y continuidad.",
+      "bannerKicker": "Mini-estudio SolversAI",
+      "bannerHook": "Clase de prueba con mejor contexto",
+      "bannerSubhook": "El lead debe llegar con objetivo, nivel, sede y horario.",
+      "bannerBadge1": "web activa",
+      "bannerBadge2": "agenda clase de prueba",
+      "openNode1Label": "Oferta",
+      "openNode1Title": "pilates + fisioterapia",
+      "openNode2Label": "Fuga",
+      "openNode2Title": "dudas antes de cerrar",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "asesor + seguimiento",
+      "openNodeMetric": "24/7",
+      "loaderTitle": "Estudio para Bodylife Pilates",
+      "loaderSubtitle": "Ordenando senales publicas, fuga comercial y demo conversacional antes de mostrar la pagina.",
+      "brandPersonality": "Estudio con enfoque de movimiento, salud y acompanamiento",
+      "visualCue": "Reformer, suspension, fisioterapia y clases guiadas",
+      "conversionFocus": "Clase de prueba, sede, objetivo y plan",
+      "experienceIntro": "La decision debe separar fitness, rehabilitacion y bienestar para que la primera clase tenga expectativa correcta.",
+      "scrollTitle": "El recorrido que debe quedar claro",
+      "diagnosisTitle": "Fugas antes de la primera clase",
+      "botDemoTitle": "Asesor digital contextual",
+      "botDemoBody": "Muestra como pasar de curiosidad a clase de prueba con objetivo y disponibilidad claros.",
+      "botTrainingTitle": "Preguntas reales del negocio",
+      "botTrainingBody": "Objetivo, dolor declarado, nivel, sede, horario, frecuencia, plan y seguimiento.",
+      "journey": [
+        {
+          "title": "La persona descubre la marca",
+          "body": "Instagram, busqueda o pauta despiertan interes, pero el siguiente paso debe quedar claro en segundos."
+        },
+        {
+          "title": "La web convierte con menos friccion",
+          "body": "La pagina debe explicar oferta, resolver dudas y llevar a agenda, pedido, reserva o cotizacion con contexto."
+        },
+        {
+          "title": "WhatsApp recibe contexto",
+          "body": "El asesor digital llega con producto, servicio, fecha, presupuesto o necesidad para que el humano cierre mejor."
+        },
+        {
+          "title": "La pauta aprende de conversion real",
+          "body": "Eventos, mapa de calor y conversaciones muestran que mensaje produce agenda, cotizacion, reserva o compra."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Interes",
+          "title": "La demanda ya pregunta",
+          "body": "Hay senales publicas de personas que necesitan claridad antes de comprar, reservar o agendar."
+        },
+        {
+          "label": "Fuga",
+          "title": "Demasiado chat manual",
+          "body": "Preguntas repetidas pueden enfriar el lead cuando no hay respuesta con contexto."
+        },
+        {
+          "label": "Sistema",
+          "title": "Web + asesor",
+          "body": "La conversion mejora cuando la ruta explica, filtra y pasa el dato correcto a WhatsApp."
+        },
+        {
+          "label": "Data",
+          "title": "Medir antes de insistir",
+          "body": "Sin eventos no se sabe que oferta, servicio o anuncio trae oportunidades reales."
+        }
+      ],
+      "slug": "bodylife-pilates-bogota",
+      "company": "Bodylife Pilates",
+      "instagram": "@bodylifepilates",
+      "website": "https://www.bodylifepilates.com/",
+      "sector": "pilates, fisioterapia y ejercicio terapeutico",
+      "city": "Bogota, Colombia",
+      "tone": "saludable, profesional y cercano",
+      "status": "Instagram + web propia activa; oportunidad en clase de prueba, sedes y planes",
+      "leadProblem": "La web comunica servicios de pilates y fisioterapia, pero la conversion se puede frenar si la persona no sabe que clase tomar, si aplica para su objetivo, que sede elegir o como agendar prueba.",
+      "opportunity": "La oportunidad es mejorar la conversion de su web actual: claridad de oferta, cita, WhatsApp con contexto, seguimiento y pauta con data.",
+      "proofLine": "Lectura publica del 18 de julio de 2026: Instagram @bodylifepilates aparece como Bodylife Pilates con agenda de clase de prueba; bodylifepilates.com responde 200 y comunica pilates y servicios terapeuticos.",
+      "audience": "Personas en Bogota que buscan pilates, fuerza, movilidad, bienestar o apoyo terapeutico.",
+      "adAngle": "Pilates con objetivo claro + clase de prueba + seguimiento",
+      "whatsappCta": "Quiero llenar clases de prueba mejor filtradas",
+      "brandWorldTitle": "La primera clase empieza antes de llegar al estudio",
+      "findings": [
+        "Instagram comunica agenda de clase de prueba.",
+        "La web propia esta activa y muestra pilates y fisioterapia.",
+        "El negocio necesita diferenciar objetivo fisico, nivel y sede."
+      ],
+      "siteIssues": [
+        "Una persona con dolor o lesion requiere orientacion cuidadosa antes de elegir clase.",
+        "La agenda manual pierde contexto de objetivo, sede y horario.",
+        "Sin seguimiento, quien pregunta por precios no vuelve a agendar."
+      ],
+      "losses": [
+        "Clases de prueba se pierden por friccion de agenda.",
+        "El equipo recibe mensajes incompletos sobre objetivo y nivel.",
+        "La pauta no aprende que perfil termina asistiendo."
+      ],
+      "heatmapData": [
+        "Clics por clase de prueba, sedes, servicios terapeuticos, planes y WhatsApp.",
+        "Abandono antes de horario o sede.",
+        "Objetivos declarados para remarketing y retencion."
+      ],
+      "campaigns": [
+        "Campana de clase de prueba por objetivo.",
+        "Remarketing a visitantes de planes sin agenda.",
+        "Seguimiento a leads por sede y disponibilidad."
+      ],
+      "deliverables": [
+        "Optimizar conversion de la web actual.",
+        "Asesor digital para objetivo, nivel, sede, horario y cuidado declarado.",
+        "Panel de asistencia, fuente, objetivo y siguiente accion."
+      ],
+      "botAgentName": "Asesora Bodylife demo",
+      "botAgentRole": "agenda clase de prueba",
+      "botTitle": "Asesor digital para primera clase",
+      "botIntro": "El demo entiende objetivo, nivel, sede y horario antes de pedir la clase.",
+      "botOpening": "Hola, soy la asesora demo de Bodylife. Te ayudo a elegir clase de prueba segun objetivo, nivel, sede y horario.",
+      "botPrompts": [
+        "Clase de prueba",
+        "Dolor o lesion",
+        "Sede",
+        "Horarios",
+        "Planes"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "prueba",
+            "clase"
+          ],
+          "answer": "Pediria objetivo, nivel, sede y franja horaria para agendar una clase con mejor expectativa."
+        },
+        {
+          "keywords": [
+            "dolor",
+            "lesion"
+          ],
+          "answer": "Marcaria el caso como sensible y pediria orientacion profesional antes de sugerir un plan."
+        },
+        {
+          "keywords": [
+            "plan",
+            "precio"
+          ],
+          "answer": "Mostraria opciones por frecuencia y objetivo, y guardaria la objecion para seguimiento."
+        }
+      ],
+      "sources": [
+        "https://www.instagram.com/bodylifepilates/",
+        "https://www.bodylifepilates.com/"
+      ]
+    },
+    {
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#8B5E34",
+      "secondary": "#E9C46A",
+      "statusLabel": "Estado detectado",
+      "alertLabel": "Oportunidad comercial",
+      "heroCopy": "En muebles, el lead no debe llegar diciendo solo “precio”: debe llegar con ambiente, medida, estilo, ciudad y presupuesto.",
+      "bannerKicker": "Mini-estudio SolversAI",
+      "bannerHook": "Cotizaciones de muebles con datos completos",
+      "bannerSubhook": "La web e Instagram deben preparar mejor el brief antes de WhatsApp.",
+      "bannerBadge1": "web activa",
+      "bannerBadge2": "califica proyectos de mueble",
+      "openNode1Label": "Oferta",
+      "openNode1Title": "salas + comedores + personalizados",
+      "openNode2Label": "Fuga",
+      "openNode2Title": "dudas antes de cerrar",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "asesor + seguimiento",
+      "openNodeMetric": "24/7",
+      "loaderTitle": "Estudio para Muebles H&C",
+      "loaderSubtitle": "Ordenando senales publicas, fuga comercial y demo conversacional antes de mostrar la pagina.",
+      "brandPersonality": "Marca fabricante/comercial de muebles para hogar",
+      "visualCue": "Salas, butacas, comedores y muebles personalizados",
+      "conversionFocus": "Cotizacion, medidas, credito, entrega y seguimiento",
+      "experienceIntro": "La ruta comercial debe convertir inspiracion visual en un brief de compra accionable.",
+      "scrollTitle": "El recorrido que debe quedar claro",
+      "diagnosisTitle": "Fugas antes de cotizar",
+      "botDemoTitle": "Asesor digital contextual",
+      "botDemoBody": "Muestra como convertir interes por un mueble en brief listo para venta.",
+      "botTrainingTitle": "Preguntas reales del negocio",
+      "botTrainingBody": "Ambiente, medidas, material, color, ciudad, presupuesto, credito, entrega e instalacion.",
+      "journey": [
+        {
+          "title": "La persona descubre la marca",
+          "body": "Instagram, busqueda o pauta despiertan interes, pero el siguiente paso debe quedar claro en segundos."
+        },
+        {
+          "title": "La web convierte con menos friccion",
+          "body": "La pagina debe explicar oferta, resolver dudas y llevar a agenda, pedido, reserva o cotizacion con contexto."
+        },
+        {
+          "title": "WhatsApp recibe contexto",
+          "body": "El asesor digital llega con producto, servicio, fecha, presupuesto o necesidad para que el humano cierre mejor."
+        },
+        {
+          "title": "La pauta aprende de conversion real",
+          "body": "Eventos, mapa de calor y conversaciones muestran que mensaje produce agenda, cotizacion, reserva o compra."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Interes",
+          "title": "La demanda ya pregunta",
+          "body": "Hay senales publicas de personas que necesitan claridad antes de comprar, reservar o agendar."
+        },
+        {
+          "label": "Fuga",
+          "title": "Demasiado chat manual",
+          "body": "Preguntas repetidas pueden enfriar el lead cuando no hay respuesta con contexto."
+        },
+        {
+          "label": "Sistema",
+          "title": "Web + asesor",
+          "body": "La conversion mejora cuando la ruta explica, filtra y pasa el dato correcto a WhatsApp."
+        },
+        {
+          "label": "Data",
+          "title": "Medir antes de insistir",
+          "body": "Sin eventos no se sabe que oferta, servicio o anuncio trae oportunidades reales."
+        }
+      ],
+      "slug": "muebles-hyc-barranquilla",
+      "company": "Muebles H&C",
+      "instagram": "@muebleshyc_",
+      "website": "https://muebleshyc.com/",
+      "sector": "muebles, decoracion e iluminacion para el hogar",
+      "city": "Barranquilla, Colombia",
+      "tone": "comercial, familiar y asesor",
+      "status": "Instagram + web propia activa; oportunidad en cotizacion guiada y credito",
+      "leadProblem": "Instagram muestra salas, butacas, comedores y muebles personalizados; la web existe, pero la venta de muebles sigue necesitando medidas, estilo, presupuesto, entrega y forma de pago. Si WhatsApp recibe mensajes incompletos, cotizar toma mas tiempo.",
+      "opportunity": "La oportunidad es mejorar la conversion de su web actual: claridad de oferta, cotizacion, WhatsApp con contexto, seguimiento y pauta con data.",
+      "proofLine": "Lectura publica del 18 de julio de 2026: Instagram @muebleshyc_ comunica muebles, decoraciones, iluminacion, envios en Barranquilla y cotizacion por WhatsApp; muebleshyc.com responde 200.",
+      "audience": "Hogares en Barranquilla y compradores nacionales que buscan salas, comedores, decoracion o muebles personalizados.",
+      "adAngle": "Mueble ideal + cotizacion guiada + entrega/credito claros",
+      "whatsappCta": "Quiero cotizaciones mejor calificadas",
+      "brandWorldTitle": "La inspiracion debe convertirse en brief de compra",
+      "findings": [
+        "Instagram comunica salas, butacas, comedores y muebles personalizados.",
+        "La web propia esta activa.",
+        "El punto critico es pedir datos de proyecto antes de cotizar."
+      ],
+      "siteIssues": [
+        "El cliente necesita medidas, estilo, color, presupuesto y entrega antes de comprar.",
+        "Cotizaciones por WhatsApp pueden quedar incompletas.",
+        "La pauta debe identificar que ambientes generan intencion real."
+      ],
+      "losses": [
+        "El equipo pierde tiempo pidiendo datos basicos.",
+        "Leads comparan precio sin entender materiales, entrega o credito.",
+        "Sin seguimiento, proyectos grandes se enfrian."
+      ],
+      "heatmapData": [
+        "Clics por sala, comedor, personalizado, credito, entrega y WhatsApp.",
+        "Abandono antes de cotizar.",
+        "Ambientes con mayor intencion para pauta."
+      ],
+      "campaigns": [
+        "Campana por ambientes de alto ticket.",
+        "Remarketing a visitantes de personalizados sin cotizacion.",
+        "Seguimiento por presupuesto y fecha ideal."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en web actual.",
+        "Asesor digital para brief de mueble y cotizacion.",
+        "Panel por ambiente, presupuesto, ciudad y seguimiento."
+      ],
+      "botAgentName": "Asesor H&C demo",
+      "botAgentRole": "califica proyectos de mueble",
+      "botTitle": "Asesor digital para cotizaciones de hogar",
+      "botIntro": "El demo pide ambiente, medidas, estilo, presupuesto y ciudad antes de entregar el lead.",
+      "botOpening": "Hola, soy el asesor demo de Muebles H&C. Te ayudo a armar un brief con ambiente, medidas, estilo, ciudad y presupuesto.",
+      "botPrompts": [
+        "Cotizar sala",
+        "Mueble a medida",
+        "Medidas",
+        "Credito",
+        "Entrega"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sala",
+            "comedor",
+            "mueble"
+          ],
+          "answer": "Pediria ambiente, medidas aproximadas, fotos de referencia, ciudad y presupuesto antes de cotizar."
+        },
+        {
+          "keywords": [
+            "medida",
+            "personalizado"
+          ],
+          "answer": "El flujo recoge dimensiones, material, color, fecha ideal e instalacion para evitar chats incompletos."
+        },
+        {
+          "keywords": [
+            "credito",
+            "pago"
+          ],
+          "answer": "Separaria interes de compra y metodo de pago para priorizar los leads con mayor posibilidad de cierre."
+        }
+      ],
+      "sources": [
+        "https://www.instagram.com/muebleshyc_/",
+        "https://muebleshyc.com/"
+      ]
+    },
+    {
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#E85D75",
+      "secondary": "#FFD166",
+      "statusLabel": "Estado detectado",
+      "alertLabel": "Oportunidad comercial",
+      "heroCopy": "En regalos florales, la urgencia manda: ocasion, fecha, zona y presupuesto deben quedar claros antes de perder el pedido.",
+      "bannerKicker": "Mini-estudio SolversAI",
+      "bannerHook": "Pedidos florales sin friccion",
+      "bannerSubhook": "La web debe convertir urgencia y emocion en pedido con contexto.",
+      "bannerBadge1": "web activa",
+      "bannerBadge2": "guia regalos y domicilios",
+      "openNode1Label": "Oferta",
+      "openNode1Title": "flores + regalos + domicilios",
+      "openNode2Label": "Fuga",
+      "openNode2Title": "dudas antes de cerrar",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "asesor + seguimiento",
+      "openNodeMetric": "24/7",
+      "loaderTitle": "Estudio para Flores En Tu Puerta",
+      "loaderSubtitle": "Ordenando senales publicas, fuga comercial y demo conversacional antes de mostrar la pagina.",
+      "brandPersonality": "Floristeria de regalos emocionales y entregas en Bogota",
+      "visualCue": "Rosas, globos, chocolates, peluches y detalles",
+      "conversionFocus": "Ocasion, fecha, domicilio, presupuesto y seguimiento",
+      "experienceIntro": "La automatizacion debe ser calida y precisa: entender la ocasion sin convertir el regalo en formulario frio.",
+      "scrollTitle": "El recorrido que debe quedar claro",
+      "diagnosisTitle": "Fugas antes del pedido",
+      "botDemoTitle": "Asesor digital contextual",
+      "botDemoBody": "Muestra como convertir una idea de regalo en pedido listo para WhatsApp.",
+      "botTrainingTitle": "Preguntas reales del negocio",
+      "botTrainingBody": "Ocasion, fecha, zona, destinatario, presupuesto, mensaje, extras, pago y seguimiento.",
+      "journey": [
+        {
+          "title": "La persona descubre la marca",
+          "body": "Instagram, busqueda o pauta despiertan interes, pero el siguiente paso debe quedar claro en segundos."
+        },
+        {
+          "title": "La web convierte con menos friccion",
+          "body": "La pagina debe explicar oferta, resolver dudas y llevar a agenda, pedido, reserva o cotizacion con contexto."
+        },
+        {
+          "title": "WhatsApp recibe contexto",
+          "body": "El asesor digital llega con producto, servicio, fecha, presupuesto o necesidad para que el humano cierre mejor."
+        },
+        {
+          "title": "La pauta aprende de conversion real",
+          "body": "Eventos, mapa de calor y conversaciones muestran que mensaje produce agenda, cotizacion, reserva o compra."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Interes",
+          "title": "La demanda ya pregunta",
+          "body": "Hay senales publicas de personas que necesitan claridad antes de comprar, reservar o agendar."
+        },
+        {
+          "label": "Fuga",
+          "title": "Demasiado chat manual",
+          "body": "Preguntas repetidas pueden enfriar el lead cuando no hay respuesta con contexto."
+        },
+        {
+          "label": "Sistema",
+          "title": "Web + asesor",
+          "body": "La conversion mejora cuando la ruta explica, filtra y pasa el dato correcto a WhatsApp."
+        },
+        {
+          "label": "Data",
+          "title": "Medir antes de insistir",
+          "body": "Sin eventos no se sabe que oferta, servicio o anuncio trae oportunidades reales."
+        }
+      ],
+      "slug": "flores-en-tu-puerta-bogota",
+      "company": "Flores En Tu Puerta",
+      "instagram": "@floresentupuerta",
+      "website": "https://www.floresentupuerta.com.co/",
+      "sector": "floristeria y regalos",
+      "city": "Bogota y alrededores",
+      "tone": "emocional, rapido y detallista",
+      "status": "Instagram + web propia activa; oportunidad en pedidos por ocasion y domicilio",
+      "leadProblem": "La web y el Instagram muestran arreglos y regalos, pero un comprador urgente necesita resolver ocasion, entrega, presupuesto, mensaje y extras. Si todo se pregunta manualmente, el pedido se puede ir con quien responda primero.",
+      "opportunity": "La oportunidad es mejorar la conversion de su web actual: claridad de oferta, pedido, WhatsApp con contexto, seguimiento y pauta con data.",
+      "proofLine": "Lectura publica del 18 de julio de 2026: Instagram @floresentupuerta comunica arreglos florales, regalos, domicilios en Bogota y pedidos por WhatsApp; floresentupuerta.com.co responde en busqueda publica como web propia de rosas/regalos.",
+      "audience": "Personas que compran flores, regalos, aniversarios, cumpleanos, condolencias y detalles con domicilio en Bogota.",
+      "adAngle": "Regalo listo hoy + guia por ocasion + WhatsApp con pedido armado",
+      "whatsappCta": "Quiero vender mas pedidos por ocasion",
+      "brandWorldTitle": "La emocion necesita una ruta rapida",
+      "findings": [
+        "Instagram comunica arreglos florales, regalos y domicilios en Bogota.",
+        "La web propia aparece activa con oferta de rosas y detalles.",
+        "La venta depende de velocidad y datos de entrega."
+      ],
+      "siteIssues": [
+        "Un comprador puede abandonar si no sabe disponibilidad para hoy.",
+        "WhatsApp manual repite ocasion, zona, presupuesto y mensaje.",
+        "La pauta necesita medir pedidos por ocasion y fecha."
+      ],
+      "losses": [
+        "Pedidos urgentes se pierden si la respuesta llega tarde.",
+        "Errores en datos de entrega generan friccion operativa.",
+        "Sin seguimiento, fechas especiales no se reactivan."
+      ],
+      "heatmapData": [
+        "Clics por ocasion, entrega hoy, presupuesto, extras y WhatsApp.",
+        "Abandono antes de fecha o zona.",
+        "Ocasiones con mayor intencion para pauta."
+      ],
+      "campaigns": [
+        "Campana por ocasion: cumpleanos, aniversario, condolencias.",
+        "Remarketing a visitantes que vieron arreglos sin pedir.",
+        "Seguimiento para recompra por fechas especiales."
+      ],
+      "deliverables": [
+        "Optimizar conversion de la web actual.",
+        "Asesor digital para ocasion, domicilio, presupuesto y mensaje.",
+        "Panel por ocasion, fecha, zona y estado del pedido."
+      ],
+      "botAgentName": "Asesora Flores demo",
+      "botAgentRole": "guia regalos y domicilios",
+      "botTitle": "Asesor digital para regalos florales",
+      "botIntro": "El demo guia ocasion, fecha, zona, presupuesto y mensaje antes del pedido.",
+      "botOpening": "Hola, soy la asesora demo de Flores En Tu Puerta. Te ayudo a elegir detalle segun ocasion, fecha, zona y presupuesto.",
+      "botPrompts": [
+        "Cumpleanos",
+        "Condolencias",
+        "Entrega hoy",
+        "Presupuesto",
+        "Mensaje"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cumple",
+            "aniversario",
+            "ocasion"
+          ],
+          "answer": "Pediria ocasion, fecha, zona de entrega, presupuesto y mensaje para recomendar un arreglo adecuado."
+        },
+        {
+          "keywords": [
+            "hoy",
+            "domicilio",
+            "entrega"
+          ],
+          "answer": "Validaria urgencia, ciudad/zona y horario antes de pasar a WhatsApp con pedido listo."
+        },
+        {
+          "keywords": [
+            "presupuesto",
+            "precio"
+          ],
+          "answer": "Guiaria por rango de presupuesto y tipo de detalle para reducir preguntas repetidas."
+        }
+      ],
+      "sources": [
+        "https://www.instagram.com/floresentupuerta/",
+        "https://www.floresentupuerta.com.co/"
+      ]
+    },
+    {
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#7CB342",
+      "secondary": "#F8BBD0",
+      "statusLabel": "Estado detectado",
+      "alertLabel": "Oportunidad comercial",
+      "heroCopy": "Una floristeria con trayectoria puede convertir mejor si cada pedido llega con ocasion, ciudad, fecha y presupuesto claros.",
+      "bannerKicker": "Mini-estudio SolversAI",
+      "bannerHook": "Menos preguntas, mas pedidos completos",
+      "bannerSubhook": "Medellin y Oriente necesitan rutas de entrega claras antes del chat.",
+      "bannerBadge1": "web activa",
+      "bannerBadge2": "guia regalos y domicilios",
+      "openNode1Label": "Oferta",
+      "openNode1Title": "arreglos + domicilios + eventos",
+      "openNode2Label": "Fuga",
+      "openNode2Title": "dudas antes de cerrar",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "asesor + seguimiento",
+      "openNodeMetric": "24/7",
+      "loaderTitle": "Estudio para Floristeria Hojas Blancas",
+      "loaderSubtitle": "Ordenando senales publicas, fuga comercial y demo conversacional antes de mostrar la pagina.",
+      "brandPersonality": "Floristeria con experiencia y cobertura regional",
+      "visualCue": "Arreglos florales, servicio floral y entregas",
+      "conversionFocus": "Ocasion, ciudad, fecha, presupuesto y seguimiento",
+      "experienceIntro": "El sistema debe entender ocasion y zona para que el equipo prepare el arreglo correcto sin ida y vuelta innecesaria.",
+      "scrollTitle": "El recorrido que debe quedar claro",
+      "diagnosisTitle": "Fugas por pedido incompleto",
+      "botDemoTitle": "Asesor digital contextual",
+      "botDemoBody": "Muestra como convertir una solicitud floral en pedido o cotizacion con datos listos.",
+      "botTrainingTitle": "Preguntas reales del negocio",
+      "botTrainingBody": "Ocasion, ciudad, fecha, franja horaria, presupuesto, mensaje, tipo de arreglo, evento y seguimiento.",
+      "journey": [
+        {
+          "title": "La persona descubre la marca",
+          "body": "Instagram, busqueda o pauta despiertan interes, pero el siguiente paso debe quedar claro en segundos."
+        },
+        {
+          "title": "La web convierte con menos friccion",
+          "body": "La pagina debe explicar oferta, resolver dudas y llevar a agenda, pedido, reserva o cotizacion con contexto."
+        },
+        {
+          "title": "WhatsApp recibe contexto",
+          "body": "El asesor digital llega con producto, servicio, fecha, presupuesto o necesidad para que el humano cierre mejor."
+        },
+        {
+          "title": "La pauta aprende de conversion real",
+          "body": "Eventos, mapa de calor y conversaciones muestran que mensaje produce agenda, cotizacion, reserva o compra."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Interes",
+          "title": "La demanda ya pregunta",
+          "body": "Hay senales publicas de personas que necesitan claridad antes de comprar, reservar o agendar."
+        },
+        {
+          "label": "Fuga",
+          "title": "Demasiado chat manual",
+          "body": "Preguntas repetidas pueden enfriar el lead cuando no hay respuesta con contexto."
+        },
+        {
+          "label": "Sistema",
+          "title": "Web + asesor",
+          "body": "La conversion mejora cuando la ruta explica, filtra y pasa el dato correcto a WhatsApp."
+        },
+        {
+          "label": "Data",
+          "title": "Medir antes de insistir",
+          "body": "Sin eventos no se sabe que oferta, servicio o anuncio trae oportunidades reales."
+        }
+      ],
+      "slug": "hojas-blancas-floristeria-medellin",
+      "company": "Floristeria Hojas Blancas",
+      "instagram": "@floristeriahojasblancas",
+      "website": "https://hojasblancas.com/",
+      "sector": "floristeria y servicio floral",
+      "city": "Medellin, Rionegro y area metropolitana",
+      "tone": "tradicional, confiable y emocional",
+      "status": "Instagram + web propia activa; oportunidad en pedidos, eventos y domicilio",
+      "leadProblem": "La web tiene oferta floral y el Instagram comunica domicilios, pero cada pedido puede depender de confirmar ocasion, ciudad, fecha, presupuesto y mensaje. Sin un flujo guiado, WhatsApp se llena de preguntas repetidas.",
+      "opportunity": "La oportunidad es mejorar la conversion de su web actual: claridad de oferta, pedido, WhatsApp con contexto, seguimiento y pauta con data.",
+      "proofLine": "Lectura publica del 18 de julio de 2026: busqueda publica muestra Instagram @floristeriahojasblancas y web hojasblancas.com con arreglos florales para Medellin, Rionegro y otros municipios.",
+      "audience": "Personas y empresas que compran flores para fechas especiales, condolencias, eventos y regalos en Antioquia.",
+      "adAngle": "Floristeria confiable + domicilio correcto + pedido guiado",
+      "whatsappCta": "Quiero pedidos florales con mejor seguimiento",
+      "brandWorldTitle": "La confianza se sostiene con orden comercial",
+      "findings": [
+        "La web propia comunica arreglos florales y cobertura en Antioquia.",
+        "Instagram esta asociado a asesoría y domicilios.",
+        "El pedido floral exige datos de ocasion, ciudad y fecha."
+      ],
+      "siteIssues": [
+        "El comprador puede no saber que arreglo aplica para la ocasion.",
+        "La cobertura por ciudad/zona debe quedar clara antes de prometer entrega.",
+        "Eventos y condolencias necesitan trato y datos distintos."
+      ],
+      "losses": [
+        "Pedidos urgentes se pierden si el dato de entrega no queda completo.",
+        "El equipo repite preguntas sobre ciudad, fecha y presupuesto.",
+        "Sin seguimiento, clientes de fechas especiales no se reactivan."
+      ],
+      "heatmapData": [
+        "Clics por ocasion, ciudad, entrega, presupuesto y WhatsApp.",
+        "Abandono antes de elegir arreglo o fecha.",
+        "Demanda por ciudad para pauta."
+      ],
+      "campaigns": [
+        "Campana por ocasion y ciudad.",
+        "Remarketing a visitantes que vieron arreglos sin pedir.",
+        "Seguimiento para recompra y fechas especiales."
+      ],
+      "deliverables": [
+        "Mejorar rutas de conversion de la web actual.",
+        "Asesor digital para ocasion, ciudad, fecha y presupuesto.",
+        "Panel por ocasion, zona, fuente y estado."
+      ],
+      "botAgentName": "Asesora Hojas Blancas demo",
+      "botAgentRole": "guia regalos y domicilios",
+      "botTitle": "Asesor digital para regalos florales",
+      "botIntro": "El demo guia ocasion, fecha, zona, presupuesto y mensaje antes del pedido.",
+      "botOpening": "Hola, soy la asesora demo de Hojas Blancas. Te ayudo a elegir arreglo segun ocasion, ciudad, fecha y presupuesto.",
+      "botPrompts": [
+        "Cumpleanos",
+        "Condolencias",
+        "Entrega hoy",
+        "Presupuesto",
+        "Mensaje"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cumple",
+            "aniversario",
+            "ocasion"
+          ],
+          "answer": "Pediria ocasion, fecha, zona de entrega, presupuesto y mensaje para recomendar un arreglo adecuado."
+        },
+        {
+          "keywords": [
+            "hoy",
+            "domicilio",
+            "entrega"
+          ],
+          "answer": "Validaria urgencia, ciudad/zona y horario antes de pasar a WhatsApp con pedido listo."
+        },
+        {
+          "keywords": [
+            "presupuesto",
+            "precio"
+          ],
+          "answer": "Guiaria por rango de presupuesto y tipo de detalle para reducir preguntas repetidas."
+        }
+      ],
+      "sources": [
+        "https://www.instagram.com/floristeriahojasblancas/",
+        "https://hojasblancas.com/"
+      ]
+    },
+    {
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#C8553D",
+      "secondary": "#F4D35E",
+      "statusLabel": "Estado detectado",
+      "alertLabel": "Oportunidad comercial",
+      "heroCopy": "Una reposteria vegana convierte mejor cuando resuelve restricciones, anticipacion y entrega antes de que el pedido llegue a WhatsApp.",
+      "bannerKicker": "Mini-estudio SolversAI",
+      "bannerHook": "Pedidos especiales sin ida y vuelta",
+      "bannerSubhook": "Vegano, gluten/lactosa y fechas necesitan un asesor claro.",
+      "bannerBadge1": "web activa",
+      "bannerBadge2": "ordena pedidos por ocasion",
+      "openNode1Label": "Oferta",
+      "openNode1Title": "tortas + postres veganos",
+      "openNode2Label": "Fuga",
+      "openNode2Title": "dudas antes de cerrar",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "asesor + seguimiento",
+      "openNodeMetric": "24/7",
+      "loaderTitle": "Estudio para Mazzy Reposteria",
+      "loaderSubtitle": "Ordenando senales publicas, fuga comercial y demo conversacional antes de mostrar la pagina.",
+      "brandPersonality": "Reposteria artesanal con opciones veganas y especiales",
+      "visualCue": "Tortas, cheesecakes, galletas, cupcakes y regalos",
+      "conversionFocus": "Ocasion, restriccion, fecha, domicilio y seguimiento",
+      "experienceIntro": "La experiencia debe cuidar el detalle del pedido y evitar prometer disponibilidad no confirmada.",
+      "scrollTitle": "El recorrido que debe quedar claro",
+      "diagnosisTitle": "Fugas antes del pedido especial",
+      "botDemoTitle": "Asesor digital contextual",
+      "botDemoBody": "Muestra como pasar de antojo o evento a pedido con fecha, porciones y restricciones.",
+      "botTrainingTitle": "Preguntas reales del negocio",
+      "botTrainingBody": "Ocasion, porciones, sabores, restricciones, fecha, domicilio, presupuesto y seguimiento.",
+      "journey": [
+        {
+          "title": "La persona descubre la marca",
+          "body": "Instagram, busqueda o pauta despiertan interes, pero el siguiente paso debe quedar claro en segundos."
+        },
+        {
+          "title": "La web convierte con menos friccion",
+          "body": "La pagina debe explicar oferta, resolver dudas y llevar a agenda, pedido, reserva o cotizacion con contexto."
+        },
+        {
+          "title": "WhatsApp recibe contexto",
+          "body": "El asesor digital llega con producto, servicio, fecha, presupuesto o necesidad para que el humano cierre mejor."
+        },
+        {
+          "title": "La pauta aprende de conversion real",
+          "body": "Eventos, mapa de calor y conversaciones muestran que mensaje produce agenda, cotizacion, reserva o compra."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Interes",
+          "title": "La demanda ya pregunta",
+          "body": "Hay senales publicas de personas que necesitan claridad antes de comprar, reservar o agendar."
+        },
+        {
+          "label": "Fuga",
+          "title": "Demasiado chat manual",
+          "body": "Preguntas repetidas pueden enfriar el lead cuando no hay respuesta con contexto."
+        },
+        {
+          "label": "Sistema",
+          "title": "Web + asesor",
+          "body": "La conversion mejora cuando la ruta explica, filtra y pasa el dato correcto a WhatsApp."
+        },
+        {
+          "label": "Data",
+          "title": "Medir antes de insistir",
+          "body": "Sin eventos no se sabe que oferta, servicio o anuncio trae oportunidades reales."
+        }
+      ],
+      "slug": "mazzy-reposteria-bogota",
+      "company": "Mazzy Reposteria",
+      "instagram": "@mazzyreposteria",
+      "website": "https://www.mazzyreposteria.com/faq",
+      "sector": "reposteria artesanal y vegana",
+      "city": "Bogota y municipios aledanos",
+      "tone": "artesanal, inclusivo y dulce",
+      "status": "Instagram + web/FAQ visible; oportunidad en pedidos veganos, restricciones y domicilios",
+      "leadProblem": "La marca atiende pedidos artesanales/veganos y productos con restricciones. Si el cliente no encuentra rapido anticipacion, opciones, porciones, domicilio y condiciones, el pedido termina en un chat largo o se enfria.",
+      "opportunity": "La oportunidad es mejorar la conversion de su web actual: claridad de oferta, pedido, WhatsApp con contexto, seguimiento y pauta con data.",
+      "proofLine": "Lectura publica del 18 de julio de 2026: Instagram @mazzyreposteria se presenta en Bogota con pedidos por DM/WA; la busqueda publica muestra mazzyreposteria.com/faq con reposteria vegana, libre de gluten/lactosa y productos para cumpleanos/eventos.",
+      "audience": "Personas en Bogota que buscan tortas, postres veganos, regalos y opciones con restricciones para eventos.",
+      "adAngle": "Reposteria vegana + pedido guiado + entrega con contexto",
+      "whatsappCta": "Quiero ordenar pedidos especiales",
+      "brandWorldTitle": "El detalle del pedido vende confianza",
+      "findings": [
+        "Instagram comunica reposteria artesanal y vegana en Bogota.",
+        "La web/FAQ visible explica opciones veganas, libres de gluten/lactosa y eventos.",
+        "La venta necesita validar restricciones, anticipacion y domicilio."
+      ],
+      "siteIssues": [
+        "El cliente puede no saber si su restriccion aplica al producto que quiere.",
+        "Pedidos por DM/WA llegan incompletos si no se piden fecha, porciones y direccion.",
+        "Sin seguimiento, eventos empresariales o cumpleanos no se recuperan."
+      ],
+      "losses": [
+        "Pedidos especiales se pierden por dudas de disponibilidad o restricciones.",
+        "El equipo invierte tiempo aclarando datos basicos.",
+        "La pauta no aprende que producto o restriccion genera compra real."
+      ],
+      "heatmapData": [
+        "Clics por vegano, sin gluten, tortas, eventos, domicilio y WhatsApp.",
+        "Abandono antes de fecha o restriccion.",
+        "Productos consultados para pauta y stock."
+      ],
+      "campaigns": [
+        "Campana por cumpleanos y restricciones alimentarias.",
+        "Remarketing a visitantes de FAQ sin pedido.",
+        "Seguimiento por fecha de evento y tipo de producto."
+      ],
+      "deliverables": [
+        "Ruta de conversion clara desde web/FAQ a pedido.",
+        "Asesor digital para ocasion, restriccion, fecha y domicilio.",
+        "Panel por producto, restriccion, fuente y estado."
+      ],
+      "botAgentName": "Asesora Mazzy demo",
+      "botAgentRole": "ordena pedidos por ocasion",
+      "botTitle": "Asesor digital para pedidos dulces",
+      "botIntro": "El demo guia ocasion, fecha, producto, restricciones y entrega antes de WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de Mazzy. Te ayudo a armar pedido con fecha, porciones, restricciones y domicilio.",
+      "botPrompts": [
+        "Torta cumpleanos",
+        "Vegano",
+        "Anticipacion",
+        "Domicilio",
+        "Eventos"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "torta",
+            "cumpleanos",
+            "postre"
+          ],
+          "answer": "Pediria fecha, porciones, sabor, restricciones, direccion y presupuesto antes de pasar el pedido."
+        },
+        {
+          "keywords": [
+            "vegano",
+            "gluten",
+            "lactosa"
+          ],
+          "answer": "Separaria restricciones declaradas y confirmaria opciones disponibles sin prometer algo no validado por cocina."
+        },
+        {
+          "keywords": [
+            "domicilio",
+            "anticipacion"
+          ],
+          "answer": "Validaria fecha minima, ciudad/zona y horario para que WhatsApp reciba una solicitud completa."
+        }
+      ],
+      "sources": [
+        "https://www.instagram.com/mazzyreposteria/",
+        "https://www.mazzyreposteria.com/faq"
+      ]
+    },
+    {
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#F28482",
+      "secondary": "#84A59D",
+      "statusLabel": "Estado detectado",
+      "alertLabel": "Oportunidad comercial",
+      "heroCopy": "Cuando la marca vende transformacion y metodo, una landing propia evita que toda la confianza dependa de reels y chats manuales.",
+      "bannerKicker": "Mini-estudio SolversAI",
+      "bannerHook": "De interes en tratamientos a cita clara",
+      "bannerSubhook": "Sin web propia verificada, la oportunidad es una landing comercial con agenda.",
+      "bannerBadge1": "Instagram + WhatsApp",
+      "bannerBadge2": "filtra citas y tratamiento",
+      "openNode1Label": "Oferta",
+      "openNode1Title": "facial + corporal + spa",
+      "openNode2Label": "Fuga",
+      "openNode2Title": "dudas antes de cerrar",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "asesor + seguimiento",
+      "openNodeMetric": "24/7",
+      "loaderTitle": "Estudio para Paulina Valencia Centro Estetico",
+      "loaderSubtitle": "Ordenando senales publicas, fuga comercial y demo conversacional antes de mostrar la pagina.",
+      "brandPersonality": "Marca estetica personal con comunidad e intencion alta",
+      "visualCue": "Reduccion corporal, tratamientos faciales y spa",
+      "conversionFocus": "Landing, tratamiento, agenda y seguimiento",
+      "experienceIntro": "La pagina debe explicar el metodo, filtrar objetivo y pasar a WhatsApp con expectativa correcta.",
+      "scrollTitle": "El recorrido que debe quedar claro",
+      "diagnosisTitle": "Fugas por depender solo de Instagram",
+      "botDemoTitle": "Asesor digital contextual",
+      "botDemoBody": "Muestra como convertir interes por rostro/cuerpo en cita con objetivo y dudas claras.",
+      "botTrainingTitle": "Preguntas reales del negocio",
+      "botTrainingBody": "Objetivo estetico, zona, tratamiento, disponibilidad, objecion, valoracion, cuidados y seguimiento.",
+      "journey": [
+        {
+          "title": "La persona descubre la marca",
+          "body": "Instagram, busqueda o pauta despiertan interes, pero el siguiente paso debe quedar claro en segundos."
+        },
+        {
+          "title": "La landing ordena la decision",
+          "body": "Una pagina propia puede organizar oferta, prueba visual, preguntas frecuentes y CTA sin depender de publicaciones sueltas."
+        },
+        {
+          "title": "WhatsApp recibe contexto",
+          "body": "El asesor digital llega con producto, servicio, fecha, presupuesto o necesidad para que el humano cierre mejor."
+        },
+        {
+          "title": "La pauta aprende de conversion real",
+          "body": "Eventos, mapa de calor y conversaciones muestran que mensaje produce agenda, cotizacion, reserva o compra."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Interes",
+          "title": "La demanda ya pregunta",
+          "body": "Hay senales publicas de personas que necesitan claridad antes de comprar, reservar o agendar."
+        },
+        {
+          "label": "Fuga",
+          "title": "Demasiado chat manual",
+          "body": "Preguntas repetidas pueden enfriar el lead cuando no hay respuesta con contexto."
+        },
+        {
+          "label": "Sistema",
+          "title": "Landing + asesor",
+          "body": "La conversion mejora cuando la ruta explica, filtra y pasa el dato correcto a WhatsApp."
+        },
+        {
+          "label": "Data",
+          "title": "Medir antes de insistir",
+          "body": "Sin eventos no se sabe que oferta, servicio o anuncio trae oportunidades reales."
+        }
+      ],
+      "slug": "paulina-valencia-centro-estetico",
+      "company": "Paulina Valencia Centro Estetico",
+      "instagram": "@paulinavalencia.ce",
+      "website": "",
+      "sector": "centro estetico, reduccion corporal, facial y spa",
+      "city": "Medellin y Envigado",
+      "tone": "aspiracional, cercano y educativo",
+      "status": "Instagram activo; no se verifico web propia confiable, oportunidad en landing + asesor digital",
+      "leadProblem": "Instagram comunica servicios esteticos de rostro, cuerpo y spa en Medellin/Envigado, pero no se verifico una web propia confiable. Si toda la conversion depende de publicaciones, link y chat, se pierden leads que necesitan entender metodo, servicios, agenda y objeciones antes de escribir.",
+      "opportunity": "La oportunidad es crear una landing clara con oferta, prueba visual, preguntas frecuentes, WhatsApp asistido y seguimiento para no depender solo de Instagram.",
+      "proofLine": "Lectura publica del 18 de julio de 2026: Instagram @paulinavalencia.ce aparece como centro estetico en Medellin con reduccion corporal, facial, servicios de rostro/cuerpo/spa y ubicacion Medellin/Envigado. En la busqueda revisada no se verifico web propia confiable.",
+      "audience": "Personas interesadas en tratamientos faciales, corporales, reduccion y spa en Medellin/Envigado.",
+      "adAngle": "Metodo estetico + landing clara + cita filtrada",
+      "whatsappCta": "Quiero una landing que convierta citas",
+      "brandWorldTitle": "La confianza necesita una casa propia",
+      "findings": [
+        "Instagram comunica servicios esteticos de rostro, cuerpo y spa.",
+        "La senal publica ubica la atencion en Medellin y Envigado.",
+        "No se verifico una web propia confiable en los resultados revisados."
+      ],
+      "siteIssues": [
+        "Sin landing propia, servicios, beneficios, agenda y preguntas frecuentes quedan dispersos.",
+        "WhatsApp recibe leads con objetivos poco claros.",
+        "La pauta no tiene una pagina medible para aprender por tratamiento."
+      ],
+      "losses": [
+        "Personas interesadas guardan el reel pero no agendan.",
+        "El equipo repite explicaciones de tratamientos y disponibilidad.",
+        "Sin pixel/landing, el seguimiento depende de memoria y chat manual."
+      ],
+      "heatmapData": [
+        "Clics por tratamiento, agenda, testimonios, preguntas y WhatsApp.",
+        "Abandono antes de elegir servicio o fecha.",
+        "Objeciones por tratamiento para contenido y pauta."
+      ],
+      "campaigns": [
+        "Campana por tratamiento facial/corporal.",
+        "Landing de metodo con agenda y preguntas frecuentes.",
+        "Remarketing a visitantes que no dejaron datos."
+      ],
+      "deliverables": [
+        "Landing comercial clara con servicios, prueba visual permitida, agenda y WhatsApp.",
+        "Asesor digital para objetivo, tratamiento, disponibilidad y objecion.",
+        "Panel de leads por fuente, servicio, fecha y seguimiento."
+      ],
+      "botAgentName": "Asesora Paulina demo",
+      "botAgentRole": "filtra citas y tratamiento",
+      "botTitle": "Asesor digital para citas esteticas",
+      "botIntro": "El demo separa tratamiento, objetivo, disponibilidad y objecion antes de pasar a agenda.",
+      "botOpening": "Hola, soy la asesora demo. Te ayudo a orientar objetivo, tratamiento y agenda antes de hablar con el equipo.",
+      "botPrompts": [
+        "Tratamiento facial",
+        "Depilacion laser",
+        "Moldeamiento",
+        "Agenda cita",
+        "Seguimiento"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "facial",
+            "piel"
+          ],
+          "answer": "Pediria objetivo, tipo de piel declarado, fecha ideal y dudas; sin diagnosticar por chat ni prometer resultados."
+        },
+        {
+          "keywords": [
+            "laser",
+            "depilacion"
+          ],
+          "answer": "Separaria zona, numero de sesiones consultadas, disponibilidad y objecion principal antes de agenda."
+        },
+        {
+          "keywords": [
+            "agenda",
+            "cita"
+          ],
+          "answer": "Con tratamiento y horario claros, pasaria a WhatsApp con contexto para que el equipo no empiece desde cero."
+        }
+      ],
+      "sources": [
+        "https://www.instagram.com/paulinavalencia.ce/"
+      ]
     }
   ]
 }
