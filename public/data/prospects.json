@@ -33744,6 +33744,933 @@
       "sources": [
         "https://www.instagram.com/paulinavalencia.ce/"
       ]
+    },
+    {
+      "slug": "ambar-hotel-boutique-cali",
+      "company": "Ambar Hotel Boutique Cali",
+      "instagram": "@ambarhotelboutique",
+      "website": "https://www.ambarhotelboutique.com/",
+      "sector": "hotel boutique y restaurante",
+      "city": "Cali",
+      "tone": "calido, practico y confiable",
+      "theme": "resort",
+      "brandMode": "standard",
+      "accent": "#C8944A",
+      "secondary": "#6DB7A8",
+      "status": "Instagram + web propia oficial visible",
+      "leadProblem": "Ambar ya tiene web y canal de reservas, pero cada visitante que compara ubicacion, tarifas, restaurante, eventos o estadias medicas puede enfriarse si no recibe una guia rapida antes de reservar.",
+      "opportunity": "Mejorar conversion de la web actual con un concierge digital que capture fecha, motivo del viaje, numero de huespedes, evento o necesidad de restaurante y pase a reserva directa con contexto.",
+      "proofLine": "Lectura publica del 19 de julio de 2026: Instagram @ambarhotelboutique aparece como Hotel & Restaurante en el sur de Cali con reservas; la web oficial ambarhotelboutique.com se presenta como Ambar Hotel Boutique y tiene llamada a reservar.",
+      "audience": "Viajeros a Cali, parejas, familias, visitantes por salud, eventos pequenos y clientes de restaurante.",
+      "adAngle": "Hotel en el sur de Cali + reserva directa + concierge por WhatsApp",
+      "whatsappCta": "Quiero convertir mas reservas directas",
+      "heroCopy": "Cuando el hotel ya tiene web, el punto no es verse mas grande: es hacer que quien consulta fecha, ubicacion o plan llegue a una reserva directa con menos friccion.",
+      "brandWorldTitle": "De consulta de hospedaje a reserva directa",
+      "diagnosisTitle": "Fugas entre interes, fecha y reserva",
+      "botAgentName": "Concierge Ambar demo",
+      "botAgentRole": "filtra fechas, motivo y reserva",
+      "botTitle": "Concierge digital para hotel y restaurante",
+      "botIntro": "El demo pregunta fechas, huespedes, motivo, restaurante o evento antes de pasar a WhatsApp con contexto.",
+      "botOpening": "Hola, soy el concierge demo de Ambar. Te ayudo a revisar fechas, habitaciones, restaurante, eventos y siguiente paso de reserva.",
+      "botPrompts": [
+        "Consultar fechas",
+        "Evento pequeno",
+        "Restaurante",
+        "Ubicacion",
+        "Reserva directa"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "fecha",
+            "habitacion",
+            "reserva"
+          ],
+          "answer": "Pediria fecha de entrada, salida, numero de huespedes y motivo del viaje para enviar la solicitud a reservas sin empezar desde cero."
+        },
+        {
+          "keywords": [
+            "evento",
+            "restaurante",
+            "reunion"
+          ],
+          "answer": "Separaria si busca hospedaje, restaurante o evento, con fecha, cantidad de personas y datos de contacto."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta"
+          ],
+          "answer": "Mide fecha consultada, CTA de reserva, interes por restaurante/evento, fuente del lead y abandono antes de confirmar."
+        }
+      ],
+      "findings": [
+        "Tiene Instagram publico con reservas visibles y propuesta de hotel/restaurante.",
+        "La web oficial permite trabajar sobre conversion actual, no empezar de cero.",
+        "La oportunidad comercial esta en reserva directa, contexto y seguimiento por motivo de viaje."
+      ],
+      "siteIssues": [
+        "El visitante puede necesitar orientacion antes de elegir habitacion, fechas o restaurante.",
+        "WhatsApp debe recibir fecha, motivo y numero de personas para acelerar respuesta.",
+        "La pauta necesita medir que servicio activa mayor intencion: hospedaje, restaurante o eventos."
+      ],
+      "losses": [
+        "Reservas potenciales pueden terminar en intermediarios o competidores si la respuesta se demora.",
+        "Consultas sin fecha ni motivo obligan al equipo a repetir preguntas.",
+        "Sin eventos finos, la pauta aprende visitas pero no calidad de solicitud."
+      ],
+      "heatmapData": [
+        "Clics en reservar, contacto, restaurante, ubicacion y eventos.",
+        "Abandono antes del motor o WhatsApp.",
+        "Motivo de viaje y fecha como senales para seguimiento."
+      ],
+      "campaigns": [
+        "Campana de reserva directa para viajeros al sur de Cali.",
+        "Remarketing a visitantes que revisaron reserva sin confirmar.",
+        "Anuncios por restaurante/eventos con concierge contextual."
+      ],
+      "deliverables": [
+        "Mejoras de conversion en web actual con CTA, eventos y WhatsApp contextual.",
+        "Concierge digital para fechas, habitaciones, restaurante y eventos.",
+        "Panel de oportunidades por fuente, fecha, motivo y estado de reserva."
+      ],
+      "sources": [
+        "https://www.instagram.com/ambarhotelboutique/",
+        "https://www.ambarhotelboutique.com/"
+      ]
+    },
+    {
+      "slug": "portobello-hotel-boutique",
+      "company": "PortoBello Hotel Boutique",
+      "instagram": "@portobellohotelboutique",
+      "sector": "hotel boutique, restaurante y eventos",
+      "city": "Puerto Colombia",
+      "tone": "costero, familiar y vendedor",
+      "theme": "resort",
+      "brandMode": "standard",
+      "accent": "#2E9CB8",
+      "secondary": "#F2B84B",
+      "status": "Instagram + reservas por telefono/WhatsApp; no se verifico web propia confiable",
+      "leadProblem": "PortoBello comunica hotel boutique, restaurante, pasadias, eventos y reservas desde Instagram. Sin una pagina propia confiable, la decision queda repartida entre publicaciones, Booking y chats manuales.",
+      "opportunity": "Crear una landing de reservas directas con hospedaje, pasadias, restaurante, eventos, petfriendly, galeria real y asesor digital que capture fecha, plan y numero de personas.",
+      "proofLine": "Lectura publica del 19 de julio de 2026: Instagram @portobellohotelboutique aparece como Boutique Hotel & Restaurante en Puerto Colombia, con pasadias, casa de eventos, Booking, petfriendly y reservas. No se verifico web propia confiable en la busqueda revisada.",
+      "audience": "Parejas, familias, visitantes de Barranquilla, celebraciones, pasadias y eventos pequenos en Puerto Colombia.",
+      "adAngle": "Escapada costera + pasadia/evento + reserva directa por WhatsApp",
+      "whatsappCta": "Quiero ordenar reservas y pasadias",
+      "heroCopy": "Si la experiencia vive solo en Instagram, cada persona que pregunta por fecha, pasadia o evento depende de una respuesta manual para no perderse.",
+      "brandWorldTitle": "De antojo de escapada a reserva clara",
+      "diagnosisTitle": "Fugas en fechas, planes y eventos",
+      "botAgentName": "Concierge PortoBello demo",
+      "botAgentRole": "filtra pasadias, fechas y eventos",
+      "botTitle": "Asesor para reservas costeras",
+      "botIntro": "El demo separa hospedaje, pasadia, restaurante o evento y deja la solicitud lista para WhatsApp.",
+      "botOpening": "Hola, soy el concierge demo de PortoBello. Te ayudo a orientar si buscas hospedaje, pasadia, restaurante o evento.",
+      "botPrompts": [
+        "Pasadia",
+        "Hospedaje",
+        "Evento",
+        "Petfriendly",
+        "Cotizar"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "pasadia",
+            "dia"
+          ],
+          "answer": "Pediria fecha, numero de personas, edades si aplica y si incluye restaurante para enviar una consulta ordenada."
+        },
+        {
+          "keywords": [
+            "evento",
+            "cumple",
+            "boda"
+          ],
+          "answer": "Filtraria tipo de evento, fecha, cantidad de invitados y servicios esperados antes de pasar a comercial."
+        },
+        {
+          "keywords": [
+            "mascota",
+            "pet"
+          ],
+          "answer": "Confirmaria que el interes es petfriendly y pediria fecha, numero de personas y tipo de plan sin prometer condiciones no verificadas."
+        }
+      ],
+      "findings": [
+        "Instagram presenta varias lineas de ingreso: hospedaje, restaurante, pasadias y eventos.",
+        "La bio publica menciona reservas y petfriendly.",
+        "No se verifico web propia confiable, por lo que una landing puede ordenar la conversion."
+      ],
+      "siteIssues": [
+        "Sin landing, planes, fechas, galeria y condiciones quedan dispersos.",
+        "WhatsApp recibe preguntas sin formato sobre fechas y cupos.",
+        "Booking puede capturar demanda que podria reservar directo."
+      ],
+      "losses": [
+        "Interesados por pasadia o evento comparan y se enfria la conversacion.",
+        "El equipo repite preguntas de fecha, personas y tipo de plan.",
+        "La pauta no aprende que plan trae solicitudes reales."
+      ],
+      "heatmapData": [
+        "Clics por hospedaje, pasadia, restaurante, eventos y WhatsApp.",
+        "Abandono antes de fecha o cantidad de personas.",
+        "Planes mas consultados para pauta y seguimiento."
+      ],
+      "campaigns": [
+        "Campana para pasadias y escapadas desde Barranquilla.",
+        "Landing de eventos con formulario corto.",
+        "Remarketing a visitantes que tocaron WhatsApp sin enviar datos."
+      ],
+      "deliverables": [
+        "Landing de reservas directas con planes, galeria, FAQ y WhatsApp.",
+        "Concierge digital para fechas, plan, personas y tipo de evento.",
+        "Panel de solicitudes por plan, fecha, fuente y estado."
+      ],
+      "sources": [
+        "https://www.instagram.com/portobellohotelboutique/"
+      ]
+    },
+    {
+      "slug": "clinica-colombiana-implantes",
+      "company": "Clinica Colombiana de Implantes",
+      "instagram": "@clinicacolombianadeimplantes",
+      "website": "https://www.clinicacolombianadeimplantes.com/",
+      "sector": "clinica odontologica e implantes dentales",
+      "city": "Medellin",
+      "tone": "clinico, experto y tranquilizador",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#3F8EDB",
+      "secondary": "#7ED6C4",
+      "status": "Instagram + web propia con WhatsApp visible",
+      "leadProblem": "La clinica tiene web e Instagram, pero implantes dentales requieren confianza, tecnologia, caso, urgencia, presupuesto y agenda. Si el lead llega sin contexto, se vuelve una conversacion larga antes de llegar a valoracion.",
+      "opportunity": "Optimizar la web actual con un asesor de valoracion que filtre tratamiento, estado del paciente, ciudad, disponibilidad y objeciones antes de WhatsApp.",
+      "proofLine": "Lectura publica del 19 de julio de 2026: Instagram @clinicacolombianadeimplantes muestra clinica de implantes en Medellin; la web clinicacolombianadeimplantes.com aparece como Clinica Colombiana de Implantes Dentales y menciona chat de WhatsApp y tecnologia para implantes guiados.",
+      "audience": "Pacientes que investigan implantes, rehabilitacion, estetica dental o segunda opinion en Medellin.",
+      "adAngle": "Implantes con confianza + valoracion guiada + WhatsApp con contexto",
+      "whatsappCta": "Quiero filtrar mejor valoraciones",
+      "heroCopy": "En tratamientos de alto valor, responder rapido no basta: hay que entender el caso antes de pedir la cita.",
+      "brandWorldTitle": "De duda clinica a valoracion con contexto",
+      "diagnosisTitle": "Fugas en educacion y agendamiento",
+      "botAgentName": "Asesor CCI demo",
+      "botAgentRole": "filtra caso, urgencia y agenda",
+      "botTitle": "Asesor digital para implantes dentales",
+      "botIntro": "El demo pregunta caso, tratamiento de interes, urgencia, ciudad y horario antes de pasar a WhatsApp.",
+      "botOpening": "Hola, soy el asesor demo para Clinica Colombiana de Implantes. Te ayudo a orientar implantes, valoracion y seguimiento sin diagnosticar por chat.",
+      "botPrompts": [
+        "Implantes",
+        "Segunda opinion",
+        "Valoracion",
+        "Tecnologia",
+        "Que mide"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "implante",
+            "diente",
+            "protesis"
+          ],
+          "answer": "Pediria si falta una pieza, varias o es una segunda opinion, ademas de ciudad, urgencia y horario ideal para valoracion."
+        },
+        {
+          "keywords": [
+            "tecnologia",
+            "guiado",
+            "navi"
+          ],
+          "answer": "Explicaria en lenguaje simple que hay tecnologia visible en la web, y llevaria a una valoracion para confirmar si aplica al caso."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos"
+          ],
+          "answer": "Mide tratamiento consultado, etapa del paciente, CTA a WhatsApp, valoraciones solicitadas y leads sin seguimiento."
+        }
+      ],
+      "findings": [
+        "Tiene web propia e Instagram, por lo que el trabajo es optimizar conversion actual.",
+        "La oferta de implantes exige explicar confianza, tecnologia y ruta de valoracion.",
+        "WhatsApp existe, pero debe recibir contexto clinico-comercial basico."
+      ],
+      "siteIssues": [
+        "El paciente puede abandonar si no entiende que paso sigue despues de leer sobre implantes.",
+        "La conversacion manual parte de cero si no captura caso y urgencia.",
+        "La pauta debe diferenciar curiosos de pacientes listos para valoracion."
+      ],
+      "losses": [
+        "Casos de alto valor se enfrian mientras comparan clinicas.",
+        "Recepcion repite preguntas basicas antes de agendar.",
+        "Sin seguimiento por tratamiento, se pierde aprendizaje de pauta."
+      ],
+      "heatmapData": [
+        "Clics en implantes, WhatsApp, tecnologia, testimonios y agenda.",
+        "Abandono antes de formular caso o solicitar valoracion.",
+        "Tratamientos con mayor intencion por fuente."
+      ],
+      "campaigns": [
+        "Campana de valoracion para implantes con filtro de caso.",
+        "Remarketing a visitantes que leyeron implantes sin escribir.",
+        "Contenido por segunda opinion y tecnologia con CTA medible."
+      ],
+      "deliverables": [
+        "Optimizacion de web actual con eventos, CTA y formularios de valoracion.",
+        "Asesor digital para tratamiento, caso, urgencia y agenda.",
+        "Panel de pacientes por fuente, tratamiento, estado y proxima accion."
+      ],
+      "sources": [
+        "https://www.instagram.com/clinicacolombianadeimplantes/",
+        "https://www.clinicacolombianadeimplantes.com/"
+      ]
+    },
+    {
+      "slug": "koral-clinica-dental",
+      "company": "Koral Clinica Dental",
+      "instagram": "@koralclinicadental",
+      "sector": "odontologia estetica y especialidades dentales",
+      "city": "Medellin",
+      "tone": "estetico, cercano y profesional",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#42BFE3",
+      "secondary": "#F1D46A",
+      "status": "Instagram + Facebook; no se verifico web propia confiable",
+      "leadProblem": "Koral comunica odontologia estetica, lentes ceramicos, ortodoncia y armonizacion desde Instagram. Sin una pagina propia clara, las dudas de tratamiento, confianza, agenda y precio quedan en mensajes manuales.",
+      "opportunity": "Crear una landing de valoracion con servicios, preguntas frecuentes, antes/despues permitidos, ubicacion y asesor digital que filtre tratamiento y disponibilidad.",
+      "proofLine": "Lectura publica del 19 de julio de 2026: Instagram @koralclinicadental aparece como odontologia estetica con lentes ceramicos, ortodoncia, armonizacion, ubicacion Ed Ofix 33 Medellin y WhatsApp. Tambien se encontro pagina de Facebook de Koral clinica dental en Medellin. No se verifico web propia confiable.",
+      "audience": "Pacientes interesados en estetica dental, lentes ceramicos, ortodoncia, armonizacion y valoracion en Medellin.",
+      "adAngle": "Sonrisa estetica + valoracion clara + agenda por WhatsApp",
+      "whatsappCta": "Quiero agendar pacientes mejor filtrados",
+      "heroCopy": "Cuando la oferta dental se ve atractiva en Instagram, la landing debe convertir esa curiosidad en una valoracion con tratamiento, horario y objecion claros.",
+      "brandWorldTitle": "De sonrisa deseada a cita agendada",
+      "diagnosisTitle": "Fugas en confianza y valoracion",
+      "botAgentName": "Asesora Koral demo",
+      "botAgentRole": "filtra tratamiento y agenda",
+      "botTitle": "Asesor digital para odontologia estetica",
+      "botIntro": "El demo separa lentes, ortodoncia, armonizacion y valoracion antes de enviar a WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo para Koral. Te ayudo a orientar tratamiento, objetivo y disponibilidad para valoracion.",
+      "botPrompts": [
+        "Lentes ceramicos",
+        "Ortodoncia",
+        "Armonizacion",
+        "Agenda",
+        "Precio"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "lentes",
+            "ceramicos",
+            "sonrisa"
+          ],
+          "answer": "Pediria objetivo estetico, si ya tuvo valoracion, disponibilidad y foto opcional para orientar la cita sin diagnosticar por chat."
+        },
+        {
+          "keywords": [
+            "ortodoncia",
+            "brackets"
+          ],
+          "answer": "Filtraria edad, tratamiento previo, expectativa y horario ideal para que WhatsApp reciba el caso con contexto."
+        },
+        {
+          "keywords": [
+            "precio",
+            "costo"
+          ],
+          "answer": "Responderia que el valor depende de valoracion y llevaria a agenda, capturando tratamiento y disponibilidad."
+        }
+      ],
+      "findings": [
+        "Instagram muestra oferta de odontologia estetica y varias especialidades.",
+        "La ubicacion publica esta en Medellin y el canal visible es WhatsApp.",
+        "No se verifico web propia confiable para ordenar servicios y agendamiento."
+      ],
+      "siteIssues": [
+        "Sin landing, servicios y objeciones quedan dispersos en publicaciones.",
+        "Los leads llegan sin tratamiento, expectativa ni horario.",
+        "La pauta no tendria un punto propio para pixel, formularios y seguimiento."
+      ],
+      "losses": [
+        "Pacientes interesados comparan otras clinicas mientras esperan respuesta.",
+        "El equipo repite explicaciones sobre tratamientos y valoracion.",
+        "Leads frios y calientes entran al mismo WhatsApp sin prioridad."
+      ],
+      "heatmapData": [
+        "Clics por tratamiento, agenda, WhatsApp, ubicacion y FAQ.",
+        "Abandono antes de elegir servicio.",
+        "Tratamientos con mayor demanda para pauta."
+      ],
+      "campaigns": [
+        "Campana por lentes ceramicos y valoracion estetica.",
+        "Landing con filtro de tratamiento y agenda.",
+        "Remarketing a visitantes que no escribieron."
+      ],
+      "deliverables": [
+        "Landing de valoracion con servicios, confianza, ubicacion y WhatsApp.",
+        "Asesor digital para tratamiento, objetivo, disponibilidad y seguimiento.",
+        "Panel por tratamiento, fuente, estado y proxima accion."
+      ],
+      "sources": [
+        "https://www.instagram.com/koralclinicadental/",
+        "https://www.facebook.com/koralclinicadental1/"
+      ]
+    },
+    {
+      "slug": "balmoh-mobiliario",
+      "company": "Balmoh",
+      "instagram": "@balmohcol",
+      "website": "https://balmoh.com/",
+      "sector": "mobiliario, diseno y decoracion",
+      "city": "Medellin",
+      "tone": "sofisticado, artesanal y consultivo",
+      "theme": "maker",
+      "brandMode": "standard",
+      "accent": "#9B7A54",
+      "secondary": "#7BAE9B",
+      "status": "Instagram + tienda online propia",
+      "leadProblem": "Balmoh tiene tienda online y producto de alto deseo visual. La fuga aparece cuando el cliente necesita medidas, materiales, envio, disponibilidad, personalizacion o asesoria de espacio antes de comprar o cotizar.",
+      "opportunity": "Mejorar conversion del ecommerce con asesor digital por producto/espacio, captura de medidas, estilo, ciudad y presupuesto, mas seguimiento de carritos y consultas.",
+      "proofLine": "Lectura publica del 19 de julio de 2026: Instagram @balmohcol aparece como mobiliario, diseno y decoracion con envios a Colombia y tienda online; balmoh.com presenta mobiliario de alta calidad y diseno vanguardista, con seccion de tienda.",
+      "audience": "Clientes en Colombia que buscan muebles, decoracion, piezas artesanales y asesoria para hogar o espacios especiales.",
+      "adAngle": "Mueble con diseno + asesoria inmediata + carrito recuperado",
+      "whatsappCta": "Quiero vender mas consultas con contexto",
+      "heroCopy": "En mobiliario de diseno, la compra rara vez es impulsiva: la persona necesita medidas, materiales y seguridad antes de pagar.",
+      "brandWorldTitle": "De inspiracion de espacio a cotizacion clara",
+      "diagnosisTitle": "Fugas en medidas, materiales y carrito",
+      "botAgentName": "Asesor Balmoh demo",
+      "botAgentRole": "orienta producto, medidas y envio",
+      "botTitle": "Asesor digital para mobiliario",
+      "botIntro": "El demo pregunta espacio, medidas, ciudad, material, presupuesto y urgencia antes de WhatsApp.",
+      "botOpening": "Hola, soy el asesor demo para Balmoh. Te ayudo a orientar producto, medidas, envio y cotizacion sin perder contexto.",
+      "botPrompts": [
+        "Mesa",
+        "Medidas",
+        "Envio",
+        "Personalizado",
+        "Carrito"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "mesa",
+            "banca",
+            "mueble"
+          ],
+          "answer": "Pediria espacio, medidas aproximadas, ciudad, estilo y plazo para recomendar categoria o pasar a cotizacion."
+        },
+        {
+          "keywords": [
+            "envio",
+            "ciudad",
+            "colombia"
+          ],
+          "answer": "Capturaria ciudad, producto y urgencia para que el equipo confirme condiciones sin iniciar la conversacion desde cero."
+        },
+        {
+          "keywords": [
+            "carrito",
+            "comprar"
+          ],
+          "answer": "Registraria producto visto, duda pendiente y contacto para recuperar el carrito con una respuesta util."
+        }
+      ],
+      "findings": [
+        "Tiene tienda online propia y presencia activa en Instagram.",
+        "La propuesta publica enfatiza diseno, calidad y piezas para espacios sofisticados.",
+        "El tipo de producto requiere asesoria antes del cierre."
+      ],
+      "siteIssues": [
+        "El ecommerce necesita llevar dudas de medidas/materiales a una cotizacion ordenada.",
+        "WhatsApp debe saber que producto vio la persona.",
+        "La pauta debe medir categorias y no solo visitas generales."
+      ],
+      "losses": [
+        "Carritos o consultas de alto ticket pueden enfriarse por una duda de medida.",
+        "El equipo repite preguntas sobre ciudad, material y espacio.",
+        "Sin seguimiento por producto, la pauta no revela que piezas generan demanda."
+      ],
+      "heatmapData": [
+        "Clics por producto, tienda, WhatsApp, medidas y envio.",
+        "Abandono antes de carrito o cotizacion.",
+        "Categorias con mayor intencion y consultas."
+      ],
+      "campaigns": [
+        "Campana por piezas ancla y espacios del hogar.",
+        "Remarketing a visitantes de tienda sin compra.",
+        "Flujo de cotizacion asistida por medidas y ciudad."
+      ],
+      "deliverables": [
+        "Optimizacion de tienda actual con eventos, asesor y recuperacion.",
+        "Asesor digital para producto, medidas, envio, presupuesto y seguimiento.",
+        "Panel por producto, ciudad, fuente, carrito y estado comercial."
+      ],
+      "sources": [
+        "https://www.instagram.com/balmohcol/",
+        "https://balmoh.com/",
+        "https://balmoh.com/tienda/"
+      ]
+    },
+    {
+      "slug": "mundo-dulce-reposteria-medellin",
+      "company": "Mundo Dulce Reposteria",
+      "instagram": "@mundodulcereposteria",
+      "sector": "reposteria bajo pedido",
+      "city": "Medellin",
+      "tone": "dulce, alegre y practico",
+      "theme": "maker",
+      "brandMode": "pastry",
+      "accent": "#F062A6",
+      "secondary": "#F7C948",
+      "status": "Instagram + pedidos por WhatsApp; no se verifico web propia confiable",
+      "leadProblem": "Mundo Dulce trabaja productos bajo pedido. Si la persona no encuentra rapido opciones, fechas, sabores, tamanos y condiciones, termina preguntando por WhatsApp con poca informacion o se va con otra reposteria.",
+      "opportunity": "Crear una landing/catalogo de pedidos con categorias, ocasiones, tiempos, formulario corto y asesora digital que capture fecha, producto, personas, zona y presupuesto.",
+      "proofLine": "Lectura publica del 19 de julio de 2026: Instagram @mundodulcereposteria aparece como reposteria en Medellin con productos bajo pedido, WhatsApp y llamado para pedidos o informacion. No se verifico web propia confiable.",
+      "audience": "Personas en Medellin que compran tortas, postres y detalles para cumpleaños, celebraciones y regalos.",
+      "adAngle": "Pedido dulce para fecha especial + asesora que no deja enfriar",
+      "whatsappCta": "Quiero ordenar pedidos por fecha",
+      "heroCopy": "En reposteria bajo pedido, la venta se gana cuando fecha, sabor, tamano y entrega quedan claros antes de que el antojo se enfrie.",
+      "brandWorldTitle": "Del antojo al pedido confirmado",
+      "diagnosisTitle": "Fugas en fecha, producto y entrega",
+      "botAgentName": "Asesora Mundo Dulce demo",
+      "botAgentRole": "filtra pedidos y fechas",
+      "botTitle": "Asesora digital para pedidos dulces",
+      "botIntro": "El demo pregunta ocasion, fecha, producto, zona y presupuesto antes de pasar a WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de Mundo Dulce. Te ayudo a orientar producto, fecha, zona y datos del pedido.",
+      "botPrompts": [
+        "Cumpleaños",
+        "Torta",
+        "Postres",
+        "Fecha",
+        "Domicilio"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cumple",
+            "torta",
+            "celebracion"
+          ],
+          "answer": "Pediria fecha, numero de personas, sabor deseado, zona y presupuesto para dejar el pedido listo para cotizar."
+        },
+        {
+          "keywords": [
+            "domicilio",
+            "entrega",
+            "zona"
+          ],
+          "answer": "Capturaria barrio/ciudad, fecha y hora deseada para que el equipo confirme disponibilidad sin repetir preguntas."
+        },
+        {
+          "keywords": [
+            "precio",
+            "costo"
+          ],
+          "answer": "Antes de hablar de precio, pediria producto, tamano, fecha y decoracion para cotizar con contexto."
+        }
+      ],
+      "findings": [
+        "Instagram comunica productos bajo pedido en Medellin.",
+        "El canal visible para pedidos es WhatsApp.",
+        "No se verifico web propia confiable para catalogo y medicion."
+      ],
+      "siteIssues": [
+        "Sin landing, catalogo, fechas y condiciones viven en publicaciones y chat.",
+        "WhatsApp recibe pedidos incompletos.",
+        "La pauta no tendria pixel propio ni lectura por ocasion."
+      ],
+      "losses": [
+        "Clientes de celebraciones pueden irse si no ven opciones rapido.",
+        "Cada cotizacion manual consume tiempo.",
+        "Fechas especiales se pierden si no hay seguimiento."
+      ],
+      "heatmapData": [
+        "Clics por tortas, postres, regalos, fecha y WhatsApp.",
+        "Abandono antes de dejar datos del pedido.",
+        "Ocasiones y productos con mayor demanda."
+      ],
+      "campaigns": [
+        "Campana por cumpleaños y fechas especiales.",
+        "Catalogo landing con formulario de pedido.",
+        "Remarketing a visitantes que vieron producto sin cotizar."
+      ],
+      "deliverables": [
+        "Landing/catalogo de pedidos con categorias, FAQ y WhatsApp.",
+        "Asesora digital para ocasion, fecha, producto, zona y seguimiento.",
+        "Panel de pedidos por fuente, fecha, producto y estado."
+      ],
+      "sources": [
+        "https://www.instagram.com/mundodulcereposteria/"
+      ]
+    },
+    {
+      "slug": "mocka-pasteleria-bogota",
+      "company": "MOCKA Pasteleria Artesanal",
+      "instagram": "@mockapasteleria",
+      "sector": "pasteleria artesanal",
+      "city": "Bogota",
+      "tone": "artesanal, emotivo y cercano",
+      "theme": "maker",
+      "brandMode": "pastry",
+      "accent": "#8E5A44",
+      "secondary": "#F6BFC6",
+      "status": "Instagram + pedidos por WhatsApp; no se verifico web propia confiable",
+      "leadProblem": "MOCKA comunica pasteleria artesanal y pedidos con anticipacion. Si la ruta depende solo de Instagram y WhatsApp, el cliente no siempre entiende catalogo, tiempos, sabores, disponibilidad y pedido ideal por ocasion.",
+      "opportunity": "Crear una landing de pedidos anticipados con catalogo, ocasiones, tiempos de produccion, preguntas frecuentes y asesor digital que filtre fecha, producto y presupuesto.",
+      "proofLine": "Lectura publica del 19 de julio de 2026: Instagram @mockapasteleria aparece como MOCKA Pasteleria Artesanal en Bogota, con WhatsApp, llamado a contacto y pedido con anticipacion. No se verifico web propia confiable.",
+      "audience": "Personas en Bogota comprando tortas, postres y detalles artesanales para celebraciones y regalos.",
+      "adAngle": "Pasteleria artesanal + pedido anticipado + WhatsApp con contexto",
+      "whatsappCta": "Quiero convertir mas pedidos anticipados",
+      "heroCopy": "Cuando el pedido requiere anticipacion, la landing debe explicar opciones y tiempos antes de que el cliente mande un mensaje incompleto.",
+      "brandWorldTitle": "Del detalle artesanal al pedido listo",
+      "diagnosisTitle": "Fugas en anticipacion y cotizacion",
+      "botAgentName": "Asesora MOCKA demo",
+      "botAgentRole": "filtra ocasion, fecha y pedido",
+      "botTitle": "Asesora para pedidos anticipados",
+      "botIntro": "El demo organiza ocasion, fecha, producto, personas y datos basicos antes de WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de MOCKA. Te ayudo a ordenar ocasion, fecha y producto para cotizar mejor.",
+      "botPrompts": [
+        "Pedido anticipado",
+        "Cumpleaños",
+        "Regalo",
+        "Sabores",
+        "WhatsApp"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "anticipado",
+            "fecha"
+          ],
+          "answer": "Pediria fecha de entrega, hora, producto deseado y zona para confirmar si el pedido entra en agenda."
+        },
+        {
+          "keywords": [
+            "cumple",
+            "regalo"
+          ],
+          "answer": "Filtraria ocasion, numero de personas, estilo deseado y presupuesto antes de pasar a cotizacion."
+        },
+        {
+          "keywords": [
+            "sabores",
+            "catalogo"
+          ],
+          "answer": "Mostraria categorias verificadas por la marca cuando se cargue catalogo real; por ahora capturaria preferencia y duda."
+        }
+      ],
+      "findings": [
+        "Instagram posiciona la marca como pasteleria artesanal en Bogota.",
+        "La bio publica indica contacto por WhatsApp y pedido con anticipacion.",
+        "No se verifico web propia confiable para ordenar catalogo y pedidos."
+      ],
+      "siteIssues": [
+        "Sin landing, tiempos de pedido y categorias quedan dispersos.",
+        "WhatsApp recibe solicitudes sin fecha ni formato.",
+        "La pauta no puede medir producto/ocasion con claridad."
+      ],
+      "losses": [
+        "Pedidos con fecha cercana se pierden por falta de filtro.",
+        "El equipo repite preguntas antes de cotizar.",
+        "Clientes de regalo comparan si no ven opciones rapido."
+      ],
+      "heatmapData": [
+        "Clics por ocasion, producto, fecha, FAQ y WhatsApp.",
+        "Abandono antes de formulario de pedido.",
+        "Productos y fechas mas solicitadas."
+      ],
+      "campaigns": [
+        "Campana por regalos y celebraciones.",
+        "Landing de pedido anticipado con formulario corto.",
+        "Remarketing a visitantes que vieron catalogo sin escribir."
+      ],
+      "deliverables": [
+        "Landing/catalogo con pedido anticipado, condiciones y WhatsApp.",
+        "Asesora digital para fecha, ocasion, producto, zona y seguimiento.",
+        "Panel de pedidos por fecha, producto, fuente y estado."
+      ],
+      "sources": [
+        "https://www.instagram.com/mockapasteleria/"
+      ]
+    },
+    {
+      "slug": "muebles-yesstilo-bogota",
+      "company": "Muebles Yesstilo",
+      "instagram": "@mueblesyesstilo",
+      "sector": "muebles para hogar",
+      "city": "Bogota",
+      "tone": "cercano, asesor y comercial",
+      "theme": "maker",
+      "brandMode": "standard",
+      "accent": "#6C8A5B",
+      "secondary": "#D6A85D",
+      "status": "Instagram + compra por WhatsApp; no se verifico web propia confiable",
+      "leadProblem": "Muebles Yesstilo ofrece mobiliario y atencion personalizada por WhatsApp. Sin catalogo/landing propia, cada comprador pregunta por medidas, materiales, colores, entrega y precio desde cero.",
+      "opportunity": "Crear una landing/catalogo por categorias con asesor digital que capture producto, medidas, ciudad, estilo, presupuesto y tiempo de compra para llegar a cotizacion con contexto.",
+      "proofLine": "Lectura publica del 19 de julio de 2026: Instagram @mueblesyesstilo aparece como muebles para hogares con estilo en Bogota, compra en linea por WhatsApp, atencion personalizada, envios a Colombia y mobiliario. No se verifico web propia confiable.",
+      "audience": "Personas en Bogota y Colombia buscando mobiliario para hogar con compra asistida por WhatsApp.",
+      "adAngle": "Mueble ideal + asesoria personalizada + cotizacion clara",
+      "whatsappCta": "Quiero cotizaciones con contexto",
+      "heroCopy": "Un mueble se compra con preguntas: medidas, estilo, color, entrega y confianza. Si todo ocurre en chat manual, se pierden datos y seguimiento.",
+      "brandWorldTitle": "De inspiracion de hogar a cotizacion",
+      "diagnosisTitle": "Fugas en catalogo, medidas y seguimiento",
+      "botAgentName": "Asesor Yesstilo demo",
+      "botAgentRole": "filtra producto y cotizacion",
+      "botTitle": "Asesor digital para muebles",
+      "botIntro": "El demo pregunta categoria, medidas, ciudad, estilo y presupuesto antes de enviar a WhatsApp.",
+      "botOpening": "Hola, soy el asesor demo de Muebles Yesstilo. Te ayudo a ordenar producto, medidas, estilo y ciudad para cotizar.",
+      "botPrompts": [
+        "Sofa",
+        "Comedor",
+        "Medidas",
+        "Envio",
+        "Cotizar"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sofa",
+            "comedor",
+            "cama",
+            "mueble"
+          ],
+          "answer": "Pediria categoria, medidas aproximadas, estilo, ciudad y plazo de compra para pasar a cotizacion."
+        },
+        {
+          "keywords": [
+            "envio",
+            "colombia",
+            "ciudad"
+          ],
+          "answer": "Capturaria ciudad y producto de interes para que el equipo confirme entrega y condiciones."
+        },
+        {
+          "keywords": [
+            "precio",
+            "cotizar"
+          ],
+          "answer": "Antes de cotizar pediria medidas, material/estilo deseado y ciudad para evitar respuestas genericas."
+        }
+      ],
+      "findings": [
+        "Instagram comunica atencion personalizada por WhatsApp.",
+        "La bio publica menciona envios a Colombia y mobiliario.",
+        "No se verifico web propia confiable para catalogo y medicion."
+      ],
+      "siteIssues": [
+        "Sin landing, el catalogo depende de publicaciones y conversaciones.",
+        "WhatsApp recibe dudas repetidas de medidas, precio y envio.",
+        "La pauta no tendria eventos por categoria o producto."
+      ],
+      "losses": [
+        "Cotizaciones potenciales se enfrian por falta de respuesta estructurada.",
+        "El equipo repite preguntas de medidas y ciudad.",
+        "No queda historial comercial limpio por producto consultado."
+      ],
+      "heatmapData": [
+        "Clics por categoria, medidas, materiales, envio y WhatsApp.",
+        "Abandono antes de cotizar.",
+        "Categorias con mayor demanda para pauta."
+      ],
+      "campaigns": [
+        "Campana por salas, comedores y habitaciones.",
+        "Landing/catalogo con formulario de cotizacion.",
+        "Remarketing a visitantes por categoria."
+      ],
+      "deliverables": [
+        "Landing/catalogo con categorias, medidas, FAQ y WhatsApp.",
+        "Asesor digital para producto, medidas, ciudad, presupuesto y seguimiento.",
+        "Panel de cotizaciones por categoria, ciudad, fuente y estado."
+      ],
+      "sources": [
+        "https://www.instagram.com/mueblesyesstilo/"
+      ]
+    },
+    {
+      "slug": "pilates-center-barranquilla",
+      "company": "Pilates Center Personalizado",
+      "instagram": "@pilatescenterbaq",
+      "sector": "pilates personalizado",
+      "city": "Barranquilla",
+      "tone": "saludable, disciplinado y cercano",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#E8893A",
+      "secondary": "#5CBFA6",
+      "status": "Instagram + WhatsApp; web encontrada requiere validacion de propiedad",
+      "leadProblem": "Pilates Center comunica clases personalizadas y WhatsApp desde Instagram. Para una clase personalizada, la persona necesita resolver objetivo, horarios, ubicacion, nivel, lesiones y disponibilidad antes de agendar.",
+      "opportunity": "Crear o ajustar una landing de agenda con planes, beneficios, preguntas frecuentes, ubicacion y asesor digital que filtre objetivo fisico, nivel y horarios.",
+      "proofLine": "Lectura publica del 19 de julio de 2026: Instagram @pilatescenterbaq aparece como Pilates Center Personalizado en Barranquilla, solo clases personalizadas, WhatsApp y ubicacion en C.C. Aranjuez. Tambien aparecen resultados para pilatescenter.co, pero la propiedad y coincidencia exacta deben validarse antes de tratarla como web oficial.",
+      "audience": "Personas en Barranquilla interesadas en pilates personalizado, acondicionamiento, rehabilitacion o bienestar.",
+      "adAngle": "Pilates personalizado + agenda filtrada + seguimiento por objetivo",
+      "whatsappCta": "Quiero agendar clases mejor filtradas",
+      "heroCopy": "En servicios personalizados, el lead sirve cuando llega con objetivo, horario y condicion clara; si no, WhatsApp se llena de preguntas repetidas.",
+      "brandWorldTitle": "De interes por bienestar a clase agendada",
+      "diagnosisTitle": "Fugas en horarios, objetivos y seguimiento",
+      "botAgentName": "Asesora Pilates Center demo",
+      "botAgentRole": "filtra objetivo, nivel y horario",
+      "botTitle": "Asesor digital para clases personalizadas",
+      "botIntro": "El demo pregunta objetivo, experiencia, horario, ubicacion y posibles restricciones antes de WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de Pilates Center. Te ayudo a orientar objetivo, nivel y horario antes de agenda.",
+      "botPrompts": [
+        "Clase personalizada",
+        "Horarios",
+        "Rehabilitacion",
+        "Ubicacion",
+        "Agenda"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "personalizada",
+            "clase",
+            "agenda"
+          ],
+          "answer": "Pediria objetivo, nivel, disponibilidad horaria y datos de contacto para pasar a agenda con contexto."
+        },
+        {
+          "keywords": [
+            "rehabilitacion",
+            "lesion",
+            "dolor"
+          ],
+          "answer": "No diagnosticaria por chat; pediria objetivo y restriccion declarada para que el equipo oriente la valoracion."
+        },
+        {
+          "keywords": [
+            "horario",
+            "ubicacion"
+          ],
+          "answer": "Capturaria franja horaria ideal y confirmaria interes en la sede visible antes de WhatsApp."
+        }
+      ],
+      "findings": [
+        "Instagram comunica clases personalizadas y WhatsApp.",
+        "La ubicacion publica esta en Barranquilla.",
+        "La web encontrada en busqueda debe validarse antes de asumir propiedad oficial."
+      ],
+      "siteIssues": [
+        "Sin landing validada, beneficios, planes y horarios quedan dispersos.",
+        "WhatsApp recibe leads sin objetivo ni disponibilidad.",
+        "La pauta no mide que objetivo trae alumnos reales."
+      ],
+      "losses": [
+        "Interesados en clase de prueba se enfrian por falta de agenda rapida.",
+        "El equipo repite preguntas sobre horarios y nivel.",
+        "No queda seguimiento por objetivo: bienestar, fuerza, rehabilitacion o embarazo."
+      ],
+      "heatmapData": [
+        "Clics por planes, horarios, agenda, ubicacion y WhatsApp.",
+        "Abandono antes de dejar horario.",
+        "Objetivos mas frecuentes para pauta y contenido."
+      ],
+      "campaigns": [
+        "Campana de clase personalizada por objetivo.",
+        "Landing de agenda con formulario corto.",
+        "Remarketing a visitantes que consultaron horarios."
+      ],
+      "deliverables": [
+        "Landing de agenda con servicios, ubicacion, FAQ y WhatsApp.",
+        "Asesor digital para objetivo, nivel, horario y seguimiento.",
+        "Panel de leads por objetivo, horario, fuente y estado."
+      ],
+      "sources": [
+        "https://www.instagram.com/pilatescenterbaq/",
+        "https://www.pilatescenter.co/"
+      ]
+    },
+    {
+      "slug": "betty-blue-cakes-cucuta",
+      "company": "Betty Blue Cakes",
+      "instagram": "@bettybluecakes",
+      "sector": "tortas, pasteleria y reposteria",
+      "city": "Cucuta",
+      "tone": "dulce, ordenado y familiar",
+      "theme": "maker",
+      "brandMode": "pastry",
+      "accent": "#5CA8D6",
+      "secondary": "#F7C2D4",
+      "status": "Instagram + pedidos por WhatsApp; no se verifico web propia confiable",
+      "leadProblem": "Betty Blue Cakes recibe pedidos por WhatsApp y comunica horario de atencion. Sin una landing de pedido, cada cliente debe preguntar disponibilidad, fecha, diseno, porciones y entrega manualmente.",
+      "opportunity": "Crear una landing/catalogo de tortas y postres con horarios, pedido anticipado, formulario por ocasion y asesor digital que capture fecha, porciones, diseno y zona.",
+      "proofLine": "Lectura publica del 19 de julio de 2026: Instagram @bettybluecakes aparece como tortas, pasteleria y reposteria en Cucuta, con pedidos por WhatsApp, indicacion de no llamadas y horario lunes a sabado. No se verifico web propia confiable.",
+      "audience": "Clientes en Cucuta que compran tortas, cupcakes, galletas y postres para celebraciones.",
+      "adAngle": "Torta para fecha especial + pedido ordenado + WhatsApp sin vueltas",
+      "whatsappCta": "Quiero ordenar mis pedidos por WhatsApp",
+      "heroCopy": "Cuando los pedidos son por fecha y horario, la venta mejora si el cliente deja todo claro antes del primer mensaje.",
+      "brandWorldTitle": "Del mensaje suelto al pedido completo",
+      "diagnosisTitle": "Fugas en fecha, porciones y disponibilidad",
+      "botAgentName": "Asesora Betty Blue demo",
+      "botAgentRole": "filtra tortas y pedidos",
+      "botTitle": "Asesora digital para tortas por pedido",
+      "botIntro": "El demo captura ocasion, fecha, porciones, diseno, zona y horario antes de WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de Betty Blue Cakes. Te ayudo a organizar fecha, porciones, diseno y entrega.",
+      "botPrompts": [
+        "Torta cumpleaños",
+        "Cupcakes",
+        "Fecha",
+        "Porciones",
+        "Horario"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "torta",
+            "cumple",
+            "porciones"
+          ],
+          "answer": "Pediria fecha, porciones, idea de diseno, sabor y zona para preparar una cotizacion clara."
+        },
+        {
+          "keywords": [
+            "horario",
+            "llamar",
+            "whatsapp"
+          ],
+          "answer": "Respetaria la senal publica de pedidos por WhatsApp y pediria datos completos para reducir mensajes de ida y vuelta."
+        },
+        {
+          "keywords": [
+            "entrega",
+            "domicilio"
+          ],
+          "answer": "Capturaria zona, hora deseada y producto para que el equipo confirme condiciones."
+        }
+      ],
+      "findings": [
+        "Instagram comunica pedidos por WhatsApp y horario de atencion.",
+        "La oferta visible esta centrada en tortas, pasteleria y reposteria.",
+        "No se verifico web propia confiable para formular pedidos."
+      ],
+      "siteIssues": [
+        "Sin landing, el cliente no deja fecha, porciones y diseno de forma ordenada.",
+        "WhatsApp se vuelve una bandeja de preguntas incompletas.",
+        "La pauta no aprende por ocasion ni tipo de producto."
+      ],
+      "losses": [
+        "Pedidos urgentes pueden perderse por falta de datos.",
+        "El equipo repite preguntas de porciones, fecha y entrega.",
+        "Fechas especiales no tienen seguimiento automatizado."
+      ],
+      "heatmapData": [
+        "Clics por tortas, cupcakes, galletas, horario y WhatsApp.",
+        "Abandono antes de completar pedido.",
+        "Ocasiones con mayor intencion comercial."
+      ],
+      "campaigns": [
+        "Campana por cumpleaños y eventos familiares.",
+        "Landing de pedido con formulario de torta.",
+        "Recordatorios y remarketing a interesados sin pedido."
+      ],
+      "deliverables": [
+        "Landing/catalogo con formulario de pedido, horario, FAQ y WhatsApp.",
+        "Asesora digital para fecha, porciones, diseno, zona y seguimiento.",
+        "Panel de pedidos por fecha, producto, fuente y estado."
+      ],
+      "sources": [
+        "https://www.instagram.com/bettybluecakes/"
+      ]
     }
   ]
 }
