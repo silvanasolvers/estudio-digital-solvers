@@ -34671,6 +34671,935 @@
       "sources": [
         "https://www.instagram.com/bettybluecakes/"
       ]
+    },
+    {
+      "slug": "natural-imagen-bucaramanga",
+      "company": "Natural Imagen",
+      "instagram": "@naturalimagen",
+      "sector": "medicina estetica",
+      "city": "Bucaramanga",
+      "tone": "medico, premium y confiable",
+      "theme": "clinical",
+      "brandMode": "standard",
+      "accent": "#3BA6A6",
+      "secondary": "#F2B66D",
+      "status": "Web actual + Instagram + WhatsApp",
+      "leadProblem": "Natural Imagen ya comunica tratamientos medicos y tecnologia en su web. La fuga probable esta en convertir interes en valoraciones con contexto: tipo de tratamiento, zona, expectativa, antecedentes y momento de decision antes de llegar a WhatsApp.",
+      "opportunity": "Mejorar la conversion de la web actual con rutas por tratamiento, formularios breves y asesor digital que eduque sin prometer resultados medicos, filtre intencion y deje cada consulta lista para agenda.",
+      "proofLine": "Lectura publica del 20 de julio de 2026: naturalimagen.com presenta medicina estetica en Bucaramanga, rejuvenecimiento facial, depilacion laser, tratamientos corporales, tecnologia aprobada FDA y direccion medica de la Dra. Lina Maria Cadena Ortiz. Busqueda publica relaciona Instagram @naturalimagen y WhatsApp.",
+      "audience": "Personas en Bucaramanga interesadas en rejuvenecimiento facial, depilacion laser, tratamientos corporales, acne, cicatrices o bienestar estetico con criterio medico.",
+      "adAngle": "Tratamiento estetico seguro + valoracion informada + seguimiento sin friccion",
+      "whatsappCta": "Quiero convertir mas valoraciones",
+      "heroCopy": "En medicina estetica no basta con atraer clics: cada persona necesita entender opciones, seguridad, expectativas y agenda antes de decidir.",
+      "brandWorldTitle": "De interes estetico a valoracion con contexto",
+      "diagnosisTitle": "Fugas entre tratamiento, duda y cita",
+      "botAgentName": "Asesora Natural Imagen demo",
+      "botAgentRole": "orienta tratamientos y agenda",
+      "botTitle": "Asesor digital para valoraciones esteticas",
+      "botIntro": "El demo orienta por tratamiento de interes, zona, expectativa, disponibilidad y datos basicos antes de WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de Natural Imagen. Te ayudo a ubicar el tratamiento de interes y preparar una valoracion con contexto.",
+      "botPrompts": [
+        "Rejuvenecimiento",
+        "Depilacion laser",
+        "Corporal",
+        "Cicatrices",
+        "Valoracion"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "rejuvenecimiento",
+            "botox",
+            "facial"
+          ],
+          "answer": "Explicaria que la eleccion depende de valoracion medica, zona, objetivo y antecedentes; luego capturaria datos para agenda."
+        },
+        {
+          "keywords": [
+            "laser",
+            "depilacion"
+          ],
+          "answer": "Preguntaria zona, tipo de piel declarado, experiencia previa y disponibilidad para que el equipo confirme protocolo."
+        },
+        {
+          "keywords": [
+            "cita",
+            "valoracion",
+            "agenda"
+          ],
+          "answer": "Tomaria nombre, telefono, tratamiento de interes y franja ideal, dejando la conversacion lista para confirmacion humana."
+        }
+      ],
+      "findings": [
+        "La web presenta servicios de medicina estetica y tratamientos por categoria.",
+        "La confianza medica existe, pero puede conectarse mejor con agenda y seguimiento.",
+        "WhatsApp ayuda, pero sin contexto previo puede recibir preguntas repetidas o leads frios."
+      ],
+      "siteIssues": [
+        "Las paginas de tratamiento educan, pero el siguiente paso podria capturar intencion especifica antes de WhatsApp.",
+        "Una persona puede comparar opciones y abandonar si no entiende cual tratamiento aplica para su caso.",
+        "La pauta por tratamiento necesita eventos claros: vista de servicio, solicitud de valoracion, WhatsApp y seguimiento."
+      ],
+      "losses": [
+        "Interesadas con dudas medicas se enfrian si deben explicar todo desde cero por chat.",
+        "El equipo invierte tiempo filtrando personas que aun no saben que tratamiento necesitan.",
+        "Sin scoring, la pauta no separa curiosidad de valoraciones con alta intencion."
+      ],
+      "heatmapData": [
+        "Clics por tratamiento, valoracion, WhatsApp y preguntas frecuentes.",
+        "Puntos de abandono antes de pedir cita.",
+        "Tratamientos que generan mas consultas calificadas."
+      ],
+      "campaigns": [
+        "Campanas por tratamiento con landing/section enfocada en duda principal y valoracion.",
+        "Remarketing a visitantes de servicios que no pidieron cita.",
+        "Seguimiento automatico para leads que preguntaron pero no agendaron."
+      ],
+      "deliverables": [
+        "Optimizar conversion de la web actual con CTAs por tratamiento y formulario de valoracion.",
+        "Asesor digital entrenado para orientar sin diagnosticar y pasar contexto al equipo.",
+        "Panel de leads por tratamiento, fuente, estado y proxima accion."
+      ],
+      "sources": [
+        "https://naturalimagen.com/",
+        "https://www.instagram.com/naturalimagen/"
+      ]
+    },
+    {
+      "slug": "dra-victoria-leon-bucaramanga",
+      "company": "Dra. Victoria Leon Beauty Lab",
+      "instagram": "@md.victorialeon",
+      "sector": "medicina estetica facial",
+      "city": "Bucaramanga",
+      "tone": "premium, medico y cercano",
+      "theme": "clinical",
+      "brandMode": "standard",
+      "accent": "#C98A8A",
+      "secondary": "#F3D9B1",
+      "status": "Web actual + WhatsApp de valoracion",
+      "leadProblem": "La web comunica lipopapada, armonizacion facial, bonos y experiencia premium. La fuga probable esta en que cada interesada llega con dudas distintas sobre procedimiento, expectativas, seguridad, precio y agenda.",
+      "opportunity": "Convertir la web en una ruta de valoracion asistida: el asesor digital recoge objetivo, zona de interes, fecha tentativa y objeciones para que WhatsApp reciba conversaciones listas para cerrar cita.",
+      "proofLine": "Lectura publica del 20 de julio de 2026: dravictorialeon.com presenta medicina estetica con proposito, lipopapada, armonizacion facial, resultados naturales, atencion exclusiva, seguimiento y CTA de agendar valoracion por WhatsApp.",
+      "audience": "Mujeres y hombres en Bucaramanga interesados en armonizacion facial, lipopapada, labios, botox o bonos de regalo.",
+      "adAngle": "Resultados naturales + valoracion premium + seguimiento claro",
+      "whatsappCta": "Quiero agendar mejor las valoraciones",
+      "heroCopy": "Cuando la promesa es premium, la conversion se pierde si la persona no recibe una orientacion rapida y elegante antes de escribir.",
+      "brandWorldTitle": "De deseo estetico a cita preparada",
+      "diagnosisTitle": "Fugas en dudas, precio y agenda",
+      "botAgentName": "Asesora Victoria Leon demo",
+      "botAgentRole": "prepara valoraciones esteticas",
+      "botTitle": "Asesor digital para tratamientos faciales",
+      "botIntro": "El demo pregunta objetivo, tratamiento de interes, momento de decision y datos basicos antes de WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de la Dra. Victoria Leon. Te ayudo a organizar tu interes para una valoracion mas clara.",
+      "botPrompts": [
+        "Lipopapada",
+        "Labios",
+        "Botox",
+        "Bono regalo",
+        "Valoracion"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "lipopapada",
+            "papada"
+          ],
+          "answer": "Pediria objetivo, si busca valoracion inicial y franja horaria; la indicacion final siempre quedaria para la doctora."
+        },
+        {
+          "keywords": [
+            "bono",
+            "regalo"
+          ],
+          "answer": "Capturaria monto o intencion del bono, nombre de contacto y canal para que el equipo confirme disponibilidad."
+        },
+        {
+          "keywords": [
+            "agenda",
+            "valoracion",
+            "cita"
+          ],
+          "answer": "Recolectaria tratamiento de interes, fecha ideal y datos de contacto para pasar a WhatsApp con contexto."
+        }
+      ],
+      "findings": [
+        "La web tiene propuesta premium y CTA claro hacia valoracion por WhatsApp.",
+        "Los tratamientos visibles requieren confianza, educacion y seguimiento.",
+        "La oportunidad esta en calificar mejor antes del contacto humano."
+      ],
+      "siteIssues": [
+        "El CTA de WhatsApp puede recibir leads sin tratamiento claro ni expectativa.",
+        "No se ve una capa de preguntas frecuentes dinamica por objecion comercial.",
+        "La pauta necesita diferenciar intereses: lipopapada, labios, botox, bonos o valoracion general."
+      ],
+      "losses": [
+        "Una interesada compara varias clinicas y se enfria si no recibe respuesta contextual rapida.",
+        "El equipo repite explicaciones sobre valoracion, proceso y disponibilidad.",
+        "Los bonos de regalo pueden perderse si la ruta no captura ocasion y presupuesto."
+      ],
+      "heatmapData": [
+        "Clics por tratamiento, bono, valoracion y WhatsApp.",
+        "Abandono entre resultados visibles y agenda.",
+        "Objeciones frecuentes antes de pedir cita."
+      ],
+      "campaigns": [
+        "Campana por tratamiento con mensajes de resultado natural y valoracion.",
+        "Remarketing a visitantes de lipopapada/labios que no escribieron.",
+        "Campana de bonos con formulario de ocasion y monto."
+      ],
+      "deliverables": [
+        "Capa de conversion sobre la web actual con formulario de valoracion.",
+        "Asesor digital premium que resuelve dudas frecuentes sin diagnosticar.",
+        "Panel de oportunidades por tratamiento, fuente y etapa de agenda."
+      ],
+      "sources": [
+        "https://dravictorialeon.com/",
+        "https://www.instagram.com/md.victorialeon/"
+      ]
+    },
+    {
+      "slug": "carpinteria-arquitectonica-cali",
+      "company": "Carpinteria Arquitectonica",
+      "instagram": "@carpinteria_arquitectonica.co",
+      "sector": "muebles en madera a medida",
+      "city": "Cali",
+      "tone": "experto, visual y confiable",
+      "theme": "maker",
+      "brandMode": "standard",
+      "accent": "#9B6A3C",
+      "secondary": "#6AA6A1",
+      "status": "Web actual + contacto por WhatsApp",
+      "leadProblem": "La web comunica muebles personalizados para hogar y espacios corporativos. La fuga probable esta en cotizaciones incompletas: medidas, material, espacio, presupuesto, visita y fecha esperada quedan dispersos en WhatsApp.",
+      "opportunity": "Mejorar la conversion de la web actual con un formulario de proyecto y asesor digital que organice medidas, tipo de mueble, ubicacion, fotos del espacio y prioridad antes de agendar visita.",
+      "proofLine": "Lectura publica del 20 de julio de 2026: carpinteriaarquitectonica.com presenta fabricacion y reparacion de muebles en madera, asesoria personalizada, proyectos para hogar y corporativo, materiales de calidad y llamada a agendar visita.",
+      "audience": "Hogares, oficinas y negocios en Cali que necesitan muebles en madera a medida o remodelacion puntual.",
+      "adAngle": "Mueble a medida + visita preparada + cotizacion sin vueltas",
+      "whatsappCta": "Quiero cotizar proyectos mejor filtrados",
+      "heroCopy": "En muebles a medida, el lead vale mas cuando llega con medidas, fotos, material y fecha; sin eso, cada cotizacion empieza desde cero.",
+      "brandWorldTitle": "De idea suelta a proyecto cotizable",
+      "diagnosisTitle": "Fugas en medidas, presupuesto y visita",
+      "botAgentName": "Asesor Carpinteria demo",
+      "botAgentRole": "filtra proyectos a medida",
+      "botTitle": "Asesor digital para cotizaciones de carpinteria",
+      "botIntro": "El demo pide tipo de mueble, medidas aproximadas, ciudad, fotos, presupuesto y fecha ideal antes de WhatsApp.",
+      "botOpening": "Hola, soy el asesor demo de Carpinteria Arquitectonica. Te ayudo a ordenar tu proyecto antes de cotizar.",
+      "botPrompts": [
+        "Cocina",
+        "Closet",
+        "Mueble TV",
+        "Proyecto oficina",
+        "Visita"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cocina",
+            "closet",
+            "mueble"
+          ],
+          "answer": "Pediria tipo de mueble, medidas aproximadas, material deseado, fotos del espacio y fecha objetivo."
+        },
+        {
+          "keywords": [
+            "visita",
+            "agenda"
+          ],
+          "answer": "Validaria ciudad/zona, tipo de proyecto y disponibilidad para que el equipo llegue con contexto."
+        },
+        {
+          "keywords": [
+            "precio",
+            "cotizacion",
+            "presupuesto"
+          ],
+          "answer": "Solicitaria rango de presupuesto y detalles clave; asi la respuesta humana puede ser una cotizacion realista."
+        }
+      ],
+      "findings": [
+        "La web presenta servicio personalizado y proyectos para hogar/corporativo.",
+        "La llamada comercial principal es agendar visita.",
+        "Un asesor digital puede convertir ideas sueltas en brief comercial."
+      ],
+      "siteIssues": [
+        "El usuario puede inspirarse, pero no dejar medidas y fotos de forma estructurada.",
+        "WhatsApp sin formulario genera conversaciones largas antes de cotizar.",
+        "La pauta necesita eventos por tipo de mueble y valor potencial."
+      ],
+      "losses": [
+        "Proyectos buenos se enfrian si la visita no se agenda rapido.",
+        "El equipo pierde tiempo pidiendo la misma informacion basica.",
+        "Sin clasificacion, un closet pequeno y un proyecto corporativo entran igual."
+      ],
+      "heatmapData": [
+        "Clics por tipo de mueble, proyectos, visita y WhatsApp.",
+        "Abandono antes de enviar medidas o fotos.",
+        "Categorias que generan cotizaciones de mayor valor."
+      ],
+      "campaigns": [
+        "Campana por cocinas, closets y muebles corporativos.",
+        "Landing/formulario de proyecto conectado al WhatsApp.",
+        "Remarketing a visitantes que vieron proyectos sin cotizar."
+      ],
+      "deliverables": [
+        "Optimizar web actual con formulario de brief y CTA por tipo de proyecto.",
+        "Asesor digital para medidas, fotos, presupuesto, zona y visita.",
+        "Panel de cotizaciones por categoria, valor estimado, fuente y estado."
+      ],
+      "sources": [
+        "https://carpinteriaarquitectonica.com/",
+        "https://www.instagram.com/carpinteria_arquitectonica.co/"
+      ]
+    },
+    {
+      "slug": "mundo-muebles-pereira",
+      "company": "El Mundo de los Muebles",
+      "instagram": "@mundomueblespereira",
+      "sector": "almacen de muebles",
+      "city": "Pereira",
+      "tone": "familiar, practico y confiable",
+      "theme": "maker",
+      "brandMode": "standard",
+      "accent": "#C47A38",
+      "secondary": "#4E8D78",
+      "status": "Web actual + Instagram + WhatsApp",
+      "leadProblem": "La web comunica variedad, asesoria, entregas y sistema de separado. La fuga probable esta en que el cliente pregunta por disponibilidad, medidas, entrega y separado por WhatsApp sin dejar contexto de producto o presupuesto.",
+      "opportunity": "Convertir la web actual en un catalogo comercial medible con asesor digital por sala, comedor, habitacion, cocina y decoracion, conectando cada consulta con producto, ciudad y siguiente accion.",
+      "proofLine": "Lectura publica del 20 de julio de 2026: elmundodelosmuebles.com se presenta como almacen de muebles en Pereira, con mas de 20 anos de experiencia, variedad para hogar, asesoría, entregas, posventa y sistema de separado.",
+      "audience": "Familias y compradores del Area Metropolitana de Pereira buscando muebles para sala, comedor, habitacion, cocina o decoracion.",
+      "adAngle": "Mueble ideal + separado + entrega asesorada por WhatsApp",
+      "whatsappCta": "Quiero vender mas muebles desde la web",
+      "heroCopy": "Cuando alguien esta amoblando su casa, la venta se enfria si no encuentra medidas, disponibilidad, entrega y separado en una sola ruta.",
+      "brandWorldTitle": "De vitrina digital a cotizacion clara",
+      "diagnosisTitle": "Fugas por categoria, medidas y entrega",
+      "botAgentName": "Asesor Mundo Muebles demo",
+      "botAgentRole": "filtra muebles y entregas",
+      "botTitle": "Asesor digital para muebles por categoria",
+      "botIntro": "El demo pregunta espacio, producto, medidas, presupuesto, ciudad y si necesita separado o entrega.",
+      "botOpening": "Hola, soy el asesor demo de El Mundo de los Muebles. Te ayudo a elegir categoria, medidas y forma de compra.",
+      "botPrompts": [
+        "Sala",
+        "Comedor",
+        "Habitacion",
+        "Separado",
+        "Entrega"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sala",
+            "comedor",
+            "habitacion"
+          ],
+          "answer": "Pediria categoria, medidas aproximadas, color/material buscado y presupuesto para orientar opciones."
+        },
+        {
+          "keywords": [
+            "separado",
+            "pago"
+          ],
+          "answer": "Registraria interes en separado y producto para que el equipo confirme condiciones actualizadas."
+        },
+        {
+          "keywords": [
+            "entrega",
+            "domicilio",
+            "pereira"
+          ],
+          "answer": "Capturaria barrio/ciudad, producto y fecha ideal para validar cobertura y agenda de entrega."
+        }
+      ],
+      "findings": [
+        "La web posiciona trayectoria, asesoria, entregas y posventa.",
+        "La oferta cubre varias categorias de muebles para hogar.",
+        "El sistema de separado es una senal comercial fuerte para convertir indecisos."
+      ],
+      "siteIssues": [
+        "El catalogo puede necesitar rutas mas claras por categoria y accion.",
+        "WhatsApp sin contexto obliga a preguntar producto, medidas y entrega manualmente.",
+        "La pauta requiere aprender que categorias generan ventas y separados."
+      ],
+      "losses": [
+        "Compradores comparan precios y se van si no reciben orientacion rapida.",
+        "El equipo puede repetir preguntas de medidas, colores y cobertura.",
+        "Sin eventos por categoria, la pauta no identifica productos ganadores."
+      ],
+      "heatmapData": [
+        "Clics por sala, comedor, habitacion, separado y entrega.",
+        "Abandono antes de WhatsApp o formulario.",
+        "Categorias con mayor intencion y valor promedio."
+      ],
+      "campaigns": [
+        "Campana por categorias de alto interes: salas, comedores y habitaciones.",
+        "Remarketing a visitantes que revisaron separado o entrega.",
+        "Anuncios con CTA a asesor digital segun espacio del hogar."
+      ],
+      "deliverables": [
+        "Mejora de conversion sobre la web actual con rutas por categoria.",
+        "Asesor digital para producto, medidas, presupuesto, separado y entrega.",
+        "Panel de leads por categoria, fuente, ciudad y estado comercial."
+      ],
+      "sources": [
+        "https://elmundodelosmuebles.com/",
+        "https://www.instagram.com/mundomueblespereira/"
+      ]
+    },
+    {
+      "slug": "tentacion-gourmet-pereira",
+      "company": "Tentacion Gourmet",
+      "instagram": "@tentaciongourmet",
+      "sector": "tortas y reposteria artesanal",
+      "city": "Pereira",
+      "tone": "dulce, ordenado y familiar",
+      "theme": "maker",
+      "brandMode": "pastry",
+      "accent": "#E2A33A",
+      "secondary": "#D86F8B",
+      "status": "Web actual + pedidos por WhatsApp",
+      "leadProblem": "La web muestra tortas personalizadas, sabores, productos y WhatsApp. La fuga probable esta en pedidos incompletos: fecha, porciones, sabor, diseno, alergias y entrega se resuelven manualmente.",
+      "opportunity": "Mejorar la web actual con formulario de pedido por ocasion y asesor digital que capture fecha, sabor, porciones, idea de decoracion y zona antes de WhatsApp.",
+      "proofLine": "Lectura publica del 20 de julio de 2026: tentaciongourmet.com.co presenta tortas de cumpleanos, tortas personalizadas, alfajores, galletas, profiteroles, opciones gluten free y sin azucar, sabores y pedidos por WhatsApp.",
+      "audience": "Clientes en Pereira que compran tortas personalizadas, postres y detalles para cumpleanos, graduaciones o regalos.",
+      "adAngle": "Torta personalizada + datos completos + pedido por WhatsApp",
+      "whatsappCta": "Quiero ordenar pedidos y pauta",
+      "heroCopy": "Un pedido de torta se pierde cuando falta fecha, porciones o diseno; el cliente necesita una ruta facil antes del chat.",
+      "brandWorldTitle": "De antojo a pedido completo",
+      "diagnosisTitle": "Fugas en fecha, sabor y diseno",
+      "botAgentName": "Asesora Tentacion demo",
+      "botAgentRole": "filtra tortas por ocasion",
+      "botTitle": "Asesora digital para pedidos de reposteria",
+      "botIntro": "El demo organiza ocasion, fecha, porciones, sabor, restricciones y zona antes de WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de Tentacion Gourmet. Te ayudo a organizar tu torta o postre antes de pedir.",
+      "botPrompts": [
+        "Cumpleanos",
+        "Graduacion",
+        "Sin azucar",
+        "Porciones",
+        "Entrega"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cumple",
+            "torta",
+            "porciones"
+          ],
+          "answer": "Pediria fecha, porciones, sabor, idea de decoracion y presupuesto para armar el pedido."
+        },
+        {
+          "keywords": [
+            "sin azucar",
+            "gluten",
+            "diabet"
+          ],
+          "answer": "Marcaria la restriccion alimentaria declarada y pediria confirmacion humana antes de cerrar el pedido."
+        },
+        {
+          "keywords": [
+            "entrega",
+            "domicilio"
+          ],
+          "answer": "Capturaria zona, hora deseada y producto para que el equipo confirme cobertura y costo."
+        }
+      ],
+      "findings": [
+        "La web muestra portafolio amplio de reposteria y tortas personalizadas.",
+        "Tiene WhatsApp como canal directo de pedido.",
+        "Las opciones especiales como gluten free o sin azucar necesitan preguntas claras."
+      ],
+      "siteIssues": [
+        "El pedido podria iniciar sin fecha, porciones o diseno definidos.",
+        "WhatsApp recibe demasiadas preguntas repetidas antes de cotizar.",
+        "La pauta necesita saber que ocasiones y productos generan pedidos reales."
+      ],
+      "losses": [
+        "Clientes con fecha cercana se enfrían si no obtienen disponibilidad rapido.",
+        "El equipo pierde tiempo completando datos basicos por chat.",
+        "Sin seguimiento, interesados en fechas especiales pueden no regresar."
+      ],
+      "heatmapData": [
+        "Clics por tortas, sabores, sin azucar, WhatsApp y entrega.",
+        "Abandono antes de completar datos del pedido.",
+        "Ocasiones con mayor intencion para pauta."
+      ],
+      "campaigns": [
+        "Campana por cumpleanos y fechas especiales.",
+        "Landing/formulario de pedido conectado a WhatsApp.",
+        "Remarketing a visitantes que vieron tortas personalizadas."
+      ],
+      "deliverables": [
+        "Optimizar web actual con formulario de pedido por ocasion.",
+        "Asesora digital para fecha, porciones, sabor, diseno y entrega.",
+        "Panel de pedidos por fecha, producto, fuente y estado."
+      ],
+      "sources": [
+        "https://www.tentaciongourmet.com.co/",
+        "https://www.instagram.com/tentaciongourmet/"
+      ]
+    },
+    {
+      "slug": "miele-artesanal-bucaramanga",
+      "company": "Miele Artesanal",
+      "instagram": "@mieleartesanal",
+      "sector": "reposteria artesanal saludable",
+      "city": "Bucaramanga",
+      "tone": "saludable, dulce y confiable",
+      "theme": "maker",
+      "brandMode": "pastry",
+      "accent": "#D4A23A",
+      "secondary": "#71B77A",
+      "status": "Web actual con catalogo y pagos + WhatsApp",
+      "leadProblem": "La web comunica postres sin azucar, sin gluten, pagos en linea y WhatsApp. La fuga probable esta en resolver dudas de ingredientes, restricciones, domicilio, minimo de pedido y recomendacion antes de pagar.",
+      "opportunity": "Mejorar conversion del catalogo actual con asesor digital nutricional-comercial que no prometa beneficios medicos, pero si filtre producto, restriccion declarada, cantidad y entrega.",
+      "proofLine": "Lectura publica del 20 de julio de 2026: mieleartesanal.com presenta reposteria artesanal saludable en Bucaramanga, sin azucar anadida, sin gluten, harina de almendras, pagos PSE/tarjeta/Nequi o WhatsApp, domicilio en Bucaramanga y area metropolitana, y pedido minimo.",
+      "audience": "Personas en Bucaramanga y area metropolitana que buscan postres saludables, sin azucar anadida o sin gluten para consumo propio o regalo.",
+      "adAngle": "Postre saludable + recomendacion rapida + compra sin duda",
+      "whatsappCta": "Quiero convertir mas pedidos saludables",
+      "heroCopy": "En productos saludables, la venta se frena cuando el cliente necesita confirmar ingredientes, restricciones y entrega antes de pagar.",
+      "brandWorldTitle": "De curiosidad saludable a pedido pagado",
+      "diagnosisTitle": "Fugas en ingredientes, carrito y domicilio",
+      "botAgentName": "Asesora Miele demo",
+      "botAgentRole": "recomienda postres y pedidos",
+      "botTitle": "Asesora digital para reposteria saludable",
+      "botIntro": "El demo pregunta antojo, restriccion declarada, cantidad, zona y forma de pago antes de WhatsApp o carrito.",
+      "botOpening": "Hola, soy la asesora demo de Miele. Te ayudo a elegir postre segun antojo, restriccion declarada y entrega.",
+      "botPrompts": [
+        "Sin azucar",
+        "Sin gluten",
+        "Brownies",
+        "Regalo",
+        "Domicilio"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "azucar",
+            "gluten",
+            "diabet"
+          ],
+          "answer": "Confirmaria la restriccion declarada y sugeriria revisar ingredientes antes de compra; la validacion final queda con el negocio."
+        },
+        {
+          "keywords": [
+            "domicilio",
+            "entrega"
+          ],
+          "answer": "Pediria zona y producto para validar cobertura en Bucaramanga y area metropolitana."
+        },
+        {
+          "keywords": [
+            "pago",
+            "nequi",
+            "pse"
+          ],
+          "answer": "Orientaria entre pago online o WhatsApp segun el producto y dejaria la conversacion lista para cierre."
+        }
+      ],
+      "findings": [
+        "La web muestra propuesta saludable clara y opciones de pago.",
+        "Comunica domicilio en Bucaramanga y area metropolitana.",
+        "Las restricciones alimentarias elevan la necesidad de asesoría antes de comprar."
+      ],
+      "siteIssues": [
+        "La decision puede frenarse si el cliente no entiende ingredientes o restricciones.",
+        "El carrito y WhatsApp deben compartir contexto para evitar recomenzar la venta.",
+        "La pauta necesita medir producto visto, intencion y compra o consulta."
+      ],
+      "losses": [
+        "Clientes con restricciones pueden abandonar por miedo a equivocarse.",
+        "Preguntas repetidas sobre ingredientes consumen atencion humana.",
+        "Sin seguimiento, quien visita por curiosidad saludable no vuelve a comprar."
+      ],
+      "heatmapData": [
+        "Clics por producto, ingredientes, carrito, WhatsApp y domicilio.",
+        "Abandono antes de pago.",
+        "Productos que activan mayor consulta por restriccion."
+      ],
+      "campaigns": [
+        "Campana por postres sin azucar y regalos saludables.",
+        "Remarketing a visitantes que miraron productos sin pagar.",
+        "Flujo de WhatsApp para restricciones, domicilio y recompra."
+      ],
+      "deliverables": [
+        "Optimizar catalogo actual con preguntas de compra y CTAs por producto.",
+        "Asesora digital para ingredientes, cantidad, domicilio, pago y seguimiento.",
+        "Panel de pedidos por producto, fuente, restriccion declarada y estado."
+      ],
+      "sources": [
+        "https://www.mieleartesanal.com/",
+        "https://www.instagram.com/mieleartesanal/"
+      ]
+    },
+    {
+      "slug": "glasse-pasteleria-bucaramanga",
+      "company": "Glasse Pasteleria",
+      "instagram": "@glassepasteleria",
+      "sector": "pasteleria y ecommerce de tortas",
+      "city": "Bucaramanga",
+      "tone": "comercial, dulce y ordenado",
+      "theme": "maker",
+      "brandMode": "pastry",
+      "accent": "#C84D73",
+      "secondary": "#F4C25A",
+      "status": "Ecommerce activo + Instagram + WhatsApp",
+      "leadProblem": "Glasse tiene ecommerce con categorias, productos, porciones y precios visibles. La fuga probable no es falta de web: es convertir comparacion en compra cuando el cliente duda por tamano, sabor, fecha, entrega o producto correcto.",
+      "opportunity": "Mejorar conversion del ecommerce con asesor digital por ocasion, recomendador de porciones y seguimiento a carritos o visitantes que vieron productos sin comprar.",
+      "proofLine": "Lectura publica del 20 de julio de 2026: glassepasteleria.com muestra categorias como porciones, tortas, ponque de vino, tortas artesanales, postres y productos con precios y porciones visibles.",
+      "audience": "Compradores en Bucaramanga que buscan tortas, postres, porciones y celebraciones con entrega o compra rapida.",
+      "adAngle": "Torta correcta para la ocasion + compra guiada + seguimiento",
+      "whatsappCta": "Quiero recuperar mas carritos y pedidos",
+      "heroCopy": "Tener ecommerce ayuda, pero la conversion se pierde cuando el cliente no sabe que tamano elegir o si alcanza para su ocasion.",
+      "brandWorldTitle": "De catalogo a compra decidida",
+      "diagnosisTitle": "Fugas en porciones, carrito y ocasion",
+      "botAgentName": "Asesora Glasse demo",
+      "botAgentRole": "recomienda tortas y postres",
+      "botTitle": "Asesora digital para ecommerce de pasteleria",
+      "botIntro": "El demo recomienda por ocasion, porciones, sabor, fecha y entrega antes de carrito o WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de Glasse. Te ayudo a elegir torta o postre segun ocasion y porciones.",
+      "botPrompts": [
+        "Cumpleanos",
+        "8-10 porciones",
+        "Postres",
+        "Entrega",
+        "Carrito"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "porciones",
+            "personas",
+            "cumple"
+          ],
+          "answer": "Preguntaria numero de personas, ocasion y fecha para sugerir una categoria antes de enviar al producto."
+        },
+        {
+          "keywords": [
+            "postre",
+            "torta"
+          ],
+          "answer": "Filtraria antojo, tamano y presupuesto para llevar al cliente a una opcion concreta."
+        },
+        {
+          "keywords": [
+            "carrito",
+            "pagar",
+            "whatsapp"
+          ],
+          "answer": "Si hay duda antes de pagar, pasaria a WhatsApp con producto, porciones y fecha ya capturados."
+        }
+      ],
+      "findings": [
+        "El ecommerce muestra categorias y productos con precios visibles.",
+        "Las porciones son una variable clave para decidir.",
+        "Hay oportunidad de asistente y remarketing para visitantes sin compra."
+      ],
+      "siteIssues": [
+        "El catalogo puede generar indecision si la persona no sabe que tamano necesita.",
+        "Sin asesor, WhatsApp no recibe el contexto del producto visto.",
+        "La pauta debe diferenciar vistas de producto, agregar al carrito y compra."
+      ],
+      "losses": [
+        "Visitantes listos para comprar abandonan por duda de tamano o entrega.",
+        "El equipo responde preguntas que el sitio podria filtrar automaticamente.",
+        "Carritos o vistas de producto no siempre reciben seguimiento comercial."
+      ],
+      "heatmapData": [
+        "Clics por categoria, producto, porciones, carrito y WhatsApp.",
+        "Abandono en ficha de producto o checkout.",
+        "Productos con alta visita y baja compra."
+      ],
+      "campaigns": [
+        "Campana por cumpleanos y tortas por porciones.",
+        "Remarketing a vistas de producto sin compra.",
+        "Flujo de WhatsApp para dudas de porciones y entrega."
+      ],
+      "deliverables": [
+        "Asesor de compra sobre ecommerce actual por ocasion y porciones.",
+        "Eventos de conversion: producto, carrito, WhatsApp, compra y recuperacion.",
+        "Panel de productos con interes, fuga y accion siguiente."
+      ],
+      "sources": [
+        "https://glassepasteleria.com/",
+        "https://www.instagram.com/glassepasteleria/"
+      ]
+    },
+    {
+      "slug": "flores-y-canastos-medellin",
+      "company": "Flores y Canastos",
+      "instagram": "@floresycanastos",
+      "sector": "floristeria y domicilios",
+      "city": "Medellin",
+      "tone": "emotivo, rapido y confiable",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#DD5E8A",
+      "secondary": "#62B77B",
+      "status": "Web actual + Instagram + WhatsApp",
+      "leadProblem": "Flores y Canastos compite en una compra urgente y emocional. Aunque la web existe, la fuga probable esta en elegir arreglo, ocasion, presupuesto, dedicatoria, direccion y hora sin que el cliente se canse.",
+      "opportunity": "Mejorar la web actual con asesor digital de regalos que filtre ocasion, presupuesto, zona, hora de entrega y mensaje, conectando pauta y WhatsApp con datos listos.",
+      "proofLine": "Lectura publica del 20 de julio de 2026: floresycanastos.com se presenta como floristeria de flores a domicilio en Medellin. Busqueda publica relaciona Instagram @floresycanastos, WhatsApp y entrega el mismo dia en Medellin y area metropolitana.",
+      "audience": "Personas en Medellin que compran flores para cumpleanos, amor, condolencias, agradecimientos o regalos de ultima hora.",
+      "adAngle": "Flores para hoy + recomendacion por ocasion + WhatsApp listo",
+      "whatsappCta": "Quiero vender mas arreglos desde pauta",
+      "heroCopy": "En flores, la conversion se enfria por minutos: si el cliente no resuelve ocasion, presupuesto y entrega rapido, compra en otra floristeria.",
+      "brandWorldTitle": "De urgencia emocional a pedido claro",
+      "diagnosisTitle": "Fugas en ocasion, direccion y horario",
+      "botAgentName": "Asesora Flores demo",
+      "botAgentRole": "arma pedidos de flores",
+      "botTitle": "Asesora digital para regalos florales",
+      "botIntro": "El demo pregunta ocasion, presupuesto, zona, hora, dedicatoria y estilo antes de WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de Flores y Canastos. Te ayudo a elegir flores segun ocasion, presupuesto y entrega.",
+      "botPrompts": [
+        "Cumpleanos",
+        "Amor",
+        "Condolencias",
+        "Hoy",
+        "Dedicatoria"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cumple",
+            "amor",
+            "condolencias"
+          ],
+          "answer": "Pediria ocasion, tono del mensaje y presupuesto para sugerir una ruta de arreglo adecuada."
+        },
+        {
+          "keywords": [
+            "hoy",
+            "entrega",
+            "domicilio"
+          ],
+          "answer": "Capturaria barrio, hora deseada y datos del destinatario para validar disponibilidad con el equipo."
+        },
+        {
+          "keywords": [
+            "dedicatoria",
+            "mensaje"
+          ],
+          "answer": "Ayudaria a redactar una dedicatoria corta y la pasaria junto al pedido por WhatsApp."
+        }
+      ],
+      "findings": [
+        "La web posiciona flores a domicilio en Medellin.",
+        "El canal de WhatsApp aparece como pieza comercial importante.",
+        "La compra tiene urgencia y alta sensibilidad por ocasion y horario."
+      ],
+      "siteIssues": [
+        "El cliente puede no saber que arreglo elegir segun ocasion.",
+        "WhatsApp sin formulario deja datos criticos dispersos: direccion, hora y dedicatoria.",
+        "La pauta requiere medir pedidos por ocasion y zona, no solo clics."
+      ],
+      "losses": [
+        "Compras de ultimo minuto se pierden si la respuesta no es inmediata.",
+        "Errores en datos de entrega pueden generar friccion operativa.",
+        "Sin seguimiento, fechas recurrentes no se convierten en recompra."
+      ],
+      "heatmapData": [
+        "Clics por ocasion, presupuesto, entrega hoy, dedicatoria y WhatsApp.",
+        "Abandono antes de dejar direccion u hora.",
+        "Zonas y ocasiones con mayor intencion."
+      ],
+      "campaigns": [
+        "Campanas por ocasion: cumpleanos, amor, condolencias y gracias.",
+        "Anuncios de entrega el mismo dia con ruta a asesor digital.",
+        "Remarketing y recordatorios para fechas especiales."
+      ],
+      "deliverables": [
+        "Optimizar web actual con asesor de regalo y formulario de entrega.",
+        "Asesora digital para ocasion, presupuesto, dedicatoria, zona y hora.",
+        "Panel de pedidos por ocasion, zona, fuente y estado."
+      ],
+      "sources": [
+        "https://floresycanastos.com/",
+        "https://www.instagram.com/floresycanastos/"
+      ]
+    },
+    {
+      "slug": "joyeria-dore-cali",
+      "company": "Joyeria Dore",
+      "instagram": "@joyeriadore18k",
+      "sector": "joyeria y tienda online",
+      "city": "Cali",
+      "tone": "elegante, comercial y confiable",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#D6A84A",
+      "secondary": "#2F8E8A",
+      "status": "Tienda online + Instagram + WhatsApp",
+      "leadProblem": "La tienda muestra categorias de oro laminado 18K. La fuga probable esta en dudas antes de comprar: material, garantia, talla, disponibilidad, envio, regalo y cuidado de la pieza.",
+      "opportunity": "Mejorar la conversion de la tienda actual con asesor digital de joyeria que filtre ocasion, presupuesto, tipo de pieza y dudas de garantia antes de carrito o WhatsApp.",
+      "proofLine": "Lectura publica del 20 de julio de 2026: joyeriadore.com muestra categorias como cadenas, dijes, candongas, topos, tobilleras y anillos de oro laminado 18K. Busqueda publica relaciona Instagram @joyeriadore18k y WhatsApp.",
+      "audience": "Compradoras en Cali y Colombia que buscan joyeria en oro laminado 18K para uso diario, regalo o detalle especial.",
+      "adAngle": "Joya para regalo + confianza en material + compra guiada",
+      "whatsappCta": "Quiero convertir mas visitas en compras",
+      "heroCopy": "En joyeria online, la compra se frena cuando el cliente no confirma material, garantia, talla o si la pieza sirve para regalo.",
+      "brandWorldTitle": "De vitrina a compra con confianza",
+      "diagnosisTitle": "Fugas en material, talla y garantia",
+      "botAgentName": "Asesora Dore demo",
+      "botAgentRole": "recomienda piezas y regalos",
+      "botTitle": "Asesora digital para joyeria online",
+      "botIntro": "El demo pregunta ocasion, tipo de pieza, presupuesto, talla y envio antes de carrito o WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de Joyeria Dore. Te ayudo a elegir pieza segun ocasion, presupuesto y dudas de compra.",
+      "botPrompts": [
+        "Regalo",
+        "Cadenas",
+        "Anillos",
+        "Garantia",
+        "Envio"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "regalo",
+            "cumple",
+            "detalle"
+          ],
+          "answer": "Pediria ocasion, presupuesto y estilo de la persona para recomendar categoria y pasar opciones."
+        },
+        {
+          "keywords": [
+            "anillo",
+            "talla"
+          ],
+          "answer": "Solicitaria talla o referencia disponible y dejaria la consulta lista para confirmacion de inventario."
+        },
+        {
+          "keywords": [
+            "garantia",
+            "material",
+            "oro"
+          ],
+          "answer": "Responderia con la informacion publica del material y pasaria dudas especificas de garantia al equipo."
+        }
+      ],
+      "findings": [
+        "La tienda tiene categorias claras de joyeria en oro laminado 18K.",
+        "El material y la garantia son claves para confianza antes de pago.",
+        "Instagram puede inspirar, pero la tienda debe cerrar con contexto."
+      ],
+      "siteIssues": [
+        "La compradora puede abandonar si no resuelve material, cuidado o talla.",
+        "WhatsApp sin contexto no sabe que pieza miro la persona.",
+        "La pauta necesita medir categoria vista, carrito, WhatsApp y compra."
+      ],
+      "losses": [
+        "Compras de regalo se pierden si no hay recomendacion rapida.",
+        "Dudas repetidas sobre material y envio consumen equipo.",
+        "Sin remarketing, visitantes de categorias no reciben seguimiento."
+      ],
+      "heatmapData": [
+        "Clics por cadenas, dijes, anillos, garantia, envio y carrito.",
+        "Abandono en ficha de producto.",
+        "Categorias con alta visita y baja compra."
+      ],
+      "campaigns": [
+        "Campana de regalos por ocasion y presupuesto.",
+        "Remarketing a visitantes de categorias sin compra.",
+        "Flujo WhatsApp para material, talla, envio y cierre."
+      ],
+      "deliverables": [
+        "Asesor de compra integrado a tienda actual por ocasion y categoria.",
+        "Eventos de conversion para producto, carrito, WhatsApp y compra.",
+        "Panel de oportunidades por pieza, fuente, etapa y objecion."
+      ],
+      "sources": [
+        "https://joyeriadore.com/",
+        "https://www.instagram.com/joyeriadore18k/"
+      ]
+    },
+    {
+      "slug": "bobadilla-restaurante-pereira",
+      "company": "Bobadilla Carne y Parrilla",
+      "instagram": "@bobadillarestaurante",
+      "sector": "restaurante de carnes y parrilla",
+      "city": "Pereira",
+      "tone": "familiar, premium y directo",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#B9502C",
+      "secondary": "#E2B44C",
+      "status": "Web de reservas + Instagram + WhatsApp",
+      "leadProblem": "Bobadilla ya tiene pagina de reservas por WhatsApp. La fuga probable esta en que el cliente llega desde pauta o Instagram sin indicar fecha, hora, numero de personas, ocasion o restricciones, y el equipo debe completar todo manualmente.",
+      "opportunity": "Mejorar la pagina de reservas con asistente digital que capture datos de mesa, ocasion y urgencia, y active seguimiento para fines de semana, fechas especiales o visitantes que no reservaron.",
+      "proofLine": "Lectura publica del 20 de julio de 2026: bobadillarestaurante.com/reservas presenta reservas para parrilla de carnes en Pereira, asado paraguayo premium, atencion familiar, ubicacion central y reserva por WhatsApp en 1 minuto.",
+      "audience": "Parejas, familias, grupos y empresas en Pereira que buscan parrilla, celebraciones, almuerzos o cenas con reserva.",
+      "adAngle": "Mesa lista + carne premium + reserva por WhatsApp sin friccion",
+      "whatsappCta": "Quiero llenar mas mesas con reservas",
+      "heroCopy": "En restaurantes, el interes se enfria rapido: la reserva debe capturar fecha, hora y personas antes de que el cliente siga comparando.",
+      "brandWorldTitle": "De antojo a mesa confirmada",
+      "diagnosisTitle": "Fugas en fecha, grupo y confirmacion",
+      "botAgentName": "Anfitriona Bobadilla demo",
+      "botAgentRole": "prepara reservas por WhatsApp",
+      "botTitle": "Asesor digital para reservas de restaurante",
+      "botIntro": "El demo pregunta fecha, hora, numero de personas, ocasion y datos de contacto antes de WhatsApp.",
+      "botOpening": "Hola, soy la anfitriona demo de Bobadilla. Te ayudo a preparar tu reserva con fecha, hora y numero de personas.",
+      "botPrompts": [
+        "Reserva hoy",
+        "Fin de semana",
+        "Cumpleanos",
+        "Grupo",
+        "Ubicacion"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "reserva",
+            "hoy",
+            "mesa"
+          ],
+          "answer": "Pediria fecha, hora, personas y nombre para pasar la solicitud a WhatsApp con contexto."
+        },
+        {
+          "keywords": [
+            "cumple",
+            "ocasion",
+            "grupo"
+          ],
+          "answer": "Capturaria ocasion, numero de personas y preferencias para que el equipo prepare la experiencia."
+        },
+        {
+          "keywords": [
+            "ubicacion",
+            "llegar"
+          ],
+          "answer": "Mostraria la ruta desde la pagina y dejaria el dato junto a la reserva para evitar friccion."
+        }
+      ],
+      "findings": [
+        "La pagina de reservas ya tiene propuesta clara y CTA a WhatsApp.",
+        "El mensaje comercial combina carne premium, atencion familiar y ubicacion central.",
+        "La oportunidad esta en que WhatsApp reciba reservas completas y medibles."
+      ],
+      "siteIssues": [
+        "El CTA actual puede iniciar conversaciones sin fecha, hora o personas.",
+        "No se evidencia seguimiento automatico para visitantes que no reservaron.",
+        "La pauta debe medir reservas solicitadas, confirmadas y fechas de alta demanda."
+      ],
+      "losses": [
+        "Personas buscando mesa para hoy pueden irse si la confirmacion tarda.",
+        "El equipo repite preguntas basicas antes de confirmar.",
+        "Fechas de partido, fin de semana o celebraciones no se explotan con remarketing."
+      ],
+      "heatmapData": [
+        "Clics por reserva, menu, ubicacion, WhatsApp y horarios.",
+        "Abandono antes de enviar datos de mesa.",
+        "Dias y ocasiones con mayor intencion."
+      ],
+      "campaigns": [
+        "Campana de reservas para fin de semana y celebraciones.",
+        "Remarketing a visitantes de reservas sin WhatsApp.",
+        "Flujo de confirmacion y seguimiento por fecha."
+      ],
+      "deliverables": [
+        "Optimizar pagina de reservas con formulario previo a WhatsApp.",
+        "Anfitriona digital para fecha, hora, personas, ocasion y seguimiento.",
+        "Panel de reservas por fuente, fecha, estado y proxima accion."
+      ],
+      "sources": [
+        "https://bobadillarestaurante.com/reservas/",
+        "https://www.instagram.com/bobadillarestaurante/"
+      ]
     }
   ]
 }
