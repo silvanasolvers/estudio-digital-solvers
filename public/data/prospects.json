@@ -35600,6 +35600,946 @@
         "https://bobadillarestaurante.com/reservas/",
         "https://www.instagram.com/bobadillarestaurante/"
       ]
+    },
+    {
+      "slug": "cemetri-cali",
+      "company": "CEMETRI",
+      "instagram": "@cemetri.co",
+      "sector": "medicina estetica y tricologia",
+      "city": "Cali",
+      "tone": "clinico, claro y confiable",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#5AA7A5",
+      "secondary": "#D7A94C",
+      "status": "Web actual + agenda + Instagram",
+      "leadProblem": "CEMETRI comunica medicina estetica, tricologia, piel, laser y cirugia en Cali. La fuga probable esta en que cada interes requiere contexto clinico, expectativas, procedimiento, agenda y seguimiento antes de separar una valoracion.",
+      "opportunity": "Mejorar conversion de la web actual con asesor digital que filtre motivo de consulta, zona del cuerpo o cabello, etapa de decision y disponibilidad para agenda, sin prometer resultados medicos.",
+      "proofLine": "Lectura publica del 21 de julio de 2026: cemetri.co presenta CEMETRI como centro de medicina estetica y tricologia en Cali, con lineas de tricologia, piel, laser y cirugia. La web enlaza Instagram @cemetri.co.",
+      "audience": "Personas en Cali que buscan valoracion para piel, cabello, laser, medicina estetica o procedimientos quirurgicos.",
+      "adAngle": "Valoracion guiada + dudas resueltas + agenda con contexto",
+      "whatsappCta": "Quiero convertir mas valoraciones",
+      "heroCopy": "En medicina estetica, el lead se enfria cuando la persona no entiende que tratamiento aplica, cuanto tarda la respuesta o que debe preguntar antes de agendar.",
+      "brandWorldTitle": "De interes estetico a valoracion preparada",
+      "diagnosisTitle": "Fugas en dudas, agenda y seguimiento",
+      "botAgentName": "Asesora CEMETRI demo",
+      "botAgentRole": "prepara valoraciones esteticas",
+      "botTitle": "Asesora digital para medicina estetica",
+      "botIntro": "El demo pregunta motivo de consulta, zona, procedimiento de interes, disponibilidad y datos basicos antes de WhatsApp o agenda.",
+      "botOpening": "Hola, soy la asesora demo de CEMETRI. Te ayudo a preparar tu valoracion segun tu motivo de consulta.",
+      "botPrompts": [
+        "Piel",
+        "Cabello",
+        "Laser",
+        "Cirugia",
+        "Agendar"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "piel",
+            "manchas",
+            "acne"
+          ],
+          "answer": "Pediria motivo de consulta, tiempo de evolucion y disponibilidad para que el equipo defina la valoracion adecuada."
+        },
+        {
+          "keywords": [
+            "cabello",
+            "tricologia",
+            "caida"
+          ],
+          "answer": "Separaria casos de caida, fortalecimiento o diagnostico capilar y dejaria la solicitud lista para agenda."
+        },
+        {
+          "keywords": [
+            "agenda",
+            "cita",
+            "valoracion"
+          ],
+          "answer": "Tomaria nombre, telefono, horario ideal y procedimiento de interes antes de pasar a WhatsApp."
+        }
+      ],
+      "findings": [
+        "La web posiciona varias lineas de medicina estetica y tricologia.",
+        "El enlace oficial a Instagram permite conectar contenido social con agenda.",
+        "La decision requiere confianza, contexto y seguimiento antes de cita."
+      ],
+      "siteIssues": [
+        "El visitante puede no saber que linea de servicio corresponde a su caso.",
+        "WhatsApp sin contexto obliga a repetir preguntas clinicas y comerciales.",
+        "La pauta necesita medir valoraciones solicitadas, no solo clics."
+      ],
+      "losses": [
+        "Interesados de pauta pueden abandonar si no reciben orientacion inmediata.",
+        "Preguntas repetidas consumen tiempo del equipo de agenda.",
+        "Sin seguimiento, consultas de alto valor quedan frias despues del primer contacto."
+      ],
+      "heatmapData": [
+        "Clics por servicio: tricologia, piel, laser, cirugia y agenda.",
+        "Abandono antes de dejar datos.",
+        "Origen de leads por campana, servicio y etapa."
+      ],
+      "campaigns": [
+        "Campana por valoraciones de piel, cabello y laser.",
+        "Remarketing a visitantes por servicio visto sin agenda.",
+        "Flujo WhatsApp con preguntas previas y recordatorio de cita."
+      ],
+      "deliverables": [
+        "Optimizar web actual con rutas de servicio y CTAs por valoracion.",
+        "Asesora digital para motivo de consulta, datos, agenda y seguimiento.",
+        "Panel de leads por servicio, fuente, estado y proxima accion."
+      ],
+      "sources": [
+        "https://cemetri.co/",
+        "https://www.instagram.com/cemetri.co/"
+      ]
+    },
+    {
+      "slug": "medical-art-bogota",
+      "company": "Medical Art",
+      "instagram": "@medicalartclinic",
+      "sector": "medicina estetica dermatologia y laser",
+      "city": "Bogota",
+      "tone": "profesional, premium y seguro",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#3A8FA2",
+      "secondary": "#CFAE65",
+      "status": "Web actual + telefonos + Instagram",
+      "leadProblem": "Medical Art comunica medicina estetica, dermatologia, tecnologia laser y multiples tratamientos. La fuga probable esta en convertir trafico interesado en una valoracion concreta con datos, procedimiento, objeciones y horario.",
+      "opportunity": "Mejorar la web actual con asesor digital de prevaloracion comercial que organice dudas frecuentes, capture datos y derive a WhatsApp o agenda con contexto.",
+      "proofLine": "Lectura publica del 21 de julio de 2026: medicalart.co presenta Medical Art Medicina Estetica en Bogota, tratamientos esteticos, tecnologia laser, dermatologia y telefonos de contacto. La web enlaza Instagram @medicalartclinic.",
+      "audience": "Personas en Bogota interesadas en dermatologia, laser, rejuvenecimiento facial, inyectables o tratamientos esteticos.",
+      "adAngle": "Tratamiento correcto + confianza + cita con datos completos",
+      "whatsappCta": "Quiero ordenar mis leads de valoracion",
+      "heroCopy": "Cuando hay muchos tratamientos, el cliente no abandona por falta de interes: abandona porque no sabe cual pedir ni cuanto contexto entregar.",
+      "brandWorldTitle": "De visita curiosa a cita calificada",
+      "diagnosisTitle": "Fugas en servicio, objeciones y agenda",
+      "botAgentName": "Asesora Medical Art demo",
+      "botAgentRole": "califica consultas esteticas",
+      "botTitle": "Asesora digital para valoraciones esteticas",
+      "botIntro": "El demo clasifica interes por dermatologia, laser, facial o corporal y captura datos antes de enviar al equipo.",
+      "botOpening": "Hola, soy la asesora demo de Medical Art. Te ayudo a orientar tu consulta y dejar lista una solicitud de valoracion.",
+      "botPrompts": [
+        "Laser",
+        "Dermatologia",
+        "Facial",
+        "Inyectables",
+        "Cita"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "laser",
+            "fotona",
+            "morpheus"
+          ],
+          "answer": "Preguntaria objetivo, zona y si busca valoracion presencial para que el equipo confirme tecnologia y disponibilidad."
+        },
+        {
+          "keywords": [
+            "dermatologia",
+            "acne",
+            "melasma"
+          ],
+          "answer": "Diferenciaria motivo dermatologico y dejaria claro que la recomendacion final corresponde al profesional."
+        },
+        {
+          "keywords": [
+            "cita",
+            "agenda",
+            "precio"
+          ],
+          "answer": "Capturaria nombre, telefono, procedimiento de interes y horario para continuar por WhatsApp."
+        }
+      ],
+      "findings": [
+        "La web muestra varias categorias de tratamientos y contacto telefonico.",
+        "El Instagram oficial esta enlazado desde el sitio.",
+        "La amplitud del portafolio exige guiar al visitante antes de la agenda."
+      ],
+      "siteIssues": [
+        "El usuario puede perderse entre muchas opciones de tratamiento.",
+        "Los telefonos y WhatsApp pueden recibir conversaciones sin contexto.",
+        "No todos los visitantes de servicios de alto valor quedan en seguimiento."
+      ],
+      "losses": [
+        "Pauta de tratamientos premium puede generar clics que no llegan a cita.",
+        "El equipo comercial repite preguntas basicas de calificacion.",
+        "Sin trazabilidad, cuesta saber que servicio convierte mejor."
+      ],
+      "heatmapData": [
+        "Clics por tecnologia, tratamiento, telefono, Instagram y agenda.",
+        "Abandono por pagina de servicio.",
+        "Servicios con mas intencion y menor contacto."
+      ],
+      "campaigns": [
+        "Campanas por tecnologia y objetivo estetico.",
+        "Remarketing a visitantes de tratamientos sin cita.",
+        "Flujo de WhatsApp para objeciones, datos y recordatorio."
+      ],
+      "deliverables": [
+        "Asesor integrado a la web para clasificar servicio y urgencia.",
+        "Eventos de conversion: tratamiento visto, contacto, WhatsApp y cita.",
+        "Panel de oportunidades por servicio, fuente, estado y asesor."
+      ],
+      "sources": [
+        "https://medicalart.co/",
+        "https://www.instagram.com/medicalartclinic/"
+      ]
+    },
+    {
+      "slug": "ethernia-envigado",
+      "company": "Ethernia",
+      "instagram": "@ethernia_salud1",
+      "sector": "medicina estetica longevidad y bienestar",
+      "city": "Envigado",
+      "tone": "bienestar, moderno y cercano",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#8B6FB8",
+      "secondary": "#63B7A1",
+      "status": "Web actual + portafolio amplio + Instagram",
+      "leadProblem": "Ethernia ofrece medicina estetica, longevidad, nutriologia, medicina funcional, paquetes faciales, corporales y cirugia. La fuga probable esta en que el usuario no sabe por donde empezar y deja la agenda para despues.",
+      "opportunity": "Mejorar conversion de la web actual con asesor digital que ordene intereses por bienestar, estetica facial, corporal o cirugia y convierta dudas en citas calificadas.",
+      "proofLine": "Lectura publica del 21 de julio de 2026: ethernia.com.co describe Ethernia como centro de medicina estetica y longevidad, con servicios de medicina estetica, nutriologia, medicina funcional, facial, corporal y cirugia. La web enlaza Instagram @ethernia_salud1.",
+      "audience": "Personas en Envigado y Medellin que buscan tratamientos esteticos, bienestar, longevidad o valoracion corporal y facial.",
+      "adAngle": "Ruta de bienestar + valoracion guiada + seguimiento",
+      "whatsappCta": "Quiero que mis consultas lleguen calificadas",
+      "heroCopy": "Un portafolio amplio vende mas cuando el visitante encuentra una ruta sencilla: que quiero mejorar, que opciones existen y como agendo.",
+      "brandWorldTitle": "De interes disperso a ruta de tratamiento",
+      "diagnosisTitle": "Fugas por exceso de opciones",
+      "botAgentName": "Asesora Ethernia demo",
+      "botAgentRole": "orienta rutas de bienestar",
+      "botTitle": "Asesora digital para estetica y longevidad",
+      "botIntro": "El demo pregunta objetivo, categoria, prioridad, horario y datos basicos antes de WhatsApp o agenda.",
+      "botOpening": "Hola, soy la asesora demo de Ethernia. Te ayudo a elegir una ruta inicial segun tu objetivo de bienestar o estetica.",
+      "botPrompts": [
+        "Facial",
+        "Corporal",
+        "Longevidad",
+        "Cirugia",
+        "Agendar"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "facial",
+            "botulinica",
+            "hialuronico"
+          ],
+          "answer": "Clasificaria el interes facial y capturaria expectativas para una valoracion responsable."
+        },
+        {
+          "keywords": [
+            "longevidad",
+            "nutriologia",
+            "funcional"
+          ],
+          "answer": "Preguntaria objetivo de bienestar y disponibilidad para guiar la consulta inicial."
+        },
+        {
+          "keywords": [
+            "agenda",
+            "cita",
+            "precio"
+          ],
+          "answer": "Tomaria datos basicos y procedimiento de interes para que WhatsApp no empiece desde cero."
+        }
+      ],
+      "findings": [
+        "La web comunica un portafolio amplio de estetica y longevidad.",
+        "El perfil de Instagram esta enlazado desde el sitio.",
+        "La oportunidad es ordenar el interes antes del contacto humano."
+      ],
+      "siteIssues": [
+        "Muchas categorias pueden diluir la decision de agenda.",
+        "El usuario puede preguntar precio sin explicar objetivo o condicion.",
+        "La pauta requiere segmentar por servicio, intencion y etapa."
+      ],
+      "losses": [
+        "Leads interesados se enfrian al comparar demasiadas alternativas.",
+        "El equipo recibe mensajes incompletos y debe calificar manualmente.",
+        "Sin remarketing, visitantes de paquetes no vuelven a agenda."
+      ],
+      "heatmapData": [
+        "Clics por facial, corporal, longevidad, cirugia y agenda.",
+        "Abandono por categoria.",
+        "Rutas de servicio con mayor interes."
+      ],
+      "campaigns": [
+        "Campana por objetivo: facial, corporal o bienestar.",
+        "Remarketing a visitantes por categoria sin cita.",
+        "Flujo de WhatsApp con datos y recordatorio de valoracion."
+      ],
+      "deliverables": [
+        "Rutas de conversion por categoria dentro de la web actual.",
+        "Asesora digital para objetivo, servicio, datos y agenda.",
+        "Panel de leads por servicio, fuente, estado y seguimiento."
+      ],
+      "sources": [
+        "https://www.ethernia.com.co/",
+        "https://www.instagram.com/ethernia_salud1/"
+      ]
+    },
+    {
+      "slug": "andrea-ortiz-estetica-bogota",
+      "company": "Andrea Ortiz Estetica",
+      "instagram": "@andreaortizestetica",
+      "sector": "medicina estetica facial y corporal",
+      "city": "Bogota",
+      "tone": "experto, cercano y practico",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#B86A8B",
+      "secondary": "#71A7C9",
+      "status": "Web actual + contacto + Instagram",
+      "leadProblem": "La web presenta tratamientos de medicina estetica facial y corporal en Bogota, con contacto telefonico y direccion. La fuga probable esta en que el sitio puede recibir interes, pero no convierte cada duda en una cita trazable.",
+      "opportunity": "Mejorar conversion de la web actual con formulario y asesor digital que capture tratamiento de interes, objetivo, horario y datos antes de WhatsApp o llamada.",
+      "proofLine": "Lectura publica del 21 de julio de 2026: andreaortiz.com.co presenta medicina estetica, facial y corporal en Bogota, tratamientos antiedad, micropigmentacion y contacto telefonico. La web enlaza Instagram @andreaortizestetica.",
+      "audience": "Personas en Bogota interesadas en tratamientos antiedad, micropigmentacion, correcciones esteticas y servicios faciales o corporales.",
+      "adAngle": "Consulta estetica clara + datos completos + agenda corta",
+      "whatsappCta": "Quiero convertir mas consultas en citas",
+      "heroCopy": "Cuando el sitio informa tratamientos pero no captura intencion, los interesados terminan llamando sin contexto o se van a comparar otra opcion.",
+      "brandWorldTitle": "De duda estetica a cita ordenada",
+      "diagnosisTitle": "Fugas en contacto y trazabilidad",
+      "botAgentName": "Asesora Andrea Ortiz demo",
+      "botAgentRole": "prepara consultas esteticas",
+      "botTitle": "Asesora digital para tratamientos esteticos",
+      "botIntro": "El demo pregunta tratamiento, objetivo, zona, disponibilidad y datos para que la cita llegue con contexto.",
+      "botOpening": "Hola, soy la asesora demo de Andrea Ortiz Estetica. Te ayudo a dejar lista tu consulta antes de agendar.",
+      "botPrompts": [
+        "Antiedad",
+        "Cejas",
+        "Facial",
+        "Corporal",
+        "Cita"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "antiedad",
+            "hialuronico",
+            "hilos"
+          ],
+          "answer": "Preguntaria objetivo y zona de interes para orientar la solicitud hacia una valoracion profesional."
+        },
+        {
+          "keywords": [
+            "cejas",
+            "micropigmentacion",
+            "labios"
+          ],
+          "answer": "Capturaria el servicio de micropigmentacion y si busca correccion, primera vez o retoque."
+        },
+        {
+          "keywords": [
+            "cita",
+            "agenda",
+            "llamar"
+          ],
+          "answer": "Tomaria datos y horario ideal para pasar a WhatsApp o llamada con la consulta lista."
+        }
+      ],
+      "findings": [
+        "La web comunica tratamientos esteticos faciales y corporales.",
+        "Muestra datos de contacto y direccion en Bogota.",
+        "Instagram esta enlazado como canal social verificable."
+      ],
+      "siteIssues": [
+        "La llamada directa no deja datos estructurados para seguimiento.",
+        "El visitante puede no saber que tratamiento corresponde a su objetivo.",
+        "No se evidencia una ruta clara para recuperar interesados no agendados."
+      ],
+      "losses": [
+        "Consultas de valor se pierden si no contestan en el momento.",
+        "El equipo debe reconstruir contexto manualmente.",
+        "Sin medicion, la pauta no aprende que tratamientos generan citas reales."
+      ],
+      "heatmapData": [
+        "Clics por tratamiento, telefono, Instagram y formulario.",
+        "Abandono antes de contacto.",
+        "Servicios mas consultados por fuente."
+      ],
+      "campaigns": [
+        "Campana por tratamiento y objetivo estetico.",
+        "Remarketing a visitantes de servicios sin cita.",
+        "Flujo de seguimiento para dudas y disponibilidad."
+      ],
+      "deliverables": [
+        "Formulario de valoracion conectado a WhatsApp y panel.",
+        "Asesora digital para clasificar tratamiento, objetivo y agenda.",
+        "Medicion de conversion por tratamiento y fuente."
+      ],
+      "sources": [
+        "https://andreaortiz.com.co/",
+        "https://www.instagram.com/andreaortizestetica/"
+      ]
+    },
+    {
+      "slug": "gioielli-joyeros-bogota",
+      "company": "Gioielli Joyeros",
+      "instagram": "@gioiellijoyeros",
+      "sector": "joyeria personalizada en oro y plata",
+      "city": "Bogota",
+      "tone": "elegante, artesanal y confiable",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#D5A03B",
+      "secondary": "#6E9FC1",
+      "status": "Tienda online + catalogo + Instagram",
+      "leadProblem": "Gioielli vende joyeria personalizada en oro 18k y plata 925 con envios. La fuga probable esta en dudas de material, talla, personalizacion, tiempos, garantia y regalo antes de pagar o cotizar.",
+      "opportunity": "Mejorar conversion de la tienda actual con asesor digital de joyeria que recomiende por ocasion, pieza, presupuesto y personalizacion, y deje WhatsApp con contexto.",
+      "proofLine": "Lectura publica del 21 de julio de 2026: gioielli.co presenta joyeria personalizada en oro 18k y plata 925, catalogo de aretes, cadenas, dijes y envios a Colombia y el mundo. La web enlaza Instagram @gioiellijoyeros.",
+      "audience": "Compradores en Colombia que buscan joyas personalizadas, regalos, anillos, aretes, cadenas o piezas en oro y plata.",
+      "adAngle": "Joya personalizada + confianza en material + cotizacion guiada",
+      "whatsappCta": "Quiero vender mas joyas con asesoria",
+      "heroCopy": "En joyeria, la inspiracion no basta: el cliente necesita confirmar material, talla, personalizacion y tiempos antes de comprometerse.",
+      "brandWorldTitle": "De vitrina a compra con confianza",
+      "diagnosisTitle": "Fugas en material, talla y personalizacion",
+      "botAgentName": "Asesora Gioielli demo",
+      "botAgentRole": "recomienda joyas y cotizaciones",
+      "botTitle": "Asesora digital para joyeria personalizada",
+      "botIntro": "El demo pregunta ocasion, tipo de pieza, material, presupuesto, talla y fecha de entrega antes de carrito o WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de Gioielli. Te ayudo a elegir o cotizar una joya segun ocasion, material y presupuesto.",
+      "botPrompts": [
+        "Regalo",
+        "Oro 18k",
+        "Plata 925",
+        "Personalizar",
+        "Envio"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "personalizar",
+            "nombre",
+            "diseno"
+          ],
+          "answer": "Pediria referencia, material, fecha ideal y presupuesto para dejar una cotizacion lista."
+        },
+        {
+          "keywords": [
+            "oro",
+            "plata",
+            "material"
+          ],
+          "answer": "Separaria interes por oro 18k o plata 925 y pasaria dudas de garantia al equipo."
+        },
+        {
+          "keywords": [
+            "regalo",
+            "envio",
+            "talla"
+          ],
+          "answer": "Preguntaria ocasion, ciudad, fecha y talla si aplica para evitar ida y vuelta."
+        }
+      ],
+      "findings": [
+        "La web comunica joyeria personalizada y materiales especificos.",
+        "El catalogo tiene categorias que pueden alimentar pauta y remarketing.",
+        "Las decisiones de regalo y personalizacion requieren asesoria rapida."
+      ],
+      "siteIssues": [
+        "El cliente puede abandonar si no entiende tiempos o personalizacion.",
+        "WhatsApp sin datos obliga a preguntar pieza, material y presupuesto desde cero.",
+        "La pauta necesita diferenciar producto visto, cotizacion y compra."
+      ],
+      "losses": [
+        "Cotizaciones de alto valor se enfrian por falta de respuesta inmediata.",
+        "Compras de regalo pueden irse si no resuelven fecha y envio.",
+        "Sin seguimiento, visitantes de categorias premium no vuelven."
+      ],
+      "heatmapData": [
+        "Clics por material, categoria, personalizacion, carrito y WhatsApp.",
+        "Abandono en producto o cotizacion.",
+        "Piezas con alta intencion y baja compra."
+      ],
+      "campaigns": [
+        "Campana por regalos personalizados y materiales.",
+        "Remarketing a visitantes de oro, plata o personalizacion.",
+        "Flujo WhatsApp para cotizacion, talla, fecha y cierre."
+      ],
+      "deliverables": [
+        "Asesor de compra integrado a tienda actual por ocasion y material.",
+        "Eventos de conversion para producto, carrito, cotizacion y WhatsApp.",
+        "Panel de oportunidades por pieza, fuente, estado y objecion."
+      ],
+      "sources": [
+        "https://gioielli.co/",
+        "https://www.instagram.com/gioiellijoyeros/"
+      ]
+    },
+    {
+      "slug": "joyas-mina-manizales",
+      "company": "Joyas Mina",
+      "instagram": "@joyasmina.co",
+      "sector": "joyeria artesanal oro plata y restauracion",
+      "city": "Manizales",
+      "tone": "artesanal, experto y confiable",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#C98E32",
+      "secondary": "#8CA7B8",
+      "status": "Web actual + showroom + Instagram",
+      "leadProblem": "Joyas Mina comunica joyeria artesanal en oro 18k, plata 925, diseno personalizado, restauracion y envios nacionales. La fuga probable esta en cotizaciones incompletas para diseno, restauracion, regalo o compra online.",
+      "opportunity": "Mejorar conversion de la tienda actual con asesor digital que capture pieza, material, historia de la joya, presupuesto, ciudad y urgencia antes de cotizar.",
+      "proofLine": "Lectura publica del 21 de julio de 2026: joyasmina.com presenta joyeria artesanal en Colombia, showroom en Manizales, mas de 30 anos como orfebres, oro 18k, plata 925, diseno personalizado, restauracion y envios nacionales. La web enlaza Instagram @joyasmina.co.",
+      "audience": "Personas en Manizales y Colombia que buscan joyas artesanales, regalos, restauracion o disenos personalizados.",
+      "adAngle": "Joyeria artesanal + cotizacion clara + seguimiento",
+      "whatsappCta": "Quiero cotizar mejor mis joyas",
+      "heroCopy": "Una joya personalizada no se vende con un clic frio: se vende cuando el cliente logra explicar material, idea, fecha y presupuesto sin friccion.",
+      "brandWorldTitle": "De idea de joya a cotizacion lista",
+      "diagnosisTitle": "Fugas en diseno, restauracion y regalo",
+      "botAgentName": "Asesora Joyas Mina demo",
+      "botAgentRole": "califica compras y restauraciones",
+      "botTitle": "Asesora digital para joyeria artesanal",
+      "botIntro": "El demo pregunta tipo de pieza, material, si es compra o restauracion, fecha y presupuesto antes de WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de Joyas Mina. Te ayudo a preparar una compra, diseno o restauracion con datos claros.",
+      "botPrompts": [
+        "Diseno",
+        "Restauracion",
+        "Oro 18k",
+        "Plata 925",
+        "Regalo"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "diseno",
+            "personalizado",
+            "idea"
+          ],
+          "answer": "Pediria referencia, material, presupuesto y fecha para enviar una solicitud de cotizacion completa."
+        },
+        {
+          "keywords": [
+            "restauracion",
+            "arreglo",
+            "reparar"
+          ],
+          "answer": "Solicitaria tipo de pieza, fotos y ciudad para evaluar la ruta de restauracion con el equipo."
+        },
+        {
+          "keywords": [
+            "regalo",
+            "envio",
+            "showroom"
+          ],
+          "answer": "Preguntaria ocasion, fecha y ciudad para recomendar compra online o visita al showroom."
+        }
+      ],
+      "findings": [
+        "La web comunica experiencia artesanal y showroom en Manizales.",
+        "Incluye oro 18k, plata 925, diseno personalizado y restauracion.",
+        "La personalizacion requiere capturar contexto antes del contacto humano."
+      ],
+      "siteIssues": [
+        "Una solicitud de diseno puede llegar sin referencia, material o presupuesto.",
+        "Restauraciones necesitan fotos y datos antes de cotizar.",
+        "La pauta debe separar compra inmediata de cotizacion artesanal."
+      ],
+      "losses": [
+        "Cotizaciones incompletas alargan el cierre.",
+        "Compradores de regalo comparan si no reciben recomendacion rapida.",
+        "Sin seguimiento, ideas de diseno quedan sin proxima accion."
+      ],
+      "heatmapData": [
+        "Clics por oro, plata, diseno, restauracion, showroom y WhatsApp.",
+        "Abandono antes de cotizacion.",
+        "Solicitudes por material, ciudad y ocasion."
+      ],
+      "campaigns": [
+        "Campana de regalos y disenos personalizados.",
+        "Remarketing a visitantes de restauracion o categorias premium.",
+        "Flujo WhatsApp con referencias, fotos, material y presupuesto."
+      ],
+      "deliverables": [
+        "Asesor de compra y cotizacion para tienda actual.",
+        "Formulario de diseno/restauracion conectado a WhatsApp.",
+        "Panel de oportunidades por tipo de pieza, material, fuente y estado."
+      ],
+      "sources": [
+        "https://www.joyasmina.com/",
+        "https://www.instagram.com/joyasmina.co/"
+      ]
+    },
+    {
+      "slug": "pomppe-studio-bogota",
+      "company": "Pomppe Studio",
+      "instagram": "@pomppestudio",
+      "sector": "muebles en madera maciza",
+      "city": "Bogota",
+      "tone": "diseno, artesanal y premium",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#A86B3F",
+      "secondary": "#6B8F74",
+      "status": "Web actual + proyectos + Instagram",
+      "leadProblem": "Pomppe Studio comunica diseno y fabricacion de muebles en madera maciza en Bogota. La fuga probable esta en convertir inspiracion en cotizacion: medidas, espacio, madera, fecha, presupuesto y referencia visual.",
+      "opportunity": "Mejorar conversion de la web actual con asesor digital de proyectos que capture necesidades del mueble y prepare cotizaciones completas antes de WhatsApp.",
+      "proofLine": "Lectura publica del 21 de julio de 2026: pomppestudio.com presenta Pomppe Studio como diseno y fabricacion de muebles en madera maciza, comedores, sillas y mobiliario contemporaneo elaborado artesanalmente en Bogota. La web enlaza Instagram @pomppestudio.",
+      "audience": "Personas, arquitectos e interioristas en Bogota que buscan comedores, sillas o mobiliario contemporaneo en madera maciza.",
+      "adAngle": "Mueble a medida + cotizacion clara + seguimiento de proyecto",
+      "whatsappCta": "Quiero cotizar proyectos con menos friccion",
+      "heroCopy": "El interesado en muebles premium no siempre esta listo para comprar: primero necesita traducir una idea de espacio en medidas, material y presupuesto.",
+      "brandWorldTitle": "De referencia visual a cotizacion de proyecto",
+      "diagnosisTitle": "Fugas en medidas, material y seguimiento",
+      "botAgentName": "Asesora Pomppe demo",
+      "botAgentRole": "prepara cotizaciones de muebles",
+      "botTitle": "Asesora digital para muebles a medida",
+      "botIntro": "El demo pregunta tipo de mueble, medidas, espacio, madera, ciudad, fecha y presupuesto antes de WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de Pomppe. Te ayudo a preparar una cotizacion de mueble en madera maciza.",
+      "botPrompts": [
+        "Comedor",
+        "Sillas",
+        "A medida",
+        "Proyecto",
+        "Cotizar"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "comedor",
+            "mesa",
+            "sillas"
+          ],
+          "answer": "Preguntaria medidas, numero de puestos, estilo y fecha deseada para orientar la cotizacion."
+        },
+        {
+          "keywords": [
+            "medida",
+            "proyecto",
+            "arquitecto"
+          ],
+          "answer": "Capturaria espacio, referencia, ciudad y si hay planos o fotos para avanzar con el equipo."
+        },
+        {
+          "keywords": [
+            "precio",
+            "cotizar",
+            "presupuesto"
+          ],
+          "answer": "Pediria rango de presupuesto y detalles minimos antes de enviar a WhatsApp."
+        }
+      ],
+      "findings": [
+        "La web define un posicionamiento claro en madera maciza y fabricacion artesanal.",
+        "El Instagram esta enlazado desde la web.",
+        "La venta requiere datos tecnicos y comerciales antes de cotizar."
+      ],
+      "siteIssues": [
+        "La inspiracion visual puede no convertirse si no hay formulario de proyecto.",
+        "WhatsApp sin medidas o fotos ralentiza la respuesta.",
+        "La pauta necesita distinguir curiosos, proyectos reales e interioristas."
+      ],
+      "losses": [
+        "Solicitudes premium quedan incompletas y se enfrian.",
+        "El equipo repite preguntas de medidas y presupuesto.",
+        "Sin seguimiento, proyectos largos no avanzan a visita o cotizacion."
+      ],
+      "heatmapData": [
+        "Clics por comedores, sillas, proyectos, Instagram y WhatsApp.",
+        "Abandono antes de cotizacion.",
+        "Solicitudes por tipo de mueble, presupuesto y ciudad."
+      ],
+      "campaigns": [
+        "Campana de comedores y muebles a medida.",
+        "Remarketing a visitantes de proyectos sin cotizar.",
+        "Flujo WhatsApp con medidas, fotos y presupuesto."
+      ],
+      "deliverables": [
+        "Formulario de proyecto sobre la web actual.",
+        "Asesora digital para medidas, material, fotos y cotizacion.",
+        "Panel de oportunidades por mueble, fuente, etapa y proxima accion."
+      ],
+      "sources": [
+        "https://pomppestudio.com/",
+        "https://www.instagram.com/pomppestudio/"
+      ]
+    },
+    {
+      "slug": "galeria-matiz-medellin",
+      "company": "Galeria Matiz",
+      "instagram": "@galeriamatiz",
+      "sector": "mobiliario decoracion y diseno de interiores",
+      "city": "Medellin",
+      "tone": "contemporaneo, asesor y comercial",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#6D8D73",
+      "secondary": "#C59A52",
+      "status": "Tienda online + cita de diseno + Instagram",
+      "leadProblem": "Galeria Matiz tiene tienda online de mobiliario, decoracion y diseno de interiores en Medellin. La fuga probable esta en visitantes que exploran productos, pero no agendan asesoria ni dejan datos del espacio.",
+      "opportunity": "Mejorar conversion de la tienda actual con asesor digital de interiorismo que capture espacio, medidas, estilo, presupuesto y urgencia antes de carrito, cita o WhatsApp.",
+      "proofLine": "Lectura publica del 21 de julio de 2026: galeriamatiz.com presenta mobiliario, decoracion y diseno de interiores en Medellin, envios a Colombia y agenda de cita con especialistas. La web enlaza Instagram @galeriamatiz.",
+      "audience": "Personas en Medellin y Colombia que buscan muebles, decoracion, sofas, comedores o asesoria de interiorismo.",
+      "adAngle": "Espacio ideal + asesoria guiada + compra medible",
+      "whatsappCta": "Quiero convertir mas visitas en citas",
+      "heroCopy": "En mobiliario, una visita al catalogo no basta: la compra aparece cuando el cliente conecta producto, espacio, medidas y asesoria.",
+      "brandWorldTitle": "De catalogo a proyecto de hogar",
+      "diagnosisTitle": "Fugas en espacio, cita y carrito",
+      "botAgentName": "Asesora Matiz demo",
+      "botAgentRole": "orienta compras e interiorismo",
+      "botTitle": "Asesora digital para mobiliario e interiorismo",
+      "botIntro": "El demo pregunta espacio, estilo, producto, medidas, presupuesto y si quiere cita de diseno.",
+      "botOpening": "Hola, soy la asesora demo de Galeria Matiz. Te ayudo a elegir muebles o agendar asesoria segun tu espacio.",
+      "botPrompts": [
+        "Sala",
+        "Comedor",
+        "Decoracion",
+        "Cita diseno",
+        "Envio"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sala",
+            "sofa",
+            "comedor"
+          ],
+          "answer": "Preguntaria medidas, estilo y presupuesto para recomendar una ruta de producto o asesoria."
+        },
+        {
+          "keywords": [
+            "cita",
+            "diseno",
+            "interior"
+          ],
+          "answer": "Tomaria datos del espacio, ciudad y disponibilidad para dejar lista la cita de diseno."
+        },
+        {
+          "keywords": [
+            "envio",
+            "carrito",
+            "comprar"
+          ],
+          "answer": "Validaria ciudad, producto y urgencia antes de continuar a compra o WhatsApp."
+        }
+      ],
+      "findings": [
+        "La web muestra tienda online y categorias de mobiliario/decoracion.",
+        "Comunica agenda de cita con especialistas de diseno.",
+        "Instagram esta enlazado como canal visual de inspiracion."
+      ],
+      "siteIssues": [
+        "El catalogo puede generar exploracion sin datos de proyecto.",
+        "La cita de diseno necesita capturar espacio y presupuesto.",
+        "La pauta debe diferenciar compra de producto y solicitud de asesoria."
+      ],
+      "losses": [
+        "Visitantes interesados comparan sin dejar datos.",
+        "Solicitudes de asesoria llegan incompletas.",
+        "Sin seguimiento, proyectos de hogar de mayor ticket no avanzan."
+      ],
+      "heatmapData": [
+        "Clics por categoria, cita, carrito, WhatsApp e Instagram.",
+        "Abandono en producto o agenda.",
+        "Productos con alta visita y baja compra."
+      ],
+      "campaigns": [
+        "Campana por espacios: sala, comedor, habitacion y exterior.",
+        "Remarketing a visitantes de productos sin compra o cita.",
+        "Flujo WhatsApp para medidas, estilo, presupuesto y agenda."
+      ],
+      "deliverables": [
+        "Asesor de interiorismo sobre la tienda actual.",
+        "Eventos de conversion para producto, cita, WhatsApp y carrito.",
+        "Panel de oportunidades por espacio, fuente, ticket y etapa."
+      ],
+      "sources": [
+        "https://www.galeriamatiz.com/",
+        "https://www.instagram.com/galeriamatiz/"
+      ]
+    },
+    {
+      "slug": "beta-lab-maderas-medellin",
+      "company": "Beta Lab Maderas",
+      "instagram": "@andresbetalab",
+      "sector": "muebles artesanales en madera maciza",
+      "city": "Medellin",
+      "tone": "artesanal, natural y preciso",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#8A5A35",
+      "secondary": "#7EA06B",
+      "status": "Tienda online + catalogo + Instagram",
+      "leadProblem": "Beta Lab vende muebles artesanales en madera maciza hechos en Medellin, con catalogo por espacios y configurador. La fuga probable esta en cotizaciones que requieren medidas, tipo de madera, espacio, presupuesto y envio.",
+      "opportunity": "Mejorar conversion del catalogo actual con asesor digital que filtre espacio, medidas, estilo, madera y ciudad antes de carrito o WhatsApp.",
+      "proofLine": "Lectura publica del 21 de julio de 2026: betalabmaderas.com presenta muebles artesanales en madera maciza hechos a mano en Medellin, envios a Colombia, catalogo por espacios y configurador. La web enlaza Instagram @andresbetalab.",
+      "audience": "Clientes en Medellin y Colombia que buscan mesas, comedores, sillas, comodas, bancas o muebles artesanales en madera maciza.",
+      "adAngle": "Madera maciza + configuracion guiada + cotizacion completa",
+      "whatsappCta": "Quiero convertir mas cotizaciones de muebles",
+      "heroCopy": "Un configurador ayuda, pero la venta crece cuando cada interesado deja medidas, espacio y presupuesto antes de hablar con el equipo.",
+      "brandWorldTitle": "De pieza artesanal a proyecto cerrado",
+      "diagnosisTitle": "Fugas en configuracion y cotizacion",
+      "botAgentName": "Asesora Beta Lab demo",
+      "botAgentRole": "prepara pedidos de madera",
+      "botTitle": "Asesora digital para muebles artesanales",
+      "botIntro": "El demo pregunta espacio, producto, medidas, madera, ciudad y presupuesto antes de carrito o WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de Beta Lab. Te ayudo a preparar tu mueble en madera maciza con datos claros.",
+      "botPrompts": [
+        "Mesa",
+        "Comedor",
+        "Medidas",
+        "Configurador",
+        "Envio"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "mesa",
+            "comedor",
+            "sillas"
+          ],
+          "answer": "Preguntaria numero de puestos, medidas aproximadas y tipo de espacio para orientar la cotizacion."
+        },
+        {
+          "keywords": [
+            "configurador",
+            "medida",
+            "madera"
+          ],
+          "answer": "Guiaria los datos minimos del configurador y dejaria la solicitud lista para revision."
+        },
+        {
+          "keywords": [
+            "envio",
+            "ciudad",
+            "precio"
+          ],
+          "answer": "Capturaria ciudad, producto y presupuesto antes de enviar a WhatsApp."
+        }
+      ],
+      "findings": [
+        "La web muestra muebles en madera maciza hechos en Medellin.",
+        "Tiene catalogo por espacios y mencion de configurador.",
+        "Instagram esta enlazado desde la web."
+      ],
+      "siteIssues": [
+        "Las cotizaciones pueden llegar sin medidas o ciudad.",
+        "El configurador debe traducirse en lead con seguimiento.",
+        "La pauta necesita saber que producto o espacio genera oportunidades."
+      ],
+      "losses": [
+        "Proyectos se demoran si faltan datos iniciales.",
+        "Clientes con alto interes comparan si no reciben orientacion rapida.",
+        "Sin seguimiento, carritos o configuraciones quedan sin cierre."
+      ],
+      "heatmapData": [
+        "Clics por espacio, configurador, producto, carrito y WhatsApp.",
+        "Abandono antes de cotizacion.",
+        "Solicitudes por ciudad, mueble y presupuesto."
+      ],
+      "campaigns": [
+        "Campana por comedores, mesas y muebles de madera maciza.",
+        "Remarketing a configuraciones sin compra.",
+        "Flujo WhatsApp con medidas, ciudad, madera y cierre."
+      ],
+      "deliverables": [
+        "Asesor de proyecto conectado a catalogo y configurador.",
+        "Formulario de cotizacion por espacio, medidas y ciudad.",
+        "Panel de leads por producto, fuente, estado y valor potencial."
+      ],
+      "sources": [
+        "https://betalabmaderas.com/",
+        "https://www.instagram.com/andresbetalab/"
+      ]
+    },
+    {
+      "slug": "ndn-rooftop-medellin",
+      "company": "NDN Rooftop",
+      "instagram": "@ndnrooftop",
+      "sector": "restaurante rooftop y reservas",
+      "city": "Medellin",
+      "tone": "nocturno, premium y directo",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#C54E72",
+      "secondary": "#55A7C9",
+      "status": "Web actual + reserva + Instagram",
+      "leadProblem": "NDN Rooftop comunica experiencia rooftop en Provenza con cocina asiatica contemporanea, cocteleria y DJ en vivo. La fuga probable esta en convertir visitantes de Instagram o pauta en reservas completas con fecha, hora, personas y ocasion.",
+      "opportunity": "Mejorar conversion de la web actual con anfitrion digital que capture datos de reserva, tipo de plan, horario, grupo y seguimiento para fines de semana.",
+      "proofLine": "Lectura publica del 21 de julio de 2026: ndnrestaurant.com presenta NDN Rooftop en Provenza, Medellin, con reserva, menu, galeria, contacto, cocina asiatica contemporanea, cocteleria y DJ en vivo. La web enlaza Instagram @ndnrooftop.",
+      "audience": "Parejas, grupos y visitantes en Medellin que buscan rooftop, cena, cocteles, musica y reservas en Provenza.",
+      "adAngle": "Rooftop en Provenza + reserva guiada + WhatsApp listo",
+      "whatsappCta": "Quiero llenar mas reservas de alto valor",
+      "heroCopy": "En restaurantes de experiencia, la reserva se pierde cuando el cliente no deja fecha, hora, personas y tipo de plan en el primer contacto.",
+      "brandWorldTitle": "De antojo nocturno a mesa confirmada",
+      "diagnosisTitle": "Fugas en grupo, horario y confirmacion",
+      "botAgentName": "Anfitriona NDN demo",
+      "botAgentRole": "prepara reservas rooftop",
+      "botTitle": "Asesor digital para reservas de rooftop",
+      "botIntro": "El demo pregunta fecha, hora, numero de personas, ocasion, preferencia de ambiente y datos de contacto antes de WhatsApp.",
+      "botOpening": "Hola, soy la anfitriona demo de NDN. Te ayudo a preparar tu reserva con fecha, hora y numero de personas.",
+      "botPrompts": [
+        "Reserva hoy",
+        "Fin de semana",
+        "Cumpleanos",
+        "Cocteles",
+        "Menu"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "reserva",
+            "mesa",
+            "hoy"
+          ],
+          "answer": "Pediria fecha, hora, personas y nombre para enviar la solicitud con contexto."
+        },
+        {
+          "keywords": [
+            "cumple",
+            "grupo",
+            "ocasion"
+          ],
+          "answer": "Capturaria ocasion, tamano del grupo y preferencia de ambiente para preparar la experiencia."
+        },
+        {
+          "keywords": [
+            "menu",
+            "coctel",
+            "dj"
+          ],
+          "answer": "Dirigiria al menu y dejaria el interes marcado antes de pasar a reserva."
+        }
+      ],
+      "findings": [
+        "La web tiene rutas de reserva, menu, galeria y contacto.",
+        "La propuesta combina rooftop, cocina asiatica, cocteleria y DJ.",
+        "Instagram esta enlazado desde el sitio como fuente de inspiracion."
+      ],
+      "siteIssues": [
+        "El CTA de reserva puede iniciar conversaciones sin datos minimos.",
+        "No todo visitante de menu o galeria queda en seguimiento.",
+        "La pauta debe medir solicitudes y reservas confirmadas por fecha."
+      ],
+      "losses": [
+        "Grupos de fin de semana se pierden si la respuesta no es inmediata.",
+        "El equipo repite preguntas de fecha, hora y personas.",
+        "Sin remarketing, visitantes de galeria o menu no vuelven a reservar."
+      ],
+      "heatmapData": [
+        "Clics por reserva, menu, galeria, contacto e Instagram.",
+        "Abandono antes de enviar datos de mesa.",
+        "Dias y horarios con mayor intencion."
+      ],
+      "campaigns": [
+        "Campana de reservas para fin de semana y celebraciones.",
+        "Remarketing a visitantes de menu o galeria sin reserva.",
+        "Flujo WhatsApp con fecha, hora, personas y confirmacion."
+      ],
+      "deliverables": [
+        "Optimizar web actual con preformulario de reserva.",
+        "Anfitriona digital para mesa, ocasion, grupo y seguimiento.",
+        "Panel de reservas por fuente, fecha, estado y valor potencial."
+      ],
+      "sources": [
+        "https://www.ndnrestaurant.com/",
+        "https://www.instagram.com/ndnrooftop/"
+      ]
     }
   ]
 }
