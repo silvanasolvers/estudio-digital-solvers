@@ -36540,6 +36540,959 @@
         "https://www.ndnrestaurant.com/",
         "https://www.instagram.com/ndnrooftop/"
       ]
+    },
+    {
+      "slug": "le-parche-medellin",
+      "company": "Le Parche",
+      "instagram": "@leparchemed",
+      "website": "https://www.leparche.com.co/",
+      "sector": "restaurante y celebraciones",
+      "city": "Medellin",
+      "tone": "calido, celebracion y gastronomia cuidada",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#C87837",
+      "secondary": "#2F8C6B",
+      "status": "Web actual + reservas + eventos",
+      "leadProblem": "Le Parche ya muestra restaurante, carta, cocteleria, eventos y WhatsApp. La fuga probable esta en que reservas y eventos llegan al chat con poco contexto: fecha, numero de personas, tipo de celebracion, presupuesto aproximado y urgencia.",
+      "opportunity": "Mejorar conversion de la web actual con una ruta que separe mesa, celebracion y evento corporativo antes de WhatsApp, dejando cada lead listo para cotizar o confirmar.",
+      "proofLine": "Lectura publica del 22 de julio de 2026: leparche.com.co presenta restaurante y celebraciones en Medellin, reserva de mesa, planeacion de eventos, carta, cocteleria, direccion en Loma los Bernales, horario martes a domingo y enlace a Instagram @leparchemed.",
+      "audience": "Parejas, grupos, familias y empresas que buscan restaurante, celebraciones o eventos en Medellin.",
+      "adAngle": "Celebracion en Le Parche + reserva guiada + evento con contexto",
+      "whatsappCta": "Quiero convertir mas reservas y eventos",
+      "heroCopy": "Cuando una persona quiere celebrar, no basta con que escriba. El equipo necesita saber fecha, grupo, ocasion y expectativa antes de responder.",
+      "brandWorldTitle": "De antojo o celebracion a mesa confirmada",
+      "diagnosisTitle": "Fugas entre reserva, evento y cotizacion",
+      "botAgentName": "Anfitriona Le Parche demo",
+      "botAgentRole": "clasifica reservas y eventos",
+      "botTitle": "Asesor digital para reservas y celebraciones",
+      "botIntro": "El demo pregunta si la persona quiere mesa, cumpleanos, boda, baby shower o evento corporativo, y arma el mensaje con datos minimos antes de WhatsApp.",
+      "botOpening": "Hola, soy la anfitriona demo de Le Parche. Te ayudo a preparar una reserva o evento con fecha, personas y tipo de plan.",
+      "botPrompts": [
+        "Reservar mesa",
+        "Planear evento",
+        "Cumpleanos",
+        "Corporativo",
+        "Carta"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "mesa",
+            "reserva",
+            "hoy"
+          ],
+          "answer": "Pediria fecha, hora, numero de personas y nombre para que WhatsApp reciba una solicitud lista para confirmar."
+        },
+        {
+          "keywords": [
+            "evento",
+            "boda",
+            "corporativo"
+          ],
+          "answer": "Separaria tipo de evento, cantidad de invitados, fecha tentativa y necesidades de comida, bebida o montaje antes de pasar al equipo."
+        },
+        {
+          "keywords": [
+            "carta",
+            "coctel",
+            "menu"
+          ],
+          "answer": "Mostraria carta o cocteleria y marcaria que producto genero interes para seguimiento o pauta."
+        }
+      ],
+      "findings": [
+        "La web publica reserva de mesa y planeacion de eventos.",
+        "La oferta combina restaurante, celebraciones, carta y cocteleria.",
+        "El sitio muestra direccion, horarios, WhatsApp e Instagram."
+      ],
+      "siteIssues": [
+        "Reserva y evento pueden entrar al mismo WhatsApp sin clasificacion previa.",
+        "Las celebraciones requieren mas contexto que una reserva normal.",
+        "La pauta necesita distinguir clic de mesa, evento y carta para optimizar."
+      ],
+      "losses": [
+        "Eventos con presupuesto real se enfrian si el primer intercambio solo pide datos basicos.",
+        "El equipo repite preguntas de fecha, personas y ocasion.",
+        "Visitantes de carta o cocteleria no siempre quedan en remarketing."
+      ],
+      "heatmapData": [
+        "Clics por reservar mesa, planear evento, carta, cocteleria y ubicacion.",
+        "Abandono antes de WhatsApp en bloques de celebraciones.",
+        "Eventos por tipo de ocasion y fecha tentativa."
+      ],
+      "campaigns": [
+        "Campana separada para celebraciones y eventos corporativos.",
+        "Remarketing a visitantes de carta o eventos sin WhatsApp.",
+        "Flujo de WhatsApp con fecha, personas, ocasion y siguiente paso."
+      ],
+      "deliverables": [
+        "Optimizar web actual con preformulario de mesa y evento.",
+        "Anfitriona digital para reservas, celebraciones y cotizaciones.",
+        "Panel de leads por fuente, tipo de plan, fecha y estado."
+      ],
+      "sources": [
+        "https://www.leparche.com.co/",
+        "https://www.instagram.com/leparchemed/"
+      ]
+    },
+    {
+      "slug": "tardes-calenas-cali",
+      "company": "Tardes Calenas",
+      "instagram": "@tardescalenasrestaurantebar",
+      "website": "https://www.tardescalenas.co/",
+      "sector": "restaurante tradicional y reservas",
+      "city": "Cali",
+      "tone": "tradicional, familiar y local",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#E4572E",
+      "secondary": "#2E8B57",
+      "status": "Web actual + reservas + domicilio",
+      "leadProblem": "Tardes Calenas publica reservas, domicilio, carta, horarios, direccion, tour 360 y suscripcion. La fuga probable esta en que cada intencion vive separada: reserva, domicilio, carta, celebracion y suscripcion no siempre quedan conectadas a seguimiento.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor que diferencie reserva, domicilio, grupo, celebracion o carta, y active WhatsApp con datos listos.",
+      "proofLine": "Lectura publica del 22 de julio de 2026: tardescalenas.co presenta restaurante vallecaucano en Cali desde 1958, reservas por WhatsApp, domicilio, carta, tour 360, horarios, direccion en Los Cambulos y cuenta Instagram @tardescalenasrestaurantebar verificada por busqueda publica.",
+      "audience": "Familias, grupos, turistas y clientes locales que buscan comida vallecaucana, reservas, domicilio o celebraciones en Cali.",
+      "adAngle": "Reserva o domicilio sin perder el contexto del antojo",
+      "whatsappCta": "Quiero ordenar reservas y domicilios",
+      "heroCopy": "Un restaurante con tradicion puede perder ventas cuando la persona mira carta, reserva o domicilio y el seguimiento no queda conectado.",
+      "brandWorldTitle": "De antojo valluno a mesa o domicilio confirmado",
+      "diagnosisTitle": "Fugas entre carta, reserva y domicilio",
+      "botAgentName": "Anfitrion Tardes demo",
+      "botAgentRole": "separa reserva, domicilio y grupos",
+      "botTitle": "Asesor digital para reservas y pedidos",
+      "botIntro": "El demo pregunta si la persona quiere reservar, pedir domicilio, ver carta o coordinar grupo, y envia WhatsApp con el contexto correcto.",
+      "botOpening": "Hola, soy el anfitrion demo de Tardes Calenas. Te ayudo a elegir entre reserva, domicilio, carta o celebracion.",
+      "botPrompts": [
+        "Reservar",
+        "Domicilio",
+        "Ver carta",
+        "Grupo",
+        "Horario"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "reserva",
+            "mesa",
+            "grupo"
+          ],
+          "answer": "Pediria fecha, hora, numero de personas y si es una celebracion para que el equipo confirme con contexto."
+        },
+        {
+          "keywords": [
+            "domicilio",
+            "pedido",
+            "cobertura"
+          ],
+          "answer": "Validaria dia, zona, producto de interes y datos de contacto antes de abrir WhatsApp de domicilio."
+        },
+        {
+          "keywords": [
+            "carta",
+            "menu",
+            "chuleta",
+            "lulada"
+          ],
+          "answer": "Mostraria categorias de carta y guardaria el plato de interes para pauta o remarketing."
+        }
+      ],
+      "findings": [
+        "La web diferencia reservas, domicilio, carta, servicios y tour 360.",
+        "El sitio publica horarios, direccion y CTA repetidos hacia WhatsApp.",
+        "La oferta incluye grupos, shows, comedor privado y plan familiar."
+      ],
+      "siteIssues": [
+        "Reserva y domicilio pueden medirse mejor si cada CTA captura motivo y fuente.",
+        "El formulario de suscripcion puede quedar desconectado de reservas futuras.",
+        "Los visitantes de carta necesitan recuperacion si no escriben."
+      ],
+      "losses": [
+        "Pedidos o reservas se demoran si falta zona, fecha o numero de personas.",
+        "Grupos con celebracion pueden perderse si se atienden como una reserva simple.",
+        "Pauta a carta sin tracking deja antojos sin seguimiento."
+      ],
+      "heatmapData": [
+        "Clics por reserva, domicilio, carta, tour 360, ubicacion y suscripcion.",
+        "Platos o secciones de carta que despiertan mas intencion.",
+        "Abandono antes de WhatsApp por tipo de solicitud."
+      ],
+      "campaigns": [
+        "Campana de reservas familiares y celebraciones.",
+        "Remarketing a visitantes de carta sin WhatsApp.",
+        "Flujo de domicilio con zona, dia, pedido y contacto."
+      ],
+      "deliverables": [
+        "Optimizar web actual con rutas separadas para reserva y domicilio.",
+        "Asesor digital para carta, reservas, grupos y cobertura.",
+        "Panel de conversion por CTA, plato, fuente y estado."
+      ],
+      "sources": [
+        "https://www.tardescalenas.co/",
+        "https://www.instagram.com/tardescalenasrestaurantebar/"
+      ]
+    },
+    {
+      "slug": "fotosintesis-gastrobar-bogota",
+      "company": "Fotosintesis Gastrobar",
+      "instagram": "@fotosintesis.gastrobar",
+      "website": "https://www.fotosintesisgastrobar.com/",
+      "sector": "restaurante gastrobar y eventos",
+      "city": "Bogota",
+      "tone": "consciente, creativo y gastronomico",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#3D8B57",
+      "secondary": "#E3A83B",
+      "status": "Web actual + menu + reservas + eventos",
+      "leadProblem": "Fotosintesis Gastrobar comunica cocina colombiana consciente, cocteles, menu, horarios, reservas y eventos. La fuga probable esta en convertir curiosidad por menu o eventos privados en solicitudes completas con fecha, numero de personas y tipo de experiencia.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor que clasifique reserva normal, evento privado, menu o ubicacion, y pase a WhatsApp con contexto listo.",
+      "proofLine": "Lectura publica del 22 de julio de 2026: fotosintesisgastrobar.com presenta restaurante en Bogota, cocina colombiana/fusion, menu, reservas, eventos, direccion Cl. 31 #13-34, telefono y cuenta Instagram @fotosintesis.gastrobar.",
+      "audience": "Clientes en Bogota que buscan restaurante, cocteles, comida colombiana consciente, reservas o eventos privados.",
+      "adAngle": "Evento o reserva con historia gastronomica y seguimiento",
+      "whatsappCta": "Quiero convertir menu y eventos en reservas",
+      "heroCopy": "La inspiracion del menu debe convertirse en accion medible: mesa, evento, fecha, grupo y motivo de visita.",
+      "brandWorldTitle": "De historia gastronomica a reserva con contexto",
+      "diagnosisTitle": "Fugas entre menu, evento y WhatsApp",
+      "botAgentName": "Anfitriona Fotosintesis demo",
+      "botAgentRole": "prepara reservas y eventos privados",
+      "botTitle": "Asesor digital para reservas gastrobar",
+      "botIntro": "El demo guia preguntas sobre menu, horarios, eventos y reservas, capturando datos antes de abrir WhatsApp.",
+      "botOpening": "Hola, soy la anfitriona demo de Fotosintesis. Te ayudo a preparar reserva, evento privado o consulta de menu.",
+      "botPrompts": [
+        "Reservar mesa",
+        "Evento privado",
+        "Menu",
+        "Horario",
+        "Ubicacion"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "evento",
+            "privado",
+            "celebracion"
+          ],
+          "answer": "Pediria fecha, cantidad de personas, tipo de evento y horario ideal para enviar una solicitud preparada."
+        },
+        {
+          "keywords": [
+            "reserva",
+            "mesa",
+            "horario"
+          ],
+          "answer": "Tomaria fecha, hora, personas y nombre para que el equipo confirme disponibilidad sin repetir preguntas."
+        },
+        {
+          "keywords": [
+            "menu",
+            "cocina",
+            "coctel"
+          ],
+          "answer": "Responderia con categorias de menu y dejaria marcado el interes para seguimiento o pauta."
+        }
+      ],
+      "findings": [
+        "La web publica menu, reservas, horarios, eventos y ubicacion.",
+        "El sitio expone telefono, direccion y datos estructurados de restaurante.",
+        "Instagram esta enlazado como canal publico de inspiracion."
+      ],
+      "siteIssues": [
+        "La solicitud de evento necesita mas datos que un clic generico a WhatsApp.",
+        "Los visitantes de menu pueden salir sin dejar intencion medible.",
+        "Reservas y eventos deberian separarse por fuente para pauta."
+      ],
+      "losses": [
+        "Eventos privados se enfrian si el primer contacto no captura fecha y grupo.",
+        "El equipo repite preguntas operativas antes de vender la experiencia.",
+        "Sin remarketing, quien vio menu no recibe recordatorio."
+      ],
+      "heatmapData": [
+        "Clics por menu, reservas, eventos, horarios, ubicacion e Instagram.",
+        "Abandono entre menu y WhatsApp.",
+        "Intencion por tipo de experiencia: mesa, coctel o evento."
+      ],
+      "campaigns": [
+        "Campana para eventos privados y celebraciones.",
+        "Remarketing a visitantes de menu sin reserva.",
+        "Flujo WhatsApp con fecha, personas, ocasion y estado."
+      ],
+      "deliverables": [
+        "Optimizar web actual con preformulario de reserva/evento.",
+        "Anfitriona digital para menu, horarios, eventos y ubicacion.",
+        "Panel de leads por fuente, tipo de solicitud y etapa."
+      ],
+      "sources": [
+        "https://www.fotosintesisgastrobar.com/",
+        "https://www.instagram.com/fotosintesis.gastrobar/"
+      ]
+    },
+    {
+      "slug": "palomulata-parrilla-boutique-cali",
+      "company": "Palomulata Parrilla Boutique",
+      "instagram": "@palomulata",
+      "website": "https://palomulata.com/",
+      "sector": "parrilla boutique y reservas",
+      "city": "Cali",
+      "tone": "premium, gastronomico y de celebracion",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#B85C38",
+      "secondary": "#7A9A46",
+      "status": "Web actual + reservas + experiencias",
+      "leadProblem": "Palomulata comunica parrilla boutique, cortes Angus, vinos, reservas, grupos y celebraciones. La fuga probable esta en que el visitante interesado en una cena especial no deja contexto suficiente: ocasion, fecha, numero de personas, preferencia de vino o tipo de corte.",
+      "opportunity": "Mejorar conversion de la web actual con una reserva guiada que diferencie cena romantica, grupo, cata, celebracion o consulta de carta.",
+      "proofLine": "Lectura publica del 22 de julio de 2026: palomulata.com presenta Palomulata Parrilla Boutique en Cali, ubicacion Calle 38 Norte #4BN-09, reservas desde sitio/redes/contacto, parrilla boutique, cortes Angus, vinos, catas privadas y cuenta Instagram @palomulata.",
+      "audience": "Parejas, grupos y amantes de parrilla y vinos que buscan una experiencia gastronomica premium en Cali.",
+      "adAngle": "Cena especial + reserva guiada + seguimiento premium",
+      "whatsappCta": "Quiero llenar reservas de alto valor",
+      "heroCopy": "En una cena premium, la venta se decide por confianza, detalle y respuesta rapida antes de que la persona reserve en otro lugar.",
+      "brandWorldTitle": "De antojo premium a experiencia reservada",
+      "diagnosisTitle": "Fugas en ocasion, grupo y preferencia",
+      "botAgentName": "Sommelier Palomulata demo",
+      "botAgentRole": "prepara reservas premium",
+      "botTitle": "Asesor digital para cenas y celebraciones",
+      "botIntro": "El demo pregunta ocasion, fecha, grupo, preferencia de corte o vino, y deja la solicitud lista para WhatsApp.",
+      "botOpening": "Hola, soy el asesor demo de Palomulata. Te ayudo a preparar una reserva con ocasion, fecha y preferencias.",
+      "botPrompts": [
+        "Cena romantica",
+        "Grupo",
+        "Cata privada",
+        "Carta",
+        "Reserva"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "romantica",
+            "celebracion",
+            "cumple"
+          ],
+          "answer": "Capturaria ocasion, fecha, personas y detalles especiales para que el equipo prepare una respuesta premium."
+        },
+        {
+          "keywords": [
+            "cata",
+            "vino",
+            "maridaje"
+          ],
+          "answer": "Preguntaria numero de personas, fecha tentativa y preferencias para orientar la experiencia antes de cotizar."
+        },
+        {
+          "keywords": [
+            "reserva",
+            "mesa",
+            "grupo"
+          ],
+          "answer": "Tomaria fecha, hora, personas y nombre para confirmar disponibilidad con contexto."
+        }
+      ],
+      "findings": [
+        "La web presenta reservas, grupos, celebraciones, catas privadas y carta.",
+        "El sitio publica ubicacion en La Flora, Cali.",
+        "Instagram esta enlazado como canal de marca."
+      ],
+      "siteIssues": [
+        "Una reserva premium necesita capturar ocasion y expectativas antes del chat.",
+        "La visita a carta o vinos debe quedar marcada para seguimiento.",
+        "Grupos y catas requieren ruta separada de una mesa normal."
+      ],
+      "losses": [
+        "Cenas especiales se pierden si no hay respuesta inmediata y detallada.",
+        "El equipo repite preguntas de ocasion, personas y preferencias.",
+        "La pauta puede traer clics de bajo contexto si no se mide la intencion."
+      ],
+      "heatmapData": [
+        "Clics por reservas, carta, vinos, grupos, ubicacion e Instagram.",
+        "Abandono antes de solicitud de reserva.",
+        "Preferencias por ocasion, corte, vino o cata."
+      ],
+      "campaigns": [
+        "Campana para cenas especiales y celebraciones.",
+        "Remarketing a visitantes de carta o vinos sin reserva.",
+        "Flujo WhatsApp con ocasion, fecha, grupo y preferencia."
+      ],
+      "deliverables": [
+        "Optimizar web actual con reserva premium guiada.",
+        "Asesor digital para cenas, grupos, catas y carta.",
+        "Panel de leads por ocasion, fuente, fecha y estado."
+      ],
+      "sources": [
+        "https://palomulata.com/",
+        "https://www.instagram.com/palomulata/"
+      ]
+    },
+    {
+      "slug": "odiseo-bistro-cali",
+      "company": "ODISEO Viaje & Bistro",
+      "instagram": "@odiseo.bistro",
+      "website": "https://www.odiseobistro.com/",
+      "sector": "bistro y reservas",
+      "city": "Cali",
+      "tone": "editorial, sobrio y de experiencia",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#7D6A4F",
+      "secondary": "#4C7A73",
+      "status": "Web actual + menu + reserva",
+      "leadProblem": "ODISEO publica horarios, ubicacion, Instagram, WhatsApp, menu y reserva. La fuga probable esta en que el sitio es muy limpio, pero la conversion necesita recoger fecha, hora, personas y motivo de visita antes de pasar a WhatsApp.",
+      "opportunity": "Mejorar conversion de la web actual con un asistente de reserva que mantenga el tono de marca y entregue al equipo una solicitud completa.",
+      "proofLine": "Lectura publica del 22 de julio de 2026: odiseobistro.com presenta ODISEO Viaje & Bistro en Cali, horarios, ubicacion Av. 9 Nte. #10-107 Barrio Granada, menu, reserva, WhatsApp +57 316 3154255 e Instagram @odiseo.bistro.",
+      "audience": "Clientes en Cali que buscan bistro, menu, reserva y una experiencia gastronomica en Barrio Granada.",
+      "adAngle": "Bistro en Granada + reserva simple + WhatsApp con contexto",
+      "whatsappCta": "Quiero mejorar reservas desde la web",
+      "heroCopy": "Un sitio elegante no debe dejar la reserva a medias: cada clic debe convertirse en fecha, hora, personas y seguimiento.",
+      "brandWorldTitle": "De descubrimiento editorial a reserva accionable",
+      "diagnosisTitle": "Fugas en reserva limpia pero poco estructurada",
+      "botAgentName": "Anfitrion ODISEO demo",
+      "botAgentRole": "guia reservas y menu",
+      "botTitle": "Asesor digital para menu y reserva",
+      "botIntro": "El demo responde por horarios, ubicacion, menu y reserva, y arma el mensaje de WhatsApp con los datos minimos.",
+      "botOpening": "Hola, soy el anfitrion demo de ODISEO. Te ayudo a preparar tu reserva con fecha, hora y numero de personas.",
+      "botPrompts": [
+        "Reservar",
+        "Menu",
+        "Horario",
+        "Ubicacion",
+        "Grupo"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "reserva",
+            "mesa",
+            "grupo"
+          ],
+          "answer": "Pediria fecha, hora, personas y nombre para que WhatsApp llegue listo para confirmar."
+        },
+        {
+          "keywords": [
+            "menu",
+            "carta",
+            "bistro"
+          ],
+          "answer": "Dirigiria al menu y dejaria marcado el interes para remarketing si no hay reserva."
+        },
+        {
+          "keywords": [
+            "horario",
+            "ubicacion",
+            "granada"
+          ],
+          "answer": "Responderia horarios y ubicacion, y ofreceria cerrar con reserva en el mismo flujo."
+        }
+      ],
+      "findings": [
+        "La web presenta horarios, ubicacion, menu, reserva, WhatsApp e Instagram.",
+        "La propuesta visual es sobria y centrada en experiencia.",
+        "El sitio tiene ruta directa a reserva y contacto."
+      ],
+      "siteIssues": [
+        "El CTA de reserva puede abrir WhatsApp sin datos suficientes.",
+        "Menu y ubicacion no siempre terminan en lead medible.",
+        "La pauta debe diferenciar visitas por menu, horario y reserva."
+      ],
+      "losses": [
+        "Reservas se enfrian si faltan datos basicos para confirmar.",
+        "Interes por menu se pierde si no hay recuperacion.",
+        "El equipo puede repetir preguntas operativas en horas pico."
+      ],
+      "heatmapData": [
+        "Clics por menu, reserva, WhatsApp, horarios y ubicacion.",
+        "Abandono entre lectura de menu y solicitud.",
+        "Dias y horarios con mayor intencion de reserva."
+      ],
+      "campaigns": [
+        "Campana de reservas para noches y fin de semana.",
+        "Remarketing a visitantes de menu sin WhatsApp.",
+        "Flujo de reserva con fecha, hora, personas y ocasion."
+      ],
+      "deliverables": [
+        "Optimizar web actual con preformulario de reserva discreto.",
+        "Anfitrion digital para menu, horarios, ubicacion y grupos.",
+        "Panel de reservas por fuente, horario y estado."
+      ],
+      "sources": [
+        "https://www.odiseobistro.com/",
+        "https://www.instagram.com/odiseo.bistro/"
+      ]
+    },
+    {
+      "slug": "dentalby-medellin",
+      "company": "Dentalby",
+      "instagram": "@dentalby_med",
+      "website": "https://dentalby.com.co/",
+      "sector": "clinica odontologica",
+      "city": "Medellin",
+      "tone": "clinico, premium y confiable",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#69B3B0",
+      "secondary": "#C9A26A",
+      "status": "Web actual + agenda + WhatsApp",
+      "leadProblem": "Dentalby comunica implantes, diseno de sonrisa, odontologia laser, pacientes internacionales, agenda de cita y WhatsApp. La fuga probable esta en que un paciente de alto valor necesita triage: tratamiento de interes, ciudad, urgencia, si viaja desde fuera y objeciones antes de hablar con el equipo.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor que clasifique tratamiento, paciente local/internacional, consulta virtual y datos minimos para agendar.",
+      "proofLine": "Lectura publica del 22 de julio de 2026: dentalby.com.co presenta clinica odontologica en Medellin, implantes dentales, diseno de sonrisa, odontologia laser, pacientes internacionales, agenda de cita, WhatsApp e Instagram @dentalby_med.",
+      "audience": "Pacientes en Medellin y pacientes internacionales interesados en implantes, diseno de sonrisa u odontologia laser.",
+      "adAngle": "Valoracion odontologica con tratamiento e intencion claros",
+      "whatsappCta": "Quiero convertir consultas en citas calificadas",
+      "heroCopy": "En salud dental, el lead no vale lo mismo si no sabemos tratamiento, urgencia, ciudad y etapa de decision.",
+      "brandWorldTitle": "De duda dental a cita calificada",
+      "diagnosisTitle": "Fugas entre tratamiento, objecion y agenda",
+      "botAgentName": "Coordinadora Dentalby demo",
+      "botAgentRole": "clasifica pacientes y citas",
+      "botTitle": "Asesor digital para valoraciones odontologicas",
+      "botIntro": "El demo pregunta tratamiento de interes, sintomas, ciudad, disponibilidad y si requiere consulta virtual antes de WhatsApp.",
+      "botOpening": "Hola, soy la coordinadora demo de Dentalby. Te ayudo a identificar el tratamiento de interes y preparar tu cita.",
+      "botPrompts": [
+        "Implantes",
+        "Diseno de sonrisa",
+        "Odontologia laser",
+        "Consulta virtual",
+        "WhatsApp"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "implante",
+            "rehabilitacion",
+            "diente"
+          ],
+          "answer": "Pediria motivo de consulta, si tiene radiografia, ciudad y disponibilidad para orientar una valoracion."
+        },
+        {
+          "keywords": [
+            "sonrisa",
+            "estetica",
+            "diseno"
+          ],
+          "answer": "Clasificaria expectativa estetica, tiempo deseado y disponibilidad para pasar a agenda con contexto."
+        },
+        {
+          "keywords": [
+            "internacional",
+            "virtual",
+            "viaje"
+          ],
+          "answer": "Preguntaria pais o ciudad, fechas tentativas y necesidad de consulta virtual antes del viaje."
+        }
+      ],
+      "findings": [
+        "La web publica servicios de implantes, diseno de sonrisa, odontologia laser y pacientes internacionales.",
+        "Tiene CTAs visibles para agenda y WhatsApp.",
+        "El sitio usa tracking publico de eventos como WhatsApp y formulario."
+      ],
+      "siteIssues": [
+        "WhatsApp puede recibir pacientes sin tratamiento o urgencia definidos.",
+        "Pacientes internacionales necesitan flujo separado de preparacion.",
+        "Agenda y formulario deben conectarse a fuente, servicio y estado."
+      ],
+      "losses": [
+        "Consultas de alto valor se enfrian si no hay respuesta inmediata.",
+        "El equipo repite preguntas clinicas basicas antes de agendar.",
+        "Pauta sin calificacion mezcla curiosos con pacientes listos."
+      ],
+      "heatmapData": [
+        "Clics por servicio, agenda, WhatsApp, consulta virtual y testimonios.",
+        "Abandono antes de formulario o WhatsApp.",
+        "Tratamientos que generan mayor intencion por fuente."
+      ],
+      "campaigns": [
+        "Campana de implantes y diseno de sonrisa con triage previo.",
+        "Remarketing a visitantes de servicios sin cita.",
+        "Flujo para pacientes internacionales con consulta virtual."
+      ],
+      "deliverables": [
+        "Optimizar web actual con triage por tratamiento.",
+        "Coordinadora digital para citas, objeciones y paciente internacional.",
+        "Panel de leads por servicio, fuente, ciudad y etapa."
+      ],
+      "sources": [
+        "https://dentalby.com.co/",
+        "https://www.instagram.com/dentalby_med/"
+      ]
+    },
+    {
+      "slug": "luxus-dental-group-bogota",
+      "company": "Luxus Dental Group",
+      "instagram": "@luxus_dg",
+      "website": "https://luxusdentalgroup.com.co/",
+      "sector": "clinica odontologica",
+      "city": "Bogota",
+      "tone": "profesional, estetico y directo",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#7A9FBF",
+      "secondary": "#C7A35A",
+      "status": "Web actual + WhatsApp + valoracion",
+      "leadProblem": "Luxus Dental Group publica agenda de valoracion por WhatsApp e Instagram. La fuga probable esta en que la persona escribe con dudas sobre disponibilidad, costos y proceso sin dejar tratamiento de interes, urgencia ni horario ideal.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor que capture tratamiento, dolor o meta estetica, disponibilidad y preferencia de contacto antes de WhatsApp.",
+      "proofLine": "Lectura publica del 22 de julio de 2026: luxusdentalgroup.com.co presenta pagina de inicio, WhatsApp para agendar valoracion, solicitud sobre disponibilidad/costos/proceso e Instagram @luxus_dg.",
+      "audience": "Pacientes en Bogota interesados en valoracion odontologica, estetica dental y tratamientos con seguimiento.",
+      "adAngle": "Valoracion dental con WhatsApp calificado",
+      "whatsappCta": "Quiero recibir pacientes con contexto",
+      "heroCopy": "Cuando el paciente pregunta por costos o disponibilidad, el sistema debe capturar la necesidad antes de que compare otra clinica.",
+      "brandWorldTitle": "De pregunta por valoracion a cita lista",
+      "diagnosisTitle": "Fugas en costos, disponibilidad y proceso",
+      "botAgentName": "Coordinadora Luxus demo",
+      "botAgentRole": "precalifica valoraciones",
+      "botTitle": "Asesor digital para citas odontologicas",
+      "botIntro": "El demo pregunta tratamiento de interes, disponibilidad, ciudad, principal duda y canal preferido antes de enviar WhatsApp.",
+      "botOpening": "Hola, soy la coordinadora demo de Luxus. Te ayudo a preparar tu valoracion con tratamiento, horario y duda principal.",
+      "botPrompts": [
+        "Valoracion",
+        "Costos",
+        "Disponibilidad",
+        "Proceso",
+        "WhatsApp"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "valoracion",
+            "cita",
+            "agenda"
+          ],
+          "answer": "Pediria nombre, tratamiento de interes, dias disponibles y mejor horario para que el equipo confirme."
+        },
+        {
+          "keywords": [
+            "costo",
+            "precio",
+            "valor"
+          ],
+          "answer": "Explicaria que el costo depende de valoracion y capturaria la necesidad para evitar una respuesta generica."
+        },
+        {
+          "keywords": [
+            "proceso",
+            "disponibilidad",
+            "tratamiento"
+          ],
+          "answer": "Ordenaria dudas sobre proceso, disponibilidad y tratamiento antes de abrir WhatsApp."
+        }
+      ],
+      "findings": [
+        "La web usa WhatsApp como CTA principal de valoracion.",
+        "El mensaje precargado habla de disponibilidad, costos y proceso.",
+        "Instagram @luxus_dg esta enlazado desde la pagina."
+      ],
+      "siteIssues": [
+        "El WhatsApp precargado no captura tratamiento especifico antes del envio.",
+        "Costos y proceso son objeciones que necesitan respuesta guiada.",
+        "Sin triage, pauta y organico pueden producir chats poco calificados."
+      ],
+      "losses": [
+        "Pacientes listos para cita se mezclan con curiosos.",
+        "El equipo repite las mismas preguntas de disponibilidad.",
+        "Leads con dudas de costo se enfrian si no reciben contexto rapido."
+      ],
+      "heatmapData": [
+        "Clics por WhatsApp, valoracion, servicios e Instagram.",
+        "Abandono antes de abrir WhatsApp.",
+        "Dudas frecuentes por tratamiento y fuente."
+      ],
+      "campaigns": [
+        "Campana de valoracion con preguntas previas.",
+        "Remarketing a visitantes que no completaron WhatsApp.",
+        "Flujo de objeciones sobre costo, proceso y disponibilidad."
+      ],
+      "deliverables": [
+        "Optimizar web actual con preformulario antes de WhatsApp.",
+        "Coordinadora digital para tratamiento, duda y agenda.",
+        "Panel de leads por servicio, objecion, fuente y estado."
+      ],
+      "sources": [
+        "https://luxusdentalgroup.com.co/",
+        "https://www.instagram.com/luxus_dg/"
+      ]
+    },
+    {
+      "slug": "cliniestetica-medellin",
+      "company": "CliniEstetica",
+      "instagram": "@clini.estetica",
+      "website": "https://cliniestetica.co/",
+      "sector": "medicina estetica y cuidado de piel",
+      "city": "Medellin",
+      "tone": "estetico, cercano y clinico",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#D487A0",
+      "secondary": "#6DAE9D",
+      "status": "Web actual + agenda gratuita",
+      "leadProblem": "CliniEstetica publica tratamientos de cuidado de piel y estetica en Medellin, agenda gratuita, telefono, horarios e Instagram. La fuga probable esta en que el interes por un tratamiento necesita identificar objetivo, zona, antecedentes, horario y nivel de decision antes de agendar.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor que haga triage estetico, responda dudas frecuentes y entregue citas calificadas.",
+      "proofLine": "Lectura publica del 22 de julio de 2026: cliniestetica.co presenta cuidado de la piel y estetica en Medellin, agenda tu cita gratis, horario lunes a viernes y sabados, telefono +57 313 6288110 e Instagram @clini.estetica.",
+      "audience": "Personas en Medellin interesadas en cuidado de piel, tratamientos esteticos y citas de valoracion.",
+      "adAngle": "Valoracion estetica con objetivo claro y agenda inmediata",
+      "whatsappCta": "Quiero llenar agenda con pacientes calificados",
+      "heroCopy": "En estetica, una duda sin respuesta se enfria rapido: tratamiento, objetivo y disponibilidad deben quedar claros antes del chat.",
+      "brandWorldTitle": "De interes por verse mejor a cita agendada",
+      "diagnosisTitle": "Fugas entre tratamiento, duda y agenda",
+      "botAgentName": "Asesora CliniEstetica demo",
+      "botAgentRole": "prepara valoraciones esteticas",
+      "botTitle": "Asesor digital para tratamientos esteticos",
+      "botIntro": "El demo pregunta objetivo, zona de interes, tratamiento visto, disponibilidad y datos de contacto antes de WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de CliniEstetica. Te ayudo a orientar tu valoracion estetica y preparar la cita.",
+      "botPrompts": [
+        "Agenda gratis",
+        "Cuidado de piel",
+        "Tratamiento",
+        "Horario",
+        "WhatsApp"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "agenda",
+            "cita",
+            "valoracion"
+          ],
+          "answer": "Pediria nombre, objetivo estetico, disponibilidad y canal de contacto para pasar una cita mas calificada."
+        },
+        {
+          "keywords": [
+            "piel",
+            "tratamiento",
+            "facial"
+          ],
+          "answer": "Preguntaria zona, preocupacion principal y si ya ha recibido tratamientos para orientar mejor la conversacion."
+        },
+        {
+          "keywords": [
+            "horario",
+            "sabado",
+            "telefono"
+          ],
+          "answer": "Responderia horarios publicados y ofreceria llevar la solicitud a WhatsApp con datos completos."
+        }
+      ],
+      "findings": [
+        "La web publica servicios esteticos y agenda de cita gratis.",
+        "El sitio muestra telefono, horarios e Instagram.",
+        "La propuesta se enfoca en tecnologia, cuidado de piel y experiencia."
+      ],
+      "siteIssues": [
+        "El CTA de agenda necesita capturar objetivo y tratamiento de interes.",
+        "Las dudas de seguridad o procedimiento requieren respuestas consistentes.",
+        "Pauta sin triage puede llenar chats poco listos para cita."
+      ],
+      "losses": [
+        "Interesados comparan clinicas si no reciben orientacion rapida.",
+        "El equipo repite preguntas de objetivo, zona y disponibilidad.",
+        "Sin seguimiento, quien vio tratamientos no vuelve a agendar."
+      ],
+      "heatmapData": [
+        "Clics por agenda, tratamiento, telefono, horarios e Instagram.",
+        "Abandono antes del formulario o WhatsApp.",
+        "Tratamientos con mayor intencion por fuente."
+      ],
+      "campaigns": [
+        "Campana de agenda gratuita con triage estetico.",
+        "Remarketing a visitantes de tratamientos sin cita.",
+        "Flujo WhatsApp con objetivo, zona, horario y estado."
+      ],
+      "deliverables": [
+        "Optimizar web actual con triage antes de agenda.",
+        "Asesora digital para tratamientos, dudas y disponibilidad.",
+        "Panel de leads por tratamiento, fuente y etapa."
+      ],
+      "sources": [
+        "https://cliniestetica.co/",
+        "https://www.instagram.com/clini.estetica/"
+      ]
+    },
+    {
+      "slug": "dr-jorge-rios-cirugia-plastica",
+      "company": "Dr. Jorge Rios",
+      "instagram": "@drjorgerios",
+      "website": "https://drjorgerios.com.co/",
+      "sector": "cirugia plastica",
+      "city": "Barranquilla, Santa Marta y Cartagena",
+      "tone": "medico, premium y cuidadoso",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#5D91B8",
+      "secondary": "#D6A76A",
+      "status": "Web actual + WhatsApp + sedes",
+      "leadProblem": "El sitio del Dr. Jorge Rios publica cirugia plastica certificada en Barranquilla, Santa Marta y Cartagena, Instagram y WhatsApp. La fuga probable esta en que pacientes interesados necesitan orientacion segura: procedimiento, ciudad, etapa de decision, disponibilidad y dudas antes de agendar.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor de primer contacto que no diagnostique, pero si ordene preguntas, ciudad, procedimiento de interes y agenda.",
+      "proofLine": "Lectura publica del 22 de julio de 2026: drjorgerios.com.co presenta Dr. Jorge Rios como cirujano plastico certificado en Barranquilla, Santa Marta y Cartagena, con WhatsApp +57 300 2954555 e Instagram @drjorgerios.",
+      "audience": "Pacientes interesados en cirugia plastica en la Costa Caribe colombiana que necesitan informacion y valoracion.",
+      "adAngle": "Valoracion de cirugia con ciudad, procedimiento y dudas claras",
+      "whatsappCta": "Quiero calificar pacientes antes de agenda",
+      "heroCopy": "En procedimientos medicos de alto valor, el primer contacto debe ser rapido, ordenado y responsable, sin prometer resultados.",
+      "brandWorldTitle": "De interes medico a valoracion responsable",
+      "diagnosisTitle": "Fugas en procedimiento, ciudad y etapa",
+      "botAgentName": "Coordinadora Dr. Rios demo",
+      "botAgentRole": "ordena solicitudes de valoracion",
+      "botTitle": "Asesor digital para primer contacto medico",
+      "botIntro": "El demo pregunta procedimiento de interes, ciudad, etapa, disponibilidad y dudas frecuentes, sin emitir diagnosticos.",
+      "botOpening": "Hola, soy la coordinadora demo del Dr. Rios. Te ayudo a preparar tu solicitud de valoracion con ciudad y procedimiento de interes.",
+      "botPrompts": [
+        "Valoracion",
+        "Procedimiento",
+        "Ciudad",
+        "Costos",
+        "WhatsApp"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "valoracion",
+            "cita",
+            "agenda"
+          ],
+          "answer": "Pediria ciudad, procedimiento de interes, disponibilidad y datos de contacto para coordinar valoracion."
+        },
+        {
+          "keywords": [
+            "procedimiento",
+            "cirugia",
+            "rinoplastia",
+            "mamoplastia"
+          ],
+          "answer": "Ordenaria el procedimiento de interes y dudas iniciales, aclarando que la recomendacion depende de valoracion medica."
+        },
+        {
+          "keywords": [
+            "costo",
+            "precio",
+            "valor"
+          ],
+          "answer": "Explicaria que los costos dependen de valoracion y capturaria contexto para evitar una respuesta generica."
+        }
+      ],
+      "findings": [
+        "La web publica presencia en Barranquilla, Santa Marta y Cartagena.",
+        "El sitio enlaza WhatsApp e Instagram.",
+        "La oferta corresponde a un servicio medico de alta consideracion."
+      ],
+      "siteIssues": [
+        "Los leads deben clasificarse por ciudad y procedimiento antes de WhatsApp.",
+        "Dudas de costo o seguridad requieren respuestas cuidadosas y consistentes.",
+        "La pauta necesita separar curiosos de pacientes listos para valoracion."
+      ],
+      "losses": [
+        "Pacientes de alto valor se enfrian si no reciben guia inicial.",
+        "El equipo repite preguntas de ciudad, procedimiento y disponibilidad.",
+        "Sin seguimiento, interesados que investigan varios medicos no vuelven."
+      ],
+      "heatmapData": [
+        "Clics por WhatsApp, procedimiento, ciudad, testimonios e Instagram.",
+        "Abandono antes de solicitud de valoracion.",
+        "Procedimientos con mayor intencion por fuente."
+      ],
+      "campaigns": [
+        "Campana de valoracion por ciudad y procedimiento.",
+        "Remarketing a visitantes de procedimientos sin WhatsApp.",
+        "Flujo de primer contacto responsable con dudas y agenda."
+      ],
+      "deliverables": [
+        "Optimizar web actual con triage medico-comercial.",
+        "Coordinadora digital para procedimiento, ciudad y agenda.",
+        "Panel de leads por fuente, ciudad, procedimiento y estado."
+      ],
+      "sources": [
+        "https://drjorgerios.com.co/",
+        "https://www.instagram.com/drjorgerios/"
+      ]
+    },
+    {
+      "slug": "bioforma-medicina-estetica-medellin",
+      "company": "Bioforma",
+      "instagram": "@clinicabioforma",
+      "website": "https://www.bioforma.com.co/contacto/",
+      "sector": "medicina estetica",
+      "city": "Medellin",
+      "tone": "clinico, estetico y confiable",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#8FB9A8",
+      "secondary": "#B9899B",
+      "status": "Web actual + contacto + Instagram",
+      "leadProblem": "Bioforma publica pagina de contacto de medicina estetica en Medellin e Instagram. La fuga probable esta en que el visitante llega con una duda de tratamiento, pero el contacto debe capturar objetivo, zona, disponibilidad y canal antes de que se enfrie.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor digital que ordene el motivo de consulta, oriente preguntas frecuentes y pase a agenda o WhatsApp con contexto.",
+      "proofLine": "Lectura publica del 22 de julio de 2026: bioforma.com.co/contacto presenta Bioforma Medicina Estetica Medellin y enlaza Instagram @clinicabioforma.",
+      "audience": "Personas en Medellin interesadas en medicina estetica, valoracion y tratamientos personalizados.",
+      "adAngle": "Contacto estetico con motivo y agenda claros",
+      "whatsappCta": "Quiero convertir visitas en valoraciones",
+      "heroCopy": "Una pagina de contacto debe hacer mas que recibir mensajes: debe convertir dudas de tratamiento en solicitudes listas para agenda.",
+      "brandWorldTitle": "De duda estetica a valoracion con contexto",
+      "diagnosisTitle": "Fugas en contacto, objetivo y seguimiento",
+      "botAgentName": "Asesora Bioforma demo",
+      "botAgentRole": "clasifica consultas esteticas",
+      "botTitle": "Asesor digital para medicina estetica",
+      "botIntro": "El demo pregunta objetivo, tratamiento visto, disponibilidad y datos de contacto antes de enviar a agenda.",
+      "botOpening": "Hola, soy la asesora demo de Bioforma. Te ayudo a preparar tu consulta estetica con objetivo y disponibilidad.",
+      "botPrompts": [
+        "Valoracion",
+        "Tratamiento",
+        "Objetivo",
+        "Horario",
+        "Instagram"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "valoracion",
+            "cita",
+            "agenda"
+          ],
+          "answer": "Pediria nombre, objetivo, tratamiento de interes y disponibilidad para pasar una solicitud completa."
+        },
+        {
+          "keywords": [
+            "tratamiento",
+            "facial",
+            "corporal",
+            "piel"
+          ],
+          "answer": "Clasificaria zona y preocupacion principal para orientar la respuesta sin prometer resultados."
+        },
+        {
+          "keywords": [
+            "contacto",
+            "whatsapp",
+            "instagram"
+          ],
+          "answer": "Conectaria la pregunta al canal correcto y dejaria la fuente marcada para seguimiento."
+        }
+      ],
+      "findings": [
+        "La pagina verificada es de contacto para medicina estetica en Medellin.",
+        "Instagram @clinicabioforma esta enlazado publicamente.",
+        "El flujo comercial depende de convertir contacto en cita o conversacion."
+      ],
+      "siteIssues": [
+        "Contacto generico puede recibir mensajes sin objetivo ni tratamiento.",
+        "La consulta estetica necesita triage antes de agenda.",
+        "Los visitantes de Instagram o web deben quedar en seguimiento medible."
+      ],
+      "losses": [
+        "Consultas se enfrian si no hay orientacion inmediata.",
+        "El equipo repite preguntas de objetivo, zona y disponibilidad.",
+        "Sin fuente y estado, la pauta no aprende que tratamiento vende."
+      ],
+      "heatmapData": [
+        "Clics por contacto, tratamiento, Instagram y agenda.",
+        "Abandono antes de enviar datos.",
+        "Objetivos esteticos con mayor intencion por fuente."
+      ],
+      "campaigns": [
+        "Campana de valoracion con objetivo y tratamiento.",
+        "Remarketing a visitantes de contacto sin solicitud.",
+        "Flujo de WhatsApp con datos, disponibilidad y seguimiento."
+      ],
+      "deliverables": [
+        "Optimizar web actual con formulario de triage estetico.",
+        "Asesora digital para dudas, objetivo y agenda.",
+        "Panel de leads por fuente, tratamiento y estado."
+      ],
+      "sources": [
+        "https://www.bioforma.com.co/contacto/",
+        "https://www.instagram.com/clinicabioforma/"
+      ]
     }
   ]
 }
