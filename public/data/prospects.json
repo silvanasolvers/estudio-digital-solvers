@@ -37493,6 +37493,937 @@
         "https://www.bioforma.com.co/contacto/",
         "https://www.instagram.com/clinicabioforma/"
       ]
+    },
+    {
+      "slug": "dr-escorcia-estetica-medellin",
+      "company": "Dr. Escorcia Estetica",
+      "instagram": "@dr.escorcia",
+      "website": "https://www.drescorciaestetica.com/",
+      "sector": "medicina estetica y procedimientos personalizados",
+      "city": "Medellin",
+      "tone": "medico, claro y aspiracional",
+      "accent": "#8C6B5A",
+      "secondary": "#3E8F86",
+      "status": "Web actual + tratamientos + formulario + WhatsApp",
+      "leadProblem": "La web publica tratamientos de medicina estetica en Medellin, agenda, formulario y WhatsApp. La fuga probable esta en que una persona llega preguntando por botox, acido hialuronico, lipopapada, capilar o procedimientos corporales, pero el equipo necesita filtrar objetivo, zona, expectativa, disponibilidad y urgencia antes de proponer valoracion.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor digital que clasifique tratamiento, resuelva dudas iniciales sin prometer resultados y entregue a WhatsApp una solicitud lista para seguimiento medico-comercial.",
+      "proofLine": "Lectura publica del 23 de julio de 2026: drescorciaestetica.com presenta clinica de medicina estetica en Medellin, tratamientos como botox, acido hialuronico, lipopapada, trasplante capilar, contacto, agenda, WhatsApp +57 302 291 3043 e Instagram @dr.escorcia.",
+      "audience": "Personas en Medellin interesadas en armonizacion facial, rejuvenecimiento, capilar o procedimientos esteticos con valoracion.",
+      "adAngle": "Tratamiento deseado + valoracion con contexto + seguimiento por WhatsApp",
+      "whatsappCta": "Quiero convertir consultas esteticas en valoraciones",
+      "heroCopy": "Una persona que mira tratamientos esteticos necesita claridad rapida: que aplica para su caso, como agendar y que informacion enviar antes de la valoracion.",
+      "brandWorldTitle": "De curiosidad por tratamiento a valoracion con contexto",
+      "diagnosisTitle": "Fugas entre tratamiento, formulario y WhatsApp",
+      "botAgentName": "Asesora Dr. Escorcia demo",
+      "botAgentRole": "clasifica consultas esteticas",
+      "botTitle": "Asesor digital para valoracion estetica",
+      "botIntro": "El demo pregunta tratamiento de interes, zona, objetivo, disponibilidad y datos minimos antes de pasar a WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de Dr. Escorcia. Te ayudo a ubicar tu tratamiento de interes y preparar una solicitud de valoracion.",
+      "botPrompts": [
+        "Botox",
+        "Lipopapada",
+        "Capilar",
+        "Valoracion",
+        "Financiacion"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "botox",
+            "toxina",
+            "arrugas"
+          ],
+          "answer": "Preguntaria zona de interes, objetivo, experiencia previa y disponibilidad para que el equipo reciba una consulta ordenada."
+        },
+        {
+          "keywords": [
+            "lipopapada",
+            "perfil",
+            "menton"
+          ],
+          "answer": "Clasificaria si la persona busca informacion, valoracion o agenda, y dejaria claro que la recomendacion final es medica."
+        },
+        {
+          "keywords": [
+            "capilar",
+            "trasplante",
+            "cabello"
+          ],
+          "answer": "Pediria motivo, etapa de interes y datos de contacto para seguimiento sin perder la fuente de la consulta."
+        }
+      ],
+      "findings": [
+        "La web presenta tratamientos faciales, capilares y corporales con enfoque medico.",
+        "Existen rutas visibles de contacto, agenda y WhatsApp.",
+        "Instagram @dr.escorcia aparece enlazado desde la web oficial."
+      ],
+      "siteIssues": [
+        "La variedad de tratamientos puede generar preguntas largas antes de agendar.",
+        "El formulario recoge interes, pero no necesariamente clasifica objetivo y urgencia.",
+        "La pauta debe saber que servicio origino cada conversacion."
+      ],
+      "losses": [
+        "Consultas de alto valor se enfrian si la primera respuesta tarda.",
+        "El equipo repite preguntas basicas sobre zona, objetivo y disponibilidad.",
+        "Sin estado del lead, es dificil recuperar interesados que no agendan de inmediato."
+      ],
+      "heatmapData": [
+        "Clics por tratamiento, agenda, formulario y WhatsApp.",
+        "Abandono antes de completar datos.",
+        "Servicios con mayor intencion por fuente de trafico."
+      ],
+      "campaigns": [
+        "Campana por tratamiento con preclasificacion de objetivo.",
+        "Remarketing a visitantes de tratamientos sin formulario.",
+        "Flujo de WhatsApp con estado: informacion, valoracion o agenda."
+      ],
+      "deliverables": [
+        "Optimizar web actual con triage por tratamiento.",
+        "Asesora digital para dudas frecuentes y agenda.",
+        "Panel de leads por servicio, fuente y proxima accion."
+      ],
+      "sources": [
+        "https://www.drescorciaestetica.com/",
+        "https://www.instagram.com/dr.escorcia/"
+      ]
+    },
+    {
+      "slug": "medicina-estetica-benavides-bogota",
+      "company": "Medicina Estetica Benavides",
+      "instagram": "@medicinaesteticabenavides",
+      "website": "https://medicinaesteticabenavides.com/",
+      "sector": "medicina estetica, laser y antiaging",
+      "city": "Bogota",
+      "tone": "experto, medico y cercano",
+      "accent": "#A06A76",
+      "secondary": "#C9A24F",
+      "status": "Web actual + agenda + WhatsApp + newsletter",
+      "leadProblem": "La web publica medicina estetica en Bogota, tratamientos faciales, corporales, laser, agenda y WhatsApp. La fuga probable esta en convertir una visita informada en una valoracion concreta con tratamiento de interes, objecion, disponibilidad y seguimiento.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor digital que ordene tratamientos, capture datos basicos y active agenda o WhatsApp con contexto para que la pauta no termine en conversaciones sueltas.",
+      "proofLine": "Lectura publica del 23 de julio de 2026: medicinaesteticabenavides.com presenta Medicina Estetica Bogota, Dra. Maria Fernanda Benavides, tratamientos, agenda de valoracion, Instagram @medicinaesteticabenavides y WhatsApp +57 301 808 2995.",
+      "audience": "Personas en Bogota buscando rejuvenecimiento facial, corporal, laser o valoracion estetica.",
+      "adAngle": "Valoracion estetica con tratamiento y expectativa claros",
+      "whatsappCta": "Quiero ordenar mis leads de valoracion",
+      "heroCopy": "Cuando la web ya genera confianza, el siguiente salto es capturar intencion: que tratamiento quiere la persona, que duda tiene y cuando puede asistir.",
+      "brandWorldTitle": "De confianza medica a cita accionable",
+      "diagnosisTitle": "Fugas entre tratamiento, descuento y agenda",
+      "botAgentName": "Asesora Benavides demo",
+      "botAgentRole": "prepara valoraciones esteticas",
+      "botTitle": "Asesor digital para agenda y tratamientos",
+      "botIntro": "El demo clasifica interes facial, corporal o laser y deja la solicitud lista para WhatsApp o agenda.",
+      "botOpening": "Hola, soy la asesora demo de Medicina Estetica Benavides. Te ayudo a ubicar tu tratamiento y preparar tu valoracion.",
+      "botPrompts": [
+        "Facial",
+        "Corporal",
+        "Laser",
+        "Valoracion",
+        "Descuento"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "facial",
+            "botox",
+            "labios",
+            "hilos"
+          ],
+          "answer": "Separaria el objetivo facial, experiencia previa y disponibilidad para enviar una solicitud lista a agenda."
+        },
+        {
+          "keywords": [
+            "corporal",
+            "laser",
+            "capilar"
+          ],
+          "answer": "Pediria area de interes y motivo de consulta para orientar sin diagnosticar por chat."
+        },
+        {
+          "keywords": [
+            "descuento",
+            "newsletter",
+            "valoracion"
+          ],
+          "answer": "Conectaria el incentivo con datos basicos y fecha tentativa para que no quede solo como suscripcion fria."
+        }
+      ],
+      "findings": [
+        "La web presenta tratamientos faciales, corporales, laser y agenda de valoracion.",
+        "El sitio conecta WhatsApp y perfiles de Instagram de la clinica/doctora.",
+        "Hay incentivo de newsletter asociado a la valoracion."
+      ],
+      "siteIssues": [
+        "El descuento puede captar datos sin prioridad comercial clara.",
+        "Tratamientos distintos requieren preguntas distintas antes de agenda.",
+        "La fuente de cada consulta debe quedar medible para pauta."
+      ],
+      "losses": [
+        "Leads de newsletter pueden quedarse sin seguimiento comercial.",
+        "WhatsApp recibe preguntas repetidas sin contexto.",
+        "La pauta no aprende que servicio trae mejores valoraciones."
+      ],
+      "heatmapData": [
+        "Clics por agenda, WhatsApp, newsletter y tratamiento.",
+        "Abandono entre tratamiento y formulario.",
+        "Valoraciones generadas por fuente y categoria."
+      ],
+      "campaigns": [
+        "Campana de valoracion por categoria estetica.",
+        "Remarketing a visitantes que revisaron tratamientos sin agendar.",
+        "Secuencia de seguimiento para leads de newsletter."
+      ],
+      "deliverables": [
+        "Optimizar web actual con preformulario de valoracion.",
+        "Asesora digital para triage medico-comercial.",
+        "Panel de leads por tratamiento, fuente y estado."
+      ],
+      "sources": [
+        "https://medicinaesteticabenavides.com/",
+        "https://www.instagram.com/medicinaesteticabenavides/"
+      ]
+    },
+    {
+      "slug": "dra-deysi-torres-bogota",
+      "company": "Dra. Deysi Torres",
+      "instagram": "@dradeysitorres",
+      "website": "https://dradeysitorres.com/",
+      "sector": "medicina estetica y antiage",
+      "city": "Bogota",
+      "tone": "premium, medico y natural",
+      "accent": "#B78A73",
+      "secondary": "#6D8C7D",
+      "status": "Web actual + tratamientos + agenda por WhatsApp",
+      "leadProblem": "La web comunica medicina estetica y antiage en Bogota, tratamientos como endolifting, blefaroplastia dual, hilos PDO y botox, con agenda por WhatsApp. La fuga probable esta en que el visitante necesita saber que tratamiento aplica para su caso antes de escribir.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor digital que pregunte objetivo, edad aproximada, tratamiento visto, disponibilidad y canal preferido antes de abrir WhatsApp.",
+      "proofLine": "Lectura publica del 23 de julio de 2026: dradeysitorres.com presenta medicina estetica y antiage en Bogota, agenda tu cita, Instagram @dradeysitorres, WhatsApp +57 302 342 8150 y tratamientos visibles.",
+      "audience": "Personas en Bogota interesadas en antiage, armonizacion facial y tratamientos de resultado natural.",
+      "adAngle": "Antiage natural + filtro de tratamiento + cita guiada",
+      "whatsappCta": "Quiero convertir dudas antiage en citas",
+      "heroImage": "https://dradeysitorres.com/wp-content/uploads/2026/02/Dra-Deysi-Torres-Bogota-pagina.png",
+      "heroCopy": "La confianza medica se construye antes de la cita: la web debe guiar la duda y dejar una solicitud clara para valoracion.",
+      "brandWorldTitle": "De deseo antiage a cita bien filtrada",
+      "diagnosisTitle": "Fugas antes de escribir por WhatsApp",
+      "botAgentName": "Asesora Deysi demo",
+      "botAgentRole": "orienta consultas antiage",
+      "botTitle": "Asesor digital para antiage y agenda",
+      "botIntro": "El demo ordena tratamiento de interes, objetivo, dudas de seguridad y disponibilidad.",
+      "botOpening": "Hola, soy la asesora demo de la Dra. Deysi Torres. Te ayudo a preparar tu consulta antiage sin perder contexto.",
+      "botPrompts": [
+        "Endolifting",
+        "Botox",
+        "Hilos PDO",
+        "Cita",
+        "Resultados"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "endolifting",
+            "blefaroplastia",
+            "hilos"
+          ],
+          "answer": "Preguntaria zona, objetivo y si busca informacion o valoracion para enviar al equipo una solicitud clara."
+        },
+        {
+          "keywords": [
+            "botox",
+            "natural",
+            "arrugas"
+          ],
+          "answer": "Orientaria la conversacion hacia expectativa natural, dudas y agenda, sin prometer resultado por chat."
+        },
+        {
+          "keywords": [
+            "cita",
+            "agenda",
+            "whatsapp"
+          ],
+          "answer": "Pediria nombre, disponibilidad y tratamiento visto para abrir WhatsApp con contexto completo."
+        }
+      ],
+      "findings": [
+        "La web posiciona medicina estetica y antiage en Bogota.",
+        "El sitio incluye agenda por WhatsApp e Instagram oficial.",
+        "La oferta mezcla tratamientos que requieren orientacion previa."
+      ],
+      "siteIssues": [
+        "La persona puede no saber que tratamiento pedir.",
+        "WhatsApp puede recibir dudas amplias sin filtro.",
+        "La pauta necesita diferenciar interes por tratamiento."
+      ],
+      "losses": [
+        "Citas potenciales se enfrian durante la comparacion.",
+        "El equipo repite explicaciones iniciales.",
+        "No queda claro que anuncio o servicio genera la consulta."
+      ],
+      "heatmapData": [
+        "Clics por tratamiento y WhatsApp.",
+        "Preguntas mas repetidas antes de agenda.",
+        "Abandono en bloques de informacion tecnica."
+      ],
+      "campaigns": [
+        "Campana por problema estetico con asesor de filtro.",
+        "Remarketing a visitantes de tratamientos sin WhatsApp.",
+        "Seguimiento segun interes: info, valoracion o cita."
+      ],
+      "deliverables": [
+        "Optimizar web actual con ruta de valoracion.",
+        "Asesora digital antiage para preguntas frecuentes.",
+        "Panel de leads por tratamiento y estado."
+      ],
+      "sources": [
+        "https://dradeysitorres.com/",
+        "http://instagram.com/dradeysitorres/"
+      ]
+    },
+    {
+      "slug": "nativa-estetica-medellin",
+      "company": "Nativa Estetica",
+      "instagram": "@nativaestetica",
+      "website": "https://www.nativaestetica.com/tratamientos",
+      "sector": "medicina estetica y tratamientos de piel",
+      "city": "Medellin",
+      "tone": "natural, tecnico y confiable",
+      "accent": "#6E9D84",
+      "secondary": "#D6A06D",
+      "status": "Web actual + tratamientos + Instagram",
+      "leadProblem": "La web publica tratamientos seguros, efectivos y avanzados para piel, cuerpo y pelo, con procedimientos como Sunekos e Instagram. La fuga probable esta en que la persona ve tecnologia y laboratorios, pero necesita una ruta simple para preguntar, valorar y agendar.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor digital que traduzca el catalogo de tratamientos a motivos de consulta, capture datos y active seguimiento por WhatsApp o agenda.",
+      "proofLine": "Lectura publica del 23 de julio de 2026: nativaestetica.com/tratamientos presenta tratamientos faciales, inyectables, botox, acido hialuronico, tecnologia, protocolos, laboratorios reconocidos e Instagram @nativaestetica.",
+      "audience": "Personas en Medellin buscando cuidado de piel, inyectables, hidratacion, botox o valoracion estetica.",
+      "adAngle": "Tratamiento tecnico explicado simple + agenda guiada",
+      "whatsappCta": "Quiero convertir interes por tratamientos en agenda",
+      "heroCopy": "Cuando el tratamiento suena tecnico, el sistema debe convertirlo en una pregunta facil: que quieres mejorar y cuando quieres valoracion.",
+      "brandWorldTitle": "De tratamiento tecnico a agenda clara",
+      "diagnosisTitle": "Fugas en comprension, contacto y seguimiento",
+      "botAgentName": "Asesora Nativa demo",
+      "botAgentRole": "explica tratamientos y filtra agenda",
+      "botTitle": "Asesor digital para tratamientos de piel",
+      "botIntro": "El demo clasifica piel, cuerpo o pelo y prepara la solicitud para seguimiento humano.",
+      "botOpening": "Hola, soy la asesora demo de Nativa. Te ayudo a entender que tratamiento mirar y como pedir una valoracion.",
+      "botPrompts": [
+        "Piel",
+        "Botox",
+        "Acido hialuronico",
+        "Sunekos",
+        "Agenda"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sunekos",
+            "piel",
+            "hidratacion"
+          ],
+          "answer": "Preguntaria objetivo de piel, zona y expectativa para orientar la consulta hacia valoracion."
+        },
+        {
+          "keywords": [
+            "botox",
+            "acido",
+            "hialuronico"
+          ],
+          "answer": "Separaria tratamiento de interes y dudas para que el equipo responda con contexto."
+        },
+        {
+          "keywords": [
+            "agenda",
+            "cita",
+            "instagram"
+          ],
+          "answer": "Capturaria nombre, disponibilidad y fuente para activar seguimiento sin perder el lead."
+        }
+      ],
+      "findings": [
+        "La web presenta tratamientos faciales, inyectables y tecnologia.",
+        "Instagram @nativaestetica aparece como canal publico.",
+        "La promesa se apoya en protocolos y laboratorios reconocidos."
+      ],
+      "siteIssues": [
+        "El catalogo tecnico puede frenar decisiones si no hay guia.",
+        "No toda visita entiende el siguiente paso comercial.",
+        "La pauta necesita medir interes por procedimiento."
+      ],
+      "losses": [
+        "Interes se enfria si la persona debe investigar sola.",
+        "Mensajes llegan sin saber tratamiento u objetivo.",
+        "Seguimiento queda manual y poco trazable."
+      ],
+      "heatmapData": [
+        "Clics por procedimiento y contacto.",
+        "Abandono en tratamientos tecnicos.",
+        "Motivos de consulta mas repetidos."
+      ],
+      "campaigns": [
+        "Campana por objetivo de piel con triage.",
+        "Remarketing a visitantes de tratamientos.",
+        "Flujo de agenda por categoria de interes."
+      ],
+      "deliverables": [
+        "Optimizar web actual con guia por motivo de consulta.",
+        "Asesora digital para dudas de tratamiento.",
+        "Panel de leads por procedimiento y fuente."
+      ],
+      "sources": [
+        "https://www.nativaestetica.com/tratamientos",
+        "https://www.instagram.com/nativaestetica/"
+      ]
+    },
+    {
+      "slug": "femo-estetica-medellin-rionegro",
+      "company": "Centro Medico Femo Estetica",
+      "instagram": "@femo_estetica",
+      "website": "https://www.femoesteticacolombia.com/",
+      "sector": "centro medico estetico y salud vascular",
+      "city": "Medellin / Rionegro",
+      "tone": "medico, humano y de trayectoria",
+      "accent": "#3C7D8E",
+      "secondary": "#C68F5B",
+      "status": "Web actual + Linktree + agenda + WhatsApp",
+      "leadProblem": "El Linktree publico comunica agenda de cita, Instagram, Facebook, web y sede Rionegro, con promesa de salud vascular y casos atendidos. La fuga probable esta en separar consultas esteticas, vasculares y sede correcta antes de abrir WhatsApp.",
+      "opportunity": "Mejorar conversion de la web actual y Linktree con una landing/asesor que pregunte motivo, sede, urgencia y disponibilidad para entregar leads listos al equipo.",
+      "proofLine": "Lectura publica del 23 de julio de 2026: linktr.ee/centromedicofemo enlaza agenda de cita, Instagram @femo_estetica, Facebook, website femoesteticacolombia.com y sede Rionegro; la web enlaza WhatsApp +57 319 575 7138.",
+      "audience": "Personas interesadas en medicina estetica, salud vascular, asesorias y citas en Medellin o Rionegro.",
+      "adAngle": "Cita medica con motivo, sede y horario claros",
+      "whatsappCta": "Quiero ordenar mis citas desde Instagram",
+      "heroCopy": "Si una marca atiende varias necesidades y sedes, el primer filtro comercial debe evitar mensajes incompletos.",
+      "brandWorldTitle": "De Linktree a cita medica clasificada",
+      "diagnosisTitle": "Fugas por motivo, sede y disponibilidad",
+      "botAgentName": "Asesora Femo demo",
+      "botAgentRole": "clasifica citas por motivo y sede",
+      "botTitle": "Asesor digital para agenda medica",
+      "botIntro": "El demo pregunta motivo de consulta, sede preferida, disponibilidad y datos minimos antes de WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de Femo. Te ayudo a preparar una cita con motivo, sede y horario.",
+      "botPrompts": [
+        "Cita",
+        "Sede",
+        "Vascular",
+        "Estetica",
+        "WhatsApp"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "vascular",
+            "salud"
+          ],
+          "answer": "Separaria motivo vascular, sintomas generales y sede preferida para escalarlo con prioridad al equipo."
+        },
+        {
+          "keywords": [
+            "estetica",
+            "tratamiento"
+          ],
+          "answer": "Preguntaria objetivo y tratamiento visto para que la respuesta no empiece desde cero."
+        },
+        {
+          "keywords": [
+            "sede",
+            "rionegro",
+            "cita"
+          ],
+          "answer": "Confirmaria sede, disponibilidad y datos de contacto antes de abrir WhatsApp."
+        }
+      ],
+      "findings": [
+        "El Linktree publico enlaza agenda, Instagram, Facebook, web y sede Rionegro.",
+        "La web oficial enlaza WhatsApp de contacto.",
+        "La oferta mezcla salud vascular, estetica y sedes."
+      ],
+      "siteIssues": [
+        "Linktree reparte la intencion sin clasificarla.",
+        "WhatsApp puede recibir solicitudes sin motivo ni sede.",
+        "La pauta necesita saber que consulta y sede generan conversion."
+      ],
+      "losses": [
+        "Citas se demoran si falta informacion basica.",
+        "El equipo debe pedir datos repetidos.",
+        "Interes desde Instagram queda sin seguimiento estructurado."
+      ],
+      "heatmapData": [
+        "Clics por agenda, sede, WhatsApp e Instagram.",
+        "Motivos de consulta mas frecuentes.",
+        "Leads por sede y urgencia."
+      ],
+      "campaigns": [
+        "Campana de cita por motivo y sede.",
+        "Remarketing a visitantes de Linktree sin agenda.",
+        "Flujo de WhatsApp con clasificacion inicial."
+      ],
+      "deliverables": [
+        "Optimizar Linktree/web con landing de cita guiada.",
+        "Asesora digital por motivo, sede y horario.",
+        "Panel de leads por fuente, sede y estado."
+      ],
+      "sources": [
+        "https://linktr.ee/centromedicofemo",
+        "https://www.femoesteticacolombia.com/",
+        "https://www.instagram.com/femo_estetica/"
+      ]
+    },
+    {
+      "slug": "selva-de-oro-medellin",
+      "company": "Selva de Oro",
+      "instagram": "@selva.deoro",
+      "website": "https://www.selvadeoro.co/",
+      "sector": "muebles, decoracion e interiorismo",
+      "city": "Medellin",
+      "tone": "artesanal, consciente y sofisticado",
+      "accent": "#9B7B43",
+      "secondary": "#44624A",
+      "status": "Web actual + categorias + cotizacion + Instagram",
+      "leadProblem": "La web publica categorias de espejos, asientos, comedores, dormitorios, decorativos, interiorismo, cotiza tu proyecto, newsletter e Instagram. La fuga probable esta en que una visita inspirada no deja medidas, espacio, presupuesto, ciudad y urgencia antes de pedir cotizacion.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor digital de proyecto que traduzca inspiracion en brief comercial: tipo de pieza, medidas, material, ciudad, fecha y presupuesto aproximado.",
+      "proofLine": "Lectura publica del 23 de julio de 2026: selvadeoro.co presenta Selva de Oro, categorias de muebles/decoracion, showroom Calle 12 #30 Medellin, envios a todo el pais, boton COTIZA TU PROYECTO e Instagram @selva.deoro.",
+      "audience": "Personas y aliados que buscan muebles de diseno, decoracion, espejos, comedores o interiorismo en Colombia.",
+      "adAngle": "Inspiracion de mueble + brief de cotizacion listo",
+      "whatsappCta": "Quiero convertir visitas en cotizaciones de proyecto",
+      "heroImage": "https://www.selvadeoro.co/assets/hero-banner-1-DABr-LTT.jpg",
+      "heroCopy": "En mobiliario, el cliente se enamora visualmente pero cotiza con datos: espacio, medidas, estilo, ciudad y fecha.",
+      "brandWorldTitle": "De inspiracion decorativa a cotizacion accionable",
+      "diagnosisTitle": "Fugas entre catalogo, proyecto y datos",
+      "botAgentName": "Asesora Selva demo",
+      "botAgentRole": "arma briefs de mobiliario",
+      "botTitle": "Asesor digital para cotizar proyectos",
+      "botIntro": "El demo pregunta categoria, medidas, espacio, ciudad y estilo antes de pasar a cotizacion.",
+      "botOpening": "Hola, soy la asesora demo de Selva de Oro. Te ayudo a convertir tu idea de espacio en un brief de cotizacion.",
+      "botPrompts": [
+        "Comedor",
+        "Espejo",
+        "Sofa",
+        "Interiorismo",
+        "Medidas"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "comedor",
+            "sofa",
+            "asiento"
+          ],
+          "answer": "Pediria medidas aproximadas, material deseado, ciudad y fecha ideal para preparar una cotizacion util."
+        },
+        {
+          "keywords": [
+            "espejo",
+            "decorativo",
+            "dormitorio"
+          ],
+          "answer": "Preguntaria espacio, estilo y referencia para evitar una conversacion demasiado abierta."
+        },
+        {
+          "keywords": [
+            "interiorismo",
+            "proyecto",
+            "aliado"
+          ],
+          "answer": "Armaría un brief con tipo de proyecto, alcance, ciudad y datos del decisor."
+        }
+      ],
+      "findings": [
+        "La web tiene categorias claras de mobiliario y decoracion.",
+        "Existe CTA publico para cotizar proyecto.",
+        "Instagram @selva.deoro esta enlazado desde el sitio."
+      ],
+      "siteIssues": [
+        "El visitante inspirado puede no saber que datos enviar.",
+        "Cotizaciones manuales requieren medidas y contexto.",
+        "Newsletter y WhatsApp deben conectarse con intencion comercial."
+      ],
+      "losses": [
+        "Ideas se enfrian si la cotizacion arranca con demasiadas preguntas.",
+        "El equipo invierte tiempo en leads sin medidas o presupuesto.",
+        "La pauta pierde lectura de categorias con mayor demanda."
+      ],
+      "heatmapData": [
+        "Clics por categoria, cotizacion y WhatsApp.",
+        "Productos o proyectos con mayor intencion.",
+        "Abandono antes de dejar datos de proyecto."
+      ],
+      "campaigns": [
+        "Campana por categorias de alto ticket.",
+        "Remarketing a visitantes de proyectos sin cotizar.",
+        "Flujo de brief para aliados e interiorismo."
+      ],
+      "deliverables": [
+        "Optimizar web actual con formulario de proyecto.",
+        "Asesora digital para briefs de mobiliario.",
+        "Panel de cotizaciones por categoria, ciudad y estado."
+      ],
+      "sources": [
+        "https://www.selvadeoro.co/",
+        "https://www.instagram.com/selva.deoro/"
+      ]
+    },
+    {
+      "slug": "idearthome-muebles-bogota",
+      "company": "IdeArtHome",
+      "instagram": "@idearthome",
+      "website": "https://idearthome.com/",
+      "sector": "muebles premium, comedores y sofas",
+      "city": "Bogota",
+      "tone": "premium, practico y de diseno",
+      "accent": "#6E4F3A",
+      "secondary": "#2F6F73",
+      "status": "Web actual + posicionamiento de muebles en Bogota",
+      "leadProblem": "La web se posiciona como muebles Bogota, comedores y sofas premium en el barrio 12 de Octubre, con calidad, instalacion y domicilio incluido. La fuga probable esta en que una persona quiere cotizar, pero antes deben capturarse espacio, medidas, estilo, entrega y presupuesto.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor digital que convierta visitas de Google e Instagram en briefs de cotizacion listos para el vendedor.",
+      "proofLine": "Lectura publica del 23 de julio de 2026: idearthome.com titula IdeArtHome | Muebles Bogota - Comedores y Sofas Premium 12 de Octubre y describe venta de muebles en Bogota, calidad premium, instalacion y domicilio incluido; busqueda publica asocia Instagram @idearthome.",
+      "audience": "Personas en Bogota que comparan comedores, sofas y muebles premium con instalacion o domicilio.",
+      "adAngle": "Mueble premium + cotizacion con medidas y entrega",
+      "whatsappCta": "Quiero convertir visitas en cotizaciones de muebles",
+      "heroCopy": "El cliente de muebles no solo pregunta precio: necesita aterrizar medidas, material, fecha y domicilio para avanzar.",
+      "brandWorldTitle": "De busqueda de sofa a cotizacion lista",
+      "diagnosisTitle": "Fugas entre visita, medidas y cierre",
+      "botAgentName": "Asesora IdeArtHome demo",
+      "botAgentRole": "prepara cotizaciones de muebles",
+      "botTitle": "Asesor digital para sofas y comedores",
+      "botIntro": "El demo pide categoria, medidas, ciudad, fecha de entrega y estilo antes de WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de IdeArtHome. Te ayudo a preparar una cotizacion de mueble con los datos correctos.",
+      "botPrompts": [
+        "Sofa",
+        "Comedor",
+        "Medidas",
+        "Entrega",
+        "Presupuesto"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sofa",
+            "comedor",
+            "mueble"
+          ],
+          "answer": "Pediria medidas del espacio, referencia de estilo y fecha tentativa para que el vendedor cotice con contexto."
+        },
+        {
+          "keywords": [
+            "domicilio",
+            "instalacion",
+            "entrega"
+          ],
+          "answer": "Confirmaria zona de Bogota, tipo de entrega y si requiere instalacion."
+        },
+        {
+          "keywords": [
+            "precio",
+            "presupuesto",
+            "cotiza"
+          ],
+          "answer": "Usaria presupuesto aproximado como filtro comercial, sin cerrar valor antes de conocer medidas y materiales."
+        }
+      ],
+      "findings": [
+        "La web comunica muebles premium en Bogota, comedores y sofas.",
+        "El sitio menciona instalacion y domicilio incluido.",
+        "Instagram @idearthome aparece asociado en busqueda publica del negocio."
+      ],
+      "siteIssues": [
+        "El visitante puede preguntar precio sin medidas.",
+        "No toda cotizacion llega con estilo, entrega y presupuesto.",
+        "La pauta debe diferenciar interes en sofa, comedor u otra categoria."
+      ],
+      "losses": [
+        "Leads incompletos consumen tiempo del vendedor.",
+        "El comprador compara y se enfria si no recibe respuesta estructurada.",
+        "Sin eventos no se sabe que categoria atrae mejores solicitudes."
+      ],
+      "heatmapData": [
+        "Clics por categoria y CTA.",
+        "Cotizaciones iniciadas por sofa o comedor.",
+        "Abandono antes de enviar medidas."
+      ],
+      "campaigns": [
+        "Campana de sofas y comedores con brief guiado.",
+        "Remarketing a visitas sin cotizacion.",
+        "Flujo de WhatsApp con medidas, estilo y entrega."
+      ],
+      "deliverables": [
+        "Optimizar web actual con formulario de cotizacion.",
+        "Asesora digital para briefs de muebles.",
+        "Panel de leads por categoria y estado."
+      ],
+      "sources": [
+        "https://idearthome.com/",
+        "https://www.instagram.com/idearthome/"
+      ]
+    },
+    {
+      "slug": "heroes-burger-bogota",
+      "company": "Heroes Burger Bogota",
+      "instagram": "@heroesburgerbogota",
+      "website": "https://heroesburgerbogota.com/",
+      "sector": "restaurante tematico y celebraciones",
+      "city": "Bogota",
+      "tone": "familiar, divertido y directo",
+      "accent": "#F3B51B",
+      "secondary": "#D73F35",
+      "status": "Web actual + reservas por WhatsApp",
+      "leadProblem": "La web vende experiencia de cumpleaños con tematicas, ponque, comida, mesas gamer, flyer TV y personajes, con reserva por WhatsApp. La fuga probable esta en que cada familia pregunta fecha, numero de ninos, tematica, comida, sede y paquete antes de reservar.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor digital de celebraciones que arme la solicitud completa antes de WhatsApp y facilite seguimiento de familias interesadas.",
+      "proofLine": "Lectura publica del 23 de julio de 2026: heroesburgerbogota.com presenta Experiencia Heroes Burger, celebraciones familiares, comida, tematicas, mesas gamer, reserva por WhatsApp +57 350 657 2272 e Instagram @heroesburgerbogota.",
+      "audience": "Familias de Bogota y alrededores buscando celebraciones infantiles tematicas con comida y experiencia.",
+      "adAngle": "Cumpleanos tematico + reserva con fecha y paquete",
+      "whatsappCta": "Quiero convertir interesados en reservas de cumpleanos",
+      "heroCopy": "Una familia emocionada por celebrar necesita resolver fecha, cupos, paquete y detalles sin esperar diez mensajes.",
+      "brandWorldTitle": "De antojo tematico a reserva familiar",
+      "diagnosisTitle": "Fugas antes de confirmar celebracion",
+      "botAgentName": "Anfitrion Heroes demo",
+      "botAgentRole": "arma reservas de cumpleanos",
+      "botTitle": "Asesor digital para celebraciones",
+      "botIntro": "El demo pregunta fecha, numero de personas, edad, tematica y paquete para pasar a WhatsApp.",
+      "botOpening": "Hola, soy el anfitrion demo de Heroes Burger. Te ayudo a preparar una celebracion con fecha, tematica y numero de invitados.",
+      "botPrompts": [
+        "Cumpleanos",
+        "Fecha",
+        "Tematica",
+        "Paquete",
+        "Personas"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cumple",
+            "celebracion",
+            "reserva"
+          ],
+          "answer": "Pediria fecha, hora, edad del cumpleanero, numero de personas y tematica para enviar una solicitud lista."
+        },
+        {
+          "keywords": [
+            "paquete",
+            "comida",
+            "ponque"
+          ],
+          "answer": "Separaria si busca informacion de paquete o disponibilidad para que el equipo responda con prioridad."
+        },
+        {
+          "keywords": [
+            "gamer",
+            "personaje",
+            "tematica"
+          ],
+          "answer": "Registraria preferencias de experiencia para personalizar la respuesta de cierre."
+        }
+      ],
+      "findings": [
+        "La web presenta una experiencia de celebracion familiar.",
+        "Tiene CTA directo de reserva por WhatsApp.",
+        "Instagram @heroesburgerbogota esta enlazado desde el sitio."
+      ],
+      "siteIssues": [
+        "WhatsApp puede abrir sin fecha ni numero de invitados.",
+        "Los paquetes requieren preguntas repetidas.",
+        "La pauta debe medir que tematica o celebracion genera reserva."
+      ],
+      "losses": [
+        "Familias comparan planes y se enfrían si falta respuesta rapida.",
+        "El equipo repite datos basicos de reserva.",
+        "Interes por pauta queda sin seguimiento si no confirma de inmediato."
+      ],
+      "heatmapData": [
+        "Clics en reserva y secciones de experiencia.",
+        "Solicitudes por fecha, tematica y paquete.",
+        "Abandono antes de WhatsApp."
+      ],
+      "campaigns": [
+        "Campana de cumpleanos por edad/tematica.",
+        "Remarketing a visitantes sin reserva.",
+        "Flujo de WhatsApp con datos de celebracion."
+      ],
+      "deliverables": [
+        "Optimizar web actual con preformulario de reserva.",
+        "Asesor digital para celebraciones familiares.",
+        "Panel de reservas por fuente, fecha y estado."
+      ],
+      "sources": [
+        "https://heroesburgerbogota.com/",
+        "https://www.instagram.com/heroesburgerbogota/"
+      ]
+    },
+    {
+      "slug": "wow-bogota-restaurante-show",
+      "company": "WOW Bogota",
+      "instagram": "@wowbogota",
+      "website": "https://www.wowbogota.com/",
+      "sector": "restaurante, menu y shows",
+      "city": "Bogota",
+      "tone": "energetico, nocturno y experiencial",
+      "accent": "#E6427A",
+      "secondary": "#23B7D5",
+      "status": "Web actual + menu + shows + WhatsApp",
+      "leadProblem": "La web publica menu, shows, experiencia WOW, contacto y WhatsApp. La fuga probable esta en que una persona quiere reservar o preguntar por show, fecha, numero de personas y ocasion, pero llega a WhatsApp sin contexto suficiente.",
+      "opportunity": "Mejorar conversion de la web actual con un asistente de reservas que conecte menu, show, fecha, grupo y ocasion antes de abrir WhatsApp.",
+      "proofLine": "Lectura publica del 23 de julio de 2026: wowbogota.com muestra secciones Inicio, Menu, Shows, Experiencia WOW, Contacto, WhatsApp +57 302 752 9300 e Instagram @wowbogota.",
+      "audience": "Personas en Bogota buscando restaurante con show, celebraciones, grupos y plan nocturno.",
+      "adAngle": "Show + reserva con fecha, grupo y ocasion",
+      "whatsappCta": "Quiero convertir interes por shows en reservas",
+      "heroCopy": "Un show llama la atencion, pero la reserva necesita datos concretos: fecha, hora, personas y motivo del plan.",
+      "brandWorldTitle": "De impacto visual a reserva confirmable",
+      "diagnosisTitle": "Fugas entre show, menu y WhatsApp",
+      "botAgentName": "Host WOW demo",
+      "botAgentRole": "guia reservas y shows",
+      "botTitle": "Asesor digital para reservas con show",
+      "botIntro": "El demo pregunta fecha, personas, ocasion y preferencia de menu/show antes de WhatsApp.",
+      "botOpening": "Hola, soy el host demo de WOW Bogota. Te ayudo a preparar una reserva con show, fecha y numero de personas.",
+      "botPrompts": [
+        "Show",
+        "Menu",
+        "Reserva",
+        "Cumpleanos",
+        "Grupo"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "show",
+            "experiencia"
+          ],
+          "answer": "Preguntaria fecha, horario y numero de personas para ubicar la reserva correcta."
+        },
+        {
+          "keywords": [
+            "menu",
+            "comida",
+            "carta"
+          ],
+          "answer": "Guiaria hacia menu y marcaria interes para seguimiento si todavia no reserva."
+        },
+        {
+          "keywords": [
+            "cumple",
+            "grupo",
+            "reserva"
+          ],
+          "answer": "Pediria ocasion, personas y datos de contacto para abrir WhatsApp con contexto."
+        }
+      ],
+      "findings": [
+        "La web conecta menu, shows, experiencia, contacto y WhatsApp.",
+        "Instagram @wowbogota aparece enlazado desde el sitio.",
+        "El WhatsApp oficial esta visible en la web."
+      ],
+      "siteIssues": [
+        "El visitante puede saltar a WhatsApp sin datos de reserva.",
+        "Menu y shows deben terminar en accion medible.",
+        "Los grupos necesitan preguntas de cupo y ocasion."
+      ],
+      "losses": [
+        "Reservas se enfrían si no hay confirmacion rapida.",
+        "El equipo repite fecha, hora y personas.",
+        "La pauta no distingue interes por show, menu o celebracion."
+      ],
+      "heatmapData": [
+        "Clics por menu, shows, contacto y WhatsApp.",
+        "Solicitudes por ocasion y tamano de grupo.",
+        "Abandono antes de reserva."
+      ],
+      "campaigns": [
+        "Campana de show por fecha y ocasion.",
+        "Remarketing a visitantes de menu/show sin WhatsApp.",
+        "Flujo de reserva con datos de grupo."
+      ],
+      "deliverables": [
+        "Optimizar web actual con pre-reserva.",
+        "Host digital para menu, shows y grupos.",
+        "Panel de reservas por fuente, ocasion y estado."
+      ],
+      "sources": [
+        "https://www.wowbogota.com/",
+        "https://www.instagram.com/wowbogota/"
+      ]
+    },
+    {
+      "slug": "afluente-restaurante-bogota",
+      "company": "Afluente Restaurante",
+      "instagram": "@afluenterestaurante",
+      "website": "https://www.afluenterestaurante.com/en",
+      "sector": "restaurante de experiencia gastronomica",
+      "city": "Bogota",
+      "tone": "gastronomico, sobrio y territorial",
+      "accent": "#43695A",
+      "secondary": "#B28B54",
+      "status": "Web actual + contacto + WhatsApp",
+      "leadProblem": "La web publica direccion en Chapinero Alto, horarios, contacto y WhatsApp para reserva. La fuga probable esta en que la persona llega atraida por la experiencia gastronomica, pero debe enviar fecha, hora, personas, restricciones y ocasion para que la reserva avance.",
+      "opportunity": "Mejorar conversion de la web actual con un anfitrion digital que recoja datos de reserva y mantenga la conversacion alineada con una experiencia gastronomica cuidada.",
+      "proofLine": "Lectura publica del 23 de julio de 2026: afluenterestaurante.com presenta Afluente Restaurante en Kr 3a 57-35 Chapinero Alto Bogota, horarios, correo, WhatsApp +57 323 811 7763 e Instagram @afluenterestaurante.",
+      "audience": "Clientes en Bogota que buscan restaurante de experiencia, cena, almuerzo y reservas en Chapinero Alto.",
+      "adAngle": "Experiencia gastronomica + reserva guiada",
+      "whatsappCta": "Quiero mejorar reservas desde la web",
+      "heroCopy": "Una experiencia gastronomica necesita un cierre igual de cuidado: fecha, personas y contexto antes de confirmar.",
+      "brandWorldTitle": "De exploracion gastronomica a reserva lista",
+      "diagnosisTitle": "Fugas en reserva, horario y contexto",
+      "botAgentName": "Anfitrion Afluente demo",
+      "botAgentRole": "prepara reservas gastronomicas",
+      "botTitle": "Asesor digital para reservas",
+      "botIntro": "El demo pregunta fecha, hora, personas, ocasion y restricciones antes de enviar WhatsApp.",
+      "botOpening": "Hola, soy el anfitrion demo de Afluente. Te ayudo a preparar una reserva con fecha, hora y numero de personas.",
+      "botPrompts": [
+        "Reserva",
+        "Horario",
+        "Cena",
+        "Restricciones",
+        "Ubicacion"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "reserva",
+            "mesa",
+            "personas"
+          ],
+          "answer": "Pediria fecha, hora, numero de personas y nombre para enviar WhatsApp listo para confirmar."
+        },
+        {
+          "keywords": [
+            "horario",
+            "ubicacion",
+            "chapinero"
+          ],
+          "answer": "Responderia direccion y horarios, y ofreceria cerrar con reserva en el mismo flujo."
+        },
+        {
+          "keywords": [
+            "restriccion",
+            "alergia",
+            "ocasion"
+          ],
+          "answer": "Registraria restricciones u ocasion para que el equipo llegue preparado."
+        }
+      ],
+      "findings": [
+        "La web publica direccion, horarios, contacto y WhatsApp.",
+        "Instagram @afluenterestaurante aparece enlazado desde el sitio.",
+        "La oferta se presenta como restaurante con investigacion de paramos y despensa colombiana."
+      ],
+      "siteIssues": [
+        "Contacto puede recibir reservas incompletas.",
+        "Horarios y direccion no siempre terminan en lead medible.",
+        "La pauta debe separar visitas por cena, almuerzo y reserva."
+      ],
+      "losses": [
+        "Reservas se enfrían si falta una respuesta estructurada.",
+        "El equipo repite preguntas operativas.",
+        "Interes por la experiencia no queda en remarketing si no escribe."
+      ],
+      "heatmapData": [
+        "Clics por contacto, WhatsApp, horarios y ubicacion.",
+        "Reservas iniciadas por horario.",
+        "Abandono antes de enviar datos."
+      ],
+      "campaigns": [
+        "Campana de reservas por franja horaria.",
+        "Remarketing a visitantes sin WhatsApp.",
+        "Flujo de reserva con fecha, personas y restricciones."
+      ],
+      "deliverables": [
+        "Optimizar web actual con pre-reserva.",
+        "Anfitrion digital para preguntas y agenda.",
+        "Panel de reservas por fuente, horario y estado."
+      ],
+      "sources": [
+        "https://www.afluenterestaurante.com/en",
+        "https://www.instagram.com/afluenterestaurante/"
+      ]
     }
   ]
 }
