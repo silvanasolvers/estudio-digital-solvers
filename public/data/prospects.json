@@ -38424,6 +38424,936 @@
         "https://www.afluenterestaurante.com/en",
         "https://www.instagram.com/afluenterestaurante/"
       ]
+    },
+    {
+      "slug": "skin-laureles-medellin",
+      "company": "SKIN Laureles",
+      "instagram": "@skincentroestetico.med",
+      "website": "https://skincentroestetico.com.co/",
+      "sector": "clinica estetica y medicina estetica",
+      "city": "Medellin",
+      "tone": "medico, natural y confiable",
+      "accent": "#D9A06A",
+      "secondary": "#6D8F8A",
+      "status": "Web actual + tratamientos + valoracion gratuita",
+      "leadProblem": "La web publica tratamientos faciales, corporales y medicos, valoracion gratuita, reseñas de Google y sede en Laureles. La fuga probable esta en que una persona interesada en botox, acido hialuronico, laser o corporal todavia necesita filtrar objetivo, zona, dudas de seguridad y disponibilidad antes de agendar.",
+      "opportunity": "Mejorar conversion de la web actual con una asesora digital que clasifique tratamiento, expectativa, contraindicaciones basicas, horario y canal de contacto antes de abrir WhatsApp o agenda.",
+      "proofLine": "Lectura publica del 24 de julio de 2026: skincentroestetico.com.co presenta SKIN Laureles en Medellin, tratamientos faciales, corporales y medicos, valoracion gratuita, sede Carrera 83A 33B-77 e Instagram @skincentroestetico.med.",
+      "audience": "Personas en Medellin que buscan resultados naturales, cuidado de piel, toxina botulinica, acido hialuronico, laser o tratamientos corporales.",
+      "adAngle": "Resultado natural + valoracion guiada + seguimiento",
+      "whatsappCta": "Quiero convertir interes estetico en valoraciones",
+      "heroCopy": "En estetica, la persona no solo pregunta precio: quiere saber si el tratamiento aplica para su caso y si puede confiar antes de agendar.",
+      "brandWorldTitle": "De curiosidad estetica a valoracion preparada",
+      "diagnosisTitle": "Fugas entre tratamiento, confianza y agenda",
+      "botAgentName": "Asesora SKIN demo",
+      "botAgentRole": "clasifica valoraciones esteticas",
+      "botTitle": "Asesor digital para tratamientos y agenda",
+      "botIntro": "El demo pregunta objetivo, tratamiento visto, zona de interes, disponibilidad y duda principal antes de enviar a agenda.",
+      "botOpening": "Hola, soy la asesora demo de SKIN Laureles. Te ayudo a ubicar el tratamiento que quieres revisar y preparar una valoracion.",
+      "botPrompts": [
+        "Botox",
+        "Hialuronico",
+        "Laser CO2",
+        "Corporal",
+        "Valoracion"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "botox",
+            "toxina",
+            "arrugas"
+          ],
+          "answer": "Preguntaria zona de interes, objetivo natural y disponibilidad para dejar la valoracion lista."
+        },
+        {
+          "keywords": [
+            "hialuronico",
+            "labios",
+            "rinomodelacion"
+          ],
+          "answer": "Ordenaria objetivo, zona y duda principal antes de pasar la consulta al equipo medico."
+        },
+        {
+          "keywords": [
+            "laser",
+            "corporal",
+            "sculpting"
+          ],
+          "answer": "Separaria piel, manchas, estrias o reduccion corporal para que el seguimiento no llegue generico."
+        }
+      ],
+      "findings": [
+        "La web muestra lineas de tratamientos faciales, corporales y medicos.",
+        "Publica valoracion gratuita y sede en Laureles, Medellin.",
+        "El perfil @skincentroestetico.med aparece asociado al sitio oficial."
+      ],
+      "siteIssues": [
+        "Tratamientos distintos pueden caer en la misma conversacion sin clasificacion.",
+        "La confianza visible no siempre se convierte en cita si falta disponibilidad inmediata.",
+        "La pauta debe separar interes por facial, corporal y medico estetico."
+      ],
+      "losses": [
+        "Pacientes comparan opciones y se enfrian si la primera respuesta no orienta.",
+        "El equipo repite preguntas sobre zona, objetivo, horarios y seguridad.",
+        "Sin trazabilidad por tratamiento, la pauta no aprende que servicio trae valoraciones reales."
+      ],
+      "heatmapData": [
+        "Clics por tratamiento, valoracion y contacto.",
+        "Preguntas frecuentes por zona facial, corporal o medico estetica.",
+        "Abandono antes de agendar valoracion."
+      ],
+      "campaigns": [
+        "Campana por tratamiento con mensajes separados por objetivo.",
+        "Remarketing a visitantes de tratamiento sin agenda.",
+        "Flujo de valoracion con tratamiento, disponibilidad y duda principal."
+      ],
+      "deliverables": [
+        "Optimizar web actual con rutas de valoracion por tratamiento.",
+        "Asesora digital para clasificar consultas sin diagnosticar.",
+        "Panel de oportunidades por servicio, fuente y estado de agenda."
+      ],
+      "sources": [
+        "https://skincentroestetico.com.co/",
+        "https://www.instagram.com/skincentroestetico.med/"
+      ]
+    },
+    {
+      "slug": "glw-medicina-estetica-bogota",
+      "company": "GLW Medicina Estetica",
+      "instagram": "@glwbogota",
+      "website": "https://www.glw.com.co/",
+      "sector": "medicina estetica corporal y facial",
+      "city": "Bogota",
+      "tone": "tecnologico, clinico y aspiracional",
+      "accent": "#B982FF",
+      "secondary": "#44C2B2",
+      "status": "Web actual + protocolos + agenda por contacto",
+      "leadProblem": "La web comunica protocolos europeos en Colombia, tratamientos corporales y faciales como HIFU y Venus Bliss. La fuga probable esta en que una visita interesada necesita entender que protocolo aplica, expectativas, sesiones, disponibilidad y forma de agenda antes de avanzar.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor que separe rostro/cuerpo, objetivo, etapa del cliente y disponibilidad, y entregue a WhatsApp un lead con contexto.",
+      "proofLine": "Lectura publica del 24 de julio de 2026: glw.com.co presenta GLW Medicina Estetica con protocolos europeos en Colombia, tratamientos faciales y corporales; busqueda publica asocia Instagram @glwbogota con GLW Bogota.",
+      "audience": "Personas en Bogota interesadas en reduccion de medidas, celulitis, lifting facial no quirurgico y tratamientos esteticos con tecnologia.",
+      "adAngle": "Tecnologia estetica + orientacion rapida + cita medible",
+      "whatsappCta": "Quiero convertir visitas en citas esteticas",
+      "heroCopy": "Cuando la promesa es tecnologia estetica, la venta se gana explicando rapido si el protocolo encaja con el objetivo de la persona.",
+      "brandWorldTitle": "De tratamiento llamativo a cita filtrada",
+      "diagnosisTitle": "Fugas entre protocolo, duda y agenda",
+      "botAgentName": "Asesora GLW demo",
+      "botAgentRole": "orienta tratamientos por objetivo",
+      "botTitle": "Asesor digital para protocolos esteticos",
+      "botIntro": "El demo pregunta si el interes es facial o corporal, objetivo, zona, expectativa y disponibilidad.",
+      "botOpening": "Hola, soy la asesora demo de GLW. Te ayudo a ubicar si tu interes es facial, corporal o una valoracion inicial.",
+      "botPrompts": [
+        "HIFU",
+        "Venus Bliss",
+        "Celulitis",
+        "Rostro",
+        "Cita"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "hifu",
+            "rostro",
+            "lifting"
+          ],
+          "answer": "Preguntaria edad aproximada, zona de interes y disponibilidad para preparar una cita de valoracion."
+        },
+        {
+          "keywords": [
+            "venus",
+            "cuerpo",
+            "medidas"
+          ],
+          "answer": "Separaria objetivo corporal, zona y expectativa para que el equipo no reciba una pregunta abierta."
+        },
+        {
+          "keywords": [
+            "cita",
+            "agenda",
+            "precio"
+          ],
+          "answer": "Pediria datos minimos y horario preferido antes de abrir WhatsApp con contexto comercial."
+        }
+      ],
+      "findings": [
+        "La web presenta protocolos europeos y tratamientos faciales/corporales.",
+        "HIFU y Venus Bliss aparecen como tratamientos visibles.",
+        "Instagram @glwbogota aparece asociado publicamente con GLW Bogota."
+      ],
+      "siteIssues": [
+        "La oferta tecnologica puede requerir explicacion antes de que la persona agende.",
+        "Rostro y cuerpo necesitan rutas de seguimiento distintas.",
+        "La pauta debe medir tratamiento visto, duda y cita solicitada."
+      ],
+      "losses": [
+        "Leads interesados se enfrian si no entienden rapido el siguiente paso.",
+        "El equipo repite explicaciones sobre protocolos y expectativas.",
+        "Sin clasificacion, la pauta optimiza clics pero no necesariamente citas."
+      ],
+      "heatmapData": [
+        "Clics por protocolo facial o corporal.",
+        "Dudas antes de pedir valoracion.",
+        "Abandono entre tratamiento y contacto."
+      ],
+      "campaigns": [
+        "Campana separada para HIFU, Venus Bliss y reduccion corporal.",
+        "Remarketing a visitantes de tratamiento sin cita.",
+        "Flujo de WhatsApp con objetivo, zona y horario."
+      ],
+      "deliverables": [
+        "Optimizar web actual con prevaloracion por objetivo.",
+        "Asesor digital para explicar protocolos y filtrar citas.",
+        "Panel de citas por tratamiento, fuente y etapa."
+      ],
+      "sources": [
+        "https://www.glw.com.co/",
+        "https://www.instagram.com/glwbogota/"
+      ]
+    },
+    {
+      "slug": "casa-de-verano-santafe",
+      "company": "Casa de Verano",
+      "instagram": "@casadeveranosantafe",
+      "website": "https://casadeverano.com.co/",
+      "sector": "hotel boutique y alojamiento",
+      "city": "Santa Fe de Antioquia",
+      "tone": "calido, viajero y directo",
+      "accent": "#F2A65A",
+      "secondary": "#4D8D8A",
+      "status": "Web actual + habitaciones + reserva directa",
+      "leadProblem": "La web publica habitaciones, tarifas desde, piscina, Wi-Fi, ubicacion cerca del parque y reserva directa. La fuga probable esta en que un viajero compara fechas, tipo de habitacion, workation o fin de semana, pero no deja datos completos antes de consultar.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor de reservas que pregunte fecha, numero de personas, tipo de viaje, habitacion y canal de cierre antes de WhatsApp.",
+      "proofLine": "Lectura publica del 24 de julio de 2026: casadeverano.com.co presenta Casa de Verano en Santa Fe de Antioquia, habitaciones, tarifas, piscina, Wi-Fi confiable, reserva directa e Instagram @casadeveranosantafe.",
+      "audience": "Parejas, viajeros solos, grupos pequenos y nomadas digitales que buscan descanso cerca de Medellin.",
+      "adAngle": "Escapada cercana + fecha clara + reserva directa",
+      "whatsappCta": "Quiero convertir visitas en reservas directas",
+      "heroCopy": "Un hotel pequeno no necesita mas chats sueltos: necesita fechas, personas y tipo de viaje desde el primer contacto.",
+      "brandWorldTitle": "De antojo de escapada a reserva accionable",
+      "diagnosisTitle": "Fugas entre habitacion, fecha y WhatsApp",
+      "botAgentName": "Anfitriona Casa de Verano demo",
+      "botAgentRole": "prepara reservas directas",
+      "botTitle": "Asesor digital para escapadas y workation",
+      "botIntro": "El demo pregunta fecha, personas, motivo de viaje y habitacion preferida antes de enviar la solicitud.",
+      "botOpening": "Hola, soy la anfitriona demo de Casa de Verano. Te ayudo a revisar una escapada con fecha, personas y tipo de habitacion.",
+      "botPrompts": [
+        "Fin de semana",
+        "Workation",
+        "Habitacion",
+        "Piscina",
+        "Reserva"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "fin",
+            "semana",
+            "pareja"
+          ],
+          "answer": "Pediria fecha tentativa, numero de noches y personas para preparar una reserva directa."
+        },
+        {
+          "keywords": [
+            "workation",
+            "wifi",
+            "trabajo"
+          ],
+          "answer": "Marcaria interes de nomada digital y preguntaria duracion de estadia y necesidad de Wi-Fi."
+        },
+        {
+          "keywords": [
+            "habitacion",
+            "reserva",
+            "precio"
+          ],
+          "answer": "Guiaria por tipo de habitacion y abriria WhatsApp con fecha y ocupacion."
+        }
+      ],
+      "findings": [
+        "La web muestra habitaciones, tarifas desde y reserva directa.",
+        "Comunica Wi-Fi confiable, piscina y cercania al parque.",
+        "Instagram @casadeveranosantafe aparece asociado al hotel."
+      ],
+      "siteIssues": [
+        "La reserva puede iniciar sin fecha ni ocupacion clara.",
+        "Workation y escapada de fin de semana tienen objeciones diferentes.",
+        "La pauta debe distinguir viajeros solos, parejas y grupos pequenos."
+      ],
+      "losses": [
+        "El interes se enfria si la respuesta a disponibilidad no llega rapido.",
+        "El equipo repite preguntas de fecha, personas y habitacion.",
+        "Reservas directas pierden margen si el visitante termina comparando en OTAs."
+      ],
+      "heatmapData": [
+        "Clics por habitacion, tarifa y reserva.",
+        "Interes por workation, piscina y fin de semana.",
+        "Abandono antes de WhatsApp o reserva directa."
+      ],
+      "campaigns": [
+        "Campana de escapada desde Medellin por fechas cercanas.",
+        "Remarketing a visitantes de habitaciones sin reserva.",
+        "Flujo de WhatsApp con fecha, noches, personas y habitacion."
+      ],
+      "deliverables": [
+        "Optimizar web actual con pre-reserva.",
+        "Asesora digital para fechas y tipo de viaje.",
+        "Panel de reservas por fuente, fecha y estado."
+      ],
+      "sources": [
+        "https://casadeverano.com.co/",
+        "https://www.instagram.com/casadeveranosantafe/"
+      ]
+    },
+    {
+      "slug": "villa-liliana-leticia",
+      "company": "Hotel Boutique Villa Liliana",
+      "instagram": "@hotel.boutique_villaliliana",
+      "website": "https://villaliliana.com.co/",
+      "sector": "hotel boutique y experiencias turisticas",
+      "city": "Leticia, Amazonas",
+      "tone": "natural, confiable y experiencial",
+      "accent": "#3F7E44",
+      "secondary": "#D7A85C",
+      "status": "Web actual + habitaciones + experiencias + WhatsApp",
+      "leadProblem": "La web publica hotel boutique en Leticia, habitaciones, desayuno, restaurante, experiencias turisticas, eventos y consulta de disponibilidad. La fuga probable esta en que un viajero pregunta por fechas, planes amazonicos, habitacion, restaurante o evento, pero llega sin contexto suficiente al equipo.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor de viaje que conecte alojamiento, experiencias, fechas, numero de huespedes y dudas antes de pasar a WhatsApp.",
+      "proofLine": "Lectura publica del 24 de julio de 2026: villaliliana.com.co presenta Hotel Boutique Villa Liliana en Leticia Amazonas, habitaciones, restaurante, experiencias turisticas, eventos, WhatsApp +57 316 239 4624 e Instagram @hotel.boutique_villaliliana.",
+      "audience": "Viajeros nacionales e internacionales que buscan Amazonas con comodidad, planes turisticos, restaurante y eventos en Leticia.",
+      "adAngle": "Amazonas con confort + reserva guiada + experiencias",
+      "whatsappCta": "Quiero convertir visitas en reservas con contexto",
+      "heroCopy": "En turismo de experiencia, la reserva no es solo una habitacion: es fecha, huespedes, plan, dudas y expectativas.",
+      "brandWorldTitle": "De deseo amazonico a itinerario reservable",
+      "diagnosisTitle": "Fugas entre alojamiento, experiencia y consulta",
+      "botAgentName": "Guia Villa Liliana demo",
+      "botAgentRole": "prepara reservas turisticas",
+      "botTitle": "Asesor digital para estadias y experiencias",
+      "botIntro": "El demo pregunta fechas, huespedes, tipo de habitacion, plan turistico y evento antes de WhatsApp.",
+      "botOpening": "Hola, soy el guia demo de Villa Liliana. Te ayudo a preparar tu estadia en Leticia con fechas, huespedes y experiencias.",
+      "botPrompts": [
+        "Habitacion",
+        "Experiencias",
+        "Restaurante",
+        "Evento",
+        "Disponibilidad"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "habitacion",
+            "disponibilidad",
+            "huesped"
+          ],
+          "answer": "Pediria fechas, numero de huespedes y tipo de habitacion para enviar una solicitud completa."
+        },
+        {
+          "keywords": [
+            "experiencia",
+            "tour",
+            "amazonas"
+          ],
+          "answer": "Preguntaria intereses de viaje y dias disponibles para orientar planes sin perder la reserva."
+        },
+        {
+          "keywords": [
+            "evento",
+            "restaurante",
+            "romantica"
+          ],
+          "answer": "Separaria evento, cena o decoracion especial con fecha y numero de personas."
+        }
+      ],
+      "findings": [
+        "La web publica habitaciones y consulta de disponibilidad.",
+        "Muestra restaurante, experiencias turisticas y salon de eventos.",
+        "Instagram @hotel.boutique_villaliliana aparece enlazado desde el sitio oficial."
+      ],
+      "siteIssues": [
+        "Alojamiento y experiencias pueden quedar en consultas separadas.",
+        "WhatsApp necesita fechas y huespedes para responder bien.",
+        "Eventos y decoraciones requieren anticipacion y datos minimos."
+      ],
+      "losses": [
+        "Viajeros comparan hoteles y tours si la respuesta no arma un plan claro.",
+        "El equipo repite preguntas de fecha, personas y preferencias.",
+        "La pauta no aprende si vende habitacion, experiencia o evento."
+      ],
+      "heatmapData": [
+        "Clics por habitaciones, experiencias, restaurante y eventos.",
+        "Solicitudes por fecha y tipo de viaje.",
+        "Abandono antes de consultar disponibilidad."
+      ],
+      "campaigns": [
+        "Campana de Amazonas con reserva directa y experiencias.",
+        "Remarketing a visitantes de habitaciones sin WhatsApp.",
+        "Flujo de viaje con fechas, huespedes y plan de interes."
+      ],
+      "deliverables": [
+        "Optimizar web actual con pre-reserva turistica.",
+        "Guia digital para estadias, tours y eventos.",
+        "Panel de oportunidades por experiencia, fecha y estado."
+      ],
+      "sources": [
+        "https://villaliliana.com.co/",
+        "https://www.instagram.com/hotel.boutique_villaliliana/"
+      ]
+    },
+    {
+      "slug": "hotel-el-ensueno-mesa-santos",
+      "company": "Hotel El Ensueno",
+      "instagram": "@ensueno.ev",
+      "website": "https://www.santos.com.co/productos/hotel-el-ensueno-en-la-mesa-de-los-santos/",
+      "sector": "hotel boutique y eventos naturales",
+      "city": "Mesa de los Santos, Santander",
+      "tone": "campestre, cercano y de descanso",
+      "accent": "#8A9A5B",
+      "secondary": "#D6A85F",
+      "status": "Ficha publica + WhatsApp + Instagram",
+      "leadProblem": "La ficha publica describe hotel boutique con cabañas, naturaleza, eventos especiales, parqueadero, pet friendly, Wi-Fi, formas de pago, Instagram y WhatsApp. La fuga probable esta en que el cliente pregunta por descanso o evento sin enviar fecha, numero de personas, tipo de cabaña y presupuesto.",
+      "opportunity": "Construir una landing propia mas clara y conectarla con un asesor de reservas/eventos permitiria convertir busquedas y pauta en solicitudes ordenadas, no solo mensajes sueltos.",
+      "proofLine": "Lectura publica del 24 de julio de 2026: santos.com.co lista Hotel El Ensueno en La Mesa de los Santos como hotel boutique activo, con telefono/WhatsApp 318 5778342 e Instagram @ensueno.ev.",
+      "audience": "Parejas, familias, viajeros pet friendly y personas que buscan cabañas o eventos especiales en Mesa de los Santos.",
+      "adAngle": "Cabañas en naturaleza + reserva o evento con datos claros",
+      "whatsappCta": "Quiero una landing que ordene reservas y eventos",
+      "heroCopy": "Si la presencia principal es una ficha/directorio, cada pauta necesita una pagina propia para explicar, filtrar y cerrar.",
+      "brandWorldTitle": "De ficha turistica a reserva medible",
+      "diagnosisTitle": "Fugas por falta de landing propia",
+      "botAgentName": "Anfitrion Ensueno demo",
+      "botAgentRole": "ordena reservas y eventos",
+      "botTitle": "Asesor digital para cabañas y eventos",
+      "botIntro": "El demo pregunta fecha, personas, tipo de plan, mascota y evento antes de WhatsApp.",
+      "botOpening": "Hola, soy el anfitrion demo de Hotel El Ensueno. Te ayudo a preparar una reserva o evento con fecha y numero de personas.",
+      "botPrompts": [
+        "Cabaña",
+        "Evento",
+        "Mascota",
+        "WiFi",
+        "Reserva"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cabana",
+            "cabaña",
+            "reserva"
+          ],
+          "answer": "Pediria fecha, noches, personas y si viajan con mascota para enviar WhatsApp completo."
+        },
+        {
+          "keywords": [
+            "evento",
+            "celebracion",
+            "especial"
+          ],
+          "answer": "Separaria tipo de evento, numero de invitados y fecha tentativa para cotizar mejor."
+        },
+        {
+          "keywords": [
+            "wifi",
+            "pago",
+            "pet"
+          ],
+          "answer": "Responderia señales visibles de Wi-Fi, formas de pago y pet friendly, y guiaria hacia reserva."
+        }
+      ],
+      "findings": [
+        "La ficha publica lo describe como hotel boutique con cabañas y naturaleza.",
+        "Publica WhatsApp 318 5778342 e Instagram @ensueno.ev.",
+        "La ficha menciona parqueadero, pet friendly, Wi-Fi y formas de pago."
+      ],
+      "siteIssues": [
+        "Una ficha no reemplaza una pagina propia optimizada para conversion.",
+        "Reservas y eventos necesitan preguntas distintas.",
+        "La pauta queda limitada si no hay pixel, landing y medicion propia."
+      ],
+      "losses": [
+        "Clientes interesados pueden comparar en directorios y no volver.",
+        "El equipo repite datos de fecha, personas, mascota y evento.",
+        "Sin landing propia, es dificil recuperar visitantes que no escriben."
+      ],
+      "heatmapData": [
+        "Clics por cabañas, eventos y WhatsApp.",
+        "Consultas por fecha, personas y mascota.",
+        "Abandono antes de pedir reserva."
+      ],
+      "campaigns": [
+        "Campana de escapada natural con landing propia.",
+        "Campana de eventos especiales con formulario corto.",
+        "Remarketing a visitantes sin WhatsApp."
+      ],
+      "deliverables": [
+        "Landing propia con cabañas, eventos, servicios y WhatsApp.",
+        "Asesor digital para reservas y eventos.",
+        "Panel de oportunidades por fecha, tipo de plan y estado."
+      ],
+      "sources": [
+        "https://www.santos.com.co/productos/hotel-el-ensueno-en-la-mesa-de-los-santos/",
+        "https://www.instagram.com/ensueno.ev/"
+      ]
+    },
+    {
+      "slug": "as-joyeria-medellin",
+      "company": "AS Joyeria",
+      "instagram": "@as_joyeria18k",
+      "website": "https://asjoyeria.com.co/",
+      "sector": "joyeria en oro 18k ecommerce",
+      "city": "Medellin",
+      "tone": "comercial, premium y confiable",
+      "accent": "#C9A24A",
+      "secondary": "#20242A",
+      "status": "Ecommerce activo + catalogo + Instagram",
+      "leadProblem": "La tienda online publica ventas al por mayor y detal, envios a todo el pais, garantia de por vida en el material, categorias y productos con stock. La fuga probable esta en que quien llega por Instagram o pauta necesita resolver peso, oro, talla, garantia, envio y confianza antes de comprar.",
+      "opportunity": "Mejorar conversion del ecommerce actual con un asesor de compra que responda por categoria, material, stock, envio y mayoristas, y recupere carritos o consultas con contexto.",
+      "proofLine": "Lectura publica del 24 de julio de 2026: asjoyeria.com.co presenta AS Joyeria, ventas al por mayor y detal, envios a todo el pais, garantia de por vida en el material, productos en oro 18k e Instagram @as_joyeria18k.",
+      "audience": "Compradores de joyas en oro 18k, mayoristas, clientes de regalo y personas que comparan precio, peso, stock y garantia.",
+      "adAngle": "Oro 18k + stock claro + asesor de compra",
+      "whatsappCta": "Quiero convertir visitas en compras y cotizaciones",
+      "heroCopy": "En joyeria, el deseo se enfria si la persona no entiende peso, material, garantia, envio o disponibilidad antes de pagar.",
+      "brandWorldTitle": "De catalogo de joyas a compra acompañada",
+      "diagnosisTitle": "Fugas entre producto, confianza y carrito",
+      "botAgentName": "Asesora AS demo",
+      "botAgentRole": "guia compras de joyeria",
+      "botTitle": "Asesor digital para ecommerce de joyas",
+      "botIntro": "El demo responde por categoria, material, disponibilidad, envio y compra mayorista antes de WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de AS Joyeria. Te ayudo a ubicar una joya, revisar disponibilidad y preparar tu compra.",
+      "botPrompts": [
+        "Cadenas",
+        "Anillos",
+        "Oro 18k",
+        "Mayorista",
+        "Envio"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cadena",
+            "anillo",
+            "arete"
+          ],
+          "answer": "Preguntaria categoria, presupuesto y estilo para llevar a productos disponibles o WhatsApp con contexto."
+        },
+        {
+          "keywords": [
+            "oro",
+            "garantia",
+            "material"
+          ],
+          "answer": "Responderia con la promesa visible de oro 18k y garantia, y pediria referencia para validar stock."
+        },
+        {
+          "keywords": [
+            "mayorista",
+            "envio",
+            "stock"
+          ],
+          "answer": "Separaria compra al detal o mayorista, ciudad y cantidad para priorizar seguimiento."
+        }
+      ],
+      "findings": [
+        "La web tiene ecommerce activo con categorias de joyeria.",
+        "Comunica ventas al por mayor y detal, envios nacionales y garantia de por vida en material.",
+        "Instagram @as_joyeria18k esta enlazado desde el sitio."
+      ],
+      "siteIssues": [
+        "El catalogo puede generar dudas de peso, material y disponibilidad.",
+        "Mayoristas y compradores finales necesitan rutas distintas.",
+        "El carrito necesita recuperacion por producto visto y objecion."
+      ],
+      "losses": [
+        "Compradores comparan joyas y se van si falta asesoria rapida.",
+        "El equipo repite respuestas sobre stock, envio y garantia.",
+        "La pauta pierde data si no conecta producto visto con conversacion."
+      ],
+      "heatmapData": [
+        "Clics por categoria, producto y carrito.",
+        "Dudas por garantia, oro 18k, stock y envio.",
+        "Abandono antes de agregar al carrito o WhatsApp."
+      ],
+      "campaigns": [
+        "Campana por categorias de alta intencion.",
+        "Remarketing a visitantes de producto sin compra.",
+        "Flujo separado para mayoristas y compradores finales."
+      ],
+      "deliverables": [
+        "Optimizar ecommerce actual con asesor por producto.",
+        "Agente digital para stock, garantia, envio y mayoristas.",
+        "Panel de oportunidades por producto, categoria y estado."
+      ],
+      "sources": [
+        "https://asjoyeria.com.co/",
+        "https://www.instagram.com/as_joyeria18k/"
+      ]
+    },
+    {
+      "slug": "musae-joyeria-bogota",
+      "company": "Musae Joyeria",
+      "instagram": "@musaejoyeria",
+      "website": "https://www.musae.com.co/es/contacto",
+      "sector": "joyeria artesanal y tienda online",
+      "city": "Bogota",
+      "tone": "artesanal, elegante y personalizado",
+      "accent": "#5E7C8A",
+      "secondary": "#D7B36A",
+      "status": "Web actual + tienda online + visitas con reserva",
+      "leadProblem": "La pagina de contacto publica taller en Bogota, WhatsApp, visitas solo con reserva previa y tienda online 24 horas. La fuga probable esta en que una persona interesada en una pieza necesita elegir estilo, regalo, presupuesto, visita o compra online antes de recibir seguimiento.",
+      "opportunity": "Mejorar conversion de la web actual con una asesora digital que separe compra online, regalo, visita al taller y pieza personalizada antes de enviar WhatsApp.",
+      "proofLine": "Lectura publica del 24 de julio de 2026: musae.com.co/es/contacto presenta Musae Joyeria en Bogota, visitas al taller con reserva previa, WhatsApp +57 316 616 1766 y tienda online; busqueda publica asocia Instagram @musaejoyeria.",
+      "audience": "Personas en Bogota y Colombia que buscan joyeria artesanal, regalos, visitas al taller con cita y compra online.",
+      "adAngle": "Joyeria artesanal + reserva de taller + compra guiada",
+      "whatsappCta": "Quiero convertir interes en compras y citas",
+      "heroCopy": "Una joya artesanal necesita una conversacion con contexto: regalo, gusto, presupuesto, cita o compra online.",
+      "brandWorldTitle": "De pieza deseada a compra o visita agendada",
+      "diagnosisTitle": "Fugas entre tienda, regalo y taller",
+      "botAgentName": "Asesora Musae demo",
+      "botAgentRole": "guia compras y citas de taller",
+      "botTitle": "Asesor digital para joyeria artesanal",
+      "botIntro": "El demo pregunta ocasion, presupuesto, estilo, si quiere visitar el taller o comprar online.",
+      "botOpening": "Hola, soy la asesora demo de Musae. Te ayudo a elegir una pieza o preparar una visita al taller con reserva.",
+      "botPrompts": [
+        "Regalo",
+        "Taller",
+        "Online",
+        "Presupuesto",
+        "Estilo"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "regalo",
+            "ocasion",
+            "cumple"
+          ],
+          "answer": "Preguntaria ocasion, presupuesto y estilo de la persona para recomendar una ruta de compra."
+        },
+        {
+          "keywords": [
+            "taller",
+            "visita",
+            "cita"
+          ],
+          "answer": "Pediria fecha, horario y datos de contacto para reservar visita al taller."
+        },
+        {
+          "keywords": [
+            "online",
+            "comprar",
+            "envio"
+          ],
+          "answer": "Guiaria hacia la tienda online y marcaria dudas para seguimiento por WhatsApp."
+        }
+      ],
+      "findings": [
+        "La pagina publica taller en Bogota y atencion con reserva previa.",
+        "Existe tienda online disponible 24 horas.",
+        "Instagram @musaejoyeria aparece asociado publicamente con la marca."
+      ],
+      "siteIssues": [
+        "Compra online y visita al taller compiten por la misma atencion.",
+        "Regalos necesitan preguntas de ocasion y presupuesto.",
+        "La pauta debe distinguir consulta de producto, visita y compra."
+      ],
+      "losses": [
+        "Interes por una pieza se enfria si no hay recomendacion rapida.",
+        "El equipo repite preguntas para agendar visitas.",
+        "Sin seguimiento, quien explora la tienda online puede no volver."
+      ],
+      "heatmapData": [
+        "Clics por tienda, reserva de visita y WhatsApp.",
+        "Consultas por regalo, presupuesto y estilo.",
+        "Abandono antes de comprar o reservar."
+      ],
+      "campaigns": [
+        "Campana de regalos por ocasion.",
+        "Remarketing a visitantes de tienda sin compra.",
+        "Flujo de reserva para visitas al taller."
+      ],
+      "deliverables": [
+        "Optimizar web actual con rutas compra/visita.",
+        "Asesora digital para regalos, estilos y citas.",
+        "Panel de oportunidades por pieza, ocasion y estado."
+      ],
+      "sources": [
+        "https://www.musae.com.co/es/contacto",
+        "https://www.instagram.com/musaejoyeria/"
+      ]
+    },
+    {
+      "slug": "decolounge-eventos-bogota",
+      "company": "Decolounge",
+      "instagram": "@decolounge.com.co",
+      "website": "https://decolounge.com.co/contacto/",
+      "sector": "mobiliario para eventos",
+      "city": "Bogota y La Sabana",
+      "tone": "organizado, premium y de eventos",
+      "accent": "#9F7757",
+      "secondary": "#384B63",
+      "status": "Web actual + formulario + WhatsApp + Instagram",
+      "leadProblem": "La pagina de contacto publica formulario con tipo de evento, fecha/lugar, WhatsApp directo, telefono, correo, Instagram, cobertura Bogota & La Sabana y horario. La fuga probable esta en que una cotizacion de evento necesita cantidad, estilo, mobiliario, fecha, lugar y urgencia para responder bien.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor de cotizacion que arme el brief del evento antes de WhatsApp y conecte formulario, pauta y seguimiento.",
+      "proofLine": "Lectura publica del 24 de julio de 2026: decolounge.com.co/contacto presenta Decolounge, formulario por tipo de evento, WhatsApp +57 300 310 8492, cobertura Bogota & La Sabana e Instagram @decolounge.com.co.",
+      "audience": "Novios, empresas, planners y personas que necesitan mobiliario para bodas, eventos corporativos y sociales.",
+      "adAngle": "Evento con fecha + mobiliario cotizable + WhatsApp listo",
+      "whatsappCta": "Quiero convertir eventos en cotizaciones completas",
+      "heroCopy": "En mobiliario para eventos, una solicitud incompleta retrasa la venta: fecha, lugar, tipo de evento y estilo son el punto de partida.",
+      "brandWorldTitle": "De inspiracion de evento a brief cotizable",
+      "diagnosisTitle": "Fugas entre formulario, WhatsApp y cotizacion",
+      "botAgentName": "Asesora Decolounge demo",
+      "botAgentRole": "arma briefs de eventos",
+      "botTitle": "Asesor digital para cotizar mobiliario",
+      "botIntro": "El demo pregunta tipo de evento, fecha, lugar, invitados, estilo y piezas necesarias.",
+      "botOpening": "Hola, soy la asesora demo de Decolounge. Te ayudo a preparar una cotizacion de mobiliario para tu evento.",
+      "botPrompts": [
+        "Boda",
+        "Corporativo",
+        "Social",
+        "Fecha",
+        "Mobiliario"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "boda",
+            "social",
+            "corporativo"
+          ],
+          "answer": "Pediria tipo de evento, numero de invitados, fecha y lugar para abrir una cotizacion completa."
+        },
+        {
+          "keywords": [
+            "mobiliario",
+            "sillas",
+            "mesas"
+          ],
+          "answer": "Preguntaria piezas requeridas, estilo y cantidades aproximadas antes de enviar WhatsApp."
+        },
+        {
+          "keywords": [
+            "fecha",
+            "lugar",
+            "cotizar"
+          ],
+          "answer": "Validaria fecha, ciudad o sede y urgencia para priorizar el seguimiento comercial."
+        }
+      ],
+      "findings": [
+        "La pagina tiene formulario por tipo de evento.",
+        "Publica WhatsApp, telefono, correo, cobertura y horario.",
+        "Instagram @decolounge.com.co esta enlazado desde el sitio."
+      ],
+      "siteIssues": [
+        "Una cotizacion puede llegar sin cantidades ni estilo.",
+        "WhatsApp directo necesita contexto para evitar ida y vuelta.",
+        "La pauta debe medir boda, corporativo y social por separado."
+      ],
+      "losses": [
+        "Eventos con fecha cercana se pierden si la respuesta demora.",
+        "El equipo repite preguntas de lugar, invitados y mobiliario.",
+        "Sin panel, no se ve que tipo de evento genera mejores oportunidades."
+      ],
+      "heatmapData": [
+        "Clics por tipo de evento, formulario y WhatsApp.",
+        "Solicitudes por fecha, lugar y cantidad.",
+        "Abandono antes de enviar el brief."
+      ],
+      "campaigns": [
+        "Campana por bodas, corporativo y eventos sociales.",
+        "Remarketing a visitantes de contacto sin cotizar.",
+        "Flujo de brief con fecha, lugar, invitados y piezas."
+      ],
+      "deliverables": [
+        "Optimizar web actual con brief de cotizacion.",
+        "Asesora digital para mobiliario de eventos.",
+        "Panel de oportunidades por evento, fecha y estado."
+      ],
+      "sources": [
+        "https://decolounge.com.co/contacto/",
+        "https://www.instagram.com/decolounge.com.co/"
+      ]
+    },
+    {
+      "slug": "la-briocherie-bogota",
+      "company": "La Briocherie",
+      "instagram": "@labriocherie106",
+      "website": "https://www.labriocherie.com.co/",
+      "sector": "pasteleria francesa, restaurante y catering",
+      "city": "Bogota",
+      "tone": "frances, artesanal y cercano",
+      "accent": "#E9B872",
+      "secondary": "#7E4F3A",
+      "status": "Web actual + menu + WhatsApp",
+      "leadProblem": "La web publica pasteleria y restaurante, menu, desayunos, postres, catering, ordenes especiales, WhatsApp y correo. La fuga probable esta en que pedidos, reservas y catering entran por el mismo canal sin fecha, cantidad, producto, direccion o presupuesto.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor que separe pedido, reserva, orden especial y catering antes de WhatsApp.",
+      "proofLine": "Lectura publica del 24 de julio de 2026: labriocherie.com.co presenta La Briocherie, pasteleria y restaurante en Bogota, menu, postres, catering, WhatsApp 322 718 1979 e Instagram @labriocherie106.",
+      "audience": "Personas en Bogota que buscan pasteleria francesa, desayuno, postres, reservas, ordenes especiales o catering.",
+      "adAngle": "Pasteleria francesa + pedido/reserva con contexto",
+      "whatsappCta": "Quiero ordenar pedidos y catering",
+      "heroCopy": "Una pasteleria con restaurante y catering necesita que cada consulta llegue con producto, fecha, cantidad y tipo de necesidad.",
+      "brandWorldTitle": "De menu atractivo a pedido accionable",
+      "diagnosisTitle": "Fugas entre menu, reserva y catering",
+      "botAgentName": "Asesora Briocherie demo",
+      "botAgentRole": "ordena pedidos y reservas",
+      "botTitle": "Asesor digital para pedidos, reservas y catering",
+      "botIntro": "El demo pregunta si la persona quiere menu, reserva, orden especial o catering, y captura fecha/cantidad.",
+      "botOpening": "Hola, soy la asesora demo de La Briocherie. Te ayudo con pedido, reserva, orden especial o catering.",
+      "botPrompts": [
+        "Postres",
+        "Desayuno",
+        "Reserva",
+        "Catering",
+        "Orden especial"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "postre",
+            "desayuno",
+            "menu"
+          ],
+          "answer": "Guiaria al menu y preguntaria fecha, cantidad y si es domicilio o consumo en sitio."
+        },
+        {
+          "keywords": [
+            "reserva",
+            "mesa",
+            "restaurante"
+          ],
+          "answer": "Pediria fecha, hora y numero de personas para abrir WhatsApp listo."
+        },
+        {
+          "keywords": [
+            "catering",
+            "evento",
+            "especial"
+          ],
+          "answer": "Separaria tipo de evento, numero de personas, fecha y presupuesto aproximado."
+        }
+      ],
+      "findings": [
+        "La web muestra menu, desayunos, postres y catering.",
+        "Publica WhatsApp 322 718 1979 para reservas u ordenes especiales.",
+        "Instagram @labriocherie106 aparece asociado publicamente con la marca."
+      ],
+      "siteIssues": [
+        "Pedidos, reservas y catering requieren formularios distintos.",
+        "WhatsApp puede recibir solicitudes sin fecha ni cantidad.",
+        "La pauta debe separar consumo diario y eventos."
+      ],
+      "losses": [
+        "Ordenes especiales se enfrían si falta respuesta o dato clave.",
+        "El equipo repite preguntas de fecha, cantidad y domicilio.",
+        "Sin medicion por tipo de solicitud, no se sabe que campaña vende mejor."
+      ],
+      "heatmapData": [
+        "Clics por menu, postres, catering y WhatsApp.",
+        "Solicitudes por fecha, cantidad y tipo de pedido.",
+        "Abandono antes de contactar."
+      ],
+      "campaigns": [
+        "Campana de postres y desayunos por zona.",
+        "Campana de catering para eventos y empresas.",
+        "Remarketing a visitantes de menu sin WhatsApp."
+      ],
+      "deliverables": [
+        "Optimizar web actual con rutas por pedido/reserva/catering.",
+        "Asesora digital para ordenar solicitudes.",
+        "Panel de oportunidades por tipo de pedido, fecha y estado."
+      ],
+      "sources": [
+        "https://www.labriocherie.com.co/",
+        "https://www.instagram.com/labriocherie106/"
+      ]
+    },
+    {
+      "slug": "michel-patisserie-bogota",
+      "company": "Michel Patisserie",
+      "instagram": "@michel.patisserie",
+      "website": "https://michelpatisserie.com.co/",
+      "sector": "pasteleria francesa tradicional",
+      "city": "Bogota",
+      "tone": "tradicional, fino y confiable",
+      "accent": "#D8A45B",
+      "secondary": "#5B3A32",
+      "status": "Web actual + historia + WhatsApp",
+      "leadProblem": "La web comunica una pasteleria francesa fundada en 1976 y la busqueda publica asocia WhatsApp y direccion en Bogota. La fuga probable esta en que una persona que quiere pedir, regalar o cotizar una ocasion especial necesita menu, disponibilidad, fecha, direccion y medio de pago antes de comprar.",
+      "opportunity": "Mejorar conversion de la web actual con una asesora digital que convierta interes por pasteleria tradicional en pedido, regalo o cotizacion con datos claros.",
+      "proofLine": "Lectura publica del 24 de julio de 2026: michelpatisserie.com.co presenta Michel Patisserie, pasteleria francesa en Bogota fundada en 1976; busqueda publica asocia Instagram @michel.patisserie y WhatsApp +57 310 211 4233.",
+      "audience": "Personas en Bogota que buscan pasteleria francesa, regalos, celebraciones, tortas y pedidos especiales.",
+      "adAngle": "Tradicion francesa + pedido de ocasion + WhatsApp claro",
+      "whatsappCta": "Quiero convertir visitas en pedidos",
+      "heroCopy": "La tradicion atrae, pero el pedido se cierra cuando la persona encuentra rapido producto, fecha, cantidad y entrega.",
+      "brandWorldTitle": "De reputacion tradicional a pedido medible",
+      "diagnosisTitle": "Fugas entre historia, producto y compra",
+      "botAgentName": "Asesora Michel demo",
+      "botAgentRole": "ordena pedidos de pasteleria",
+      "botTitle": "Asesor digital para pedidos y regalos",
+      "botIntro": "El demo pregunta ocasion, producto, fecha, cantidad, entrega y presupuesto antes de WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de Michel Patisserie. Te ayudo a preparar un pedido o regalo con fecha y datos claros.",
+      "botPrompts": [
+        "Torta",
+        "Regalo",
+        "Ocasion",
+        "Domicilio",
+        "WhatsApp"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "torta",
+            "postre",
+            "pedido"
+          ],
+          "answer": "Preguntaria producto deseado, fecha, cantidad y si necesita recogida o domicilio."
+        },
+        {
+          "keywords": [
+            "regalo",
+            "cumple",
+            "ocasion"
+          ],
+          "answer": "Pediria ocasion, presupuesto y mensaje para convertir la consulta en pedido completo."
+        },
+        {
+          "keywords": [
+            "domicilio",
+            "whatsapp",
+            "precio"
+          ],
+          "answer": "Armaría el mensaje con producto, direccion aproximada y fecha para seguimiento humano."
+        }
+      ],
+      "findings": [
+        "La web comunica historia y tradicion de pasteleria francesa desde 1976.",
+        "Busqueda publica asocia Instagram @michel.patisserie con la marca.",
+        "Busqueda publica asocia WhatsApp +57 310 211 4233 y direccion en Bogota."
+      ],
+      "siteIssues": [
+        "La historia de marca debe cerrar en menu, pedido y contacto medible.",
+        "Regalos y tortas necesitan fecha, cantidad y entrega.",
+        "La pauta debe diferenciar compra inmediata y cotizacion de ocasion."
+      ],
+      "losses": [
+        "Un interesado puede valorar la marca pero no encontrar ruta rapida de compra.",
+        "El equipo repite preguntas sobre producto, fecha y entrega.",
+        "Sin seguimiento, regalos guardados desde Instagram no se convierten en pedido."
+      ],
+      "heatmapData": [
+        "Clics por historia, producto, contacto y WhatsApp.",
+        "Consultas por ocasion, fecha y entrega.",
+        "Abandono antes de pedir."
+      ],
+      "campaigns": [
+        "Campana de regalos y tortas por ocasion.",
+        "Remarketing a visitantes sin pedido.",
+        "Flujo de WhatsApp con producto, fecha, cantidad y entrega."
+      ],
+      "deliverables": [
+        "Optimizar web actual con ruta de pedido.",
+        "Asesora digital para regalos, tortas y entregas.",
+        "Panel de oportunidades por producto, ocasion y estado."
+      ],
+      "sources": [
+        "https://michelpatisserie.com.co/",
+        "https://www.instagram.com/michel.patisserie/"
+      ]
     }
   ]
 }
