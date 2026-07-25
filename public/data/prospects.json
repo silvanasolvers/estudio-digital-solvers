@@ -39354,6 +39354,939 @@
         "https://michelpatisserie.com.co/",
         "https://www.instagram.com/michel.patisserie/"
       ]
+    },
+    {
+      "slug": "xuss-moda-ejecutiva",
+      "company": "XUSS",
+      "instagram": "@xussoficial",
+      "website": "https://www.xuss.co/",
+      "sector": "moda ejecutiva femenina ecommerce",
+      "city": "Colombia",
+      "tone": "profesional, femenino y confiable",
+      "accent": "#C85C72",
+      "secondary": "#1E2A36",
+      "status": "Ecommerce activo + carrito + WhatsApp",
+      "leadProblem": "La web publica tienda online, carrito, compra, envios, Instagram y WhatsApp. La fuga probable esta en que una compradora llega desde Instagram, compara prendas, tallas y envio, pero puede abandonar si no recibe asesoria rapida antes de pagar.",
+      "opportunity": "Mejorar conversion del ecommerce actual con una asesora digital que responda por talla, coleccion, envio, cambios y carrito abandonado, conectando pauta con seguimiento por WhatsApp.",
+      "proofLine": "Lectura publica del 25 de julio de 2026: xuss.co responde 200 y presenta Xuss Moda Femenina Colombiana | Moda Ejecutiva, con señales visibles de tienda, carrito, compra, envio, Instagram y WhatsApp.",
+      "audience": "Mujeres que compran ropa ejecutiva, prendas para oficina, eventos laborales y outfits listos para enviar en Colombia.",
+      "adAngle": "Moda ejecutiva + talla clara + compra acompanada",
+      "whatsappCta": "Quiero convertir visitas en compras de moda",
+      "heroCopy": "En moda ejecutiva, una compradora no solo mira una prenda: compara talla, fit, envio, cambio y seguridad antes de pagar.",
+      "brandWorldTitle": "De vitrina online a asesoria de compra",
+      "diagnosisTitle": "Fugas entre talla, carrito y WhatsApp",
+      "botAgentName": "Asesora XUSS demo",
+      "botAgentRole": "guia tallas, looks y compra",
+      "botTitle": "Asesor digital para moda ejecutiva",
+      "botIntro": "El demo ayuda a elegir talla, tipo de prenda, ocasion y ruta de compra antes de llevar a carrito o WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de XUSS. Te ayudo a ubicar prendas, revisar talla y preparar una compra sin friccion.",
+      "botPrompts": [
+        "Tallas",
+        "Looks oficina",
+        "Envio",
+        "Cambios",
+        "Carrito"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "talla",
+            "fit",
+            "medida"
+          ],
+          "answer": "Pediria prenda de interes, talla habitual y ciudad para orientar guia de talla y dejar WhatsApp con contexto."
+        },
+        {
+          "keywords": [
+            "oficina",
+            "look",
+            "evento"
+          ],
+          "answer": "Separaria ocasion, color y tipo de prenda para sugerir una ruta de productos y acelerar la compra."
+        },
+        {
+          "keywords": [
+            "envio",
+            "cambio",
+            "carrito"
+          ],
+          "answer": "Responderia dudas de envio o cambios y marcaria si la persona abandono carrito para seguimiento."
+        }
+      ],
+      "findings": [
+        "La web responde 200 y se presenta como moda femenina colombiana y moda ejecutiva.",
+        "En la pagina se detectan señales de tienda online, carrito, compra y envio.",
+        "Tambien aparecen señales visibles de Instagram y WhatsApp como canales comerciales."
+      ],
+      "siteIssues": [
+        "La compra de ropa necesita resolver talla, fit y cambios antes del pago.",
+        "WhatsApp puede recibir preguntas repetidas sin saber que producto miro la compradora.",
+        "La pauta deberia separar visitantes de categoria, producto y carrito."
+      ],
+      "losses": [
+        "Una interesada puede guardar el outfit y no volver si no recibe asesoria inmediata.",
+        "El equipo repite respuestas sobre tallas, envios y cambios.",
+        "Sin seguimiento por producto visto, el carrito abandonado se enfria."
+      ],
+      "heatmapData": [
+        "Clics por categoria, producto, talla y carrito.",
+        "Preguntas por fit, envio, cambios y disponibilidad.",
+        "Abandono antes de pago o antes de escribir por WhatsApp."
+      ],
+      "campaigns": [
+        "Campana por looks de oficina y prendas de alta intencion.",
+        "Remarketing a visitantes de producto sin compra.",
+        "Flujo de WhatsApp para talla, disponibilidad y carrito abandonado."
+      ],
+      "deliverables": [
+        "Optimizar ecommerce actual con asesor de compra por prenda.",
+        "Bot para tallas, looks, envio, cambios y recuperacion de carrito.",
+        "Panel de oportunidades por producto, talla, fuente y estado."
+      ],
+      "sources": [
+        "https://www.xuss.co/",
+        "https://www.instagram.com/xussoficial/"
+      ]
+    },
+    {
+      "slug": "dr-sebastian-lopez-odontologia",
+      "company": "Dr. Sebastian Lopez",
+      "instagram": "@drsebastianlopez",
+      "website": "https://drsebastianlopez.com.co/",
+      "sector": "odontologia estetica y diseno de sonrisa",
+      "city": "Bogota, Medellin, Barranquilla y Santa Marta",
+      "tone": "clinico, premium y confiable",
+      "accent": "#4FB7C5",
+      "secondary": "#E6C46A",
+      "status": "Web activa + agenda + WhatsApp",
+      "leadProblem": "La web publica diseno de sonrisa, odontologia estetica, agenda, cita, Instagram y WhatsApp. La fuga probable esta en que un paciente de alto valor necesita entender tratamiento, confianza, ciudad, disponibilidad y valoracion antes de agendar.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor que filtre ciudad, tratamiento, urgencia, dudas y etapa de decision antes de enviar a agenda o WhatsApp.",
+      "proofLine": "Lectura publica del 25 de julio de 2026: drsebastianlopez.com.co responde 200 y presenta al Dr. Sebastian Lopez como experto en diseno de sonrisa Colombia, con señales de agenda, cita, odontologia, Instagram y WhatsApp.",
+      "audience": "Pacientes que buscan diseno de sonrisa, carillas, estetica dental y valoracion en ciudades principales.",
+      "adAngle": "Diseno de sonrisa + valoracion guiada + confianza clinica",
+      "whatsappCta": "Quiero convertir consultas en valoraciones",
+      "heroCopy": "En odontologia estetica, la pauta atrae interes, pero la cita se gana cuando la persona resuelve confianza, tratamiento, ciudad y siguiente paso.",
+      "brandWorldTitle": "De interes estetico a valoracion agendada",
+      "diagnosisTitle": "Fugas entre tratamiento, ciudad y cita",
+      "botAgentName": "Asesor dental demo",
+      "botAgentRole": "filtra valoraciones y dudas",
+      "botTitle": "Asesor digital para valoraciones dentales",
+      "botIntro": "El demo pregunta ciudad, tratamiento de interes, nivel de urgencia y dudas antes de llevar a agenda o WhatsApp.",
+      "botOpening": "Hola, soy el asesor demo para el Dr. Sebastian Lopez. Te ayudo a preparar una valoracion dental con los datos clave.",
+      "botPrompts": [
+        "Diseno sonrisa",
+        "Ciudad",
+        "Valoracion",
+        "Carillas",
+        "Agenda"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "diseno",
+            "sonrisa",
+            "carilla"
+          ],
+          "answer": "Pediria objetivo estetico, ciudad y si ya tuvo valoracion para orientar el siguiente paso."
+        },
+        {
+          "keywords": [
+            "ciudad",
+            "bogota",
+            "medellin",
+            "barranquilla",
+            "santa"
+          ],
+          "answer": "Clasificaria la sede de interes y dejaria la solicitud lista para agenda o WhatsApp."
+        },
+        {
+          "keywords": [
+            "agenda",
+            "cita",
+            "valoracion"
+          ],
+          "answer": "Capturaria nombre, ciudad, tratamiento y horario ideal para reducir friccion antes de agendar."
+        }
+      ],
+      "findings": [
+        "La web responde 200 y comunica diseno de sonrisa en Colombia.",
+        "La pagina muestra señales de agenda, cita y odontologia estetica.",
+        "Tambien se detectan señales de Instagram y WhatsApp."
+      ],
+      "siteIssues": [
+        "Pacientes de distintas ciudades necesitan rutas de agenda separadas.",
+        "Tratamientos de alto valor requieren responder objeciones antes de pedir cita.",
+        "WhatsApp debe recibir contexto clinico-comercial, no solo un saludo."
+      ],
+      "losses": [
+        "Un paciente interesado puede posponer la decision si no entiende el proceso.",
+        "El equipo repite preguntas de ciudad, tratamiento y disponibilidad.",
+        "La pauta pierde calidad si no mide tratamiento consultado y cita agendada."
+      ],
+      "heatmapData": [
+        "Clics por tratamiento, ciudad, agenda y WhatsApp.",
+        "Preguntas por valoracion, carillas, confianza y disponibilidad.",
+        "Abandono antes de completar agenda o escribir."
+      ],
+      "campaigns": [
+        "Campana por ciudad y tratamiento de interes.",
+        "Remarketing a visitantes de diseno de sonrisa sin agenda.",
+        "Flujo de valoracion con ciudad, tratamiento, horario y duda principal."
+      ],
+      "deliverables": [
+        "Optimizar web actual para agenda y WhatsApp con contexto.",
+        "Asesor digital para filtrar pacientes por tratamiento y ciudad.",
+        "Panel de oportunidades por sede, tratamiento, fuente y estado."
+      ],
+      "sources": [
+        "https://drsebastianlopez.com.co/",
+        "https://www.instagram.com/drsebastianlopez/"
+      ]
+    },
+    {
+      "slug": "urbit-social-lofts-medellin",
+      "company": "URBIT Social Lofts",
+      "instagram": "@urbitsociallofts",
+      "website": "https://urbithotelmedellin.com/",
+      "sector": "hotel y lofts en Medellin",
+      "city": "Medellin",
+      "tone": "urbano, hotelero y directo",
+      "accent": "#F06B42",
+      "secondary": "#26384A",
+      "status": "Web de hotel + reservas + WhatsApp",
+      "leadProblem": "La web publica URBIT Social Lofts como hotel en Laureles, Medellin, con señales de reserva, Instagram y WhatsApp. La fuga probable esta en que viajeros comparan fechas, habitaciones, ubicacion y tarifa antes de reservar.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor de reservas que pregunte fechas, numero de personas, motivo de viaje y dudas de ubicacion antes de llevar a reserva directa o WhatsApp.",
+      "proofLine": "Lectura publica del 25 de julio de 2026: urbithotelmedellin.com responde 200 y presenta URBIT Social Lofts, hotel en Laureles Medellin, con señales visibles de reservas, Instagram y WhatsApp.",
+      "audience": "Viajeros a Medellin, parejas, visitantes de trabajo y personas que buscan alojamiento en Laureles.",
+      "adAngle": "Lofts en Laureles + fechas claras + reserva directa",
+      "whatsappCta": "Quiero convertir visitas en reservas directas",
+      "heroCopy": "En hoteleria, la intencion se enfria cuando el viajero no resuelve fecha, cupo, tarifa, ubicacion y politica antes de reservar.",
+      "brandWorldTitle": "De exploracion de hospedaje a reserva directa",
+      "diagnosisTitle": "Fugas entre fechas, tarifa y WhatsApp",
+      "botAgentName": "Asesor URBIT demo",
+      "botAgentRole": "guia fechas y reservas",
+      "botTitle": "Asesor digital para reservas hoteleras",
+      "botIntro": "El demo captura fecha, personas, tipo de viaje y dudas antes de enviar a reserva o WhatsApp.",
+      "botOpening": "Hola, soy el asesor demo de URBIT. Te ayudo a revisar fechas, tipo de estadia y siguiente paso de reserva.",
+      "botPrompts": [
+        "Fechas",
+        "Habitaciones",
+        "Laureles",
+        "Reserva",
+        "WhatsApp"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "fecha",
+            "noche",
+            "reserva"
+          ],
+          "answer": "Pediria check-in, check-out y numero de personas para abrir una solicitud de reserva clara."
+        },
+        {
+          "keywords": [
+            "habitacion",
+            "loft",
+            "persona"
+          ],
+          "answer": "Separaria tipo de habitacion o loft, ocupacion y preferencias antes de WhatsApp."
+        },
+        {
+          "keywords": [
+            "laureles",
+            "ubicacion",
+            "medellin"
+          ],
+          "answer": "Responderia ubicacion de forma comercial y preguntaria motivo de viaje para orientar la estadia."
+        }
+      ],
+      "findings": [
+        "La web responde 200 y se presenta como hotel en Laureles, Medellin.",
+        "En la pagina se detectan señales de reserva y hotel.",
+        "Tambien aparecen señales visibles de Instagram y WhatsApp."
+      ],
+      "siteIssues": [
+        "La reserva necesita fechas, numero de personas y tipo de estadia.",
+        "WhatsApp puede recibir solicitudes sin datos para cotizar disponibilidad.",
+        "La pauta deberia separar turismo, trabajo y escapadas."
+      ],
+      "losses": [
+        "Un viajero puede comparar OTAs y no reservar directo si falta respuesta rapida.",
+        "El equipo repite preguntas de fechas, ocupacion y tarifa.",
+        "Sin seguimiento, visitas desde pauta no se recuperan por fecha."
+      ],
+      "heatmapData": [
+        "Clics por habitaciones, reserva, ubicacion y WhatsApp.",
+        "Consultas por fechas, ocupacion y motivo de viaje.",
+        "Abandono antes de reserva directa."
+      ],
+      "campaigns": [
+        "Campana de reserva directa por ubicacion en Laureles.",
+        "Remarketing a visitantes que revisaron habitaciones sin reservar.",
+        "Flujo de WhatsApp con fechas, personas y motivo de viaje."
+      ],
+      "deliverables": [
+        "Optimizar web actual para reserva directa y WhatsApp con contexto.",
+        "Asesor digital para fechas, habitaciones, ubicacion y politicas.",
+        "Panel de oportunidades por fecha, canal, tipo de viajero y estado."
+      ],
+      "sources": [
+        "https://urbithotelmedellin.com/",
+        "https://www.instagram.com/urbitsociallofts/"
+      ]
+    },
+    {
+      "slug": "amadero-muebles-medellin",
+      "company": "aMadero",
+      "instagram": "@amaderomuebles",
+      "website": "https://www.amadero.com.co/",
+      "sector": "muebles y diseno de interiores",
+      "city": "Medellin",
+      "tone": "minimalista, experto y comercial",
+      "accent": "#A36B45",
+      "secondary": "#27382F",
+      "status": "Web activa + tienda + carrito + WhatsApp",
+      "leadProblem": "La web publica tienda de muebles y diseno de interiores, con señales de muebles, tienda, compra, carrito, envio, Instagram y WhatsApp. La fuga probable esta en que una cotizacion necesita medidas, espacio, material, presupuesto y plazo antes de cerrar.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor que convierta exploracion de muebles en brief de compra o cotizacion con fotos, medidas y prioridad.",
+      "proofLine": "Lectura publica del 25 de julio de 2026: amadero.com.co responde 200 y presenta tienda de muebles y diseno de interiores en Medellin, con señales de carrito, tienda, envio, Instagram y WhatsApp.",
+      "audience": "Personas amoblando casa, apartamentos, oficinas o espacios que necesitan muebles listos o a medida.",
+      "adAngle": "Mueble de diseno + medidas claras + cotizacion guiada",
+      "whatsappCta": "Quiero convertir visitas en cotizaciones",
+      "heroCopy": "En muebles, el cliente no compra solo una foto: necesita medidas, material, espacio, plazo, envio y seguridad antes de avanzar.",
+      "brandWorldTitle": "De inspiracion de mobiliario a brief cotizable",
+      "diagnosisTitle": "Fugas entre catalogo, medidas y cierre",
+      "botAgentName": "Asesor aMadero demo",
+      "botAgentRole": "arma briefs de muebles",
+      "botTitle": "Asesor digital para muebles y cotizaciones",
+      "botIntro": "El demo pregunta espacio, medidas, producto, material, presupuesto y plazo antes de llevar a carrito o WhatsApp.",
+      "botOpening": "Hola, soy el asesor demo de aMadero. Te ayudo a convertir una idea de mueble en cotizacion con datos claros.",
+      "botPrompts": [
+        "Comedor",
+        "Medidas",
+        "Material",
+        "Envio",
+        "A medida"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "medida",
+            "espacio",
+            "dimension"
+          ],
+          "answer": "Pediria medidas aproximadas, foto del espacio y uso principal para evitar cotizaciones incompletas."
+        },
+        {
+          "keywords": [
+            "comedor",
+            "mesa",
+            "sofa",
+            "cama"
+          ],
+          "answer": "Separaria categoria, estilo y plazo de entrega para orientar catalogo o fabricacion a medida."
+        },
+        {
+          "keywords": [
+            "envio",
+            "presupuesto",
+            "cotizar"
+          ],
+          "answer": "Capturaria ciudad, presupuesto y prioridad para enviar WhatsApp listo para cierre."
+        }
+      ],
+      "findings": [
+        "La web responde 200 y comunica muebles y diseno de interiores.",
+        "En la pagina se detectan señales de tienda, compra, carrito y envio.",
+        "Tambien aparecen señales de Instagram y WhatsApp."
+      ],
+      "siteIssues": [
+        "El catalogo necesita conectar producto con medidas y espacio real.",
+        "WhatsApp directo puede recibir consultas sin presupuesto ni dimensiones.",
+        "La pauta deberia medir categoria, producto y cotizacion iniciada."
+      ],
+      "losses": [
+        "Un cliente puede inspirarse y no escribir si no entiende medidas o entrega.",
+        "El equipo repite preguntas de espacio, material, presupuesto y ciudad.",
+        "Sin panel, no se sabe que producto genera mejor oportunidad."
+      ],
+      "heatmapData": [
+        "Clics por categoria, producto, carrito y WhatsApp.",
+        "Consultas por medidas, material, envio y plazo.",
+        "Abandono antes de cotizar o comprar."
+      ],
+      "campaigns": [
+        "Campana por categorias de alta intencion: comedores, salas, camas y escritorios.",
+        "Remarketing a visitantes de producto sin cotizacion.",
+        "Flujo de brief con medidas, foto, ciudad, presupuesto y plazo."
+      ],
+      "deliverables": [
+        "Optimizar ecommerce actual con ruta de cotizacion por mueble.",
+        "Asesor digital para medidas, materiales, envio y productos a medida.",
+        "Panel de oportunidades por categoria, producto, fuente y estado."
+      ],
+      "sources": [
+        "https://www.amadero.com.co/",
+        "https://www.instagram.com/amaderomuebles/"
+      ]
+    },
+    {
+      "slug": "spoon-colombia-medellin",
+      "company": "Spoon Colombia",
+      "instagram": "@spoon_colombia",
+      "website": "https://www.spooncolombia.com/",
+      "sector": "panaderia y reposteria de autor",
+      "city": "Medellin",
+      "tone": "artesanal, gourmet y ordenado",
+      "accent": "#D9A441",
+      "secondary": "#6B3D2E",
+      "status": "Web activa + tienda + WhatsApp",
+      "leadProblem": "La web publica panaderia y reposteria de autor en Medellin, con señales de tienda, panaderia, reserva, Instagram y WhatsApp. La fuga probable esta en que pedidos, regalos o eventos necesitan fecha, cantidad, producto y entrega antes de cerrar.",
+      "opportunity": "Mejorar conversion de la web actual con una asesora que separe compra diaria, regalo, pedido especial y evento, dejando WhatsApp con datos accionables.",
+      "proofLine": "Lectura publica del 25 de julio de 2026: spooncolombia.com responde 200 y presenta Spoon Colombia como panaderia y reposteria de autor en Medellin, con señales de tienda, reserva, Instagram y WhatsApp.",
+      "audience": "Personas en Medellin que buscan panaderia de autor, postres, regalos, pedidos especiales y eventos.",
+      "adAngle": "Reposteria de autor + pedido con fecha + WhatsApp claro",
+      "whatsappCta": "Quiero ordenar pedidos y eventos",
+      "heroCopy": "En reposteria, el antojo vende rapido, pero el cierre depende de fecha, cantidad, disponibilidad, entrega y pago.",
+      "brandWorldTitle": "De antojo visual a pedido completo",
+      "diagnosisTitle": "Fugas entre producto, fecha y entrega",
+      "botAgentName": "Asesora Spoon demo",
+      "botAgentRole": "ordena pedidos y eventos",
+      "botTitle": "Asesor digital para pedidos de reposteria",
+      "botIntro": "El demo pregunta si la persona quiere producto, regalo, pedido especial o evento, y captura fecha/cantidad.",
+      "botOpening": "Hola, soy la asesora demo de Spoon. Te ayudo a preparar un pedido con producto, fecha y entrega claros.",
+      "botPrompts": [
+        "Postres",
+        "Panaderia",
+        "Regalo",
+        "Evento",
+        "Entrega"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "postre",
+            "pan",
+            "producto"
+          ],
+          "answer": "Preguntaria producto de interes, cantidad y fecha para orientar tienda o WhatsApp."
+        },
+        {
+          "keywords": [
+            "regalo",
+            "evento",
+            "cumple"
+          ],
+          "answer": "Separaria ocasion, numero de personas y presupuesto para convertir la consulta en pedido completo."
+        },
+        {
+          "keywords": [
+            "entrega",
+            "domicilio",
+            "reserva"
+          ],
+          "answer": "Pediria zona, fecha y hora ideal para evitar ida y vuelta por WhatsApp."
+        }
+      ],
+      "findings": [
+        "La web responde 200 y comunica panaderia y reposteria de autor en Medellin.",
+        "En la pagina se detectan señales de tienda y reserva.",
+        "Tambien aparecen señales visibles de Instagram y WhatsApp."
+      ],
+      "siteIssues": [
+        "Pedidos diarios, regalos y eventos necesitan rutas distintas.",
+        "WhatsApp directo puede recibir solicitudes sin fecha ni cantidad.",
+        "La pauta debe medir que producto o ocasion genera mas pedidos."
+      ],
+      "losses": [
+        "El antojo se enfria si la persona no confirma disponibilidad rapido.",
+        "El equipo repite preguntas de producto, fecha, cantidad y entrega.",
+        "Sin seguimiento, visitas al menu no se convierten en pedidos."
+      ],
+      "heatmapData": [
+        "Clics por producto, tienda, reserva y WhatsApp.",
+        "Consultas por regalo, evento, fecha y entrega.",
+        "Abandono antes de pedir."
+      ],
+      "campaigns": [
+        "Campana por productos de antojo y regalos.",
+        "Campana para eventos y pedidos especiales.",
+        "Remarketing a visitantes de tienda sin pedido."
+      ],
+      "deliverables": [
+        "Optimizar web actual con rutas pedido/regalo/evento.",
+        "Asesora digital para producto, fecha, cantidad y entrega.",
+        "Panel de oportunidades por producto, ocasion, fuente y estado."
+      ],
+      "sources": [
+        "https://www.spooncolombia.com/",
+        "https://www.instagram.com/spoon_colombia/"
+      ]
+    },
+    {
+      "slug": "nativa-floristeria-bogota",
+      "company": "Nativa Floristeria",
+      "instagram": "@nativa_floristeria",
+      "website": "https://nativafloristeria.com/",
+      "sector": "floristeria boutique y domicilios",
+      "city": "Bogota",
+      "tone": "delicado, urgente y comercial",
+      "accent": "#E3577B",
+      "secondary": "#6C8B54",
+      "status": "Web activa + tienda + WhatsApp + domicilios",
+      "leadProblem": "La web publica flores y arreglos a domicilio en Bogota, con señales de tienda, flores, domicilio, Instagram y WhatsApp. La fuga probable esta en que regalos y fechas especiales requieren ocasion, presupuesto, direccion, horario y disponibilidad inmediata.",
+      "opportunity": "Mejorar conversion de la web actual con una asesora que clasifique ocasion, presupuesto, zona y urgencia, conectando catalogo, WhatsApp y seguimiento.",
+      "proofLine": "Lectura publica del 25 de julio de 2026: nativafloristeria.com responde 200 y presenta flores y arreglos a domicilio en Bogota, con señales de flores, tienda, domicilio, Instagram y WhatsApp.",
+      "audience": "Personas en Bogota que envian flores por cumpleaños, amor, condolencias, agradecimientos o fechas especiales.",
+      "adAngle": "Flores a domicilio + ocasion clara + pedido rapido",
+      "whatsappCta": "Quiero convertir visitas en pedidos de flores",
+      "heroCopy": "En flores, muchas compras son emocionales y urgentes: si no se confirma ocasion, zona y hora, el pedido se puede perder.",
+      "brandWorldTitle": "De intencion de regalo a pedido entregable",
+      "diagnosisTitle": "Fugas entre ocasion, domicilio y pago",
+      "botAgentName": "Asesora Nativa demo",
+      "botAgentRole": "guia regalos florales",
+      "botTitle": "Asesor digital para pedidos florales",
+      "botIntro": "El demo pregunta ocasion, presupuesto, direccion, horario y mensaje antes de enviar a WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de Nativa Floristeria. Te ayudo a preparar un arreglo con ocasion, zona y hora claras.",
+      "botPrompts": [
+        "Cumpleanos",
+        "Amor",
+        "Domicilio",
+        "Presupuesto",
+        "Hoy"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cumple",
+            "amor",
+            "ocasion"
+          ],
+          "answer": "Pediria ocasion, estilo y mensaje para orientar arreglo y tono del regalo."
+        },
+        {
+          "keywords": [
+            "domicilio",
+            "direccion",
+            "hoy"
+          ],
+          "answer": "Validaria zona, fecha y hora ideal antes de pasar a WhatsApp."
+        },
+        {
+          "keywords": [
+            "presupuesto",
+            "precio",
+            "arreglo"
+          ],
+          "answer": "Separaria presupuesto y preferencia de colores para recomendar una ruta de pedido."
+        }
+      ],
+      "findings": [
+        "La web responde 200 y comunica flores y arreglos a domicilio en Bogota.",
+        "En la pagina se detectan señales de tienda, flores y domicilio.",
+        "Tambien aparecen señales visibles de Instagram y WhatsApp."
+      ],
+      "siteIssues": [
+        "Regalos florales necesitan ocasion, presupuesto, zona y hora.",
+        "WhatsApp puede recibir pedidos urgentes sin datos completos.",
+        "La pauta deberia separar fechas especiales, amor, condolencias y cumpleaños."
+      ],
+      "losses": [
+        "Una venta urgente se pierde si la respuesta no confirma disponibilidad rapido.",
+        "El equipo repite preguntas de direccion, horario y mensaje.",
+        "Sin seguimiento, visitantes de arreglos no vuelven en fechas clave."
+      ],
+      "heatmapData": [
+        "Clics por ocasion, producto, domicilio y WhatsApp.",
+        "Consultas por presupuesto, zona, horario y mensaje.",
+        "Abandono antes de pagar o escribir."
+      ],
+      "campaigns": [
+        "Campana por ocasion y urgencia de entrega.",
+        "Remarketing para fechas especiales y visitantes sin pedido.",
+        "Flujo de WhatsApp con ocasion, zona, hora y presupuesto."
+      ],
+      "deliverables": [
+        "Optimizar web actual con rutas por ocasion y domicilio.",
+        "Asesora digital para regalos, presupuesto, zona y urgencia.",
+        "Panel de oportunidades por ocasion, producto, fuente y estado."
+      ],
+      "sources": [
+        "https://nativafloristeria.com/",
+        "https://www.instagram.com/nativa_floristeria/"
+      ]
+    },
+    {
+      "slug": "laboratorio-de-pilates-medellin",
+      "company": "Laboratorio de Pilates",
+      "instagram": "@laboratoriodepilates",
+      "website": "https://laboratoriodepilates.com/",
+      "sector": "estudio de pilates reformer",
+      "city": "Medellin",
+      "tone": "bienestar, tecnico y cercano",
+      "accent": "#7C9E9A",
+      "secondary": "#E3B45B",
+      "status": "Web activa + reservas + WhatsApp",
+      "leadProblem": "La web publica Pilates, Reformer, reservas, Instagram y WhatsApp. La fuga probable esta en que una persona interesada necesita saber sede, nivel, disponibilidad, plan, contraindicaciones y primera clase antes de reservar.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor que filtre nivel, objetivo, sede y horario, convirtiendo visitantes en reservas de clase con contexto.",
+      "proofLine": "Lectura publica del 25 de julio de 2026: laboratoriodepilates.com responde 200 y presenta Laboratorio de Pilates, con señales visibles de Pilates, Reformer, reservas, Instagram y WhatsApp.",
+      "audience": "Personas en Medellin interesadas en pilates reformer, bienestar, fuerza, rehabilitacion ligera o primera clase guiada.",
+      "adAngle": "Pilates Reformer + primera clase guiada + reserva simple",
+      "whatsappCta": "Quiero convertir interes en reservas de clase",
+      "heroCopy": "En un estudio de pilates, la persona suele tener dudas antes de reservar: nivel, horarios, cupos, lesiones, objetivo y primera clase.",
+      "brandWorldTitle": "De interes por bienestar a clase reservada",
+      "diagnosisTitle": "Fugas entre horarios, nivel y WhatsApp",
+      "botAgentName": "Asesora Pilates demo",
+      "botAgentRole": "filtra clase y objetivo",
+      "botTitle": "Asesor digital para reservas de pilates",
+      "botIntro": "El demo pregunta objetivo, nivel, horario, sede y condiciones antes de enviar a reserva o WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de Laboratorio de Pilates. Te ayudo a encontrar una clase segun objetivo, nivel y horario.",
+      "botPrompts": [
+        "Primera clase",
+        "Reformer",
+        "Horarios",
+        "Lesion",
+        "Planes"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "primera",
+            "nuevo",
+            "nivel"
+          ],
+          "answer": "Preguntaria experiencia previa, objetivo y horario ideal para sugerir ruta de reserva."
+        },
+        {
+          "keywords": [
+            "reformer",
+            "lesion",
+            "dolor"
+          ],
+          "answer": "Capturaria objetivo y condicion relevante para derivar a asesoria humana cuando aplique."
+        },
+        {
+          "keywords": [
+            "horario",
+            "plan",
+            "reserva"
+          ],
+          "answer": "Pediria disponibilidad semanal y frecuencia deseada para orientar plan y reserva."
+        }
+      ],
+      "findings": [
+        "La web responde 200 y comunica Pilates y Reformer.",
+        "En la pagina se detectan señales de reservas.",
+        "Tambien aparecen señales visibles de Instagram y WhatsApp."
+      ],
+      "siteIssues": [
+        "La primera clase necesita resolver nivel, objetivo y horarios.",
+        "WhatsApp puede recibir preguntas repetidas sin clasificar intencion.",
+        "La pauta debe diferenciar principiantes, bienestar, fuerza y continuidad."
+      ],
+      "losses": [
+        "Un interesado puede no reservar si no sabe si la clase es para su nivel.",
+        "El equipo repite preguntas de horarios, planes y experiencia.",
+        "Sin seguimiento, personas que preguntan por primera clase no vuelven."
+      ],
+      "heatmapData": [
+        "Clics por horarios, planes, reserva y WhatsApp.",
+        "Consultas por nivel, objetivo, lesiones y frecuencia.",
+        "Abandono antes de reservar."
+      ],
+      "campaigns": [
+        "Campana de primera clase y reformer para nuevos alumnos.",
+        "Remarketing a visitantes de planes sin reserva.",
+        "Flujo de WhatsApp con objetivo, nivel, horario y frecuencia."
+      ],
+      "deliverables": [
+        "Optimizar web actual para reserva y WhatsApp con contexto.",
+        "Asesora digital para nivel, objetivo, horarios y planes.",
+        "Panel de oportunidades por clase, objetivo, fuente y estado."
+      ],
+      "sources": [
+        "https://laboratoriodepilates.com/",
+        "https://www.instagram.com/laboratoriodepilates/"
+      ]
+    },
+    {
+      "slug": "ceo-colombia-odontologia",
+      "company": "CEO Colombia",
+      "instagram": "@ceo_pereira",
+      "website": "https://ceocolombia.com/",
+      "sector": "centro estetico odontologico",
+      "city": "Colombia",
+      "tone": "clinico, institucional y comercial",
+      "accent": "#2D9BB3",
+      "secondary": "#C8A14A",
+      "status": "Web activa + agenda + WhatsApp",
+      "leadProblem": "La web publica CEO Centro Estetico Odontologico Colombia S.A.S, con señales de odontologia, cita, agenda, Instagram y WhatsApp. La fuga probable esta en que un paciente debe entender tratamiento, sede, disponibilidad y confianza antes de pedir cita.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor que clasifique tratamiento, urgencia, ciudad y objeciones antes de agenda o WhatsApp.",
+      "proofLine": "Lectura publica del 25 de julio de 2026: ceocolombia.com responde 200 y presenta CEO Centro Estetico Odontologico Colombia S.A.S, con señales visibles de odontologia, cita, agenda, Instagram y WhatsApp.",
+      "audience": "Pacientes interesados en estetica dental, valoracion odontologica, tratamientos y citas con seguimiento claro.",
+      "adAngle": "Estetica odontologica + cita guiada + seguimiento",
+      "whatsappCta": "Quiero convertir consultas en citas",
+      "heroCopy": "En salud oral, una consulta digital debe convertirse rapido en cita calificada, no quedarse en preguntas sueltas por WhatsApp.",
+      "brandWorldTitle": "De duda dental a cita calificada",
+      "diagnosisTitle": "Fugas entre tratamiento, confianza y agenda",
+      "botAgentName": "Asesor CEO demo",
+      "botAgentRole": "filtra tratamientos y citas",
+      "botTitle": "Asesor digital para citas odontologicas",
+      "botIntro": "El demo pregunta tratamiento de interes, urgencia, ciudad, disponibilidad y duda principal antes de agendar.",
+      "botOpening": "Hola, soy el asesor demo de CEO Colombia. Te ayudo a preparar una cita odontologica con datos claros.",
+      "botPrompts": [
+        "Valoracion",
+        "Diseno sonrisa",
+        "Ortodoncia",
+        "Agenda",
+        "WhatsApp"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "valoracion",
+            "cita",
+            "agenda"
+          ],
+          "answer": "Pediria tratamiento de interes, disponibilidad y datos de contacto para abrir cita calificada."
+        },
+        {
+          "keywords": [
+            "sonrisa",
+            "ortodoncia",
+            "tratamiento"
+          ],
+          "answer": "Separaria necesidad estetica o funcional y marcaria objeciones para seguimiento."
+        },
+        {
+          "keywords": [
+            "precio",
+            "whatsapp",
+            "urgencia"
+          ],
+          "answer": "Responderia que primero se valida el caso y capturaria urgencia para priorizar atencion."
+        }
+      ],
+      "findings": [
+        "La web responde 200 y comunica Centro Estetico Odontologico Colombia.",
+        "En la pagina se detectan señales de odontologia, cita y agenda.",
+        "Tambien aparecen señales visibles de Instagram y WhatsApp."
+      ],
+      "siteIssues": [
+        "Tratamientos distintos requieren preguntas y seguimiento distintos.",
+        "WhatsApp puede recibir dudas sin datos suficientes para agenda.",
+        "La pauta debe medir tratamiento consultado y cita generada."
+      ],
+      "losses": [
+        "Pacientes con interes se enfrían si no reciben ruta de valoracion clara.",
+        "El equipo repite preguntas de tratamiento, urgencia y disponibilidad.",
+        "Sin panel, no se priorizan los leads con mayor intencion."
+      ],
+      "heatmapData": [
+        "Clics por tratamiento, cita, agenda y WhatsApp.",
+        "Consultas por valoracion, urgencia, precio y disponibilidad.",
+        "Abandono antes de pedir cita."
+      ],
+      "campaigns": [
+        "Campana por tratamiento de alta intencion.",
+        "Remarketing a visitantes que no agendaron.",
+        "Flujo de cita con tratamiento, disponibilidad, urgencia y duda."
+      ],
+      "deliverables": [
+        "Optimizar web actual para citas y WhatsApp con contexto.",
+        "Asesor digital para tratamientos, valoraciones y seguimiento.",
+        "Panel de oportunidades por tratamiento, fuente y estado."
+      ],
+      "sources": [
+        "https://ceocolombia.com/",
+        "https://instagram.com/ceo_pereira"
+      ]
+    },
+    {
+      "slug": "casona-de-usaquen-bogota",
+      "company": "Casona de Usaquen",
+      "instagram": "@casonadeusaquen",
+      "website": "https://www.casonadeusaquen.com/",
+      "sector": "hotel boutique",
+      "city": "Bogota",
+      "tone": "calido, local y hotelero",
+      "accent": "#8C6A45",
+      "secondary": "#3F6470",
+      "status": "Web de hotel + reservas + WhatsApp",
+      "leadProblem": "La web publica Casona de Usaquen como hotel boutique en Bogota, con señales de hotel, reservas, Instagram y WhatsApp. La fuga probable esta en que visitantes comparan fecha, habitacion, ubicacion y tarifa antes de reservar.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor de reservas que capture fecha, motivo de viaje, numero de personas y dudas de ubicacion antes de WhatsApp.",
+      "proofLine": "Lectura publica del 25 de julio de 2026: casonadeusaquen.com responde 200 y presenta Casona de Usaquen como hotel boutique en Bogota, con señales visibles de hotel, reservas, Instagram y WhatsApp.",
+      "audience": "Viajeros en Bogota, turistas de Usaquen, visitantes de trabajo y parejas que buscan hotel boutique.",
+      "adAngle": "Hotel boutique en Usaquen + reserva directa + WhatsApp claro",
+      "whatsappCta": "Quiero convertir visitas en reservas directas",
+      "heroCopy": "Un hotel boutique vende confianza y ubicacion, pero la reserva se cierra cuando fecha, cupo, tarifa y dudas quedan resueltas.",
+      "brandWorldTitle": "De busqueda de hotel a reserva directa",
+      "diagnosisTitle": "Fugas entre ubicacion, fecha y tarifa",
+      "botAgentName": "Asesor Casona demo",
+      "botAgentRole": "guia reservas directas",
+      "botTitle": "Asesor digital para hotel boutique",
+      "botIntro": "El demo pregunta fechas, ocupacion, motivo de viaje y dudas antes de enviar a reserva o WhatsApp.",
+      "botOpening": "Hola, soy el asesor demo de Casona de Usaquen. Te ayudo a preparar una reserva con fechas y datos claros.",
+      "botPrompts": [
+        "Fechas",
+        "Habitacion",
+        "Usaquen",
+        "Reserva",
+        "WhatsApp"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "fecha",
+            "reserva",
+            "noche"
+          ],
+          "answer": "Pediria check-in, check-out y numero de personas para abrir una reserva directa."
+        },
+        {
+          "keywords": [
+            "habitacion",
+            "tarifa",
+            "persona"
+          ],
+          "answer": "Separaria tipo de habitacion, ocupacion y preferencias para reducir friccion."
+        },
+        {
+          "keywords": [
+            "usaquen",
+            "ubicacion",
+            "bogota"
+          ],
+          "answer": "Responderia sobre ubicacion de forma comercial y preguntaria motivo de viaje."
+        }
+      ],
+      "findings": [
+        "La web responde 200 y comunica hotel boutique en Bogota.",
+        "En la pagina se detectan señales de reservas y hotel.",
+        "Tambien aparecen señales visibles de Instagram y WhatsApp."
+      ],
+      "siteIssues": [
+        "La reserva necesita fecha, ocupacion y tipo de habitacion.",
+        "WhatsApp debe recibir contexto para cotizar rapido.",
+        "La pauta debe separar turismo, trabajo, escapada y reserva directa."
+      ],
+      "losses": [
+        "Un viajero puede irse a otra opcion si no confirma disponibilidad rapido.",
+        "El equipo repite preguntas de fecha, tarifa y personas.",
+        "Sin seguimiento por fecha, las visitas web no se recuperan."
+      ],
+      "heatmapData": [
+        "Clics por habitaciones, ubicacion, reservas y WhatsApp.",
+        "Consultas por fechas, ocupacion y motivo de viaje.",
+        "Abandono antes de reserva directa."
+      ],
+      "campaigns": [
+        "Campana de reserva directa para hotel boutique en Usaquen.",
+        "Remarketing a visitantes de habitaciones sin reservar.",
+        "Flujo de WhatsApp con fecha, personas, motivo y dudas."
+      ],
+      "deliverables": [
+        "Optimizar web actual para reserva directa y WhatsApp con contexto.",
+        "Asesor digital para fechas, habitaciones, ubicacion y tarifas.",
+        "Panel de oportunidades por fecha, canal, tipo de viajero y estado."
+      ],
+      "sources": [
+        "https://www.casonadeusaquen.com/",
+        "https://www.instagram.com/casonadeusaquen/"
+      ]
+    },
+    {
+      "slug": "tabata-ropa-femenina",
+      "company": "Tabata Ropa Femenina",
+      "instagram": "@tabataropaf",
+      "website": "https://tabataropafemenina.com/",
+      "sector": "moda femenina online",
+      "city": "Colombia",
+      "tone": "cercano, femenino y comercial",
+      "accent": "#D95F78",
+      "secondary": "#343A56",
+      "status": "Ecommerce activo + carrito + WhatsApp",
+      "leadProblem": "La web publica Tabata Ropa Femenina como moda femenina online en Colombia, con señales de ropa, tienda, carrito, compra, envio, Instagram y WhatsApp. La fuga probable esta en que una compradora necesita talla, disponibilidad, envio y cambios antes de finalizar.",
+      "opportunity": "Mejorar conversion del ecommerce actual con una asesora digital que responda por talla, referencia, envio, cambios y carrito abandonado, conectando Instagram, pauta y WhatsApp.",
+      "proofLine": "Lectura publica del 25 de julio de 2026: tabataropafemenina.com responde 200 y presenta Tabata Ropa Femenina | Moda femenina online en Colombia, con señales de tienda, carrito, compra, envio, Instagram y WhatsApp.",
+      "audience": "Mujeres que compran ropa femenina online, looks casuales, prendas para eventos y envios en Colombia.",
+      "adAngle": "Moda femenina + asesor de talla + compra rapida",
+      "whatsappCta": "Quiero convertir visitas en compras",
+      "heroCopy": "En moda online, la prenda puede gustar en segundos, pero la compra se decide con talla, disponibilidad, envio y confianza.",
+      "brandWorldTitle": "De inspiracion de outfit a compra guiada",
+      "diagnosisTitle": "Fugas entre producto, talla y carrito",
+      "botAgentName": "Asesora Tabata demo",
+      "botAgentRole": "guia tallas y pedidos",
+      "botTitle": "Asesor digital para moda femenina",
+      "botIntro": "El demo pregunta prenda, talla, ocasion, ciudad y duda de compra antes de llevar a carrito o WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de Tabata. Te ayudo a elegir prenda, talla y ruta de compra.",
+      "botPrompts": [
+        "Talla",
+        "Vestidos",
+        "Envio",
+        "Cambios",
+        "Carrito"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "talla",
+            "medida",
+            "fit"
+          ],
+          "answer": "Pediria talla habitual, prenda de interes y medidas clave para orientar compra."
+        },
+        {
+          "keywords": [
+            "vestido",
+            "outfit",
+            "evento"
+          ],
+          "answer": "Preguntaria ocasion y estilo para sugerir una ruta de productos y aumentar ticket."
+        },
+        {
+          "keywords": [
+            "envio",
+            "cambio",
+            "carrito"
+          ],
+          "answer": "Resolveria duda de envio o cambios y marcaria carrito abandonado para seguimiento."
+        }
+      ],
+      "findings": [
+        "La web responde 200 y comunica moda femenina online en Colombia.",
+        "En la pagina se detectan señales de ropa, tienda, carrito, compra y envio.",
+        "Tambien aparecen señales visibles de Instagram y WhatsApp."
+      ],
+      "siteIssues": [
+        "La compra de moda necesita resolver talla y cambios antes del pago.",
+        "WhatsApp directo debe conocer prenda vista y duda principal.",
+        "La pauta debe medir producto visto, carrito y conversacion."
+      ],
+      "losses": [
+        "Una compradora puede abandonar si no entiende talla o envio.",
+        "El equipo repite respuestas de referencias, tallas y cambios.",
+        "Sin recuperacion, carritos y visitas desde Instagram se pierden."
+      ],
+      "heatmapData": [
+        "Clics por categoria, prenda, talla y carrito.",
+        "Preguntas por envio, cambios y disponibilidad.",
+        "Abandono antes de pagar o escribir por WhatsApp."
+      ],
+      "campaigns": [
+        "Campana por productos y ocasiones de compra.",
+        "Remarketing a visitantes de producto sin carrito.",
+        "Flujo de WhatsApp con prenda, talla, ciudad y objecion."
+      ],
+      "deliverables": [
+        "Optimizar ecommerce actual con asesor de compra por prenda.",
+        "Bot para tallas, envios, cambios y recuperacion de carrito.",
+        "Panel de oportunidades por producto, fuente, talla y estado."
+      ],
+      "sources": [
+        "https://tabataropafemenina.com/",
+        "https://www.instagram.com/tabataropaf/"
+      ]
     }
   ]
 }
