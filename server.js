@@ -108,6 +108,11 @@ async function persistLead(lead) {
     channels.push("supabase");
   }
 
+  const hasMissionSync = channels.includes("supabase") || channels.includes("webhook");
+  if (!hasMissionSync && process.env.STUDY_LEADS_LOCAL_ONLY !== "1") {
+    throw new Error("Study leads Mission Control sync is not configured");
+  }
+
   return channels;
 }
 

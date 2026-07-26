@@ -40287,6 +40287,973 @@
         "https://tabataropafemenina.com/",
         "https://www.instagram.com/tabataropaf/"
       ]
+    },
+    {
+      "slug": "hotel-boutique-caney-villa-de-leyva",
+      "company": "Hotel Boutique Caney",
+      "instagram": "@hotelboutique.caney",
+      "website": "https://www.hotelboutiquecaney.com/",
+      "sector": "hotel boutique, spa y reservas rurales",
+      "city": "Villa de Leyva, Boyaca",
+      "tone": "calido, romantico y confiable",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#A87C3B",
+      "secondary": "#6FA4A8",
+      "status": "Web activa + WhatsApp + motor de reserva externo",
+      "leadProblem": "Caney ya tiene web, WhatsApp y boton de reservar, pero la reserva puede enfriarse cuando la persona compara habitacion, fecha, tarifa, mascota, spa o plan romantico antes de confirmar.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor digital que pregunte fechas, numero de personas, tipo de suite, motivo de viaje y dudas de reserva antes de llevar al motor o WhatsApp.",
+      "proofLine": "Lectura publica del 26 de julio de 2026: hotelboutiquecaney.com responde 200, muestra Hotel Boutique Caney en Villa de Leyva, WhatsApp +57 321 4499235, boton Reservar hacia plataforma Hotmark y servicios como desayuno, jacuzzi, restaurante/bar, spa, zonas verdes y mascotas bienvenidas.",
+      "audience": "Parejas, familias y viajeros que buscan estadia en Villa de Leyva con naturaleza, descanso, spa o celebracion.",
+      "adAngle": "Escapada a Villa de Leyva + suite ideal + reserva asistida",
+      "whatsappCta": "Quiero convertir visitas en reservas directas",
+      "heroCopy": "En hoteleria, el deseo aparece rapido; la reserva se gana cuando fecha, habitacion y dudas quedan claras sin esperar respuesta manual.",
+      "brandWorldTitle": "De visita inspirada a reserva con contexto",
+      "diagnosisTitle": "Fugas entre habitacion, fecha y confirmacion",
+      "botAgentName": "Anfitriona Caney demo",
+      "botAgentRole": "filtra fechas, suites y plan de viaje",
+      "botTitle": "Asesor digital para reservas boutique",
+      "botIntro": "El demo captura fecha tentativa, personas, tipo de suite, plan especial y dudas antes de enviar a reserva o WhatsApp.",
+      "botOpening": "Hola, soy la anfitriona demo de Caney. Te ayudo a ubicar fecha, suite y tipo de escapada antes de reservar.",
+      "botPrompts": [
+        "Fecha",
+        "Suite romantica",
+        "Mascota",
+        "Spa",
+        "Reserva"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "fecha",
+            "disponible",
+            "reserva"
+          ],
+          "answer": "Pediria fecha tentativa, numero de noches y ocupacion para preparar una solicitud lista para confirmar."
+        },
+        {
+          "keywords": [
+            "suite",
+            "romantica",
+            "jacuzzi",
+            "pareja"
+          ],
+          "answer": "Separaria plan de pareja, familiar o casa campestre para sugerir la habitacion correcta."
+        },
+        {
+          "keywords": [
+            "mascota",
+            "spa",
+            "caballo",
+            "servicio"
+          ],
+          "answer": "Resolveria reglas de mascota, spa, desayuno, restaurante y servicios antes de pasar a WhatsApp."
+        }
+      ],
+      "findings": [
+        "La web responde 200 y presenta suites, servicios, tarifas base y boton de reserva.",
+        "Existe WhatsApp visible y enlace de click para chatear.",
+        "El motor de reserva esta en una plataforma externa, lo que exige seguimiento si la persona no termina."
+      ],
+      "siteIssues": [
+        "La decision hotelera depende de fecha, ocupacion, habitacion y motivo de viaje.",
+        "WhatsApp debe recibir contexto, no solo un saludo generico.",
+        "La pauta debe diferenciar escapada romantica, familia, spa y mascotas."
+      ],
+      "losses": [
+        "Una pareja puede mirar suites y no reservar si no sabe cual aplica para su fecha.",
+        "Consultas repetidas sobre tarifas, servicios y mascotas consumen tiempo del equipo.",
+        "Sin recuperacion, visitantes del motor externo pueden perderse sin seguimiento."
+      ],
+      "heatmapData": [
+        "Clics en suites, reservar, WhatsApp y servicios.",
+        "Abandono antes de motor de reservas o durante comparacion de habitaciones.",
+        "Preguntas por fecha, jacuzzi, mascotas, spa y plan romantico."
+      ],
+      "campaigns": [
+        "Campana de escapada romantica a Villa de Leyva.",
+        "Campana familiar/casa campestre con filtros por ocupacion.",
+        "Remarketing a visitantes de suites que no reservaron."
+      ],
+      "deliverables": [
+        "Optimizar ruta web actual hacia reserva y WhatsApp con contexto.",
+        "Asesor digital para fechas, habitacion, servicios, politicas y seguimiento.",
+        "Panel de oportunidades por fuente, suite consultada y estado de reserva."
+      ],
+      "sources": [
+        "https://www.hotelboutiquecaney.com/",
+        "https://www.instagram.com/hotelboutique.caney/"
+      ]
+    },
+    {
+      "slug": "townhouse-cartagena-hotel-rooftop",
+      "company": "Townhouse Cartagena",
+      "instagram": "@townhousecartagena",
+      "website": "https://www.townhousecartagena.com/",
+      "sector": "hotel boutique, rooftop, jazz bar y eventos",
+      "city": "Cartagena, Bolivar",
+      "tone": "vibrante, creativo y premium",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#E45B4D",
+      "secondary": "#0F8F8B",
+      "status": "Web activa con hotel, rooftop, bares y eventos",
+      "leadProblem": "Townhouse comunica una experiencia fuerte, pero mezcla hotel, rooftop, jazz bar, brunch, eventos y membresia. Sin una capa que clasifique intencion, un visitante puede disfrutar el contenido y no reservar, cotizar ni preguntar lo correcto.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor digital que separe hotel, rooftop, evento, brunch o bar, capture fecha/personas y envie al canal adecuado con contexto.",
+      "proofLine": "Lectura publica del 26 de julio de 2026: townhousecartagena.com responde 200 y presenta art hotel de once habitaciones en el centro historico, rooftop, jazz bar Members Only, comida, cocktails y eventos/catering por contacto.",
+      "audience": "Turistas, locales, grupos, celebraciones y viajeros que buscan hotel boutique, rooftop o experiencia nocturna en Cartagena.",
+      "adAngle": "Hotel arte + rooftop + reserva o evento sin friccion",
+      "whatsappCta": "Quiero ordenar reservas y eventos desde la web",
+      "heroCopy": "Cuando una marca vende hotel, bar y eventos a la vez, la conversion mejora si cada visitante entra por su intencion real.",
+      "brandWorldTitle": "De experiencia colorida a reserva segmentada",
+      "diagnosisTitle": "Fugas por mezcla de intenciones",
+      "botAgentName": "Concierge Townhouse demo",
+      "botAgentRole": "clasifica hotel, rooftop y eventos",
+      "botTitle": "Asesor digital para reservas y eventos",
+      "botIntro": "El demo pregunta si la persona quiere habitacion, rooftop, jazz bar, brunch o evento, y captura fecha y grupo.",
+      "botOpening": "Hola, soy el concierge demo de Townhouse. Te ayudo a elegir entre hotel, rooftop, bar o evento con los datos clave.",
+      "botPrompts": [
+        "Habitacion",
+        "Rooftop",
+        "Evento",
+        "Jazz bar",
+        "Fecha"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "habitacion",
+            "hotel",
+            "room"
+          ],
+          "answer": "Pediria fechas, numero de personas y tipo de viaje para llevar a reserva hotelera."
+        },
+        {
+          "keywords": [
+            "rooftop",
+            "bar",
+            "brunch",
+            "jazz"
+          ],
+          "answer": "Clasificaria si es reserva de mesa, brunch, bar o noche especial, con fecha y cantidad de personas."
+        },
+        {
+          "keywords": [
+            "evento",
+            "catering",
+            "party",
+            "boda"
+          ],
+          "answer": "Armaría un brief con fecha, lugar, asistentes, comida/bebida y tipo de experiencia para cotizar."
+        }
+      ],
+      "findings": [
+        "La web comunica hotel de arte, rooftop, jazz bar, comida y eventos.",
+        "Incluye rutas internas a Rooms, rooftop y Members Only.",
+        "La oferta es potente, pero necesita clasificar intencion para no mandar todo al mismo contacto."
+      ],
+      "siteIssues": [
+        "Hotel, rooftop y eventos tienen preguntas distintas.",
+        "La web extensa puede inspirar mucho pero diluir el siguiente paso.",
+        "El seguimiento debe diferenciar turista, local y grupo/evento."
+      ],
+      "losses": [
+        "Un visitante puede no saber si reservar habitacion, mesa o evento.",
+        "Cotizaciones de eventos llegan incompletas si no se pide brief desde el inicio.",
+        "Pauta sin segmentacion mezcla audiencias con tickets e intenciones distintas."
+      ],
+      "heatmapData": [
+        "Clics en Rooms, rooftop, Members Only y contacto.",
+        "Abandono por seccion antes de CTA.",
+        "Consultas por fecha, grupo, tipo de plan y presupuesto."
+      ],
+      "campaigns": [
+        "Campana para habitaciones boutique en Cartagena.",
+        "Campana para rooftop y brunch dirigida a locales y viajeros.",
+        "Campana de eventos privados con brief automatizado."
+      ],
+      "deliverables": [
+        "Asesor digital multiruta: hotel, rooftop, bar y eventos.",
+        "Medicion por intencion y fuente de pauta.",
+        "Seguimiento automatico de reservas o cotizaciones incompletas."
+      ],
+      "sources": [
+        "https://www.townhousecartagena.com/",
+        "https://www.instagram.com/townhousecartagena/"
+      ]
+    },
+    {
+      "slug": "cafe-del-este-bogota",
+      "company": "Cafe del Este",
+      "instagram": "@cafedelestebog",
+      "website": "https://cafedeleste.com/",
+      "sector": "restaurante de cocina contemporanea",
+      "city": "Bogota",
+      "tone": "sobrio, gastronomico y cercano",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#B07A45",
+      "secondary": "#425B5A",
+      "status": "Web activa con ubicacion, horarios, email e Instagram",
+      "leadProblem": "Cafe del Este tiene una web limpia con concepto, horarios y ubicacion, pero la ruta de reserva o solicitud puede quedar dispersa si el cliente viene desde Instagram con hambre, fecha o grupo definido.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor que capture fecha, hora, personas, ocasion y preferencia antes de llevar a reserva, WhatsApp o contacto.",
+      "proofLine": "Lectura publica del 26 de julio de 2026: cafedeleste.com responde 200, comunica cocina contemporanea en Bogota, publica horarios, @cafedelestebog, info@cafedeleste.com y direccion Calle 81a #8-31.",
+      "audience": "Comensales en Bogota que buscan almuerzo, cena, celebracion, reunion o experiencia gastronomica contemporanea.",
+      "adAngle": "Mesa clara + ocasion + reserva con contexto",
+      "whatsappCta": "Quiero convertir visitas en reservas",
+      "heroCopy": "En restaurantes, el cliente decide rapido; si no ve una ruta clara para mesa, hora y grupo, la intencion se enfria.",
+      "brandWorldTitle": "De antojo en Instagram a mesa reservada",
+      "diagnosisTitle": "Fugas entre horario, mesa y contacto",
+      "botAgentName": "Anfitriona Cafe del Este demo",
+      "botAgentRole": "prepara reservas y grupos",
+      "botTitle": "Asesor digital para reservas de restaurante",
+      "botIntro": "El demo pregunta fecha, hora, personas, ocasion y restricciones antes de enviar una solicitud lista.",
+      "botOpening": "Hola, soy la anfitriona demo de Cafe del Este. Te ayudo a preparar una reserva con fecha, hora y numero de personas.",
+      "botPrompts": [
+        "Reservar mesa",
+        "Horario",
+        "Celebracion",
+        "Grupo",
+        "Carta"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "reserva",
+            "mesa",
+            "fecha",
+            "hora"
+          ],
+          "answer": "Capturaria dia, hora y numero de personas para evitar idas y vueltas."
+        },
+        {
+          "keywords": [
+            "celebracion",
+            "cumple",
+            "aniversario",
+            "grupo"
+          ],
+          "answer": "Preguntaria ocasion, preferencias y necesidades especiales para que el restaurante llegue preparado."
+        },
+        {
+          "keywords": [
+            "carta",
+            "menu",
+            "horario"
+          ],
+          "answer": "Responderia horarios, ubicacion y dudas frecuentes antes de pasar a contacto."
+        }
+      ],
+      "findings": [
+        "La web responde 200 y comunica concepto gastronomico.",
+        "Publica horarios, email, direccion e Instagram.",
+        "La conversion puede mejorar si la reserva queda mas directa y medible."
+      ],
+      "siteIssues": [
+        "Falta una captura estructurada de fecha, hora, personas y ocasion.",
+        "El email y el Instagram no siempre son la ruta mas rapida para reserva inmediata.",
+        "La pauta debe medir reservas, no solo visitas al perfil."
+      ],
+      "losses": [
+        "Comensales con urgencia eligen el restaurante que confirma mas rapido.",
+        "Grupos llegan con informacion incompleta y exigen respuesta manual.",
+        "Sin data de intencion, no se sabe que anuncios traen reservas reales."
+      ],
+      "heatmapData": [
+        "Clics en ubicacion, horarios, contacto e Instagram.",
+        "Consultas por dia, hora, personas y ocasion.",
+        "Abandono antes de enviar solicitud de reserva."
+      ],
+      "campaigns": [
+        "Campana de reserva para cenas y celebraciones.",
+        "Campana por ubicacion en zona norte de Bogota.",
+        "Remarketing a visitantes que miraron ubicacion/contacto."
+      ],
+      "deliverables": [
+        "Mejorar web actual con CTA de reserva y seguimiento.",
+        "Asesor digital para mesas, horarios, grupos y ocasiones.",
+        "Panel por fuente, dia, numero de personas y estado."
+      ],
+      "sources": [
+        "https://cafedeleste.com/",
+        "https://www.instagram.com/cafedelestebog/"
+      ]
+    },
+    {
+      "slug": "pilates-1880-bogota",
+      "company": "Pilates 1880",
+      "instagram": "@pilates1880",
+      "website": "https://www.pilates1880.com/",
+      "sector": "pilates reformer semi-personalizado",
+      "city": "Bogota",
+      "tone": "humano, profesional y boutique",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#6C8E7F",
+      "secondary": "#D8A15E",
+      "status": "Web activa + clase de prueba por WhatsApp",
+      "leadProblem": "Pilates 1880 tiene trayectoria, sedes y clase de prueba, pero una persona nueva necesita saber si puede empezar, que sede elegir, horario, embarazo/lesion y frecuencia recomendada antes de escribir.",
+      "opportunity": "Mejorar conversion de la web actual con una asesora digital que clasifique nivel, sede, objetivo y horario, y recupere interesados que no reservan la clase de prueba.",
+      "proofLine": "Lectura publica del 26 de julio de 2026: pilates1880.com responde 200, presenta Pilates Reformer en Bogota desde 2003, grupos de maximo 5 personas, sedes El Nogal y Parque Virrey, instructoras certificadas y boton de clase de prueba por WhatsApp de $60.000.",
+      "audience": "Personas en Bogota que buscan pilates reformer, movimiento consciente, rehabilitacion, embarazo o clases semi-personalizadas.",
+      "adAngle": "Clase de prueba + sede correcta + guia para principiantes",
+      "whatsappCta": "Quiero convertir curiosidad en clases de prueba",
+      "heroCopy": "La primera clase se reserva cuando la persona entiende que puede empezar, donde le queda mejor y que plan encaja con su cuerpo.",
+      "brandWorldTitle": "De interes por bienestar a clase agendada",
+      "diagnosisTitle": "Fugas antes de la clase de prueba",
+      "botAgentName": "Asesora Pilates 1880 demo",
+      "botAgentRole": "filtra nivel, sede y objetivo",
+      "botTitle": "Asesor digital para primera clase",
+      "botIntro": "El demo pregunta objetivo, sede, disponibilidad, experiencia y condicion especial antes de llevar a WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de Pilates 1880. Te ayudo a elegir sede, horario y tipo de clase para empezar bien.",
+      "botPrompts": [
+        "Primera vez",
+        "Sede",
+        "Embarazo",
+        "Privada",
+        "Frecuencia"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "primera",
+            "nuevo",
+            "principiante"
+          ],
+          "answer": "Explicaria que hay grupos pequenos y pediria objetivo para recomendar clase de prueba."
+        },
+        {
+          "keywords": [
+            "sede",
+            "virrey",
+            "nogal",
+            "horario"
+          ],
+          "answer": "Preguntaria zona y disponibilidad para llevar a la sede mas conveniente."
+        },
+        {
+          "keywords": [
+            "embarazo",
+            "lesion",
+            "privada",
+            "rehabilitacion"
+          ],
+          "answer": "Clasificaria condicion especial y sugeriria privada o adaptacion con instructor certificado."
+        }
+      ],
+      "findings": [
+        "La web comunica trayectoria desde 2003 y enfoque semi-personalizado.",
+        "Tiene CTA claro a WhatsApp para clase de prueba.",
+        "La oportunidad esta en convertir mejor visitantes nuevos y segmentar objetivos."
+      ],
+      "siteIssues": [
+        "La decision inicial depende de sede, horario, nivel y objetivo.",
+        "WhatsApp deberia llegar con contexto del cuerpo y necesidad.",
+        "La pauta puede separar principiantes, embarazo, rehabilitacion y comunidad bilingue."
+      ],
+      "losses": [
+        "Interesados postergan si no saben si una clase sirve para su caso.",
+        "El equipo repite respuestas sobre sedes, horarios y niveles.",
+        "Sin seguimiento, quien toca WhatsApp pero no agenda se pierde."
+      ],
+      "heatmapData": [
+        "Clics en clase de prueba, sedes y preguntas frecuentes.",
+        "Preguntas por objetivo, condicion especial y horario.",
+        "Abandono antes de WhatsApp o despues de ver precio."
+      ],
+      "campaigns": [
+        "Campana de clase de prueba para principiantes.",
+        "Campana por sedes El Nogal/Parque Virrey.",
+        "Remarketing a visitantes de FAQs y WhatsApp."
+      ],
+      "deliverables": [
+        "Optimizar web actual hacia clase de prueba medible.",
+        "Asesora digital para sede, nivel, objetivo y seguimiento.",
+        "Panel por fuente, sede, objetivo y estado de agenda."
+      ],
+      "sources": [
+        "https://www.pilates1880.com/",
+        "https://www.instagram.com/pilates1880/"
+      ]
+    },
+    {
+      "slug": "aliva-pilates-medellin",
+      "company": "Aliva Pilates Studio",
+      "instagram": "@alivapilates",
+      "website": "https://www.alivapilates.com/",
+      "sector": "pilates reformer boutique",
+      "city": "El Poblado, Medellin",
+      "tone": "calmo, boutique y terapeutico",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#B58B72",
+      "secondary": "#879B8D",
+      "status": "Web activa + planes + ruta de reserva",
+      "leadProblem": "Aliva comunica una experiencia boutique y planes claros, pero una persona nueva puede dudar entre empezar, valoracion, plan, horario o si el metodo aplica para su cuerpo.",
+      "opportunity": "Mejorar conversion de la web actual con una asesora que guie primera clase, valoracion, plan de clases y seguimiento para visitantes que no reservan.",
+      "proofLine": "Lectura publica del 26 de julio de 2026: alivapilates.com responde 200, presenta Aliva Pilates Studio en El Poblado, Medellin, grupos de maximo 5 personas, clases de 50 minutos, planes de 12/16/20 clases y ruta Comienza hoy/Reservar.",
+      "audience": "Personas en Medellin que buscan pilates reformer boutique, postura, fuerza, bienestar o movimiento terapeutico.",
+      "adAngle": "Pilates boutique + valoracion + plan claro",
+      "whatsappCta": "Quiero convertir visitas en reservas",
+      "heroCopy": "Un estudio boutique vende confianza: la persona necesita sentir que hay una ruta para empezar sin adivinar plan ni nivel.",
+      "brandWorldTitle": "De bienestar aspiracional a reserva guiada",
+      "diagnosisTitle": "Fugas entre valoracion, plan y agenda",
+      "botAgentName": "Asesora Aliva demo",
+      "botAgentRole": "guia primera clase y plan",
+      "botTitle": "Asesor digital para pilates boutique",
+      "botIntro": "El demo pregunta objetivo, nivel, horario, valoracion y plan recomendado.",
+      "botOpening": "Hola, soy la asesora demo de Aliva. Te ayudo a elegir una ruta de inicio segun objetivo, nivel y disponibilidad.",
+      "botPrompts": [
+        "Empezar",
+        "Valoracion",
+        "Plan",
+        "Horario",
+        "Dolor/postura"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "empezar",
+            "primera",
+            "nuevo"
+          ],
+          "answer": "Recomendaria iniciar con una valoracion o primera clase y capturaria objetivo principal."
+        },
+        {
+          "keywords": [
+            "plan",
+            "precio",
+            "clases"
+          ],
+          "answer": "Compararia frecuencia semanal y meta para orientar el plan de 12, 16 o 20 clases."
+        },
+        {
+          "keywords": [
+            "dolor",
+            "postura",
+            "lesion",
+            "terapeutico"
+          ],
+          "answer": "Pedira condicion y nivel para que la instructora llegue con contexto."
+        }
+      ],
+      "findings": [
+        "La web muestra propuesta boutique en El Poblado y grupos pequenos.",
+        "Presenta planes de clase y ruta de inicio.",
+        "El siguiente salto es guiar la decision inicial con datos de objetivo y horario."
+      ],
+      "siteIssues": [
+        "La persona necesita elegir plan sin perderse en precios.",
+        "El formulario/reserva debe capturar objetivo, nivel y horario.",
+        "La pauta debe separar bienestar, postura, fuerza y primera vez."
+      ],
+      "losses": [
+        "Visitantes interesadas pueden guardar la pagina pero no iniciar.",
+        "El equipo repite explicaciones sobre planes y valoracion.",
+        "Sin seguimiento, una consulta de plan no se convierte en clase."
+      ],
+      "heatmapData": [
+        "Clics en planes, reservar y secciones de metodo.",
+        "Preguntas por objetivo, horario, dolor y frecuencia.",
+        "Abandono antes de elegir plan."
+      ],
+      "campaigns": [
+        "Campana de primera clase en El Poblado.",
+        "Campana por postura/bienestar con valoracion.",
+        "Remarketing a visitantes de planes."
+      ],
+      "deliverables": [
+        "Mejoras de conversion sobre web y reservas actuales.",
+        "Asesora digital para objetivo, nivel, plan y seguimiento.",
+        "Panel por fuente, plan, horario y estado."
+      ],
+      "sources": [
+        "https://www.alivapilates.com/",
+        "https://instagram.com/alivapilates"
+      ]
+    },
+    {
+      "slug": "pilates-body-evolution-cali",
+      "company": "Pilates Body Evolution",
+      "instagram": "@pilatesbodyevolutioncali",
+      "website": "https://www.pilatesbodyevolution.com/contacto/",
+      "sector": "pilates y clase de prueba",
+      "city": "Cali",
+      "tone": "activo, cercano y profesional",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#7B6FB2",
+      "secondary": "#64BFA4",
+      "status": "Web con contacto + clase de prueba por WhatsApp",
+      "leadProblem": "Pilates Body Evolution tiene contacto y clase de prueba, pero la pagina publica poca informacion de decision: una persona necesita entender nivel, objetivo, horario, precio/paquete y ubicacion antes de escribir.",
+      "opportunity": "Mejorar conversion con una landing clara y asesor digital para primera clase, objetivos y seguimiento por WhatsApp.",
+      "proofLine": "Lectura publica del 26 de julio de 2026: pilatesbodyevolution.com/contacto responde 200, muestra CTA Quiero una clase de prueba, ubicacion cerca al Parque del Perro en San Fernando, email, telefono +57 315 659 6234 e Instagram @pilatesbodyevolutioncali.",
+      "audience": "Personas en Cali que buscan pilates, acondicionamiento, postura, movilidad o una clase de prueba cerca al Parque del Perro.",
+      "adAngle": "Clase de prueba + objetivo claro + WhatsApp con contexto",
+      "whatsappCta": "Quiero llenar mas clases de prueba",
+      "heroCopy": "Cuando la web muestra contacto pero no guia la decision, WhatsApp recibe curiosos en vez de reservas listas.",
+      "brandWorldTitle": "De contacto basico a agenda de prueba",
+      "diagnosisTitle": "Fugas por falta de ruta clara",
+      "botAgentName": "Asesora Body Evolution demo",
+      "botAgentRole": "prepara clase de prueba",
+      "botTitle": "Asesor digital para primera clase",
+      "botIntro": "El demo pregunta objetivo, experiencia, horario, condicion fisica y sede antes de enviar a WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de Pilates Body Evolution. Te ayudo a preparar tu clase de prueba con los datos clave.",
+      "botPrompts": [
+        "Clase prueba",
+        "Principiante",
+        "Horario",
+        "Ubicacion",
+        "Objetivo"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "prueba",
+            "primera",
+            "clase"
+          ],
+          "answer": "Capturaria nombre, objetivo y horario para llevar a WhatsApp una solicitud lista."
+        },
+        {
+          "keywords": [
+            "principiante",
+            "nivel",
+            "nuevo"
+          ],
+          "answer": "Aclararia que se puede iniciar con acompanamiento y pediria condicion fisica."
+        },
+        {
+          "keywords": [
+            "ubicacion",
+            "parque",
+            "perro",
+            "san fernando"
+          ],
+          "answer": "Confirmaria cercania al Parque del Perro y ayudaria a elegir horario segun disponibilidad."
+        }
+      ],
+      "findings": [
+        "La pagina de contacto publica CTA a clase de prueba.",
+        "Muestra ubicacion en San Fernando, email, telefono e Instagram.",
+        "La oportunidad es ampliar la pagina para explicar oferta antes de WhatsApp."
+      ],
+      "siteIssues": [
+        "Falta una landing de servicios, niveles, horarios, paquetes y beneficios.",
+        "WhatsApp no deberia recibir preguntas sin contexto.",
+        "La pauta necesita medir clase de prueba y seguimiento, no solo clics."
+      ],
+      "losses": [
+        "Interesados no escriben si no entienden la experiencia antes.",
+        "El equipo responde manualmente dudas basicas de primera clase.",
+        "Sin landing/pixel, se pierde remarketing de personas de Cali con intencion."
+      ],
+      "heatmapData": [
+        "Clics en clase de prueba, contacto e Instagram.",
+        "Preguntas por horario, nivel, precio y ubicacion.",
+        "Abandono antes de WhatsApp."
+      ],
+      "campaigns": [
+        "Campana de clase de prueba cerca al Parque del Perro.",
+        "Campana para principiantes y objetivos de postura/fuerza.",
+        "Remarketing a visitantes que abrieron contacto sin escribir."
+      ],
+      "deliverables": [
+        "Landing clara para primera clase, niveles y horarios.",
+        "Asesor digital para objetivo, nivel, horario y seguimiento.",
+        "Panel de clases de prueba por fuente y estado."
+      ],
+      "sources": [
+        "https://www.pilatesbodyevolution.com/contacto/",
+        "https://www.instagram.com/pilatesbodyevolutioncali/"
+      ]
+    },
+    {
+      "slug": "habibi-plantitas-colombia",
+      "company": "Habibi Plantitas",
+      "instagram": "@habibisuculentasplantitas",
+      "website": "https://www.habibiplantitas.com/",
+      "sector": "flores, plantas y regalos ecommerce",
+      "city": "Colombia",
+      "tone": "tierno, practico y comercial",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#5AA978",
+      "secondary": "#E1B64C",
+      "status": "Ecommerce activo + plantas/regalos + Instagram",
+      "leadProblem": "Habibi vende productos visuales y de regalo, pero cada compra depende de ocasion, ciudad, fecha, disponibilidad, cuidado de planta y mensaje. Si esas dudas no se resuelven rapido, el regalo se pospone.",
+      "opportunity": "Mejorar conversion del ecommerce actual con una asesora que filtre ocasion, presupuesto, ciudad, fecha de entrega y cuidados antes de carrito o WhatsApp.",
+      "proofLine": "Lectura publica del 26 de julio de 2026: habibiplantitas.com responde 200, se titula Flores, plantas y regalos a domicilio a toda Colombia y muestra productos como bonsai con precio desde $155.000 y codigos QR de cuidados; el sitio enlaza Instagram @habibisuculentasplantitas.",
+      "audience": "Personas que compran plantas, flores y regalos a domicilio para cumpleanos, amor, agradecimiento o detalles corporativos.",
+      "adAngle": "Regalo vivo + entrega + asesoria de cuidado",
+      "whatsappCta": "Quiero convertir visitas en pedidos",
+      "heroCopy": "El regalo se compra cuando la persona entiende si llega a tiempo, que elegir y como cuidarlo despues.",
+      "brandWorldTitle": "De detalle bonito a pedido confirmado",
+      "diagnosisTitle": "Fugas entre ocasion, entrega y cuidado",
+      "botAgentName": "Asesora Habibi demo",
+      "botAgentRole": "guia regalos, entregas y cuidados",
+      "botTitle": "Asesor digital para regalos vivos",
+      "botIntro": "El demo pregunta ocasion, ciudad, fecha, presupuesto y tipo de planta o flor antes de llevar a compra.",
+      "botOpening": "Hola, soy la asesora demo de Habibi. Te ayudo a elegir un regalo vivo segun ocasion, ciudad y fecha.",
+      "botPrompts": [
+        "Cumpleanos",
+        "Entrega",
+        "Cuidados",
+        "Presupuesto",
+        "Corporativo"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cumple",
+            "aniversario",
+            "regalo",
+            "ocasion"
+          ],
+          "answer": "Preguntaria ocasion, personalidad y presupuesto para sugerir una ruta de productos."
+        },
+        {
+          "keywords": [
+            "entrega",
+            "domicilio",
+            "ciudad",
+            "fecha"
+          ],
+          "answer": "Confirmaria ciudad, fecha y urgencia antes de llevar a carrito o WhatsApp."
+        },
+        {
+          "keywords": [
+            "cuidado",
+            "planta",
+            "bonsai"
+          ],
+          "answer": "Explicaria que necesita la planta y enviaria cuidados despues de la compra."
+        }
+      ],
+      "findings": [
+        "La web presenta ecommerce de flores, plantas y regalos a domicilio.",
+        "Hay productos con precio y narrativa de cuidado.",
+        "El Instagram oficial esta enlazado desde el sitio."
+      ],
+      "siteIssues": [
+        "La compra de regalo necesita filtrar ocasion, fecha y ciudad.",
+        "Los cuidados de planta pueden ser una objecion antes de pagar.",
+        "WhatsApp debe recibir producto y contexto, no una pregunta abierta."
+      ],
+      "losses": [
+        "Regalos urgentes se van al competidor que confirme entrega mas rapido.",
+        "Dudas de cuidado frenan compras de plantas vivas.",
+        "Sin seguimiento, visitantes de producto no vuelven cuando se acerca la fecha."
+      ],
+      "heatmapData": [
+        "Clics por producto, ocasion, carrito y WhatsApp.",
+        "Preguntas por entrega, cuidado y presupuesto.",
+        "Abandono antes de pago."
+      ],
+      "campaigns": [
+        "Campana por regalos de cumpleanos y fechas especiales.",
+        "Campana de plantas con cuidado guiado.",
+        "Remarketing a visitantes de productos sin compra."
+      ],
+      "deliverables": [
+        "Optimizar ecommerce actual con asesora de regalo.",
+        "Bot para ocasion, ciudad, fecha, presupuesto y cuidado.",
+        "Panel por producto, fecha, ciudad y estado de compra."
+      ],
+      "sources": [
+        "https://www.habibiplantitas.com/",
+        "https://www.instagram.com/habibisuculentasplantitas/"
+      ]
+    },
+    {
+      "slug": "casa-anturio-floristeria-cali",
+      "company": "Casa Anturio",
+      "instagram": "@casa_anturio",
+      "website": "https://www.floristeriacasaanturio.com/",
+      "sector": "floristeria, arreglos y domicilios",
+      "city": "Cali",
+      "tone": "emocional, elegante y confiable",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#D85C8B",
+      "secondary": "#77A968",
+      "status": "Web activa + tienda/WhatsApp + Instagram",
+      "leadProblem": "Casa Anturio comunica experiencia floral, domicilios y WhatsApp, pero cada venta depende de ocasion, presupuesto, fecha, direccion y mensaje. Si eso se resuelve manualmente, el cierre se vuelve lento.",
+      "opportunity": "Mejorar conversion de la web actual con una asesora que arme el pedido floral por ocasion, presupuesto, zona y urgencia, conectando ecommerce, WhatsApp y seguimiento.",
+      "proofLine": "Lectura publica del 26 de julio de 2026: floristeriacasaanturio.com responde 200, presenta Floristeria en Cali, mas de 20 anos de trayectoria, flores a domicilio, tienda online, pedidos por WhatsApp e Instagram @casa_anturio.",
+      "audience": "Personas y empresas en Cali que envian flores para cumpleanos, aniversarios, condolencias, eventos o detalles sin razon.",
+      "adAngle": "Ocasion + presupuesto + entrega el mismo dia",
+      "whatsappCta": "Quiero convertir visitas en pedidos florales",
+      "heroCopy": "Una floristeria vende emociones, pero la conversion depende de ordenar fecha, direccion, presupuesto y mensaje sin friccion.",
+      "brandWorldTitle": "De emocion a pedido floral listo",
+      "diagnosisTitle": "Fugas entre ocasion, entrega y pago",
+      "botAgentName": "Asesora Casa Anturio demo",
+      "botAgentRole": "arma pedidos florales",
+      "botTitle": "Asesor digital para flores a domicilio",
+      "botIntro": "El demo pregunta ocasion, presupuesto, direccion, fecha, mensaje y urgencia antes de enviar a compra o WhatsApp.",
+      "botOpening": "Hola, soy la asesora demo de Casa Anturio. Te ayudo a armar un arreglo segun ocasion, presupuesto y entrega.",
+      "botPrompts": [
+        "Cumpleanos",
+        "Entrega hoy",
+        "Condolencias",
+        "Presupuesto",
+        "Evento"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cumple",
+            "aniversario",
+            "ocasion"
+          ],
+          "answer": "Preguntaria ocasion, estilo y presupuesto para sugerir arreglo y mensaje."
+        },
+        {
+          "keywords": [
+            "entrega",
+            "domicilio",
+            "hoy",
+            "direccion"
+          ],
+          "answer": "Validaria zona, fecha y hora para no perder pedidos urgentes."
+        },
+        {
+          "keywords": [
+            "condolencia",
+            "evento",
+            "empresa"
+          ],
+          "answer": "Separaria tono y tipo de arreglo para preparar una solicitud cuidada."
+        }
+      ],
+      "findings": [
+        "La web responde 200 y explica floristeria en Cali con domicilios.",
+        "Menciona tienda online, WhatsApp e Instagram oficial.",
+        "La oportunidad esta en convertir mejor ocasiones urgentes y corporativas."
+      ],
+      "siteIssues": [
+        "El pedido necesita datos estructurados antes de WhatsApp.",
+        "La urgencia y la zona deben validarse temprano.",
+        "La pauta debe medir ocasion, presupuesto y compra."
+      ],
+      "losses": [
+        "Pedidos del mismo dia se pierden si no se confirma rapido.",
+        "El equipo repite preguntas de ocasion, direccion y presupuesto.",
+        "Sin seguimiento, empresas y clientes recurrentes quedan sin ruta comercial."
+      ],
+      "heatmapData": [
+        "Clics por ocasion, WhatsApp, tienda y productos.",
+        "Preguntas por entrega hoy, presupuesto y mensaje.",
+        "Abandono antes de pago o contacto."
+      ],
+      "campaigns": [
+        "Campana de entrega el mismo dia en Cali.",
+        "Campana por ocasiones: cumpleanos, condolencias y aniversarios.",
+        "Remarketing a visitantes que miraron arreglos sin comprar."
+      ],
+      "deliverables": [
+        "Mejoras de conversion sobre web/tienda actual.",
+        "Asesora digital para pedido floral completo.",
+        "Panel por ocasion, zona, presupuesto y estado."
+      ],
+      "sources": [
+        "https://www.floristeriacasaanturio.com/",
+        "https://www.instagram.com/casa_anturio/"
+      ]
+    },
+    {
+      "slug": "home-decore-medellin",
+      "company": "Home Decore",
+      "instagram": "@homedecoresas",
+      "website": "https://homedecoremedellin.com/",
+      "sector": "cocinas, closets, mesones y muebles a medida",
+      "city": "Medellin y area metropolitana",
+      "tone": "premium, tecnico y cercano",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#9A6A43",
+      "secondary": "#4F6B73",
+      "status": "Web activa + WhatsApp + servicios a medida",
+      "leadProblem": "Home Decore ya tiene web fuerte, servicios y WhatsApp, pero una cotizacion de cocina, closet o meson necesita medidas, zona, tipo de proyecto, presupuesto, visita y fotos. Si WhatsApp arranca sin esos datos, el cierre se alarga.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor que arme briefs de proyecto, pida datos minimos y clasifique oportunidad antes de cotizar.",
+      "proofLine": "Lectura publica del 26 de julio de 2026: homedecoremedellin.com responde 200, comunica cocinas, closets, mesones, domotica, dos sedes en Medellin, diseno 3D previo gratis, visitas/medicion y CTA de cotizacion por WhatsApp; el sitio enlaza @homedecoresas.",
+      "audience": "Propietarios, remodeladores, arquitectos y negocios que cotizan cocinas, closets, banos, centros de entretenimiento o mesones en Medellin.",
+      "adAngle": "Proyecto a medida + visita/medicion + cotizacion con brief",
+      "whatsappCta": "Quiero cotizaciones mejor calificadas",
+      "heroCopy": "En muebles a medida, vender no es responder rapido: es recibir medidas, fotos, presupuesto y urgencia desde el primer contacto.",
+      "brandWorldTitle": "De inspiracion de proyecto a cotizacion lista",
+      "diagnosisTitle": "Fugas entre portafolio, medidas y cierre",
+      "botAgentName": "Asesor Home Decore demo",
+      "botAgentRole": "arma briefs de remodelacion",
+      "botTitle": "Asesor digital para cotizar muebles a medida",
+      "botIntro": "El demo pregunta tipo de proyecto, zona, medidas, fotos, presupuesto y plazo antes de enviar a WhatsApp.",
+      "botOpening": "Hola, soy el asesor demo de Home Decore. Te ayudo a preparar una cotizacion con proyecto, medidas y datos claros.",
+      "botPrompts": [
+        "Cocina",
+        "Closet",
+        "Meson",
+        "Medidas",
+        "Visita"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cocina",
+            "closet",
+            "meson",
+            "mueble"
+          ],
+          "answer": "Separaria tipo de proyecto y pediria medidas/fotos para evitar una conversacion incompleta."
+        },
+        {
+          "keywords": [
+            "visita",
+            "medicion",
+            "bello",
+            "envigado",
+            "medellin"
+          ],
+          "answer": "Validaria zona y disponibilidad para visita tecnica o medicion."
+        },
+        {
+          "keywords": [
+            "presupuesto",
+            "plazo",
+            "cotizar"
+          ],
+          "answer": "Clasificaria rango de presupuesto, urgencia y material antes de pasar a WhatsApp."
+        }
+      ],
+      "findings": [
+        "La web presenta servicios a medida y CTA de cotizacion por WhatsApp.",
+        "Muestra proceso de visita, diseno 3D, fabricacion e instalacion.",
+        "El sitio enlaza Instagram oficial @homedecoresas."
+      ],
+      "siteIssues": [
+        "Cada servicio requiere preguntas de brief distintas.",
+        "WhatsApp debe recibir medidas/fotos/ubicacion, no solo interes general.",
+        "La pauta debe separar cocina, closet, meson y centro de entretenimiento."
+      ],
+      "losses": [
+        "Cotizaciones incompletas consumen tiempo comercial.",
+        "Un lead sin presupuesto ni fotos puede parecer interesado pero no estar listo.",
+        "Sin seguimiento, proyectos de alto ticket quedan en conversaciones largas."
+      ],
+      "heatmapData": [
+        "Clics por servicio, WhatsApp y sedes.",
+        "Datos faltantes: medidas, fotos, zona, presupuesto y plazo.",
+        "Abandono antes de cotizar o despues de ver portafolio."
+      ],
+      "campaigns": [
+        "Campana por cocinas integrales en Medellin.",
+        "Campana por closets/vestidores con visita tecnica.",
+        "Remarketing a visitantes de servicios especificos."
+      ],
+      "deliverables": [
+        "Optimizar web actual con formularios de brief por servicio.",
+        "Asesor digital para medidas, fotos, zona, presupuesto y seguimiento.",
+        "Panel de cotizaciones por servicio, fuente y etapa."
+      ],
+      "sources": [
+        "https://homedecoremedellin.com/",
+        "https://www.instagram.com/homedecoresas/"
+      ]
+    },
+    {
+      "slug": "carpincon-bogota",
+      "company": "Carpincon",
+      "instagram": "@inversiones_carpincon",
+      "website": "https://carpincon.com/",
+      "sector": "carpinteria, tapiceria y muebles a medida",
+      "city": "Bogota",
+      "tone": "confiable, artesanal y comercial",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#8B5A35",
+      "secondary": "#3F6D72",
+      "status": "Web activa + formulario/cotizacion + WhatsApp",
+      "leadProblem": "Carpincon comunica muebles a medida, experiencia y WhatsApp, pero una venta de carpinteria o tapiceria se cae si el cliente no entrega medidas, fotos, material, plazo y presupuesto desde el inicio.",
+      "opportunity": "Mejorar conversion de la web actual con un asesor digital que arme cotizaciones preliminares, pida evidencia visual y clasifique proyectos por urgencia y valor.",
+      "proofLine": "Lectura publica del 26 de julio de 2026: carpincon.com responde 200, presenta Muebles a Medida y Tapiceria Premium en Bogota, 15+ anos de experiencia, 500+ proyectos, proceso de tres pasos y CTA Cotizar por WhatsApp; el sitio enlaza Instagram @inversiones_carpincon.",
+      "audience": "Hogares, empresas y remodeladores en Bogota que cotizan closets, cocinas, comedores, tapiceria o muebles especiales.",
+      "adAngle": "Mueble a medida + brief rapido + cotizacion ordenada",
+      "whatsappCta": "Quiero cotizar con leads mas claros",
+      "heroCopy": "La venta a medida necesita convertir inspiracion en datos: espacio, medidas, fotos, material, plazo y presupuesto.",
+      "brandWorldTitle": "De idea de mueble a proyecto cotizable",
+      "diagnosisTitle": "Fugas por brief incompleto",
+      "botAgentName": "Asesor Carpincon demo",
+      "botAgentRole": "califica proyectos a medida",
+      "botTitle": "Asesor digital para carpinteria y tapiceria",
+      "botIntro": "El demo pregunta tipo de mueble, medidas, fotos, material, zona y urgencia antes de WhatsApp.",
+      "botOpening": "Hola, soy el asesor demo de Carpincon. Te ayudo a convertir tu idea en una solicitud de cotizacion clara.",
+      "botPrompts": [
+        "Closet",
+        "Tapiceria",
+        "Medidas",
+        "Fotos",
+        "Presupuesto"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "closet",
+            "cocina",
+            "comedor",
+            "mueble"
+          ],
+          "answer": "Preguntaria tipo de mueble, medidas aproximadas, ubicacion y estilo deseado."
+        },
+        {
+          "keywords": [
+            "tapiceria",
+            "sofa",
+            "silla"
+          ],
+          "answer": "Pediria fotos, cantidad de piezas, material deseado y estado actual."
+        },
+        {
+          "keywords": [
+            "presupuesto",
+            "urgente",
+            "cotizacion"
+          ],
+          "answer": "Clasificaria presupuesto, plazo y zona para que el equipo priorice el cierre."
+        }
+      ],
+      "findings": [
+        "La web responde 200 y comunica carpinteria/tapiceria premium en Bogota.",
+        "Muestra CTA de cotizacion por WhatsApp y proceso claro.",
+        "El Instagram oficial esta enlazado desde el sitio."
+      ],
+      "siteIssues": [
+        "La cotizacion necesita datos especificos que no siempre llegan por WhatsApp.",
+        "Cada categoria tiene objeciones distintas: medidas, telas, madera, instalacion y plazo.",
+        "La pauta debe optimizar a cotizaciones calificadas, no solo clics."
+      ],
+      "losses": [
+        "Leads incompletos alargan la respuesta y reducen cierre.",
+        "Proyectos grandes pueden perderse si no hay seguimiento ordenado.",
+        "Sin data, no se sabe que servicios atraen mejores tickets."
+      ],
+      "heatmapData": [
+        "Clics por servicio, WhatsApp y formulario.",
+        "Campos faltantes en briefs: medidas, fotos, material, presupuesto.",
+        "Abandono antes de cotizar."
+      ],
+      "campaigns": [
+        "Campana de closets/cocinas a medida en Bogota.",
+        "Campana de retapizado y restauracion de muebles.",
+        "Remarketing a visitantes de servicios sin WhatsApp."
+      ],
+      "deliverables": [
+        "Optimizar web actual con brief de cotizacion por categoria.",
+        "Asesor digital para medidas, fotos, materiales y seguimiento.",
+        "Panel por categoria, fuente, presupuesto y etapa."
+      ],
+      "sources": [
+        "https://carpincon.com/",
+        "https://instagram.com/inversiones_carpincon"
+      ]
     }
   ]
 }
