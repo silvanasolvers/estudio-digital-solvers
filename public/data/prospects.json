@@ -41254,6 +41254,190 @@
         "https://carpincon.com/",
         "https://instagram.com/inversiones_carpincon"
       ]
+    },
+    {
+      "slug": "arturo-calle-compra-por-ocasion",
+      "company": "Arturo Calle",
+      "instagram": "@arturocalleoficial",
+      "website": "https://www.arturocalle.com/",
+      "sector": "retail de moda, calzado y accesorios para hombre, mujer y ninos",
+      "city": "Colombia",
+      "tone": "sobrio, ejecutivo y comercial",
+      "theme": "retail",
+      "brandMode": "standard",
+      "accent": "#101820",
+      "secondary": "#B79A5B",
+      "status": "Instagram oficial + ecommerce VTEX + categorias por hombre, mujer, kids, calzado, accesorios y bono de regalo",
+      "logoImage": "https://arturocalle.vtexassets.com/arquivos/logoArturoCalle.png",
+      "heroImage": "https://arturocalle.vtexassets.com/assets/vtex.file-manager-graphql/images/4d0796e7-fe87-4eff-b612-25a61421ca2d___ae1fcedecb671f1939f26f62ccf793e2.jpg",
+      "heroCopy": "Arturo Calle ya tiene marca, ecommerce y confianza. La oportunidad no esta en explicar quienes son, sino en guiar mejor a quien llega desde Instagram o WhatsApp con una intencion concreta: oficina, evento, regalo, talla, disponibilidad, envio, tienda o cambio.",
+      "brandWorldTitle": "De vitrina masiva a compra guiada por ocasion",
+      "diagnosisTitle": "Fugas entre deseo, categoria y compra",
+      "leadProblem": "La captura enviada muestra que el DM responde con horario de atencion, web oficial y correo de contacto. La web publica arturocalle.com responde 200, opera sobre VTEX y comunica compra en linea de camisas, pantalones, camisetas, zapatos y accesorios para hombre, mujer y ninos, con compra segura y envios a todo el pais. La fuga probable aparece cuando la persona no sabe que comprar para oficina, evento o regalo, o necesita confirmar talla, disponibilidad, envio, tienda o cambio antes de pagar.",
+      "opportunity": "Mejorar conversion de Instagram, WhatsApp y ecommerce con un asesor digital por ocasion que pregunte uso, estilo, talla, presupuesto, ciudad y urgencia; recomiende rutas de categoria; recupere preguntas fuera de horario; y deje cada oportunidad medida en Mission Control por ocasion, categoria y siguiente paso.",
+      "proofLine": "Lectura publica del 29 de julio de 2026: arturocalle.com responde 200 y su metadata oficial describe ropa, zapatos y accesorios para hombre, mujer y ninos, compra segura y envios a todo el pais. El sitemap publico lista rutas como hombre, mujer, kids, camisas, pantalones, zapatos, tenis, accesorios, perfumes, corbatas y bono de regalo. La captura de Instagram oficial muestra respuesta automatica con horario, web www.arturocalle.com y correo contactenos@arturocalle.com.",
+      "audience": "Compradores que llegan desde Instagram, WhatsApp o pauta buscando ropa de oficina, outfits para evento, regalo, calzado, accesorios, tallas, disponibilidad, envio nacional o tienda cercana.",
+      "adAngle": "Compra por ocasion + asesor de talla/estilo + ecommerce con seguimiento",
+      "whatsappCta": "Quiero guiar mejor compras desde Instagram",
+      "alertLabel": "Oportunidad omnicanal",
+      "statusLabel": "Diagnostico comercial",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Marca nacional reconocida, ecommerce activo, categorias amplias y confianza para compras de ropa, calzado y accesorios.",
+      "visualCueLabel": "Dolor",
+      "visualCue": "El cliente llega con una ocasion, pero el canal lo manda a navegar solo o esperar respuesta dentro del horario.",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asesor 24/7 por ocasion, talla, categoria, ciudad y seguimiento comercial.",
+      "bannerKicker": "Hook Solvers",
+      "bannerHook": "La ocasion ya existe; falta convertirla en ruta de compra",
+      "bannerSubhook": "Oficina, evento o regalo no deberian entrar al mismo embudo. Cada intencion necesita preguntas, recomendacion y seguimiento diferente.",
+      "bannerBadge1": "Ecommerce VTEX",
+      "bannerBadge2": "Instagram verificado",
+      "botAgentName": "Asesor Arturo Calle demo",
+      "botAgentRole": "guia ocasion, talla, categoria y seguimiento",
+      "botTitle": "Asesor digital para compras por ocasion",
+      "botIntro": "El demo pregunta si la persona compra para oficina, evento, regalo, viaje o uso diario, y organiza talla, presupuesto, ciudad y urgencia antes de enviar al ecommerce o al asesor.",
+      "botOpening": "Hola, soy el asesor demo de Arturo Calle. Puedo ayudarte a ordenar una compra por ocasion: oficina, evento, regalo, talla, envio o tienda.",
+      "botPrompts": [
+        "Oficina",
+        "Evento",
+        "Regalo",
+        "Talla",
+        "Envio"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "oficina",
+            "trabajo",
+            "formal",
+            "business"
+          ],
+          "answer": "Preguntaria cargo, clima, frecuencia de uso, talla y presupuesto para sugerir ruta de camisas, pantalones, zapatos o accesorios."
+        },
+        {
+          "keywords": [
+            "evento",
+            "boda",
+            "grado",
+            "fiesta"
+          ],
+          "answer": "Separaria tipo de evento, hora, nivel de formalidad, ciudad y fecha para llevar al cliente a una seleccion mas concreta."
+        },
+        {
+          "keywords": [
+            "regalo",
+            "bono",
+            "cumpleanos",
+            "dia del padre"
+          ],
+          "answer": "Pediria edad aproximada, estilo, presupuesto, ciudad y si prefiere bono de regalo, accesorio o prenda segura."
+        },
+        {
+          "keywords": [
+            "talla",
+            "disponible",
+            "envio",
+            "tienda",
+            "cambio"
+          ],
+          "answer": "El flujo puede guiar por talla, disponibilidad, envio nacional, tienda cercana y politicas antes de escalar a un asesor humano."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "Marca y ecommerce",
+          "body": "La web ya vende ropa, zapatos y accesorios con compra segura y envios a todo el pais."
+        },
+        {
+          "label": "Dolor 01",
+          "title": "DM fuera de horario",
+          "body": "La respuesta automatica informa horario y web, pero no clasifica intencion ni captura oportunidad comercial."
+        },
+        {
+          "label": "Dolor 02",
+          "title": "Demasiadas rutas",
+          "body": "Hombre, mujer, kids, zapatos, accesorios y bono de regalo requieren guia segun ocasion, talla y presupuesto."
+        },
+        {
+          "label": "Solucion",
+          "title": "Compra asistida",
+          "body": "Un asesor por ocasion filtra necesidad, recomienda categoria y deja cada lead medido en Mission Control."
+        }
+      ],
+      "experiencePath": [
+        "Entrada: la persona llega desde Instagram, pauta, web o WhatsApp con una ocasion concreta.",
+        "Filtro: el asesor pregunta ocasion, genero/categoria, talla, ciudad, presupuesto y urgencia.",
+        "Ruta: envia al producto, categoria, tienda o asesor correcto con contexto.",
+        "Seguimiento: si no compra, queda una oportunidad por categoria y ocasion para recuperar."
+      ],
+      "galleryImages": [
+        {
+          "label": "Moda Arturo Calle",
+          "src": "https://arturocalle.vtexassets.com/assets/vtex.file-manager-graphql/images/4d0796e7-fe87-4eff-b612-25a61421ca2d___ae1fcedecb671f1939f26f62ccf793e2.jpg"
+        },
+        {
+          "label": "Vitrina ecommerce",
+          "src": "https://arturocalle.vtexassets.com/assets/vtex.file-manager-graphql/images/9df7042d-c65d-4e0b-a13d-9bd8e8f463f8___345cb0ee36ed46801572b41f54331974.jpg"
+        },
+        {
+          "label": "Calzado y accesorios",
+          "src": "https://arturocalle.vtexassets.com/assets/vtex.file-manager-graphql/images/d2cfcb08-9cc6-40c1-abdb-7fdf7f00bfa4___4c9a41f8a4c99c68a6cc1ba3f3a6ecb3.jpg"
+        }
+      ],
+      "journey": [
+        {
+          "title": "Dolor: el cliente llega por ocasion, no por menu",
+          "body": "Quien busca oficina, evento o regalo no quiere recorrer todo el arbol de categorias. Quiere una recomendacion que traduzca ocasion en productos, talla y siguiente paso."
+        },
+        {
+          "title": "Dolor: la respuesta automatica no captura intencion",
+          "body": "El mensaje actual informa horario, web y correo. Eso ayuda, pero no convierte preguntas fuera de horario en oportunidades con nombre, telefono, categoria y urgencia."
+        },
+        {
+          "title": "Solucion: asesor de compra por ocasion",
+          "body": "El flujo puede separar oficina, evento, regalo, viaje, kids, calzado o accesorios; preguntar talla, presupuesto y ciudad; y entregar una ruta directa al ecommerce o asesor humano."
+        },
+        {
+          "title": "Solucion: Mission Control como panel de oportunidades",
+          "body": "Cada formulario queda conectado a Mission Control para ver fuente, ocasion, categoria, estado del lead y proxima accion comercial."
+        }
+      ],
+      "findings": [
+        "La web oficial responde correctamente y esta preparada para ecommerce con categorias amplias.",
+        "El sitemap publico muestra profundidad de categorias: hombre, mujer, kids, ropa, calzado, accesorios, perfumes, corbatas y bono de regalo.",
+        "La captura de Instagram muestra una respuesta automatica util, pero no captura datos ni clasifica la compra."
+      ],
+      "siteIssues": [
+        "La compra por ocasion puede perderse si el cliente debe traducir solo su necesidad a categorias.",
+        "WhatsApp/Instagram necesitan capturar intencion antes de mandar a web o correo.",
+        "Pauta y contenido deberian medir ocasion, categoria y abandono, no solo clics."
+      ],
+      "losses": [
+        "Consultas fuera de horario pueden terminar en navegacion sin seguimiento.",
+        "Regalos, eventos y oficina tienen preguntas distintas y tickets diferentes.",
+        "Sin panel, no se sabe que ocasion genera mejores oportunidades desde Instagram."
+      ],
+      "heatmapData": [
+        "Clics por ocasion: oficina, evento, regalo, uso diario y kids.",
+        "Abandono en talla, disponibilidad, envio, carrito y selector de categoria.",
+        "Leads por fuente, categoria, ciudad, presupuesto y urgencia."
+      ],
+      "campaigns": [
+        "Campana de oficina: camisas, pantalones, zapatos y accesorios con asesoria de estilo.",
+        "Campana de eventos: guia por formalidad, fecha, clima y talla.",
+        "Campana de regalos: bono, accesorios y prendas seguras con recuperacion de interesados."
+      ],
+      "deliverables": [
+        "Asesor digital 24/7 por ocasion, talla, categoria, ciudad y presupuesto.",
+        "Formulario conectado a Mission Control para capturar oportunidades desde el mini-estudio.",
+        "Mapa de conversion por Instagram, WhatsApp, ecommerce, categoria y seguimiento."
+      ],
+      "sources": [
+        "https://www.arturocalle.com/",
+        "https://www.arturocalle.com/sitemap/category-0.xml",
+        "Captura enviada por Valentina del DM con @arturocalleoficial"
+      ]
     }
   ]
 }
