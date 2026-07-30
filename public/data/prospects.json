@@ -41652,6 +41652,255 @@
         "https://restaurantguru.com/Bohio-Restaurante-Cali",
         "https://wanderlog.com/es/place/details/9417442/bohio-restaurante"
       ]
+    },
+    {
+      "slug": "bacu-restaurante-sedes-pedidos-catering",
+      "company": "BACU restaurante",
+      "instagram": "@bacufoods",
+      "website": "https://www.bacu.co/",
+      "sector": "restaurantes de comida balanceada, pedidos online, pick up, domicilios, catering y eventos",
+      "city": "Bogota, Cajica-Chia y Medellin",
+      "tone": "fresco, cercano, agil, saludable y urbano",
+      "theme": "maker",
+      "brandMode": "texuno",
+      "accent": "#075642",
+      "accentRgb": "7, 86, 66",
+      "secondary": "#F3C348",
+      "secondaryRgb": "243, 195, 72",
+      "brandDark": "#062D24",
+      "paper": "#F7F4E9",
+      "paperCard": "#FFFDF4",
+      "brandWash": "rgba(7, 86, 66, 0.20)",
+      "brandWash2": "rgba(243, 195, 72, 0.18)",
+      "status": "Sitio oficial activo + 20 ubicaciones publicas + pedidos online + menu + pick up + domicilios + catering/eventos + Club Bacanes",
+      "logoImage": "https://static1.squarespace.com/static/634831e326fb203a1ad946d0/t/69ebdfd5d888067b1ea4fa50/1777065942024/LOGO-BACU-WEB-VERDE.png?format=1500w",
+      "heroImage": "https://images.squarespace-cdn.com/content/v1/634831e326fb203a1ad946d0/07c2e9af-4079-4e77-913f-87b43c3f0fb0/LOMO-TERIYAKI-EDITED-S.png.jpg",
+      "heroCopy": "BACU ya tiene marca, sedes, menu, pedidos online, pick up, domicilios, catering, eventos y Club Bacanes. La oportunidad no esta en explicar la comida; esta en ordenar desde el primer contacto si la persona quiere comer en una sede, pedir a domicilio, recoger, programar un pedido, cotizar catering, hacer un evento o entrar al programa de fidelidad.",
+      "brandWorldTitle": "De muchas sedes a una ruta clara de pedido",
+      "diagnosisTitle": "Donde se mezcla la intencion antes de vender",
+      "leadProblem": "La respuesta del pantallazo pide enviar propuesta comercial al correo sac@baco.com.co. La lectura publica muestra que BACU opera con 20 ubicaciones publicadas entre Bogota, Cajica-Chia y Medellin, sitio oficial bacu.co, menu, pedidos online, pick up, domicilios, restaurantes, catering/eventos y Club Bacanes. Con tantas entradas, un cliente puede llegar preguntando por sede, domicilio, menu, tiempo de recogida, evento empresarial, reunion familiar o puntos; si todo cae como mensaje suelto, el equipo debe clasificar desde cero.",
+      "opportunity": "Crear una ruta simple de conversion para BACU que separe desde Instagram/WhatsApp/web si la persona quiere sede, pedido ahora, pick up programado, domicilio, catering, evento o fidelizacion. Asi cada solicitud llega con ciudad, sede cercana, fecha, hora, numero de personas, tipo de consumo y datos de contacto; y el equipo puede priorizar ventas calientes, eventos y catering sin perder tiempo en preguntas repetidas.",
+      "proofLine": "Lectura preliminar basada en sitio oficial BACU consultado el 30 de julio de 2026: bacu.co publica menu, pedidos online, restaurantes, pick up, domicilios, catering/eventos, Club Bacanes y 20 ubicaciones entre Bogota, Cajica-Chia y Medellin. La captura enviada por Valentina muestra contacto corporativo sac@baco.com.co para recibir propuesta comercial. Se valida con canales, CRM, sedes y proceso real antes de ejecutar.",
+      "audience": "Personas que buscan comida balanceada para todos los dias, oficinas que piden domicilios, clientes que recogen en sede, usuarios de Club Bacanes, grupos familiares, reuniones empresariales y eventos que necesitan catering o espacio en restaurante.",
+      "adAngle": "Ordenar sede, pedido, pick up, domicilio, catering y eventos antes de WhatsApp",
+      "whatsappCta": "Quiero ordenar mejor pedidos y eventos",
+      "alertLabel": "Oportunidad multicanal",
+      "statusLabel": "Diagnostico comercial",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Marca activa con oferta clara: buena comida para todos los dias, 20 ubicaciones, pedidos online, experiencias, catering/eventos y programa de fidelidad.",
+      "visualCueLabel": "Dolor",
+      "visualCue": "Quien llega desde Instagram puede querer sede, menu, domicilio, recoger, evento, catering o puntos. La pregunta inicial parece igual, pero el cierre es distinto.",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Asistente 24/7 que clasifica intencion, ciudad, sede, horario, pedido, evento y contacto antes de entregar al equipo.",
+      "loaderLabel": "Preparando diagnostico BACU",
+      "loaderTitle": "BACU bajo lupa",
+      "loaderSubtitle": "Leyendo sedes, pedidos, pick up, domicilios, catering, eventos y fidelizacion antes de mostrar la oportunidad.",
+      "loaderCue1": "Sede o pedido",
+      "loaderCue2": "Lead ordenado",
+      "heroStampTitle": "BACU",
+      "heroStampSubtitle": "Sedes + pedidos + catering",
+      "bannerKicker": "Hook Solvers",
+      "bannerHook": "La marca ya mueve pedidos; falta ordenar la intencion por sede",
+      "bannerSubhook": "Sede, pick up, domicilio, catering, evento o Club Bacanes no deberian entrar como el mismo mensaje. Cada intencion necesita una ruta corta hacia venta real.",
+      "bannerBadge1": "20 ubicaciones publicas",
+      "bannerBadge2": "Pedidos + catering + eventos",
+      "openNode1Label": "Sede",
+      "openNode1Title": "Ciudad y punto cercano",
+      "openNode2Label": "Pedido",
+      "openNode2Title": "Ahora o programado",
+      "openNode3Label": "Equipo",
+      "openNode3Title": "Lead con contexto",
+      "openNodeMetric": "24/7",
+      "scrollTitle": "De ver comida a elegir sede, hora y tipo de consumo",
+      "scrollIntro": "El estudio muestra como convertir el interes en una ruta concreta: comer en restaurante, pedir ahora, recoger, programar, cotizar catering o gestionar un evento.",
+      "experienceIntro": "BACU vende una rutina diaria: comer bien sin friccion. La automatizacion debe funcionar como un anfitrion operativo que entiende ciudad, sede, momento de consumo y tipo de pedido antes de pasar al canal correcto.",
+      "botTitle": "Asistente BACU: sede, pedido, pick up, catering y eventos al instante",
+      "botIntro": "Este demo muestra como un agente puede responder dudas de ubicaciones, menu, pedido online, pick up, domicilio, catering, eventos, Club Bacanes y contacto corporativo sin que el equipo clasifique todo manualmente.",
+      "botAgentName": "Asistente BACU demo",
+      "botAgentRole": "sedes, pedidos, pick up, domicilios, catering y eventos",
+      "botDemoTitle": "Menos mensajes sin contexto",
+      "botDemoBody": "La persona puede decir si quiere comer en sede, pedir a domicilio, recoger, programar, cotizar catering o hacer un evento. El agente ordena ciudad, sede, fecha, hora y datos antes de escalar.",
+      "botTrainingTitle": "Entrenado para operacion multisedes",
+      "botTrainingBody": "Sedes por ciudad, menu, pedidos online, recogida, domicilios, tiempos, catering, eventos, Club Bacanes, datos de contacto, correo corporativo, preguntas frecuentes y seguimiento comercial.",
+      "botOpening": "Hola, soy el asistente demo de BACU. Preguntame como ordenar sedes, pedidos, pick up, catering, eventos o Club Bacanes sin perder oportunidades.",
+      "botPrompts": [
+        "Sede cercana",
+        "Pedido online",
+        "Pick up",
+        "Catering",
+        "Evento"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "sede",
+            "ubicacion",
+            "ubicaciones",
+            "restaurante",
+            "bogota",
+            "medellin",
+            "cajica",
+            "chia"
+          ],
+          "answer": "El asistente pregunta ciudad, zona y momento de visita para dirigir a la sede correcta y dejar claro si la persona quiere comer ahi, recoger o hacer un pedido."
+        },
+        {
+          "keywords": [
+            "pedido",
+            "domicilio",
+            "domicilios",
+            "delivery",
+            "pide",
+            "menu",
+            "menú"
+          ],
+          "answer": "Para pedidos separa consumo inmediato, domicilio o pedido programado. Puede llevar al canal de pedidos y guardar la intencion por ciudad, sede y tipo de plato."
+        },
+        {
+          "keywords": [
+            "pick up",
+            "pickup",
+            "recoger",
+            "recogida",
+            "programar",
+            "qr"
+          ],
+          "answer": "El flujo de pick up puede preguntar sede, hora y datos para evitar filas y guiar a recogida programada, alineado con la promesa publica de recoger en tres pasos."
+        },
+        {
+          "keywords": [
+            "catering",
+            "empresa",
+            "reunion",
+            "reunión",
+            "oficina",
+            "corporativo"
+          ],
+          "answer": "Para catering pregunta fecha, ciudad, numero de personas, tipo de reunion, presupuesto aproximado y contacto. Eso convierte una pregunta general en oportunidad comercial priorizable."
+        },
+        {
+          "keywords": [
+            "evento",
+            "eventos",
+            "cumpleanos",
+            "cumpleaños",
+            "familia",
+            "celebracion",
+            "celebración"
+          ],
+          "answer": "En eventos filtra sede o domicilio, fecha, hora, personas, ocasion y necesidades especiales para que el equipo responda con contexto y no desde cero."
+        },
+        {
+          "keywords": [
+            "club",
+            "bacanes",
+            "puntos",
+            "fidelidad",
+            "redimir"
+          ],
+          "answer": "El asistente puede explicar Club Bacanes, registro, acumulacion de puntos y redencion, mientras captura oportunidades de recompra y clientes frecuentes."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "Marca multisedes",
+          "body": "BACU tiene presencia en Bogota, Cajica-Chia y Medellin, con restaurantes, pedidos online, pick up, domicilios y Club Bacanes."
+        },
+        {
+          "label": "Dolor 01",
+          "title": "Intencion mezclada",
+          "body": "Un DM puede ser sede, menu, pedido, pick up, catering, evento, fidelidad o soporte; todas requieren datos distintos."
+        },
+        {
+          "label": "Dolor 02",
+          "title": "Eventos de mayor valor",
+          "body": "Catering y eventos necesitan fecha, personas, ciudad, tipo de reunion y contacto. Si entran como una pregunta simple, se pueden enfriar."
+        },
+        {
+          "label": "Solucion",
+          "title": "Ruta por ocasion",
+          "body": "Un asistente clasifica necesidad, ciudad, sede, hora y tipo de consumo antes de entregar el lead al canal correcto."
+        }
+      ],
+      "experiencePath": [
+        "Entrada: la persona llega desde Instagram, web, pedido online o referido con hambre, afan, reunion o evento.",
+        "Filtro: el asistente pregunta ciudad, sede, consumo en restaurante, domicilio, pick up, catering, evento o Club Bacanes.",
+        "Ruta: envia al pedido, sede, correo, WhatsApp o equipo comercial correcto con contexto.",
+        "Seguimiento: cada oportunidad queda medida por ciudad, sede, tipo de consumo, fecha y siguiente accion."
+      ],
+      "galleryImages": [
+        {
+          "label": "Platos BACU",
+          "src": "https://images.squarespace-cdn.com/content/v1/634831e326fb203a1ad946d0/07c2e9af-4079-4e77-913f-87b43c3f0fb0/LOMO-TERIYAKI-EDITED-S.png.jpg"
+        },
+        {
+          "label": "Restaurante BACU",
+          "src": "https://images.squarespace-cdn.com/content/v1/634831e326fb203a1ad946d0/74a00173-d89f-4124-ab2c-5fa91b236975/_DSC0131.png"
+        },
+        {
+          "label": "Experiencia diaria",
+          "src": "https://images.squarespace-cdn.com/content/v1/634831e326fb203a1ad946d0/7dda38fc-4814-4c62-bd86-15ccf72f9eb8/DSCF0033-Editar.jpg"
+        }
+      ],
+      "journey": [
+        {
+          "title": "Dolor: muchas entradas, una sola conversacion",
+          "body": "Sede, menu, pedido, recogida, domicilio, catering, evento y puntos pueden llegar al mismo inbox. Sin filtro, el equipo debe preguntar lo basico cada vez."
+        },
+        {
+          "title": "Dolor: la sede cambia el cierre",
+          "body": "BACU tiene ubicaciones en varias ciudades. Para vender bien hay que saber ciudad, zona, sede preferida, hora y tipo de consumo antes de responder."
+        },
+        {
+          "title": "Solucion: clasificador por intencion",
+          "body": "El flujo separa comer en restaurante, pedir ahora, recoger, programar, catering, evento o Club Bacanes, y lleva cada caso al canal correcto."
+        },
+        {
+          "title": "Solucion: Mission Control para oportunidades",
+          "body": "Cada formulario queda conectado a Mission Control para ver fuente, ciudad, sede, tipo de pedido, evento, catering y siguiente accion comercial."
+        }
+      ],
+      "findings": [
+        "BACU comunica una promesa clara: buena comida para todos los dias, con platos balanceados e inspirados en cocina del mundo.",
+        "El sitio publica experiencias de restaurantes, pick up, domicilios, catering y eventos, ademas de pedidos online y Club Bacanes.",
+        "La pagina de ubicaciones lista 20 puntos entre Bogota, Cajica-Chia y Medellin, lo que vuelve clave clasificar ciudad/sede desde el primer contacto.",
+        "La captura muestra una respuesta positiva y solicita propuesta comercial al correo sac@baco.com.co."
+      ],
+      "siteIssues": [
+        "El usuario puede llegar con hambre, afan, sede, pedido, evento o fidelidad, pero todas esas intenciones pueden verse como la misma pregunta inicial.",
+        "Catering y eventos requieren una ruta comercial diferente a un pedido individual.",
+        "Sin medicion por sede/intencion, es dificil saber que contenido genera pedidos reales, eventos o oportunidades de mayor valor."
+      ],
+      "losses": [
+        "Un cliente puede irse si no encuentra rapido sede cercana, pedido, menu o recogida.",
+        "Una empresa que quiere catering puede enfriarse si debe esperar muchas preguntas manuales.",
+        "Los clientes frecuentes pueden no entrar a Club Bacanes si la ruta de fidelizacion no aparece en el momento correcto."
+      ],
+      "heatmapData": [
+        "Clics por intencion: restaurante, domicilio, pick up, catering, evento, menu y Club Bacanes.",
+        "Abandono por ciudad, sede, horario, canal de pedido, numero de personas o fecha de evento.",
+        "Leads por fuente, sede, tipo de consumo, valor potencial y siguiente accion del equipo."
+      ],
+      "campaigns": [
+        "Campana por sede cercana: ciudad, zona y momento de consumo para llevar a restaurante o pedido.",
+        "Campana de oficinas: domicilios, pick up programado y comida balanceada para jornadas laborales.",
+        "Campana de catering/eventos: reuniones empresariales, familiares y eventos en restaurantes BACU.",
+        "Remarketing a quienes vieron menu, ubicaciones, Club Bacanes o tocaron pedido sin completar datos."
+      ],
+      "deliverables": [
+        "Mini experiencia BACU que separe sede, pedido online, pick up, domicilio, catering, evento, Club Bacanes y soporte.",
+        "Asistente 24/7 entrenado para preguntas frecuentes, ciudad/sede, horarios, pedidos, eventos y entrega al canal correcto.",
+        "Formulario conectado a Mission Control para medir oportunidades por fuente, ciudad, sede, tipo de consumo y siguiente accion."
+      ],
+      "sources": [
+        "https://www.bacu.co/",
+        "https://www.bacu.co/nuestras-ubicaciones",
+        "https://www.bacu.co/experiencias",
+        "https://www.bacu.co/cateringyeventos",
+        "https://www.bacu.co/club-bacanes",
+        "Captura enviada por Valentina con correo sac@baco.com.co"
+      ]
     }
   ]
 }
