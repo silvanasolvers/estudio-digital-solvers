@@ -41438,6 +41438,220 @@
         "https://www.arturocalle.com/sitemap/category-0.xml",
         "Captura enviada por Valentina del DM con @arturocalleoficial"
       ]
+    },
+    {
+      "slug": "bohio-restaurante-cali-reservas-eventos",
+      "company": "Bohio Restaurante",
+      "instagram": "@bohiorestaurante.cali",
+      "sector": "restaurante colombiano-caribeno, cocteleria, musica en vivo y eventos",
+      "city": "Granada, Cali",
+      "tone": "calido, nocturno, tropical, gastronomico y experiencial",
+      "theme": "maker",
+      "brandMode": "texuno",
+      "accent": "#C4552D",
+      "accentRgb": "196, 85, 45",
+      "secondary": "#F3B24A",
+      "secondaryRgb": "243, 178, 74",
+      "brandDark": "#130A07",
+      "paper": "#FFF2E3",
+      "paperCard": "#FFF8ED",
+      "brandWash": "rgba(196, 85, 45, 0.22)",
+      "brandWash2": "rgba(243, 178, 74, 0.18)",
+      "status": "Instagram publico + presencia en directorios + reservas + experiencia de restaurante con ambiente, musica y terraza",
+      "logoImage": "",
+      "heroImage": "",
+      "heroCopy": "Bohio ya vende algo mas fuerte que comida: vende plan, ambiente, musica, terraza, cocina colombiana/caribena y una noche en Granada. La oportunidad no es verse mas bonito; es que cada persona que llega desde Instagram, busqueda o referido pueda pasar rapido de antojo a reserva, evento o grupo con datos claros.",
+      "brandWorldTitle": "Del antojo al plan reservado",
+      "diagnosisTitle": "Donde se enfria una reserva antes de llegar al equipo",
+      "leadProblem": "La presencia publica muestra a Bohio Restaurante en Cali como una experiencia gastronomica con cocina colombiana/caribena, ambiente acogedor, musica en vivo, terraza, reservas, delivery/takeaway y ubicacion en Av. 9 Norte #15N-40, Granada. Ese mix genera intenciones distintas: cena de pareja, plan con amigos, celebracion, turista, grupo, evento o simplemente consulta de horario/menu. Si todas entran al mismo WhatsApp o DM sin filtro, el equipo debe preguntar de nuevo fecha, hora, personas, ocasion y disponibilidad.",
+      "opportunity": "Crear una ruta de conversion para Bohio que clasifique desde el primer contacto si la persona quiere reservar mesa, celebrar una fecha, ir por musica/terraza, cotizar un grupo o preguntar por menu/horario. Con eso WhatsApp recibe leads con fecha, hora, numero de personas, ocasion, preferencia de ambiente y duda principal; el equipo responde mas rapido y se pueden medir las oportunidades reales por tipo de plan.",
+      "proofLine": "Lectura preliminar basada en busqueda publica del 30 de julio de 2026 sobre Bohio Restaurante Cali, Instagram @bohiorestaurante.cali y fichas publicas como Restaurant Guru/Wanderlog: Av. 9 Norte #15N-40, Granada, Cali; cocina caribena/colombiana; ambiente acogedor; musica en vivo; terraza; reservas; delivery/takeaway; calificacion publica alrededor de 4.5 en directorios. Se valida con agenda, menu, disponibilidad y canales reales antes de ejecutar.",
+      "audience": "Personas en Cali que buscan cena especial, musica en vivo, terraza, plan con amigos, celebracion, turistas en Granada, grupos pequenos, fechas de pareja, cumpleanos y eventos privados.",
+      "adAngle": "Reserva guiada para plan gastronomico en Granada: mesa, musica, terraza o celebracion segun intencion real",
+      "whatsappCta": "Quiero convertir mas antojos en reservas",
+      "alertLabel": "Oportunidad de reservas",
+      "statusLabel": "Diagnostico comercial",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Restaurante con experiencia completa: cocina, cocteleria, musica, terraza, ambiente y ubicacion reconocible en Granada, Cali.",
+      "visualCueLabel": "Dolor",
+      "visualCue": "El cliente se antoja del plan, pero antes de reservar necesita resolver fecha, cupo, horario, ambiente, menu, grupo, musica y contacto.",
+      "conversionFocusLabel": "Solucion",
+      "conversionFocus": "Anfitrion 24/7 que clasifica reservas, grupos, celebraciones y consultas antes de WhatsApp.",
+      "loaderLabel": "Preparando diagnostico Bohio",
+      "loaderTitle": "Bohio bajo lupa",
+      "loaderSubtitle": "Leyendo reservas, ambiente, musica, terraza, grupos y fricciones antes de mostrar la oportunidad.",
+      "loaderCue1": "Mesa o evento",
+      "loaderCue2": "Reserva guiada",
+      "heroStampTitle": "Bohio",
+      "heroStampSubtitle": "Reservas + eventos",
+      "bannerKicker": "Hook Solvers",
+      "bannerHook": "El plan ya provoca; falta llevarlo a reserva",
+      "bannerSubhook": "Cena, musica, terraza, amigos o celebracion no deberian entrar como preguntas sueltas. Cada intencion necesita una ruta corta hacia reserva real.",
+      "bannerBadge1": "Granada, Cali",
+      "bannerBadge2": "Musica + ambiente + reservas",
+      "openNode1Label": "Reserva",
+      "openNode1Title": "Fecha hora mesa",
+      "openNode2Label": "Grupo",
+      "openNode2Title": "Personas ocasion",
+      "openNode3Label": "WhatsApp",
+      "openNode3Title": "Lead con contexto",
+      "openNodeMetric": "24/7",
+      "scrollTitle": "De ver un reel a confirmar una mesa",
+      "scrollIntro": "El estudio muestra una ruta simple: identificar el motivo del plan, resolver dudas practicas y entregar al equipo una conversacion lista para cerrar.",
+      "experienceIntro": "Bohio vende un momento: comida, musica, ambiente y celebracion. La automatizacion debe actuar como anfitrion: entender el plan, filtrar disponibilidad y llevar la reserva al canal correcto.",
+      "botTitle": "Anfitrion Bohio: reservas, grupos y eventos respondidos al instante",
+      "botIntro": "Este demo muestra como un agente puede responder dudas de mesa, terraza, musica, menu, horarios, grupos, celebraciones, ubicacion y WhatsApp sin que el equipo repita todo manualmente.",
+      "botAgentName": "Anfitrion Bohio demo",
+      "botAgentRole": "reservas, grupos, musica, terraza y WhatsApp",
+      "botDemoTitle": "Menos mensajes sueltos",
+      "botDemoBody": "La persona puede decir si quiere cena, terraza, musica, cumpleanos, grupo o evento. El agente filtra fecha, hora, personas y dudas antes de pasar a WhatsApp.",
+      "botTrainingTitle": "Entrenado para operacion de restaurante",
+      "botTrainingBody": "Horarios, reservas, numero de personas, ambiente, musica en vivo, terraza, menu, cocteles, celebraciones, grupos, ubicacion en Granada, medios de pago, parqueo, WhatsApp y preguntas frecuentes.",
+      "botOpening": "Hola, soy el anfitrion demo de Bohio. Preguntame como ordenar reservas, grupos, celebraciones o dudas de musica/terraza sin perder oportunidades.",
+      "botPrompts": [
+        "Reserva de mesa",
+        "Cumpleanos",
+        "Grupo",
+        "Musica en vivo",
+        "WhatsApp"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "mesa",
+            "reserva",
+            "fecha",
+            "hora",
+            "cenar",
+            "cena"
+          ],
+          "answer": "El anfitrion pregunta fecha, hora, numero de personas, ocasion, preferencia de ambiente y duda principal. Luego entrega a WhatsApp una solicitud lista para confirmar disponibilidad."
+        },
+        {
+          "keywords": [
+            "cumple",
+            "cumpleanos",
+            "cumpleaños",
+            "celebracion",
+            "celebración",
+            "aniversario"
+          ],
+          "answer": "Para celebraciones filtra fecha, personas, presupuesto aproximado, necesidad de decoracion, comida, bebidas y preferencia de zona. Asi el equipo recibe una oportunidad de mayor valor."
+        },
+        {
+          "keywords": [
+            "grupo",
+            "evento",
+            "empresa",
+            "privado",
+            "familia"
+          ],
+          "answer": "En grupos pregunta cantidad de personas, tipo de evento, hora, consumo esperado y datos de contacto para priorizar cotizacion o reserva."
+        },
+        {
+          "keywords": [
+            "musica",
+            "música",
+            "terraza",
+            "ambiente",
+            "show"
+          ],
+          "answer": "El flujo separa quien busca musica, terraza o ambiente de quien solo quiere comer. Eso permite responder con horarios, disponibilidad y expectativa correcta."
+        },
+        {
+          "keywords": [
+            "whatsapp",
+            "instagram",
+            "dm",
+            "contacto",
+            "telefono",
+            "teléfono"
+          ],
+          "answer": "No reemplaza WhatsApp: lo alimenta mejor. El mensaje llega con fecha, hora, personas, motivo del plan y duda principal para que el equipo cierre mas rapido."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "Plan vendible",
+          "body": "Bohio tiene comida, ambiente, musica, terraza y ubicacion. Eso permite vender experiencia, no solo platos."
+        },
+        {
+          "label": "Dolor 01",
+          "title": "Intencion mezclada",
+          "body": "Cena de pareja, salida con amigos, turista, cumpleanos y evento pueden llegar como el mismo mensaje."
+        },
+        {
+          "label": "Dolor 02",
+          "title": "WhatsApp sin contexto",
+          "body": "Si no se pregunta antes, el equipo debe descubrir fecha, personas, ocasion, presupuesto y disponibilidad manualmente."
+        },
+        {
+          "label": "Solucion",
+          "title": "Reserva guiada",
+          "body": "Un anfitrion digital clasifica el plan, resuelve dudas frecuentes y entrega un lead listo para confirmar."
+        }
+      ],
+      "experiencePath": [
+        "Deseo: la persona ve comida, cocteles, musica, terraza o ambiente y quiere hacer el plan.",
+        "Friccion: necesita saber fecha, horario, disponibilidad, menu, precios, musica, parqueo o canal correcto.",
+        "Solucion: la landing separa reserva, celebracion, grupo, evento o consulta general antes de WhatsApp.",
+        "Cierre: el equipo recibe fecha, hora, personas, ocasion, preferencia y duda principal."
+      ],
+      "galleryImages": [],
+      "journey": [
+        {
+          "title": "Etapa 1: interes desde Instagram o busqueda",
+          "body": "El cliente llega con una emocion: quiere comer rico, escuchar musica, invitar a alguien o celebrar. Ese momento debe tener un siguiente paso claro."
+        },
+        {
+          "title": "Etapa 2: clasificacion del plan",
+          "body": "La ruta pregunta si busca mesa, terraza, musica, celebracion, grupo, evento o consulta general. Cada intencion cambia el cierre."
+        },
+        {
+          "title": "Etapa 3: WhatsApp con datos utiles",
+          "body": "En vez de un 'hola, quiero info', el equipo recibe fecha, hora, numero de personas, ocasion, zona deseada y duda principal."
+        },
+        {
+          "title": "Etapa 4: data para llenar mesas y eventos",
+          "body": "Con medicion se sabe si la demanda entra por musica, terraza, cenas, grupos, cumpleanos o eventos, y se puede pautar por horarios o dias especificos."
+        }
+      ],
+      "findings": [
+        "Bohio ya comunica una experiencia con comida, ambiente, musica y posibilidad de reserva.",
+        "Las fichas publicas muestran activos comerciales claros: ubicacion en Granada, ambiente acogedor, musica en vivo, terraza, reservas y servicios de restaurante.",
+        "La oportunidad comercial esta en ordenar la intencion antes de que llegue al equipo: mesa, grupo, celebracion, evento o consulta."
+      ],
+      "siteIssues": [
+        "Varias razones de visita compiten dentro de una sola conversacion: cena, musica, terraza, cumpleanos, grupo, turista y evento.",
+        "WhatsApp puede recibir interes caliente sin la informacion minima para cerrar: fecha, hora, personas, ocasion y preferencia.",
+        "Sin medicion por intencion, es dificil saber que contenido genera reservas reales y que contenido solo genera preguntas."
+      ],
+      "losses": [
+        "Una persona puede antojarse y no reservar si debe preguntar primero por horario, mesa, musica o disponibilidad.",
+        "Un grupo o cumpleanos puede perderse si no hay una ruta rapida para dejar datos y recibir cotizacion/reserva.",
+        "El equipo puede gastar tiempo respondiendo consultas repetidas mientras se enfria la mesa caliente."
+      ],
+      "heatmapData": [
+        "Clics por motivo: cena, terraza, musica, cumpleanos, grupos, eventos y menu.",
+        "Abandono antes de WhatsApp en horario, disponibilidad, numero de personas, ubicacion o precio.",
+        "Leads por fuente, tipo de plan, dia/hora solicitada y valor potencial."
+      ],
+      "campaigns": [
+        "Campana de reserva guiada para cenas, musica y terraza en Granada, Cali.",
+        "Campana de celebraciones: cumpleanos, aniversarios, fechas especiales y grupos pequenos.",
+        "Remarketing a quienes vieron menu, ubicacion, musica, eventos o tocaron WhatsApp sin completar datos."
+      ],
+      "deliverables": [
+        "Mini experiencia Bohio que separe reserva, terraza, musica, celebracion, grupo, evento, menu y consulta general.",
+        "Anfitrion 24/7 entrenado para preguntas frecuentes, filtros de fecha/personas/ocasion y entrega a WhatsApp con contexto.",
+        "Formulario conectado a Mission Control para medir oportunidades por fuente, tipo de plan, dia, hora, personas y siguiente accion."
+      ],
+      "sources": [
+        "https://www.instagram.com/bohiorestaurante.cali/",
+        "https://restaurantguru.com/Bohio-Restaurante-Cali",
+        "https://wanderlog.com/es/place/details/9417442/bohio-restaurante"
+      ]
     }
   ]
 }
