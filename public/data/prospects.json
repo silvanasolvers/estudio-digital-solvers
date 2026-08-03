@@ -42362,6 +42362,133 @@
         "Captura enviada por Valentina con respuesta \"Claro que si\" de D&E Travel",
         "Busqueda publica del 31 de julio de 2026: informacion limitada; posible ubicacion Rionegro, Antioquia; dominio con bloqueo Cloudflare al consultar automaticamente"
       ]
+    },
+    {
+      "slug": "el-estrene",
+      "company": "El Estrene",
+      "instagram": "@el.estrene",
+      "website": "https://el-estrene.com/",
+      "sector": "moda urbana colombiana, ecommerce y plataforma creativa",
+      "city": "Colombia",
+      "tone": "creativo, cultural, cercano y vendedor",
+      "theme": "maker",
+      "brandMode": "fashion",
+      "logoImage": "https://el-estrene.com/cdn/shop/files/EE_sin_fondo.png?crop=center&height=240&v=1735861778&width=240",
+      "heroImage": "https://el-estrene.com/cdn/shop/files/IMG_1022.jpg?v=1702012291",
+      "galleryImages": [
+        "https://cdn.shopify.com/s/files/1/0728/1688/6042/files/IMG_48762.jpg?v=1785257016",
+        "https://cdn.shopify.com/s/files/1/0728/1688/6042/files/IMG_6042.jpg?v=1784930368",
+        "https://cdn.shopify.com/s/files/1/0728/1688/6042/files/IMG_5817.jpg?v=1784833762"
+      ],
+      "accent": "#C8FF1F",
+      "secondary": "#F23AAE",
+      "status": "Shopify activo + Instagram + WhatsApp + pagina de colaboraciones",
+      "leadProblem": "El Estrene ya combina tienda online, comunidad, contenido cultural y colaboraciones. La fuga probable aparece cuando una persona llega desde Instagram con interes por una prenda, una talla, un drop, un evento o una colaboracion, pero todo termina mezclado entre DM, WhatsApp, correo y formulario.",
+      "opportunity": "Ordenar la ruta Instagram -> web/WhatsApp -> compra, colaboracion o evento con un asesor digital que entienda producto, talla, disponibilidad, politicas, tipo de contacto y seguimiento. Asi la comunidad no solo mira: tambien compra, agenda o deja una solicitud clara.",
+      "proofLine": "Lectura publica del 3 de agosto de 2026: el-estrene.com responde como Shopify activo; la home se describe como marca de moda colombiana y plataforma creativa con enfoque cultural; la pagina de colaboraciones invita a artistas, creadores, fotografos, videografos, modelos, talleres y marcas; el footer publica WhatsApp +57 310 602 5389, correo contacto@el-estrene.com, Instagram @el.estrene y politicas de envio/cambios.",
+      "audience": "Clientas que descubren prendas por Instagram, compradoras que necesitan talla/envio/cambios y aliados creativos interesados en colaboraciones, talleres o contenido.",
+      "adAngle": "Moda urbana + cultura + asesoria rapida para comprar o colaborar",
+      "whatsappCta": "Quiero convertir mejor la comunidad de El Estrene",
+      "heroCopy": "La marca ya tiene identidad, producto y cultura. La oportunidad esta en que cada pregunta de Instagram llegue a una ruta clara: comprar, colaborar o participar.",
+      "brandWorldTitle": "De comunidad creativa a compra y colaboracion con contexto",
+      "diagnosisTitle": "Donde se puede enfriar la intencion",
+      "botAgentName": "Asesora El Estrene demo",
+      "botAgentRole": "filtra prendas, tallas, drops, eventos y colaboraciones",
+      "botTitle": "Asesora digital para moda, comunidad y colaboraciones",
+      "botIntro": "El demo muestra como separar preguntas de compra, dudas de talla, solicitudes creativas y eventos antes de llevar a WhatsApp, correo o formulario.",
+      "botOpening": "Holaa, soy la asesora demo de El Estrene. Te ayudo con prendas, talla, envio, cambios, drops o colaboraciones.",
+      "botPrompts": [
+        "Talla",
+        "Drop nuevo",
+        "Colaboracion",
+        "Envios",
+        "Eventos"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "talla",
+            "medida",
+            "fit",
+            "disponibilidad"
+          ],
+          "answer": "Pediria la prenda, talla habitual y ciudad para orientar la compra sin inventar inventario; luego envia a carrito o WhatsApp con contexto."
+        },
+        {
+          "keywords": [
+            "drop",
+            "coleccion",
+            "prenda",
+            "agotado"
+          ],
+          "answer": "Guarda interes por drop, referencia y talla para avisar disponibilidad o relanzamiento y medir que piezas generan demanda real."
+        },
+        {
+          "keywords": [
+            "colaboracion",
+            "colaborar",
+            "artista",
+            "modelo",
+            "fotografo",
+            "taller"
+          ],
+          "answer": "Separa la solicitud creativa de la venta: tipo de aliado, propuesta, portafolio, contacto y siguiente paso para que no se mezcle con pedidos."
+        },
+        {
+          "keywords": [
+            "envio",
+            "cambio",
+            "pedido",
+            "whatsapp"
+          ],
+          "answer": "Responde la duda frecuente y entrega a WhatsApp un resumen con producto, ciudad, objecion y urgencia para cerrar mas rapido."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta",
+            "evento"
+          ],
+          "answer": "Mide producto visto, talla consultada, clic a WhatsApp, colaboraciones recibidas, evento de interes y abandono por etapa."
+        }
+      ],
+      "findings": [
+        "La marca comunica una identidad fuerte: moda colombiana, cultura, comunidad, experiencias y espacios creativos.",
+        "La tienda Shopify muestra productos recientes, carrito, reviews, politicas, WhatsApp, correo e Instagram.",
+        "La pagina de colaboraciones abre una linea comercial distinta a compras: artistas, creadores, fotografos, videografos, modelos, talleres y marcas."
+      ],
+      "siteIssues": [
+        "Compra, colaboracion y eventos no deberian llegar al mismo flujo sin clasificacion previa.",
+        "Cuando alguien pregunta por talla, disponibilidad, envio o cambio desde Instagram, WhatsApp necesita contexto del producto visto.",
+        "Las colaboraciones pueden perderse si llegan como mensajes sueltos sin tipo de aliado, portafolio, propuesta y contacto ordenado."
+      ],
+      "losses": [
+        "Una clienta puede amar una prenda y no comprar si no resuelve rapido talla, stock, envio o cambios.",
+        "El equipo puede gastar tiempo separando manualmente preguntas de compra, colaboraciones y eventos.",
+        "Sin seguimiento, el interes por drops agotados, prendas guardadas o alianzas creativas no se convierte en data accionable."
+      ],
+      "heatmapData": [
+        "Clics por prenda, talla, carrito, WhatsApp, politicas y pagina de colaboraciones.",
+        "Preguntas frecuentes por envio, cambios, disponibilidad, drop, evento y tipo de colaboracion.",
+        "Separacion de intencion: compra inmediata, seguimiento de producto, aliado creativo, marca interesada o evento/taller."
+      ],
+      "campaigns": [
+        "Campanas por drops y prendas ancla con asesoria de talla y disponibilidad.",
+        "Remarketing a visitantes de producto o carrito que no compraron, con seguimiento por referencia y objecion.",
+        "Flujo separado para colaboraciones y eventos: formulario/DM con tipo de aliado, propuesta, portafolio y contacto."
+      ],
+      "deliverables": [
+        "Asesora digital El Estrene para tallas, prendas, envios, cambios, drops, eventos y colaboraciones.",
+        "Medicion de ecommerce + WhatsApp + Instagram por producto, talla, objecion y tipo de solicitud.",
+        "Panel de oportunidades para priorizar productos con demanda, solicitudes creativas y conversaciones listas para cierre."
+      ],
+      "sources": [
+        "https://el-estrene.com/",
+        "https://el-estrene.com/pages/colaboraciones-trabaja-con-nosotras",
+        "https://el-estrene.com/products.json?limit=10",
+        "https://www.instagram.com/el.estrene/"
+      ]
     }
   ]
 }
