@@ -42364,6 +42364,128 @@
       ]
     },
     {
+      "slug": "at-fit-sport-colombia",
+      "company": "At Fit Sport Colombia",
+      "instagram": "@atfitcolombia",
+      "website": "https://atfitsport.com/",
+      "sector": "ropa deportiva técnica, ecommerce y tiendas físicas",
+      "city": "Bogotá / Colombia",
+      "tone": "activo, técnico, cercano y confiable",
+      "theme": "maker",
+      "brandMode": "fashion",
+      "accent": "#008FDD",
+      "secondary": "#FF8A00",
+      "status": "Ecommerce propio + tiendas físicas + soporte directo; oportunidad en conversión asistida y recuperación",
+      "leadProblem": "At Fit ya tiene un ecommerce sólido, producto técnico, puntos físicos y atención por WhatsApp. La fuga aparece cuando una persona llega desde Instagram o una ficha de producto y todavía duda por talla, ajuste, disponibilidad, envío, cambio o estado de pedido: la intención puede quedar esperando una respuesta o abandonar antes de pagar.",
+      "opportunity": "Conectar Instagram, ecommerce y WhatsApp con una asesora comercial que reconozca la prenda vista, guíe talla y uso, responda políticas aprobadas y entregue al equipo humano solo los casos que requieren validación. Así la atención existente gana velocidad y cada conversación deja datos para recuperar carritos, ajustar inventario y mejorar pauta.",
+      "proofLine": "Lectura pública del 7 de agosto de 2026: atfitsport.com opera como tienda online de ropa deportiva técnica y publica prendas para entrenamiento, running, yoga, tenis y uso urbano. Su sitio declara fabricación colombiana, telas de secado rápido, elongación, transpirabilidad, 45 días de retracto, soporte 365 por WhatsApp +57 305 200 4003 y puntos de venta físicos en Bogotá. Se valida catálogo, inventario, políticas y métricas reales antes de ejecutar.",
+      "audience": "Mujeres, hombres y niños que llegan desde Instagram o la tienda buscando ropa para gym, running, yoga, tenis, caminatas y estilo de vida activo.",
+      "adAngle": "Ropa deportiva técnica colombiana + talla guiada + compra con confianza",
+      "whatsappCta": "Quiero convertir más visitas de At Fit en compras",
+      "heroCopy": "At Fit ya inspira movimiento. La oportunidad está en que cada duda de talla, prenda o envío se convierta en una compra guiada, no en un carrito abandonado.",
+      "brandWorldTitle": "De inspiración deportiva a compra con confianza",
+      "diagnosisTitle": "Dónde puede enfriarse la intención de compra",
+      "botAgentName": "Asesora At Fit demo",
+      "botAgentRole": "guía talla, producto, pedido y recuperación",
+      "botTitle": "Asesora digital para activewear técnico",
+      "botIntro": "El demo muestra cómo orientar producto, uso, talla, envío, cambio y pedido antes de derivar al equipo de At Fit con el contexto correcto.",
+      "botOpening": "Hola, soy la asesora demo de At Fit. Te ayudo a convertir preguntas de talla, producto, envío y pedido en compras mejor guiadas.",
+      "botPrompts": [
+        "No sé mi talla",
+        "Busco ropa para running",
+        "¿Cómo ayuda con pedidos?",
+        "¿Cómo recupera carritos?",
+        "¿Qué mide para pauta?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "talla",
+            "medida",
+            "fit",
+            "ajuste"
+          ],
+          "answer": "La asesora pregunta prenda de interés, talla habitual, medidas relevantes y preferencia de ajuste. Orienta con la guía oficial y deriva al equipo si la recomendación requiere confirmar inventario o condiciones especiales."
+        },
+        {
+          "keywords": [
+            "running",
+            "gym",
+            "yoga",
+            "tenis",
+            "entrenamiento"
+          ],
+          "answer": "Clasifica el uso, tipo de prenda, clima, preferencia de cobertura y presupuesto para recomendar una ruta de colección o producto, sin inventar disponibilidad."
+        },
+        {
+          "keywords": [
+            "pedido",
+            "envio",
+            "envío",
+            "cambio",
+            "devolucion",
+            "devolución"
+          ],
+          "answer": "Identifica número de pedido, ciudad y necesidad; resuelve solo con políticas vigentes aprobadas y entrega al equipo humano un caso ordenado para seguimiento."
+        },
+        {
+          "keywords": [
+            "carrito",
+            "abandono",
+            "recupera",
+            "recuperar"
+          ],
+          "answer": "Permite recuperar por producto visto, talla consultada, objeción, ciudad y etapa del carrito. El seguimiento vuelve a la prenda y a la duda real, no a un mensaje genérico."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "pauta",
+            "instagram",
+            "anuncio"
+          ],
+          "answer": "Mide producto, uso deportivo, talla, ciudad, pregunta, clic a WhatsApp, carrito y compra recuperada para saber qué anuncios generan intención comercial real."
+        }
+      ],
+      "findings": [
+        "At Fit tiene una propuesta de valor verificable: ropa deportiva técnica, funcional y fabricada en Colombia, con atributos de secado rápido, elongación, transpirabilidad, tejido squat-proof y costuras planas.",
+        "La marca ya cuenta con ecommerce, WhatsApp como canal rápido de soporte, políticas de retracto de hasta 45 días, pagos seguros y puntos físicos en Bogotá.",
+        "Su propia página de contacto confirma que las preguntas más comunes son talla, información de prenda, disponibilidad, pedidos, envíos, cambios, devoluciones, garantías y pagos: justo las conversaciones que se pueden ordenar y medir mejor."
+      ],
+      "siteIssues": [
+        "Cada producto deportivo combina variables de talla, ajuste, disciplina, color y disponibilidad; una persona que llega desde Instagram puede necesitar guía antes de pagar.",
+        "WhatsApp es el canal de atención más rápido, pero puede recibir preguntas sin el producto visto, la talla o la ciudad, lo que obliga a reconstruir el contexto en cada conversación.",
+        "La tienda puede recuperar más intención si identifica qué prenda, talla, disciplina u objeción dejó a la persona antes de checkout."
+      ],
+      "losses": [
+        "Una compradora puede abandonar por incertidumbre de talla, ajuste, cambio o envío aunque ya haya elegido una referencia.",
+        "El equipo puede invertir tiempo respondiendo las mismas preguntas de producto, pedido y políticas sin una clasificación previa.",
+        "Las campañas pueden sumar clics desde Instagram sin distinguir qué disciplina, prenda o talla genera deseo real y qué fricción está frenando la compra."
+      ],
+      "heatmapData": [
+        "Interés por disciplina y producto: clics por running, gym, yoga, tenis, prendas, color, talla y guía de medidas.",
+        "Fricción de compra: abandono antes o después de talla, carrito, políticas de cambio, envío, pago y WhatsApp.",
+        "Data para operación: preguntas por talla/disponibilidad, ciudad, pedido, producto visto, carrito recuperado y fuente de la conversación."
+      ],
+      "campaigns": [
+        "Campañas por disciplina y necesidad: running, gym, yoga, tenis y estilo urbano, cada una con ruta de producto y guía de talla.",
+        "Remarketing de producto visto y carrito sin compra, usando la prenda, talla o duda registrada para volver a abrir la conversación.",
+        "Campañas desde Instagram a ecommerce o WhatsApp contextual, con la asesora filtrando producto, uso, talla, ciudad y urgencia."
+      ],
+      "deliverables": [
+        "Asesora digital At Fit conectada a catálogo y WhatsApp para orientar uso, talla, producto, disponibilidad, pedido, envío y cambios según información validada.",
+        "Eventos de ecommerce y mapa de intención para producto visto, disciplina, talla, guía, carrito, WhatsApp, abandono y compra recuperada.",
+        "Flujos de recuperación y panel comercial por producto, disciplina, talla, ciudad, pregunta frecuente, fuente y estado de seguimiento."
+      ],
+      "sources": [
+        "https://atfitsport.com/",
+        "https://atfitsport.com/pages/contacto",
+        "https://www.instagram.com/atfitcolombia/",
+        "Captura enviada por Valentina: respuesta de AT Fit solicitando propuesta por WhatsApp +57 305 200 4003"
+      ]
+    },
+    {
       "slug": "el-estrene",
       "company": "El Estrene",
       "instagram": "@el.estrene",
