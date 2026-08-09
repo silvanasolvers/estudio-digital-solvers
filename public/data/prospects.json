@@ -42611,6 +42611,99 @@
         "https://el-estrene.com/products.json?limit=10",
         "https://www.instagram.com/el.estrene/"
       ]
+    },
+    {
+      "slug": "daiam-clothing",
+      "company": "DAIAM Clothing Brand",
+      "instagram": "@daiam___",
+      "sector": "moda y pantalones",
+      "city": "Colombia",
+      "tone": "limpio, cercano y comercial",
+      "accent": "#A46F51",
+      "secondary": "#EDE4D6",
+      "status": "Instagram activo enfocado en pantalones; diagnóstico construido desde señales públicas del perfil.",
+      "leadProblem": "DAIAM tiene una propuesta de producto clara, pero una persona que llega desde un reel o una historia puede quedarse con dudas de talla, color, disponibilidad, precio, envío o cambio antes de dar el paso a comprar. Si esa conversación empieza desde cero por cada DM, parte de la intención se enfría.",
+      "opportunity": "Convertir el interés en una ruta de compra guiada: identificar la referencia vista, talla habitual, color, ciudad y urgencia; responder lo esencial sin inventar inventario; y pasar a WhatsApp con el contexto completo para cerrar más rápido y dar seguimiento a quien todavía está decidiendo.",
+      "proofLine": "Lectura preliminar del 8 de agosto de 2026 basada en el perfil público de Instagram @daiam___, identificado como DAIAIM Clothing Brand y enfocado en pantalones. Las métricas, inventario y operación comercial se validan con el equipo antes de ejecutar pauta o automatizaciones.",
+      "audience": "Personas que descubren pantalones DAIAIM en Instagram y necesitan orientación sobre referencia, talla, color, disponibilidad, envío, cambio o forma de compra.",
+      "adAngle": "El pantalón correcto + guía de talla y color + compra acompañada por WhatsApp",
+      "whatsappCta": "Quiero convertir mejor las consultas de DAIAIM",
+      "alertLabel": "Oportunidad de conversión",
+      "statusLabel": "Diagnóstico comercial",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Una marca de moda con un producto concreto puede convertir mejor cuando cada persona encuentra rápido la referencia que vio y recibe una guía simple para comprar.",
+      "visualCueLabel": "Fricción",
+      "visualCue": "La intención se puede perder entre DMs de tallas, colores, disponibilidad y envíos que llegan sin el contexto del producto.",
+      "conversionFocusLabel": "Ruta propuesta",
+      "conversionFocus": "Asesoría guiada por referencia, talla, color, ciudad y urgencia, con WhatsApp listo para cierre y seguimiento.",
+      "bannerKicker": "Mini-estudio SolversAI",
+      "bannerHook": "Una consulta por talla no debería terminar en una venta perdida",
+      "bannerSubhook": "Cuando la prenda, la talla y el color quedan claros desde el primer mensaje, comprar se vuelve mucho más fácil.",
+      "bannerBadge1": "Moda desde Instagram",
+      "bannerBadge2": "Compra asistida",
+      "botAgentName": "Asesor DAIAIM demo",
+      "botAgentRole": "orienta talla, referencia, color y compra",
+      "botTitle": "Asesor digital para pantalones DAIAIM",
+      "botIntro": "El demo organiza referencia, talla habitual, color, ciudad y urgencia antes de enviarte a WhatsApp con una consulta lista para cerrar.",
+      "botOpening": "Hola, soy el asesor demo de DAIAIM. Te ayudo a orientar la compra según el pantalón que viste, talla, color, ciudad y urgencia.",
+      "botPrompts": [
+        "Talla",
+        "Colores",
+        "Disponibilidad",
+        "Envío",
+        "Cambios"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["talla", "medida", "fit", "ajuste"],
+          "answer": "Te pediría talla habitual, medida aproximada y el fit que buscas para llevar una consulta clara al equipo, sin inventar medidas ni inventario."
+        },
+        {
+          "keywords": ["color", "negro", "beige", "tono", "referencia"],
+          "answer": "Identificaría la referencia o foto que viste y el color de interés para que el equipo responda con la disponibilidad correcta."
+        },
+        {
+          "keywords": ["disponible", "stock", "precio", "comprar"],
+          "answer": "Organizaría referencia, talla y color antes de consultar disponibilidad y precio reales con DAIAIM."
+        },
+        {
+          "keywords": ["envío", "envio", "ciudad", "domicilio", "cambio"],
+          "answer": "Capturaría ciudad y necesidad de envío o cambio para que WhatsApp continúe la conversación con el contexto completo."
+        }
+      ],
+      "findings": [
+        "El perfil público se presenta como DAIAIM Clothing Brand y destaca pantalones como producto principal.",
+        "Un producto de moda visual necesita que la persona conecte rápidamente la publicación que vio con talla, color y siguiente paso de compra.",
+        "La oportunidad es ordenar el paso de Instagram a una conversación de compra con contexto, no simplemente recibir más mensajes sueltos."
+      ],
+      "siteIssues": [
+        "Las preguntas de talla, color, disponibilidad, precio, envío y cambios pueden llegar sin indicar la referencia exacta vista en Instagram.",
+        "Si cada DM se atiende desde cero, la respuesta se hace más lenta y el interés pierde impulso.",
+        "Sin etiquetar intención y producto consultado, es difícil saber qué referencias generan más demanda y qué objeciones frenan el cierre."
+      ],
+      "losses": [
+        "Una persona interesada puede abandonar si no sabe rápido cuál talla elegir o si el color que vio sigue disponible.",
+        "El equipo puede invertir tiempo reconstruyendo el contexto de cada consulta en vez de cerrar pedidos listos.",
+        "Sin seguimiento, las consultas que no compran el primer día no se convierten en una segunda oportunidad comercial."
+      ],
+      "heatmapData": [
+        "Referencia o publicación que originó la consulta.",
+        "Talla, color, ciudad y objeción antes de comprar.",
+        "Clic a WhatsApp, respuesta comercial, pedido y seguimiento por interés."
+      ],
+      "campaigns": [
+        "Anuncios de pantalones ancla con CTA de guía de talla y color.",
+        "Remarketing a quienes vieron una referencia o iniciaron una consulta sin terminar compra.",
+        "Seguimiento por referencia y talla cuando llegue disponibilidad, reposición o una alternativa compatible."
+      ],
+      "deliverables": [
+        "Ruta de compra desde Instagram que captura referencia, talla, color, ciudad y urgencia.",
+        "Asesor digital de WhatsApp para responder, clasificar consultas y escalar al equipo con contexto.",
+        "Panel comercial para medir interés por prenda, talla, color, objeción y etapa de compra."
+      ],
+      "sources": [
+        "https://www.instagram.com/daiam___/"
+      ]
     }
   ]
 }
