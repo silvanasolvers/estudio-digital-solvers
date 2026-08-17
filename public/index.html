@@ -398,6 +398,18 @@
       transition: transform 120ms linear;
     }
 
+    /* Team Strong: lectura y CTA alineados al inicio del panel de diagnóstico. */
+    body[data-brand-mode="fitness"] .hero {
+      min-height: auto;
+      padding-top: clamp(132px, 13vh, 180px);
+      padding-bottom: clamp(56px, 8vh, 96px);
+      align-items: start;
+    }
+
+    body[data-brand-mode="fitness"] .hero-grid {
+      align-items: start;
+    }
+
     .hero-pulse {
       position: absolute;
       right: clamp(16px, 5vw, 90px);
