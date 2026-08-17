@@ -171,6 +171,183 @@
       ]
     },
     {
+      "slug": "team-strong-fit",
+      "company": "Team Strong.Fit",
+      "instagram": "Team Strong.Fit",
+      "sector": "gimnasio y entrenamiento",
+      "city": "Medellín",
+      "tone": "directo, enérgico y cercano",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#36D65C",
+      "secondary": "#C7F464",
+      "accentRgb": "54, 214, 92",
+      "secondaryRgb": "199, 244, 100",
+      "brandDark": "#030604",
+      "paper": "#F5FAF4",
+      "paperCard": "#FFFFFF",
+      "brandWash": "rgba(54, 214, 92, 0.13)",
+      "brandWash2": "rgba(199, 244, 100, 0.16)",
+      "alertLabel": "Oportunidad Solvers",
+      "statusLabel": "Lectura preliminar",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Una identidad fitness fuerte puede generar confianza antes de que la persona pregunte por primera vez.",
+      "visualCueLabel": "Posible fuga",
+      "visualCue": "El interés de alguien que quiere entrenar puede enfriarse entre la primera pregunta y el momento de agendar.",
+      "conversionFocusLabel": "Foco",
+      "conversionFocus": "Instagram → objetivo → valoración o clase de prueba → inscripción con seguimiento.",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "Team Strong.Fit",
+      "loaderSubtitle": "Revisando cómo convertir interés por entrenamiento en una conversación lista para agendar.",
+      "loaderCue1": "Objetivo claro",
+      "loaderCue2": "Inscripción guiada",
+      "heroStampTitle": "Team Strong",
+      "heroStampSubtitle": "interés que avanza a entrenamiento",
+      "bannerKicker": "Hook comercial",
+      "bannerHook": "Una persona motivada hoy no debería perderse antes de agendar su primer entrenamiento.",
+      "bannerSubhook": "La oportunidad no es recibir más mensajes: es detectar objetivo, disponibilidad y nivel de interés para llevar cada conversación al siguiente paso comercial.",
+      "bannerBadge1": "Fitness en Medellín",
+      "bannerBadge2": "Conversión a valoración",
+      "openNode1Label": "Interés",
+      "openNode1Title": "Quiero ponerme en forma",
+      "openNode2Label": "Fricción",
+      "openNode2Title": "¿Plan, horario o precio?",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "Filtro + agenda + seguimiento",
+      "openNodeMetric": "Hoy",
+      "brandWorldTitle": "La marca puede inspirar disciplina. El siguiente paso es convertir esa motivación en una asistencia agendada.",
+      "scrollTitle": "Ruta de conversión recomendada",
+      "diagnosisTitle": "Dónde podría estarse escapando una inscripción",
+      "status": "Lectura construida a partir de la identidad pública Team Strong.Fit y su presencia como gimnasio/servicio fitness en Medellín; la oferta, horarios, sedes y proceso de inscripción se validan con el equipo antes de activar campañas o automatizaciones.",
+      "leadProblem": "Team Strong.Fit puede despertar una intención muy valiosa: alguien decide que quiere entrenar. Pero una consulta que llega sin objetivo, disponibilidad o contexto obliga al equipo a empezar desde cero. Si la respuesta tarda, el plan no se entiende o la persona no sabe cuál es el siguiente paso, esa motivación se enfría antes de una prueba, valoración o inscripción.",
+      "opportunity": "Convertir el DM o WhatsApp en una ruta guiada permite identificar objetivo, experiencia, horario preferido y modalidad de interés; responder solo la información validada; y llevar al prospecto a una valoración, clase de prueba o conversación comercial con el contexto listo. Cada contacto deja de ser un mensaje suelto y se vuelve una oportunidad de seguimiento.",
+      "proofLine": "Lectura preliminar del 17 de agosto de 2026 basada en la identidad pública Team Strong.Fit y una referencia pública como servicio fitness en Medellín. No se atribuyen membresías, precios, horarios, resultados, sedes ni métricas sin validación directa del equipo.",
+      "audience": "Personas en Medellín que descubren Team Strong.Fit en redes y quieren empezar, retomar o sostener un plan de entrenamiento, pero necesitan orientación para saber si encaja con su objetivo y disponibilidad.",
+      "adAngle": "Tu objetivo + una ruta clara para empezar + acompañamiento desde el primer mensaje",
+      "whatsappCta": "Quiero activar la ruta de inscripción de Team Strong.Fit",
+      "heroCopy": "La decisión de entrenar tiene un momento de máxima intención. Team Strong.Fit puede aprovecharlo si cada persona entiende qué sigue y llega al equipo con su objetivo claro.",
+      "scrollIntro": "El recorrido no debe terminar en “escríbenos para más información”. Debe convertir el interés en una conversación que clasifica, orienta y deja un próximo paso concreto: valoración, prueba o inscripción.",
+      "experienceIntro": "No se trata de reemplazar al entrenador. Se trata de que el equipo reciba conversaciones mejor preparadas y pueda dedicar su tiempo a orientar y cerrar.",
+      "botAgentName": "Asesor Team Strong demo",
+      "botAgentRole": "objetivo, disponibilidad y siguiente paso para entrenar",
+      "botTitle": "Asesor digital para Team Strong.Fit",
+      "botIntro": "Este demo muestra cómo una primera conversación puede identificar objetivo, nivel, disponibilidad y modalidad de interés antes de llevar a la persona al equipo con el contexto completo.",
+      "botDemoTitle": "La conversación llega con intención",
+      "botDemoBody": "En lugar de contestar desde cero, el equipo sabe qué busca la persona, cuándo puede entrenar y si está lista para una prueba, valoración o llamada.",
+      "botTrainingTitle": "Entrenado con la operación real",
+      "botTrainingBody": "Planes, servicios, metodología, horarios, ubicación, cupos, precios, requisitos y políticas se cargan únicamente después de validarlos con Team Strong.Fit.",
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "Identidad que activa",
+          "body": "El nombre y el lenguaje visual comunican fuerza y disciplina: una base útil para atraer personas con intención de cambio."
+        },
+        {
+          "label": "Canal",
+          "title": "Instagram y mensajería",
+          "body": "Las redes pueden despertar interés, pero el siguiente paso debe ayudar a cada persona a entender cómo empezar."
+        },
+        {
+          "label": "Dolor",
+          "title": "Motivación que se enfría",
+          "body": "Una duda sin respuesta clara sobre objetivo, modalidad o disponibilidad puede hacer que la conversación no avance."
+        },
+        {
+          "label": "Oportunidad",
+          "title": "Ingreso guiado",
+          "body": "Un filtro inicial y una agenda clara convierten consultas dispersas en valoraciones o conversaciones listas para cierre."
+        }
+      ],
+      "experiencePath": [
+        "La persona ve contenido, una recomendación o un anuncio y decide que quiere entrenar",
+        "Indica objetivo, experiencia, disponibilidad y la modalidad que le interesa",
+        "Recibe el siguiente paso validado: valoración, clase de prueba o conversación con el equipo",
+        "El equipo continúa con contexto y puede hacer seguimiento si la inscripción no ocurre en el primer contacto"
+      ],
+      "journey": [
+        {
+          "title": "El contenido abre una meta concreta",
+          "body": "Cada pieza debe conectar con un objetivo real y llevar a una única acción siguiente, no solo a un mensaje genérico."
+        },
+        {
+          "title": "La primera conversación filtra intención",
+          "body": "Objetivo, experiencia, disponibilidad y modalidad ayudan a orientar sin prometer planes ni condiciones que el equipo no haya validado."
+        },
+        {
+          "title": "La cita llega con contexto",
+          "body": "El entrenador o asesor recibe una solicitud ordenada y puede concentrarse en recomendar, resolver dudas y cerrar el siguiente paso."
+        },
+        {
+          "title": "El seguimiento recupera la decisión",
+          "body": "Las consultas que aún no se inscriben se pueden segmentar por objetivo y etapa para continuar de forma útil, no invasiva."
+        }
+      ],
+      "botPrompts": [
+        "Quiero empezar a entrenar",
+        "Mi objetivo",
+        "Horarios",
+        "¿Cómo agendo?",
+        "¿Qué se puede medir?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["empezar", "inicio", "entrenar", "prueba", "valoracion", "valoración"],
+          "answer": "El flujo puede preguntar objetivo, experiencia y disponibilidad para proponer el siguiente paso que Team Strong.Fit haya validado: por ejemplo, una valoración, clase de prueba o conversación con el equipo."
+        },
+        {
+          "keywords": ["objetivo", "bajar", "subir", "fuerza", "masa", "salud", "rendimiento"],
+          "answer": "La conversación puede registrar el objetivo en las palabras de la persona y llevarlo al equipo para una orientación responsable, sin prometer resultados ni prescribir un plan automáticamente."
+        },
+        {
+          "keywords": ["horario", "hora", "dias", "días", "disponibilidad", "noche", "mañana"],
+          "answer": "Se puede capturar la franja disponible antes de continuar. Los horarios reales y cupos se muestran únicamente cuando Team Strong.Fit los valide y los mantenga actualizados."
+        },
+        {
+          "keywords": ["agendo", "agendar", "cita", "precio", "plan", "membresia", "membresía"],
+          "answer": "El agente reúne los datos necesarios para que el equipo confirme la modalidad, condiciones y disponibilidad reales, y deje una valoración o conversación comercial lista para agendar."
+        },
+        {
+          "keywords": ["mide", "datos", "campaña", "instagram", "medir"],
+          "answer": "Se pueden medir origen de la consulta, objetivo declarado, clic a agenda, conversación iniciada, asistencia confirmada, etapa de inscripción y seguimientos recuperados. Así se identifica qué contenido genera intención real."
+        }
+      ],
+      "findings": [
+        "Team Strong.Fit comunica una identidad visual asociada a entrenamiento y fuerza, que puede ser una primera señal de confianza para quien busca un cambio físico o de bienestar.",
+        "En fitness, la consulta inicial suele concentrar dudas de objetivo, modalidad, horarios, precios, cupos y cómo empezar; ordenar estas variables acelera el paso a una conversación útil.",
+        "La oportunidad no es responder más mensajes sueltos: es saber qué persona está lista para una valoración o prueba y cuál requiere seguimiento antes de decidir."
+      ],
+      "siteIssues": [
+        "Un DM que solo pregunta “información” puede ocultar una intención alta si no se identifican objetivo, disponibilidad y la siguiente acción esperada.",
+        "Cuando no hay una ruta única hacia valoración, prueba o conversación comercial, la persona puede posponer la decisión aunque esté motivada hoy.",
+        "Sin etiquetar la fuente, objetivo y etapa de cada contacto, es difícil saber qué contenido genera personas listas para iniciar y qué objeciones frenan la inscripción."
+      ],
+      "losses": [
+        "Una persona motivada puede abandonar si no entiende cómo empezar o recibe una respuesta que no resuelve su primera duda.",
+        "El equipo puede invertir tiempo reconstruyendo información básica en cada chat en lugar de orientar a personas ya calificadas.",
+        "Sin un seguimiento por objetivo y etapa, una consulta que no se inscribe hoy puede desaparecer sin una segunda oportunidad comercial."
+      ],
+      "heatmapData": [
+        "Contenido, anuncio o enlace que originó cada consulta de entrenamiento.",
+        "Objetivo, nivel, disponibilidad, modalidad de interés y pregunta que antecede a la inscripción.",
+        "Clic a agenda, conversación, valoración o prueba, asistencia confirmada y seguimiento recuperado."
+      ],
+      "campaigns": [
+        "Campañas por objetivo de entrada, con una pieza clara y CTA a valoración, prueba o conversación según la operación validada.",
+        "Remarketing a quienes vieron contenido o iniciaron una conversación, con un siguiente paso útil y sin promesas de resultados.",
+        "Seguimiento segmentado para personas que preguntaron por iniciar, horarios o modalidad pero aún no reservaron una cita."
+      ],
+      "deliverables": [
+        "Ruta de conversión desde Instagram hacia valoración, prueba o WhatsApp con una acción principal por intención.",
+        "Asesor digital inicial que identifica objetivo, experiencia, disponibilidad y modalidad antes de escalar al equipo.",
+        "Agenda y seguimiento comercial conectados a datos validados de la operación, sin inventar precios, cupos u horarios.",
+        "Medición de fuente, objetivo, clic, conversación, cita y etapa de inscripción para invertir en lo que genera intención real."
+      ],
+      "sources": [
+        "https://directoriomedellin.com.co/medellin/gimnasio/",
+        "Referencia visual de Team Strong.Fit recibida el 17 de agosto de 2026"
+      ]
+    },
+    {
       "slug": "la-casa-del-sabor",
       "company": "La Casa del Sabor",
       "sector": "restaurante local",
