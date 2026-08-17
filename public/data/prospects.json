@@ -2,6 +2,175 @@
   "defaultSlug": "salud-y-forma-medical",
   "prospects": [
     {
+      "slug": "dos-vatos-taqueria",
+      "company": "Dos Vatos Taquería",
+      "instagram": "@dosvatostaqueria",
+      "sector": "taquería de barrio",
+      "city": "Boston, Medellín",
+      "tone": "auténtico, urbano y directo",
+      "theme": "default",
+      "brandMode": "standard",
+      "accent": "#F2C400",
+      "secondary": "#E9413A",
+      "accentRgb": "242, 196, 0",
+      "secondaryRgb": "233, 65, 58",
+      "brandDark": "#0A0B0B",
+      "paper": "#FFF9E9",
+      "paperCard": "#FFFFFF",
+      "brandWash": "rgba(242, 196, 0, 0.14)",
+      "brandWash2": "rgba(233, 65, 58, 0.11)",
+      "alertLabel": "Oportunidad Solvers",
+      "statusLabel": "Lectura preliminar",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Una marca de barrio con identidad clara: tacos, drinks y una voz que se siente propia",
+      "visualCueLabel": "Posible fuga",
+      "visualCue": "El antojo llega al perfil, pero el pedido puede enfriarse entre enlaces y decisiones",
+      "conversionFocusLabel": "Foco",
+      "conversionFocus": "Instagram → pedido o visita con una sola ruta, oferta clara y seguimiento",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "Dos Vatos Taquería",
+      "loaderSubtitle": "Revisando el paso de Instagram, Linktree y antojo hacia una venta concreta.",
+      "loaderCue1": "Antojo",
+      "loaderCue2": "Pedido directo",
+      "heroStampTitle": "Dos Vatos",
+      "heroStampSubtitle": "purito sabor de barrio",
+      "bannerKicker": "Hook comercial",
+      "bannerHook": "El taco ya provoca. La pregunta es: ¿la persona sabe cómo pedirlo ahora?",
+      "bannerSubhook": "La oportunidad está en eliminar decisiones innecesarias y convertir cada visita a Instagram en pedido, mesa o cliente recurrente.",
+      "bannerBadge1": "Instagram activo",
+      "bannerBadge2": "Linktree visible",
+      "openNode1Label": "Antojo",
+      "openNode1Title": "Taco + drink + plan",
+      "openNode2Label": "Fricción",
+      "openNode2Title": "¿Qué clic hago?",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "Ruta directa + seguimiento",
+      "openNodeMetric": "Hoy",
+      "brandWorldTitle": "La marca ya tiene personalidad. El siguiente nivel es que esa personalidad venda con menos fricción.",
+      "scrollTitle": "Ruta de conversión recomendada",
+      "diagnosisTitle": "Dónde podría estarse escapando una venta",
+      "status": "Instagram con identidad de barrio, ubicación en Boston (Medellín), destacados de carta/tacos/drinks y enlace Linktree",
+      "leadProblem": "Dos Vatos ya tiene algo difícil de construir: una identidad reconocible y una propuesta que despierta antojo. El posible cuello de botella aparece después del interés: una persona con hambre puede llegar al Linktree, comparar opciones, no encontrar un producto u oferta ancla y dejar el pedido para después.",
+      "opportunity": "Ordenar una única ruta desde Instagram hacia pedido, visita o WhatsApp permite responder la intención en segundos. A eso se le puede sumar una oferta de primera compra, contenido con CTA directo y seguimiento a quien preguntó pero no terminó de pedir.",
+      "proofLine": "Lectura basada en la captura de @dosvatostaqueria recibida el 16 de agosto de 2026: perfil de Dos Vatos Taquería, mensaje “Purito sabor de barrio en una tortilla”, Cra. 38 #55-78 Boston, Medellín, destacados de Carta/Tacos/Drinks/El Barrio y enlace linktr.ee/2vatostaqueria. Los datos de ventas y el rendimiento real se validarían antes de ejecutar cualquier campaña.",
+      "audience": "Personas de Medellín, especialmente cerca de Boston, que buscan tacos, una salida con amigos, drinks o una opción rápida para pedir.",
+      "adAngle": "Sabor de barrio + taco que se antoja + pedido o visita en pocos pasos",
+      "whatsappCta": "Quiero ver la ruta de pedidos para Dos Vatos",
+      "heroCopy": "Dos Vatos ya hace que la gente pare a mirar. La oportunidad es que, cuando llegue con hambre, no tenga que pensar demasiado para pedir o ir hoy.",
+      "scrollIntro": "El recorrido comercial debe pasar de una historia o reel que provoca antojo a una acción única: pedir, reservar mesa o hablar con alguien que ya conoce qué taco busca la persona.",
+      "experienceIntro": "No se trata de publicar más por publicar. Se trata de que cada pieza de contenido conduzca a una decisión sencilla y medible.",
+      "botAgentName": "Asesor Dos Vatos demo",
+      "botAgentRole": "pedido, visita y ofertas desde Instagram/WhatsApp",
+      "botTitle": "Asesor Dos Vatos demo: del antojo al pedido",
+      "botIntro": "Este demo muestra cómo un primer filtro puede detectar si la persona quiere pedir, ver tacos, conocer drinks, ubicarse o recibir una oferta antes de pasar al equipo.",
+      "botDemoTitle": "La conversación llega con intención",
+      "botDemoBody": "En lugar de empezar desde cero, el equipo recibe qué quiere la persona, cómo quiere pedir y qué la hizo dudar.",
+      "botTrainingTitle": "Entrenado con la operación real",
+      "botTrainingBody": "Carta, tacos, drinks, horarios, ubicación, pedidos, medios de pago, promociones y preguntas frecuentes se cargan únicamente después de validarlos con el equipo.",
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "Marca con carácter",
+          "body": "El lenguaje de barrio, la oferta visual y los destacados ya dan una razón para detenerse."
+        },
+        {
+          "label": "Canal",
+          "title": "Instagram + Linktree",
+          "body": "La ruta pública existe, pero puede requerir decisiones extra antes de que alguien pida."
+        },
+        {
+          "label": "Dolor",
+          "title": "Antojo que se enfría",
+          "body": "Cada paso de más entre “se ve brutal” y “voy a pedir” abre una salida."
+        },
+        {
+          "label": "Oportunidad",
+          "title": "Pedido guiado",
+          "body": "Una acción principal, una oferta ancla y WhatsApp con contexto para cerrar más rápido."
+        }
+      ],
+      "experiencePath": [
+        "La persona ve un reel, historia o recomendación y se le antoja",
+        "Encuentra un taco, combo o plan claro para hoy",
+        "Elige pedir, visitar o escribir sin navegar varias opciones",
+        "WhatsApp o el equipo recibe la intención y puede cerrar o recuperar la conversación"
+      ],
+      "journey": [
+        {
+          "title": "El antojo entra por Instagram",
+          "body": "El contenido debe mostrar producto, razón para probarlo y una sola acción siguiente."
+        },
+        {
+          "title": "La oferta elimina la duda",
+          "body": "Un taco imperdible, combo de entrada o plan de drinks convierte curiosidad en una excusa concreta para actuar hoy."
+        },
+        {
+          "title": "El pedido sale con contexto",
+          "body": "El canal comercial sabe si la persona busca domicilio, recoger, ubicación, mesa o una recomendación."
+        },
+        {
+          "title": "La data enseña qué vender más",
+          "body": "Los clics, preguntas y abandonos permiten saber qué contenido, producto u oferta merece repetirse."
+        }
+      ],
+      "botPrompts": [
+        "Quiero pedir tacos",
+        "¿Cuál es el imperdible?",
+        "Voy con amigos",
+        "¿Dónde quedan?",
+        "¿Qué se puede medir?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["pedir", "pedido", "domicilio", "recoger"],
+          "answer": "El flujo puede preguntar si la persona quiere pedir, recoger o visitar y mostrar solo la siguiente acción que corresponde, con el producto o interés ya identificado."
+        },
+        {
+          "keywords": ["imperdible", "taco", "recomienda", "combo"],
+          "answer": "Con la carta y los productos ancla validados, el asistente puede recomendar una opción de entrada, responder la duda básica y llevar directo al pedido."
+        },
+        {
+          "keywords": ["amigos", "mesa", "drinks", "barrio"],
+          "answer": "El primer filtro puede separar una visita con amigos de un pedido individual y capturar fecha, cantidad de personas o tipo de plan antes de pasar al equipo."
+        },
+        {
+          "keywords": ["mide", "datos", "campaña", "instagram"],
+          "answer": "Se pueden medir clics a pedido, chats iniciados, producto consultado, oferta vista, canal de llegada y conversaciones recuperadas; así se invierte en lo que de verdad trae intención."
+        }
+      ],
+      "findings": [
+        "La identidad “purito sabor de barrio” está clara y se refuerza con una oferta visual de tacos y drinks.",
+        "El perfil muestra ubicación y destacados que ayudan a orientar a quien ya tiene intención de ir o pedir.",
+        "El enlace público conduce a Linktree; desde ahí, la conversión depende de que la persona elija rápido el camino correcto."
+      ],
+      "siteIssues": [
+        "Si una persona debe elegir entre varias opciones antes de ver el producto o pedir, el antojo puede enfriarse sin que nadie se entere.",
+        "Sin una oferta de entrada o producto ancla visible, el contenido provoca pero no siempre da un “por qué hoy”.",
+        "Instagram puede generar vistas y mensajes, pero sin eventos y seguimiento no revela qué taco, creativo o CTA realmente mueve pedidos."
+      ],
+      "losses": [
+        "Una persona lista para comer puede cerrar el perfil si no encuentra el siguiente clic en segundos.",
+        "El equipo puede recibir preguntas repetidas de carta, ubicación o pedido sin saber cuál conversación tiene mayor intención.",
+        "Sin recuperación, quien preguntó por un taco, drink o plan puede desaparecer antes de hacer su primer pedido."
+      ],
+      "heatmapData": [
+        "Qué producto, combo u oferta recibe más clics y consultas desde Instagram.",
+        "En qué punto se abandona la ruta: Linktree, menú, WhatsApp, ubicación o pedido.",
+        "Qué tipo de contenido convierte en pedido, visita, conversación recuperada o cliente recurrente."
+      ],
+      "campaigns": [
+        "Campaña local de antojo con una pieza de producto ancla y CTA directo a pedido o visita.",
+        "Campaña de primera compra o combo de entrada, diseñada para crear una razón concreta para probar Dos Vatos hoy.",
+        "Remarketing a quienes vieron menú, tocaron pedido o iniciaron conversación sin terminar, con una invitación útil y no invasiva."
+      ],
+      "deliverables": [
+        "Ruta de conversión Instagram → landing/pedido/WhatsApp con una acción principal por intención.",
+        "Asesor comercial inicial para carta, tacos, drinks, ubicación, pedido, visitas y preguntas frecuentes validadas.",
+        "Oferta de entrada y mensajes de seguimiento para transformar curiosidad en primera compra.",
+        "Medición de origen, producto visto, clic a pedido, chat, abandono y recuperación para optimizar lo que vende."
+      ]
+    },
+    {
       "slug": "la-casa-del-sabor",
       "company": "La Casa del Sabor",
       "sector": "restaurante local",
