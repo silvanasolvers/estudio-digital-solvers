@@ -2559,6 +2559,34 @@
       display: none;
     }
 
+    /* Dra. Viviana: this study uses the clinic theme, not the animated maker hero.
+       Keep the diagnosis and the story visible from the first viewport. */
+    body[data-study="dra-viviana-perico"] .mobile-hero-banner {
+      display: none;
+    }
+
+    body[data-study="dra-viviana-perico"] .hero {
+      min-height: auto;
+      align-items: start;
+      padding-top: clamp(126px, 13vh, 156px);
+      padding-bottom: clamp(52px, 6vw, 82px);
+    }
+
+    body[data-study="dra-viviana-perico"] .hero-grid {
+      align-items: start;
+      margin-top: 0;
+    }
+
+    body[data-study="dra-viviana-perico"] .hero-grid > div {
+      align-self: start;
+    }
+
+    body[data-study="dra-viviana-perico"] .hero-grid h1 {
+      max-width: 12ch;
+      font-size: clamp(34px, 3.8vw, 56px);
+      line-height: 0.98;
+    }
+
     body[data-brand-mode="texuno"] .phone-cta {
       width: 100%;
       white-space: normal;
