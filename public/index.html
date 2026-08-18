@@ -2439,6 +2439,138 @@
       overflow: hidden;
     }
 
+    /* Dra. Viviana: a calm route summary instead of a large editorial slogan. */
+    body[data-study="dra-viviana-perico"] .mobile-hero-banner {
+      grid-template-columns: minmax(0, 0.9fr) minmax(280px, 1.1fr);
+      gap: clamp(16px, 2.6vw, 30px);
+      min-height: min(clamp(370px, 33vw, 470px), calc(100svh - 152px));
+      padding: clamp(18px, 2.4vw, 28px);
+    }
+
+    body[data-study="dra-viviana-perico"] .banner-hook {
+      align-content: center;
+      gap: 13px;
+      padding: 0;
+      border: 0;
+      background: none;
+      box-shadow: none;
+      backdrop-filter: none;
+    }
+
+    body[data-study="dra-viviana-perico"] .banner-hook-brand img {
+      width: 48px;
+      height: 48px;
+    }
+
+    body[data-study="dra-viviana-perico"] .banner-hook strong {
+      max-width: 18ch;
+      font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+      font-size: clamp(25px, 2.45vw, 38px);
+      font-weight: 800;
+      line-height: 1.08;
+      letter-spacing: -0.035em;
+      text-transform: none;
+    }
+
+    body[data-study="dra-viviana-perico"] .banner-hook p {
+      max-width: 34rem;
+      font-size: clamp(14px, 1.1vw, 16px);
+      font-weight: 650;
+      line-height: 1.48;
+    }
+
+    body[data-study="dra-viviana-perico"] .banner-proof span {
+      min-height: 30px;
+      padding: 0 10px;
+      font-size: 11px;
+    }
+
+    body[data-study="dra-viviana-perico"] .solvers-open-system {
+      position: relative;
+      grid-template-columns: 1fr;
+      grid-template-rows: repeat(3, minmax(0, 1fr));
+      gap: 0;
+      padding: 7px 0;
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      border-radius: 10px;
+      background: rgba(255, 255, 255, 0.04);
+      box-shadow: none;
+      opacity: 1;
+      transform: none;
+    }
+
+    body[data-study="dra-viviana-perico"] .open-node,
+    body[data-study="dra-viviana-perico"] .open-node--wide {
+      display: grid;
+      grid-template-columns: 78px minmax(0, 1fr) auto;
+      grid-column: auto;
+      align-items: center;
+      gap: 12px;
+      min-height: 0;
+      padding: 14px 16px;
+      border: 0;
+      border-radius: 0;
+      overflow: visible;
+      background: none;
+      box-shadow: none;
+    }
+
+    body[data-study="dra-viviana-perico"] .open-node + .open-node {
+      border-top: 1px solid rgba(255, 255, 255, 0.1);
+    }
+
+    body[data-study="dra-viviana-perico"] .open-node::before {
+      position: static;
+      width: 8px;
+      height: 8px;
+      margin: 0 auto 0 0;
+      background: var(--secondary);
+      box-shadow: 0 0 0 5px rgba(var(--secondary-rgb), 0.12);
+      transform: none;
+      opacity: 1;
+    }
+
+    body[data-study="dra-viviana-perico"] .open-node span {
+      grid-column: 1;
+      grid-row: 1;
+      padding-left: 16px;
+      color: var(--secondary);
+      font-size: 11px;
+      letter-spacing: 0.06em;
+    }
+
+    body[data-study="dra-viviana-perico"] .open-node b {
+      grid-column: 2 / -1;
+      grid-row: 1;
+      margin: 0;
+      color: #fff;
+      font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+      font-size: clamp(15px, 1.45vw, 19px);
+      font-weight: 700;
+      line-height: 1.2;
+      text-transform: none;
+    }
+
+    body[data-study="dra-viviana-perico"] .open-node--wide > div {
+      display: contents;
+    }
+
+    body[data-study="dra-viviana-perico"] .open-node--wide strong {
+      position: absolute;
+      top: 16px;
+      right: 16px;
+      width: auto;
+      aspect-ratio: auto;
+      display: block;
+      border: 0;
+      border-radius: 0;
+      background: none;
+      color: rgba(255, 255, 255, 0.45);
+      font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+      font-size: 11px;
+      font-weight: 700;
+    }
+
     body[data-brand-mode="texuno"] .phone-cta {
       width: 100%;
       white-space: normal;
@@ -4365,6 +4497,65 @@
         font-size: 23px;
       }
 
+      body[data-study="dra-viviana-perico"] .mobile-hero-banner {
+        grid-template-columns: 1fr;
+        gap: 16px;
+        min-height: auto;
+        padding: 18px 16px;
+      }
+
+      body[data-study="dra-viviana-perico"] .banner-hook {
+        gap: 10px;
+      }
+
+      body[data-study="dra-viviana-perico"] .banner-hook-brand img {
+        width: 42px;
+        height: 42px;
+      }
+
+      body[data-study="dra-viviana-perico"] .banner-hook-brand b {
+        font-size: 15px;
+      }
+
+      body[data-study="dra-viviana-perico"] .banner-hook strong {
+        max-width: 100%;
+        font-size: clamp(23px, 6.7vw, 28px);
+        line-height: 1.1;
+      }
+
+      body[data-study="dra-viviana-perico"] .banner-hook p {
+        font-size: 13px;
+        line-height: 1.4;
+      }
+
+      body[data-study="dra-viviana-perico"] .solvers-open-system {
+        padding: 4px 0;
+      }
+
+      body[data-study="dra-viviana-perico"] .open-node,
+      body[data-study="dra-viviana-perico"] .open-node--wide {
+        grid-template-columns: 72px minmax(0, 1fr);
+        gap: 8px;
+        min-height: 0;
+        padding: 13px 14px;
+      }
+
+      body[data-study="dra-viviana-perico"] .open-node span {
+        padding-left: 13px;
+        font-size: 10px;
+      }
+
+      body[data-study="dra-viviana-perico"] .open-node b {
+        font-size: 14px;
+        line-height: 1.22;
+      }
+
+      body[data-study="dra-viviana-perico"] .open-node--wide strong {
+        top: 13px;
+        right: 14px;
+        font-size: 10px;
+      }
+
       .bot-lab,
       .bot-console,
       .bot-console-head,
@@ -5340,6 +5531,7 @@
           node.alt = prospect.company || "";
         });
 
+        document.body.dataset.study = prospect.slug || "default";
         document.body.dataset.theme = prospect.theme || "default";
         document.body.dataset.brandMode = prospect.brandMode || prospect.theme || "standard";
         document.documentElement.style.setProperty("--accent", prospect.accent || "#00e5a0");
