@@ -43426,6 +43426,189 @@
         "https://lunaticoexperience.com/cooking-classes-cartagena",
         "https://www.instagram.com/lunaticocartagena/"
       ]
+    },
+    {
+      "slug": "tanoshii-colombia-reservas-sedes",
+      "company": "Tanoshii Colombia",
+      "instagram": "@tanoshiicol",
+      "sector": "restaurante de cocina japonesa y asiática con reservas por sede",
+      "city": "Bogotá, Medellín y Cali",
+      "tone": "asiático, contemporáneo, social y experiencial",
+      "theme": "restaurant",
+      "brandMode": "standard",
+      "accent": "#D4A72C",
+      "accentRgb": "212, 167, 44",
+      "secondary": "#F1DE9D",
+      "secondaryRgb": "241, 222, 157",
+      "brandDark": "#141313",
+      "paper": "#FCFAF3",
+      "paperCard": "#FFFFFF",
+      "brandWash": "rgba(212, 167, 44, 0.16)",
+      "brandWash2": "rgba(241, 222, 157, 0.28)",
+      "alertLabel": "Oportunidad de reserva",
+      "statusLabel": "Lectura preliminar",
+      "status": "Tanoshii ya tiene una presencia pública clara, varias sedes y enlaces de reserva por ubicación. La oportunidad es que cada persona que llega por Instagram no tenga que averiguar desde cero dónde reservar, qué sede le conviene o cómo organizar un plan especial.",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Una propuesta asiática amplia, con sushi, curris, noodles, sopas y wok, respaldada por una red de sedes y rutas de reserva públicas.",
+      "visualCueLabel": "Posible fuga",
+      "visualCue": "Un mismo DM puede significar una mesa para hoy, una celebración, una salida en otra ciudad o una pregunta de menú; si no se separa la intención, la reserva puede enfriarse antes de llegar a la sede correcta.",
+      "conversionFocusLabel": "Foco",
+      "conversionFocus": "Instagram → ciudad y sede → tipo de plan → reserva o contacto de la sede correcta → seguimiento con contexto.",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "Tanoshii Colombia bajo lupa",
+      "loaderSubtitle": "Revisando cómo transformar cada mensaje sobre sushi, plan o reserva en una ruta clara hacia la sede correcta.",
+      "loaderCue1": "Sede correcta",
+      "loaderCue2": "Reserva preparada",
+      "heroStampTitle": "Tanoshii",
+      "heroStampSubtitle": "Sedes + reservas + planes",
+      "bannerKicker": "Ruta comercial",
+      "bannerHook": "El plan ya está servido. Falta que la reserva llegue a la sede correcta.",
+      "bannerSubhook": "Cada consulta desde Instagram puede identificar ciudad, sede, fecha, número de personas y tipo de plan antes de enviar a la persona a la reserva o al equipo indicado.",
+      "bannerBadge1": "Bogotá, Medellín y Cali",
+      "bannerBadge2": "Reservas por sede",
+      "openNode1Label": "DM",
+      "openNode1Title": "Sede, ciudad y tipo de plan",
+      "openNode2Label": "Ruta",
+      "openNode2Title": "Reserva o WhatsApp correcto",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "Contexto + seguimiento de interés",
+      "openNodeMetric": "Sin mensajes perdidos",
+      "brandWorldTitle": "Tanoshii ya tiene la experiencia. El siguiente paso es que cada consulta llegue al lugar y formato indicados.",
+      "scrollTitle": "De un DM genérico a una reserva con contexto",
+      "diagnosisTitle": "Dónde podría enfriarse una reserva",
+      "leadProblem": "Tanoshii cuenta con rutas públicas distintas para reservas y contacto de El Poblado en Medellín, Salitre y Zona G en Bogotá, y Granada en Cali. Esa oferta es una fortaleza, pero una persona que descubre un reel puede escribir solamente “quiero reservar”, “¿dónde quedan?” o “es para celebrar”, sin decir ciudad, sede, fecha ni grupo. Cuando esa información se reconstruye manualmente en cada chat, el equipo puede perder tiempo y la persona puede dejar la decisión para después.",
+      "opportunity": "Una capa conversacional de Solvers puede iniciar con una pregunta corta sobre ciudad y tipo de plan; luego recoger sede preferida, fecha, número de personas, ocasión, canal y dudas generales. Con información validada por Tanoshii, dirige al enlace de reserva, WhatsApp o equipo de la sede adecuada. No inventa disponibilidad, precios, menú ni políticas: esos datos se conectan y actualizan con el equipo.",
+      "proofLine": "Lectura preliminar del 18 de agosto de 2026 basada en fuentes públicas: @tanoshiicol y su Linktree publican rutas de reservas, menú/planes y WhatsApp para El Poblado (Medellín), Salitre (Bogotá), Granada (Cali) y Zona G (Bogotá). Revista Diners describe públicamente a Tanoshii como una propuesta de recetas asiáticas con curris, arroces, sushi, noodles, sopas y wok. Antes de activar mensajes o automatizaciones se validan sedes activas, horarios, enlaces, menú, disponibilidad, protocolos de reservas y mensajes aprobados.",
+      "audience": "Personas que descubren Tanoshii en Instagram y quieren una mesa, una salida social o una celebración; grupos que necesitan definir sede, fecha y formato; visitantes de Bogotá, Medellín o Cali que buscan la ruta de reserva más conveniente.",
+      "adAngle": "Elige tu ciudad, el plan y la sede. Tanoshii te guía al siguiente paso para reservar.",
+      "whatsappCta": "Quiero activar la ruta de reservas de Tanoshii",
+      "heroCopy": "Tanoshii ya reúne una propuesta gastronómica reconocible y varias rutas de reserva. Solvers puede hacer que cada interés que nace en Instagram llegue más rápido a la sede, el enlace o la conversación correcta.",
+      "scrollIntro": "La ruta recomendada no responde todos los mensajes igual. Primero identifica dónde quiere ir la persona y qué plan tiene en mente; después entrega la acción aprobada por Tanoshii para reservar o continuar con el equipo de esa sede.",
+      "experienceIntro": "No se trata de reemplazar el criterio ni la hospitalidad del equipo. Se trata de recibir mensajes mejor preparados: menos “¿cómo reservo?” y más solicitudes con ciudad, sede, fecha, grupo y ocasión claros.",
+      "botTitle": "Asistente Tanoshii demo: del plan a la sede correcta",
+      "botIntro": "Este demo muestra cómo una primera conversación puede organizar ciudad, sede, fecha y tipo de plan antes de dirigir a la persona a la reserva o al equipo correspondiente.",
+      "botAgentName": "Asistente Tanoshii demo",
+      "botAgentRole": "sedes, reservas, grupos y siguiente paso",
+      "botDemoTitle": "La reserva llega mejor preparada",
+      "botDemoBody": "El equipo recibe la ciudad, sede preferida, fecha, número de personas, ocasión y duda principal, en lugar de tener que empezar cada conversación desde cero.",
+      "botTrainingTitle": "Información vigente por sede",
+      "botTrainingBody": "Sedes activas, enlaces, horarios, menú, disponibilidad, políticas de grupo, eventos y mensajes se configuran únicamente con la validación y actualización del equipo Tanoshii.",
+      "botOpening": "Hola, soy el asistente demo de Tanoshii. Puedo mostrar cómo guiar una consulta hacia la sede y la ruta de reserva correctas. La disponibilidad, confirmación y condiciones siempre las valida el equipo de cada sede.",
+      "botPrompts": [
+        "¿Cómo guía una reserva?",
+        "Es para una celebración",
+        "¿Qué sede me queda mejor?",
+        "¿Qué pasa si no reservo hoy?",
+        "¿Qué se puede medir?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["reserva", "reservar", "mesa", "fecha", "disponibilidad", "opentable"],
+          "answer": "El flujo puede preguntar primero por ciudad, sede preferida, fecha, número de personas y tipo de plan. Con esos datos dirige al enlace de reserva o canal aprobado para esa sede. No confirma ni inventa disponibilidad."
+        },
+        {
+          "keywords": ["celebracion", "celebración", "cumple", "cumpleaños", "grupo", "evento", "empresa", "amigos"],
+          "answer": "Para un plan especial puede recoger ciudad, sede, fecha, tamaño del grupo, ocasión y canal de contacto. Después lo envía al equipo que Tanoshii defina para revisar este tipo de solicitud."
+        },
+        {
+          "keywords": ["sede", "bogotá", "bogota", "medellín", "medellin", "cali", "salitre", "zona g", "granada", "poblado"],
+          "answer": "Tanoshii puede configurar rutas públicas distintas para El Poblado en Medellín, Salitre y Zona G en Bogotá, y Granada en Cali. El asistente identifica primero la ciudad y muestra solo los canales vigentes que el equipo haya aprobado."
+        },
+        {
+          "keywords": ["menu", "menú", "sushi", "curry", "noodles", "wok", "comida"],
+          "answer": "El asistente puede orientar con la información de menú que Tanoshii mantenga aprobada. La propuesta pública incluye cocina japonesa y asiática, con opciones como sushi, curris, noodles, sopas y preparaciones al wok, pero la oferta vigente se valida por sede."
+        },
+        {
+          "keywords": ["mide", "datos", "instagram", "pauta", "campaña", "medir"],
+          "answer": "La operación puede medir origen de la consulta, ciudad, sede solicitada, tipo de plan, clic a reserva, conversación atendida, reserva iniciada y seguimiento. Así se identifica qué contenido trae intención real para cada sede."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "Red de sedes con rutas públicas",
+          "body": "Tanoshii ya publica enlaces de reserva, planes y WhatsApp por ubicación, una base sólida para convertir demanda local."
+        },
+        {
+          "label": "Canal",
+          "title": "Instagram abre la intención",
+          "body": "Una persona puede descubrir la marca desde contenido y necesitar ayuda inmediata para entender dónde y cómo reservar."
+        },
+        {
+          "label": "Dolor",
+          "title": "El mensaje llega incompleto",
+          "body": "Ciudad, sede, fecha, tamaño del grupo y ocasión suelen aparecer en mensajes separados, si se llegan a pedir."
+        },
+        {
+          "label": "Oportunidad",
+          "title": "Reserva encaminada",
+          "body": "Un filtro breve lleva a cada persona al enlace o al equipo adecuados con datos útiles para continuar."
+        }
+      ],
+      "experiencePath": [
+        "La persona descubre Tanoshii en Instagram, una recomendación o una búsqueda y pregunta por una mesa, una sede o un plan especial",
+        "Indica ciudad, sede preferida, fecha, número de personas y ocasión sin tener que responder una cadena larga de mensajes",
+        "Recibe el enlace de reserva o el canal aprobado para la sede correspondiente, o una solicitud de grupo lista para revisión humana",
+        "Si no reserva en ese momento, Tanoshii puede continuar con un seguimiento útil según sede y tipo de plan, con mensajes y consentimiento validados"
+      ],
+      "journey": [
+        {
+          "title": "El contenido abre el antojo y el plan",
+          "body": "Cada reel, historia o recomendación debe llevar a una decisión simple: elegir ciudad, sede o tipo de ocasión."
+        },
+        {
+          "title": "La primera conversación organiza la visita",
+          "body": "Ciudad, sede, fecha, grupo y ocasión permiten separar una mesa habitual de una celebración o una solicitud que requiere equipo humano."
+        },
+        {
+          "title": "La persona llega al canal correcto",
+          "body": "Recibe la ruta de reserva, WhatsApp o formulario que Tanoshii haya validado para su ubicación y tipo de plan."
+        },
+        {
+          "title": "La data mejora cada sede",
+          "body": "Origen, ciudad, sede, intención y paso hacia reserva muestran qué contenido y campaña ayudan realmente a llenar conversaciones de calidad."
+        }
+      ],
+      "findings": [
+        "El Linktree público de @tanoshiicol organiza rutas de reserva, planes y WhatsApp para El Poblado, Salitre, Granada y Zona G.",
+        "Tanoshii ya cuenta con una propuesta gastronómica suficientemente clara para activar conversaciones de alta intención: cocina japonesa y asiática, sushi, curris, noodles, sopas y wok.",
+        "La oportunidad comercial no es crear más opciones; es clasificar la intención que llega desde redes para que cada persona llegue a la sede y el siguiente paso correctos."
+      ],
+      "siteIssues": [
+        "Una persona que escribe desde un reel puede no indicar ciudad ni sede, aun cuando las rutas de reserva sean diferentes por ubicación.",
+        "Una pregunta de menú, una mesa para dos y una celebración de grupo requieren conversaciones y seguimientos distintos; tratarlas igual añade fricción.",
+        "Sin etiquetar origen, ciudad, sede e intención, es difícil saber qué contenido está llevando a clics de reserva y qué conversaciones deben recuperarse."
+      ],
+      "losses": [
+        "Una persona lista para salir puede abandonar si debe buscar por su cuenta la sede, enlace o número de contacto adecuados.",
+        "El equipo puede invertir tiempo reconstruyendo ubicación, fecha y grupo antes de poder ayudar con una reserva o solicitud especial.",
+        "Sin seguimiento con contexto, una consulta de celebración o salida social puede perderse antes de que la persona tome la decisión."
+      ],
+      "heatmapData": [
+        "Origen de cada consulta: Instagram, pauta, recomendación, búsqueda, hotel, evento o contenido orgánico.",
+        "Ciudad, sede preferida, tipo de plan, fecha, tamaño del grupo, ocasión y pregunta general, sin asumir disponibilidad.",
+        "Clic a reserva, conversación atendida, reserva iniciada, solicitud de grupo, confirmación reportada y seguimiento recuperado."
+      ],
+      "campaigns": [
+        "Campañas geolocalizadas por ciudad y sede, con una ruta de reserva directa en lugar de enviar toda la demanda al mismo DM.",
+        "Contenido por intención: salida social, sushi, plan de fin de semana, brunch o celebración, cada uno con la pregunta inicial y CTA adecuados.",
+        "Remarketing responsable para personas que iniciaron una consulta o clic de reserva sin completar el paso, usando mensajes y datos aprobados por Tanoshii."
+      ],
+      "deliverables": [
+        "Ruta conversacional desde Instagram hacia la sede, reserva o contacto correctos, con ciudad y tipo de plan como primera decisión.",
+        "Asistente inicial para capturar sede, fecha, grupo, ocasión y dudas generales antes de derivar al equipo o enlace vigente.",
+        "Mensajes de seguimiento segmentados por ciudad, sede y tipo de intención para conversaciones que no terminan en una reserva inicial.",
+        "Tablero de medición para identificar fuente, ciudad, sede, intención, clic a reserva, solicitud y seguimiento con potencial comercial."
+      ],
+      "sources": [
+        "https://www.instagram.com/tanoshiicol/",
+        "https://linktr.ee/tanoshiicol",
+        "https://theplacetobe.lat/restaurantes/tanoshii-japanese-cuisine-bar-el-poblado/",
+        "https://theplacetobe.lat/restaurantes/tanoshii-japanese-cuisine-bar-salitre-bogota/",
+        "https://theplacetobe.lat/restaurantes/tanoshii-sushi-bar-cocina-japonesa-cali/",
+        "https://theplacetobe.lat/restaurantes/tanoshii-japanese-cuisine-bar-zona-g-bogota/",
+        "https://revistadiners.com.co/estilo-de-vida/asia-cocina/"
+      ]
     }
   ]
 }
