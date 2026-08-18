@@ -4256,11 +4256,15 @@
       }
 
       body[data-brand-mode="texuno"] .mobile-hero-banner {
+        position: relative;
+        top: auto;
         grid-template-columns: 1fr;
-        gap: 10px;
-        min-height: min(570px, calc(100svh - 98px));
+        gap: 12px;
+        min-height: auto;
         margin-bottom: 22px;
         padding: 12px;
+        opacity: 1;
+        transform: none;
       }
 
       body[data-theme="maker"][data-brand-mode="texuno"] .hero-grid {
@@ -4290,8 +4294,7 @@
 
       body[data-brand-mode="texuno"] .mobile-hero-banner::before,
       body[data-brand-mode="texuno"] .mobile-hero-banner::after {
-        width: 52%;
-        opacity: calc(var(--hero-gate-opacity, 1) * 0.64);
+        display: none;
       }
 
       body[data-brand-mode="texuno"] .banner-hook {
@@ -4326,29 +4329,35 @@
       }
 
       body[data-brand-mode="texuno"] .solvers-open-system {
-        grid-template-columns: repeat(2, minmax(0, 1fr));
+        grid-template-columns: 1fr;
         grid-template-rows: none;
-        gap: 8px;
+        gap: 10px;
         opacity: 1;
         transform: none;
+        z-index: 3;
       }
 
       body[data-brand-mode="texuno"] .open-node {
-        min-height: 66px;
-        padding: 11px;
+        min-height: 84px;
+        padding: 14px;
+      }
+
+      body[data-brand-mode="texuno"] .open-node span {
+        color: rgba(255, 255, 255, 0.72);
+        font-size: 11px;
       }
 
       body[data-brand-mode="texuno"] .open-node b {
         margin-top: 5px;
-        font-size: 15px;
-        line-height: 1.02;
+        font-size: clamp(18px, 5.6vw, 22px);
+        line-height: 1;
       }
 
       body[data-brand-mode="texuno"] .open-node--wide {
         grid-template-columns: minmax(0, 1fr) auto;
         gap: 10px;
-        min-height: 78px;
-        padding-bottom: 22px;
+        min-height: 96px;
+        padding-bottom: 28px;
       }
 
       body[data-brand-mode="texuno"] .open-node--wide strong {
