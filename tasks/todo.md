@@ -1,5 +1,91 @@
 # Estudio Digital Solvers
 
+## Centro EOS — composición de portada
+
+- [x] Corregir el vacío vertical de la portada sin alterar el contenido del estudio.
+- [x] Verificar estructura, validación de la plantilla y la regla responsive existente.
+- [ ] Publicar el ajuste solo después de comprobar la ruta pública.
+
+### Revisión
+
+- La causa era de composición: la portada alineaba el bloque de introducción al borde inferior de un panel de diagnóstico más alto, dejando el lado izquierdo vacío en pantallas de escritorio.
+- Ajuste acotado a Centro EOS: ambas columnas ahora se anclan al inicio de la portada; no cambia textos, datos ni el resto de mini-estudios.
+- `npm run check` validó 385 estudios y `git diff --check` no reportó errores. Pendiente la comprobación visual de producción tras autorización de publicación.
+
+## Centro EOS Medicina Funcional — ingreso administrativo previo a la consulta
+
+- [x] Validar los servicios, canales públicos y límites clínicos de la propuesta.
+- [x] Construir el mini-estudio y evitar que una ruta inexistente muestre otro prospecto.
+- [x] Verificar estructura, render y contenido del demo en local.
+- [x] Publicar y comprobar la ruta pública exacta antes de entregar el enlace.
+
+### Criterio de aceptación
+
+- El estudio organiza el proceso administrativo previo a una consulta sin sugerir diagnósticos, tratamientos ni manejo clínico por chat.
+
+### Revisión
+
+- Fuentes públicas revisadas: web y FAQ de Centro EOS; la propuesta se limita a citas, formularios y documentos previos, con límites explícitos para orientación clínica, exámenes y urgencias.
+- Validación local: `npm run check` confirmó 385 estudios; JSON, ruta y DOM renderizado mostraron `Centro EOS`, el hook y el demo correcto. Una ruta inexistente ahora muestra un aviso de estudio no disponible, en vez del primer prospecto.
+- Producción: commit `3201ceb`; Dokploy `5dWYCsk2VyNi2E7ZOl09I` terminó en `done`.
+- Producción comprobada: la ruta exacta, el JSON, logo y hero respondieron HTTP 200; Chromium público renderizó Centro EOS, el hook y `Orientador Centro EOS demo`.
+
+## Tinkko Coworking — cotización con contexto
+
+- [x] Verificar fuentes públicas, oferta y sedes activas.
+- [x] Construir el diagnóstico y el demo conversacional para Tinkko.
+- [x] Validar estructura, render responsive y assets locales.
+- [x] Publicar en el enlace acordado y verificar producción.
+
+### Criterio de aceptación
+
+- El estudio debe diferenciar oficina privada, puesto fijo, zona flex, sala de reunión y oficina virtual; pedir primero datos útiles para cotizar sin atribuir disponibilidad, precios ni resultados no verificados.
+
+### Revisión
+
+- `npm run check` validó 384 mini-estudios y `git diff --check` fue correcto.
+- La ruta y los cuatro assets locales respondieron HTTP 200 durante la revisión local.
+- Producción: commit `969c566`; Dokploy `A0F83rY_phP7FkvYvukF7` finalizó en `done`.
+- La URL pública, el JSON de Tinkko, el hook, el demo y los cuatro assets fueron verificados con HTTP 200.
+
+## Dos Vatos — texto responsive del scroll
+
+- [x] Identificar la causa del recorte del titular en la ruta de conversión.
+- [x] Ajustar la tipografía y el corte de línea para que conserve legibilidad en cada ancho.
+- [x] Validar visualmente en móvil, tablet y escritorio, sin overflow horizontal.
+
+### Criterio de aceptación
+
+- Ninguna palabra del título ni del texto explicativo puede desbordarse, ocultarse o quedar recortada.
+
+### Revisión
+
+- Validación de estructura: `npm run check` y `git diff --check` correctos.
+- Vista real con el contenido de Dos Vatos: a 360, 768, 1120 y 1440 px, título e introducción tuvieron el mismo `scrollWidth` y ancho visible; el documento no mostró desbordamiento horizontal.
+- Captura de control a 1120 px: título completo, legible y dentro de su tarjeta.
+
+## Mission Control leads sync
+
+- [x] Verificar chat ID y permisos de Valentina.
+- [x] Revisar flujo actual del formulario de mini-estudios.
+- [x] Confirmar tabla `study_leads` en Supabase/Mission Control.
+- [x] Quitar apertura automatica hacia WhatsApp despues del submit.
+- [x] Exigir sincronizacion real antes de mostrar exito.
+- [x] Verificar con `npm run check` y prueba local del endpoint.
+
+### Criterios
+
+- El formulario debe enviar datos sin redirigir ni abrir WhatsApp automaticamente.
+- El exito debe decir que quedo en Mission Control solo si el backend confirma canal `supabase`.
+- Si Supabase/Mission Control no esta configurado, debe fallar visible y no vender una sincronizacion falsa.
+
+### Revision
+
+- `npm run check` OK con 360 demos.
+- Prueba local del endpoint usando credenciales publicas de Mission Control: HTTP 200 y `channels: ["local-jsonl","supabase"]`.
+- Lead temporal de QA eliminado de Supabase despues de la prueba.
+- Queda pendiente publicar/commit/deploy solo cuando Valentina confirme.
+
 ## Academia Expertia mini-estudio
 
 - [x] Verificar chat ID y permisos de Valentina.
@@ -439,3 +525,47 @@
 - [x] Retirar el mockup oscuro de la sección `La jugada` en Texuno porque se veía como un bloque vacío/cortado.
 - [x] Dejar la sección en una columna clara con estrategia y tarjetas legibles.
 - [x] Verificar localmente desktop y móvil sin overflow horizontal.
+
+## Arturo Calle mini-estudio
+- [x] Verificar chat ID y permisos de Valentina.
+- [x] Revisar formulario actual y confirmar que envia a Mission Control via `study_leads`.
+- [x] Revisar captura enviada por Valentina, web oficial y sitemap publico.
+- [x] Agregar prospecto `arturo-calle-compra-por-ocasion`.
+- [x] Verificar JSON, ruta local, formulario y render responsive.
+- [x] Publicar/verificar produccion y enviar link a Valentina.
+
+### Criterios
+
+- No inventar metricas de Instagram ni ventas.
+- Enfocar el estudio en compra por ocasion: oficina, evento, regalo, talla, disponibilidad, envio, tienda y seguimiento.
+- Mantener formulario conectado a Mission Control como CTA principal.
+
+### Revision
+
+- Datos usados: captura enviada por Valentina del DM con `@arturocalleoficial`, web oficial `arturocalle.com`, metadata publica, sitemap de categorias y assets publicos VTEX.
+- Se agrego el prospecto `arturo-calle-compra-por-ocasion` con enfoque de compra por ocasion: oficina, evento, regalo, talla, disponibilidad, envio, tienda y seguimiento desde Instagram/WhatsApp/ecommerce.
+- Verificacion local: `npm run check` OK con 371 prospectos; ruta local HTTP 200; JSON contiene Arturo Calle; formulario presente; POST local contra la env de produccion sincronizo con `channels: ["local-jsonl","supabase"]` y se elimino el lead QA.
+- Produccion: commit `ab353db`, push a `main`, Dokploy deployment `8EeILTrSnuVBEy4jvnwH9` termino `done`.
+- URL publica verificada: `https://estudios-digitales.solversai.cloud/empresa/arturo-calle-compra-por-ocasion?v=ab353db` HTTP 200; JSON publico contiene Arturo Calle y Chromium publico confirma hook, contenido y Mission Control en el DOM.
+
+## El Estrene mini-estudio
+- [x] Verificar chat ID y permisos de Valentina.
+- [x] Corregir el enfoque para no reutilizar La Casa del Sabor.
+- [x] Revisar captura enviada, web, pagina de colaboraciones, productos publicos y canales visibles.
+- [x] Agregar prospecto `el-estrene` con enfoque moda, ecommerce, comunidad, eventos y colaboraciones.
+- [x] Verificar JSON, ruta local y render basico.
+- [x] Publicar/verificar produccion y enviar link a Valentina.
+
+### Criterios
+
+- No inventar metricas de Instagram, ventas ni disponibilidad.
+- Enfocar el estudio en separar compra, colaboraciones y eventos desde Instagram/WhatsApp/web.
+- Entregar link limpio y copy corto para Instagram.
+
+### Revision
+
+- Datos usados: captura enviada por Valentina del DM con `@el.estrene`, pagina publica de colaboraciones, home Shopify, productos publicos y footer con WhatsApp/correo/Instagram/politicas.
+- Se agrego el prospecto `el-estrene` con enfoque: moda urbana, ecommerce, comunidad, drops, eventos y colaboraciones separadas de preguntas de compra.
+- Verificacion local: `npm run check` OK con 376 prospectos; ruta local HTTP 200; Chromium local renderizo `El Estrene`, `Shopify activo + Instagram + WhatsApp + pagina de colaboraciones`, `Asesora El Estrene demo` y Mission Control.
+- Produccion: commit `c8eb3c4`, push a `main`, Dokploy deployment `g3IXnASXd_5wXf-NI-ieb` termino `done`.
+- URL publica verificada: `https://estudios-digitales.solversai.cloud/empresa/el-estrene` HTTP 200; JSON publico contiene El Estrene y Chromium publico confirma el estudio correcto en DOM.

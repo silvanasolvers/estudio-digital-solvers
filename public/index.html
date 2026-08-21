@@ -2587,6 +2587,21 @@
       line-height: 0.98;
     }
 
+    /* Centro EOS: the detailed diagnosis panel is taller than the intro.
+       Keep both columns anchored at the top so the first screen reads as one composition. */
+    body[data-study="centro-eos-medicina-funcional"] .hero {
+      min-height: auto;
+      align-items: start;
+      padding-top: clamp(126px, 13vh, 156px);
+      padding-bottom: clamp(52px, 6vw, 82px);
+    }
+
+    body[data-study="centro-eos-medicina-funcional"] .hero-grid,
+    body[data-study="centro-eos-medicina-funcional"] .hero-grid > div {
+      align-items: start;
+      align-self: start;
+    }
+
     body[data-brand-mode="texuno"] .phone-cta {
       width: 100%;
       white-space: normal;
