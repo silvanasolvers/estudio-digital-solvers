@@ -44039,6 +44039,202 @@
         "https://centroeos.co/contacto/",
         "https://www.instagram.com/centroeos/"
       ]
+    },
+    {
+      "slug": "cata-tours-medellin",
+      "company": "Cata Tours Medellín",
+      "instagram": "@catatoursmedellin",
+      "sector": "tours locales y experiencias turísticas",
+      "city": "Medellín, Colombia",
+      "tone": "cercano, ágil, turístico y humano",
+      "theme": "default",
+      "brandMode": "standard",
+      "logoImage": "/assets/cata-tours-logo.png",
+      "heroImage": "/assets/cata-tours-hero.jpg",
+      "accent": "#7EDA55",
+      "accentRgb": "126, 218, 85",
+      "secondary": "#168A82",
+      "secondaryRgb": "22, 138, 130",
+      "brandDark": "#173B35",
+      "paper": "#F7FCF5",
+      "paperCard": "#FFFFFF",
+      "brandWash": "rgba(126, 218, 85, 0.16)",
+      "brandWash2": "rgba(22, 138, 130, 0.12)",
+      "alertLabel": "Oportunidad de reserva",
+      "statusLabel": "Lectura preliminar",
+      "status": "Cata Tours Medellín ya muestra experiencias de Comuna 13, Centro Histórico, compras y café, y recibe reservas por WhatsApp, Instagram o formulario. La oportunidad es que el interés llegue con el tour y los datos mínimos para convertirlo en una reserva, no solo en un mensaje de “¿qué planes tienen?”.",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Una oferta turística local, diversa y fácil de reconocer: arte urbano, historia, cultura, compras y café alrededor de Medellín.",
+      "visualCueLabel": "Posible fricción",
+      "visualCue": "Quien llega desde un reel o Instagram puede querer una experiencia distinta, para otra fecha, tamaño de grupo o idioma; sin ese contexto, la conversación empieza de cero y la decisión se puede enfriar.",
+      "conversionFocusLabel": "Foco",
+      "conversionFocus": "Instagram, web o WhatsApp → experiencia de interés → fecha, grupo, idioma y necesidad → disponibilidad validada → reserva, pago o agendamiento con el equipo.",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "Cata Tours Medellín bajo lupa",
+      "loaderSubtitle": "Revisando cómo transformar consultas rápidas de Instagram y WhatsApp en reservas mejor preparadas.",
+      "loaderCue1": "Viajero orientado",
+      "loaderCue2": "Reserva con contexto",
+      "heroStampTitle": "Cata Tours",
+      "heroStampSubtitle": "Tour + fecha + grupo + reserva",
+      "bannerKicker": "Hook comercial",
+      "bannerHook": "La reserva se enfría entre “¿qué tour recomiendan?” y la fecha.",
+      "bannerSubhook": "Cata Tours Medellín ya recibe reservas por WhatsApp, Instagram y formulario. La oportunidad es identificar desde el primer mensaje qué experiencia busca la persona, para cuándo, cuántos viajan, idioma y necesidades clave antes de llevarla a disponibilidad, reserva o seguimiento humano.",
+      "bannerBadge1": "Medellín · turismo local",
+      "bannerBadge2": "Instagram + WhatsApp + reservas",
+      "openNode1Label": "Interés",
+      "openNode1Title": "¿Qué experiencia busca?",
+      "openNode2Label": "Contexto",
+      "openNode2Title": "Fecha, grupo, idioma y necesidad",
+      "openNode3Label": "Cata Tours",
+      "openNode3Title": "Disponibilidad y reserva validadas",
+      "openNodeMetric": "De consulta a reserva",
+      "brandWorldTitle": "Cata Tours ya tiene experiencias para descubrir Medellín. El siguiente paso es que cada consulta llegue lista para reservar.",
+      "scrollTitle": "De “quiero un tour” a una reserva con el contexto que importa",
+      "diagnosisTitle": "Dónde puede enfriarse una reserva antes de confirmarse",
+      "leadProblem": "Cata Tours Medellín comunica recorridos por Comuna 13, el Centro Histórico, compras y una experiencia cafetera en San Sebastián. Esa variedad es una fortaleza, pero una persona que llega desde Instagram puede preguntar solo “¿qué planes tienen?”, “¿cuánto cuesta?” o “quiero reservar”. Antes de indicar disponibilidad o el siguiente paso, el equipo necesita entender qué tour interesa, fecha, personas, idioma, tipo de grupo y necesidades de transporte u organización.",
+      "opportunity": "Una conversación inicial breve puede guiar por tipo de experiencia y recoger los datos que cambian la reserva: fecha, número de viajeros, idioma, si viajan solos, opción de transporte y necesidad especial. Con itinerarios, horarios, tarifas, cupos, políticas y agenda que Cata Tours valide, entrega la conversación al canal correcto para confirmar, cobrar o agendar. No inventa disponibilidad, precios, rutas, inclusión de transporte ni condiciones.",
+      "proofLine": "Lectura preliminar del 21 de agosto de 2026 basada en catatoursmedellin.com y @catatoursmedellin. La web pública presenta tours de arte urbano en Comuna 13, Centro Histórico, compras y café en San Sebastián, y explica que se puede reservar por WhatsApp, Instagram o formulario. Antes de activar cualquier flujo, Cata Tours valida experiencias vigentes, itinerarios, idiomas, horarios, cupos, tarifas, transporte, políticas y mensajes aprobados.",
+      "audience": "Viajeros solos, parejas, familias, grupos de amigos, visitantes que buscan una experiencia local en Medellín y personas que necesitan confirmar una reserva o resolver una pregunta logística antes de comprar.",
+      "adAngle": "¿Qué plan buscas en Medellín? Te guiamos al tour correcto y al siguiente paso para reservar.",
+      "whatsappCta": "Quiero activar la ruta de reservas de Cata Tours",
+      "heroCopy": "Cata Tours Medellín ya ofrece experiencias locales con personalidad. Solvers puede ayudar a que cada consulta de Instagram o WhatsApp llegue a reserva con el tour, la fecha y el contexto que el equipo necesita para avanzar.",
+      "scrollIntro": "La primera conversación no tiene que explicar todos los tours ni prometer cupos. Debe tomar las decisiones que cambian la reserva: experiencia, fecha, grupo, idioma y necesidad logística. Después, la persona recibe solo el siguiente paso que Cata Tours haya validado.",
+      "experienceIntro": "No se trata de reemplazar la atención cercana de Cata Tours ni de confirmar una salida sin revisar disponibilidad. Se trata de entregar al equipo una solicitud mejor preparada para que pueda orientar, confirmar y cerrar más rápido.",
+      "botTitle": "Asistente Cata Tours demo: del plan ideal a la reserva",
+      "botIntro": "Este demo muestra cómo una consulta puede organizarse por experiencia, fecha y grupo antes de pasar a disponibilidad, pago, reserva o conversación humana con Cata Tours.",
+      "botAgentName": "Asistente Cata Tours demo",
+      "botAgentRole": "experiencias, reservas y seguimiento",
+      "botDemoTitle": "El equipo recibe una solicitud lista para avanzar",
+      "botDemoBody": "La conversación puede llegar con experiencia de interés, fecha, viajeros, idioma y requisitos relevantes, en vez de reconstruirlos a partir de mensajes dispersos.",
+      "botTrainingTitle": "Entrenado solo con información aprobada",
+      "botTrainingBody": "Experiencias vigentes, itinerarios, horarios, fechas disponibles, cupos, tarifas, transporte, políticas, enlaces de pago, responsables y mensajes se cargan únicamente después de validarlos y mantenerlos actualizados con Cata Tours.",
+      "botOpening": "Hola, soy el asistente demo de Cata Tours Medellín. Puedo mostrar cómo una consulta se organiza por experiencia, fecha y grupo antes de pasar al equipo para confirmar disponibilidad y reserva. Los cupos, precios, horarios y condiciones siempre los confirma Cata Tours.",
+      "botPrompts": [
+        "Quiero el tour de Comuna 13",
+        "Busco un tour por el centro",
+        "Me interesa la experiencia cafetera",
+        "Quiero reservar para un grupo",
+        "¿Qué se puede medir?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["comuna", "13", "graffiti", "arte urbano"],
+          "answer": "Cata Tours publica una experiencia de arte urbano en Comuna 13. El flujo puede pedir fecha, número de personas, idioma y la información logística que Cata Tours defina; después entrega la solicitud para confirmar disponibilidad, condiciones y reserva."
+        },
+        {
+          "keywords": ["centro", "histórico", "historico", "city tour", "plaza botero"],
+          "answer": "El flujo puede orientar al City Tour del Centro Histórico y recoger fecha, viajeros, idioma y expectativa de la visita. Itinerario, horario, punto de encuentro, precio y cupos siempre los confirma Cata Tours."
+        },
+        {
+          "keywords": ["café", "cafe", "cafetero", "palmitas"],
+          "answer": "Cata Tours publica una experiencia cafetera en San Sebastián. El asistente puede identificar si es el plan adecuado y dejar registrados fecha, grupo, idioma y necesidad de transporte; Cata Tours valida después los detalles vigentes y la reserva."
+        },
+        {
+          "keywords": ["reservar", "reserva", "fecha", "precio", "disponibilidad", "grupo", "personas"],
+          "answer": "Para avanzar, el flujo puede pedir solo los datos que cambian la reserva: experiencia, fecha preferida, número de viajeros, idioma y necesidades relevantes. Con esa solicitud, el equipo confirma cupo, valor, logística y el canal de pago o agendamiento autorizado."
+        },
+        {
+          "keywords": ["mide", "datos", "instagram", "pauta", "campaña", "medir"],
+          "answer": "La operación puede medir origen de la consulta, tour de interés, fecha solicitada, tamaño de grupo, idioma, paso alcanzado y reservas confirmadas. Así identifica qué contenido y qué rutas convierten interés en venta, sin depender solo de mensajes sueltos."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "Experiencias diferenciadas",
+          "body": "Comuna 13, Centro Histórico, compras y café permiten atender motivaciones distintas para descubrir Medellín."
+        },
+        {
+          "label": "Canal",
+          "title": "Instagram ya abre la conversación",
+          "body": "Instagram, WhatsApp y el formulario permiten captar interés, aunque no siempre lo entregan estructurado para reservar."
+        },
+        {
+          "label": "Riesgo",
+          "title": "Decisión sin datos mínimos",
+          "body": "Sin fecha, grupo, idioma y tipo de experiencia, el equipo debe volver a preguntar antes de saber si puede avanzar."
+        },
+        {
+          "label": "Oportunidad",
+          "title": "Una ruta corta hacia reserva",
+          "body": "Un filtro conversacional guía la elección y entrega una solicitud con contexto para validar disponibilidad, pago o agendamiento."
+        }
+      ],
+      "experiencePath": [
+        "La persona descubre Cata Tours en Instagram, web, pauta o recomendación y pregunta por una experiencia en Medellín",
+        "Indica la experiencia de interés, fecha preferida, número de viajeros, idioma y cualquier necesidad logística relevante",
+        "Recibe solo el siguiente paso aprobado: disponibilidad, conversación humana, enlace de pago, reserva o agendamiento",
+        "El equipo recibe una solicitud con contexto para confirmar condiciones y dar seguimiento si la reserva no se completa"
+      ],
+      "galleryImages": [
+        {
+          "src": "/assets/cata-tours-hero.jpg",
+          "label": "Experiencias locales de Cata Tours"
+        },
+        {
+          "src": "/assets/cata-tours-centro.jpg",
+          "label": "City Tour por el Centro Histórico"
+        },
+        {
+          "src": "/assets/cata-tours-cafe.jpg",
+          "label": "Experiencia cafetera en San Sebastián"
+        }
+      ],
+      "journey": [
+        {
+          "title": "La persona elige el tipo de experiencia",
+          "body": "Unas pocas preguntas ayudan a diferenciar Comuna 13, Centro Histórico, compras, café u otra alternativa validada antes de recomendar el siguiente paso."
+        },
+        {
+          "title": "El interés llega con datos para reservar",
+          "body": "Fecha, viajeros, idioma y requisitos relevantes se recogen antes de que el equipo tenga que revisar disponibilidad o armar una propuesta."
+        },
+        {
+          "title": "La confirmación mantiene el criterio humano",
+          "body": "Cata Tours conserva el control sobre cupos, valor, condiciones, itinerario, transporte, pago y confirmación final."
+        },
+        {
+          "title": "El seguimiento recupera oportunidades",
+          "body": "Si una persona no termina la reserva, el equipo puede continuar con el contexto del tour y fecha de interés, usando mensajes y consentimiento aprobados."
+        }
+      ],
+      "findings": [
+        "Cata Tours Medellín publica experiencias de Comuna 13, Centro Histórico, compras y café, con un botón de reserva y canales de WhatsApp, Instagram y formulario.",
+        "La variedad de experiencias hace que la primera conversación deba identificar pronto qué quiere hacer la persona y para cuándo.",
+        "La oportunidad es convertir interés generado desde contenido social en una solicitud de reserva con contexto, antes de validar cupo o pago."
+      ],
+      "siteIssues": [
+        "Una persona que escribe desde Instagram puede no saber qué experiencia corresponde a su plan, ni qué datos necesita tener listos para reservar.",
+        "Cuando fecha, grupo, idioma y necesidad logística llegan por mensajes separados, el equipo debe reconstruir la solicitud antes de confirmar disponibilidad.",
+        "Sin registrar el tour de interés y el estado del siguiente paso, es difícil saber qué consultas abandonan la reserva y qué contenido convierte mejor."
+      ],
+      "losses": [
+        "Un viajero interesado puede aplazar la decisión si recibe una conversación genérica en vez de una ruta clara hacia su experiencia y fecha.",
+        "El equipo puede invertir tiempo repitiendo preguntas que podrían llegar resueltas desde el primer mensaje.",
+        "Una intención real de compra puede quedar sin seguimiento si la consulta no conserva tour, fecha, grupo y estado de la reserva."
+      ],
+      "heatmapData": [
+        "Origen de cada consulta: Instagram, WhatsApp, web, pauta, recomendación u otro canal autorizado.",
+        "Experiencia de interés, fecha preferida, viajeros, idioma, necesidad logística y etapa de reserva.",
+        "Solicitud recibida, disponibilidad revisada, reserva iniciada, pago o agendamiento enviado, reserva confirmada y seguimiento completado."
+      ],
+      "campaigns": [
+        "Mensajes de Instagram diferenciados por experiencia: Comuna 13, Centro Histórico, compras o café, con una pregunta inicial que lleve al dato de reserva más importante.",
+        "Contenido de planificación que explique qué escoger según el plan del viajero y cómo iniciar una reserva, usando solo información actualizada y aprobada por Cata Tours.",
+        "Seguimiento responsable para quienes iniciaron una consulta de reserva y no continuaron, con el tour y fecha de interés como contexto y consentimiento validado."
+      ],
+      "deliverables": [
+        "Ruta conversacional para distinguir experiencia, fecha, grupo, idioma y necesidad logística antes de pasar al canal de reserva o al equipo humano.",
+        "Asistente inicial entrenado con experiencias, itinerarios, fechas, cupos, tarifas, transporte, condiciones y mensajes que Cata Tours apruebe y mantenga vigentes.",
+        "Flujo de reserva o agendamiento conectado a los enlaces, pagos, responsables y reglas operativas que Cata Tours defina.",
+        "Tablero de conversión para medir origen, interés, solicitud con contexto, disponibilidad, reserva iniciada, confirmada y seguimiento."
+      ],
+      "sources": [
+        "https://catatoursmedellin.com/",
+        "https://catatoursmedellin.com/tours-medellin",
+        "https://catatoursmedellin.com/reserva-tour-medellin",
+        "https://www.instagram.com/catatoursmedellin/"
+      ]
     }
   ]
 }

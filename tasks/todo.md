@@ -1,5 +1,16 @@
 # Estudio Digital Solvers
 
+## Cata Tours Medellín — reservas con contexto
+
+- [x] Verificar la oferta y los canales públicos de Cata Tours Medellín.
+- [x] Construir una ruta de Instagram/WhatsApp que convierta interés en una reserva o agendamiento con el contexto necesario.
+- [x] Validar el mini-estudio en local y publicar únicamente la ruta exacta.
+- [ ] Comprobar la URL pública antes de entregar el DM a Valentina.
+
+### Criterio de aceptación
+
+- El estudio debe orientar sin inventar cupos, tarifas, itinerarios ni disponibilidad; debe capturar el tour/experiencia, fecha, número de personas, idioma y tipo de necesidad antes de llevar a reserva o conversación humana.
+
 ## Centro EOS — composición de portada
 
 - [x] Corregir el vacío vertical de la portada sin alterar el contenido del estudio.
