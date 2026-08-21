@@ -4,13 +4,15 @@
 
 - [x] Corregir el vacío vertical de la portada sin alterar el contenido del estudio.
 - [x] Verificar estructura, validación de la plantilla y la regla responsive existente.
-- [ ] Publicar el ajuste solo después de comprobar la ruta pública.
+- [x] Publicar el ajuste y comprobar la ruta pública.
 
 ### Revisión
 
 - La causa era de composición: la portada alineaba el bloque de introducción al borde inferior de un panel de diagnóstico más alto, dejando el lado izquierdo vacío en pantallas de escritorio.
 - Ajuste acotado a Centro EOS: ambas columnas ahora se anclan al inicio de la portada; no cambia textos, datos ni el resto de mini-estudios.
-- `npm run check` validó 385 estudios y `git diff --check` no reportó errores. Pendiente la comprobación visual de producción tras autorización de publicación.
+- `npm run check` validó 385 estudios y `git diff --check` no reportó errores.
+- Publicación: commit `91b0852` en `main`; la URL pública respondió HTTP 200 y sirvió el ajuste.
+- Revisión visual pública a 1440×900: el titular y el diagnóstico empiezan en la misma zona superior, sin el vacío vertical previo.
 
 ## Centro EOS Medicina Funcional — ingreso administrativo previo a la consulta
 
