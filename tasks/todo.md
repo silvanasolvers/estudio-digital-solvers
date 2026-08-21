@@ -5,11 +5,18 @@
 - [x] Verificar la oferta y los canales públicos de Cata Tours Medellín.
 - [x] Construir una ruta de Instagram/WhatsApp que convierta interés en una reserva o agendamiento con el contexto necesario.
 - [x] Validar el mini-estudio en local y publicar únicamente la ruta exacta.
-- [ ] Comprobar la URL pública antes de entregar el DM a Valentina.
+- [x] Comprobar la URL pública antes de entregar el DM a Valentina.
 
 ### Criterio de aceptación
 
 - El estudio debe orientar sin inventar cupos, tarifas, itinerarios ni disponibilidad; debe capturar el tour/experiencia, fecha, número de personas, idioma y tipo de necesidad antes de llevar a reserva o conversación humana.
+
+### Revisión
+
+- Fuentes públicas revisadas: `catatoursmedellin.com`, sus rutas de tours y reserva, e Instagram. La web comunica experiencias de Comuna 13, Centro Histórico, compras y café; reservas por WhatsApp, Instagram o formulario.
+- Validación local: `npm run check` confirmó 386 estudios; el JSON contiene el hook, demo y assets de Cata Tours; la ruta local y los cuatro recursos respondieron correctamente.
+- Producción: commit `b94fcf1`; Dokploy `p3w6wjmYxe2CmCyPjuo3Q` finalizó en `done`.
+- URL pública comprobada: la ruta, el JSON con `Cata Tours Medellín`, el hook, el demo y los cuatro assets responden HTTP 200.
 
 ## Centro EOS — composición de portada
 
