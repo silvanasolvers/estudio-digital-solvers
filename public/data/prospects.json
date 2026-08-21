@@ -43840,6 +43840,205 @@
         "https://tinkko.com/",
         "https://www.instagram.com/tinkkocoworking/"
       ]
+    },
+    {
+      "slug": "centro-eos-medicina-funcional",
+      "company": "Centro EOS",
+      "instagram": "@centroeos",
+      "sector": "medicina funcional y bienestar integral",
+      "city": "Medellín, Colombia",
+      "tone": "cercano, profesional, cuidadoso y humano",
+      "theme": "default",
+      "brandMode": "standard",
+      "logoImage": "/assets/centro-eos-logo.webp",
+      "heroImage": "/assets/centro-eos-hero.png",
+      "accent": "#282054",
+      "accentRgb": "40, 32, 84",
+      "secondary": "#32A7B5",
+      "secondaryRgb": "50, 167, 181",
+      "brandDark": "#17142F",
+      "paper": "#F4FBFB",
+      "paperCard": "#FFFFFF",
+      "brandWash": "rgba(50, 167, 181, 0.14)",
+      "brandWash2": "rgba(40, 32, 84, 0.12)",
+      "alertLabel": "Oportunidad de atención",
+      "statusLabel": "Lectura preliminar",
+      "status": "Centro EOS publica un recorrido que empieza antes de la consulta: agendar, diligenciar formularios y compartir exámenes o informes previos. La oportunidad es ordenar ese ingreso administrativo, con privacidad y sin trasladar el criterio clínico a un chat.",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Un equipo multidisciplinario con enfoque funcional, servicios diversos y un proceso previo a la consulta ya comunicado al paciente.",
+      "visualCueLabel": "Posible fricción",
+      "visualCue": "Quien busca una cita, tiene documentos previos o pregunta por su plan puede llegar por distintos canales y quedar entre mensajes, correos y formularios sin una ruta administrativa única.",
+      "conversionFocusLabel": "Foco",
+      "conversionFocus": "Instagram, web, WhatsApp o correo → motivo administrativo → servicio o cita → canal seguro para documentos → solicitud vinculada al equipo.",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "Centro EOS bajo lupa",
+      "loaderSubtitle": "Revisando cómo hacer más clara la etapa administrativa previa a la consulta, sin intervenir en decisiones clínicas.",
+      "loaderCue1": "Paciente orientado",
+      "loaderCue2": "Equipo con contexto",
+      "heroStampTitle": "Centro EOS",
+      "heroStampSubtitle": "Cita + documentos + seguimiento",
+      "bannerKicker": "Hook comercial",
+      "bannerHook": "La consulta empieza antes de que el paciente llegue.",
+      "bannerSubhook": "Centro EOS ya indica que algunos pacientes diligencian formularios y envían exámenes o informes previos. La oportunidad es que esa primera interacción administrativa guíe con claridad, cuide la privacidad y entregue al equipo el contexto necesario para continuar.",
+      "bannerBadge1": "Medellín · atención integral",
+      "bannerBadge2": "Citas + documentos previos",
+      "openNode1Label": "Necesidad",
+      "openNode1Title": "¿Agenda, cita o plan?",
+      "openNode2Label": "Contexto",
+      "openNode2Title": "Servicio, fecha y documentos",
+      "openNode3Label": "Centro EOS",
+      "openNode3Title": "Siguiente paso administrativo seguro",
+      "openNodeMetric": "Antes de la consulta",
+      "brandWorldTitle": "Centro EOS ya tiene el enfoque y el equipo. El siguiente paso es que cada ingreso administrativo llegue más claro.",
+      "scrollTitle": "De una consulta dispersa a una ruta administrativa bien orientada",
+      "diagnosisTitle": "Dónde puede aparecer fricción antes de la cita",
+      "leadProblem": "En su información pública, Centro EOS explica que para una cita de medicina funcional se diligencian formularios y se pueden enviar exámenes e informes previos. También comunica distintos servicios y modalidades de atención. Cuando la persona escribe solo “quiero una cita”, “tengo exámenes” o “tengo una duda de mi plan”, el equipo debe identificar el motivo, indicar el canal correcto y volver a reunir el contexto antes de poder continuar la etapa administrativa.",
+      "opportunity": "Una primera capa administrativa puede distinguir si la persona quiere agendar, ya tiene una cita, necesita instrucciones sobre formularios o documentos, o busca el canal adecuado para una pregunta de atención. Pide solo los datos necesarios para esa ruta y entrega el enlace, el canal seguro o la conversación humana que Centro EOS valide. No diagnostica, no recomienda tratamientos, no interpreta exámenes y no reemplaza una valoración profesional.",
+      "proofLine": "Lectura preliminar del 21 de agosto de 2026 basada en la web pública y la página de contacto de Centro EOS. Publican atención en Medellín, solicitud de cita, servicios de medicina funcional, nutrición y psicología con enfoque funcional, sueroterapia, ozonoterapia, terapia neural, exámenes especializados y otros servicios. Su FAQ indica formularios y envío previo de exámenes o informes para algunas consultas. Antes de activar cualquier flujo, Centro EOS valida servicios vigentes, responsables, enlaces, política de datos, protocolos de urgencia y los canales autorizados para documentos.",
+      "audience": "Personas que desean solicitar una cita; pacientes con una cita próxima y formularios o documentos pendientes; personas que necesitan saber el canal administrativo adecuado; y pacientes que requieren una orientación no clínica sobre su proceso de atención.",
+      "adAngle": "¿Necesitas una cita o tienes documentos previos? Te orientamos al siguiente paso administrativo correcto.",
+      "whatsappCta": "Quiero activar la ruta administrativa previa para Centro EOS",
+      "heroCopy": "Centro EOS ya comunica un proceso de atención integral. Solvers puede ayudar a que la primera conversación administrativa oriente una cita, un formulario o un documento previo con claridad, cuidado y el contexto que el equipo necesita.",
+      "scrollIntro": "La conversación inicial no debe convertirse en consulta médica por chat. Debe resolver decisiones administrativas: qué necesita la persona, si tiene cita, qué servicio o canal corresponde y cómo continuar de forma segura.",
+      "experienceIntro": "No se trata de automatizar el criterio clínico ni de recibir información sensible por un canal improvisado. Se trata de reducir mensajes repetidos, orientar al paciente y dejar al equipo una solicitud administrativa mejor preparada.",
+      "botTitle": "Asistente Centro EOS demo: orientación administrativa previa",
+      "botIntro": "Este demo muestra cómo una primera conversación puede separar agendamiento, cita existente, formularios, documentos y preguntas administrativas antes de pasar a un canal humano o seguro validado por Centro EOS.",
+      "botAgentName": "Orientador Centro EOS demo",
+      "botAgentRole": "citas, formularios y canales administrativos",
+      "botDemoTitle": "El equipo recibe un ingreso administrativo claro",
+      "botDemoBody": "La solicitud puede llegar con el motivo administrativo, servicio o cita relacionada, fecha aproximada y el siguiente paso pendiente, en vez de reconstruirse desde mensajes dispersos.",
+      "botTrainingTitle": "Entrenado únicamente con el proceso aprobado",
+      "botTrainingBody": "Servicios vigentes, agendas, responsables, formularios, enlaces, instrucciones documentales, política de tratamiento de datos, criterios de urgencia y mensajes autorizados se cargan después de validarlos con Centro EOS.",
+      "botOpening": "Hola, soy el orientador administrativo demo de Centro EOS. Puedo mostrar cómo se organiza una solicitud de cita, formulario o documento previo. No doy orientación médica, no interpreto exámenes y no atiendo urgencias; esos temas los maneja el equipo profesional por sus canales autorizados.",
+      "botPrompts": [
+        "Quiero pedir una cita",
+        "Ya tengo una cita",
+        "Tengo exámenes o documentos previos",
+        "¿Puedo resolver una duda médica aquí?",
+        "¿Qué se puede medir?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["cita", "agendar", "agenda", "reservar", "consulta"],
+          "answer": "El flujo puede identificar si deseas solicitar una cita, el servicio de interés y tus datos administrativos mínimos. Después entrega la solicitud al canal, agenda o persona que Centro EOS haya aprobado. La asignación y confirmación siempre las realiza Centro EOS."
+        },
+        {
+          "keywords": ["formulario", "formularios", "diligenciar", "historia"],
+          "answer": "Para algunas consultas, Centro EOS publica que usa formularios previos. El asistente puede confirmar si ya tienes una cita y enviarte solo el enlace o las instrucciones vigentes que el centro haya autorizado, sin pedir información clínica innecesaria por el chat."
+        },
+        {
+          "keywords": ["examen", "exámenes", "documento", "documentos", "informe", "resultado"],
+          "answer": "El flujo puede indicar el canal seguro que Centro EOS valide para documentos previos y asociarlo con una cita si corresponde. No interpreta resultados ni solicita información sensible fuera del proceso y los controles aprobados por el centro."
+        },
+        {
+          "keywords": ["dolor", "síntoma", "sintoma", "diagnóstico", "diagnostico", "tratamiento", "medicamento", "urgencia", "emergencia"],
+          "answer": "Este demo no brinda orientación médica ni atención de urgencias. Puede explicar que esos temas deben revisarse directamente con el profesional tratante o por los canales de atención urgente que correspondan. Centro EOS define los mensajes y rutas de seguridad finales."
+        },
+        {
+          "keywords": ["mide", "datos", "instagram", "pauta", "campaña", "medir"],
+          "answer": "La operación puede medir el origen de la solicitud, motivo administrativo, servicio de interés, estado de cita, siguiente paso y solicitudes que requieren seguimiento. No necesita registrar detalles clínicos para saber dónde se genera fricción."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "Proceso previo ya comunicado",
+          "body": "Centro EOS explica públicamente formularios y documentos previos para algunas consultas, una base clara para orientar la preparación administrativa."
+        },
+        {
+          "label": "Canal",
+          "title": "Varias puertas de entrada",
+          "body": "Web, WhatsApp, correo y otros canales pueden iniciar solicitudes de cita, documentos o seguimiento."
+        },
+        {
+          "label": "Riesgo",
+          "title": "Mensajes sin una ruta única",
+          "body": "Una solicitud administrativa puede mezclarse con preguntas clínicas o documentos enviados por un canal no preparado para ello."
+        },
+        {
+          "label": "Oportunidad",
+          "title": "Orientar sin invadir la consulta",
+          "body": "Un filtro breve separa el tipo de necesidad y entrega solo el siguiente paso administrativo validado."
+        }
+      ],
+      "experiencePath": [
+        "La persona llega desde la web, Instagram, WhatsApp, correo o una recomendación y expresa una necesidad administrativa",
+        "Indica si busca agendar, tiene una cita, requiere un formulario, necesita enviar documentos o busca una ruta de atención autorizada",
+        "Recibe el enlace, canal seguro, instrucción o conversación humana que Centro EOS haya validado para ese caso",
+        "El equipo recibe una solicitud con motivo, servicio o cita relacionada y siguiente paso, sin convertir el chat en historia clínica"
+      ],
+      "galleryImages": [
+        {
+          "src": "/assets/centro-eos-hero.png",
+          "label": "Bienestar integral en Centro EOS"
+        },
+        {
+          "src": "/assets/centro-eos-asesoria.png",
+          "label": "Asesoría personalizada"
+        },
+        {
+          "src": "/assets/centro-eos-profesionales.png",
+          "label": "Profesionales calificados"
+        },
+        {
+          "src": "/assets/centro-eos-seguridad.png",
+          "label": "Profesionalismo y seguridad"
+        }
+      ],
+      "journey": [
+        {
+          "title": "La persona identifica una necesidad administrativa",
+          "body": "Solicitar una cita, revisar un formulario, ubicar el canal de documentos o entender el siguiente paso no debe requerir una cadena de mensajes."
+        },
+        {
+          "title": "La primera conversación orienta con límites claros",
+          "body": "El flujo diferencia una solicitud administrativa de cualquier tema que deba llevar el profesional de salud."
+        },
+        {
+          "title": "Los documentos siguen un proceso autorizado",
+          "body": "Formularios y documentos previos se comparten únicamente mediante los enlaces, responsables y controles que Centro EOS defina."
+        },
+        {
+          "title": "El seguimiento recupera contexto útil",
+          "body": "Motivo, servicio, cita relacionada y estado del siguiente paso ayudan a que el equipo continúe la atención administrativa sin repetir preguntas."
+        }
+      ],
+      "findings": [
+        "Centro EOS publica solicitud de cita, formularios previos y envío de exámenes o informes para algunas consultas de medicina funcional.",
+        "Su web comunica un equipo multidisciplinario y servicios que incluyen medicina, nutrición y psicología con enfoque funcional, entre otros.",
+        "La oportunidad no es dar medicina por mensajería: es organizar el tránsito administrativo antes y después de la cita con canales y datos validados."
+      ],
+      "siteIssues": [
+        "Una persona puede no distinguir entre solicitar una cita, preparar documentación o consultar un tema clínico que debe llegar directamente al profesional.",
+        "Cuando formularios, documentos previos y la cita no se relacionan con una solicitud inicial clara, el equipo necesita recuperar contexto antes de continuar.",
+        "Sin registrar el motivo administrativo y el siguiente paso, es difícil identificar en qué punto se detienen las solicitudes de cita o preparación previa."
+      ],
+      "losses": [
+        "El paciente puede quedar sin claridad sobre cómo completar la etapa previa a su consulta.",
+        "El equipo puede dedicar tiempo a clasificar mensajes que podrían llegar con el motivo y el siguiente paso ya identificados.",
+        "Un documento o formulario puede quedar desconectado de la cita si no existe una ruta aprobada y trazable para asociarlos."
+      ],
+      "heatmapData": [
+        "Origen de cada solicitud administrativa: web, Instagram, WhatsApp, correo, recomendación u otro canal autorizado.",
+        "Motivo de contacto, servicio de interés, estado de cita, formularios pendientes, siguiente paso y responsable de atención, sin registrar información clínica innecesaria.",
+        "Solicitud recibida, canal entregado, formulario iniciado, documento recibido por el proceso autorizado, cita confirmada y seguimiento administrativo completado."
+      ],
+      "campaigns": [
+        "Mensajes de entrada diferenciados para solicitud de cita, preparación administrativa previa y orientación sobre el canal correcto.",
+        "Contenido educativo que explique qué esperar antes de una consulta y cómo usar los formularios o canales oficiales, solo con mensajes aprobados por Centro EOS.",
+        "Seguimiento administrativo responsable para solicitudes de cita o preparación que no completan el siguiente paso, respetando consentimiento y política de datos."
+      ],
+      "deliverables": [
+        "Ruta conversacional administrativa para identificar solicitud de cita, cita existente, formulario, documento previo o pregunta de atención y llevarla al canal aprobado.",
+        "Asistente inicial con límites explícitos: no diagnostica, no recomienda tratamientos, no interpreta exámenes y deriva temas clínicos o urgentes según protocolos validados.",
+        "Flujo seguro de enlaces, responsables e instrucciones para formularios y documentos previos, definido y mantenido por Centro EOS.",
+        "Tablero de medición administrativo para fuente, motivo, estado de cita, siguiente paso y seguimiento, sin exponer información clínica sensible."
+      ],
+      "sources": [
+        "https://centroeos.co/",
+        "https://centroeos.co/contacto/",
+        "https://www.instagram.com/centroeos/"
+      ]
     }
   ]
 }
