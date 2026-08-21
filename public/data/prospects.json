@@ -43609,6 +43609,237 @@
         "https://theplacetobe.lat/restaurantes/tanoshii-japanese-cuisine-bar-zona-g-bogota/",
         "https://revistadiners.com.co/estilo-de-vida/asia-cocina/"
       ]
+    },
+    {
+      "slug": "tinkko-coworking",
+      "company": "Tinkko Coworking",
+      "instagram": "@tinkkocoworking",
+      "sector": "coworking corporativo y oficinas flexibles",
+      "city": "Bogotá, Medellín y República Dominicana",
+      "tone": "corporativo, flexible, contemporáneo y directo",
+      "theme": "default",
+      "brandMode": "standard",
+      "logoImage": "/assets/tinkko-logo.svg",
+      "heroImage": "/assets/tinkko-hero-1.jpg",
+      "accent": "#FF6B00",
+      "accentRgb": "255, 107, 0",
+      "secondary": "#FFC28F",
+      "secondaryRgb": "255, 194, 143",
+      "brandDark": "#070709",
+      "paper": "#F8F8F8",
+      "paperCard": "#FFFFFF",
+      "brandWash": "rgba(255, 107, 0, 0.16)",
+      "brandWash2": "rgba(255, 194, 143, 0.28)",
+      "alertLabel": "Oportunidad de conversión",
+      "statusLabel": "Lectura preliminar",
+      "status": "Tinkko ya comunica una oferta amplia de espacios flexibles y organiza sus sedes en Bogotá, Medellín y República Dominicana. La oportunidad es que la solicitud de cotización llegue con el contexto comercial suficiente para orientar a la persona sin intercambios repetidos.",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Una red de coworking con oficinas privadas, puestos fijos, zona flex, salas de reunión y oficina virtual para necesidades de trabajo distintas.",
+      "visualCueLabel": "Posible fuga",
+      "visualCue": "Una persona puede tener claro que necesita espacio, pero no saber si debe pedir una oficina, una sala, una solución por horas, un puesto fijo u oficina virtual; tampoco siempre indica ciudad, equipo, fecha o urgencia al primer contacto.",
+      "conversionFocusLabel": "Foco",
+      "conversionFocus": "Instagram, web o WhatsApp → ciudad y sede → solución de espacio → equipo, fecha y necesidad → cotización o visita con contexto.",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "Tinkko Coworking bajo lupa",
+      "loaderSubtitle": "Revisando cómo convertir una consulta de espacio en una cotización preparada para el equipo comercial.",
+      "loaderCue1": "Solución correcta",
+      "loaderCue2": "Cotización con contexto",
+      "heroStampTitle": "Tinkko",
+      "heroStampSubtitle": "Sede + espacio + equipo",
+      "bannerKicker": "Hook comercial",
+      "bannerHook": "La cotización se enfría antes de la visita.",
+      "bannerSubhook": "Tinkko ya ofrece múltiples soluciones y sedes. La oportunidad es identificar desde el primer mensaje qué espacio necesita cada equipo, dónde, para cuándo y con qué urgencia antes de enviar la solicitud al canal correcto.",
+      "bannerBadge1": "Bogotá · Medellín · R. Dominicana",
+      "bannerBadge2": "Oficinas + flex + salas",
+      "openNode1Label": "Interés",
+      "openNode1Title": "¿Qué espacio necesita?",
+      "openNode2Label": "Contexto",
+      "openNode2Title": "Sede, equipo, fecha y uso",
+      "openNode3Label": "Solvers",
+      "openNode3Title": "Cotización o visita preparada",
+      "openNodeMetric": "Antes de que se enfríe la intención",
+      "brandWorldTitle": "Tinkko ya tiene los espacios. El siguiente paso es que cada consulta llegue al equipo con una necesidad clara.",
+      "scrollTitle": "De “quiero cotizar” a una conversación comercial lista para avanzar",
+      "diagnosisTitle": "Dónde podría enfriarse una cotización",
+      "leadProblem": "Tinkko publica una oferta amplia: oficina privada, puesto fijo, zona flex, salas de reuniones y oficina virtual, además de sus sedes en Bogotá, Medellín y República Dominicana. Esa variedad es una fortaleza, aunque también aumenta las decisiones que debe tomar una persona que llega desde un anuncio, un reel o WhatsApp. Si inicia solo preguntando por precio o espacio, sin ciudad, sede, modalidad, tamaño de equipo, fecha y motivo de uso, el equipo comercial debe reconstruir la necesidad antes de poder orientarla o preparar una visita.",
+      "opportunity": "Una capa conversacional breve puede empezar por ciudad y tipo de necesidad, y después recoger sede de interés, modalidad, número de personas, fecha estimada de inicio, duración, uso y nivel de urgencia. Con las reglas, tarifas, inventario y agenda que Tinkko valide, deriva la consulta a cotización, visita, sala de reuniones u oficina virtual. No inventa disponibilidad, precios, cupos ni condiciones: esos datos se conectan y actualizan con el equipo.",
+      "proofLine": "Lectura preliminar del 21 de agosto de 2026 basada en la web pública de Tinkko y @tinkkocoworking. La web publica sedes en Bogotá, Medellín y República Dominicana; oficinas privadas, puestos fijos, zona flex, salas de reuniones y oficina virtual. También señala que sus salas atienden grupos de 4 a 28 personas. Antes de activar cualquier conversación, se validan sedes, inventario, tarifas, horarios, políticas, rutas de visita y mensajes aprobados.",
+      "audience": "Equipos que buscan una oficina privada o puestos de trabajo; empresas que necesitan una sala para reunión, taller o conferencia; profesionales que requieren una solución flexible; y negocios que necesitan oficina virtual o una nueva sede en Bogotá, Medellín o República Dominicana.",
+      "adAngle": "Dinos ciudad, tipo de espacio y tamaño de equipo. Tinkko te guía a la sede y al siguiente paso correctos.",
+      "whatsappCta": "Quiero activar la ruta de cotización de Tinkko",
+      "heroCopy": "Tinkko ya reúne una oferta amplia de espacios y una red de sedes. Solvers puede ayudar a que cada persona que llega con intención encuentre su modalidad y llegue a cotización o visita con la información que el equipo necesita.",
+      "scrollIntro": "La primera conversación no debe intentar responder todo. Debe tomar las decisiones que cambian la ruta comercial: ciudad, sede, solución, tamaño de equipo, fecha y uso. Después, la persona recibe solo el siguiente paso que Tinkko haya validado.",
+      "experienceIntro": "No se trata de reemplazar a los asesores de Tinkko ni de automatizar una cotización sin criterio. Se trata de entregarles una solicitud mejor preparada, para que puedan enfocar su tiempo en orientar, visitar y cerrar.",
+      "botTitle": "Asistente Tinkko demo: de la necesidad al espacio correcto",
+      "botIntro": "Este demo muestra cómo una primera conversación puede ordenar la necesidad de oficina, puesto, flex, sala u oficina virtual antes de enviar a la persona al canal, cotización o visita correctos.",
+      "botAgentName": "Asistente Tinkko demo",
+      "botAgentRole": "sedes, espacios, cotizaciones y visitas",
+      "botDemoTitle": "La solicitud llega con contexto comercial",
+      "botDemoBody": "El equipo recibe ciudad, sede de interés, tipo de espacio, tamaño de equipo, fecha estimada, uso y pregunta principal, en lugar de iniciar cada conversación desde cero.",
+      "botTrainingTitle": "Entrenado con la operación vigente",
+      "botTrainingBody": "Sedes activas, inventario, disponibilidad, tarifas, condiciones, enlaces, agendas de visita, políticas y mensajes se cargan únicamente después de validarlos y mantenerlos actualizados con Tinkko.",
+      "botOpening": "Hola, soy el asistente demo de Tinkko. Puedo mostrar cómo una consulta se organiza por ciudad, espacio, equipo y fecha antes de pasar a cotización, visita o al equipo indicado. La disponibilidad y las condiciones siempre las confirma Tinkko.",
+      "botPrompts": [
+        "¿Cómo prepara una cotización?",
+        "Busco oficina para mi equipo",
+        "Necesito una sala de reuniones",
+        "¿Qué pasa si aún no defino fecha?",
+        "¿Qué se puede medir?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": [
+            "cotiza",
+            "cotización",
+            "cotizar",
+            "precio",
+            "presupuesto",
+            "valor"
+          ],
+          "answer": "El flujo puede preguntar por ciudad, sede de interés, tipo de espacio, personas, fecha estimada, duración y necesidad principal. Con esa información entrega la solicitud al equipo o al canal que Tinkko valide. No calcula ni inventa precios o disponibilidad."
+        },
+        {
+          "keywords": [
+            "oficina",
+            "equipo",
+            "privada",
+            "puesto",
+            "puestos",
+            "fijo",
+            "empresa"
+          ],
+          "answer": "Para una oficina privada o puestos fijos puede recoger ciudad, sede, número de personas, fecha de inicio, duración y necesidades declaradas. El asesor recibe una oportunidad mejor preparada para indicar las opciones reales disponibles."
+        },
+        {
+          "keywords": [
+            "sala",
+            "reunión",
+            "reunion",
+            "taller",
+            "workshop",
+            "conferencia",
+            "evento"
+          ],
+          "answer": "Tinkko publica salas de reuniones para reuniones, talleres, workshops y conferencias, con espacios para 4 a 28 personas. El asistente puede recoger ciudad, fecha, horario, asistentes y tipo de actividad; la confirmación de sala siempre la realiza Tinkko."
+        },
+        {
+          "keywords": [
+            "virtual",
+            "flex",
+            "por horas",
+            "tinkkoin",
+            "domicilio",
+            "correspondencia"
+          ],
+          "answer": "El flujo puede distinguir una necesidad flexible u oficina virtual de una oficina física. Tinkko publica zona flex por horas y oficina virtual con dirección comercial, correspondencia y opciones de atención de llamadas; los detalles vigentes se validan antes de informar o cotizar."
+        },
+        {
+          "keywords": [
+            "mide",
+            "datos",
+            "instagram",
+            "pauta",
+            "campaña",
+            "medir"
+          ],
+          "answer": "La operación puede medir origen de la consulta, ciudad, sede, modalidad de espacio, tamaño de equipo, fecha estimada, solicitud de visita, cotización entregada y seguimientos recuperados. Así se identifica qué contenido atrae intención comercial real."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "Oferta flexible y multiciudad",
+          "body": "Tinkko reúne varias modalidades de espacio y presencia pública en Bogotá, Medellín y República Dominicana."
+        },
+        {
+          "label": "Canal",
+          "title": "La intención empieza antes de la visita",
+          "body": "Una persona puede descubrir una sede desde contenido, búsqueda o recomendación y necesitar orientación inmediata para cotizar."
+        },
+        {
+          "label": "Dolor",
+          "title": "La solicitud llega incompleta",
+          "body": "Sede, modalidad, equipo, fecha, duración y uso pueden aparecer en mensajes distintos o no aparecer al inicio."
+        },
+        {
+          "label": "Oportunidad",
+          "title": "Cotización bien encaminada",
+          "body": "Un filtro breve entrega cada consulta al canal correcto con el contexto comercial mínimo para avanzar."
+        }
+      ],
+      "experiencePath": [
+        "La persona descubre Tinkko en Instagram, búsqueda, pauta o recomendación y pregunta por un espacio, una sede o una cotización",
+        "Indica ciudad, sede de interés, tipo de solución, equipo, fecha de inicio, duración y motivo de uso sin responder una cadena larga de mensajes",
+        "Recibe la ruta aprobada: cotización, agenda de visita, sala de reuniones, solución flexible u oficina virtual según la necesidad",
+        "Si aún no está lista para decidir, Tinkko puede continuar con un seguimiento relevante según sede, solución y etapa, usando información y consentimiento validados"
+      ],
+      "galleryImages": [
+        {
+          "src": "/assets/tinkko-hero-1.jpg",
+          "label": "Espacios de trabajo Tinkko"
+        },
+        {
+          "src": "/assets/tinkko-hero-2.jpg",
+          "label": "Coworking flexible"
+        },
+        {
+          "src": "/assets/tinkko-hero-3.jpg",
+          "label": "Soluciones para equipos"
+        }
+      ],
+      "journey": [
+        {
+          "title": "El contenido activa una necesidad concreta",
+          "body": "Cada anuncio, reel o recomendación debe llevar a una decisión simple: ciudad y tipo de espacio que la persona necesita."
+        },
+        {
+          "title": "La primera conversación califica sin fricción",
+          "body": "Sede, modalidad, equipo, fecha, duración y uso separan una consulta de oficina, sala, flex u oficina virtual."
+        },
+        {
+          "title": "El siguiente paso se ajusta a la oportunidad",
+          "body": "La persona recibe el enlace, agenda, formulario o conversación humana que Tinkko haya aprobado para su ciudad y necesidad."
+        },
+        {
+          "title": "La data ayuda a priorizar la demanda",
+          "body": "Origen, sede, tipo de espacio, equipo y etapa muestran qué contenido genera solicitudes que realmente avanzan a visita o cotización."
+        }
+      ],
+      "findings": [
+        "Tinkko publica oficinas privadas, puestos fijos, zona flex, salas de reuniones y oficina virtual, una oferta que atiende necesidades de trabajo distintas.",
+        "La web pública organiza sedes en Bogotá, Medellín y República Dominicana y su primer buscador visible inicia por ubicación.",
+        "La oportunidad comercial no es añadir más opciones: es identificar la necesidad correcta antes de enviar a la persona al canal de cotización o visita."
+      ],
+      "siteIssues": [
+        "Una persona que llega desde Instagram o búsqueda puede no saber qué solución corresponde a su necesidad o si debe continuar por cotización, visita, sala u oficina virtual.",
+        "Una consulta sobre ciudad, sede, espacio, equipo, fecha y presupuesto puede convertirse en varios mensajes manuales si no se recoge con un orden comercial útil.",
+        "Sin etiquetar origen, sede, modalidad y etapa, es difícil entender qué contenido trae oportunidades de oficina, sala o flex con intención real."
+      ],
+      "losses": [
+        "Una persona interesada puede dejar la decisión para después si no encuentra una ruta clara entre los distintos espacios y sedes.",
+        "El equipo comercial puede invertir tiempo reconstruyendo necesidades básicas antes de poder orientar, cotizar o agendar una visita.",
+        "Sin seguimiento por sede y modalidad, una consulta con fecha futura puede enfriarse sin que el equipo tenga el contexto para retomar la conversación."
+      ],
+      "heatmapData": [
+        "Origen de cada consulta: Instagram, pauta, búsqueda, recomendación, alianza, sitio web u otros canales aprobados.",
+        "Ciudad, sede de interés, modalidad, tamaño de equipo, fecha, duración, tipo de uso, solicitud de visita y preguntas declaradas.",
+        "Cotización solicitada, visita agendada, propuesta enviada, oportunidad atendida, siguiente paso, conversión reportada y seguimiento recuperado."
+      ],
+      "campaigns": [
+        "Campañas por necesidad: oficina privada, puestos para equipo, sala de reuniones, zona flex u oficina virtual, con una primera pregunta que lleve a la ruta adecuada.",
+        "Campañas geolocalizadas por ciudad y sede para evitar que toda la demanda llegue al mismo chat sin contexto de ubicación.",
+        "Remarketing responsable para personas que iniciaron una cotización o visita sin completar el siguiente paso, con mensajes, datos y consentimiento validados por Tinkko."
+      ],
+      "deliverables": [
+        "Ruta conversacional desde Instagram, web y WhatsApp hacia cotización, visita, sala, flex u oficina virtual, con ciudad y necesidad como primera decisión.",
+        "Asistente inicial para capturar sede, modalidad, tamaño de equipo, fecha, duración, uso y urgencia antes de derivar al canal vigente.",
+        "Mensajes de seguimiento segmentados por sede y tipo de solución para oportunidades que no completan la cotización o la visita inicial.",
+        "Tablero de medición para identificar fuente, ciudad, sede, modalidad, solicitud, visita, propuesta y seguimiento con potencial comercial."
+      ],
+      "sources": [
+        "https://tinkko.com/",
+        "https://www.instagram.com/tinkkocoworking/"
+      ]
     }
   ]
 }
