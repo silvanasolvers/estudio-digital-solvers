@@ -1,5 +1,15 @@
 # Estudio Digital Solvers
 
+## Adórnate Accesorios — pedidos con contexto
+
+- [x] Basar el diagnóstico únicamente en la identidad visible de `@adornate71`: accesorios, joyas y mujer.
+- [x] Diseñar la ruta Instagram/WhatsApp para identificar pieza, ocasión, presupuesto y entrega antes de confirmar catálogo o pedido.
+- [ ] Validar localmente, publicar la ruta y comprobar la URL pública antes de entregar el DM.
+
+### Criterio de aceptación
+
+- No se atribuyen referencias, materiales, precios, inventario, envíos, medios de pago ni condiciones no verificadas. Esos datos se cargan y confirman únicamente después de validarlos con Adórnate.
+
 ## Cata Tours Medellín — reservas con contexto
 
 - [x] Verificar la oferta y los canales públicos de Cata Tours Medellín.

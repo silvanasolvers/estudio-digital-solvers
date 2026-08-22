@@ -44235,6 +44235,186 @@
         "https://catatoursmedellin.com/reserva-tour-medellin",
         "https://www.instagram.com/catatoursmedellin/"
       ]
+    },
+    {
+      "slug": "adornate-accesorios",
+      "company": "Adórnate Accesorios",
+      "instagram": "@adornate71",
+      "sector": "accesorios y joyería para mujer",
+      "city": "Canal digital · Instagram",
+      "tone": "femenino, elegante y cercano",
+      "theme": "default",
+      "brandMode": "standard",
+      "logoImage": "",
+      "heroImage": "",
+      "accent": "#B28A3E",
+      "accentRgb": "178, 138, 62",
+      "secondary": "#D8B56D",
+      "secondaryRgb": "216, 181, 109",
+      "brandDark": "#251F17",
+      "paper": "#FCFAF6",
+      "paperCard": "#FFFFFF",
+      "brandWash": "rgba(178, 138, 62, 0.14)",
+      "brandWash2": "rgba(216, 181, 109, 0.16)",
+      "alertLabel": "Oportunidad de venta",
+      "statusLabel": "Lectura preliminar",
+      "status": "Adórnate se presenta en Instagram como una marca de accesorios y joyas para mujer. La oportunidad es que una consulta por una pieza llegue con el detalle que permite recomendar, confirmar y cerrar un pedido, no solo con un “¿precio?”.",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Una identidad femenina y elegante que puede convertir cada detalle visual de Instagram en una conversación de compra más clara.",
+      "visualCueLabel": "Posible fricción",
+      "visualCue": "Desde un reel, historia o publicación la persona puede interesarse por una pieza, pero el equipo recibe mensajes sin referencia del producto, ocasión, presupuesto o forma de entrega.",
+      "conversionFocusLabel": "Foco",
+      "conversionFocus": "Instagram → pieza o categoría de interés → ocasión, presupuesto y entrega → catálogo/confirmación validada → pedido y seguimiento.",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "Adórnate bajo lupa",
+      "loaderSubtitle": "Revisando cómo transformar interés por una joya en un pedido con contexto desde Instagram y WhatsApp.",
+      "loaderCue1": "Pieza identificada",
+      "loaderCue2": "Pedido con contexto",
+      "heroStampTitle": "Adórnate",
+      "heroStampSubtitle": "Pieza + contexto + pedido",
+      "bannerKicker": "Hook comercial",
+      "bannerHook": "La joya gusta. El pedido se puede perder entre “¿cuánto vale?” y la pieza exacta.",
+      "bannerSubhook": "La oportunidad para Adórnate es convertir cada mensaje de Instagram o WhatsApp en una conversación guiada: identificar la pieza o categoría, saber si es para uso propio o regalo, entender presupuesto y entrega, y llevarla al siguiente paso que la marca valide para cerrar el pedido.",
+      "bannerBadge1": "Accesorios + joyas para mujer",
+      "bannerBadge2": "Instagram + WhatsApp + pedidos",
+      "openNode1Label": "Interés",
+      "openNode1Title": "¿Qué pieza vio o busca?",
+      "openNode2Label": "Contexto",
+      "openNode2Title": "Ocasión, presupuesto y entrega",
+      "openNode3Label": "Adórnate",
+      "openNode3Title": "Catálogo, confirmación y pedido validados",
+      "openNodeMetric": "De consulta a pedido",
+      "brandWorldTitle": "Adórnate ya tiene la estética que atrae. El siguiente paso es que cada interés llegue listo para comprar.",
+      "scrollTitle": "De “¿cuánto vale?” a una conversación que puede cerrar el pedido",
+      "diagnosisTitle": "Dónde puede enfriarse una venta antes de confirmarse",
+      "leadProblem": "En accesorios y joyería, una persona suele llegar desde un contenido visual con una pregunta corta: “¿precio?”, “¿tienes más?”, “¿es para regalo?” o “quiero uno”. Sin saber cuál pieza vio, qué categoría busca, para qué ocasión compra, qué presupuesto considera y qué necesita para recibirlo, el equipo debe reconstruir la intención entre mensajes dispersos antes de poder recomendar o cerrar.",
+      "opportunity": "Una ruta inicial breve puede identificar la pieza o categoría de interés, si es para uso propio o regalo, estilo, presupuesto y necesidad de entrega. Con catálogo, referencias, existencias, precios, medios de pago, envío, cambios y mensajes que Adórnate apruebe y mantenga actualizados, entrega la conversación al canal correcto para confirmar y cerrar. No inventa disponibilidad, valores, materiales, tiempos, coberturas ni condiciones.",
+      "proofLine": "Lectura preliminar del 22 de agosto de 2026 basada únicamente en el perfil de Instagram @adornate71 compartido para esta conversación, que se presenta como “Accesorios | Joyas | Mujer”. Antes de activar cualquier flujo, Adórnate valida catálogo, referencias, precios, inventario, materiales, medios de pago, entregas, cambios y mensajes aprobados.",
+      "audience": "Mujeres que buscan accesorios o joyas para uso propio, personas que quieren hacer un regalo y compradores que descubren una pieza desde Instagram y necesitan una recomendación, referencia o confirmación antes de pedir.",
+      "adAngle": "¿Viste una pieza que te gustó? Te ayudamos a encontrar la opción ideal y a avanzar con tu pedido.",
+      "whatsappCta": "Quiero activar la ruta de pedidos de Adórnate",
+      "heroCopy": "Adórnate puede convertir el interés que ya despierta en Instagram en pedidos mejor orientados: con la pieza correcta, la información que importa y un siguiente paso claro para el equipo y la clienta.",
+      "scrollIntro": "La primera conversación no tiene que listar todo el catálogo ni prometer una pieza sin confirmarla. Debe reconocer el interés, pedir los pocos datos que cambian la recomendación y entregar solo el siguiente paso que Adórnate haya validado.",
+      "experienceIntro": "No se trata de reemplazar la atención personal de Adórnate. Se trata de que el equipo reciba una solicitud más preparada para recomendar, confirmar y cerrar, sin volver a preguntar desde cero.",
+      "botTitle": "Asistente Adórnate demo: de la inspiración al pedido",
+      "botIntro": "Este demo muestra cómo una consulta puede organizarse por pieza, ocasión y presupuesto antes de pasar a catálogo, confirmación o conversación humana con Adórnate.",
+      "botAgentName": "Asistente Adórnate demo",
+      "botAgentRole": "catálogo, pedidos y seguimiento",
+      "botDemoTitle": "El equipo recibe una intención de compra lista para avanzar",
+      "botDemoBody": "La conversación puede llegar con referencia o categoría de interés, ocasión, estilo, presupuesto y necesidad de entrega, en vez de reconstruirlos a partir de mensajes dispersos.",
+      "botTrainingTitle": "Entrenado solo con información aprobada",
+      "botTrainingBody": "Catálogo, referencias, fotos, precios, inventario, materiales, medios de pago, entregas, cambios, responsables y mensajes se cargan únicamente después de validarlos y mantenerlos actualizados con Adórnate.",
+      "botOpening": "Hola, soy el asistente demo de Adórnate. Puedo mostrar cómo una consulta por accesorios o joyas se organiza por pieza, ocasión y presupuesto antes de que el equipo confirme catálogo, disponibilidad y pedido. Los valores, existencias, entregas y condiciones siempre los confirma Adórnate.",
+      "botPrompts": [
+        "Busco unos aretes",
+        "Es un regalo",
+        "¿Cuánto vale esta pieza?",
+        "Quiero hacer un pedido",
+        "¿Qué se puede medir?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["aretes", "anillo", "anillos", "collar", "cadena", "pulsera", "joya", "accesorio", "pieza"],
+          "answer": "El flujo puede pedir la referencia que vio, una captura o la categoría que busca, además de estilo y presupuesto. Luego muestra únicamente las opciones vigentes que Adórnate haya aprobado o deja la solicitud lista para recomendación humana."
+        },
+        {
+          "keywords": ["regalo", "cumple", "cumpleaños", "obsequio", "sorpresa"],
+          "answer": "Para un regalo, la conversación puede recoger para quién es, ocasión, estilo aproximado, presupuesto y fecha de entrega. Con eso, el equipo recibe una solicitud concreta para recomendar una pieza y confirmar las condiciones reales."
+        },
+        {
+          "keywords": ["precio", "vale", "cuánto", "cuanto", "disponible", "inventario", "material"],
+          "answer": "El asistente no inventa valores, existencias ni materiales. Identifica la pieza exacta o la necesidad y dirige al catálogo o al equipo con información vigente que Adórnate haya validado."
+        },
+        {
+          "keywords": ["pedido", "comprar", "pagar", "envío", "envio", "entrega", "recibir"],
+          "answer": "Para avanzar al pedido, el flujo puede dejar registrados la pieza o categoría, variante si aplica, datos de entrega y la información operativa necesaria. Adórnate confirma después disponibilidad, valor final, pago, entrega y condiciones autorizadas."
+        },
+        {
+          "keywords": ["mide", "datos", "instagram", "pauta", "campaña", "medir"],
+          "answer": "La operación puede medir el origen de la consulta, contenido o pieza de interés, categoría, rango de presupuesto, paso alcanzado, pedido iniciado, pedido confirmado y seguimiento. Así reconoce qué contenido convierte atención en venta, no solo en mensajes."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "La estética ya atrae atención",
+          "body": "Una marca clara de accesorios y joyas para mujer abre conversaciones con intención desde el contenido visual."
+        },
+        {
+          "label": "Canal",
+          "title": "Instagram abre la intención",
+          "body": "Una publicación, reel o historia puede despertar una compra, pero no siempre identifica la pieza ni el momento de compra."
+        },
+        {
+          "label": "Riesgo",
+          "title": "El pedido llega sin referencia",
+          "body": "Sin pieza, ocasión, presupuesto o entrega, el equipo debe hacer preguntas repetidas antes de recomendar o confirmar."
+        },
+        {
+          "label": "Oportunidad",
+          "title": "Una ruta breve hacia el pedido",
+          "body": "Un filtro conversacional orienta la elección y deja una solicitud con contexto para catálogo, confirmación, cobro o seguimiento."
+        }
+      ],
+      "experiencePath": [
+        "La persona descubre una pieza o categoría de Adórnate en Instagram, recomendación, pauta u otro canal autorizado",
+        "Indica la referencia o categoría de interés, ocasión, estilo, presupuesto y necesidad de entrega",
+        "Recibe solo el siguiente paso aprobado: catálogo, recomendación humana, confirmación de pedido o medio de pago autorizado",
+        "El equipo recibe una solicitud con contexto para validar condiciones y dar seguimiento si el pedido no se completa"
+      ],
+      "galleryImages": [],
+      "journey": [
+        {
+          "title": "La persona identifica la pieza o la intención",
+          "body": "Una pregunta corta ayuda a reconocer si vio una referencia, busca una categoría o necesita una recomendación para una ocasión específica."
+        },
+        {
+          "title": "La compra llega con contexto útil",
+          "body": "Ocasión, estilo, presupuesto y entrega se recogen antes de que el equipo tenga que buscar el contexto entre mensajes."
+        },
+        {
+          "title": "La confirmación conserva el criterio de la marca",
+          "body": "Adórnate mantiene el control sobre catálogo, precios, inventario, materiales, pagos, entregas, cambios y confirmación final."
+        },
+        {
+          "title": "El seguimiento recupera interés real",
+          "body": "Si una persona no termina el pedido, el equipo puede continuar con la pieza u ocasión de interés usando mensajes y consentimiento aprobados."
+        }
+      ],
+      "findings": [
+        "Adórnate se presenta en Instagram como una marca de accesorios y joyas para mujer bajo el perfil @adornate71.",
+        "En una compra guiada por contenido visual, identificar pronto la pieza, ocasión y presupuesto evita que la conversación empiece desde cero.",
+        "La oportunidad es convertir interés desde Instagram en una solicitud de pedido con contexto antes de validar catálogo, disponibilidad o pago."
+      ],
+      "siteIssues": [
+        "Una persona que escribe desde Instagram puede no saber cómo referenciar la pieza que vio ni qué información debe tener lista para pedir.",
+        "Cuando pieza, ocasión, presupuesto y entrega llegan por mensajes separados, el equipo debe reconstruir la intención antes de recomendar o confirmar.",
+        "Sin registrar interés y estado del pedido, es difícil saber qué contenido trae conversaciones que realmente terminan en venta."
+      ],
+      "losses": [
+        "Una compradora interesada puede aplazar la decisión si recibe una respuesta genérica en vez de una ruta clara hacia la pieza o categoría correcta.",
+        "El equipo puede invertir tiempo repitiendo preguntas que podrían llegar resueltas desde el primer mensaje.",
+        "Una intención real de compra puede quedar sin seguimiento si no conserva pieza, ocasión, presupuesto y estado del pedido."
+      ],
+      "heatmapData": [
+        "Origen de cada consulta: Instagram, WhatsApp, pauta, recomendación u otro canal autorizado.",
+        "Pieza o categoría de interés, ocasión, estilo, rango de presupuesto, necesidad de entrega y etapa del pedido.",
+        "Consulta recibida, catálogo o recomendación enviada, pedido iniciado, pago o confirmación enviados, pedido confirmado y seguimiento completado."
+      ],
+      "campaigns": [
+        "Mensajes de Instagram orientados por intención: pieza específica, accesorios para una ocasión o regalo, con una pregunta inicial que lleve al dato más útil para comprar.",
+        "Contenido que ayude a descubrir categorías, referencias o ideas de regalo y a iniciar un pedido, usando solo catálogo e información vigente aprobada por Adórnate.",
+        "Seguimiento responsable para quienes iniciaron una consulta y no continuaron, con la pieza u ocasión de interés como contexto y consentimiento validado."
+      ],
+      "deliverables": [
+        "Ruta conversacional para reconocer pieza o categoría, ocasión, estilo, presupuesto y entrega antes de pasar al catálogo o al equipo humano.",
+        "Asistente inicial entrenado con catálogo, referencias, precios, inventario, materiales, pagos, entregas, cambios y mensajes que Adórnate apruebe y mantenga vigentes.",
+        "Flujo de pedido conectado a los enlaces, pagos, responsables y reglas operativas que Adórnate defina.",
+        "Tablero de conversión para medir origen, interés, solicitud con contexto, pedido iniciado, confirmado y seguimiento."
+      ],
+      "sources": [
+        "https://www.instagram.com/adornate71/"
+      ]
     }
   ]
 }
