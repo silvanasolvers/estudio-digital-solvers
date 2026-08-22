@@ -4,11 +4,17 @@
 
 - [x] Basar el diagnóstico únicamente en la identidad visible de `@adornate71`: accesorios, joyas y mujer.
 - [x] Diseñar la ruta Instagram/WhatsApp para identificar pieza, ocasión, presupuesto y entrega antes de confirmar catálogo o pedido.
-- [ ] Validar localmente, publicar la ruta y comprobar la URL pública antes de entregar el DM.
+- [x] Validar localmente, publicar la ruta y comprobar la URL pública antes de entregar el DM.
 
 ### Criterio de aceptación
 
 - No se atribuyen referencias, materiales, precios, inventario, envíos, medios de pago ni condiciones no verificadas. Esos datos se cargan y confirman únicamente después de validarlos con Adórnate.
+
+### Revisión
+
+- Validación local: `npm run check` confirmó 387 estudios; la ruta y el JSON mostraron Adórnate, el hook y el asistente demo correctos.
+- Publicación: commit `078a6fa`; Dokploy `Xs2wl1L3Vb_w9P375RKkO` terminó en `done`.
+- Producción comprobada: `https://estudios-digitales.solversai.cloud/empresa/adornate-accesorios?v=078a6fa` respondió HTTP 200; el JSON y el DOM público contienen la empresa, el hook y el demo correctos.
 
 ## Cata Tours Medellín — reservas con contexto
 
