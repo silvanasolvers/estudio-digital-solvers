@@ -2602,6 +2602,21 @@
       align-self: start;
     }
 
+    /* Adórnate: the short introduction should begin with the diagnosis, not
+       be pinned to the bottom of a full-viewport hero. */
+    body[data-study="adornate-accesorios"] .hero {
+      min-height: auto;
+      align-items: start;
+      padding-top: clamp(126px, 13vh, 156px);
+      padding-bottom: clamp(52px, 6vw, 82px);
+    }
+
+    body[data-study="adornate-accesorios"] .hero-grid,
+    body[data-study="adornate-accesorios"] .hero-grid > div {
+      align-items: start;
+      align-self: start;
+    }
+
     body[data-brand-mode="texuno"] .phone-cta {
       width: 100%;
       white-space: normal;

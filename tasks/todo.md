@@ -15,6 +15,7 @@
 - Validación local: `npm run check` confirmó 387 estudios; la ruta y el JSON mostraron Adórnate, el hook y el asistente demo correctos.
 - Publicación: commit `078a6fa`; Dokploy `Xs2wl1L3Vb_w9P375RKkO` terminó en `done`.
 - Producción comprobada: `https://estudios-digitales.solversai.cloud/empresa/adornate-accesorios?v=078a6fa` respondió HTTP 200; el JSON y el DOM público contienen la empresa, el hook y el demo correctos.
+- Corrección visual solicitada por Valentina: la introducción y el panel de diagnóstico se anclan arriba en esta ruta; se elimina el vacío que aparecía al alinear una introducción corta al fondo de un hero de pantalla completa.
 
 ## Cata Tours Medellín — reservas con contexto
 
