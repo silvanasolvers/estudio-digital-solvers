@@ -4,11 +4,18 @@
 
 - [x] Verificar señales públicas del perfil y del dominio `smartdental.co`.
 - [x] Diseñar una ruta administrativa que convierta interés por diseño de sonrisa en solicitud de valoración, sin dar diagnóstico ni recomendar tratamientos por chat.
-- [ ] Validar localmente, publicar la ruta y comprobar la URL pública antes de entregar el correo.
+- [x] Validar localmente, publicar la ruta y comprobar la URL pública antes de entregar el correo.
 
 ### Criterio de aceptación
 
 - El estudio no promete resultados odontológicos, no determina tratamientos, no interpreta síntomas y no recolecta datos clínicos sensibles fuera del proceso autorizado. El dominio se describe con precisión: su URL pública redirige actualmente a una página de venta.
+
+### Revisión
+
+- Validación local: `npm run check` confirmó 388 estudios; Chromium local confirmó empresa, hook y asistente demo, en escritorio y móvil.
+- Publicación: commit `1b60170`; Dokploy `J4Y9xaEcGp6w6sBbumj3-` terminó en `done`.
+- Producción comprobada: `https://estudios-digitales.solversai.cloud/empresa/smart-dental-group-medellin?v=1b60170` respondió HTTP 200; el JSON público contiene Smart Dental Group, el hook y tres fuentes verificables.
+- Revisión visual: la portada usa un hero compacto, con la introducción y el diagnóstico alineados en la primera pantalla.
 
 ## Adórnate Accesorios — pedidos con contexto
 
