@@ -2617,6 +2617,21 @@
       align-self: start;
     }
 
+    /* Smart Dental: concise clinical-intake copy should share the first screen
+       with its diagnosis instead of leaving a decorative full-viewport gap. */
+    body[data-study="smart-dental-group-medellin"] .hero {
+      min-height: auto;
+      align-items: start;
+      padding-top: clamp(126px, 13vh, 156px);
+      padding-bottom: clamp(52px, 6vw, 82px);
+    }
+
+    body[data-study="smart-dental-group-medellin"] .hero-grid,
+    body[data-study="smart-dental-group-medellin"] .hero-grid > div {
+      align-items: start;
+      align-self: start;
+    }
+
     body[data-brand-mode="texuno"] .phone-cta {
       width: 100%;
       white-space: normal;

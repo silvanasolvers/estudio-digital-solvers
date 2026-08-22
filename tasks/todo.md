@@ -1,5 +1,15 @@
 # Estudio Digital Solvers
 
+## Smart Dental Group — valoraciones con contexto
+
+- [x] Verificar señales públicas del perfil y del dominio `smartdental.co`.
+- [x] Diseñar una ruta administrativa que convierta interés por diseño de sonrisa en solicitud de valoración, sin dar diagnóstico ni recomendar tratamientos por chat.
+- [ ] Validar localmente, publicar la ruta y comprobar la URL pública antes de entregar el correo.
+
+### Criterio de aceptación
+
+- El estudio no promete resultados odontológicos, no determina tratamientos, no interpreta síntomas y no recolecta datos clínicos sensibles fuera del proceso autorizado. El dominio se describe con precisión: su URL pública redirige actualmente a una página de venta.
+
 ## Adórnate Accesorios — pedidos con contexto
 
 - [x] Basar el diagnóstico únicamente en la identidad visible de `@adornate71`: accesorios, joyas y mujer.
