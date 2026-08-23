@@ -1,5 +1,15 @@
 # Estudio Digital Solvers
 
+## BOSKO Guatapé — reservas por intención
+
+- [x] Verificar la propuesta pública, canales y oferta visible de BOSKO.
+- [ ] Diseñar la ruta de conversión para estadía, pasadía, restaurante y experiencias sin inventar disponibilidad, tarifas ni políticas.
+- [ ] Validar el mini-estudio en local, publicar la ruta y comprobar el enlace público antes de entregar el correo.
+
+### Criterio de aceptación
+
+- El estudio reconoce que BOSKO ya tiene presencia web y una ruta de reserva; propone ordenar la intención y el seguimiento comercial, sin atribuir cupos, precios, condiciones, eventos ni resultados no verificados.
+
 ## Smart Dental Group — valoraciones con contexto
 
 - [x] Verificar señales públicas del perfil y del dominio `smartdental.co`.

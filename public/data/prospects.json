@@ -44597,6 +44597,189 @@
         "https://smartdental.co/",
         "https://smartdental.co/lander"
       ]
+    },
+    {
+      "slug": "bosko-guatape-reservas-experiencias",
+      "company": "BOSKO Guatapé",
+      "instagram": "@bosko_guatape",
+      "website": "https://bosko.com.co/",
+      "sector": "hospitalidad boutique, reservas y experiencias",
+      "city": "Guatapé, Antioquia",
+      "tone": "sereno, exclusivo, natural y preciso",
+      "theme": "default",
+      "brandMode": "standard",
+      "logoImage": "",
+      "heroImage": "",
+      "accent": "#B99558",
+      "accentRgb": "185, 149, 88",
+      "secondary": "#6E8B77",
+      "secondaryRgb": "110, 139, 119",
+      "brandDark": "#13251E",
+      "paper": "#F5F2EA",
+      "paperCard": "#FFFFFF",
+      "brandWash": "rgba(185, 149, 88, 0.14)",
+      "brandWash2": "rgba(110, 139, 119, 0.13)",
+      "alertLabel": "Oportunidad de reserva",
+      "statusLabel": "Lectura pública",
+      "status": "BOSKO ya transmite una experiencia de alto valor y cuenta con web, contacto y una ruta de reserva. La oportunidad no es generar más mensajes sin dirección: es saber desde el primer contacto si la persona busca hospedaje, pasadía, restaurante, spa o una experiencia, y llevarla al siguiente paso con el contexto que el equipo necesita para cerrar.",
+      "brandPersonalityLabel": "Fortaleza",
+      "brandPersonality": "Una experiencia boutique diferenciada: hábitat nativo, solo 10 habitaciones para dos personas, vista a la represa y una oferta que combina estadía, bienestar, gastronomía y actividades.",
+      "visualCueLabel": "Posible fricción",
+      "visualCue": "La propuesta reúne varias razones de visita. Cuando todas entran por el mismo chat como “quiero información”, el equipo debe descubrir manualmente qué busca la persona, para cuándo y qué opción aplica antes de poder orientar una reserva.",
+      "conversionFocusLabel": "Foco",
+      "conversionFocus": "Instagram, web o pauta → intención: estadía / pasadía / restaurante / bienestar o actividad → fecha, personas y motivo de visita → ruta de reserva o equipo correcto → seguimiento autorizado.",
+      "loaderLabel": "Preparando mini-estudio Solvers",
+      "loaderTitle": "BOSKO bajo lupa",
+      "loaderSubtitle": "Revisando cómo convertir una experiencia deseada en una solicitud de reserva clara, priorizada y medible.",
+      "loaderCue1": "Intención identificada",
+      "loaderCue2": "Reserva con contexto",
+      "heroStampTitle": "BOSKO",
+      "heroStampSubtitle": "Deseo + contexto + reserva",
+      "bannerKicker": "Hook comercial",
+      "bannerHook": "Una experiencia tan completa no debería empezar con un mensaje sin contexto.",
+      "bannerSubhook": "BOSKO ya inspira escapadas de alto valor. La oportunidad es que, antes de llegar a reserva o WhatsApp, cada persona declare qué quiere vivir, para qué fecha y con quién: una estadía, un pasadía, Manto, spa o una experiencia. Así el equipo puede responder con el siguiente paso correcto y no reconstruir la intención entre mensajes.",
+      "bannerBadge1": "Guatapé · hospitalidad boutique",
+      "bannerBadge2": "Web + Instagram + reservas",
+      "openNode1Label": "Deseo",
+      "openNode1Title": "¿Qué experiencia busca vivir?",
+      "openNode2Label": "Contexto",
+      "openNode2Title": "Fecha, personas y motivo de viaje",
+      "openNode3Label": "BOSKO",
+      "openNode3Title": "Reserva o equipo con la intención clara",
+      "openNodeMetric": "De inspiración a reserva",
+      "brandWorldTitle": "BOSKO ya tiene el deseo. El siguiente sistema es reconocer la intención exacta antes de que se enfríe.",
+      "scrollTitle": "De una escapada soñada a una reserva que puede avanzar",
+      "diagnosisTitle": "Dónde puede perderse intención antes de confirmar",
+      "leadProblem": "Una persona puede descubrir BOSKO por una habitación, una vista, un pasadía, Manto, spa o una actividad y escribir simplemente “quiero información”. Sin saber qué experiencia quiere, fecha tentativa, número de personas, número de noches cuando aplica, motivo de visita y la duda principal, el equipo debe reconstruir la intención antes de indicar el canal o siguiente paso correcto. En una experiencia boutique, esa demora también diluye una conversación de alto valor.",
+      "opportunity": "Una capa inicial de atención puede clasificar la intención entre estadía, pasadía, restaurante, spa o actividad; recopilar solo fecha tentativa, personas, noches si aplica, motivo de visita y pregunta principal; y dirigir a la ruta de reserva o al responsable que BOSKO valide. La información de disponibilidad, categorías, tarifas, inclusión, condiciones, horarios, pagos y políticas se conecta únicamente desde las fuentes que BOSKO apruebe y mantenga actualizadas.",
+      "proofLine": "Lectura pública del 23 de agosto de 2026 basada en bosko.com.co y @bosko_guatape. La web presenta una propuesta de hotel boutique en Guatapé con 10 habitaciones para dos personas, habitaciones Presidential, Golden y Deluxe, además de pasadía, restaurante Manto, spa, Sky Pools y actividades como kayak/SUP y tours. La página enlaza una ruta de reserva y publica contacto directo. Antes de activar cualquier flujo, BOSKO valida disponibilidad, tarifas, inclusiones, horarios, condiciones, responsables y mensajes aprobados.",
+      "audience": "Parejas y viajeros que descubren BOSKO desde Instagram, búsqueda, recomendación o pauta y necesitan escoger entre una estadía boutique, pasadía, propuesta gastronómica, bienestar o una experiencia en Guatapé antes de reservar.",
+      "adAngle": "¿Planeas una escapada a Guatapé? Encuentra la experiencia BOSKO que corresponde a tu fecha y tipo de viaje.",
+      "whatsappCta": "Quiero ordenar las reservas y experiencias de BOSKO",
+      "heroCopy": "BOSKO puede transformar el interés que ya despierta en solicitudes de reserva con mejor contexto: la experiencia deseada, fecha, personas y motivo de viaje, listos para que el equipo confirme el siguiente paso con criterio de marca.",
+      "scrollIntro": "La primera conversación no necesita prometer cupo ni responder todo el catálogo. Debe reconocer la intención, pedir los pocos datos que cambian la ruta y entregar una solicitud clara para que BOSKO confirme con información vigente.",
+      "experienceIntro": "No se trata de reemplazar la hospitalidad de BOSKO. Se trata de que la conversación inicial llegue más preparada al equipo: para responder más rápido, proteger la experiencia premium y recuperar interés si la reserva no se completa.",
+      "botTitle": "Concierge BOSKO demo: de la inspiración a la reserva",
+      "botIntro": "Este demo muestra cómo un primer contacto puede distinguir la experiencia buscada y recoger el contexto esencial antes de pasar a la reserva o a una conversación humana autorizada por BOSKO.",
+      "botAgentName": "Concierge BOSKO demo",
+      "botAgentRole": "estadías, pasadías y experiencias",
+      "botDemoTitle": "El equipo recibe intención hotelera preparada",
+      "botDemoBody": "La consulta puede llegar con experiencia, fecha tentativa, personas, noches cuando aplica, motivo de viaje y duda principal; no como un mensaje genérico que obliga a reconstruir la reserva desde cero.",
+      "botTrainingTitle": "Entrenado solo con información vigente de BOSKO",
+      "botTrainingBody": "Habitaciones, disponibilidad, tarifas, inclusiones, horarios, pasadías, restaurante, spa, actividades, políticas, pagos, responsables, enlaces de reserva y mensajes se conectan únicamente tras validarlos y mantenerlos actualizados con BOSKO.",
+      "botOpening": "Hola, soy el concierge demo de BOSKO. Puedo mostrar cómo una consulta por estadía, pasadía, restaurante, spa o experiencia se organiza por intención y fecha antes de que el equipo confirme disponibilidad, tarifas, condiciones o el siguiente paso autorizado.",
+      "botPrompts": [
+        "Quiero una estadía",
+        "Me interesa un pasadía",
+        "Quiero saber del spa",
+        "Busco restaurante o Manto",
+        "¿Qué se puede medir?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["estadía", "estadia", "habitación", "habitacion", "mushroom", "noche", "reservar", "reserva"],
+          "answer": "Para una estadía, el flujo puede preguntar fecha tentativa, número de noches, personas, motivo de viaje y preferencia general. Luego entrega la consulta a la ruta de reserva o al equipo para que BOSKO confirme categoría, disponibilidad, tarifa, inclusiones y condiciones vigentes."
+        },
+        {
+          "keywords": ["pasadía", "pasadia", "día", "dia", "skypool", "sky pool", "piscina"],
+          "answer": "Para un pasadía, puede identificar fecha, personas, motivo de visita y dudas principales. El equipo confirma después disponibilidad, horario, inclusiones, condiciones y el paso de reserva que BOSKO tenga autorizado."
+        },
+        {
+          "keywords": ["spa", "masaje", "masajes", "bienestar", "relajación", "relajacion"],
+          "answer": "El concierge puede reconocer el interés por bienestar y asociarlo con la fecha y el tipo de visita. No inventa tratamientos, cupos, duración ni tarifas: entrega el contexto a la información vigente o al equipo autorizado por BOSKO."
+        },
+        {
+          "keywords": ["restaurante", "manto", "comida", "cena", "almuerzo", "gastronomía", "gastronomia"],
+          "answer": "La conversación puede distinguir si la persona busca la propuesta gastronómica, recoger fecha, personas y pregunta principal, y llevarla al canal que BOSKO valide. Disponibilidad, menú, horarios y condiciones siempre se confirman con información vigente de la marca."
+        },
+        {
+          "keywords": ["mide", "datos", "instagram", "pauta", "campaña", "campana", "medir"],
+          "answer": "La operación puede medir origen de la consulta, contenido o experiencia de interés, fecha solicitada, personas, noches cuando aplica, paso alcanzado, reserva iniciada, reserva confirmada y seguimiento. Así sabe qué deseo se convierte en reserva, no solo qué publicación obtiene atención."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "Experiencia boutique con activos claros",
+          "body": "BOSKO combina hospedaje, naturaleza, bienestar, gastronomía y experiencias en un solo destino de alto valor."
+        },
+        {
+          "label": "Canal",
+          "title": "La inspiración llega por más de una puerta",
+          "body": "Una persona puede entrar por una habitación, una vista, un pasadía, Manto, spa o una actividad; cada intención necesita una ruta distinta."
+        },
+        {
+          "label": "Riesgo",
+          "title": "El chat recibe solicitudes demasiado abiertas",
+          "body": "Sin experiencia, fecha y tipo de visita, el equipo debe volver a preguntar para poder orientar una reserva con precisión."
+        },
+        {
+          "label": "Oportunidad",
+          "title": "Un concierge que ordena el primer paso",
+          "body": "Una capa conversacional reconoce intención, recoge contexto y entrega cada solicitud a reserva o al responsable correcto."
+        }
+      ],
+      "experiencePath": [
+        "La persona descubre BOSKO por Instagram, web, pauta, recomendación u otro canal y expresa interés por una escapada o experiencia",
+        "Indica si busca estadía, pasadía, restaurante, spa o actividad, junto con fecha tentativa, personas, noches si aplica y motivo de visita",
+        "Recibe solo el siguiente paso que BOSKO haya validado: ruta de reserva, información vigente o conversación con el equipo adecuado",
+        "El equipo recibe una intención con contexto para confirmar condiciones y continuar el seguimiento autorizado si la reserva no se completa"
+      ],
+      "galleryImages": [],
+      "journey": [
+        {
+          "title": "El deseo se identifica antes de responder",
+          "body": "Una pregunta inicial separa estadía, pasadía, gastronomía, bienestar o actividad; no todas las consultas deben seguir el mismo camino."
+        },
+        {
+          "title": "La reserva llega con el contexto que cambia la decisión",
+          "body": "Fecha tentativa, personas, noches cuando aplica, motivo de viaje y duda principal se recogen antes de escalar la conversación al equipo."
+        },
+        {
+          "title": "BOSKO conserva el control de su experiencia",
+          "body": "La marca confirma disponibilidad, categoría, tarifas, inclusiones, horarios, condiciones, pagos y reserva final desde información vigente y canales autorizados."
+        },
+        {
+          "title": "El seguimiento cuida una intención de alto valor",
+          "body": "Cuando una persona no completa la reserva, el equipo puede continuar con la experiencia y fecha de interés como contexto, con consentimiento y mensajes aprobados."
+        }
+      ],
+      "findings": [
+        "La web oficial de BOSKO presenta un hotel boutique en Guatapé con 10 habitaciones para dos personas, inmerso en bosque nativo y cerca de la Piedra del Peñol y del pueblo.",
+        "La propuesta pública reúne estadía en habitaciones Presidential, Golden y Deluxe, además de pasadía, restaurante Manto, spa, Sky Pools, kayak/SUP y tours.",
+        "BOSKO ya incluye una ruta de reserva y contacto directo; la oportunidad es que el canal reciba la intención diferenciada antes de llegar al equipo o al siguiente paso de reserva."
+      ],
+      "siteIssues": [
+        "Una experiencia con varias puertas de entrada puede dejar a la persona sin saber si debe preguntar por habitación, pasadía, gastronomía, spa o actividad.",
+        "Cuando fecha, personas, noches y tipo de experiencia llegan en mensajes separados, el equipo debe reconstruir la solicitud antes de poder orientar con precisión.",
+        "Sin registrar intención y etapa de reserva, es difícil distinguir qué contenido atrae curiosidad y cuál genera reservas o solicitudes de alto valor."
+      ],
+      "losses": [
+        "Una persona interesada puede posponer la reserva si no encuentra rápido la ruta que corresponde a su plan y fecha.",
+        "El equipo puede invertir tiempo repitiendo preguntas que podrían llegar resueltas desde el primer contacto.",
+        "Una intención de alto valor puede enfriarse sin seguimiento si no se conserva la experiencia, fecha y paso alcanzado."
+      ],
+      "heatmapData": [
+        "Origen de cada consulta: Instagram, web, pauta, recomendación, búsqueda u otro canal autorizado.",
+        "Experiencia de interés, fecha tentativa, personas, noches cuando aplica, motivo de visita, duda principal y etapa de reserva.",
+        "Consulta recibida, ruta de reserva o equipo entregado, reserva iniciada, reserva confirmada y seguimiento completado, con criterios de datos y consentimiento validados por BOSKO."
+      ],
+      "campaigns": [
+        "Contenido y anuncios por intención: escapada boutique, pasadía, propuesta gastronómica, bienestar o actividades, cada uno con una entrada que pida el dato que más ayuda a orientar la reserva.",
+        "Ruta de captura que lleve a fecha y tipo de experiencia antes de mostrar o escalar el siguiente paso, usando solo información vigente aprobada por BOSKO.",
+        "Seguimiento responsable para solicitudes que iniciaron una ruta de reserva y no continuaron, con la experiencia y fecha de interés como contexto."
+      ],
+      "deliverables": [
+        "Ruta conversacional para distinguir estadía, pasadía, restaurante, spa o actividad, y recoger fecha, personas, noches cuando aplica, motivo de visita y duda principal.",
+        "Concierge inicial entrenado con habitaciones, disponibilidad, tarifas, inclusiones, horarios, pasadías, restaurante, bienestar, actividades, políticas y mensajes que BOSKO apruebe y mantenga vigentes.",
+        "Conexión a rutas de reserva, responsables y reglas operativas que BOSKO defina, sin sustituir la confirmación final del equipo.",
+        "Tablero de conversión para medir fuente, intención, solicitud preparada, reserva iniciada, reserva confirmada y seguimiento."
+      ],
+      "sources": [
+        "https://bosko.com.co/",
+        "https://bosko.com.co/reservar/",
+        "https://www.instagram.com/bosko_guatape/"
+      ]
     }
   ]
 }
