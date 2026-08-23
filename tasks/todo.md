@@ -3,12 +3,19 @@
 ## BOSKO Guatapé — reservas por intención
 
 - [x] Verificar la propuesta pública, canales y oferta visible de BOSKO.
-- [ ] Diseñar la ruta de conversión para estadía, pasadía, restaurante y experiencias sin inventar disponibilidad, tarifas ni políticas.
-- [ ] Validar el mini-estudio en local, publicar la ruta y comprobar el enlace público antes de entregar el correo.
+- [x] Diseñar la ruta de conversión para estadía, pasadía, restaurante y experiencias sin inventar disponibilidad, tarifas ni políticas.
+- [x] Validar el mini-estudio en local, publicar la ruta y comprobar el enlace público antes de entregar el correo.
 
 ### Criterio de aceptación
 
 - El estudio reconoce que BOSKO ya tiene presencia web y una ruta de reserva; propone ordenar la intención y el seguimiento comercial, sin atribuir cupos, precios, condiciones, eventos ni resultados no verificados.
+
+### Revisión
+
+- Fuentes públicas: `bosko.com.co`, su ruta de reserva y `@bosko_guatape`. El estudio se limita a la oferta visible: hospedaje boutique, pasadía, Manto, spa, Sky Pools y actividades; disponibilidad, tarifas, horarios, inclusiones y condiciones requieren validación de BOSKO.
+- Validación local: `npm run check` confirmó 389 estudios; la ruta local y el JSON expusieron BOSKO, el hook, formulario y `Concierge BOSKO demo`.
+- Publicación: commit `bf65c17`; los despliegues `BjFQTG6DFxxXj7Kh9Mx_O` y `z7AnCP3rEhpTc33FaPgH_` terminaron en `done`.
+- Producción comprobada: `https://estudios-digitales.solversai.cloud/empresa/bosko-guatape-reservas-experiencias` y el JSON público respondieron HTTP 200. La página renderizó el título, hook, formulario y demo correctos; a 1440 × 900 y 390 × 844 no hubo desbordamiento horizontal.
 
 ## Smart Dental Group — valoraciones con contexto
 
