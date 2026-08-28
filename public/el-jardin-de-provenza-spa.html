@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Lectura de conversión de reservas para El Jardín de Provenza Spa por Solvers.">
+  <title>El Jardín de Provenza Spa · Reservas con contexto | Solvers</title>
+  <style>
+    @font-face { font-family: Archivo; src: url("/brand/Archivo-Variable.ttf") format("truetype"); font-display: swap; }
+    @font-face { font-family: "JetBrains Mono"; src: url("/brand/JetBrainsMono-Variable.ttf") format("truetype"); font-display: swap; }
+
+    :root {
+      --graphite: #131512;
+      --moss: #1D201A;
+      --bone: #EDEFE8;
+      --muted: #A8AEA1;
+      --line: #42483E;
+      --lime: #B4FF39;
+      --coral: #FF6B4A;
+    }
+
+    * { box-sizing: border-box; }
+    html { background: var(--graphite); }
+    body { min-width: 320px; margin: 0; background: var(--graphite); color: var(--bone); font-family: Archivo, Arial, sans-serif; line-height: 1.52; }
+    img { display: block; max-width: 100%; }
+    .wrap { width: min(1160px, calc(100% - 40px)); margin: 0 auto; }
+    h1, h2, h3, p { margin-top: 0; }
+    .mono, .eyebrow, .tag, .index, .signal, .cta-code, .footer-note { font-family: "JetBrains Mono", monospace; font-size: 12px; font-weight: 700; letter-spacing: .075em; text-transform: uppercase; }
+
+    .topbar { display: flex; min-height: 76px; align-items: center; justify-content: space-between; gap: 16px; border-bottom: 1px solid var(--line); }
+    .brand-lockup { display: inline-flex; align-items: center; gap: 10px; min-width: 0; }
+    .brand-eyes { width: 44px; height: 28px; object-fit: contain; }
+    .brand-wordmark { width: 102px; height: 26px; object-fit: contain; object-position: left center; }
+    .tag, .eyebrow { color: var(--muted); }
+    .tag { max-width: 340px; text-align: right; }
+
+    .hero { position: relative; display: grid; grid-template-columns: minmax(0, 1.17fr) minmax(270px, .83fr); gap: clamp(32px, 7vw, 112px); padding: clamp(66px, 10vw, 130px) 0 clamp(60px, 8vw, 104px); overflow: hidden; border-bottom: 1px solid var(--line); }
+    .hero::after { position: absolute; top: 0; right: 7%; width: 1px; height: 100%; background: var(--line); content: ""; opacity: .7; }
+    .hero-copy, .hero-aside { position: relative; z-index: 1; }
+    h1 { max-width: 825px; margin: 16px 0 26px; font-size: clamp(48px, 7.4vw, 88px); font-weight: 900; letter-spacing: -.068em; line-height: .89; text-transform: uppercase; }
+    h1 em { color: var(--lime); font-style: normal; }
+    .lede { max-width: 650px; margin-bottom: 0; font-size: clamp(18px, 2.05vw, 23px); line-height: 1.36; }
+
+    .study-stamp { align-self: end; border: 1px solid var(--line); background: var(--moss); }
+    .study-stamp header { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 16px 18px; border-bottom: 1px solid var(--line); }
+    .signal { display: flex; align-items: center; gap: 8px; color: var(--lime); }
+    .signal::before { width: 8px; height: 8px; flex: 0 0 auto; border-radius: 50%; background: var(--lime); content: ""; }
+    .stamp-body { padding: 25px 22px 24px; }
+    .stamp-body b { display: block; max-width: 310px; font-size: clamp(22px, 2.7vw, 31px); letter-spacing: -.04em; line-height: 1.02; }
+    .stamp-body p { margin: 17px 0 0; color: var(--muted); }
+    .stamp-points { display: grid; grid-template-columns: 1fr 1fr; margin-top: 26px; border-top: 1px solid var(--line); }
+    .stamp-points div { padding: 15px 17px; color: var(--bone); font-family: "JetBrains Mono", monospace; font-size: 11px; font-weight: 700; letter-spacing: .04em; text-transform: uppercase; }
+    .stamp-points div + div { border-left: 1px solid var(--line); color: var(--lime); }
+
+    .section { padding: clamp(58px, 8vw, 108px) 0; border-bottom: 1px solid var(--line); }
+    .section-grid { display: grid; grid-template-columns: minmax(220px, .55fr) minmax(0, 1.45fr); gap: clamp(28px, 7vw, 108px); }
+    h2 { margin: 14px 0 0; font-size: clamp(31px, 4.55vw, 52px); font-weight: 900; letter-spacing: -.052em; line-height: .96; text-transform: uppercase; }
+    .section-intro { max-width: 720px; margin-bottom: 0; font-size: clamp(18px, 2vw, 22px); line-height: 1.4; }
+    .pain-grid { display: grid; grid-template-columns: repeat(3, 1fr); margin-top: 36px; border: 1px solid var(--line); }
+    .pain { min-height: 252px; padding: 23px; background: var(--graphite); }
+    .pain + .pain { border-left: 1px solid var(--line); }
+    .index { color: var(--coral); }
+    .pain h3, .solution-card h3 { margin: 41px 0 10px; font-size: 21px; letter-spacing: -.025em; line-height: 1.03; }
+    .pain p, .solution-card p { margin-bottom: 0; color: var(--muted); }
+    .reading-note { margin: 28px 0 0; padding: 18px 20px; border-left: 2px solid var(--lime); background: var(--moss); color: var(--bone); font-size: 16px; }
+
+    .agent-title { color: var(--lime); }
+    .solution-panel { margin-top: 36px; border: 1px solid var(--line); background: var(--moss); }
+    .solution-head { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 24px; align-items: end; padding: 26px 25px; border-bottom: 1px solid var(--line); }
+    .solution-head b { display: block; max-width: 650px; font-size: clamp(24px, 3vw, 35px); letter-spacing: -.045em; line-height: 1.02; }
+    .solution-head .signal { align-self: start; white-space: nowrap; }
+    .solution-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1px; background: var(--line); }
+    .solution-card { min-height: 241px; padding: 24px; background: var(--moss); }
+    .solution-card .index { color: var(--muted); }
+    .solution-card h3 { margin-top: 38px; }
+    .architecture { display: grid; grid-template-columns: repeat(5, 1fr); border-top: 1px solid var(--line); }
+    .architecture div { padding: 15px 13px; color: var(--muted); font-family: "JetBrains Mono", monospace; font-size: 10px; font-weight: 700; letter-spacing: .025em; line-height: 1.35; text-align: center; text-transform: uppercase; }
+    .architecture div + div { border-left: 1px solid var(--line); }
+    .architecture div:nth-child(2), .architecture div:nth-child(4) { color: var(--lime); }
+
+    .cta { padding: clamp(64px, 10vw, 130px) 0; }
+    .cta-box { position: relative; overflow: hidden; border: 1px solid var(--line); background: var(--moss); padding: clamp(30px, 6vw, 62px); }
+    .cta-box::before { position: absolute; right: clamp(20px, 6vw, 65px); bottom: -65px; color: var(--line); font-family: Archivo, sans-serif; font-size: clamp(160px, 25vw, 340px); font-weight: 900; letter-spacing: -.13em; line-height: 1; content: "01"; }
+    .cta-copy { position: relative; z-index: 1; }
+    .cta h2 { max-width: 810px; margin-bottom: 24px; font-size: clamp(39px, 6vw, 70px); }
+    .cta p { max-width: 670px; margin-bottom: 29px; color: var(--muted); font-size: clamp(17px, 2vw, 21px); }
+    .cta-code { display: inline-block; max-width: 100%; padding: 15px 17px; color: var(--graphite); background: var(--lime); letter-spacing: .025em; line-height: 1.5; }
+    footer { border-top: 1px solid var(--line); padding: 28px 0 46px; }
+    .footer-inner { display: flex; align-items: center; justify-content: space-between; gap: 20px; }
+    .footer-note { color: var(--muted); letter-spacing: .025em; text-transform: none; }
+
+    @media (max-width: 800px) {
+      .wrap { width: min(100% - 28px, 1160px); }
+      .topbar { min-height: 64px; }
+      .brand-eyes { width: 38px; height: 24px; }
+      .brand-wordmark { width: 86px; height: 23px; }
+      .tag { max-width: 170px; font-size: 9px; }
+      .hero, .section-grid { grid-template-columns: 1fr; }
+      .hero { gap: 37px; padding-top: 66px; }
+      .hero::after { right: 14px; }
+      .hero-aside { max-width: 560px; }
+      .pain-grid, .solution-grid { grid-template-columns: 1fr; }
+      .pain + .pain { border-top: 1px solid var(--line); border-left: 0; }
+      .pain, .solution-card { min-height: auto; }
+      .solution-head { grid-template-columns: 1fr; }
+      .architecture { grid-template-columns: 1fr; }
+      .architecture div { padding: 12px 15px; text-align: left; }
+      .architecture div + div { border-top: 1px solid var(--line); border-left: 0; }
+      .footer-inner { align-items: flex-start; flex-direction: column; }
+    }
+  </style>
+</head>
+<body>
+  <header class="wrap topbar">
+    <div class="brand-lockup" aria-label="Solvers">
+      <img class="brand-eyes" src="/brand/Solvers_Logo_08_Eyes_White_Transparent.png" alt="">
+      <img class="brand-wordmark" src="/brand/Solvers_Logo_08_Wordmark_White.svg" alt="Solvers">
+    </div>
+    <div class="tag">Lectura de conversión · El Jardín de Provenza Spa</div>
+  </header>
+
+  <main>
+    <section class="wrap hero" aria-labelledby="study-title">
+      <div class="hero-copy">
+        <div class="eyebrow">Estudio express · reservas y conversión</div>
+        <h1>El bienestar no debería <em>enfriarse entre mensajes.</em></h1>
+        <p class="lede">Cuando alguien pregunta por un masaje, un facial o un plan para dos, ya hay una intención. El siguiente paso debe acercarla a una cita con contexto, sin obligarla a empezar de cero.</p>
+      </div>
+
+      <aside class="hero-aside study-stamp" aria-label="Lectura de oportunidad para El Jardín de Provenza Spa">
+        <header>
+          <div class="eyebrow">El Jardín de Provenza</div>
+          <div class="signal">Lectura activa</div>
+        </header>
+        <div class="stamp-body">
+          <b>La siguiente etapa no es responder más. Es abrir una ruta clara hacia la cita.</b>
+          <p>Partimos de una señal pública: El Jardín muestra experiencias de bienestar y agendamiento. Una conversación inicial con datos mínimos puede preparar mejor la confirmación del equipo.</p>
+          <div class="stamp-points">
+            <div>Diagnóstico<br>3 fricciones</div>
+            <div>Palanca<br>ruta de reserva</div>
+          </div>
+        </div>
+      </aside>
+    </section>
+
+    <section class="section">
+      <div class="wrap section-grid">
+        <div>
+          <div class="eyebrow">Dónde se puede perder una cita</div>
+          <h2>Tres fricciones entre el primer mensaje y una reserva confirmable.</h2>
+        </div>
+        <div>
+          <p class="section-intro">No se trata de asumir que la atención falla. Se trata de reconocer que una consulta de bienestar necesita contexto para que el equipo pueda orientar y validar el siguiente paso con precisión.</p>
+          <div class="pain-grid" aria-label="Tres posibles fricciones de reserva">
+            <article class="pain">
+              <div class="index">01 · ENTRADA</div>
+              <h3>La intención llega, pero todavía no es una solicitud de cita.</h3>
+              <p>“Quiero un masaje” o “¿qué planes tienen?” abre una conversación. Sin servicio, fecha, personas y horario, la asesora debe reconstruir lo básico antes de revisar opciones vigentes.</p>
+            </article>
+            <article class="pain">
+              <div class="index">02 · RESPUESTA</div>
+              <h3>La calma que promete la marca puede depender de varios mensajes.</h3>
+              <p>Una persona puede preguntar por masaje terapéutico, facial, maderoterapia o un plan compartido. Cada entrada necesita una primera pregunta distinta para no dejar la decisión en pausa.</p>
+            </article>
+            <article class="pain">
+              <div class="index">03 · SEÑALES</div>
+              <h3>Las consultas que no se concretan dejan información sin ordenar.</h3>
+              <p>Servicios buscados, fechas tentativas y número de personas pueden orientar contenido y seguimiento autorizado. Sin una ruta, esas señales quedan repartidas entre conversaciones.</p>
+            </article>
+          </div>
+          <p class="reading-note">La oportunidad no es instalar otro chatbot. Es hacer visible una ruta: intención → servicio, fecha y personas → validación humana → seguimiento autorizado.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="wrap section-grid">
+        <div>
+          <div class="eyebrow">La ruta que puede ordenar las reservas</div>
+          <h2 class="agent-title">Una anfitriona digital hecha para El Jardín.</h2>
+        </div>
+        <div>
+          <p class="section-intro">Un sistema entrenado con la información que El Jardín apruebe y mantenga vigente. Atiende la primera intención, reúne lo indispensable y deja al equipo las conversaciones que requieren confirmación y cuidado humano.</p>
+          <div class="solution-panel" aria-label="Alcance de la anfitriona digital de reservas">
+            <div class="solution-head">
+              <div>
+                <div class="eyebrow">Anfitriona digital de reservas</div>
+                <b>De “quiero reservar” a una solicitud con servicio, fecha, personas y contexto.</b>
+              </div>
+              <div class="signal">Diseño a medida</div>
+            </div>
+            <div class="solution-grid">
+              <article class="solution-card">
+                <div class="index">MÓDULO 01</div>
+                <h3>Convierte Instagram y WhatsApp en una entrada de reserva.</h3>
+                <p>Guía la primera consulta desde el canal que El Jardín priorice y solicita la información mínima para evitar mensajes de ida y vuelta antes de orientar la cita.</p>
+              </article>
+              <article class="solution-card">
+                <div class="index">MÓDULO 02</div>
+                <h3>Reconoce la experiencia detrás de cada pregunta.</h3>
+                <p>Distingue masaje, facial, maderoterapia, plan para dos u otra intención definida por el spa; no recomienda ni confirma condiciones clínicas, tarifas o cupos.</p>
+              </article>
+              <article class="solution-card">
+                <div class="index">MÓDULO 03</div>
+                <h3>Entrega una solicitud preparada y señales útiles al equipo.</h3>
+                <p>Deja cada conversación con un próximo paso y contexto. El equipo conserva la validación final de duración, disponibilidad, condiciones, abonos y reserva.</p>
+              </article>
+            </div>
+            <div class="architecture" aria-label="Ruta de una reserva">
+              <div>Instagram + WhatsApp</div>
+              <div>Anfitriona</div>
+              <div>Servicio + fecha + personas</div>
+              <div>Validación humana</div>
+              <div>Citas + señales</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="wrap cta">
+      <div class="cta-box">
+        <div class="cta-copy">
+          <div class="eyebrow">Siguiente paso</div>
+          <h2>Si esta lectura les resuena, diseñemos la primera ruta de reserva.</h2>
+          <p>Respondan este mismo chat con <strong>RESERVAS</strong> y les mostramos cómo se vería el flujo aplicado a las conversaciones reales de El Jardín.</p>
+          <div class="cta-code">RESPONDER: RESERVAS</div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap footer-inner">
+      <div class="brand-lockup" aria-label="Solvers">
+        <img class="brand-eyes" src="/brand/Solvers_Logo_08_Eyes_White_Transparent.png" alt="">
+        <img class="brand-wordmark" src="/brand/Solvers_Logo_08_Wordmark_White.svg" alt="Solvers">
+      </div>
+      <div class="footer-note">Sistemas que convierten atención en oportunidades.</div>
+    </div>
+  </footer>
+</body>
+</html>

@@ -5,6 +5,9 @@ const path = require("node:path");
 const root = path.join(__dirname, "public");
 const leadStorePath = path.join(__dirname, "data", "study-leads.jsonl");
 const port = Number(process.env.PORT || 3000);
+const routeFiles = new Map([
+  ["/empresa/el-jardin-de-provenza-spa", "el-jardin-de-provenza-spa.html"]
+]);
 
 const types = {
   ".html": "text/html; charset=utf-8",
@@ -14,7 +17,8 @@ const types = {
   ".png": "image/png",
   ".jpg": "image/jpeg",
   ".jpeg": "image/jpeg",
-  ".svg": "image/svg+xml; charset=utf-8"
+  ".svg": "image/svg+xml; charset=utf-8",
+  ".ttf": "font/ttf"
 };
 
 function send(res, status, body, type = "text/plain; charset=utf-8") {
@@ -150,7 +154,8 @@ const server = http.createServer(async (req, res) => {
     return;
   }
 
-  const fullPath = resolveFile(req.url || "/");
+  const routeFile = routeFiles.get(requestUrl.pathname);
+  const fullPath = routeFile ? path.join(root, routeFile) : resolveFile(req.url || "/");
   if (!fullPath) {
     send(res, 403, "Forbidden");
     return;

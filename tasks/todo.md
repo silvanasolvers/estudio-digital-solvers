@@ -1,5 +1,16 @@
 # Estudio Digital Solvers
 
+## El Jardín de Provenza Spa — corrección al estándar corto Solvers
+
+- [x] Identificar que la ruta publicada usa la plantilla histórica y no el formato corto vigente.
+- [x] Definir la corrección: tres dolores de cabeza específicos, una anfitriona digital y cierre por Instagram, usando Solvers Acid y el logo 08 oficial.
+- [ ] Reemplazar solo la ruta pública de El Jardín, sin alterar los demás mini-estudios.
+- [ ] Validar estructura, enlace público y legibilidad en escritorio y móvil.
+
+### Criterio de aceptación
+
+- La página no usa el tema visual del spa como identidad de Solvers. Comunica la lectura desde el branding Solvers Acid, muestra tres posibles fricciones concretas y presenta una única ruta de anfitriona digital; no contiene formulario ni agenda y el CTA solicita responder `RESERVAS` por el mismo chat de Instagram.
+
 ## BOSKO Guatapé — reservas por intención
 
 - [x] Verificar la propuesta pública, canales y oferta visible de BOSKO.

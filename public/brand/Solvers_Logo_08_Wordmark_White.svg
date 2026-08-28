@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="320" viewBox="0 0 1600 320">
+  <defs>
+    <mask id="segment-cuts" maskUnits="userSpaceOnUse" x="0" y="0" width="1600" height="320">
+      <rect width="1600" height="320" fill="#fff"/>
+      <rect x="122" y="108" width="44" height="18" fill="#000"/>
+      <rect x="280" y="171" width="80" height="17" fill="#000"/>
+      <rect x="487" y="129" width="72" height="18" fill="#000"/>
+      <rect x="711" y="184" width="94" height="17" fill="#000"/>
+      <rect x="927" y="112" width="81" height="18" fill="#000"/>
+      <rect x="1138" y="177" width="97" height="17" fill="#000"/>
+      <rect x="1360" y="137" width="95" height="18" fill="#000"/>
+    </mask>
+  </defs>
+  <text x="105" y="242" mask="url(#segment-cuts)"
+        fill="#f7f8f8" font-family="Arial Black, DejaVu Sans, sans-serif" font-size="188" font-weight="900" letter-spacing="19">SOLVERS</text>
+</svg>
