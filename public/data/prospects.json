@@ -44780,6 +44780,181 @@
         "https://bosko.com.co/reservar/",
         "https://www.instagram.com/bosko_guatape/"
       ]
+    },
+    {
+      "slug": "el-jardin-de-provenza-spa",
+      "company": "El Jardín de Provenza Spa",
+      "instagram": "@eljardindeprovenza",
+      "sector": "spa urbano y bienestar",
+      "city": "Medellín",
+      "tone": "sereno, cálido y sofisticado",
+      "theme": "clinic",
+      "brandMode": "standard",
+      "accent": "#B59A56",
+      "accentRgb": "181, 154, 86",
+      "secondary": "#78936B",
+      "secondaryRgb": "120, 147, 107",
+      "brandDark": "#162019",
+      "paper": "#F4F0E7",
+      "paperCard": "#FBF8F0",
+      "brandWash": "rgba(181, 154, 86, 0.13)",
+      "brandWash2": "rgba(120, 147, 107, 0.12)",
+      "heroImage": "https://content.pancake.vn/1/s1500x950/fwebp/76/63/39/f1/55e8f059fe676aac348ceabde3fff21223f563d63ec5d5c3c426adc2.jpg",
+      "status": "Sitio oficial e Instagram activos",
+      "loaderLabel": "Preparando ruta de reservas",
+      "loaderTitle": "Diagnóstico a la medida",
+      "loaderSubtitle": "Una lectura comercial de la experiencia, la reserva y el seguimiento para El Jardín de Provenza Spa.",
+      "loaderCue1": "Bienestar con contexto",
+      "loaderCue2": "Reserva guiada",
+      "bannerKicker": "Mini-estudio de reservas",
+      "bannerHook": "La relajación empieza antes de llegar: con una reserva fácil.",
+      "bannerSubhook": "El interés por un masaje, facial o plan de bienestar puede llegar a una asesora con fecha, personas y servicio ya claros.",
+      "bannerBadge1": "Experiencia de bienestar",
+      "bannerBadge2": "Cita con contexto",
+      "openNode1Label": "Servicio",
+      "openNode1Title": "Masaje, facial o maderoterapia",
+      "openNode2Label": "Reserva",
+      "openNode2Title": "Fecha, personas y horario",
+      "openNode3Label": "Seguimiento",
+      "openNode3Title": "Conversación lista para confirmar",
+      "openNodeMetric": "24/7",
+      "alertLabel": "Oportunidad comercial",
+      "brandPersonalityLabel": "Identidad",
+      "brandPersonality": "Bienestar cercano y cuidado",
+      "visualCueLabel": "Experiencia",
+      "visualCue": "Un refugio de descanso en Provenza",
+      "conversionFocusLabel": "Foco",
+      "conversionFocus": "Convertir intención en cita confirmable",
+      "leadProblem": "En un spa, el interés puede empezar por un tratamiento, una ocasión o un horario. Cuando esos datos llegan dispersos, la conversación necesita reconstruirse antes de confirmar una cita.",
+      "opportunity": "Una ruta breve puede guiar el primer contacto: servicio de interés, fecha, número de personas, horario y duda principal. Así, la asesora recibe contexto y conserva el control de disponibilidad, tarifas y confirmación.",
+      "proofLine": "Lectura pública del 28 de agosto de 2026: el sitio oficial de El Jardín de Provenza se presenta como spa en Provenza, Medellín; muestra masajes terapéuticos, Spa & Massage, maderoterapia y limpieza facial, junto con agendamiento de citas. Instagram visible: @eljardindeprovenza.",
+      "audience": "Parejas, residentes y visitantes de Medellín que buscan masajes, tratamientos faciales, maderoterapia o una experiencia de descanso en Provenza.",
+      "adAngle": "Del deseo de bienestar a una cita guiada: servicio, fecha y personas antes de WhatsApp",
+      "whatsappCta": "Quiero ordenar las reservas del spa",
+      "heroCopy": "El Jardín ya comunica una experiencia de bienestar. La oportunidad es que cada persona llegue a la conversación correcta sin empezar de cero.",
+      "brandWorldTitle": "De una pausa necesaria a una cita lista para confirmar",
+      "experienceIntro": "La marca puede conservar su tono de calma mientras el primer contacto ordena lo mínimo necesario para orientar una reserva con precisión.",
+      "scrollTitle": "El camino que puede simplificar una reserva",
+      "scrollIntro": "No se trata de reemplazar a la asesora: se trata de entregarle una conversación con el contexto que cambia la confirmación.",
+      "diagnosisTitle": "Tres puntos donde la reserva puede ganar claridad",
+      "botTitle": "Asesor de reservas para El Jardín de Provenza",
+      "botIntro": "Este demo recoge servicio, fecha, personas y horario ideal; las tarifas, cupos, condiciones y confirmación final siempre las valida el equipo del spa.",
+      "botAgentName": "Asesor El Jardín · demo",
+      "botAgentRole": "orienta la primera consulta de bienestar",
+      "botDemoTitle": "Una conversación que empieza mejor",
+      "botDemoBody": "El asistente clasifica la intención y deja la solicitud lista para el canal y la persona que el spa defina.",
+      "botTrainingTitle": "Con información vigente de la marca",
+      "botTrainingBody": "Servicios, duración, disponibilidad, políticas, precios, abonos y condiciones se responden únicamente desde la información que el equipo valide y actualice.",
+      "botPrompts": [
+        "Quiero un masaje terapéutico",
+        "Busco limpieza facial",
+        "Somos dos personas",
+        "Tengo fecha y horario",
+        "¿Qué puede medir?"
+      ],
+      "chatAnswers": [
+        {
+          "keywords": ["masaje", "masajes", "terapeutico", "terapéutico"],
+          "answer": "El asesor recoge objetivo de la visita, fecha, número de personas y horario ideal. Luego entrega la solicitud al canal que El Jardín defina para confirmar servicio, duración, disponibilidad y valor vigente."
+        },
+        {
+          "keywords": ["facial", "limpieza", "maderoterapia", "tratamiento"],
+          "answer": "Guía la primera intención sin dar recomendaciones clínicas: identifica el servicio de interés, recoge disponibilidad y lleva la conversación al equipo autorizado para orientar con información actualizada."
+        },
+        {
+          "keywords": ["dos", "pareja", "personas", "acompa"],
+          "answer": "Pregunta cuántas personas asistirían, fecha y franja horaria. Así la asesora recibe una solicitud preparada para validar la experiencia disponible y sus condiciones."
+        },
+        {
+          "keywords": ["fecha", "horario", "cita", "reserv"],
+          "answer": "Recoge fecha tentativa, horario y servicio antes de escalar. El spa conserva la confirmación final de cupos, tarifas, políticas y cualquier pago o abono."
+        },
+        {
+          "keywords": ["mide", "datos", "instagram", "pauta", "campana", "campaña"],
+          "answer": "Puede medir la fuente de la consulta, servicio de interés, fecha solicitada, personas, paso alcanzado, reserva iniciada, confirmación y seguimiento. Así separa atención de intención real."
+        }
+      ],
+      "diagnosisTiles": [
+        {
+          "label": "Fortaleza",
+          "title": "La experiencia ya tiene una identidad clara",
+          "body": "El sitio presenta el spa como un espacio de descanso y bienestar en Provenza, con una oferta visible de tratamientos y agendamiento."
+        },
+        {
+          "label": "Intención",
+          "title": "No todas las consultas empiezan por lo mismo",
+          "body": "Una persona puede buscar masaje terapéutico, limpieza facial, maderoterapia o una experiencia compartida; cada puerta necesita una pregunta inicial distinta."
+        },
+        {
+          "label": "Riesgo a validar",
+          "title": "El equipo recibe consultas sin datos decisivos",
+          "body": "Sin servicio, fecha, personas y horario, la conversación comercial puede necesitar varios mensajes antes de llegar a una cita confirmable."
+        },
+        {
+          "label": "Oportunidad",
+          "title": "Una asesora recibe una solicitud preparada",
+          "body": "La capa inicial reconoce la intención, recoge contexto y deja la confirmación, las condiciones y la atención humana en manos del spa."
+        }
+      ],
+      "experiencePath": [
+        "La persona descubre El Jardín por Instagram, web, pauta, recomendación u otro canal y expresa interés por una experiencia de bienestar",
+        "Elige o describe el servicio de interés y comparte fecha tentativa, número de personas, horario ideal y duda principal",
+        "Recibe el siguiente paso que El Jardín haya validado: información vigente, canal de reserva o atención de una asesora",
+        "El equipo recibe la intención con contexto para confirmar cupos, condiciones y seguimiento autorizado si la cita no se completa"
+      ],
+      "journey": [
+        {
+          "title": "La primera pregunta identifica la experiencia",
+          "body": "El sistema distingue entre masaje terapéutico, limpieza facial, maderoterapia u otra consulta que el spa haya definido."
+        },
+        {
+          "title": "La cita llega con datos que ahorran mensajes",
+          "body": "Servicio, fecha, personas, horario y duda principal se recogen antes de escalar la conversación al equipo."
+        },
+        {
+          "title": "El Jardín conserva la última palabra",
+          "body": "La marca confirma disponibilidad, duración, tarifa, políticas, abonos y reserva final con información vigente y canales autorizados."
+        },
+        {
+          "title": "El seguimiento cuida el interés sin invadir",
+          "body": "Si una solicitud no se completa, el equipo puede continuar con el servicio y fecha de interés como contexto, con consentimiento y mensajes aprobados."
+        }
+      ],
+      "findings": [
+        "El sitio oficial de El Jardín de Provenza lo presenta como un spa ubicado en Provenza, Medellín, orientado a descanso y bienestar.",
+        "La oferta pública visible incluye masajes terapéuticos, Spa & Massage, maderoterapia y limpieza facial, con llamadas a agendar una cita.",
+        "Una ruta inicial que diferencie servicio, fecha, personas y horario puede preparar la conversación sin reemplazar la confirmación humana del equipo."
+      ],
+      "siteIssues": [
+        "Una persona puede querer una experiencia distinta y no saber qué información debe compartir para iniciar la reserva.",
+        "Cuando servicio, fecha, personas y horario aparecen en mensajes separados, la asesora necesita reconstruir la solicitud antes de orientar la cita.",
+        "Sin registrar intención y etapa de reserva, es difícil identificar qué contenido o campaña trae solicitudes mejor preparadas."
+      ],
+      "losses": [
+        "Una cita potencial puede postergarse si la persona no encuentra una ruta rápida para explicar qué busca y cuándo quiere asistir.",
+        "El equipo puede repetir preguntas básicas antes de poder revisar disponibilidad o condiciones vigentes.",
+        "Una consulta con interés real puede enfriarse si no se conserva servicio, fecha y paso alcanzado para un seguimiento autorizado."
+      ],
+      "heatmapData": [
+        "Origen de cada consulta: Instagram, web, pauta, recomendación, búsqueda u otro canal aprobado.",
+        "Servicio de interés, fecha tentativa, personas, horario, motivo de visita y duda principal.",
+        "Solicitud preparada, conversación atendida, cita iniciada, cita confirmada y seguimiento completado, con reglas de datos y consentimiento definidos por El Jardín."
+      ],
+      "campaigns": [
+        "Contenido y anuncios por intención: masaje terapéutico, facial, maderoterapia o experiencia de bienestar, cada uno con una entrada que pida el dato clave para orientar la cita.",
+        "Ruta de captura que recoja servicio, fecha, personas y horario antes de mostrar o escalar el siguiente paso, usando solo información vigente aprobada por El Jardín.",
+        "Seguimiento responsable para solicitudes que iniciaron una ruta de reserva y no continuaron, con el servicio y la fecha de interés como contexto."
+      ],
+      "deliverables": [
+        "Ruta conversacional para distinguir servicio de interés y recoger fecha, personas, horario y duda principal.",
+        "Asesor inicial entrenado con servicios, disponibilidad, duración, tarifas, políticas, abonos y mensajes que El Jardín apruebe y mantenga vigentes.",
+        "Conexión a los canales y responsables de reserva que el spa defina, sin sustituir la confirmación final del equipo.",
+        "Tablero de conversión para medir fuente, intención, solicitud preparada, cita iniciada, cita confirmada y seguimiento."
+      ],
+      "sources": [
+        "https://www.eljardindeprovenza.com/",
+        "https://www.instagram.com/eljardindeprovenza/"
+      ]
     }
   ]
 }
