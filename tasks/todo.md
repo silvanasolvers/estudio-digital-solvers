@@ -4,12 +4,19 @@
 
 - [x] Identificar que la ruta publicada usa la plantilla histórica y no el formato corto vigente.
 - [x] Definir la corrección: tres dolores de cabeza específicos, una anfitriona digital y cierre por Instagram, usando Solvers Acid y el logo 08 oficial.
-- [ ] Reemplazar solo la ruta pública de El Jardín, sin alterar los demás mini-estudios.
-- [ ] Validar estructura, enlace público y legibilidad en escritorio y móvil.
+- [x] Reemplazar solo la ruta pública de El Jardín, sin alterar los demás mini-estudios.
+- [x] Validar estructura, enlace público y legibilidad en escritorio y móvil.
 
 ### Criterio de aceptación
 
 - La página no usa el tema visual del spa como identidad de Solvers. Comunica la lectura desde el branding Solvers Acid, muestra tres posibles fricciones concretas y presenta una única ruta de anfitriona digital; no contiene formulario ni agenda y el CTA solicita responder `RESERVAS` por el mismo chat de Instagram.
+
+### Revisión
+
+- Se entregó una plantilla dedicada solo para `/empresa/el-jardin-de-provenza-spa`; los otros 389 mini-estudios siguen usando la plantilla histórica sin cambios.
+- La nueva lectura usa Grafito, Musgo, Hueso, Lima y Coral con tipografías Archivo y JetBrains Mono servidas localmente, además de los ojos y wordmark del logo 08 oficial.
+- `npm run check`, `node --check server.js` y `git diff --check` pasaron antes de publicar. La publicación por GitHub quedó en `bf94823`.
+- Producción comprobada: la URL con `?v=bf94823` contiene el titular, las tres fricciones, una sola anfitriona y el CTA `RESPONDER: RESERVAS`. A 1440 px y 390 px no hubo desbordamiento horizontal; fuentes e imágenes oficiales cargaron correctamente.
 
 ## BOSKO Guatapé — reservas por intención
 
