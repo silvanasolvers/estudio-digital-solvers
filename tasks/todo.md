@@ -14,7 +14,7 @@
 
 - La lectura se limita a la señal verificable en el DM de Instagram: cuenta `@vitru.ok` verificada y posicionamiento `Dermatología Estética & LifeStyle`; no asume información adicional porque `vitru.ok` no resolvió como sitio web público durante la verificación.
 - Se publicó como una ruta independiente para no alterar los estudios históricos. La página incluye las tres fricciones potenciales, una única coordinadora digital, límites explícitos para no automatizar decisiones clínicas y el cierre por el mismo chat.
-- `npm run check`, `node --check server.js`, `git diff --check` y HTTP local pasaron. En producción, la ruta y los cuatro assets de marca respondieron HTTP 200; la evaluación móvil de 390 px confirmó 0 formularios y un ancho de documento de 375 px, sin desbordamiento horizontal.
+- `npm run check`, `node --check server.js`, `git diff --check` y HTTP local pasaron. La publicación final quedó en `abd8223`; en producción, la ruta y los cuatro assets de marca respondieron HTTP 200. La evaluación móvil de 390 px confirmó 0 formularios y un ancho de documento de 375 px, sin desbordamiento horizontal.
 
 ## El Jardín de Provenza Spa — corrección al estándar corto Solvers
 
