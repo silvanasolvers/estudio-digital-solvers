@@ -6,7 +6,8 @@ const root = path.join(__dirname, "public");
 const leadStorePath = path.join(__dirname, "data", "study-leads.jsonl");
 const port = Number(process.env.PORT || 3000);
 const routeFiles = new Map([
-  ["/empresa/el-jardin-de-provenza-spa", "el-jardin-de-provenza-spa.html"]
+  ["/empresa/el-jardin-de-provenza-spa", "el-jardin-de-provenza-spa.html"],
+  ["/empresa/vitru-dermatologia-estetica", "vitru-dermatologia-estetica.html"]
 ]);
 
 const types = {

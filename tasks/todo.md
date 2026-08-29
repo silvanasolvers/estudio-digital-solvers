@@ -1,5 +1,15 @@
 # Estudio Digital Solvers
 
+## VITRU — valoraciones con contexto (2026-08-29)
+
+- [x] Verificar lo visible en el DM y la cuenta pública: `@vitru.ok` está verificada y se presenta como VITRU · Dermatología Estética & LifeStyle.
+- [x] Construir una ruta corta con tres fricciones potenciales, una coordinadora digital y cierre por el mismo chat.
+- [ ] Verificar localmente, publicar y comprobar la URL pública antes de entregar el mensaje.
+
+### Criterio de aceptación
+
+- No inventar servicios, profesionales, ubicaciones, disponibilidad, tarifas, resultados ni información clínica. La pieza organiza únicamente el ingreso administrativo a una valoración, no diagnostica, recibe detalles clínicos sensibles ni recomienda tratamientos por chat. No hay formulario ni agenda; el CTA pide responder `VALORACIONES` por el mismo DM.
+
 ## El Jardín de Provenza Spa — corrección al estándar corto Solvers
 
 - [x] Identificar que la ruta publicada usa la plantilla histórica y no el formato corto vigente.
